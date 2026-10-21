@@ -2,7 +2,7 @@
 
 ## Bản chất
 - Chip giao diện não–máy nguyên mẫu của Viễn Tâm Lab, cấy sau tai phải của Khang. Bằng cách nào đó "đi theo" ý thức Khang sang thân xác Leon (cơ chế: chưa giải thích — bí ẩn).
-- Khang đặt tên "Bảy" ở ch1 (từ số hiệu K-**07**).
+- Khang gọi là "Bảy" — tiếng Trung **小七** (từ số hiệu K-**07**). Chip gọi MC là **用户**.
 
 ## Có thể làm
 - **Cơ sở dữ liệu tri thức ngoại tuyến** (bách khoa nén: khoa học, kỹ thuật, y học cơ bản, lịch sử…). **61% bị hỏng** khi khởi động. Các phân vùng tự phục hồi rất chậm khi Leon ngủ đủ và ăn đủ → nguồn "mở khoá" dần theo thời gian.

@@ -13,3 +13,9 @@
 2026-10-21 | plot | Ch5: bầy sói mắt đỏ "đang chạy trốn" thứ gì đó trong rừng (vết cào lạ) | Móc kết đợt test + bí ẩn dài hạn | ⏳ Chờ Tác giả
 2026-10-21 | dự án | Gemini dùng system instruction riêng của Tác giả; system-prompt v1 của Agent chuyển vào archive/ | Tránh hai bộ quy tắc văn phong xung đột | Tác giả
 2026-10-21 | dự án | Chạy test A/B/C (1 dòng / đơn giản / chi tiết) cho chương mở đầu | Đánh giá ảnh hưởng của prompt lên chất lượng | Tác giả
+2026-10-21 | dự án | Chính văn viết bằng tiếng Trung; prompt cho Gemini viết bằng tiếng Trung | Viết tiếng Việt AI bị kẹt giọng báo chí | Tác giả
+2026-10-21 | dự án | Giao việc theo "đoạn" (~2000 字), không chia chương | Yêu cầu của Tác giả | Tác giả
+2026-10-21 | dự án | Prompt không liệt kê điều cấm (vd. "không phải hệ thống game") — mô tả khẳng định | Câu phủ định mồi ngược model (bản B dùng 系统/宿主) | Tác giả
+2026-10-21 | dự án | Test vòng 1: B tự nhiên, C máy móc → prompt cân bằng (chốt sự thật + điểm đến, thả cách đi) | Xem reviews/test-B-C.md | Tác giả
+2026-10-21 | bible | Tên tiếng Trung: 陈明康 / 莱昂·瓦伦 / 小七 / 加雷斯 / 佩尔 / 黑石领 … (glossary.md) | Chốt để prompt và review nhất quán | ⏳ Chờ Tác giả
+2026-10-21 | bible | Lấy từ bản B: tên 小七; nghi ngờ của MC hướng về phủ bá tước | Tự nhiên hơn; bảo vệ bí mật Pell | ⏳ Chờ Tác giả

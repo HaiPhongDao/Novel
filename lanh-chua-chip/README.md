@@ -1,31 +1,31 @@
 # Lãnh Chúa Mang Chip (tên tạm)
 
-> Truyện thử nghiệm quy trình Agent ↔ Writer Gemini (xem `../AGENT.md`). Phạm vi test: **chương 1–5**.
+> Truyện thử nghiệm quy trình Agent ↔ Writer Gemini (xem `../AGENT.md`). Phạm vi test: **5 đoạn đầu**.
 
 **Logline:** Một kỹ sư hiện đại xuyên vào thân xác cậu con thứ bị đày ra lãnh địa biên giới đổ nát, chỉ mang theo một con chip thần kinh nguyên mẫu đã hỏng 61% dữ liệu — và có 87 ngày trước khi mùa đông giết sạch lãnh dân.
 
 ## Trạng thái
 
-| Chương | Brief | Bản thảo (Gemini) | Review | Chốt |
+Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia chương sau.
+
+| Đoạn | Prompt | Bản thảo (Gemini) | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ | ⏳ | — | — |
-| 002 | ✅ | ⏳ | — | — |
-| 003 | ✅ | ⏳ | — | — |
-| 004 | ✅ | ⏳ | — | — |
-| 005 | ✅ | ⏳ | — | — |
+| test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
+| 001 | ✅ bản cân bằng | ⏳ | — | — |
+| 002–005 | ⏳ (dàn ý có, prompt viết sau khi chốt mẫu ở đoạn 001) | — | — | — |
 
-## Cách chạy vòng test
+## Cách chạy
 
-0. **Đang làm:** test so sánh 3 kiểu prompt — xem `gemini/test-prompts.md`.
-1. Gemini dùng system instruction riêng của Tác giả (không dán thêm hướng dẫn văn phong của Agent).
-2. Dán `briefs/ch-001.md` → nhận chương → lưu vào `chapters/ch-001.md`.
-3. Gọi Agent review → Agent ghi `reviews/ch-001.md` và (nếu cần) ghi chú sửa để dán lại cho Gemini.
-4. Chốt chương → Agent cập nhật bible, threads, log. Lặp lại với ch-002 → ch-005.
+1. Gemini dùng system instruction 文风 riêng của Tác giả (không dán thêm hướng dẫn văn phong của Agent).
+2. Dán `briefs/doan-XXX.md` vào Gemini → lưu kết quả vào `chapters/doan-XXX.md` (hoặc dán vào chat cho Agent).
+3. Agent review → ghi `reviews/doan-XXX.md` (+ ghi chú sửa tiếng Trung nếu cần).
+4. Chốt → Agent cập nhật bible, threads, log.
 
 ## Mục lục
 
 - `bible/` — Story Bible (nguồn sự thật duy nhất)
 - `plot/` — Arc, dàn ý, tuyến truyện mở
-- `briefs/` — Brief giao Gemini
-- `gemini/test-prompts.md` — 3 prompt test A/B/C + bảng chấm
+- `briefs/` — Prompt (tiếng Trung) giao Gemini; bản brief tiếng Việt v1 trong `archive/briefs-v1/`
+- `gemini/test-prompts.md` — 3 prompt test vòng 1 + bảng chấm
+- `reviews/test-B-C.md` — kết quả test vòng 1 và nguyên tắc prompt rút ra
 - `log.md` — Nhật ký quyết định
