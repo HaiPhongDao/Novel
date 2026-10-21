@@ -11,7 +11,7 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | Đoạn | Prompt | Bản thảo (Gemini) | Review | Chốt |
 |---|---|---|---|---|
 | test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
-| 001 | ✅ bản cân bằng | ⏳ | — | — |
+| 001 | ✅ bản cân bằng (tiếng Việt) | ⏳ | — | — |
 | 002–005 | ⏳ (dàn ý có, prompt viết sau khi chốt mẫu ở đoạn 001) | — | — | — |
 
 ## Cách chạy
@@ -25,7 +25,7 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 
 - `bible/` — Story Bible (nguồn sự thật duy nhất)
 - `plot/` — Arc, dàn ý, tuyến truyện mở
-- `briefs/` — Prompt (tiếng Trung) giao Gemini; bản brief tiếng Việt v1 trong `archive/briefs-v1/`
+- `briefs/` — Prompt (tiếng Việt) giao Gemini; bản brief tiếng Việt v1 trong `archive/briefs-v1/`
 - `gemini/test-prompts.md` — 3 prompt test vòng 1 + bảng chấm
 - `reviews/test-B-C.md` — kết quả test vòng 1 và nguyên tắc prompt rút ra
 - `log.md` — Nhật ký quyết định

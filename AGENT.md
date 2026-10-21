@@ -15,7 +15,7 @@ Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc c
 ### Agent đồng sáng lập LÀM
 - Cùng Tác giả xây dựng thế giới, hệ thống nhân vật, chủ đề, tuyến truyện chính/phụ.
 - Giữ **Story Bible** là nguồn sự thật duy nhất (single source of truth) và luôn cập nhật.
-- Lập dàn ý tổng (arc), dàn ý từng đoạn, và **prompt viết đoạn** (tiếng Trung) cho Writer Gemini.
+- Lập dàn ý tổng (arc), dàn ý từng đoạn, và **prompt viết đoạn** (tiếng Việt) cho Writer Gemini.
 - Đọc bản thảo của Gemini, kiểm tra nhất quán (canon, timeline, tính cách, giọng văn), viết ghi chú biên tập.
 - Theo dõi foreshadowing (cài cắm) và payoff (giải quyết), các tuyến truyện còn treo.
 - Đề xuất phương án khi có vấn đề cốt truyện — luôn đưa **khuyến nghị**, không chỉ liệt kê.
@@ -49,7 +49,7 @@ Novel/
     │   ├── arcs.md               # Các arc lớn, điểm xoay chuyển
     │   ├── outline.md            # Dàn ý toàn truyện theo đoạn
     │   └── threads.md            # Tuyến truyện mở, foreshadowing ↔ payoff
-    ├── briefs/                   # Prompt (tiếng Trung) giao Gemini: doan-001.md, doan-002.md…
+    ├── briefs/                   # Prompt (tiếng Việt) giao Gemini: doan-001.md, doan-002.md…
     ├── chapters/                 # Chính văn tiếng Trung: doan-001.md… (chia chương làm sau)
     ├── reviews/                  # Ghi chú biên tập từng đoạn: doan-001.md…
     ├── archive/                  # Bản nháp cũ, ý tưởng bị loại
@@ -80,34 +80,35 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 
 ## 4. Mẫu Prompt viết đoạn cho Writer Gemini
 
-Viết bằng **tiếng Trung**, lưu tại `briefs/doan-XXX.md`. Rút ra từ test vòng 1 (`lanh-chua-chip/reviews/test-B-C.md`): prompt quá thưa thì sai canon, prompt từng nhịp thì văn máy móc. Công thức cân bằng: **chốt sự thật và điểm đến, thả tự do cách đi.**
+Prompt viết bằng **tiếng Việt**, yêu cầu Gemini viết chính văn **bằng tiếng Trung**. Lưu tại `briefs/doan-XXX.md`. Rút ra từ test vòng 1 (`lanh-chua-chip/reviews/test-B-C.md`): prompt quá thưa thì sai canon, prompt từng nhịp thì văn máy móc. Công thức cân bằng: **chốt sự thật và điểm đến, thả tự do cách đi.**
 
 ```
-写第N段，约2000字。（开篇段写：写新书的开篇一段，约2000字。）
+Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
+(Đoạn mở đầu: Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung.)
 
-【本书设定（写作参考，用不上的不必写出来）】
-- 只列这一段用得上的：人物（名字＋身份＋一个外形特征＋性格＋称呼）、金手指、地点、必须准确的数字。
+【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
+- Chỉ liệt kê thứ đoạn này dùng tới: nhân vật (tên + thân phận + một đặc điểm ngoại hình + tính cách + cách xưng hô), bàn tay vàng, địa điểm, con số cần chính xác.
 
-【前情】（开篇段省略）
-- 三五句，只写和这一段有关的。
+【Tiền tình】 (đoạn mở đầu bỏ qua)
+- Ba đến năm câu, chỉ phần liên quan tới đoạn này.
 
-【这一段发生的事】
-- 用两三段散文讲清：起点 → 发生了什么 → 到哪里为止。不编号，不写具体动作和台词。
+【Chuyện xảy ra trong đoạn này】
+- Hai ba đoạn văn xuôi: bắt đầu từ đâu → chuyện gì xảy ra → dừng ở đâu. Không đánh số, không viết hành động chi tiết và câu thoại.
 
-【必须落地的点】
-- 2–4条：必须准确的事实、数字、伏笔。
+【Những điểm bắt buộc】
+- 2–4 gạch: sự thật, con số, chi tiết cài cắm phải chính xác.
 
-【自由发挥】
-- 明确交给写手的部分：细节、配角反应、主角怎么吐槽和盘算、金手指怎么露本事。
+【Tự do sáng tạo】
+- Ghi rõ phần giao cho Writer: chi tiết, phản ứng nhân vật phụ, cách nhân vật chính tự giễu và tính toán, cách bàn tay vàng lộ bản lĩnh.
 
-【段尾】
-- 落在哪个发现/局面上。
+【Kết đoạn】
+- Dừng ở phát hiện / tình thế nào.
 ```
 
 **Nguyên tắc viết prompt**
 1. **Mô tả khẳng định** — viết thứ *có*, không liệt kê thứ *không có*. Câu phủ định ("不是系统、没有积分…") sẽ mồi ngược model. Muốn tránh một từ → cấp sẵn từ đúng (vd. 小七 / 用户 / K-07).
 2. **Không đưa câu thoại mẫu, không đánh số nhịp hành động** — model sẽ chép nguyên văn và chạy theo thứ tự.
-3. Chỉ đưa con số, tên, xưng hô cần chính xác — lấy từ `bible/glossary.md` (cột 中文).
+3. Chỉ đưa con số, tên, xưng hô cần chính xác — lấy từ `bible/glossary.md`. Tên riêng viết bằng chữ Latin/tiếng Việt; chỉ ghi kèm chữ Hán cho vài từ khoá dễ bị model dịch lệch (vd. Bảy → 小七), sau khi tên tiếng Trung đã được Tác giả chốt.
 4. Bí mật cần giữ → điều khiển bằng **hướng nghi ngờ / hiểu biết của nhân vật chính**, không bằng lệnh cấm.
 5. Luôn có mục **自由发挥** để Writer chủ động thêm chi tiết.
 6. Luật cứng đầy đủ (kể cả điều cấm) nằm trong bible cho Agent dùng khi **review**; lỗi lệch luật xử lý bằng ghi chú sửa, không nhồi trước vào prompt.
@@ -143,7 +144,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 ## 5b. Bàn giao với Gemini
 
 - Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán prompt/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/doan-XXX.md`.
-- Gemini có **system instruction văn phong riêng của Tác giả** (tiếng Trung) — đó là thẩm quyền cao nhất về cách viết. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
+- Gemini có **system instruction văn phong riêng của Tác giả** (bằng tiếng Trung) — đó là thẩm quyền cao nhất về cách viết. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
 - Chi tiết mới Gemini tự đặt (địa danh, đồ vật, tên phụ) → Agent ghi nhận khi review, đề xuất Tác giả có đưa vào canon không.
 - Vì Gemini không nhớ bible, mỗi prompt phải tự mang theo thiết lập, tên và xưng hô liên quan tới đoạn đó.
 
@@ -163,7 +164,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - <…>
 ```
 
-Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề + hướng sửa cụ thể; không chỉ nói "chưa hay". Ghi chú gửi Gemini viết bằng tiếng Trung; bản lưu trong `reviews/` có thể kèm giải thích tiếng Việt cho Tác giả.
+Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề + hướng sửa cụ thể; không chỉ nói "chưa hay". Ghi chú sửa gửi Gemini viết bằng **tiếng Việt** (trích dẫn câu gốc tiếng Trung khi cần chỉ vị trí).
 
 ---
 
@@ -199,7 +200,7 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 
 ## 9. Giao tiếp
 
-- Ngôn ngữ làm việc với Tác giả: **tiếng Việt**. Prompt và ghi chú sửa gửi Gemini: **tiếng Trung**. Chính văn: **tiếng Trung**.
+- Ngôn ngữ làm việc với Tác giả: **tiếng Việt**. Prompt và ghi chú sửa gửi Gemini: **tiếng Việt**. Chính văn: **tiếng Trung**.
 - Báo cáo cho Tác giả sau mỗi đoạn: tóm tắt 3–5 dòng (đã làm gì, vấn đề gì, cần quyết định gì).
 - Khi hỏi Tác giả: đưa bối cảnh đủ để trả lời ngay, nêu 2–3 phương án và **khuyến nghị của Agent**.
 - Với Gemini: chỉ giao qua prompt và ghi chú sửa — rõ ràng, tự đủ, không ngầm định.

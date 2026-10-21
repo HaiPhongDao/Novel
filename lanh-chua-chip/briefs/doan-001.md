@@ -1,31 +1,31 @@
-写新书的开篇一段，约2000字。
+Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung.
 
-【本书设定（写作参考，用不上的不必写出来）】
-- 主角陈明康，29岁，越南人，农学工程师，在远心实验室做农田灌溉传感器。为了一笔能替母亲还清债务的奖金，他报名测试脑机接口原型芯片K-07，测试时电流过载，醒来已经在异世界。
-- 新身体：莱昂·瓦伦，18岁，瓦伦伯爵的第三子，庶出，母亲早亡。名义上被父亲赐封到北部边境的黑石领，实为流放。一路上病恹恹的，到领地后高烧三天，原主没撑过去。高瘦，暗棕色头发，灰眼睛，虎口有练剑留下的薄茧，身体虚得站不稳。
-- 叙述中，穿越前的他叫陈明康，醒来之后称莱昂。
-- 世界：奥德马克王国，中世纪西幻，魔法极其罕见，平民一辈子见不到。
-- 芯片K-07，莱昂叫它“小七”：
-  · 只在莱昂脑子里说话，语气平板、精确，像念实验报告，常常因为太直白而好笑。称莱昂为“用户”。
-  · 带着离线知识库，重启后损坏了61%，用户吃饱睡足时会慢慢修复。
-  · 莱昂看到、听到、闻到、尝到、摸到的东西，它都能分析；能计算和估算，估算时报置信度。
-  · 用得多了，莱昂会头疼、发饿，严重时流鼻血。
-- 加雷斯：58岁的老骑士，原是莱昂母亲的骑士，灰白短须，左臂旧伤不太灵活，单手用剑极稳。忠诚，话少，守规矩。称莱昂“少爷”。
-- 佩尔：17岁的男仆，从瓦伦城一路跟来，瘦，手脚麻利，爱笑，殷勤得有点过分。自称“小人”，称莱昂“少爷”。
+【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
+- Nhân vật chính Trần Minh Khang, 29 tuổi, người Việt, kỹ sư nông nghiệp, làm cảm biến tưới tiêu ở Viễn Tâm Lab. Để lấy khoản tiền thưởng đủ trả hết nợ cho mẹ, anh đăng ký thử nghiệm chip giao diện não nguyên mẫu K-07; trong buổi thử nghiệm dòng điện quá tải, tỉnh lại đã ở thế giới khác.
+- Thân xác mới: Leon Varen, 18 tuổi, con trai thứ ba của Bá tước Varen, con vợ lẽ, mẹ mất sớm. Trên danh nghĩa được cha ban lãnh địa Hắc Thạch ở biên giới phía bắc, thực chất là bị đày. Suốt đường đi ốm o, tới lãnh địa thì sốt cao ba ngày, Leon gốc không qua khỏi. Cao gầy, tóc nâu sẫm, mắt xám, hổ khẩu có chai mỏng do tập kiếm, người yếu tới mức đứng không vững.
+- Lời kể: trước khi xuyên gọi là Trần Minh Khang, sau khi tỉnh dậy gọi là Leon.
+- Thế giới: vương quốc Aldermark, trung cổ phương Tây, phép thuật cực hiếm, dân thường cả đời không thấy.
+- Chip K-07, Leon gọi nó là Bảy (小七):
+  · Chỉ nói chuyện trong đầu Leon, giọng đều đều, chính xác, như đọc báo cáo thí nghiệm, hay buồn cười vì quá thẳng. Gọi Leon là "người dùng".
+  · Mang theo kho tri thức ngoại tuyến, khởi động lại thì hỏng 61%; khi người dùng ăn no ngủ đủ sẽ phục hồi dần.
+  · Những gì Leon nhìn, nghe, ngửi, nếm, sờ, nó đều phân tích được; tính toán và ước lượng được, ước lượng thì kèm độ tin cậy.
+  · Dùng nhiều thì Leon đau đầu, đói, nặng thì chảy máu cam.
+- Gareth: hiệp sĩ già 58 tuổi, vốn là hiệp sĩ của mẹ Leon, râu ngắn bạc, tay trái có thương cũ không linh hoạt, dùng kiếm một tay cực vững. Trung thành, ít nói, giữ phép tắc. Gọi Leon là "thiếu gia".
+- Pell: người hầu 17 tuổi, theo từ thành Varen, gầy, nhanh nhẹn, hay cười, ân cần hơi quá mức. Tự xưng "tiểu nhân", gọi Leon là "thiếu gia".
 
-【这一段发生的事】
-陈明康在黑石领破败的石头庄园里醒来，成了莱昂。K-07跟着他过来了，重启后坏了一大半。原主的记忆一片一片往外冒，加上加雷斯的汇报，莱昂摸清了自己的处境：一个被家族扔掉的庶子，一座塌了半边屋顶的庄园，山下一百四十来口快要饿死的领民，卷走账册和一半口粮跑路的老管家，还有越来越近的冬天。
-佩尔端来一碗热草药茶，莱昂一阵反胃，让他放着没喝——这只是顺手带过的一件日常小事。
-等屋里只剩他一个人，莱昂让小七分析这具身体，得出结论：原主过去三到六周一直处在慢性中毒状态。小七判断得出时间范围，判断不出具体是哪种毒，置信度78%。
-原主不是病死的，是被人毒死的。莱昂的怀疑落在瓦伦城、伯爵府那边。
+【Chuyện xảy ra trong đoạn này】
+Trần Minh Khang tỉnh dậy trong trang viên đá đổ nát của lãnh địa Hắc Thạch, trở thành Leon. K-07 đi theo anh sang đây, khởi động lại thì hỏng mất một nửa hơn. Ký ức của Leon gốc trồi lên từng mảnh, cộng với lời báo cáo của Gareth, Leon nắm được tình cảnh của mình: một đứa con thứ bị gia tộc vứt bỏ, một trang viên sập nửa mái, dưới chân đồi hơn trăm bốn mươi miệng ăn sắp chết đói, lão quản gia cuốn sổ sách và một nửa lương thực bỏ trốn, và mùa đông mỗi ngày một gần.
+Pell bưng tới một bát trà thảo mộc nóng, Leon buồn nôn, bảo để đó không uống — đây chỉ là một chuyện vặt hằng ngày lướt qua.
+Khi trong phòng chỉ còn một mình, Leon bảo Bảy phân tích cơ thể này và ra kết luận: ba đến sáu tuần qua Leon gốc luôn ở trong tình trạng trúng độc mãn tính. Bảy xác định được khoảng thời gian, nhưng không xác định được là loại độc gì, độ tin cậy 78%.
+Leon gốc không chết vì bệnh, mà bị người ta đầu độc chết. Nghi ngờ của Leon hướng về thành Varen, về phủ bá tước.
 
-【必须落地的点】
-- 小七重启：知识库损坏61%；脑波和用户对得上，身体对不上。
-- 加雷斯察觉少爷醒来后不太一样，可以短切进他心里，他自己找了个理由说服了自己。
-- 中毒的判断，由莱昂身上的具体感受加上小七的分析得出。
+【Những điểm bắt buộc】
+- Bảy khởi động lại: kho tri thức hỏng 61%; sóng não khớp với người dùng, nhưng cơ thể không khớp.
+- Gareth nhận ra thiếu gia tỉnh dậy có gì đó khác, có thể cắt ngắn vào đầu ông, ông tự tìm một lý do để thuyết phục bản thân.
+- Kết luận trúng độc đến từ cảm giác cụ thể trên cơ thể Leon cộng với phân tích của Bảy.
 
-【自由发挥】
-小七第一次怎么露本事、加雷斯带来什么吃的用的、庄园和领地具体破成什么样、莱昂怎么吐槽怎么盘算——都交给你，把这块破地方写得具体、可算账。
+【Tự do sáng tạo】
+Bảy lần đầu lộ bản lĩnh thế nào, Gareth mang tới đồ ăn đồ dùng gì, trang viên và lãnh địa nát cụ thể ra sao, Leon tự giễu và tính toán thế nào — giao hết cho bạn, viết mảnh đất nát này sao cho cụ thể, tính được bằng con số.
 
-【段尾】
-落在“原主是被毒死的”这个发现上，接着是莱昂的决定：既然活过来了，就以莱昂·瓦伦的身份活下去，把这笔账算清楚。
+【Kết đoạn】
+Dừng ở phát hiện "Leon gốc bị đầu độc chết", tiếp theo là quyết định của Leon: đã sống lại thì sống tiếp với thân phận Leon Varen, và tính cho rõ món nợ này.

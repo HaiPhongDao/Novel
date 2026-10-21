@@ -2,7 +2,7 @@
 
 ## Chi tiết (phạm vi test: đoạn 1–5)
 
-> Đơn vị là **đoạn** (~2000 字). Prompt tiếng Trung ở `briefs/doan-XXX.md`.
+> Đơn vị là **đoạn** (~2000 字). Prompt (tiếng Việt) ở `briefs/doan-XXX.md`; chính văn tiếng Trung.
 
 ### Đoạn 1 — Tỉnh dậy (Ngày 1)
 Khang tỉnh dậy trong trang viên đổ nát, chip K-07 khởi động với 61% dữ liệu hỏng. Nhận ra mình ở trong thân xác Leon Varen. Gặp Gareth và Pell, diễn vụng. Một mình, cùng Bảy phát hiện cơ thể bị đầu độc. Quyết định sống như Leon.

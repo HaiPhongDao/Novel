@@ -41,7 +41,7 @@ Cả hai: Gemini + system instruction 文风, prompt tiếng Việt, đầu ra t
 5. Nghi ngờ hướng về **phủ bá tước** (thay vì người cạnh Leon) → đánh lạc hướng tốt, bảo vệ bí mật Pell.
 
 ## Nguyên tắc prompt rút ra (đã ghi vào AGENT.md)
-1. Viết prompt **bằng tiếng Trung**; tên riêng, xưng hô cho sẵn bằng tiếng Trung.
+1. ~~Viết prompt bằng tiếng Trung~~ → Tác giả quyết định: **prompt bằng tiếng Việt**, chính văn tiếng Trung. Tên riêng dùng Latin/tiếng Việt, chốt tên tiếng Trung sau.
 2. **Mô tả khẳng định**, không liệt kê điều cấm. Muốn tránh từ nào thì **cấp sẵn từ thay thế** (小七 / 用户 / K-07).
 3. Giao **theo đoạn** (~2000 字), không chia chương.
 4. Cấu trúc: thiết lập (tham khảo) → chuyện xảy ra trong đoạn (kể bằng văn xuôi, không đánh số) → 2–4 điểm bắt buộc → vùng tự do → kết đoạn.
