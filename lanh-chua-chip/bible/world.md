@@ -18,7 +18,7 @@
 - Vùng biên giới bắc của lãnh thổ nhà Varen, giáp rừng Sương Mù. Đất bạc màu, nhiều đá đen.
 - **Trang viên:** nhà đá đen hai tầng, nửa mái phía đông sập, tường rào đổ nhiều đoạn.
 - **Làng Hắc Thạch:** dưới chân đồi trang viên, khoảng 30 nóc nhà tranh. **143 người** (chip đếm ở ch2). Một giếng chung giữa làng, một con suối nhỏ phía tây.
-- **"Đá nguyền":** đá đen nằm lộ thiên ở sườn đồi phía đông. Nhiều năm trước một căn nhà dùng đá này kê bếp và cháy rụi → dân coi là đá nguyền, cấm trẻ con chạm vào. **Sự thật (chưa lộ trước cuối ch3):** đó là than đá.
+- **"Đá nguyền":** đá đen nằm lộ thiên ở sườn đồi phía đông. Nhiều năm trước một căn nhà dùng đá này kê bếp và cháy rụi → dân coi là đá nguyền, cấm trẻ con chạm vào. Căn nhà đó là nhà **em trai Hob** — em trai và em dâu ông chết trong đám cháy (lộ ở ch4). **Sự thật (chưa lộ trước cuối ch3):** đó là than đá.
 - Lãnh chúa trước đều bỏ đi hoặc chết; quản gia cũ bỏ trốn mang theo sổ sách và một phần lương thực.
 - **Mùa đông:** tuyết đầu mùa thường rơi khoảng 3 tháng sau trăng gặt. Ở ch2, còn **~87 ngày**. Mùa đông ở đây khắc nghiệt, năm nào cũng có người chết rét.
 

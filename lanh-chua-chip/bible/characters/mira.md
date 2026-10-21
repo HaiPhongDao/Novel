@@ -1,6 +1,6 @@
 # Mira — Con gái thợ săn
 
-- 16 tuổi, tóc đỏ sẫm buộc gọn, da rám nắng, nhanh nhẹn. Con gái thợ săn **Bram** (chưa xuất hiện ở ch1–3, chỉ được nhắc).
+- 16 tuổi, tóc đỏ sẫm buộc gọn, da rám nắng, nhanh nhẹn. Con gái thợ săn **Bram** (xem `bram.md`; xuất hiện ở ch5).
 - Mẹ mất. Chăm em trai **Tobi** (7 tuổi).
 - Thẳng tính, gắt, không sợ quý tộc nhưng biết giữ phép. Tinh mắt, biết đọc dấu vết thú, biết rừng.
 - Xưng "tôi", gọi "ngài" (giọng hơi gắt lúc đầu).

@@ -6,7 +6,10 @@
 | T02 | Pell mang trà thảo mộc, Leon không uống (lướt qua) | ch1 | ch8–10 | Kế hoạch |
 | T03 | Đá nguyền = than đá | ch2 (lấy mẫu) | ch3 cuối (xác nhận), ch4 (dùng) | Kế hoạch |
 | T04 | Lương đủ ~41 ngày / mùa đông còn ~87 ngày | ch2 | ch7, ch10 | Kế hoạch |
-| T05 | Bram (cha Mira) là thợ săn giỏi nhất làng, thường vào rừng nhiều ngày | ch2 (nhắc) | ch5 | Kế hoạch |
+| T05 | Bram (cha Mira) đi săn quá hạn | ch2 (nhắc), ch4 (Mira cầu cứu) | ch5 | Kế hoạch |
+| T09 | Bầy sói mắt đỏ đông bất thường, dạt về phía làng | ch5 | ch9–10 | Kế hoạch |
+| T10 | Vết cào lạ trên xác sói + "Chúng đang chạy trốn" — thứ gì trong rừng? | ch5 | arc 2+ | Để sau |
+| T11 | Than đá: quy tắc thông gió, sự cố nhà Dunn | ch3 (Bảy nhắc), ch4 | xuyên suốt | Kế hoạch |
 | T06 | Bảy không phân tích được phép thuật | (chưa cài) | arc 2+ | Để sau |
 | T07 | Chip theo Khang sang thế giới này bằng cách nào? | ch1 (câu hỏi) | dài hạn | Để sau |
 | T08 | Phân vùng dữ liệu hỏng phục hồi khi Leon ngủ/ăn đủ | ch1 (Bảy nói) | xuyên suốt | Kế hoạch |
