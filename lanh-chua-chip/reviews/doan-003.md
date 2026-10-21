@@ -32,6 +32,3 @@
 - Nhà Mira: nhà gỗ ở cuối làng, chắc chắn hơn các nhà khác.
 - Làng "连铁锅都不普及".
 - Gareth đã rút kiếm trước dân làng.
-
-## Agent đã sửa cấp chữ (AGENT.md mục 5d) — 2026-10-21
-- 系统扫描→小七扫描.
