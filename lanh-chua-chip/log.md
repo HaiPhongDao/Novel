@@ -11,3 +11,5 @@
 2026-10-21 | dự án | Phạm vi test mở rộng lên 5 chương đầu | Yêu cầu của Tác giả | Tác giả
 2026-10-21 | plot | Ch4: em trai Hob chết trong vụ cháy "đá nguyền"; sự cố ngộ độc khí than nhà Dunn (không ai chết) | Cho Hob động cơ cá nhân và lý do đổi ý thuyết phục | ⏳ Chờ Tác giả
 2026-10-21 | plot | Ch5: bầy sói mắt đỏ "đang chạy trốn" thứ gì đó trong rừng (vết cào lạ) | Móc kết đợt test + bí ẩn dài hạn | ⏳ Chờ Tác giả
+2026-10-21 | dự án | Gemini dùng system instruction riêng của Tác giả; system-prompt v1 của Agent chuyển vào archive/ | Tránh hai bộ quy tắc văn phong xung đột | Tác giả
+2026-10-21 | dự án | Chạy test A/B/C (1 dòng / đơn giản / chi tiết) cho chương mở đầu | Đánh giá ảnh hưởng của prompt lên chất lượng | Tác giả

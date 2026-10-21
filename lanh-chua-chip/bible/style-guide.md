@@ -1,5 +1,8 @@
 # Style Guide
 
+> **Văn phong** (cách đoạn, nhịp, giọng, tự kiểm) do **system instruction riêng của Writer Gemini** (文风 · 写手系统指令) quyết định — đó là tài liệu có thẩm quyền cao nhất về cách viết. File này chỉ giữ các quy ước **riêng của truyện** (tên gọi, xưng hô, cách trình bày chip). Mục nào bên dưới mâu thuẫn với system instruction thì theo system instruction, trừ phần chip (system instruction giao cho thiết lập kim thủ chỉ của truyện quyết định).
+> ⚠️ Các mục *Ngôi kể*, *Trình bày lời Chip*, *Định dạng file* dưới đây là bản v1, sẽ chỉnh sau đợt test A/B/C (`gemini/test-prompts.md`).
+
 ## Ngôi kể & thì
 - **Ngôi thứ ba hạn chế**, bám sát nhân vật chính. Không nhảy vào đầu nhân vật khác.
 - Kể ở quá khứ. Độc thoại nội tâm in nghiêng, xưng "mình".

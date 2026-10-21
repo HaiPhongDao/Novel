@@ -37,7 +37,7 @@ Novel/
 ├── AGENT.md                  # File này (dùng chung)
 └── <ten-truyen>/
     ├── README.md                 # Tóm tắt + bảng trạng thái chương
-    ├── gemini/system-prompt.md   # Hướng dẫn cố định dán vào Gemini
+    ├── gemini/                  # Prompt giao cho Gemini (test, mẫu)
     ├── bible/                    # Story Bible — nguồn sự thật duy nhất
     │   ├── overview.md           # Logline, premise, thể loại, chủ đề, tông giọng, đối tượng độc giả
     │   ├── world.md              # Bối cảnh, địa danh, luật thế giới, hệ thống (phép thuật/công nghệ/xã hội)
@@ -147,9 +147,10 @@ Ghi kết quả vào `reviews/ch-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ Cần
 
 ## 5b. Bàn giao với Gemini
 
-- Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán `gemini/system-prompt.md` (một lần) + brief/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/ch-XXX.md`.
+- Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán brief/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/ch-XXX.md`.
+- Gemini có **system instruction văn phong riêng của Tác giả** — đó là thẩm quyền cao nhất về cách viết. Brief của Agent chỉ quy định **nội dung** (nhịp cảnh, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
 - Bản thảo của Gemini kết thúc bằng mục "Ghi chú của Writer" — Agent đọc mục này để cập nhật glossary/bible và quyết định có nhận ý tưởng mới hay không.
-- Khi Agent cập nhật canon, nếu thay đổi ảnh hưởng tới luật cứng hay xưng hô → cập nhật luôn `gemini/system-prompt.md`.
+- Vì Gemini không nhớ bible, mỗi brief phải tự mang theo luật cứng và xưng hô liên quan tới chương đó.
 
 ## 6. Mẫu Ghi chú sửa gửi Gemini
 
