@@ -18,11 +18,18 @@
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là kẻ bỏ độc vào trà thảo mộc theo lệnh một người ở thành Varen. Leon đã biết và giả vờ không biết, giữ Pell lại để lần ra kẻ đứng sau; Pell tin rằng Leon vẫn uống trà mỗi ngày.
 - **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy đét, lưng còng, mắt sâu và sắc. Lễ độ ngoài mặt, lạnh và đề phòng; tin rằng lãnh chúa mới cũng sẽ bỏ đi như những người trước. Lo nhất là giữ củi, giữ lương. Gọi Leon "领主大人".
 
+- **Mira** — 16 tuổi, con gái thợ săn, tóc đỏ nâu buộc gọn, da rám nắng màu đồng, nhanh nhẹn. Mẹ mất, một mình chăm em. Thẳng tính, nói gắt, không quỳ lạy quý tộc. Gọi Leon "领主大人" giọng không mấy kính nể. Ở nhà gỗ cuối làng, chắc hơn các nhà khác.
+- **Tobi** — em trai Mira, 7–8 tuổi, mắc 秋季病 nặng nhất làng.
+- **Bram** — cha Mira, thợ săn giỏi nhất làng, đang ở 迷雾森林 (chỉ được nhắc).
+
 **Lãnh địa 黑石领**
 - 领主府: nhà đá đen hai tầng lưng chừng đồi, nửa mái phía đông sập lộ xà gỗ cháy đen, tường rào đổ nhiều đoạn.
 - Làng dưới chân đồi: vài chục nóc nhà tranh, dân là 农奴, sợ và đề phòng lãnh chúa. Một giếng chung giữa làng. Rừng Sương Mù ở xa phía bắc.
 - 被诅咒的石头: đá đen lộ ra ở sườn đồi phía đông, giòn, nhẹ hơn đá granite. Nhiều năm trước lão Jim (老吉姆) lấy về kê bếp, đêm đó cháy rụi cả nhà; từ đó không ai dám chạm.
 - Lịch: tuyết đầu mùa rơi khoảng ba tháng sau 收获之月.
+- **秋季病**: tiêu chảy, sốt mỗi độ thu; năm nào cũng có người già, trẻ nhỏ chết. Thực chất do nước giếng: làng nằm trên sườn dốc, dân phóng uế và chất phân gia súc sau nhà, mưa thu cuốn tất cả xuống giếng ở chỗ trũng thấp nhất.
+- Củi là thứ quý nhất trước mùa đông; dân gom từ mùa xuân ở rìa 迷雾森林, mỗi cành đều đã tính chỗ dùng. Làng hiếm cả nồi sắt.
+- Luật Aldermark: đất, giếng, rừng trong lãnh địa thuộc lãnh chúa; trái lệnh lãnh chúa thì chịu lao dịch hoặc roi.
 
 **Quy ước trình bày**
 - Đơn vị cân: pound (磅).

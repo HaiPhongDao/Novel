@@ -1,6 +1,6 @@
 # Dàn ý
 
-## Chi tiết (phạm vi test: đoạn 1–6 — tương đương 5 chương cũ)
+## Chi tiết (phạm vi test: đoạn 1–7 — tương đương 5 chương cũ)
 
 > Đơn vị là **đoạn** (~2000 字). Prompt (tiếng Việt) ở `briefs/doan-XXX.md`; chính văn tiếng Trung.
 
@@ -16,18 +16,22 @@ Pell bưng trà buổi sáng; Leon giả vờ, đổ đi, Bảy so mùi với v�
 Nhiều nhà có người tiêu chảy, sốt. Mira đang chăm Tobi, gắt với "ông lãnh chúa". Bram (cha Mira) đi săn chưa về — nhắc lướt. Leon xem giếng: đục, có mùi, nằm thấp dưới khu nhà trên dốc → nước bẩn. Ra lệnh đun sôi nước uống; Hob phản đối vì củi phải để dành cho mùa đông.
 **Móc:** thế giằng co, Tobi yếu dần.
 
-### Đoạn 4 — Nước sạch (Ngày 3–5)
-(như ch3 cũ) Tìm nguồn bẩn cùng Mira (hố xí, chuồng lợn trên dốc), tự tay đào hố xí mới, lọc cát–than củi, chỉ đun nước uống, nước muối–mật cho Tobi; dùng Bảy quá sức. Tobi khá lên, Hob dịu đi.
-**Móc:** tối Ngày 5 đốt thử đá nguyền → than đá.
+### Đoạn 4 — Lập quy củ (chiều → tối Ngày 2)
+Leon dập thế giằng co bằng luật lãnh chúa: giếng thuộc lãnh chúa, nước sôi phát không ở điểm chung, uống nước lã là trái lệnh; củi lấy từ xà gỗ mái sập của trang viên (đủ ~70–80 ngày nước uống). Trừng phạt kẻ xúi giục bằng lao dịch; giao Hob trách nhiệm liên đới. Tự tay pha nước muối mật cho Tobi.
+**Móc:** nồi đồng đầu tiên sôi bên giếng; Tobi chưa qua hạn 24 giờ.
 
-### Đoạn 5 — Đá nguyền (Ngày 6–7)
-(như ch4 cũ) Biểu diễn đốt than; em trai Hob; sự cố khí than nhà Dunn; Hob đổi ý. Mira xin tìm cha.
+### Đoạn 5 — Nước sạch (Ngày 3–5)
+Tobi qua khỏi. Xử lý nguồn bẩn: người chịu lao dịch đào hố xí mới phía dưới dốc, rãnh thoát nước quanh giếng, nâng thành giếng; lọc cát–than củi. Số ca mới giảm; Mira tin Leon; Hob dịu đi. Dùng Bảy quá sức.
+**Móc:** tối Ngày 5 đốt thử mẩu đá đen → than đá.
 
-### Đoạn 6 — Rừng Sương Mù (Ngày 7)
+### Đoạn 6 — Đá nguyền (Ngày 6–7)
+(như ch4 cũ) Biểu diễn đốt than; chuyện lão Jim; sự cố khí than nhà Dunn; Hob đổi ý. Mira xin tìm cha.
+
+### Đoạn 7 — Rừng Sương Mù (Ngày 7)
 (như ch5 cũ) Tìm Bram; sói mắt đỏ; vết cào lạ; "Chúng đang chạy trốn."
 
 ## Sơ lược (sau test, có thể đổi)
-- **Đoạn 7** — Chuẩn bị phòng thủ: tường rào, bẫy theo phân tích hành vi bầy của Bảy; Bram hồi phục chỉ dẫn.
+- **Đoạn 8** — Chuẩn bị phòng thủ: tường rào, bẫy theo phân tích hành vi bầy của Bảy; Bram hồi phục chỉ dẫn.
 - **Ch7** — Lương thực: đập đá bắt cá ở suối, củ cải mùa thu, phơi/xông khói thịt.
 - **Ch8** — Người của Cedric tới "thăm"; áp lực thuế; manh mối độc dược.
 - **Ch9–10** — Tuyết đầu mùa, bầy sói tràn xuống; Pell lộ; đóng arc 1.

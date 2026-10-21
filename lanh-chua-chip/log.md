@@ -28,3 +28,7 @@
 2026-10-21 | doan-002 | Đạt; Leon gần như đoán ra đá đen từ đoạn 2 → đoạn 4 thành xác nhận | Hợp lý với kỹ sư | Agent (ghi log)
 2026-10-21 | plot | Người chết cháy là "lão Jim" (đoạn 2) ≠ dàn ý cũ "em trai Hob" → đề xuất lão Jim là em trai/em rể của Hob | Giữ được động cơ cá nhân của Hob ở đoạn 5 | ⏳ Chờ Tác giả
 2026-10-21 | dự án | Thử chuyển session Writer ngay từ đoạn 003 (S2) | Gói bàn giao có lỗ hổng thì phát hiện sớm, sửa rẻ | Tác giả
+2026-10-21 | dự án | Test chuyển session (S1→S2) qua: đoạn 003 giữ giọng, mạch, dùng đúng chi tiết trong state | Giữ quy trình handoff | Agent (ghi log)
+2026-10-21 | doan-003 | Đạt; Gemini đã giải thích nguồn bẩn (cả sườn dốc) → đoạn sau bỏ "đi tìm nguồn bẩn" | Logic tốt | Agent (ghi log)
+2026-10-21 | plot | Đoạn 004 = Leon lập quy củ bằng uy lãnh chúa (Tác giả yêu cầu "cứng rắn, uy nghiêm"); dàn ý dời một đoạn, test thành 7 đoạn | Yêu cầu của Tác giả | Tác giả
+2026-10-21 | bible | Luật Aldermark: đất/giếng/rừng thuộc lãnh chúa, trái lệnh chịu lao dịch hoặc roi; nồi đồng lớn ở bếp trang viên; túi muối; hũ mật ong nhà Mira | Chi tiết nền phục vụ đoạn 004 | Agent (ghi log)
