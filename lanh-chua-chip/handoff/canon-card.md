@@ -14,11 +14,11 @@
 - Cái giá: dùng nhiều thì Leon đau đầu, đói, nặng thì chảy máu cam (đã xảy ra ở đoạn 1).
 
 **Nhân vật phụ**
-- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ không linh hoạt, kiếm một tay cực vững. Trung thành, ít nói, giữ phép tắc. Gọi Leon "少爷"; Leon gọi "Gareth" / "Gareth骑士".
+- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, **tay trái thương cũ không linh hoạt — mọi động tác mạnh đều dùng tay phải**, kiếm một tay cực vững. Trung thành, ít nói, giữ phép tắc. Gọi Leon "少爷"; Leon gọi "Gareth" / "Gareth骑士".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là kẻ bỏ độc vào trà thảo mộc theo lệnh một người ở thành Varen. Leon đã biết và giả vờ không biết, giữ Pell lại để lần ra kẻ đứng sau; Pell tin rằng Leon vẫn uống trà mỗi ngày.
-- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy đét, lưng còng, mắt sâu và sắc. Lễ độ ngoài mặt, lạnh và đề phòng; tin rằng lãnh chúa mới cũng sẽ bỏ đi như những người trước. Lo nhất là giữ củi, giữ lương. Gọi Leon "领主大人".
+- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy đét, lưng còng, mắt sâu và sắc. Lễ độ ngoài mặt, lạnh và đề phòng; tin rằng lãnh chúa mới cũng sẽ bỏ đi như những người trước. Chống gậy. Lo nhất là giữ củi, giữ lương. Gọi Leon "领主大人". Từ đoạn 4 chịu trách nhiệm liên đới việc cả làng uống nước sôi.
 
-- **Mira** — 16 tuổi, con gái thợ săn, tóc đỏ nâu buộc gọn, da rám nắng màu đồng, nhanh nhẹn. Mẹ mất, một mình chăm em. Thẳng tính, nói gắt, không quỳ lạy quý tộc. Gọi Leon "领主大人" giọng không mấy kính nể. Ở nhà gỗ cuối làng, chắc hơn các nhà khác.
+- **Mira** — 16 tuổi, con gái thợ săn, tóc đỏ nâu buộc gọn, da rám nắng màu đồng, nhanh nhẹn. Mẹ mất, một mình chăm em. Thẳng tính, nói gắt, không quỳ lạy quý tộc. Gọi Leon "领主大人" giọng không mấy kính nể. Ở **nhà gỗ** cuối làng, chắc hơn các nhà tranh khác.
 - **Tobi** — em trai Mira, 7–8 tuổi, mắc 秋季病 nặng nhất làng.
 - **Bram** — cha Mira, thợ săn giỏi nhất làng, đang ở 迷雾森林 (chỉ được nhắc).
 

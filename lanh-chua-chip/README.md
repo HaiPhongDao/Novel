@@ -14,8 +14,9 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ (phương án A) — ghi chú sửa trong review | — |
 | 002 | ✅ | ✅ nháp 1 (S1) | ✅ ĐẠT — sửa 1 chữ | — |
 | 003 | ✅ (mở session S2 bằng `handoff/pack.md`) | ✅ nháp 1 (S2) | ✅ ĐẠT — test chuyển session qua | — |
-| 004 | ✅ | ⏳ | — | — |
-| 005–007 | ⏳ (dàn ý có) | — | — | — |
+| 004 | ✅ | ✅ nháp 1 (S2) | ✅ ĐẠT — 2 lỗi nhất quán nhỏ | — |
+| 005 | ✅ | ⏳ | — | — |
+| 006–007 | ⏳ (dàn ý có; 006 mở session S3) | — | — | — |
 
 ## Cách chạy
 

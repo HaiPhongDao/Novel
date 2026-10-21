@@ -33,3 +33,4 @@
 2026-10-21 | plot | Đoạn 004 = Leon lập quy củ bằng uy lãnh chúa (Tác giả yêu cầu "cứng rắn, uy nghiêm"); dàn ý dời một đoạn, test thành 7 đoạn | Yêu cầu của Tác giả | Tác giả
 2026-10-21 | bible | Luật Aldermark: đất/giếng/rừng thuộc lãnh chúa, trái lệnh chịu lao dịch hoặc roi; nồi đồng lớn ở bếp trang viên; túi muối; hũ mật ong nhà Mira | Chi tiết nền phục vụ đoạn 004 | Agent (ghi log)
 2026-10-21 | dự án | Bỏ chế độ ít thao tác (B), giữ quy trình hiện tại; hoàn tác cả các sửa cấp chữ đã làm theo B | Tác giả không cần | Tác giả
+2026-10-21 | doan-004 | Đạt; nhận chi tiết: nồi đồng thau 30 người, đun sáng–tối, xà sồi ~12 m³, Hob chống gậy, gã to con chịu lao dịch | Chi tiết phụ | Agent (ghi log)
