@@ -24,3 +24,6 @@
 2026-10-21 | doan-001 | Nháp 1 đạt mức SỬA NHẸ; Leon nghi Pell ngay đoạn 1 → giữ (phương án A: Leon biết Pell là tay sai, giả vờ, lần ra chủ mưu) | Logic: MC thông minh + bát trà + phát hiện độc → nghi là tất yếu | Tác giả
 2026-10-21 | bible | Nhận chi tiết từ đoạn 001: kho trang viên <200 pound lúa mạch mốc; dân là nông nô; Gareth mặc giáp lưới; giọng Leon lạnh, tính sổ, miệng độc trong đầu | Chi tiết phụ, khớp canon | Agent (ghi log)
 2026-10-21 | plot | Dàn ý 5 chương cũ → 6 đoạn (ch2 cũ tách thành đoạn 2 + 3) | Ch2 cũ quá nhiều sự kiện cho ~2000 字 | Agent (ghi log)
+2026-10-21 | dự án | Writer Gemini chuyển session mỗi 2–3 đoạn; Agent giữ gói bàn giao (handoff/) cập nhật sau mỗi review | Không thể viết 100+ đoạn trong một session | Tác giả
+2026-10-21 | doan-002 | Đạt; Leon gần như đoán ra đá đen từ đoạn 2 → đoạn 4 thành xác nhận | Hợp lý với kỹ sư | Agent (ghi log)
+2026-10-21 | plot | Người chết cháy là "lão Jim" (đoạn 2) ≠ dàn ý cũ "em trai Hob" → đề xuất lão Jim là em trai/em rể của Hob | Giữ được động cơ cá nhân của Hob ở đoạn 5 | ⏳ Chờ Tác giả

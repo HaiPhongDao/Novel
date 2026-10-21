@@ -12,7 +12,8 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 |---|---|---|---|---|
 | test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
 | 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ (phương án A) — ghi chú sửa trong review | — |
-| 002 | ✅ | ⏳ | — | — |
+| 002 | ✅ | ✅ nháp 1 (S1) | ✅ ĐẠT — sửa 1 chữ | — |
+| 003 | ⏳ | — | — | — |
 | 003–006 | ⏳ (dàn ý có) | — | — | — |
 
 ## Cách chạy
@@ -29,4 +30,5 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 - `briefs/` — Prompt (tiếng Việt) giao Gemini; bản brief tiếng Việt v1 trong `archive/briefs-v1/`
 - `gemini/test-prompts.md` — 3 prompt test vòng 1 + bảng chấm
 - `reviews/test-B-C.md` — kết quả test vòng 1 và nguyên tắc prompt rút ra
+- `handoff/` — Gói bàn giao chuyển session Gemini (`pack.md` dán thẳng)
 - `log.md` — Nhật ký quyết định

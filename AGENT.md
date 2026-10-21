@@ -37,7 +37,8 @@ Novel/
 ├── AGENT.md                  # File này (dùng chung)
 └── <ten-truyen>/
     ├── README.md                 # Tóm tắt + bảng trạng thái từng đoạn
-    ├── gemini/                  # Prompt giao cho Gemini (test, mẫu)
+    ├── gemini/                  # Prompt test, mẫu
+    ├── handoff/                 # Gói bàn giao khi chuyển session Writer (xem mục 5c)
     ├── bible/                    # Story Bible — nguồn sự thật duy nhất
     │   ├── overview.md           # Logline, premise, thể loại, chủ đề, tông giọng, đối tượng độc giả
     │   ├── world.md              # Bối cảnh, địa danh, luật thế giới, hệ thống (phép thuật/công nghệ/xã hội)
@@ -74,7 +75,7 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
 4. **Review** — Agent kiểm tra theo checklist ở mục 5, ghi kết quả vào `reviews/doan-XXX.md`.
 5. **Chỉnh sửa** — Nếu chưa đạt, Agent gửi Gemini **ghi chú sửa** (mục 6). Tối đa 2 vòng; quá 2 vòng → báo Tác giả.
-6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, ghi `log.md`, commit.
+6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, commit.
 
 ---
 
@@ -147,6 +148,12 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - Gemini có **system instruction văn phong riêng của Tác giả** (bằng tiếng Trung) — đó là thẩm quyền cao nhất về cách viết. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
 - Chi tiết mới Gemini tự đặt (địa danh, đồ vật, tên phụ) → Agent ghi nhận khi review, đề xuất Tác giả có đưa vào canon không.
 - Vì Gemini không nhớ bible, mỗi prompt phải tự mang theo thiết lập, tên và xưng hô liên quan tới đoạn đó.
+
+## 5c. Chuyển session
+
+**Writer Gemini** — mỗi session chỉ viết 2–3 đoạn. Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen>`. Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
+
+**Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
 ## 6. Mẫu Ghi chú sửa gửi Gemini
 
