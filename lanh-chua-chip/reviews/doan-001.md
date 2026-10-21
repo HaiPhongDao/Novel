@@ -61,3 +61,6 @@ Mục 0 (chỉ khi chọn phương án B):
 ```
 0. Bỏ cảnh Pell bưng trà. Pell chỉ đi theo Gareth vào phòng, mừng thiếu gia tỉnh rồi lui ra. Khi phát hiện trúng độc, nghi ngờ của Leon chỉ hướng về phủ bá tước ở thành Varen.
 ```
+
+## Agent đã sửa cấp chữ (AGENT.md mục 5d) — 2026-10-21
+- 系统自检完成→K-07自检完成; 宿主躯体→当前躯体; 私生子→庶子; 黑石领（Blackstone）→黑石领; 灰色的眸子→灰色的眼睛. Các mục còn lại (chip đo nội tạng, câu "欠了母亲的债…", 像刀子一样, 全息游戏) không phải lỗi cấp chữ → giữ nguyên trong bản nháp.

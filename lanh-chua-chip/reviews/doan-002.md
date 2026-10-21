@@ -23,3 +23,6 @@
 - Áo choàng len có cổ lông cừu; trà đổ vào khe nứt sàn đá.
 - Người chết trong vụ cháy đá nguyền: **老吉姆** cả nhà. ⚠️ Dàn ý cũ định người chết là **em trai Hob** (đoạn 5). Đề xuất: lão Jim là em trai / em rể của Hob — Hob kể chuyện bằng giọng lạnh vì cố tình nói tránh. Chờ Tác giả.
 - Từ khoá Gemini đã dùng: 被诅咒的石头, 收获之月, 领主府, 村长, 粮仓.
+
+## Agent đã sửa cấp chữ (AGENT.md mục 5d) — 2026-10-21
+- 几个月→几个星期.
