@@ -30,25 +30,30 @@ Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc c
 
 ## 2. Cấu trúc thư mục
 
+Mỗi truyện nằm trong **một thư mục riêng** ở gốc repo (vd. `lanh-chua-chip/`), cùng cấu trúc bên dưới. `AGENT.md` dùng chung cho mọi truyện.
+
 ```
 Novel/
-├── AGENT.md                  # File này
-├── bible/                    # Story Bible — nguồn sự thật duy nhất
-│   ├── overview.md           # Logline, premise, thể loại, chủ đề, tông giọng, đối tượng độc giả
-│   ├── world.md              # Bối cảnh, địa danh, luật thế giới, hệ thống (phép thuật/công nghệ/xã hội)
-│   ├── characters/           # Mỗi nhân vật một file: <ten-nhan-vat>.md
-│   ├── timeline.md           # Dòng thời gian sự kiện (trong truyện)
-│   ├── glossary.md           # Thuật ngữ, tên riêng, cách xưng hô cố định
-│   └── style-guide.md        # Giọng văn, ngôi kể, thì, quy tắc chính tả/trình bày
-├── plot/
-│   ├── arcs.md               # Các arc lớn, điểm xoay chuyển
-│   ├── outline.md            # Dàn ý toàn truyện theo chương
-│   └── threads.md            # Tuyến truyện mở, foreshadowing ↔ payoff
-├── briefs/                   # Brief giao cho Writer Gemini: ch-001.md, ch-002.md…
-├── chapters/                 # Chính văn: ch-001.md, ch-002.md…
-├── reviews/                  # Ghi chú biên tập cho từng chương: ch-001.md…
-├── archive/                  # Bản nháp cũ, ý tưởng bị loại
-└── log.md                    # Nhật ký quyết định (Decision Log)
+├── AGENT.md                  # File này (dùng chung)
+└── <ten-truyen>/
+    ├── README.md                 # Tóm tắt + bảng trạng thái chương
+    ├── gemini/system-prompt.md   # Hướng dẫn cố định dán vào Gemini
+    ├── bible/                    # Story Bible — nguồn sự thật duy nhất
+    │   ├── overview.md           # Logline, premise, thể loại, chủ đề, tông giọng, đối tượng độc giả
+    │   ├── world.md              # Bối cảnh, địa danh, luật thế giới, hệ thống (phép thuật/công nghệ/xã hội)
+    │   ├── characters/           # Mỗi nhân vật một file: <ten-nhan-vat>.md
+    │   ├── timeline.md           # Dòng thời gian sự kiện (trong truyện)
+    │   ├── glossary.md           # Thuật ngữ, tên riêng, cách xưng hô cố định
+    │   └── style-guide.md        # Giọng văn, ngôi kể, thì, quy tắc chính tả/trình bày
+    ├── plot/
+    │   ├── arcs.md               # Các arc lớn, điểm xoay chuyển
+    │   ├── outline.md            # Dàn ý toàn truyện theo chương
+    │   └── threads.md            # Tuyến truyện mở, foreshadowing ↔ payoff
+    ├── briefs/                   # Brief giao cho Writer Gemini: ch-001.md, ch-002.md…
+    ├── chapters/                 # Chính văn: ch-001.md, ch-002.md…
+    ├── reviews/                  # Ghi chú biên tập cho từng chương: ch-001.md…
+    ├── archive/                  # Bản nháp cũ, ý tưởng bị loại
+    └── log.md                    # Nhật ký quyết định (Decision Log)
 ```
 
 Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số chương 3 chữ số (`ch-007`).
@@ -139,6 +144,12 @@ Ghi kết quả vào `reviews/ch-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ Cần
 **Kết luận review**: `ĐẠT` / `SỬA NHẸ` / `VIẾT LẠI` + 1–3 câu lý do.
 
 ---
+
+## 5b. Bàn giao với Gemini
+
+- Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán `gemini/system-prompt.md` (một lần) + brief/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/ch-XXX.md`.
+- Bản thảo của Gemini kết thúc bằng mục "Ghi chú của Writer" — Agent đọc mục này để cập nhật glossary/bible và quyết định có nhận ý tưởng mới hay không.
+- Khi Agent cập nhật canon, nếu thay đổi ảnh hưởng tới luật cứng hay xưng hô → cập nhật luôn `gemini/system-prompt.md`.
 
 ## 6. Mẫu Ghi chú sửa gửi Gemini
 
