@@ -11,7 +11,7 @@ Một session Gemini chỉ viết **2–3 đoạn**. Khi mở session mới, Gem
 | 3. Trạng thái hiện tại | `state.md` | Đang ở đâu, ai biết gì, con số đang chạy, đồ vật/chi tiết đã xuất hiện, tuyến đang mở |
 | 4. Nguyên văn cuối đoạn gần nhất | `chapters/doan-XXX.md` (~900 ký tự cuối) | Nối mạch câu chữ và **giữ giọng** — tóm tắt không truyền được giọng, nguyên văn thì được |
 
-`pack.md` được ghép tự động: `python3 tools/build_pack.py lanh-chua-chip`; thêm `--prompt briefs/doan-XXX.md` để ra `outbox.md` (gói + prompt, dán một lần).
+`pack.md` được ghép tự động: `python3 tools/build_pack.py lanh-chua-chip`
 
 ## Quy trình
 
@@ -23,8 +23,10 @@ Một session Gemini chỉ viết **2–3 đoạn**. Khi mở session mới, Gem
 
 **Khi chuyển session (Tác giả):**
 1. Mở session Gemini mới, vẫn dùng system instruction 文风.
-2. Dán khối `▶ SESSION MỚI` Agent đưa (= `outbox.md`: gói bàn giao + prompt đoạn tiếp theo). Gemini đọc rồi viết luôn.
-3. Mang chính văn về cho Agent như mọi vòng. Agent kiểm tra mạch/giọng khi review và ghi vào `sessions.md`.
+2. Dán toàn bộ `pack.md`. Gemini trả lời 3 dòng kiểm tra (vị trí Leon / Leon biết gì về Pell / các con số).
+3. Đối chiếu nhanh với `state.md` (hoặc dán câu trả lời cho Agent). Sai → nhắc lại đúng chỗ đó trước khi viết.
+4. Dán prompt đoạn tiếp theo.
+5. Agent ghi vào `sessions.md`.
 
 ## Quy tắc giữ gói gọn
 

@@ -22,7 +22,7 @@ Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc c
 
 ### Agent đồng sáng lập KHÔNG LÀM
 - Không tự ý thay đổi canon đã chốt (sự kiện, tính cách, luật thế giới) khi chưa có Tác giả duyệt.
-- Không viết đè chính văn của Gemini; chỉnh sửa qua ghi chú biên tập hoặc yêu cầu viết lại (ngoại lệ duy nhất: sửa lỗi cấp chữ, mục 5d).
+- Không viết đè chính văn của Gemini; chỉnh sửa qua ghi chú biên tập hoặc yêu cầu viết lại.
 - Không xoá bản thảo cũ — chỉ lưu trữ (archive).
 - Không chốt kết truyện, cái chết nhân vật chính, hay twist lớn khi Tác giả chưa đồng ý.
 
@@ -155,28 +155,6 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 **Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
-## 5d. Chế độ ít thao tác (mặc định)
-
-Tác giả dùng Gemini bản miễn phí, không có API → Tác giả là cầu nối, nên mỗi vòng phải tốn **đúng 2 lần dán**:
-
-```
-Agent ──(1 khối dán)──► Tác giả ──► Gemini ──(chính văn)──► Tác giả ──(dán nguyên)──► Agent
-```
-
-**Một vòng gồm:**
-1. Tác giả dán chính văn Gemini vào chat (không cần ghi chú gì thêm; có ý kiến thì viết kèm).
-2. Agent làm hết, không hỏi lại: lưu `chapters/`, review, **tự sửa lỗi cấp chữ**, cập nhật bible + `handoff/`, viết prompt đoạn kế, commit + push.
-3. Agent trả lời theo **mẫu cố định**, ngắn:
-   - 1 dòng kết luận đoạn vừa rồi (ĐẠT / SỬA NHẸ / VIẾT LẠI) + tối đa 3 gạch điểm đáng chú ý.
-   - **Cần Tác giả quyết** (chỉ khi có; nêu phương án + khuyến nghị). Không có thì bỏ mục này.
-   - **Một khối code duy nhất để dán cho Gemini.** Chi tiết review nằm trong repo, không nhắc lại trong chat.
-
-**Tự sửa lỗi cấp chữ:** lỗi chỉ cần thay một từ/cụm từ để khớp canon (vd. 系统 → 小七, 几个月 → 几个星期, 私生子 → 庶子) → Agent sửa thẳng trong `chapters/doan-XXX.md` và ghi lại trong review (bản gốc vẫn còn trong lịch sử git). Không viết lại câu, không sửa văn phong. Lỗi lớn hơn mới gửi ghi chú sửa cho Gemini.
-
-**Chuyển session tự động:** Agent đếm số đoạn trong session (`handoff/sessions.md`). Tới lượt chuyển (mỗi 3 đoạn), khối dán **gộp sẵn gói bàn giao + prompt** (`outbox.md`, ghép bằng `python3 tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md`), mở đầu bằng dòng `▶ SESSION MỚI`. Tác giả chỉ việc mở session mới và dán một lần.
-
-**Chế độ lô (tuỳ chọn, khi Tác giả nói "lô"):** Agent đưa prompt cho 2 đoạn liền; Tác giả cho Gemini viết cả hai rồi mang về một lần. Chỉ dùng cho đoạn ít rẽ nhánh — đoạn 2 có thể lệch nếu đoạn 1 đi khác dự kiến.
-
 ## 6. Mẫu Ghi chú sửa gửi Gemini
 
 ```markdown
@@ -218,7 +196,6 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 | Loại thay đổi | Agent tự làm | Cần Tác giả duyệt |
 |---|---|---|
 | Sửa lỗi chính tả, xưng hô, tên riêng | ✅ | |
-| Sửa lỗi cấp chữ trong chính văn để khớp canon (mục 5d) | ✅ (ghi trong review) | |
 | Ghi chú biên tập, yêu cầu Gemini sửa | ✅ | |
 | Cập nhật bible theo đoạn đã chốt | ✅ | |
 | Thêm nhân vật phụ / cảnh phụ không ảnh hưởng arc | ✅ (ghi log) | |
