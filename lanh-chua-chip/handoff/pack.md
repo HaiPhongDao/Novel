@@ -106,7 +106,7 @@ Leon dập đám đông bằng luật Aldermark: giếng thuộc lãnh chúa, "�
 
 ---
 
-## 5. Mẫu giọng (trích nguyên văn các đoạn đã duyệt — viết tiếp đúng giọng này)
+## 4. Mẫu giọng (trích nguyên văn các đoạn đã duyệt — viết tiếp đúng giọng này)
 
 **Leon tính sổ, mặc cả (đoạn 2):**
 
@@ -135,7 +135,7 @@ Leon dập đám đông bằng luật Aldermark: giếng thuộc lãnh chúa, "�
 
 ---
 
-## 6. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
 　　Leon坐在火光前，从口袋里摸出了那块在村里捡来的黑石头。
 　　指甲盖大小，边缘有些分层。

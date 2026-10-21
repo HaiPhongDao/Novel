@@ -56,7 +56,7 @@ def main():
         if (ho / name).exists():
             parts.append((ho / name).read_text(encoding="utf-8").strip())
     parts.append(
-        f"## 6. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
+        f"## 5. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
         + tail_text(seg, args.tail)
         + f"\n\n(Đoạn {seg_no + 1} sẽ bắt đầu ngay sau chỗ này.)"
     )

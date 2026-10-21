@@ -1,4 +1,4 @@
-## 5. Mẫu giọng (trích nguyên văn các đoạn đã duyệt — viết tiếp đúng giọng này)
+## 4. Mẫu giọng (trích nguyên văn các đoạn đã duyệt — viết tiếp đúng giọng này)
 
 **Leon tính sổ, mặc cả (đoạn 2):**
 

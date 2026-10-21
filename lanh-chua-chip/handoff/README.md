@@ -9,8 +9,8 @@ Một session Gemini chỉ viết **2 đoạn** (đoạn thứ 3 đã trôi gi�
 | 1. Thẻ thiết lập cố định | `canon-card.md` | Nhân vật, bàn tay vàng, địa danh, xưng hô — chỉ những gì **đã lên trang** + luật cố định |
 | 2. Tóm tắt đã viết | `story-so-far.md` | Diễn biến từng đoạn |
 | 3. Trạng thái hiện tại | `state.md` | Đang ở đâu, ai biết gì, con số đang chạy, đồ vật/chi tiết đã xuất hiện, tuyến đang mở |
-| 5. Mẫu giọng | `voice-anchor.md` | Trích nguyên văn vài khúc hay nhất đã duyệt (Leon, Hob, Pell…). Agent thay khi có khúc tốt hơn |
-| 6. Nguyên văn cuối đoạn gần nhất | `chapters/doan-XXX.md` (~900 ký tự cuối) | Nối mạch câu chữ và **giữ giọng** — tóm tắt không truyền được giọng, nguyên văn thì được |
+| 4b. Mẫu giọng | `voice-anchor.md` | Trích nguyên văn vài khúc hay nhất đã duyệt (Leon, Hob, Pell…). Agent thay khi có khúc tốt hơn |
+| 5. Nguyên văn cuối đoạn gần nhất | `chapters/doan-XXX.md` (~900 ký tự cuối) | Nối mạch câu chữ và **giữ giọng** — tóm tắt không truyền được giọng, nguyên văn thì được |
 
 `pack.md` được ghép tự động: `python3 tools/build_pack.py lanh-chua-chip`
 
