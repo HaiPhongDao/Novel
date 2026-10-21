@@ -21,4 +21,6 @@
 2026-10-21 | bible | Lấy từ bản B: tên 小七; nghi ngờ của MC hướng về phủ bá tước | Tự nhiên hơn; bảo vệ bí mật Pell | ⏳ Chờ Tác giả
 2026-10-21 | dự án | Prompt và ghi chú sửa cho Gemini viết bằng tiếng Việt; tên tiếng Trung chốt sau đoạn 001 | Tiếng Trung của Agent không đạt | Tác giả
 2026-10-21 | dự án | Tên riêng trong chính văn giữ chữ Latin, không phiên âm chữ Hán (thêm vào SI của Gemini) | Tránh mỗi lần dịch một kiểu (里昂/莱昂) | Tác giả
-2026-10-21 | doan-001 | Nháp 1 đạt mức SỬA NHẸ; Leon nghi Pell ngay đoạn 1 → đề xuất giữ (Leon biết Pell là tay sai, giả vờ, lần ra chủ mưu) | Logic: MC thông minh + bát trà + phát hiện độc → nghi là tất yếu | ⏳ Chờ Tác giả
+2026-10-21 | doan-001 | Nháp 1 đạt mức SỬA NHẸ; Leon nghi Pell ngay đoạn 1 → giữ (phương án A: Leon biết Pell là tay sai, giả vờ, lần ra chủ mưu) | Logic: MC thông minh + bát trà + phát hiện độc → nghi là tất yếu | Tác giả
+2026-10-21 | bible | Nhận chi tiết từ đoạn 001: kho trang viên <200 pound lúa mạch mốc; dân là nông nô; Gareth mặc giáp lưới; giọng Leon lạnh, tính sổ, miệng độc trong đầu | Chi tiết phụ, khớp canon | Agent (ghi log)
+2026-10-21 | plot | Dàn ý 5 chương cũ → 6 đoạn (ch2 cũ tách thành đoạn 2 + 3) | Ch2 cũ quá nhiều sự kiện cho ~2000 字 | Agent (ghi log)

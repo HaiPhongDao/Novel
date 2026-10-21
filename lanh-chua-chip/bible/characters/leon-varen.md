@@ -15,6 +15,11 @@
 - Bị đầu độc liều nhỏ kéo dài suốt hành trình (dấu hiệu: vị kim loại/đắng trong miệng, móng tay có vạch trắng ngang, tim đập loạn, tê đầu ngón tay). Khang tỉnh dậy khi liều độc đã ngừng → cơ thể hồi phục chậm.
 - Ký ức của Leon gốc: chỉ trồi lên **rời rạc, tự phát**, như mảnh mộng (gương mặt, cảm xúc, vài sự kiện). Khang KHÔNG truy cập được theo ý muốn; Bảy chỉ ghi lại những gì đã trồi lên.
 
-## Hiện trạng (đầu ch1)
+## Giọng nhân vật đã chốt qua đoạn 001
+- Ngoài mặt điềm tĩnh, lạnh, ra lệnh ngắn gọn; trong đầu miệng độc, hay chửi thầm, tự giễu ("原主啊原主，你死得真是一点都不冤").
+- Gặp chuyện là tính sổ ngay: quy đổi đơn vị, chia khẩu phần, đếm ngày.
+- Với Pell: biết mà giả như không biết.
+
+## Hiện trạng (đầu đoạn 1)
 - Suy nhược, đau đầu, ăn ít. Đi lại được nhưng nhanh mệt.
 - Cái giá khi dùng Bảy nhiều: đau đầu, đói, nặng thì chảy máu cam.

@@ -2,8 +2,8 @@
 
 | ID | Tuyến / Chi tiết cài | Cài ở | Dự kiến payoff | Trạng thái |
 |---|---|---|---|---|
-| T01 | Leon bị đầu độc — ai làm? | ch1 | ch9–10 (Pell lộ) | Kế hoạch |
-| T02 | Pell mang trà thảo mộc, Leon không uống (lướt qua) | ch1 | ch8–10 | Kế hoạch |
+| T01 | Leon bị đầu độc — Pell là tay sai (Leon biết từ đoạn 1); **ai đứng sau Pell?** | đoạn 1 | cuối arc 1: Leon lật Pell / gài bẫy chủ mưu | Đang chạy |
+| T02 | Mèo vờn chuột: Pell tiếp tục bưng trà, Leon giả vờ | đoạn 1 | xuyên arc 1 | Đang chạy |
 | T03 | Đá nguyền = than đá | ch2 (lấy mẫu) | ch3 cuối (xác nhận), ch4 (dùng) | Kế hoạch |
 | T04 | Lương đủ ~41 ngày / mùa đông còn ~87 ngày | ch2 | ch7, ch10 | Kế hoạch |
 | T05 | Bram (cha Mira) đi săn quá hạn | ch2 (nhắc), ch4 (Mira cầu cứu) | ch5 | Kế hoạch |

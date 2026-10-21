@@ -1,6 +1,6 @@
 # Lãnh Chúa Mang Chip (tên tạm)
 
-> Truyện thử nghiệm quy trình Agent ↔ Writer Gemini (xem `../AGENT.md`). Phạm vi test: **5 đoạn đầu**.
+> Truyện thử nghiệm quy trình Agent ↔ Writer Gemini (xem `../AGENT.md`). Phạm vi test: **6 đoạn đầu** (tương đương 5 chương cũ).
 
 **Logline:** Một kỹ sư hiện đại xuyên vào thân xác cậu con thứ bị đày ra lãnh địa biên giới đổ nát, chỉ mang theo một con chip thần kinh nguyên mẫu đã hỏng 61% dữ liệu — và có 87 ngày trước khi mùa đông giết sạch lãnh dân.
 
@@ -11,8 +11,9 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | Đoạn | Prompt | Bản thảo (Gemini) | Review | Chốt |
 |---|---|---|---|---|
 | test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
-| 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ — chờ quyết vụ Pell | — |
-| 002–005 | ⏳ (dàn ý có, prompt viết sau khi chốt mẫu ở đoạn 001) | — | — | — |
+| 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ (phương án A) — ghi chú sửa trong review | — |
+| 002 | ✅ | ⏳ | — | — |
+| 003–006 | ⏳ (dàn ý có) | — | — | — |
 
 ## Cách chạy
 
