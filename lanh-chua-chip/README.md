@@ -11,7 +11,7 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | Đoạn | Prompt | Bản thảo (Gemini) | Review | Chốt |
 |---|---|---|---|---|
 | test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
-| 001 | ✅ bản cân bằng (tiếng Việt) | ⏳ | — | — |
+| 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ — chờ quyết vụ Pell | — |
 | 002–005 | ⏳ (dàn ý có, prompt viết sau khi chốt mẫu ở đoạn 001) | — | — | — |
 
 ## Cách chạy
