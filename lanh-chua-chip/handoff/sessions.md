@@ -2,4 +2,5 @@
 
 | Session | Đoạn đã viết | Bắt đầu bằng | Ghi chú |
 |---|---|---|---|
-| S1 | 001, 002 (003 dự kiến) | prompt đoạn 001 | Chuyển sang S2 sau đoạn 003 |
+| S1 | 001, 002 | prompt đoạn 001 | |
+| S2 | 003 → | `pack.md` (hết đoạn 002) + prompt đoạn 003 | **Lần thử chuyển session đầu tiên** — kiểm tra giọng & mạch có giữ được không |

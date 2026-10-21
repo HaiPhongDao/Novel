@@ -27,3 +27,4 @@
 2026-10-21 | dự án | Writer Gemini chuyển session mỗi 2–3 đoạn; Agent giữ gói bàn giao (handoff/) cập nhật sau mỗi review | Không thể viết 100+ đoạn trong một session | Tác giả
 2026-10-21 | doan-002 | Đạt; Leon gần như đoán ra đá đen từ đoạn 2 → đoạn 4 thành xác nhận | Hợp lý với kỹ sư | Agent (ghi log)
 2026-10-21 | plot | Người chết cháy là "lão Jim" (đoạn 2) ≠ dàn ý cũ "em trai Hob" → đề xuất lão Jim là em trai/em rể của Hob | Giữ được động cơ cá nhân của Hob ở đoạn 5 | ⏳ Chờ Tác giả
+2026-10-21 | dự án | Thử chuyển session Writer ngay từ đoạn 003 (S2) | Gói bàn giao có lỗ hổng thì phát hiện sớm, sửa rẻ | Tác giả

@@ -13,8 +13,8 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | test A/B/C | ✅ | B, C ✅ | ✅ `reviews/test-B-C.md` | — |
 | 001 | ✅ bản cân bằng (tiếng Việt) | ✅ nháp 1 | ✅ SỬA NHẸ (phương án A) — ghi chú sửa trong review | — |
 | 002 | ✅ | ✅ nháp 1 (S1) | ✅ ĐẠT — sửa 1 chữ | — |
-| 003 | ⏳ | — | — | — |
-| 003–006 | ⏳ (dàn ý có) | — | — | — |
+| 003 | ✅ (mở session S2 bằng `handoff/pack.md`) | ⏳ | — | — |
+| 004–006 | ⏳ (dàn ý có) | — | — | — |
 
 ## Cách chạy
 
