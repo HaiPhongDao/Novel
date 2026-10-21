@@ -52,10 +52,11 @@ def main():
     seg_no = int(re.search(r"doan-(\d+)", seg.name).group(1))
 
     parts = [HEADER]
-    for name in ("canon-card.md", "story-so-far.md", "state.md"):
-        parts.append((ho / name).read_text(encoding="utf-8").strip())
+    for name in ("canon-card.md", "story-so-far.md", "state.md", "voice-anchor.md"):
+        if (ho / name).exists():
+            parts.append((ho / name).read_text(encoding="utf-8").strip())
     parts.append(
-        f"## 4. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
+        f"## 6. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
         + tail_text(seg, args.tail)
         + f"\n\n(Đoạn {seg_no + 1} sẽ bắt đầu ngay sau chỗ này.)"
     )

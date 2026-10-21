@@ -34,3 +34,6 @@
 2026-10-21 | bible | Luật Aldermark: đất/giếng/rừng thuộc lãnh chúa, trái lệnh chịu lao dịch hoặc roi; nồi đồng lớn ở bếp trang viên; túi muối; hũ mật ong nhà Mira | Chi tiết nền phục vụ đoạn 004 | Agent (ghi log)
 2026-10-21 | dự án | Bỏ chế độ ít thao tác (B), giữ quy trình hiện tại; hoàn tác cả các sửa cấp chữ đã làm theo B | Tác giả không cần | Tác giả
 2026-10-21 | doan-004 | Đạt; nhận chi tiết: nồi đồng thau 30 người, đun sáng–tối, xà sồi ~12 m³, Hob chống gậy, gã to con chịu lao dịch | Chi tiết phụ | Agent (ghi log)
+2026-10-21 | doan-005 | Trôi giọng (cảnh Hob tự giải thích, kết bằng câu chốt) → viết lại nửa cuối; nguyên nhân: prompt tả ý nghĩa thay vì sự việc, quá nhiều việc, đoạn thứ 3 trong session | Tác giả nhận xét | Tác giả
+2026-10-21 | dự án | Prompt: tả sự việc không tả ý nghĩa, ≤2 cảnh + 1 nhảy thời gian, kết bằng hình ảnh, nhắc tự kiểm SI; session Writer chỉ 2 đoạn; gói bàn giao thêm "mẫu giọng" | Chặn trôi giọng | Agent (ghi log)
+2026-10-21 | plot | Đề xuất: Hob nhận sai bằng việc khai thật 5800 pound (payoff đoạn 2); ý "đổi than lấy lương" từ đoạn 005 làm hướng giải bài toán lương thực | Gemini tự đề xuất, khớp tuyến T04 | ⏳ Chờ Tác giả

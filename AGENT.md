@@ -113,6 +113,10 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 4. Bí mật cần giữ → điều khiển bằng **hướng nghi ngờ / hiểu biết của nhân vật chính**, không bằng lệnh cấm.
 5. Luôn có mục **自由发挥** để Writer chủ động thêm chi tiết.
 6. Luật cứng đầy đủ (kể cả điều cấm) nằm trong bible cho Agent dùng khi **review**; lỗi lệch luật xử lý bằng ghi chú sửa, không nhồi trước vào prompt.
+7. **Tả sự việc, không tả ý nghĩa.** Thay đổi thái độ của nhân vật phải đi qua một việc cụ thể — một con số khai thật, một món đồ đưa ra, một mệnh lệnh làm theo — không viết "nói một câu cho thấy ông đã nhìn lại", "vẫn gắt nhưng đã khác". Model sẽ viết đúng cái ý nghĩa đó rồi tự giải thích nó (bài học đoạn 005).
+8. **Tối đa 2 cảnh + 1 lần nhảy thời gian mỗi đoạn.** Nhiều hơn là model phải tóm tắt.
+9. **Kết đoạn bằng một hình ảnh / hành động cụ thể** và nói rõ đoạn dừng ở đó.
+10. Dòng cuối mọi prompt: `Viết xong tự kiểm theo mục 四、写完自查.`
 
 ---
 
@@ -151,7 +155,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 ## 5c. Chuyển session
 
-**Writer Gemini** — mỗi session chỉ viết 2–3 đoạn. Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen>`. Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
+**Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen>`. Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
 
 **Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
