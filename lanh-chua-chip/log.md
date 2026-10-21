@@ -32,3 +32,4 @@
 2026-10-21 | doan-003 | Đạt; Gemini đã giải thích nguồn bẩn (cả sườn dốc) → đoạn sau bỏ "đi tìm nguồn bẩn" | Logic tốt | Agent (ghi log)
 2026-10-21 | plot | Đoạn 004 = Leon lập quy củ bằng uy lãnh chúa (Tác giả yêu cầu "cứng rắn, uy nghiêm"); dàn ý dời một đoạn, test thành 7 đoạn | Yêu cầu của Tác giả | Tác giả
 2026-10-21 | bible | Luật Aldermark: đất/giếng/rừng thuộc lãnh chúa, trái lệnh chịu lao dịch hoặc roi; nồi đồng lớn ở bếp trang viên; túi muối; hũ mật ong nhà Mira | Chi tiết nền phục vụ đoạn 004 | Agent (ghi log)
+2026-10-21 | dự án | Chế độ ít thao tác: mỗi vòng 2 lần dán; Agent tự sửa lỗi cấp chữ; chuyển session gộp gói + prompt thành một khối | Tác giả dùng Gemini miễn phí, không có API | Tác giả

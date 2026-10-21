@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Ghép gói bàn giao (handoff pack) để mở session Writer Gemini mới.
 
-Dùng:  python3 tools/build_pack.py <thu-muc-truyen> [--tail 900]
+Dùng:  python3 tools/build_pack.py <thu-muc-truyen> [--tail 900] [--prompt briefs/doan-XXX.md]
 Ra:    <thu-muc-truyen>/handoff/pack.md
+       (có --prompt) <thu-muc-truyen>/outbox.md = gói bàn giao + prompt, dán một lần vào session Gemini mới
 """
 import argparse
 import re
@@ -12,12 +13,7 @@ HEADER = """# Tài liệu bàn giao — tiếp tục viết truyện
 
 Bạn là Writer của truyện này. Các đoạn trước bạn đã viết ở một session cũ; tài liệu dưới đây là toàn bộ những gì cần nhớ để viết tiếp đúng mạch và đúng giọng.
 
-**Lần này chưa viết chính văn.** Đọc kỹ toàn bộ, rồi trả lời ngắn bằng tiếng Việt đúng 3 dòng:
-1. Leon đang ở đâu, vừa làm gì.
-2. Leon biết gì về Pell.
-3. Các con số đang chạy (người, lương, ngày).
-
-Sau đó chờ prompt của đoạn tiếp theo.
+Đọc kỹ toàn bộ, rồi viết đoạn tiếp theo theo prompt ở cuối tài liệu.
 """
 
 
@@ -44,6 +40,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("story")
     ap.add_argument("--tail", type=int, default=900, help="số ký tự cuối đoạn gần nhất")
+    ap.add_argument("--prompt", help="prompt đoạn tiếp theo (đường dẫn trong thư mục truyện) — ghép vào outbox.md")
     args = ap.parse_args()
 
     story = Path(args.story)
@@ -60,9 +57,16 @@ def main():
         + f"\n\n(Đoạn {seg_no + 1} sẽ bắt đầu ngay sau chỗ này.)"
     )
 
+    pack = "\n\n---\n\n".join(parts) + "\n"
     out = ho / "pack.md"
-    out.write_text("\n\n---\n\n".join(parts) + "\n", encoding="utf-8")
-    print(f"{out}  ({len(out.read_text(encoding='utf-8'))} ký tự, tail từ {seg.name})")
+    out.write_text(pack, encoding="utf-8")
+    print(f"{out}  ({len(pack)} ký tự, tail từ {seg.name})")
+
+    if args.prompt:
+        prompt = (story / args.prompt).read_text(encoding="utf-8").strip()
+        outbox = story / "outbox.md"
+        outbox.write_text(pack + "\n---\n\n## 5. Prompt đoạn tiếp theo\n\n" + prompt + "\n", encoding="utf-8")
+        print(f"{outbox}  (session mới: gói + prompt)")
 
 
 if __name__ == "__main__":
