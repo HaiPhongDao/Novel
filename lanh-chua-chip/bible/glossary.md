@@ -1,7 +1,7 @@
 # Thuật ngữ & Xưng hô
 
 > Chính văn viết bằng **tiếng Trung**; prompt viết bằng **tiếng Việt**.
-> ⏳ Cột 中文 là **bản nháp chưa chốt**. Prompt dùng tên Latin/tiếng Việt; sau đoạn 001, Agent đề xuất chốt tên tiếng Trung theo cách Gemini dịch tự nhiên, Tác giả duyệt.
+> **Tên riêng trong chính văn giữ nguyên chữ Latin** (Leon, Gareth, Varen…), không phiên âm sang chữ Hán — đã ghi vào system instruction của Gemini. Cột 中文 bên dưới chỉ còn để tham khảo.
 
 ## Tên riêng
 | Tiếng Việt | 中文 | Ghi chú |

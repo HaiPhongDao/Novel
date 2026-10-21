@@ -20,3 +20,4 @@
 2026-10-21 | bible | Tên tiếng Trung: 陈明康 / 莱昂·瓦伦 / 小七 / 加雷斯 / 佩尔 / 黑石领 … (glossary.md) | Chốt để prompt và review nhất quán | ⏳ Chờ Tác giả
 2026-10-21 | bible | Lấy từ bản B: tên 小七; nghi ngờ của MC hướng về phủ bá tước | Tự nhiên hơn; bảo vệ bí mật Pell | ⏳ Chờ Tác giả
 2026-10-21 | dự án | Prompt và ghi chú sửa cho Gemini viết bằng tiếng Việt; tên tiếng Trung chốt sau đoạn 001 | Tiếng Trung của Agent không đạt | Tác giả
+2026-10-21 | dự án | Tên riêng trong chính văn giữ chữ Latin, không phiên âm chữ Hán (thêm vào SI của Gemini) | Tránh mỗi lần dịch một kiểu (里昂/莱昂) | Tác giả
