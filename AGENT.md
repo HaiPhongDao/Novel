@@ -30,15 +30,22 @@ Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc c
 
 ## 2. Cấu trúc thư mục
 
-Mỗi truyện nằm trong **một thư mục riêng** ở gốc repo (vd. `lanh-chua-chip/`), cùng cấu trúc bên dưới. `AGENT.md` dùng chung cho mọi truyện.
+Mỗi truyện nằm trong **một thư mục riêng** ở gốc repo (vd. `lanh-chua-chip/`), cùng cấu trúc bên dưới. Cái gì dùng cho mọi truyện thì nằm ở gốc repo; cái gì của riêng một truyện thì nằm trong thư mục truyện đó.
 
 ```
 Novel/
-├── AGENT.md                  # File này (dùng chung)
+├── AGENT.md                  # File này — luật chung cho mọi truyện
+├── README.md                 # Danh sách truyện, cách mở truyện mới, cách chạy một đoạn
+├── chung/                    # Tài liệu chung
+│   ├── quy-trinh-ban-giao.md     # Gói bàn giao & chuyển session Writer (mục 5c)
+│   ├── ai-studio.md              # Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome
+│   └── review-blacklist.md       # Lỗi văn chung để soát khi review
+├── tools/                    # build_pack.py, chot_doan.py, set_clip.ps1, save_clip.ps1, ollama_write.py
+├── _mau-truyen/              # Khung để chép khi mở truyện mới (mục 11)
 └── <ten-truyen>/
-    ├── README.md                 # Tóm tắt + bảng trạng thái từng đoạn
-    ├── gemini/                  # Prompt test, mẫu
-    ├── handoff/                 # Gói bàn giao khi chuyển session Writer (xem mục 5c)
+    ├── README.md                 # Tóm tắt, SI đang dùng, bảng trạng thái từng đoạn
+    ├── gemini/                   # Writer của truyện: system instruction (SI) + review-blacklist riêng + prompt test
+    ├── handoff/                  # Gói bàn giao (canon-card, story-so-far, state, voice-anchor, quiz, sessions) — mục 5c
     ├── bible/                    # Story Bible — nguồn sự thật duy nhất
     │   ├── overview.md           # Logline, premise, thể loại, chủ đề, tông giọng, đối tượng độc giả
     │   ├── world.md              # Bối cảnh, địa danh, luật thế giới, hệ thống (phép thuật/công nghệ/xã hội)
@@ -74,8 +81,8 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 2. **Prompt** — Agent viết `briefs/doan-XXX.md` theo mẫu ở mục 4. Prompt phải tự đủ: Gemini không cần đọc thêm gì ngoài prompt.
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
 4. **Review** — Agent kiểm tra theo checklist ở mục 5, ghi kết quả vào `reviews/doan-XXX.md`.
-5. **Đoạn hỏng → làm lại ở session mới**, không gửi prompt viết lại. Agent chuyển bản hỏng vào `archive/`, sửa prompt, rồi ghép tin nhắn mở session mới (gói bàn giao tính tới đoạn trước + prompt mới): `python3 tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` → `handoff/session-start.md`. Lỗi nhỏ không đáng làm lại → chỉ ghi trong review; nếu sai canon thì ghi rõ vào gói bàn giao để đoạn sau không lặp.
-6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, commit.
+5. **Đoạn hỏng → làm lại ở session mới**, không gửi prompt viết lại (Tác giả 22/10). Agent chuyển bản hỏng vào `archive/` (kèm prompt bản đó), sửa prompt, rồi ghép tin nhắn mở session mới (gói bàn giao tính tới đoạn trước + prompt mới): `python tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` → `handoff/session-start.md`. Lỗi nhỏ không đáng làm lại → chỉ ghi trong review; nếu sai canon hoặc sai số thì ghi rõ vào gói bàn giao để đoạn sau không lặp.
+6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, **commit + push ngay** (Tác giả 22/10). `python tools/chot_doan.py <ten-truyen> <spec.py>` làm một lượt: ghi review, cập nhật story-so-far/state/canon-card/voice-anchor/README/sessions/log, ghép gói, commit, push.
 
 ---
 
@@ -121,6 +128,11 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 11. **Thiết lập chỉ ghi sự thật trơn**, không kèm mệnh đề nhân quả hay diễn giải ("…nên…", "vì…", "như thể…", "như chưa từng…"). Writer kể lại những mệnh đề đó thành câu giải thích trong chính văn (bài học lượt 2, đoạn 1).
 12. **Chuỗi kỹ thuật cố định của bàn tay vàng** (câu khởi động, cách xưng) được ghi nguyên văn trong prompt — đây là ngoại lệ của nguyên tắc 2, vì ta *muốn* Writer chép đúng.
 13. **Tính từ cảm giác trong prompt sẽ thành câu mở đầu.** "Phòng ẩm mốc" → văn mở bằng mùi mốc "直往鼻孔里钻" (3 lần liên tiếp). Chỉ ghi tính từ cảm giác khi muốn Writer mở cảnh đúng bằng cảm giác đó.
+14. **Tư thế, xưng hô, điểm nhìn cần giữ → ghi ngay trong câu sự việc của cảnh đó**, không chỉ ở phần thiết lập. Ghi ở thiết lập thì Writer vẫn trượt; ghi trong câu sự việc ("Suốt lúc đó Hob đứng chống gậy cạnh giếng", "cả cảnh này kể từ mắt Leon, Pell chỉ có lời nói và việc làm") thì giữ được (lanh-chua-chip lượt 2, đoạn 004–005, 015).
+15. **Cảnh quyền lực đè người** (phạt, khống chế, tra hỏi): ghi đúng một hình phạt, đúng động tác khống chế, và nhân vật phụ quan trọng làm gì *trong lúc* đó. Bỏ trống thì Writer leo thang bạo lực và cho người ta quỳ lạy (lanh-chua-chip lượt 2, đoạn 004).
+16. **Chỗ trống "người kia nghĩ gì" sẽ bị lấp bằng cách vào đầu người đó.** Nhân vật cần giữ bí mật → cho họ một hành động cụ thể để kết thúc phản ứng ("gật lia lịa rồi chạy ra hành lang").
+17. **Bàn tay vàng: ghi giới hạn giác quan ngay trong thiết lập của đoạn** (biết đúng những gì nhân vật chính thấy, nghe, ngửi…), nhất là cảnh đêm/xa — nếu không Writer tự cho nó dò nhiệt, theo dấu từ xa.
+18. **Khi nhân vật tính sổ, đưa sẵn con số tổng và khung so sánh đúng** (đủ X ngày / còn Y ngày tới mốc Z). Writer hay tính sai và đóng khung sai.
 
 ---
 
@@ -140,7 +152,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - [ ] Không mở tuyến truyện mới ngoài kế hoạch (nếu có → ghi đề xuất, không tự chấp nhận)
 
 **Văn phong**
-- [ ] Đúng system instruction 文风 của Gemini; soát theo danh sách lỗi `<ten-truyen>/gemini/review-blacklist.md`
+- [ ] Đúng system instruction của truyện; soát theo `chung/review-blacklist.md` + `<ten-truyen>/gemini/review-blacklist.md`
 - [ ] Không có dấu hiệu chép prompt / chạy checklist
 - [ ] Thoại tự nhiên, phân biệt được giọng từng nhân vật
 - [ ] Nhân vật chính chủ động, có tính toán
@@ -152,14 +164,14 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 ## 5b. Bàn giao với Gemini
 
-- Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán prompt/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/doan-XXX.md`.
-- Gemini có **system instruction văn phong riêng của Tác giả** — đó là thẩm quyền cao nhất về cách viết. Bản đang dùng: `<ten-truyen>/gemini/system-instruction-en-v2.md` (tiếng Anh, viết khẳng định, anchor giữ nguyên tiếng Trung). Bản cũ: `system-instruction-en.md`, `system-instruction.md`. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
+- Hai cách chạy Writer: (a) Tác giả dán prompt vào Gemini rồi lưu kết quả vào `chapters/doan-XXX.md`; (b) **Agent tự chạy** trên Google AI Studio qua Claude in Chrome khi Tác giả bảo — cách làm, cài đặt và bẫy ở `chung/ai-studio.md`.
+- Mỗi truyện có **system instruction (SI) văn phong riêng** trong `<ten-truyen>/gemini/` — đó là thẩm quyền cao nhất về cách viết của truyện đó. File SI đang dùng và tên bản lưu trên AI Studio ghi trong `<ten-truyen>/README.md`. Sửa SI phải có Tác giả đồng ý và ghi log. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
 - Chi tiết mới Gemini tự đặt (địa danh, đồ vật, tên phụ) → Agent ghi nhận khi review, đề xuất Tác giả có đưa vào canon không.
 - Vì Gemini không nhớ bible, mỗi prompt phải tự mang theo thiết lập, tên và xưng hô liên quan tới đoạn đó.
 
 ## 5c. Chuyển session
 
-**Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session** (`handoff/session-start.md`: gói + prompt, Gemini đọc rồi viết luôn). Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
+**Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session** (`handoff/session-start.md`: gói + prompt, Writer đọc rồi viết luôn). Chi tiết quy trình: `chung/quy-trinh-ban-giao.md`.
 
 **Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
@@ -224,7 +236,7 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 
 ## 10. Quy ước Git
 
-- Mỗi đoạn chốt = 1 commit: `doan-XXX: chốt — <tóm tắt>`.
+- Mỗi đoạn chốt = 1 commit: `doan-XXX: chốt — <tóm tắt>`, **push ngay sau khi duyệt** (Tác giả 22/10). Truyện nào cũng commit trong thư mục của nó; thay đổi luật chung (AGENT.md, `chung/`, `tools/`) commit riêng.
 - Thay đổi bible/plot: `bible: <mô tả>` / `plot: <mô tả>`.
 - Prompt & review: `prompt: doan-XXX`, `review: doan-XXX vòng N`.
 - Không force-push, không xoá lịch sử bản thảo.
@@ -233,7 +245,7 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 
 ## 11. Khởi động dự án (khi bible còn trống)
 
-Agent cùng Tác giả hoàn thành theo thứ tự:
+Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md` — SI mẫu có những chỗ phải điền riêng cho truyện). Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
 1. `bible/overview.md` — logline 1 câu, premise 1 đoạn, thể loại, chủ đề, đối tượng độc giả.
 2. `bible/glossary.md` — tên riêng và xưng hô bằng tiếng Trung (văn phong đã có system instruction của Gemini).
 3. `bible/characters/` — nhân vật chính, phản diện, 3–5 nhân vật phụ quan trọng.

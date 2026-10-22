@@ -1,12 +1,19 @@
 # Lãnh Chúa Mang Chip (tên tạm)
 
-> Truyện thử nghiệm quy trình Agent ↔ Writer Gemini (xem `../AGENT.md`). Phạm vi test: **7 đoạn đầu** (tương đương 5 chương cũ).
+> Truyện đầu tiên của xưởng, dùng để thử quy trình Agent ↔ Writer Gemini. Luật chung: `../AGENT.md`; quy trình bàn giao, chạy AI Studio, lỗi văn chung: `../chung/`.
 
 **Logline:** Một kỹ sư hiện đại xuyên vào thân xác cậu con thứ bị đày ra lãnh địa biên giới đổ nát, chỉ mang theo một con chip thần kinh nguyên mẫu đã hỏng 61% dữ liệu — và có 87 ngày trước khi mùa đông giết sạch lãnh dân.
 
 ## Trạng thái — lượt 2 (SI v2)
 
-Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/system-instruction-en-v2.md`. Lượt 1 (đoạn 1–5, SI cũ) lưu ở `archive/run-1/`.
+Chính văn tiếng Trung, theo **đoạn** (~2000 字). Lượt 1 (đoạn 1–5, SI cũ) lưu ở `archive/run-1/`; bản hỏng của lượt 2 ở `archive/run-2/`.
+
+## Writer
+
+- SI đang dùng: `gemini/system-instruction-en-v2.md` (mục 3 Output đã sửa 22/10: mở nối liền, dừng giữa mạch). Bản lưu trên AI Studio tên **"Lanh chua chip - SI v2"** (10.823 ký tự). Bản cũ: `system-instruction-en.md`, `system-instruction.md`.
+- Model: Gemini 3.8 Flash, thinking High, tắt Google Search (`../chung/ai-studio.md`).
+- Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
+- `handoff/quiz.md`: câu hỏi kiểm tra khi chỉ nạp gói.
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
@@ -26,12 +33,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 | 014 | ✅ (S10) | ✅ (S10) | ✅ ĐẠT | ✅ |
 | 015 | ✅ bản 2 (mở S12) | ✅ bản 2 (S12); bản 1 → `archive/run-2/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
 
-## Cách chạy
-
-1. Gemini dùng system instruction 文风 riêng của Tác giả (không dán thêm hướng dẫn văn phong của Agent).
-2. Dán `briefs/doan-XXX.md` vào Gemini → lưu kết quả vào `chapters/doan-XXX.md` (hoặc dán vào chat cho Agent).
-3. Agent review → ghi `reviews/doan-XXX.md` (+ ghi chú sửa tiếng Trung nếu cần).
-4. Chốt → Agent cập nhật bible, threads, log.
+Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
 
 ## Mục lục
 
@@ -41,5 +43,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 - `gemini/system-instruction-en.md` — System Instruction của Writer, tiếng Anh (dịch từ `system-instruction.md`, anchor giữ nguyên)
 - `gemini/test-prompts.md` — 3 prompt test vòng 1 + bảng chấm
 - `reviews/test-B-C.md` — kết quả test vòng 1 và nguyên tắc prompt rút ra
-- `handoff/` — Gói bàn giao chuyển session Gemini (`pack.md` dán thẳng)
+- `handoff/` — Gói bàn giao chuyển session Gemini (`session-start.md` mở session; quy trình ở `../chung/quy-trinh-ban-giao.md`)
+- `Writer Gemini 3.8 Flash/` — lượt chạy song song trước lượt 2 (đoạn 1–14, chờ Tác giả)
+- `qwen/` — Modelfile thử Writer bằng Ollama
 - `log.md` — Nhật ký quyết định
