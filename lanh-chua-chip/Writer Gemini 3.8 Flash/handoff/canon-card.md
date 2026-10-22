@@ -32,4 +32,4 @@
 - Củi là thứ quý nhất trước mùa đông; dân gom từ mùa xuân ở rìa 迷雾森林.
 - Luật Aldermark: đất, giếng, rừng trong lãnh địa thuộc lãnh chúa; trái lệnh chịu lao dịch hoặc roi.
 
-**Quy ước:** lời kể bám Leon; có thể cắt ngắn vào đầu Gareth, Hob, Mira, dân làng.
+**Quy ước:** lời kể bám Leon; có thể cắt ngắn vào đầu Gareth, Hob, Mira, Bram, Hoag, dân làng. Pell và người của phủ bá tước chỉ hiện ra qua những gì Leon thấy và nghe.
