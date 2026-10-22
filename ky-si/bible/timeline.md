@@ -37,3 +37,7 @@ Tối1 tập xe trống; sáng2 trả20đồng góiăn4người, tiền33,8. Nh�
 ### Diễn biến làm việc008
 
 Ngày2: đội4 rời bến, gặp xe củi lún ở góchẹp; người xin giúp chạm dâyhàng. Toma chậm,Rowan đang xử lý. Tiền33,8.
+
+### Diễn biến làm việc009
+
+Ngày2: qua góchẹp, tới đúngkho; khách đềnghị sangkho phụ, đang thương lượng phầnthêm, chưa nhận2 bạc.

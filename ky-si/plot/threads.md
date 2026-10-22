@@ -29,3 +29,7 @@ K05: nhận việc ngoài bằng phạm vi và ca gác rõ, chưa được tự 
 ### Cập nhật007
 
 K01: tập đúng kỹnăng theo xe, bảng chỉ cải thiện thao tác nhỏ. K04: tích lũy theo đúngngười/kỹnăng, không cho kinhnghiệm thựcchiến. K02: chi thật20đồng chuyếnđi.
+
+### Cập nhật009
+
+K01: lệnh cụthể giúpToma làmđược trong sứcép, chưa tựbiết chiếnđấu. K05: điểmnhận và việc thêm đượcđốichiếu hợpđồng, chưa làmtrước khi chốt.

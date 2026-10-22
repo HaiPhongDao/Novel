@@ -55,3 +55,9 @@ Trả20đồng gói thứcăn cho4người, tiền33bạc80đồng; xe/khách t�
 ### Đoạn008 — đường hẹp và bàn tay gần dây hàng
 
 Rowan đápDain rồi cùng3người gác rờiStonewake, Dain giữ5ởbến. Hỏi người lái chỗhẹp/chỗdừng, đội giữ xe trên nềnchắc trước mộtxe củi lún chắn lối. Người phụxe củi tới xinđẩy rồi chạm dâyhàng;Rowan yêu cầu rời tay, khách giữ dây, cựu binh quay về. Toma hiểu lệnh nhưng chân/giáo vướng giữa người lạ và xe, hỏi cách chắn;Rowan vừa nhảy xuống đất để xử lý. Chưa có đánh, mất hàng haythuthêmtiền.
+
+### Đoạn009 — giữ hàng, nhường đường, tới kho
+
+Rowan hạ lệnh choToma thành mộtviệc/vịtrí rõ, Bram vàJory giữ hai phía. Người chen rời tay/lùi, khách kiểm dây/niêmphong không thấyhỏng; nhường nềnđể người xe củi tựthoát lún, xe tiếpđường. Toma traođổi điều mình chưa làmđược vớiBram/Rowan.
+
+Tới đúngkho ngoàiGreyford, kiểm giấy/niêmphong. Người kho muốn sangkho phụ bênkiađường, khách nhờ giữlối thêm rồi mới trả;Rowan viện phạmvi đãký và giờvềbến. Kết khách hỏi cógộp trong3 bạc không. Chưa thu/chi hoặc bốc dỡ, tiền33,8.
