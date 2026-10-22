@@ -32,3 +32,23 @@ Bản nháp: `archive/run-2/doan-001-v1.md`. Prompt bản 1: `archive/run-2/brie
 - **SI v2:** so sánh (像、仿佛、宛如、好似、如同) chỉ dùng trong cảnh đánh nhau, mỗi nhịp tối đa một; lời kể kể việc đang diễn ra, lý lịch/động cơ đi qua thoại hoặc hành động; cảm giác gọi tên một lần, trực tiếp.
 - **AGENT.md nguyên tắc 11–12:** thiết lập chỉ ghi sự thật trơn; chuỗi kỹ thuật của chip ghi nguyên văn.
 - **Prompt bản 2** (`briefs/doan-001.md`): bỏ mọi mệnh đề "nên / như thể"; cho câu khởi động 「K-07重启完成。离线知识库受损61%。」; mẹ Leon là 妾; khẩu phần 1 pound/người/ngày; Gareth ở hành lang chỉ "dừng lại nhìn cánh cửa".
+
+## Bản 2 (SI v2 sau khi giới hạn so sánh) — LÀM LẠI
+Bản nháp: `archive/run-2/doan-001-v2.md`.
+
+**Tác giả:** "cắt mất quá nhiều phần giải thích rồi, vẫn thích Gareth bản cũ hơn."
+
+### Agent đối chiếu bản 1 ↔ bản 2
+- **Gareth bản 1** báo cáo bằng **thoại của chính ông** (5 câu thoại, mỗi câu một việc) và có đoạn nội tâm bằng **lời của một lính già**: "像只受惊的鹌鹑", "倒像是个坐在账台后面、冷眼盘算着每笔进出的冷血商人", "就算是泥人也该被逼出几分硬气来了". → Đó là giọng nhân vật, không phải giải thích thừa.
+- **Gareth bản 2**: "低声汇报起来。情况烂得超出了想象。" rồi lời kể liệt kê thay ông → mất giọng; nội tâm chỉ còn câu hỏi chung chung "回光返照，还是…被逼成了个大人？".
+- Agent đã **sửa quá tay** ở SI: cấm so sánh ngoài cảnh đánh nhau + "lời kể không kể lý lịch" đã giết luôn so sánh mang giọng nhân vật và phần giải thích thế giới mà thể loại cần.
+- Vẫn còn lỗi cũ: "直往鼻孔里钻" (câu mở đầu), "像决堤的泥浆", "虚弱得像一根泡软的芦苇", "就像有一根通红的铁钎", "封地——黑石领" (—— trong lời kể), câu giải thích "生物电的反噬直接作用在了大脑毛细血管上".
+
+### Làm tốt
+- 小七 đúng câu khởi động, đúng 用户感官数据, bốn dấu hiệu, 置信度 78%. Không còn 系统 / 宿主 / 私生子.
+- Lý luận về Pell gọn: "Pell不过是一只递毒碗的手。"
+- Kết đúng: bát đặt lại vào vòng nước cũ.
+
+### Đã sửa
+- **SI v2:** so sánh thuộc về đầu và miệng nhân vật (lời của chính họ); người kể nói thẳng giọng/ánh nhìn/mùi. Phần nền (thế giới, giá cả, chuyện cũ) được hoan nghênh, đi qua phép tính của Leon hoặc lời nhân vật; báo cáo của cấp dưới là thoại từng câu của người đó.
+- **Prompt bản 3:** Gareth báo cáo bằng thoại của mình; ở hành lang ông nhớ lại một chuyện cụ thể về Leon trước kia.

@@ -34,6 +34,11 @@ Gom từ SI cũ (mục 三, 四, 五) khi SI chuyển sang viết khẳng địn
 - "空气骤然冷了几分".
 - **Nguồn gốc phần lớn từ prompt của Agent:** câu thiết lập có mệnh đề nhân quả / diễn giải ("tay trái buông thõng **nên** mọi việc làm bằng tay phải", "**như chưa từng** đụng tới") bị Writer kể lại nguyên văn thành câu giải thích.
 
+## Tác giả: bản 2 lượt 2 "cắt mất quá nhiều phần giải thích", thích Gareth bản 1 hơn
+- Phân biệt: **so sánh trong đầu / miệng nhân vật** ("像只受惊的鹌鹑", "倒像是个坐在账台后面…的冷血商人" của Gareth) là **giọng nhân vật → giữ**. **So sánh của người kể gắn vào giọng nói, ánh nhìn, mùi** ("平板得像在念一份讣告", "直往鼻孔里钻") là **giải thích thừa → bắt**.
+- Báo cáo của cấp dưới phải là **thoại của chính người đó**, không bị tóm thành lời kể ("低声汇报起来。情况烂得超出了想象。" + liệt kê bằng lời kể = mất giọng Gareth).
+- Kiến thức / quy tắc / lý lịch: được, nếu đi qua phép tính của Leon hoặc lời nhân vật.
+
 ## Agent bắt thêm (cùng bản test)
 - Tên bị phiên âm kèm ngoặc: "莱昂·瓦伦（Leon Varen）", "加雷斯（Gareth）", "佩尔（Pell）".
 - Lời nghĩ của nhân vật phụ để trong ngoặc đơn '…'.

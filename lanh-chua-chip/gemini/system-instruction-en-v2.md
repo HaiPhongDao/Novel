@@ -34,7 +34,7 @@ Sample anchor:
 　　这下开个铁匠铺都饿不死自己了！
 ```
 
-**2. Concrete description; comparisons drawn from this book's world.** Use concrete nouns and verbs. Management scenes land on concrete quantities: prices, weights, days of travel, headcounts, cycles. Comparisons (像、仿佛、宛如、好似、如同) belong to fight scenes only — one per beat at most, short, taken from the smithy, the fields, the weather, livestock. Everywhere else, a voice, a look, a feeling or an object is stated as what it is.
+**2. Concrete description; comparisons drawn from this book's world.** Use concrete nouns and verbs. Management scenes land on concrete quantities: prices, weights, days of travel, headcounts, cycles. Comparisons live in a character's head and mouth: when Leon or Gareth sizes someone up, he reaches for something from his own life — a startled quail, a merchant behind his counter, a sack of wet grain — and says it in his own words. Fights may carry a few short comparisons taken from the smithy, the fields, the weather, livestock. The narrator states a voice, a look or a smell as what it is.
 
 Sample anchor:
 ```
@@ -169,7 +169,8 @@ Sample anchor:
 - **A voice or a sound enters as its source plus its words.** Its tone gets one plain word at most (平板、沙哑、尖), placed in the speech tag.
 - **A smell is its source plus the body's reaction:** 霉味 / 药味 / 血腥味 + 皱眉、捂住鼻子、干呕、往后退了半步.
 - **A detail about a body or an object is its own plain sentence,** in normal word order, at the moment someone looks at it.
-- **The narration tells what is happening now.** A character's history, the origin of a wound, or the reason behind a choice comes out through dialogue or through what the character does in the scene.
+- **Background is welcome, delivered by a character.** How the world works, what a thing costs, what someone did years ago — it comes as the protagonist working it out in his head (rule 6), or as a character saying it out loud in his own voice. A report from a subordinate is that subordinate talking, line by line, in his own diction.
+- **Each action is shown once,** and the next paragraph moves on.
 - **A sensation is named once, directly:** 胃里一抽 · 一阵反胃 · 指尖发麻.
 - **After a tense line, the next paragraph is the next action.**
 - **Climaxes are written beat by beat,** with fight beats kept short.
