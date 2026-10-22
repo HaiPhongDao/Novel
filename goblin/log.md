@@ -16,3 +16,5 @@
 2026-10-23 | doan-001 | Chốt bản 1 (SI v0), không chạy bản 2 | Tác giả: "Ok đấy" | Tác giả
 2026-10-23 | doan-001 | Bản 1 viết quê Khoa "太原钢铁厂" (đọc như Thái Nguyên Sơn Tây TQ). Prompt sau không nhắc tên tỉnh; cách viết quê Khoa chờ Tác giả nếu cần nhắc lại | Tránh nhầm địa danh | Agent (ghi log)
 2026-10-23 | dự án | Tên trong chính văn giữ chữ Latin như đã đề xuất (Khoa, Gorr, Yeg, Zag, Nub) | Bản 1 dùng đúng | Agent (ghi log)
+2026-10-23 | doan-002 | Chốt. Mẹ Ổ lên trang: tứ chi teo, to như trâu (khớp "gần như không đi lại") | Đạt review | Agent (Tác giả bảo chạy tiếp)
+2026-10-23 | doan-003 | Mở đoạn 003 bằng việc Gorr xuống hố ăn thêm một con non (Ngày 3, còn 19) — nối chỗ dừng của 002, đúng luật "săn tay không thì tù trưởng xuống hố" | Chia điểm dừng khi viết brief | Agent (ghi log)

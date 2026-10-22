@@ -1,20 +1,22 @@
-## 3. Trạng thái hiện tại (hết đoạn 1)
+## 3. Trạng thái hiện tại (hết đoạn 2)
 
-**Thời điểm:** đêm Ngày 1, cuối thu.
-**Có mặt:** Khoa trong hố ổ, ngồi cạnh đống phân dơi; Zag đứng trên xác chuột ở giữa hố, vừa quay đầu nhìn Khoa; Nub nằm sát Khoa.
+**Thời điểm:** chiều Ngày 3.
+**Có mặt:** Khoa và Nub nấp sau một mỏm đá gần lối vào ngách sâu (lối xuống hố ổ). Đội săn mười con vừa về tay không. Gorr vừa rút dao, đứng dậy khỏi tảng đá xanh giữa hang, mắt phải nhìn về lối hố ổ.
 
 **Nhân vật chính biết**
-- Mình là con goblin non vừa nở; Gorr xuống hố chọn con béo mà ăn; nằm vùi trong phân dơi, trông gầy và hôi thì được bỏ qua.
-- Trên vách hố có mấy hòn đá lồi — Gorr bám vào đó leo lên.
-- Sau hố, trong ngách sâu hơn, có một khối thân thể to như con bò đang thở — chưa biết là gì.
+- Luật của bộ lạc: đi săn về không có thịt thì tù trưởng xuống hố ổ ăn con non ("昨天，没肉。首领，下坑。").
+- Thứ tự ăn: Gorr trước, con to sau, con non ổ trước tranh xương; con non trong hố chỉ được Yeg ném chuột chết.
+- Mẹ Ổ nằm ở ngách sâu nhất, Yeg đút thịt cho bà.
+- Ăn được dế mù và ấu trùng bọ phân trong khe đá.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Con non trong hố ổ | 20 (21, Gorr ăn 1) |
-| Bộ lạc Hang Dơi | 127 con, tính cả 20 con non trong hố (Khoa chưa đếm) |
-| Ngày tới tuyết đầu mùa | còn ~59 ngày |
+| Bộ lạc | 127 (~70 trưởng thành, 37 con non ổ trước, 20 con non ổ của Khoa) |
+| Con non ổ của Khoa | 20 — Khoa và Nub ở ngoài, 18 (cả Zag) trong hố |
+| Thân Khoa | dài ~nửa mét (ngày 1 chừng hai gang tay) |
+| Ngày tới tuyết đầu mùa | còn ~57 ngày |
 
 **Tuyến đang mở**
-- Gorr bao lâu xuống hố một lần; con non bao lâu thì trèo ra được.
-- Khối thân thể đang thở sau hố ổ.
+- Gorr đang đi về phía hố ổ.
+- Nub bám theo Khoa, chép từng động tác.

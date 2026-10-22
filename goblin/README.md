@@ -27,5 +27,6 @@
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | ✅ | ✅ | ⚠️ sửa nhẹ — Tác giả duyệt | ✅ |
+| 002 | ✅ | ✅ | ✅ ĐẠT | ✅ |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

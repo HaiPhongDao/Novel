@@ -24,3 +24,10 @@
 - Mắt goblin nhìn đêm thành các mảng xám; ánh lửa làm chói, chảy nước mắt.
 - Gorr quấn một tấm da thú, dao sắt giắt hông bằng dây cỏ. Yeg đeo một túi cỏ bện bên hông, đi bằng cách sờ vách và dò chân.
 - Zag: to nhất ổ, đạp các con khác. Nub: đầu to, gầy, nhìn không chớp.
+
+**Đã lên trang ở đoạn 2**
+- Tảng đá xanh nhẵn giữa hang là chỗ ngồi ăn của Gorr; khi ăn Gorr cắm dao vào khe đá.
+- Đống than của Yeg ở một góc khuất gió: mấy khúc gỗ to vùi trong tro, cháy âm ỉ.
+- Mẹ Ổ (巢母): to như trâu, tứ chi teo không đỡ nổi thân, nằm trong bùn ở ngách sâu nhất; Yeg xé thịt nhỏ đút cho bà.
+- Bộ lạc 127: ~70 trưởng thành (cao ~0,9 m, cầm gậy vót nhọn, đá), 37 con non ổ trước, 20 con non ổ của Khoa. Đội săn mười con.
+- Khoa leo đâu cũng gõ thử hai cái bằng đốt ngón tay trước khi dồn sức; Nub chép đúng thói quen đó.

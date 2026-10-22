@@ -39,6 +39,13 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Gorr quấn một tấm da thú, dao sắt giắt hông bằng dây cỏ. Yeg đeo một túi cỏ bện bên hông, đi bằng cách sờ vách và dò chân.
 - Zag: to nhất ổ, đạp các con khác. Nub: đầu to, gầy, nhìn không chớp.
 
+**Đã lên trang ở đoạn 2**
+- Tảng đá xanh nhẵn giữa hang là chỗ ngồi ăn của Gorr; khi ăn Gorr cắm dao vào khe đá.
+- Đống than của Yeg ở một góc khuất gió: mấy khúc gỗ to vùi trong tro, cháy âm ỉ.
+- Mẹ Ổ (巢母): to như trâu, tứ chi teo không đỡ nổi thân, nằm trong bùn ở ngách sâu nhất; Yeg xé thịt nhỏ đút cho bà.
+- Bộ lạc 127: ~70 trưởng thành (cao ~0,9 m, cầm gậy vót nhọn, đá), 37 con non ổ trước, 20 con non ổ của Khoa. Đội săn mười con.
+- Khoa leo đâu cũng gõ thử hai cái bằng đốt ngón tay trước khi dồn sức; Nub chép đúng thói quen đó.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -46,28 +53,33 @@ Sau đó chờ prompt của đoạn tiếp theo.
 ### Đoạn 1 — Ngày 1
 Khoa tỉnh trong hố ổ (sâu ~1,5 m, rộng ~2,5 m, nền phân dơi dày) giữa 21 con non vừa nở; nhớ cú lật xe trên đèo Hà Giang. Đặt tên trong đầu: Zag (to nhất, đạp con khác) và Nub (đầu to, gầy, nằm sát Khoa, nhìn không chớp). Sau hố, trong ngách sâu, có khối thân thể to như con bò đang thở. Yeg cầm than hồng tới mép hố; Gorr nhảy xuống nắn bụng từng con. Khoa vùi vào phân dơi giả chết, bị nhấc lên nắn rồi ném lại. Gorr chọn con béo, bám mấy hòn đá lồi trên vách leo lên, ngồi mép hố vặn cổ ăn; Yeg quay mặt đi. Yeg ném xuống một con chuột chết rồi đi. Còn 20. Khoa thề không ăn đồng loại, tính xem Gorr bao lâu xuống một lần. Zag giành con chuột, quay đầu nhìn Khoa; Nub vẫn nhìn Khoa.
 
+### Đoạn 2 — đêm Ngày 1 → chiều Ngày 3
+Khoa nhường con chuột cho Zag, leo khỏi hố bằng mấy hòn đá Gorr đã bám, gõ thử mỗi hòn hai cái; Nub leo theo, gõ đúng hai cái ở từng hòn. Đội săn mười con mang về hai con thỏ (~3 kg); Gorr ngồi tảng đá xanh giữa hang ăn trước. Khoa đếm: ~70 trưởng thành + 37 con non ổ trước + 20 trong hố = 127; mỗi con chưa tới 24 g. Khoa theo Yeg vào ngách sâu, thấy Mẹ Ổ (to như trâu, tứ chi teo) được Yeg đút thịt. Nghe hai con trưởng thành: "昨天，没肉。首领，下坑。吃崽，饱。" Ba ngày Khoa và Nub ăn dế mù, ấu trùng bọ phân; Khoa dài ~nửa mét. Chiều Ngày 3 đội săn về tay không; Gorr rút dao khỏi khe đá, đứng dậy, mắt phải nhìn về lối vào hố ổ.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 1)
+## 3. Trạng thái hiện tại (hết đoạn 2)
 
-**Thời điểm:** đêm Ngày 1, cuối thu.
-**Có mặt:** Khoa trong hố ổ, ngồi cạnh đống phân dơi; Zag đứng trên xác chuột ở giữa hố, vừa quay đầu nhìn Khoa; Nub nằm sát Khoa.
+**Thời điểm:** chiều Ngày 3.
+**Có mặt:** Khoa và Nub nấp sau một mỏm đá gần lối vào ngách sâu (lối xuống hố ổ). Đội săn mười con vừa về tay không. Gorr vừa rút dao, đứng dậy khỏi tảng đá xanh giữa hang, mắt phải nhìn về lối hố ổ.
 
 **Nhân vật chính biết**
-- Mình là con goblin non vừa nở; Gorr xuống hố chọn con béo mà ăn; nằm vùi trong phân dơi, trông gầy và hôi thì được bỏ qua.
-- Trên vách hố có mấy hòn đá lồi — Gorr bám vào đó leo lên.
-- Sau hố, trong ngách sâu hơn, có một khối thân thể to như con bò đang thở — chưa biết là gì.
+- Luật của bộ lạc: đi săn về không có thịt thì tù trưởng xuống hố ổ ăn con non ("昨天，没肉。首领，下坑。").
+- Thứ tự ăn: Gorr trước, con to sau, con non ổ trước tranh xương; con non trong hố chỉ được Yeg ném chuột chết.
+- Mẹ Ổ nằm ở ngách sâu nhất, Yeg đút thịt cho bà.
+- Ăn được dế mù và ấu trùng bọ phân trong khe đá.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Con non trong hố ổ | 20 (21, Gorr ăn 1) |
-| Bộ lạc Hang Dơi | 127 con, tính cả 20 con non trong hố (Khoa chưa đếm) |
-| Ngày tới tuyết đầu mùa | còn ~59 ngày |
+| Bộ lạc | 127 (~70 trưởng thành, 37 con non ổ trước, 20 con non ổ của Khoa) |
+| Con non ổ của Khoa | 20 — Khoa và Nub ở ngoài, 18 (cả Zag) trong hố |
+| Thân Khoa | dài ~nửa mét (ngày 1 chừng hai gang tay) |
+| Ngày tới tuyết đầu mùa | còn ~57 ngày |
 
 **Tuyến đang mở**
-- Gorr bao lâu xuống hố một lần; con non bao lâu thì trèo ra được.
-- Khối thân thể đang thở sau hố ổ.
+- Gorr đang đi về phía hố ổ.
+- Nub bám theo Khoa, chép từng động tác.
 
 ---
 
@@ -91,38 +103,53 @@ Gorr皱起鼻子闻了闻，似乎嫌肉太柴，随手把它甩到一旁，撞�
 
 按照成体哥布林的体型和代谢率来看，这么大的块头在阴暗潮湿的地底活动，光靠偶尔吃一只两百克左右的幼崽根本维持不了热量，这说明外头还有别的猎场。
 
+**Đoạn 2 — Khoa tính phần thịt**
+
+那两只野兔不大，处理掉皮毛内脏，顶多剩下三公斤肉。
+
+三千克肉，除以一百二十七张嘴，平均每只哥布林分不到二十四克。
+
+二十四克肉，连塞牙缝都不够。
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 1 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
 
-现在坑里还剩二十只。
-既然首领会下来吃幼崽，这就不是什么偶然事件，而是常态化的食物来源，甚至可能是一种规矩。
-Khoa的思维飞快运转，拿出了当年计算高炉焦炭消耗比的劲头。
-首领Gorr身高一米二，这土坑深一米五，它跳下来毫不费力，爬上去只需要两个借力点。
-它是多久下来进货一次？
-一天一次？还是隔两三天一次？
-按照成体哥布林的体型和代谢率来看，这么大的块头在阴暗潮湿的地底活动，光靠偶尔吃一只两百克左右的幼崽根本维持不了热量，这说明外头还有别的猎场。
-幼崽不过是它的加餐或者应急口粮。
-那么，一只刚出壳的哥布林，从两掌长长到能靠自己的力量爬出这一米五的直壁土坑，需要几天？
-五天？十天？
-如果在这期间，Gorr每天都来挑一只最肥的吃，那等爬出这个坑的时候，这批同窝的幼崽还能剩几个？
-更别说，后头裂隙里那个像水牛一样呼吸的肉块，天晓得什么时候会再生下一批。
-必须尽快吃东西，尽快长骨头，尽快爬出这个等死坑。
-心念电转间，坑底的气氛变了。
-那只摔在地上的死老鼠，散发出的腐肉味刺激到了所有幼崽的神经。
-对于刚刚破壳、本能被饥饿驱使的哥布林来说，这就是命。
-几只稍微缓过神来的幼崽尖叫着扑了上去，尖锐的指甲疯狂撕扯着死鼠发臭的烂皮，尖牙互相碰撞，发出野兽抢食的低吼。
-“滚开！！”
-伴随着一声稚嫩但凶狠的咆哮，大块头Zag猛地从阴影里冲了出来。
-它仗着骨架比同类大上半寸，狠狠撞翻了挡路的两只幼崽，爪子一挥，把一只试图偷咬老鼠尾巴的小哥布林抓得满脸是血。
-Zag双脚踩在死老鼠身上，一口咬断了鼠脖子，扯下一大块连着黑血的腐肉，狼吞虎咽地吞下肚。
-剩下的幼崽被它的凶性震慑，不敢上前，只能围在半米开外，咽着唾沫，发出贪婪而畏缩的哼唧声。
-扯下第一口肉的Zag并没有继续埋头大嚼。
-它抬起那颗沾满黑红色鼠血的丑陋脑袋，两只浑浊发黄的眼珠子在坑底环视了一圈。
-最后，Zag的视线穿过散落的空卵壳，停在了缩在粪堆旁的Khoa身上。
-它呲起满嘴细碎的尖牙，从喉咙深处挤出一声带着威胁的咕噜声，像是在宣示这处烂泥坑里的绝对霸权。
-而在Khoa身侧。
-大脑袋Nub依然一动不动地蜷缩在原地。
-它那双奇大无比的死鱼眼，穿透灰蒙蒙的空气，依然死死盯着满身蝙蝠粪的Khoa，连瞳孔都没偏转半分。
+肉山蠕动了几下喉咙，发出满足的咕噜声，肚皮底下隐隐传来一阵卵体滑动的恶心声响。
+Khoa胃里抽搐了一下，没敢多留，慢慢退回了主洞外围。
+在经过两个啃食骨头的成年哥布林身边时，一阵断断续续的交谈声飘进了他的耳朵。
+“昨天，没肉。”
+一个缺了门牙的家伙咬碎兔肋骨，含糊不清地嘟囔着。
+“首领，下坑。”
+另一个瘦小的哥布林用石片刮着骨缝里的骨髓，哼哼唧唧地接话。
+“吃崽，饱。”
+短短几个词，把部落底层的残酷运转逻辑交代得干干净净。
+外出狩猎一旦空手而归，首领就要去深坑挑最肥的幼崽下肚。
+深坑里的幼崽，根本就是活体储备粮。
+三天时间一晃而过。
+哥布林幼崽的生长速度快得反常，只要有一点热量摄入，骨骼和肌肉就会像野草一样疯长。
+短短三天，Khoa的体长就从最初的两掌长暴增到了半米左右，灰绿色的皮层变得坚韧粗糙，四肢的抓握力明显提升。
+Nub也长大了半圈，虽然身板依然干瘦，但手脚利索得很。
+这三天里，Khoa带着Nub靠吃岩石缝隙里的盲眼蟋蟀、肥硕的粪甲虫幼虫填肚子。
+高蛋白，无污染，最重要的是不需要去石台周围找死。
+Nub完全把Khoa当成了模板，Khoa翻石头抓虫，它就跟着翻石头抓虫；Khoa嚼虫子，它也面不改色地跟着生吞。
+至于那些成年哥布林，只要这两个小东西不碍脚、不去抢石台上的肉，根本没人多看它们一眼。
+第三天下午。
+Khoa和Nub蹲在靠近深处通道的一处岩石凸起后，阴冷的过堂风吹得人皮肤发紧。
+洞口方向再次传来了密集的杂乱脚步声。
+外出狩猎的十个成体回来了。
+Khoa的目光第一时间扫向它们的双手和肩膀。
+没有猎物。
+木棍上干干净净，没有野兔，没有山鸡，甚至连一只死老鼠都没有挂着。
+十个猎手垂头丧气地走进来，嘴里叽里咕噜地乱叫。
+“没肉……没肉……”
+整个溶洞里的空气瞬间冷到了冰点。
+原本喧闹的成年哥布林们纷纷缩回了阴影里，上一窝的半大崽子更是吓得贴紧了岩壁。
+大青石台上，首领Gorr缓缓坐直了身子。
+那张布满横肉的脸上，刀疤拧成了一团，独眼里的凶光几乎要凝成实质。
+咕噜。
+Gorr的肚子里传来一声响亮的轰鸣。
+它慢慢拔出了插在石缝里的豁口铁刀，仅剩的右眼转动了一下，视线如同淬了毒的铁钩，径直穿过幽暗的主洞，落在了通往巢坑的岔道口。
+接着，这个一米二高的庞然大物撑着膝盖，从大青石上站了起来。
 
-(Đoạn 2 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
