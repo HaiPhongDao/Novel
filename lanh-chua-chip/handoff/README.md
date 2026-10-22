@@ -24,10 +24,10 @@ Một session Gemini chỉ viết **2 đoạn** (đoạn thứ 3 đã trôi gi�
 
 **Khi chuyển session (Tác giả):**
 1. Mở session Gemini mới, vẫn dùng system instruction 文风.
-2. Dán toàn bộ `pack.md`. Gemini trả lời 3 dòng kiểm tra (vị trí Leon / Leon biết gì về Pell / các con số).
-3. Đối chiếu nhanh với `state.md` (hoặc dán câu trả lời cho Agent). Sai → nhắc lại đúng chỗ đó trước khi viết.
-4. Dán prompt đoạn tiếp theo.
-5. Agent ghi vào `sessions.md`.
+2. Dán toàn bộ `session-start.md` (gói bàn giao + prompt đoạn kế). Gemini đọc rồi viết luôn.
+3. Mang chính văn về cho Agent. Agent kiểm tra mạch/giọng khi review và ghi vào `sessions.md`.
+
+Cũng dùng đúng cách này khi **một đoạn bị hỏng**: Agent chuyển bản hỏng vào `archive/`, sửa prompt, ghép `session-start.md` tính tới đoạn trước đó → viết lại đoạn đó trong session mới.
 
 ## Quy tắc giữ gói gọn
 

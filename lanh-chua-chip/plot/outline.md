@@ -20,12 +20,12 @@ Nhiều nhà có người tiêu chảy, sốt. Mira đang chăm Tobi, gắt vớ
 Leon dập thế giằng co bằng luật lãnh chúa: giếng thuộc lãnh chúa, nước sôi phát không ở điểm chung, uống nước lã là trái lệnh; củi lấy từ xà gỗ mái sập của trang viên (đủ ~70–80 ngày nước uống). Trừng phạt kẻ xúi giục bằng lao dịch; giao Hob trách nhiệm liên đới. Tự tay pha nước muối mật cho Tobi.
 **Móc:** nồi đồng đầu tiên sôi bên giếng; Tobi chưa qua hạn 24 giờ.
 
-### Đoạn 5 — Nước sạch (Ngày 3–5)
-Tobi qua khỏi. Xử lý nguồn bẩn: người chịu lao dịch đào hố xí mới phía dưới dốc, rãnh thoát nước quanh giếng, nâng thành giếng; lọc cát–than củi. Số ca mới giảm; Mira tin Leon; Hob dịu đi. Dùng Bảy quá sức.
-**Móc:** tối Ngày 5 đốt thử mẩu đá đen → than đá.
+### Đoạn 5 — Nước sạch (Ngày 3 → 5)
+Sáng Ngày 3 bên giếng: Kael chịu lao dịch, đào hố xí dưới dốc, rãnh phía trên giếng, xây cao thành giếng; Leon bắt 小七 tính tới chảy máu cam; Mira báo Tobi qua khỏi, đáp lễ bằng một món đồ, nhắc cha quá ngày về. Chiều tối Ngày 5: Hob báo số ca mới, khai thật kho lương 5800 pound; Leon "biết từ hôm đó".
+**Móc:** Hob sững người bên thành giếng mới.
 
-### Đoạn 6 — Đá nguyền (Ngày 6–7)
-(như ch4 cũ) Biểu diễn đốt than; chuyện lão Jim; sự cố khí than nhà Dunn; Hob đổi ý. Mira xin tìm cha.
+### Đoạn 6 — Đá nguyền (đêm Ngày 5 → Ngày 7)
+Đêm Ngày 5 Leon đốt thử mẩu đá đen → than đá, 小七 cảnh báo khí độc. Sau đó (như ch4 cũ): biểu diễn đốt than; chuyện lão Jim; sự cố khí than nhà Dunn; Hob đổi ý. Mira xin tìm cha. *(Có thể phải tách 2 đoạn theo quy tắc ≤2 cảnh.)*
 
 ### Đoạn 7 — Rừng Sương Mù (Ngày 7)
 (như ch5 cũ) Tìm Bram; sói mắt đỏ; vết cào lạ; "Chúng đang chạy trốn."

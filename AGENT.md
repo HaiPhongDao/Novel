@@ -74,7 +74,7 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 2. **Prompt** — Agent viết `briefs/doan-XXX.md` theo mẫu ở mục 4. Prompt phải tự đủ: Gemini không cần đọc thêm gì ngoài prompt.
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
 4. **Review** — Agent kiểm tra theo checklist ở mục 5, ghi kết quả vào `reviews/doan-XXX.md`.
-5. **Chỉnh sửa** — Nếu chưa đạt, Agent gửi Gemini **ghi chú sửa** (mục 6). Tối đa 2 vòng; quá 2 vòng → báo Tác giả.
+5. **Đoạn hỏng → làm lại ở session mới**, không gửi prompt viết lại. Agent chuyển bản hỏng vào `archive/`, sửa prompt, rồi ghép tin nhắn mở session mới (gói bàn giao tính tới đoạn trước + prompt mới): `python3 tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` → `handoff/session-start.md`. Lỗi nhỏ không đáng làm lại → chỉ ghi trong review; nếu sai canon thì ghi rõ vào gói bàn giao để đoạn sau không lặp.
 6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, commit.
 
 ---
@@ -155,7 +155,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 ## 5c. Chuyển session
 
-**Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen>`. Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
+**Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python3 tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session** (`handoff/session-start.md`: gói + prompt, Gemini đọc rồi viết luôn). Chi tiết quy trình: `<ten-truyen>/handoff/README.md`.
 
 **Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 

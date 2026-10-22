@@ -1,6 +1,6 @@
 # Review — Đoạn 005 (bản nháp 1) · session S2, đoạn thứ 3 trong session
 
-**Kết luận: SỬA NHẸ — viết lại nửa cuối (từ "……两天后" đến hết).** Tác giả nhận xét: chất văn trôi, cảnh trưởng làng "như AI viết". Agent đồng ý.
+**Kết luận: HỎNG → làm lại ở session mới (S3).** Bản nháp chuyển vào `archive/doan-005-v1.md`. Tác giả quyết định: không gửi prompt viết lại; đoạn hỏng thì mở session mới. Tác giả nhận xét: chất văn trôi, cảnh trưởng làng "như AI viết". Agent đồng ý.
 
 ## Triệu chứng
 - **Cảnh Hob:** "他没有下跪，也没有说那些谄媚的废话" → chép gần nguyên câu trong prompt ("Ông không xin lỗi, cũng không tâng bốc"). Rồi lời kể tự giải thích: "这是一句平实的陈述，不带任何修饰。这老头把领主们看透了，但他承认……" — đúng lỗi 解释潜台词 mà SI cấm. Câu thoại "您跟以前那些Varen家的人，不太一样" chung chung, ai nói cũng được.
@@ -27,7 +27,7 @@
 - Thử than: vạch vệt đen trên gạch, nhẹ hơn granite, 5 phút mới bén, lửa vàng–xanh, mùi lưu huỳnh; suy ra lão Jim chết vì khí than trước rồi nhà mới cháy — tốt.
 - Ý mới: than có thể đem bán khắp miền bắc → **đổi than lấy lương** (đề xuất nhận làm hướng truyện — chờ Tác giả).
 
-## Ghi chú sửa — dán cho Gemini (cùng session S2)
+## (Không dùng) Ghi chú sửa — giữ lại để tham khảo
 ```
 Viết lại phần cuối đoạn 5, từ dòng "两天后。" đến hết. Phần trước giữ nguyên, chỉ sửa 2 chữ:
 - "根本经不起系统高强度的地形测算" → đổi "系统" thành "小七".
@@ -41,3 +41,9 @@ Phần viết lại:
 
 Viết xong tự kiểm theo mục 四、写完自查.
 ```
+
+## Prompt làm lại (`briefs/doan-005.md`, bản 2)
+- Rút còn 2 cảnh + 1 lần nhảy: sáng Ngày 3 bên giếng (đào bới, Mira báo tin) → chiều tối Ngày 5 bên giếng (Hob khai thật 5800 pound).
+- Thử đốt than dời sang đầu đoạn 6.
+- Thái độ đi qua việc cụ thể: Mira đáp lễ bằng một món đồ; Hob khai thật con số.
+- Kết bằng hình ảnh: Hob đứng im bên thành giếng mới, tay siết đầu gậy.

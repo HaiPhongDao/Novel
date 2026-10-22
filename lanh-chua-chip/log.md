@@ -37,3 +37,5 @@
 2026-10-21 | doan-005 | Trôi giọng (cảnh Hob tự giải thích, kết bằng câu chốt) → viết lại nửa cuối; nguyên nhân: prompt tả ý nghĩa thay vì sự việc, quá nhiều việc, đoạn thứ 3 trong session | Tác giả nhận xét | Tác giả
 2026-10-21 | dự án | Prompt: tả sự việc không tả ý nghĩa, ≤2 cảnh + 1 nhảy thời gian, kết bằng hình ảnh, nhắc tự kiểm SI; session Writer chỉ 2 đoạn; gói bàn giao thêm "mẫu giọng" | Chặn trôi giọng | Agent (ghi log)
 2026-10-21 | plot | Đề xuất: Hob nhận sai bằng việc khai thật 5800 pound (payoff đoạn 2); ý "đổi than lấy lương" từ đoạn 005 làm hướng giải bài toán lương thực | Gemini tự đề xuất, khớp tuyến T04 | ⏳ Chờ Tác giả
+2026-10-22 | dự án | Đoạn hỏng thì làm lại ở session mới (gói bàn giao tới đoạn trước + prompt mới), không gửi prompt viết lại | Yêu cầu của Tác giả | Tác giả
+2026-10-22 | doan-005 | Nháp 1 vào archive; prompt bản 2: 2 cảnh + 1 nhảy, thử than dời sang đoạn 6, Hob đổi thái độ bằng việc khai thật 5800 pound | Áp quy tắc prompt mới | Agent (ghi log)

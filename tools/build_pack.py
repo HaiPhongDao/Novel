@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Ghép gói bàn giao (handoff pack) để mở session Writer Gemini mới.
 
-Dùng:  python3 tools/build_pack.py <thu-muc-truyen> [--tail 900]
+Dùng:  python3 tools/build_pack.py <thu-muc-truyen> [--tail 900] [--prompt briefs/doan-XXX.md]
 Ra:    <thu-muc-truyen>/handoff/pack.md
+       (có --prompt) <thu-muc-truyen>/handoff/session-start.md = tin nhắn đầu tiên của session Gemini mới:
+       gói bàn giao + prompt đoạn kế, Gemini đọc rồi viết luôn
 """
 import argparse
 import re
@@ -44,6 +46,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("story")
     ap.add_argument("--tail", type=int, default=900, help="số ký tự cuối đoạn gần nhất")
+    ap.add_argument("--prompt", help="prompt đoạn kế (đường dẫn trong thư mục truyện) → handoff/session-start.md")
     args = ap.parse_args()
 
     story = Path(args.story)
@@ -64,6 +67,14 @@ def main():
     out = ho / "pack.md"
     out.write_text("\n\n---\n\n".join(parts) + "\n", encoding="utf-8")
     print(f"{out}  ({len(out.read_text(encoding='utf-8'))} ký tự, tail từ {seg.name})")
+
+    if args.prompt:
+        head = HEADER.split("**Lần này chưa viết chính văn.**")[0].rstrip()
+        head += "\n\nĐọc kỹ toàn bộ, rồi viết đoạn tiếp theo theo prompt ở phần cuối.\n"
+        prompt = (story / args.prompt).read_text(encoding="utf-8").strip()
+        start = ho / "session-start.md"
+        start.write_text("\n\n---\n\n".join([head] + parts[1:] + ["## 6. Prompt đoạn tiếp theo\n\n" + prompt]) + "\n", encoding="utf-8")
+        print(f"{start}  ({len(start.read_text(encoding='utf-8'))} ký tự, mở session mới)")
 
 
 if __name__ == "__main__":
