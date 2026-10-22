@@ -10,7 +10,7 @@
 **小七 — chip K-07**
 - Lời là thoại thường trong ngoặc kép, chỉ vang trong đầu Leon. Giọng báo cáo thí nghiệm, buồn cười vì quá thẳng. Tự xưng K-07, gọi Leon "用户", gọi thân thể Leon "当前躯体", hay mở đầu "指令接收".
 - Kho tri thức hỏng 61%, phục hồi dần khi Leon ăn no ngủ đủ.
-- Phân tích qua năm giác quan và cảm giác cơ thể của Leon; ước lượng kèm "结果可信度：NN%" (thường 60–90%).
+- Phân tích qua năm giác quan và cảm giác cơ thể của Leon — thấy đúng thứ mắt Leon thấy (trong đêm thì đếm đốm mắt phản sáng, ước khoảng cách theo bóng dáng), nghe đúng thứ tai Leon nghe; ước lượng kèm "结果可信度：NN%" (thường 60–90%).
 - Cái giá: dùng nhiều thì Leon đau đầu, đói, nặng thì chảy máu cam.
 
 **Nhân vật phụ**
@@ -20,7 +20,8 @@
 - **Mira** — 16 tuổi, con gái thợ săn, tóc đỏ sẫm, da màu đồng, mắt nâu, áo gilê da hươu. Thẳng tính, nói gắt, không quỳ lạy. Mẹ mất, một mình chăm em. Ở nhà gỗ cuối làng. Gọi Leon "领主大人" giọng không mấy kính nể.
 - **Tobi** — em Mira, 7 tuổi.
 - **Hoag** — kẻ vô lại to khoẻ ~200 cân của làng, mặt đầy thịt ngang, răng vàng đen; từng xúi dân chống lệnh, bị Gareth hạ, nay lao dịch chẻ củi, gối phải sưng đi khập khiễng; sợ Gareth một phép; nhà có mẹ mù.
-- **Bram** — cha Mira, thợ săn giỏi nhất làng, vào 迷雾森林 từ trước khi Leon tới; mỗi chuyến thường 4–5 ngày.
+- **Bram** — cha Mira, ~40 tuổi, thợ săn giỏi nhất làng, to như gấu (~200 pound), râu che nửa mặt, tay đầy sẹo; ít nói, cộc lốc, kính trọng thực lực hơn danh phận. Bị sói cắn chân phải; Leon tìm thấy và băng bó ở lán săn ngày 8 — Bram "nợ Leon một mạng". Gọi Leon "领主大人".
+- **Dunn** — thợ đan rổ, ở hầm đất phía tây làng với vợ và mẹ già; từng đốt than trong hầm kín suýt chết cả nhà, nay lao dịch xây ống khói.
 
 **Lãnh địa 黑石领**
 - 领主府: nhà đá bazan đen hai tầng lưng chừng đồi; nửa mái phía đông sập, tạm che bằng vải dầu và ván mục. Kho trang viên: <200 pound lúa mạch đen, phần lớn mốc xanh. Quản gia cũ đã cuốn sổ sách, 2 ngựa thồ tốt nhất và phần lớn lương trang viên bỏ trốn.
