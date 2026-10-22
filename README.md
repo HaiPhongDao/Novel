@@ -17,7 +17,8 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | `chung/ai-studio.md` | Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome |
 | `chung/review-blacklist.md` | Lỗi văn chung để soát khi review |
 | `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `ollama_write.py` (chạy Writer bằng Ollama) |
-| `_mau-truyen/` | Khung để chép khi mở truyện mới |
+| `writer/SI-template` | SI mẫu dùng chung — điền ô `[[...]]` cho từng truyện |
+| `_mau-truyen/` | Khung thư mục để chép khi mở truyện mới |
 | `<ten-truyen>/` | Mọi thứ của riêng một truyện: bible, plot, briefs, chapters, reviews, handoff, SI + lỗi riêng (`gemini/`), archive, log |
 
 ## Mở truyện mới
@@ -26,7 +27,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 cp -r _mau-truyen ten-truyen-moi
 ```
 
-Rồi làm theo hướng dẫn ở đầu `ten-truyen-moi/README.md` (điền bible, điền các chỗ `{{...}}` trong SI, quiz) và thêm một dòng vào bảng "Các truyện" ở trên.
+Rồi làm theo hướng dẫn ở đầu `ten-truyen-moi/README.md` (điền bible, điền SI từ `writer/SI-template`, quiz) và thêm một dòng vào bảng "Các truyện" ở trên.
 
 ## Một vòng đoạn
 

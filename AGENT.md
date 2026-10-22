@@ -40,6 +40,7 @@ Novel/
 │   ├── quy-trinh-ban-giao.md     # Gói bàn giao & chuyển session Writer (mục 5c)
 │   ├── ai-studio.md              # Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome
 │   └── review-blacklist.md       # Lỗi văn chung để soát khi review
+├── writer/SI-template        # SI mẫu dùng chung (Tác giả soạn) — mỗi truyện điền ô [[...]] thành SI riêng
 ├── tools/                    # build_pack.py, chot_doan.py, set_clip.ps1, save_clip.ps1, ollama_write.py
 ├── _mau-truyen/              # Khung để chép khi mở truyện mới (mục 11)
 └── <ten-truyen>/
@@ -245,7 +246,7 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 
 ## 11. Khởi động dự án (khi bible còn trống)
 
-Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md` — SI mẫu có những chỗ phải điền riêng cho truyện). Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
+Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); SI của truyện điền từ `writer/SI-template`. Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
 1. `bible/overview.md` — logline 1 câu, premise 1 đoạn, thể loại, chủ đề, đối tượng độc giả.
 2. `bible/glossary.md` — tên riêng và xưng hô bằng tiếng Trung (văn phong đã có system instruction của Gemini).
 3. `bible/characters/` — nhân vật chính, phản diện, 3–5 nhân vật phụ quan trọng.
