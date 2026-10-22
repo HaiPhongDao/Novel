@@ -4,6 +4,18 @@ SI viết khẳng định: Writer chỉ thấy mặt đúng; Agent giữ mặt s
 
 Nguồn: gom từ SI cũ (mục 三, 四, 五) của `lanh-chua-chip` và các lần Tác giả / Agent bắt lỗi khi chạy truyện đó. Ví dụ trích dẫn mang tên nhân vật lanh-chua-chip, nhưng kiểu lỗi là chung.
 
+Đọc cùng [sổ kinh nghiệm](kinh-nghiem.md). Đây là danh sách để phát hiện và đối chiếu, không phải lệnh cấm một từ trong mọi ngữ cảnh. Cơ chế, điểm nhìn và register riêng của truyện quyết định việc đó có thật sự là lỗi; nguồn và ngoại lệ ở [bảng nguồn](nguon-kinh-nghiem.md).
+
+## Thoại lưu loát (Tác giả 23/10, Kỵ sĩ; liên hệ bài học Gareth)
+
+- Lượt nói chưa trọn ý đã bị chặt bởi động tác, thẻ thoại hoặc đổi đoạn.
+- Câu đáp chỉ xác nhận, không tiếp câu hỏi/khó khăn/đề nghị trước đó, dù tình huống cần trao đổi.
+- Lời báo cáo hoặc hướng dẫn bị rút thành khẩu lệnh; nội dung lại do người kể giải thích thay người nói.
+- Nhân vật cấp dưới chỉ còn “是，大人”, không có chỗ nêu điều mình chưa hiểu hoặc cần người trên quyết.
+- Câu dài thêm nhưng chỉ lặp dữ kiện; lời qua lại không tiến lên.
+
+Khẩu lệnh ngắn có thể đúng chức năng. Đọc liền cuộc trao đổi để xét mạch ý; không chấm bằng hạn mức số chữ. Nếu brief chỉ cho một người ra lệnh và người khác thực hiện, cần sửa cơ hội đối đáp trong cảnh, không chỉ thêm tính từ “lưu loát” vào SI.
+
 ## Kết đoạn / cấu trúc
 - Câu chốt, câu đúc kết, câu "nâng tầm" cuối đoạn; hồi ứng "khéo" cuối đoạn.
 - Câu giải thích cảm xúc mà hành động đã thể hiện (解释潜台词).
@@ -50,7 +62,7 @@ Nguồn: gom từ SI cũ (mục 三, 四, 五) của `lanh-chua-chip` và các l
 - Biểu cảm khuôn mẫu: "嘴角扯出一抹极度森冷的讥诮", "眼底的寒意越来越浓", "掠过一丝波动".
 
 ## Bàn tay vàng (truyện có hệ thống / chip / kim thủ chỉ)
-- Bảng hệ thống, khung 【】, chữ 系统 / 宿主, hình ảnh hiện trong tầm nhìn.
+- Bảng hệ thống, khung 【】, chữ 系统 / 宿主, hình ảnh trong tầm nhìn **khi trái cơ chế hoặc cách gọi đã chốt của truyện**. Lãnh Chúa Chip chỉ có giọng; Mô phỏng có log 【】 trong đầu; bản làm việc Kỵ sĩ có bảng số liệu. Không áp lệnh cấm giao diện của truyện trước lên truyện sau.
 - Bàn tay vàng tự có giác quan riêng mà thiết lập không cho: dò nhiệt, theo dấu thứ nhân vật chính không thấy, đọc nhịp tim người khác từ xa ("侦测到低矮热源", "林区核心热源主体未移动").
 - Bàn tay vàng gọi sai cách xưng đã chốt (vd. 宿主 thay cho cách gọi của truyện).
 

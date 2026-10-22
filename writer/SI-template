@@ -1,7 +1,9 @@
-SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v2, 23/10/2026)
+SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v3, 23/10/2026)
 Khung gốc v1 (19/10) rút từ SI 都市爽文 và bộ 6 nguyên tắc 阵问长生 ở dự án khác. v2 chỉnh cho repo này: prompt tiếng Việt → chính văn tiếng Trung, tên riêng chữ Latin, đơn vị "đoạn" ~2000 字, gói bàn giao khi mở session, dừng giữa mạch, và các chuẩn câu chữ rút từ lanh-chua-chip (SI chạy thật: lanh-chua-chip/gemini/system-instruction-en-v2.md).
 
 Cách dùng: chép file này thành <ten-truyen>/gemini/system-instruction.md, điền mọi ô [[...]] theo phân tích sample của truyện, xóa những mục không dùng, rồi xóa sạch mọi [[...]] và mọi dòng hướng dẫn trước khi dán vào Gemini. Hướng dẫn điền ở cuối file — phần đó không dán.
+
+v3 tổng hợp thêm bài học thoại từ Kỵ sĩ và Gareth: nhịp lời kể không là hạn mức cho lượt nói; lượt đáp nối ý và lời giải thích thuộc người nói. Nguồn và phạm vi: `../chung/kinh-nghiem.md`. Đây là cập nhật template; SI đang dùng của từng truyện được quản lý riêng.
 
 ===== BẮT ĐẦU SI =====
 
@@ -65,7 +67,11 @@ Sample anchor:
 
 5. Main-line dialogue is clean and does a job.
 
-In dialogue that drives the scene, each speaker sounds distinct through word choice and rhythm, and pressure makes a line shorter. Narration between lines stays in the same register as the rest of the prose: a gesture, a glance, the POV character's quick read of the other side. Speech tags: 说道、问道、骂道、嚷嚷道. Crowd lines: a few short shouts in a row, closed off by a single `……` line. [[Nếu sample có cảnh mặc cả, đàm phán: "The side holding power speaks briefly and precisely; the side asking speaks in orderly lines and leaves room."]]
+In dialogue that drives the scene, a speaker gets room to complete the thought in connected spoken Chinese. One turn may explain the situation, give a reason and make a request. Its length follows what the listener needs to understand; the paragraph rhythm measured for narration is a reference for narration.
+
+The reply picks up the question, concern or proposal it answers and carries the speaker's own intention. A direct order can be compact; teaching, reporting and negotiation take the ordinary length of a person explaining the matter. A subordinate can describe a difficulty, ask for clarification or offer an observation in full sentences, using forms of address appropriate to the relationship.
+
+Each speaker sounds distinct through word choice and rhythm. An action between lines belongs at a natural turn after a complete clause or idea, and the exchange continues from it. Explanations spoken by characters remain in their voices. Speech tags: 说道、问道、骂道、嚷嚷道. Crowd lines: a few short shouts in a row, closed off by a single `……` line. [[Nếu sample có cảnh mặc cả, đàm phán: "The side holding power speaks precisely; the side asking lays out the request and its reason in connected speech."]]
 
 Sample anchor:
 
@@ -157,3 +163,5 @@ Ngôi limited omniscient: chỉ cho vào đầu nhân vật phụ khi prompt m�
 12. Sản xuất (AGENT.md mục 4, 5c; `chung/quy-trinh-ban-giao.md`). Mỗi output là một đoạn ~2000 字, tối đa 2 cảnh + 1 lần nhảy thời gian, prompt theo mẫu ở AGENT.md mục 4. Mỗi session Writer viết 2 đoạn; session mở bằng `handoff/session-start.md`. Cảnh cao trào, đánh nhau, đột phá vẫn phải nén ở prompt (vd "用最简短的节拍，不要渲染") — SI không tự sửa được việc Gemini nán quá lâu ở những cảnh này.
 
 13. Lưu bản lên AI Studio: System instructions → Create new instruction, đặt tên "<Tên truyện> - SI", ghi tên đó và số ký tự vào `<ten-truyen>/README.md` (`chung/ai-studio.md`). Sửa SI về sau thì sửa cả file trong repo lẫn bản đã lưu, ghi log.
+
+14. Đọc `chung/kinh-nghiem.md` trước khi điền. Chọn bài học hợp register của truyện; không chép mọi mục thành một SI dài. Với lỗi thoại cụt, kiểm cả chuẩn trong SI lẫn việc brief có cho nhân vật cơ hội trao đổi không. Đánh giá bằng mạch nói và lượt đáp, không chỉ bằng số chữ thoại tăng lên.
