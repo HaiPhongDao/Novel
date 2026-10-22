@@ -12,6 +12,8 @@ Dàn ý chi tiết của dự án (`plot/outline.md`) dừng ở đoạn 7–8; 
 | 010 | Ngày 10 → đêm Ngày 12 | Rào bắc hoàn thành; đêm Ngày 12 vài con sói dò lao vào rào; một con mắc bẫy gai, chậu than đẩy lùi; Gareth hạ một con. Bầy rút. Sáng ra Leon tính thịt sói + da. | Payoff bẫy của Bram, chậu than |
 | 011 | Ngày 13 → 15 | Bài toán lương thực: đập đá chắn suối bắt cá, đào củ dại mùa thu, xông khói thịt bằng than, Mira dạy đặt bẫy thỏ; 小七 tính ngày lương tăng lên. | Sơ lược "Ch7 — Lương thực" |
 | 012 | ~Ngày 18 | Người của phủ bá tước (quản sự do Cedric sai) tới "thăm": kiểm kê, nhắc thuế xuân, thấy than. Leon thấy Pell lén gặp quản sự. | Sơ lược "Ch8 — người của Cedric"; **không** lộ ai là chủ mưu |
-| 013+ | → tuyết đầu mùa | Cao trào arc 1 (sói tràn xuống khi tuyết rơi; Leon lật bài với Pell). | **Cần Tác giả quyết** trước khi viết: chủ mưu là ai, Pell khai cái tên nào |
+| 013 | Ngày 18 → 20 | Morris rời đi với cuốn sổ cũ của Hob (Leon không cho ghi bột sồi, cá, than vào sổ). Leon dựng lò xông khói bằng than ở suối để giữ cá và thịt qua đông; Bram chống nạng ra chỉ cách treo cá. | Việc xây làng, không chạm quyết định lớn |
+| 014 | Ngày ~22 | Gareth luyện giáo cho đám đàn ông canh rào; Hoag thành tổ trưởng; Leon phát áo da sói cho người canh đêm. Pell bưng trà với túi bột mới — Leon nhận ra vị khác. | Việc xây làng + giữ tuyến Pell sống |
+| 015+ | → tuyết đầu mùa | Cao trào arc 1 (sói tràn xuống khi tuyết rơi; Leon lật bài với Pell); "đổi than lấy lương" (log dòng 39, chờ duyệt). | **Cần Tác giả quyết** trước khi viết: chủ mưu là ai, Pell khai cái tên nào, có đổi than lấy lương không |
 
-Lượt chạy tự động sẽ **dừng trước đoạn 013** nếu chưa có quyết định của Tác giả.
+Lượt chạy tự động sẽ **dừng sau đoạn 014** nếu chưa có quyết định của Tác giả.
