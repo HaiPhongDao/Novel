@@ -1,0 +1,10 @@
+{
+  "status": "rewrite_required",
+  "model": "Gemini 3.8 Flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "sessionUrl": "https://aistudio.google.com/prompts/1qjOWjQvC-SKYi2j_zKjjxhMe60WtND_4",
+  "sessionSegment": 1,
+  "fileSha256": "7e9e6037c9c8c67254545231a8d90ec01935d0861a0b0378593dc96275523e6b",
+  "hanCharacters": 3221
+}

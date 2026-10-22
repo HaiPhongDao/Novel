@@ -13,8 +13,8 @@
 | 007 | Luyện đúng kỹ năng cho việc sắp nhận | Bàn giao cuối trước khi đi |
 | 008 | Làm việc ngoài, gặp khác biệt với sân tập | Có người hiểu lệnh nhưng chậm làm dưới sức ép |
 | 009 | Dain/người chỉ huy ở hiện trường và Rowan xử lý bằng tổ chức | Bên thuê xác nhận việc nhưng tính lại khoản theo điều khoản |
-| 010 | Chốt khoản nhận/chi, trả tiền tới tay người theo | Có người hỏi đưa người quen tới xin việc |
-| 011 | Tính việc, chi phí trước khi nhận thêm người | Có đề nghị hợp đồng dài hơn |
+| 010 | Ở kho chốt công thêm, nhận tiền và trả thưởng trước khi về | Jory hỏi người quen xin việc |
+| 011 | Rowan đáp Jory, về bến trong chiều ngày2; tính việc/chi phí trước nhận thêm người | Có đề nghị hợp đồng dài hơn |
 | 012 | Xem quyền và nghĩa vụ, hỏi người hiểu địa phương | Một điều khoản khiến nguồn thu kém hấp dẫn hơn con số đầu |
 | 013 | Dùng kết quả thật đàm phán lại | Đang bàn hướng giữ tuyến đường; chưa tự phong đất/tăng quân |
 

@@ -61,3 +61,9 @@ Rowan đápDain rồi cùng3người gác rờiStonewake, Dain giữ5ởbến. H
 Rowan hạ lệnh choToma thành mộtviệc/vịtrí rõ, Bram vàJory giữ hai phía. Người chen rời tay/lùi, khách kiểm dây/niêmphong không thấyhỏng; nhường nềnđể người xe củi tựthoát lún, xe tiếpđường. Toma traođổi điều mình chưa làmđược vớiBram/Rowan.
 
 Tới đúngkho ngoàiGreyford, kiểm giấy/niêmphong. Người kho muốn sangkho phụ bênkiađường, khách nhờ giữlối thêm rồi mới trả;Rowan viện phạmvi đãký và giờvềbến. Kết khách hỏi cógộp trong3 bạc không. Chưa thu/chi hoặc bốc dỡ, tiền33,8.
+
+### Đoạn010 — chốt phụphí và nhận tiền, thưởng trước về
+
+Rowan/khách chốt thêm50đồng cho hộ xe quađường tới kho phụ, lái/bốc dỡ vẫn của khách. Chờ khexe, xin nhường rồi hộ xe qua, kho kýnhận và khách trả2 bạc50đồng. Tiền33,8→36,3; tổngthu chuyến3,5 đã gồm1nhậntrước.
+
+Ngay hiênkho cùng ngày2, Rowan trảthưởngBram,Toma,Jory20đồng/người tổng60, tiền còn35,7. Toma hỏi cách cầmgiáo;Rowan đáp theo việc vừa làm. Nhóm đứng dậy chuẩn bịvề trước tối; Jory vừa hỏi ngườiquenxóm từng làmđá tìmviệc cóthể tới xin theođội không. Chưa vềbến hoặc tuyểnngười,011 nốiRowan đáp.

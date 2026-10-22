@@ -33,3 +33,7 @@ K01: tập đúng kỹnăng theo xe, bảng chỉ cải thiện thao tác nhỏ.
 ### Cập nhật009
 
 K01: lệnh cụthể giúpToma làmđược trong sứcép, chưa tựbiết chiếnđấu. K05: điểmnhận và việc thêm đượcđốichiếu hợpđồng, chưa làmtrước khi chốt.
+
+### Cập nhật010
+
+K02: chuyếnhộ tổngthu3,5; chi góiăn0,2 vàthưởng0,6; quỹtừ33 sauphà thành35,7. K05: làm thêm sauchốtphạmvi/giá. Người quenJory hỏi xinviệc chỉ là nguyệnvọng, chưatăngquân.

@@ -1,22 +1,20 @@
-Viết đoạn010, khoảng2000 chữ Trung. Nối ngay Rowan trả lời khách có gộp việc sang kho phụ vào3 bạc không. Điểm nhìn Rowan; tên Latin cả lời kể và thoại.
+Viết đoạn 010, khoảng 2000 chữ Trung. Mở ngay Rowan trả lời khách hỏi có gộp phần sang kho phụ trong3 bạc không. Toàn đoạn ở hai cổng kho bên ngoàiGreyford trong ngày2, sau khi tới nơi gầntrưa. Điểm nhìn Rowan, tên Latin trong thoại/lời kể.
 
 【Dữ kiện】
-Ngày2, ngay kho ngoài Greyford ghi trong giấy. Nhóm4:Rowan,Bram,Toma,Jory, không cóDain. Hàng còn đủ, đã đưa xe tới đúng nơi; người làm kho/khách muốn nhờ giữ lối cho xe sang kho phụ bênkia đường. Khách chịu lái/bốc dỡ. Công gốc3 bạc=1 nhận trước+2 chờ kýnhận, tiền mặt33 bạc80đồng. Thay điểm hoặc thêm việc phải thỏa thuận trước; giờ vềbến cần giữ.
-
-Dain+4 người mới ởStonewake, chưa có tin về việc bến lúc nhóm ởxa. Toma theo xe5/100,tíchlũy0;thu giáo13 giữ. Bảng chưa có thayđổi. Tiền góiăn20đồng đã trừ ở007, không trừ lần nữa.
+Đội4 là Rowan,Bram(cựu binh),Toma,Jory(hai người mới). Dain+4mới ởStonewake, chưa có mặt hoặc tin nhắn mới. Một xe khách đủ hàng, đang ở kho đúng giấy; khách nhờ giữlối qua đường sang kho phụ. Khách chịu lái/bốc dỡ. Phígốc3 bạc=1đãnhận+2chờ, hiện33 bạc80đồng. Góiăn20đồng đã trừ rồi. Hợp đồng yêu cầu đội vềbến trong chiều ngày2, chuyến chưa quađêm.
 
 【Chuyện trong đoạn】
-Rowan đáp khách bằng phần đã hoàn tất và phần thêm cụthể: công3 bạc đưa xe tới đây, bốc dỡ là việc của khách. Anh có thể cho đội giữ lối qua đường tới kho phụ, còn người của khách điều khiển xe và chuyểnkiện, phụ phí nửa bạc trả cùng2 bạc còn lại sau việc xong. Nửa bạc=50đồng. Khách hỏi vì sao thêm vài bước lại thêmcông,Rowan làm rõ phải chờ người kho chuẩn bị và giữ đường cho xe trong bao lâu, cần xác nhận trước để vềbến đúng ngày. Hai bên thươnglượng rồi thống nhất50đồng cho đúng việc qua đường ấy, không nhận chở đi nơikhác hoặc gánhkiện khônggiới hạn.
+Rowan đáp phần đãlàm và phần thêm. Công3 bạc đưa tới kho trên giấy; có thể giữlối qua đường sang kho phụ với phụphí50đồng=nửa bạc, trả cùng2 bạc cònlại sau kýnhận. Khách mặc cả, Rowan hỏi kho cóngười nhận chưa và xe có thể đi ngay không; hai bên thống nhất50đồng cho riêng đoạn qua đường, lái/kiện/bốc dỡ vẫn của khách. Thương lượng đủý, tiền chưađổi trước khi làm xong.
 
-Người kho chuẩn bị người nhận, nhóm hộtống phối hợp với người lái và người kho, chờ khe đường trống, xin các xe tới nhường một lượt để xe sang; thẩm quyền của họ là bảo vệ xe khách, không tự phong tỏa hoặc thu phí người qua đường. Chỉ chọn một chi tiết phối hợp đã học để hoàn tất: có người hỏi lại khi xe phải dừng, Bram/Jory/Toma được giao việc vừa sức. Hàng/giấy đốichiếu đủ, chủ kho kýnhận, khách xácnhận phần thêm xong và trả2 bạc50đồng. Rowan nhận thật:33 bạc80đồng+2 bạc50đồng=36 bạc30đồng. Tổng thu chuyến là3 bạc50đồng, đã nhận1 ởbến nên lần này chỉ2 bạc50đồng; không cộng phígốc lần nữa.
+Người kho chuẩn bị cổng. Đội phối hợp với người lái, chờ khetrống và xin các xe qua nhường mộtlượt; họ là người hộtống xe, không có quyền thu thuế/phongtỏa đường. Chọn một chi tiết Toma hoặcJory hỏi trước khi làm, Bram hoặcRowan đáp cụthể. Xe qua antoàn, người kho đốichiếu kiện/niêmphong và kýnhận. Khách xácnhận phầnthêm, trả2 bạc50đồng thật. Rowan nhận,33 bạc80đồng+2 bạc50đồng=36 bạc30đồng. Tổngthu chuyến3 bạc50đồng gồm1đãnhận ởbến, lần này chỉ2,5; không cộng lần nữa.
 
-Một lần chuyển thời gian, cùng chiều ngày2 nhóm trở vềStonewake. Dain báo việc bến bằng điều ông đã làm, đủcanh và không có sự cố lớn mới; Rowan lúc này mới biết. Nhómđi3gác nhập lại đủ8 người dướiRowan. Rowan trích thưởng choBram,Toma,Jory mỗi người20đồng cho việc đã làm, tổng60đồng trả tận tay; tiền còn35 bạc70đồng=36 bạc30đồng-60đồng. Lương tháng vẫn theo hợpđồng, thưởng riêng không đổi lương. Dain và nhóm ởbến có công giữnhiệm vụ, cuộc nói chuyện có thể nêu điều đó để Rowan tính cách nhận việc sau, không tự hứa thưởng mới chưa có số.
+Chưa rời kho, Rowan cho ba người cùng mình ngồi chỗ riêng bên hiên được người kho cho phép để đếmđồ và ăn/uống ngắn trước về. Anh trả thưởngBram,Toma,Jory mỗi người20đồng, tổng60đồng, lấy từ thu cả chuyến3,5bạc. Tiền còn35 bạc70đồng=36 bạc30đồng-60đồng. Đây là thưởng công riêng, lương tháng không đổi. Bram là cựu binh, Toma/Jory mới; để họ có lời nhận xét khác nhau về việc vừa làm, thiếu sót và đồngtiền nhận thật. Rowan hỏi một điều cho lượt sau hoặc trả lời chuyện thưởng để cuộc nói chuyện đi tiếp, không đọc toàn bộ bài học.
 
-Khi nhận tiền,Jory hoặcToma hỏi một người quen ởxóm đang tìmviệc có thể tới xin theođội không. Chưa đưa người ấy vào bến/đội hoặc chốt lương. Dừng ngay câu hỏi nhận thêm người,011 mởRowan tính người/chi phí trước trảlời.
+Khi cất tiền,Jory hỏi một người quen cùngxóm đang tìmviệc có thể tớiStonewake xin theođội không. Người ấy chưa xuất hiện/chưa nhập đội hoặc có lương. Dừng ngay câu hỏiJory. Xe khách đã xong, nhóm chuẩn bị rời cổng kho vềbến;011 mởRowan trảlời rồi theo đường về trong cùng chiều ngày2. Dain tiếp tục ởbến, chỉ báo cáo khi họ về ở011.
 
 【Giữ đúng】
-Kho đúngđiểm đãgiao, việc quađường chỉ làm sau thống nhất thêm0,5bạc. Thu2,5 lần này:33,8→36,3; thưởng3người mỗi0,2 tổng0,6:36,3→35,7. Không khoản thu/chi khác. Tạmứng1 và góiăn20đồng không lặp.
-Dain ởbến tới khi nhóm về; sau nhập lại8gác+Rowan. Chưa tuyển người hoặc tănglương. Toma có tiến bộ nhỏ, không tự tăngbảng hoặc hết cần hướngdẫn.
+Cùng ngày2, toàn010 ởkho; chưa quay sang ngày3 hoặc vềbến. Thu2,5 rồi thưởng0,6:33,8→36,3→35,7. Không chi/thu khác hoặc hứa thưởng mới chưacó số.60đồng lấy từ thu cảchuyến, không chỉ50đồng thêm.
+Đội4 Rowan+Bram+Toma+Jory, Dain và5gác tínhcảông ởbến. Chưa tuyểnngười. Toma theo xe5/100, thu giáo13, tíchlũy0 giữ; không tăngbảng.
 
 【自由发挥】
-Tự chọn lời khách giữchi phí, Rowan giữphạm vi, cách người kho phốihợp và cuộc traođổi khi nhậnthưởng. Hài từ vài bướcđường có thêm nhiềuviệc, hoặc khácbiệt giữa tiềncông và tiền thật còntúi. Thoại trọný và đápnối, dừng giữa câu hỏi xin theođội.
+Tự chọn lời khách mặc cả và hỏi thời gian, việc người lái/người kho phốihợp, phản ứng ba người khi đượctrả thưởng và cáchJory lấy canđảm hỏi việc cho ngườiquen. Có lời qua lại nói trọný, trảlời điều vừa nghe. Mộtchút hài từ chuyện vài bướcđường có nhiềuviệc hoặc người cầmtiền đếm lại. Dừng giữa câu hỏi xinviệc.

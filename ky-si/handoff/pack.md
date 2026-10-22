@@ -96,17 +96,25 @@ Rowan hạ lệnh choToma thành mộtviệc/vịtrí rõ, Bram vàJory giữ ha
 
 Tới đúngkho ngoàiGreyford, kiểm giấy/niêmphong. Người kho muốn sangkho phụ bênkiađường, khách nhờ giữlối thêm rồi mới trả;Rowan viện phạmvi đãký và giờvềbến. Kết khách hỏi cógộp trong3 bạc không. Chưa thu/chi hoặc bốc dỡ, tiền33,8.
 
+### Đoạn010 — chốt phụphí và nhận tiền, thưởng trước về
+
+Rowan/khách chốt thêm50đồng cho hộ xe quađường tới kho phụ, lái/bốc dỡ vẫn của khách. Chờ khexe, xin nhường rồi hộ xe qua, kho kýnhận và khách trả2 bạc50đồng. Tiền33,8→36,3; tổngthu chuyến3,5 đã gồm1nhậntrước.
+
+Ngay hiênkho cùng ngày2, Rowan trảthưởngBram,Toma,Jory20đồng/người tổng60, tiền còn35,7. Toma hỏi cách cầmgiáo;Rowan đáp theo việc vừa làm. Nhóm đứng dậy chuẩn bịvề trước tối; Jory vừa hỏi ngườiquenxóm từng làmđá tìmviệc cóthể tới xin theođội không. Chưa vềbến hoặc tuyểnngười,011 nốiRowan đáp.
+
 ---
 
-## 3. Trạng thái sau009
+## 3. Trạng thái sau010
 
-Ngày2, gầntrưa tại cổng kho đúnggiấy ngoàiGreyford. Xe tới đủ, giấy/niêmphong ngoài kiện đãđốichiếu, chưa bốc dỡ hoặc nhận tiền. Người kho đềnghị sangkho phụ bênkia conđường đôngxe; khách hỏi cógộp phần giữlối thêm trong3bạc không.010 mởRowan trảlời, chốtgiá trước làm.
+Ngày2 sau gầntrưa tại hiên kho phụ ngoàiGreyford. Cônghộ và phần quađường đã hoàn tất, hàng/giấy kýnhận; nhóm4 vừa nhậnthưởng, chuẩn bịđi vềStonewake trong chiều ngày2 trước tối. Chưa vềbến, Dain chưa báo cáo gì mới. Jory đang hỏi ngườiquen cùngxóm từng làm ởbãiđá, nay thiếuviệc, cóthể tới xin theođội không.011 mởRowan đáp, tính việc/chi phí rồi đi về đúngngày.
 
-Nhóm4:Rowan,Bram(cựu binh thứhai),Toma,Jory(người mới thứhai đi cùng). Dain+4mới ởbến. Khách/người lái/người kho ngoàiđội. Vụxecủi đãthông, không có người thươngnặng hoặc hànghỏng đượcxác nhận; không kếtluận băngđảng.
+Tiền mặt35 bạc70đồng =33,8+2,5-0,6. Cônggốc3 bạc gồm1nhậntrước+2còn lại đãtrả; phụphí0,5 đãtrả. Tổngthuchuyến3,5, góiăn0,2, thưởng3người tổng0,6→lãi tiền mặt2,7 so với33 sauviệcphà. Không còn khoản hộchuyến chờthu. Sửa40đồng riêngchủbến, tiềnphà1 đãnhận trước khônglặp. Hợpđồngphòngvệ24/30, đãnhận12 trong tổng24, dựtoántháng18 chưa tự trừgộp.
 
-Tiền33 bạc80đồng, còn2 bạc phígốc chờ. Phígốc3 gồm1 đãnhận. Bốc dỡ thuộc khách, điểmnhận trêngiấy đãtới; phần quađường là yêucầu đangbàn, chưa nhậnlàm/nhậnphí. Rowan phải vềbến trongngày2.
+Đi4:Rowan,Bram(cựubinh thứhai),Toma,Jory. Ởbến:Dain+4mới=5gác. Tổng8gác ngoàiRowan, chưa tuyểnthêm hoặc đổilương. Toma/Jory mới, Bram cókinhnghiệm hộxe; mỗi người vừa nhận20đồng thưởngriêng. Người quenJory chưa xuất hiện/chưa đượcnhận/lương.
 
-Toma随车换位5/100,积累0;长矛收势13/100,积累0;009không thêmđiểm. Vẫn phải nghe lệnh khi cóngười lạ. 010 nếu thốngnhất thêm0,5bạc thì chỉthu2,5lần này, rồi3gác có thưởng20đồng/người tổng60; các sốchưa thực hiện không trừ/cộngtrước.
+Toma随车换位5/100,积累0;长矛收势13/100,积累0. Không thêmđiểm/chức năng. Khách/người lái/người kho ngoàiquânsố. TênHánngười kho/địnhgiáthịtrường trong thoại không chốt thành thuậtngữ/giáthếgiới.
+
+011 cầngiữ: đápJory trước khi đổi cảnh, vềbến cùng chiều ngày2, lúc đó mới ngheDain báo ca. Chỉ xem người xinviệc/nhu cầu và dựtoán, chưa tự tuyển. Đềnghị hợpđồng dài hơn có thể xuất hiện theooutline, chưa ký hoặc nhận tạmứng. Không lặp lỗi bản010lượt01 qua ngày3.
 
 ---
 
@@ -122,22 +130,26 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 9 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 10 (để nối mạch và giữ giọng)
 
-Rowan顺着他的手指望去。
-隔着一条宽阔繁忙的城郊土道，斜对面约莫百十步远的地方，确实孤零零立着一处带木棚的低矮副库。此时正值正午，道路上往来穿梭着拉运建材的板车与运送麦秸的驴队，扬起漫天灰尘，显得颇为嘈杂拥挤。
-商行管事的脸色顿时垮了下来：“单子上白纸黑字写的就是大库交货！这大日头底下，让我们再倒腾过马路去副库？你们的人呢，不能在这儿先卸下来？”
-伙计耸了耸肩，一脸无所谓：“人手都在副库那边忙着过秤呢。你非要卸在这大库门前的空地上也行，可要是被过路车马蹭了，或者日头暴晒伤了药性，单据上我们可不担责。你自己掂量。”
-管事碰了一鼻子灰，咬了咬牙，自知在这地头争不过仓管，只得认倒霉。
-他转过身，快步走到Rowan跟前，脸上堆起几分讨好的笑容。
-“Rowan队长，您看……这也就隔了一条道，百十来步的路程。劳烦几位兄弟再搭把手，帮着把车顺到对面的副库门前。只要车进了副库院子，我当场就在收条上画押，剩下那两枚银币的尾款，我一枚不少立马点给您！”
-Rowan站在原地没动，伸手从怀里取出那份折叠整齐的护送契约。
-“管事，契约上写得清清楚楚，护送终点就是这座灰石大库门前。卸货、搬运、改换堆放地点，全属于你们商行自己的事务。”
-Rowan指着契约下方的条款，目光平静地看着对方，“我们把车平平安安护送到这扇门前，路上没有缺斤少两，防卫的活儿就算交割完成了。至于横穿马路去副库，那是额外的事。”
-管事脸上的笑容僵了一下，语气有些急促：“哎呀，Rowan队长，做生意哪能这么死板呢？这不就是顺带脚多走两步路的事吗？您瞧对面路上运石料的重车那么多，我们这一车精细药材要是没几个拿兵器的弟兄护着，万一被那些莽撞车夫挂着蹭着，前头的辛苦不就白费了？”
-“对面的路上车多，意味着护卫有风险，得重新列阵、压住过路车流。”
-Rowan收起契约，神色没有半点松动，“而且我们今天必须赶回Stonewake渡口。营地防务有严格的交接时辰，在这里多耽搁一刻钟，渡口那边就少一分人手。额外承担风险和时间，就得按额外的事来谈。”
-管事有些急了，抬手指着对面的副库大门，忍不住提高了嗓门：
-“这横穿一条道的事，满打满算也就几十步路，不能就算在先前的三枚银币里？”
+这钱是从全趟的三枚半银币收入里直接拨出来的额外奖赏，并不抵扣他们在Stonewake渡口按月领取的固定饷钱。
+长廊底下一下子安静了片刻。
+Bram咧嘴一笑，枯瘦的大手往长凳上一扫，毫不客气地把二十枚铜钱抄进怀里，铜币在掌心里发出一串清脆的撞击声。
+“还是跟着Rowan队长做事敞亮。”
+老兵嘿嘿笑了两声，语气透着一股老油条的熟络，“换成以前在公国的老行伍里，别说额外领赏，长官不找由头扣你两顿干粮就算祖上积德了。”
+Toma则是愣了愣，随后两眼放光，小心翼翼地把面前的铜钱一枚一枚捡起来，叠成整整齐齐的一小摞，捏在手里反复数了两遍。
+“二十文……”
+年轻农夫忍不住咧开嘴傻笑，“这要是带回村里，能称好几大包黑麦面，还能给家里扯两尺粗麻布……队长，刚才在大路上，我是不是走得太僵了？”
+“走得僵是小事，手里别慌就行。”
+Rowan看着他，顺势提点了一句，“矛尖竖起来的时候要稳，两臂用力架住。你在路口那会儿矛尖晃得跟钓竿似的，别说吓唬别人，车夫看着都怕你失手扎着他的马屁股。下回列阵，手肘夹紧腰眼，用身体带矛，别光用手腕硬撑。”
+Toma连连点头，脸颊微红，把那二十文钱小心翼翼地塞进贴身的布袋，还拍了拍胸口确认没有漏缝。
+坐在最边上的Jory同样捏着那把沉甸甸的铜钱。他的手指有些发硬，铜钱上的铜绿蹭在粗糙的指纹里，但他只是反复摩挲着，眼神有些游移，嘴唇动了几下，似乎在心底盘算着什么。
+Rowan把剩下的钱扎紧袋口，塞回内衬的皮暗兜里，系紧了革带。
+“歇得差不多了就动身。”
+Rowan站起身，拍了拍皮甲上的浮土，“营地那边Dain他们还在当值。今天天黑前必须赶回Stonewake渡口，路上不耽搁，回到营地再吃热麦粥。”
+Bram和Toma立刻抓起长矛站了起来。
+Jory也跟着站起身，但他没有立刻去拿靠在墙边的长矛。他站在长凳旁，两只手下意识地攥着那袋铜钱，喉结上下滚动了一下，似乎终于下定了决心。
+“那个……队长。”
+Jory抬起头看着Rowan，神色局促中带着几分急切，“我想跟您打听个事儿……就是我同村的一个发小，身板比我结实多了，以前在石场干重活的。这两天石料场停了工，他正到处托人找饭吃。要是咱们Stonewake渡口那边往后还要招弟兄……”
 
-(Đoạn 10 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 11 sẽ bắt đầu ngay sau chỗ này.)

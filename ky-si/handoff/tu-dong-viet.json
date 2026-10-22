@@ -1,0 +1,10 @@
+{
+  "automationId": "ti-p-t-c-vi-t-k-s",
+  "kind": "heartbeat",
+  "status": "ACTIVE",
+  "cadence": "Mỗi giờ, trong chính task này",
+  "maxSegmentsPerRun": 2,
+  "checkpoint": "handoff/progress.json",
+  "workflow": "gemini/ghep-goi.py + gemini/luu-doan.py; Agent review trước lưu",
+  "limits": "Theo outline hiện có; thay đổi lớn cần Tác giả quyết; không giả Writer nếu trình duyệt không truy cập được."
+}

@@ -41,3 +41,7 @@ Ngày2: đội4 rời bến, gặp xe củi lún ở góchẹp; người xin gi�
 ### Diễn biến làm việc009
 
 Ngày2: qua góchẹp, tới đúngkho; khách đềnghị sangkho phụ, đang thương lượng phầnthêm, chưa nhận2 bạc.
+
+### Diễn biến làm việc010
+
+Ngày2 sau gầntrưa: hoàn tất tới kho phụ theo thỏa thuận thêm50đồng, nhận2bạc50đồng. Trảthưởng3người tổng60đồng, quỹ35bạc70đồng. Chưa vềbến, chuẩn bịtrở lại trong cùng chiều.
