@@ -30,3 +30,5 @@
 
 2026-10-23 | Writer 002 | Chạy bốn lượt, mỗi lượt hỏng chuyển session mới; giữ SI v0.2, rút gói và làm rõ phạm vi | Ba lượt đầu có lỗi quân số/quyền phí/kỹ thuật; giữ nguyên văn, prompt, SI, metadata, review | Agent thực hiện yêu cầu viết tiếp
 2026-10-23 | bản thảo 002 | Giữ lượt 04, 2.129 chữ Hán, review SỬA NHẸ; hai nhóm bốn, kiểm hai xe ghép, dừng ở Alden hỏi điều kiện công thêm; chưa sửa chính văn hoặc ghi Tác giả duyệt | Lưu để đọc; cân nặng và thao tác phà tự thêm chỉ là lời chưa kiểm, không chốt thông số canon | Agent review
+
+2026-10-23 | báo cáo trên chat | Lưu chính văn/prompt/review ở file, chat báo gọn kết quả và đường dẫn; hạn chế xuất lặp nội dung dài, không gửi ảnh Writer theo mặc định | Tiết kiệm quota theo yêu cầu mới | Tác giả

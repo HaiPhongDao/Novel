@@ -1,5 +1,14 @@
 # Lưu ý của Tác giả
 
+## Báo cáo gọn để tiết kiệm quota — 23/10/2026
+
+Tác giả: “Để tiết kiệm quota bạn có thể không cần gửi text truyện hoặc thứ tương tự lên chat”.
+
+- Chính văn, bản thử, SI, prompt và review đầy đủ lưu trong repo; chat chỉ báo ngắn kết quả, đường dẫn file, trạng thái Git và vấn đề cần Tác giả quyết định.
+- Không dán lại truyện, prompt dài, review đầy đủ hoặc ảnh chụp Writer vào chat theo mặc định. Khi Tác giả yêu cầu trích/xem thì cung cấp đúng phần cần.
+- Trong quá trình làm, tránh xuất lặp bản thảo hoặc nội dung dài qua công cụ. Khi chỉ kiểm lưu file/cấu hình thì báo độ dài, hash hoặc kết quả kiểm; vẫn đọc chính văn cần thiết để review thực chất.
+- Việc truyền prompt và phần tiền tình cần thiết cho Writer vẫn thực hiện theo quy trình; yêu cầu này điều chỉnh lượng nội dung báo trên chat.
+
 ## Thoại phải lưu loát, nói trọn ý — 23/10/2026
 
 Phản hồi nguyên văn: “Phần thoại của nhân vật đang bị cụt, không đủ lưu loát”. Tác giả yêu cầu lưu lại vào Git để áp dụng cho các lần viết và review truyện Kỵ sĩ tiếp theo.
