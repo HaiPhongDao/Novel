@@ -136,7 +136,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - [ ] Không mở tuyến truyện mới ngoài kế hoạch (nếu có → ghi đề xuất, không tự chấp nhận)
 
 **Văn phong**
-- [ ] Đúng system instruction 文风 của Gemini (đặc biệt mục 四、写完自查)
+- [ ] Đúng system instruction 文风 của Gemini; soát theo danh sách lỗi `<ten-truyen>/gemini/review-blacklist.md`
 - [ ] Không có dấu hiệu chép prompt / chạy checklist
 - [ ] Thoại tự nhiên, phân biệt được giọng từng nhân vật
 - [ ] Nhân vật chính chủ động, có tính toán
