@@ -69,7 +69,7 @@ Leon nói luật Aldermark, 领主府 quản giếng, nước sôi phát không 
 Leon giao ba việc: hố xí chung 35 bước dưới giếng, dọn phân sau nhà, rãnh chặn nước hình cung phía trên giếng; thành giếng xây cao ba thước, nắp đá có khoá. 小七 tính rãnh quá sức → Leon chảy máu cam. Mira báo Tobi qua khỏi, tặng tấm da cáo đỏ; Bram quá ngày về. Chiều Ngày 5: không ca mới; Hob đứng khai thật 5800 pound (sợ lãnh chúa vét lương dân giấu); Leon: "我知道" — biết từ hôm ở kho.
 
 ### Đoạn 6 — đêm Ngày 5 → sáng Ngày 6
-Đêm, phòng ngủ tầng hai: Leon vạch mẩu đá đen lên lò sưởi (vệt đen), bỏ vào lửa — khó bén, rồi lửa vàng, mùi lưu huỳnh, nóng hơn gỗ. 小七: than đá, nhiệt trị 2,3–2,5 lần gỗ cứng; cảnh báo CO không màu không mùi, ngủ là chết (84%); lớp than lộ ở sườn đông đủ cả lãnh địa sưởi ít nhất ba mùa đông (60%). Leon mở toang cửa chớp, hiểu nhà lão Jim: bịt kín cửa, chết trong khói than trước, lửa bén mái sau. Sáng Ngày 6, sườn đông: Doyle (tay quấn vải) đập một sọt than; Leon cho xếp hai hố lửa — mười thanh củi sồi và ba thanh mồi phủ nửa sọt than. Dân làm dấu trừ tà, chê mùi "lưu huỳnh địa ngục". Chưa tới nửa canh giờ củi thành tro, than đỏ rực, nóng gấp đôi. Leon nói: gỗ mái sập chỉ đủ đun nước, có than thì mùa đông nhà nào cũng ấm; ba quy tắc — chỉ đốt trong bếp/lò có ống khói gạch bùn; phòng có than phải chừa khe gió một ngón tay, ai bịt kín thì dỡ mái nhà; trước khi ngủ phải ủ tắt lửa hoặc mở hẳn lỗ thông, không thì như nhà lão Jim. Hob đứng chống gậy: "老Jim……是我一母同胞的亲兄弟", hôm Jim mang đá về ông có mặt; "到死……也不会碰这石头一下". Dân đứng cách hố lửa mười bước; Hob đứng xa nhất.
+Leon đốt thử mẩu đá đen trong lò sưởi: than đá; 小七 cảnh báo khí CO (84%), trữ lượng sườn đông đủ sưởi ít nhất ba mùa đông (60%); Leon hiểu nhà lão Jim chết vì khói than trước khi cháy. Sáng Ngày 6 đốt so sánh ngoài trời: củi thành tro, than vẫn đỏ. Ba quy tắc than (bếp có ống khói; chừa khe gió một ngón tay, bịt kín thì dỡ mái; trước khi ngủ ủ tắt lửa hoặc mở lỗ thông). Hob: lão Jim là em ruột ông, ông thề không đụng than.
 
 ### Đoạn 7 — đêm Ngày 6 → sáng Ngày 7
 Đêm gió tuyết đầu tiên. Dunn (ngoài bốn mươi, thợ đan liễu, hay ho) lén lên sườn đông xúc nửa bao than còn hồng về đốt trong hầm đất, chèn ván kín cửa, nhét rơm khe cửa; ngủ cùng vợ và mẹ già nằm liệt. Gần sáng vợ Dunn bò ra kêu cứu. Gareth dùng xà beng phá cửa; Leon cấm dân xông vào, cùng Gareth nín thở kéo ba người ra đầu gió, sai lấy đất lấp hố than. 小七: môi đỏ anh đào; Dunn và vợ nhẹ, bà cụ nặng (sống 71%). Leon móc đờm, ấn ngực, bà cụ thở lại; Dunn ôm đầu nôn. Không ai chết. Dunn dập đầu xin tha; Leon tự tay cạy tấm ván chèn cửa, khoét lỗ khói to bằng miệng bát: "我说过，留一指风缝，谁敢封死，我就扒了谁的屋顶。" — lần sau lấp hầm. Hob chống gậy tới, nhìn mặt đỏ của bà cụ — y như mặt Jim khi lôi ra khỏi đống đổ nát. Không nói gì, ông lên sườn đông, lấy xẻng xúc nửa gùi than, cõng về căn nhà gỗ có ống khói gạch bùn của mình; dân nhìn theo. Mira ở lại, đứng thẳng: Tobi đã ăn được bát cháo mạch nóng; cha vào rừng tám ngày; cô biết dấu hiệu cha để lại, xin mượn Gareth đi tìm. Leon tính: Bram là mắt và cây cung giỏi nhất của lãnh địa, nhưng không thể để Gareth đi một mình rồi ở lại với Pell. "Gareth会去。我也去。明天天一亮，村口集合。"
@@ -77,44 +77,45 @@ Leon giao ba việc: hố xí chung 35 bước dưới giếng, dọn phân sau 
 ### Đoạn 8 — Ngày 8
 Leon, Gareth, Mira vào 迷雾森林; Leon yếu, mang bình sắt nước sôi và vải sạch. Mira đọc dấu cành bẻ của cha. Dấu chân sói lớn hơn sói xám 26%, nặng 110–125 pound (72%), đói. Xác hoẵng mới bị xé; một con sói mắt đỏ gầy trơ xương lao vào Leon, Gareth một nhát chém bay đầu. Trên sườn trái nó có ba vết cào cũ liền vảy, mỗi vết cách nhau 5,7 cm, sâu tới cơ; 小七 không khớp được với sói, gấu hay báo tuyết — "sinh vật lớn chưa biết" (83%). Leon không nói với ai. Quá trưa tới lán săn dưới sườn đá bazan: Bram nằm bốn ngày, bắp chân phải bị xé mưng mủ, sốt; Leon rửa bằng nước sôi, nặn mủ, đắp mã đề, băng lại. Bram kể bầy mười bốn con, con đầu đàn cao gần bằng người, chạy từ núi phía bắc xuống nam, lông dựng, ỉa chảy: "它们是在逃命。" Chập tối ra bìa rừng, Gareth và Leon dìu Bram, Mira đi sau; Leon ngoái lại, trong sương một hàng dài mắt đỏ đứng nhìn theo.
 
+### Đoạn 9 — tối Ngày 8
+Hàng mắt đỏ dừng ở bìa rừng; 小七 đếm 28 đốm = 14 con (89%), đói, chưa định xông lên (76%). Gareth cầm kiếm đi lùi sau cùng; lùi hơn hai trăm bước thì mắt đỏ chìm vào đêm. Phía bắc làng chỉ có hàng rào cành khô cao nửa người. Về nhà Mira: Tobi đã đứng dậy được, Bram nằm trên đống rơm mạch. Hob cầm đuốc nhựa thông tới, đứng chống gậy; Leon nói mười bốn con sói mắt đỏ. Bram: chúng bị thứ gì trong núi đuổi ra, đi theo đường nai, lối gần nhất là lòng suối cạn đáy sỏi phía bắc — nửa canh giờ từ rừng tới đầu làng. 小七: 3–5 ngày nữa bầy xuống (81%). Leon ra kế hoạch: rào cọc nhọn cao 2 m dài ~210 m (630 cọc, 140 thanh giằng), hào nông phía trước, chậu than sau rào cách nhau 20 bước; 40 đàn ông làm 3 ngày rưỡi (85%); cọc lấy từ thông đỏ chết khô ở sườn đông; người già, đàn bà, trẻ con cõng than đun nước. Người làm rào thêm nửa pound lương mỗi ngày, lười thì mất cả phần. Bram góp mẹo: chừa khe hai thước ở lòng suối cạn, sau khe đào hố chông ngạnh ngược phủ tro cỏ, treo da bôi mỡ cừu làm mồi. Hob nhận chia người lúc trời sáng, chống gậy ra cửa; Leon đứng ở góc nhà nhẩm khẩu phần thêm.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 8)
+## 3. Trạng thái hiện tại (hết đoạn 9)
 
-**Thời điểm:** chập tối Ngày 8, bãi hoang ở bìa nam 迷雾森林, phía bắc làng.
-**Có mặt:** Leon, Gareth (dìu Bram), Bram (chân phải băng, sốt), Mira (cầm cung đi sau). Trong sương ở bìa rừng: một hàng dài mắt đỏ đứng nhìn, không đuổi. Pell ở trang viên.
+**Thời điểm:** đêm Ngày 8, trong nhà gỗ của Mira.
+**Có mặt:** Leon, Gareth, Mira, Tobi, Bram (nằm trên đống rơm mạch, chân phải băng, sốt). Hob vừa ra cửa đi chia người. Pell ở trang viên, chưa gặp Leon cả ngày.
 
 **Leon biết**
-- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon vẫn khen trà rồi lén đổ; Pell tin Leon vẫn uống.
-- Bầy sói mắt đỏ mười bốn con (Bram đếm), con đầu đàn là sói cái cao gần bằng người; chúng chạy từ núi phía bắc xuống nam, về phía làng. Bram: "chúng đang chạy trốn".
-- Một mình Leon biết: con sói bị giết có ba vết cào cũ cách nhau 5,7 cm, 小七 không nhận ra loài nào.
+- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon khen trà rồi đổ vào khe gạch sát tường; Pell tin Leon vẫn uống.
+- Bầy sói mắt đỏ 14 con, đói, bị thứ gì đó trong núi đuổi xuống; lối xuống gần nhất là lòng suối cạn phía bắc. 小七: 3–5 ngày nữa bầy rời bìa rừng (81%).
+- Một mình Leon biết: vết cào 5,7 cm trên xác sói, 小七 không nhận ra loài nào.
+
+**Kế hoạch rào bắc (bắt đầu sáng Ngày 9)**
+- Rào cọc nhọn cao 2 m dài ~210 m: 630 cọc + 140 thanh giằng, thông đỏ chết khô ở sườn đông. Hào sâu 60 cm rộng 1 m trước rào. 40 đàn ông, 3 ngày rưỡi (85%).
+- Chậu than sau rào, cách nhau 20 bước, cháy suốt đêm.
+- Khe hở hai thước ở lòng suối cạn; sau khe là hố chông gỗ ngạnh ngược phủ tro cỏ, treo da bôi mỡ cừu (mẹo của Bram).
+- Người làm rào thêm nửa pound lương/ngày; lười thì mất cả phần thêm lẫn phần ngày. Người già, đàn bà, trẻ con cõng than, đun nước.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Dân làng | 143 người; cộng trang viên (Leon, Gareth, Pell) = 146 miệng ăn |
-| Lương | 1 pound/người/ngày → còn ~34 ngày (tính tới hết Ngày 8) |
-| Tới tuyết đầu mùa | ~81 ngày (tính từ Ngày 8); tuyết kéo dài nửa năm |
+| Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
+| Lương | ~4.960 pound, 1 pound/người/ngày → ~34 ngày (tính tới hết Ngày 8); làm rào tốn thêm ~20 pound/ngày |
+| Tới tuyết đầu mùa | ~81 ngày (tính từ Ngày 8) |
 | Củi đun nước | xà sồi mái sập: còn ~67 ngày |
-| Than | lớp lộ ở sườn đông, đủ sưởi ít nhất 3 mùa đông (60%) |
-| Sói mắt đỏ | nặng 110–125 pound, to hơn sói xám thường |
-| Thể trạng Leon | hồi phục dần; đi rừng nửa canh giờ là chân nặng như chì |
-
-**Lệnh đang chạy**
-- Giếng do 领主府 quản; nước sôi phát không sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
-- Ba quy tắc than; Hob đã dùng than trong nhà mình.
-- Doyle lao dịch.
+| Sói mắt đỏ | 14 con, 110–125 pound mỗi con; đầu đàn là sói cái |
 
 **Đồ vật / chi tiết đã xuất hiện**
-- Bình sắt dẹt đựng nước sôi của Leon; vải gai sạch.
-- Xác con sói bị Gareth giết để lại trong rừng.
-- Lán săn của Bram dưới sườn đá bazan, cách làng nửa ngày đường.
-- Làng: phía bắc là bãi hoang thoai thoải dẫn lên bìa rừng.
+- Bình sắt dẹt đựng nước sôi của Leon.
+- Đuốc nhựa thông Hob cắm ở khe tường nhà Mira.
+- Rào cũ phía bắc: hàng cành khô cao nửa người.
 
 **Tuyến đang mở**
-- Bầy sói đang dạt xuống phía làng.
-- Bram bị thương, cần đưa về nhà Mira.
-- Khoảng trống lương: ~34 ngày lương / ~81 ngày tới tuyết.
+- Làm rào kịp trước khi bầy sói xuống.
+- Bram bị thương nằm nhà Mira.
+- Khoảng trống lương: ~34 ngày lương / ~81 ngày tới tuyết; làm rào ăn thêm.
 - Mèo vờn chuột với Pell.
 
 ---
@@ -169,40 +170,44 @@ Hob看着Leon冷峻的眼神，躬下身去：“我明白了，领主大人。�
 
 “我知道他在林子里留下的暗记。我想进迷雾森林去找他。”
 
+**Bram (đoạn 9):**
+
+“狼精得很，特别是饿极了的畜生。它们看到整排的尖桩子，不会一头撞上去，会贴着边缘摸找缺口。那条旱溪，它们一定会钻。”
+
+“掉进去一个，就废一个。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 8 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 9 (để nối mạch và giữ giọng)
 
-“我第一天进山就碰到了狼群。不是三五只散狼……是整整十四只红眼狼的大群，领头的母狼站起来快有人高。”
-他咽了口唾沫，声音沙哑得像是在砂石上磨过：
-“它们从北边的群山深处冲出来，一路往南边跑，根本不在乎领地，也不按规矩猎食。这几天，木屋外面起码过去了两拨狼。”
-Leon想起那只饿得皮包骨、肋骨上带着巨大爪痕的死狼，目光微动：“它们在迁徙？”
-“不。”
-Bram摇了摇头，眼中浮现出一股深入骨髓的惊恐：
-“我打了二十年猎，分得清什么是迁徙。它们身上的毛全是炸开的，拉出来的屎都是稀水……大人，它们不是在捕猎，也不是在迁徙。”
-老猎手喘了一口粗气，一字一顿地说道：
-“它们是在逃命。”
-木屋里陷入了死一般的沉寂。
-连一向胆大的Mira，脸色也在这一刻变得煞白。
-能把十多只凶悍残暴的红眼狼逼得不顾一切往南逃、甚至逃进人类领地的东西……在这片迷雾森林的最深处，到底有什么？
-Leon没有追问。
-他脑海中划过那道长达5.7厘米的爪印，随即将这些思绪压入心底。
-眼下村子快断粮了，深山里的怪物再要命，也得排在饿死和冻死后面。
-“收拾东西。”Leon扶着腰间的剑鞘，转身看向门外逐渐暗淡的天色，“趁天黑前走，别留在林子里过夜。”
-……
-黄昏降临得比预想的还要快。
-夕阳被厚重的浓雾切割成一片惨淡的血红色，森林里拉出长长的人影。
-Gareth强健的右臂架着Bram庞大的身躯，Leon在另一侧分担着一部分重量，两人合力架着老猎人，脚踩着松软冰凉的落叶，一步一步艰难地挪出了迷雾森林的边缘。
-Mira反握着猎弓走在最后，警惕地扫视着后方逐渐被黑暗吞噬的树冠。
-当脚底终于踩上黑石领那坚硬干爽的荒地泥土时，冷冽干燥的晚风扑面而来，三人都忍不住松了口气。
-Leon停下脚步，有些脱力地扶着膝盖，胸膛剧烈起伏着。
-忽然，后颈的汗毛毫无征兆地倒竖起来。
-那种被极度冰冷、极度贪婪的视线死死锁定的感觉，像针一样扎在他的脊梁骨上。
-Leon猛地转过身，望向那片逐渐被夜幕笼罩的黑松林边缘。
-灰白色的浓雾在树干之间无声翻滚。
-在那片死寂的幽暗阴影中，不知何时，亮起了一排、两排、三排……
-密密麻麻的猩红光点在夜雾中悬浮着，悄无声息地排成了一道漫长的弧线，居高临下地注视着走出森林的几人。
-没有咆哮，也没有呜咽。
-只有几十双冰冷嗜血的血红眼珠，在北境初降的夜色中，幽幽地泛着不祥的凶光。
+“斧头、铁锹、十字镐，把各家能用的铁器全收拢起来。东边山坡上有大批枯死的红松，砍下来削尖做拒马木桩。”
+“栅栏后头，每隔二十步架一个炭火盆。”
+Leon伸出两根手指，“石头炭在露天烧没有毒气，火头硬，烧得久。狼怕火，更怕硫磺的焦臭味。只要火盆通宵点着，它们不敢轻易扑桩子。”
+听到“石头炭”，Hob的身子微微僵了一下，但这次他没敢反驳。
+老村长看了一眼躺在麦秆上动弹不得的Bram，咽了口唾沫，低声道：
+“挖坑伐木……男人们肚子空，干半天怕是就抡不动斧子了。”
+“参与挖壕砍树的，每天口粮加半磅黑麦，顿顿给足热水。”
+Leon毫不犹豫地打断了他，“但我只要成活。谁敢偷懒耍滑，不仅加的那半磅没有，当天的份例也扣光。”
+Hob眼中闪过一丝肉痛，但也知道这是唯一的办法，连忙点头：“我……我晓得利害，大人。”
+“大人，光有桩子还不够。”
+一直闭目喘息的Bram忽然哑着嗓子开口。
+老猎手撑着胳膊，勉强坐直了半个身子，沾着冷汗的脸上满是狠戾：
+“狼精得很，特别是饿极了的畜生。它们看到整排的尖桩子，不会一头撞上去，会贴着边缘摸找缺口。那条旱溪，它们一定会钻。”
+Leon看向他：“你的意思是？”
+“留个扣子给它们钻。”
+Bram抬手比画了一个漏斗的形状，喘着粗气说道：
+“栅栏在旱溪那里故意留个两尺宽的窄缝，别封死。缝后头挖陷坑，底下插削尖了倒刺的硬木签子。上面撒上草灰做伪装，再挂一块涂了羊油的烂皮子。”
+“那些畜生顺着风闻到油味，又看见有缺口，肯定会争着往里挤。”
+老猎手嘴角抽搐了一下，露出满嘴黄牙：
+“掉进去一个，就废一个。”
+Leon点了点头。
+专业的事还是得让专业的人干，老猎人这招诱杀确实比单纯死守管用得多。
+“按Bram说的办，旱溪那边交给你盯着做陷阱。”
+Leon转头看向Hob，站起身来拍了拍身上的草屑，“天亮前把人分好。老弱妇孺负责去山坡背煤、烧开水，四十个男人分成两拨，一拨砍树削桩，一拨挖壕沟。”
+“是……领主大人。”
+Hob神色肃然，抓紧了手里的火把，转身一瘸一拐地朝门外挪去。
+柴门开了又合，带进一阵刀子般的寒风。
+屋里只剩下火塘里偶尔爆裂的干柴脆响。
+Leon揉了揉眉心，站在昏暗的屋角，脑子里还在一笔一笔地扣算着那四十个劳力的额外口粮。
 
-(Đoạn 9 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 10 sẽ bắt đầu ngay sau chỗ này.)
