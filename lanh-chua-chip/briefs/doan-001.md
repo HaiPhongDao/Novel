@@ -11,7 +11,7 @@ Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiế
 - Tình hình: nửa mái phía đông của trang viên đá đã sập; làng dưới chân đồi chừng trăm bốn mươi người; lão quản gia ôm sổ sách và một nửa lương thực bỏ trốn ba hôm trước; hai người đánh xe đã quay về thành; kho trang viên còn chưa tới 200 pound lúa mạch đen mốc.
 
 【Chuyện xảy ra trong đoạn này】
-陈明康 tỉnh dậy trong căn phòng đá ẩm mốc của trang viên 黑石领. K-07 khởi động lại trong đầu anh. Ký ức của Leon gốc trồi lên từng mảnh, và anh biết mình là ai.
+陈明康 tỉnh dậy trên một chiếc giường gỗ trong căn phòng đá của trang viên 黑石领. K-07 khởi động lại trong đầu anh. Ký ức của Leon gốc trồi lên từng mảnh, và anh biết mình là ai.
 Gareth vào phòng, mừng vì thiếu gia tỉnh. Leon hỏi thẳng tình hình, và Gareth báo cáo bằng lời của chính ông, từng việc một, giọng của một lính già. Leon tính trong đầu chưa tới 200 pound lúa mạch nuôi được bao nhiêu miệng ăn trong bao lâu. Pell bưng vào một bát trà thảo mộc nóng; Leon buồn nôn, bảo để trên bàn, cho cả hai lui ra. Ra tới hành lang, Gareth dừng lại nhìn cánh cửa; lời kể vào đầu ông vài dòng: ông nhớ lại một chuyện cụ thể Leon trước kia từng làm, đặt cạnh cái người vừa hỏi ông chuyện lương thực, và nghĩ về cậu bằng lời của chính ông.
 Còn lại một mình, Leon bảo 小七 xem cơ thể này. 小七 chạy hết sức, Leon chảy máu cam. 小七 đọc bốn dấu hiệu Leon đang cảm thấy và nhìn thấy: vị kim loại đắng trong miệng, những vạch trắng nằm ngang trên móng tay, đầu ngón tay tê, tim lúc nhanh lúc chậm. Kết luận: ba đến sáu tuần qua cơ thể này bị đầu độc mãn tính, chưa xác định được loại độc, 置信度 78%. Leon nhìn bát trà Pell để trên bàn và hiểu ra Pell là bàn tay bỏ độc, còn kẻ sai khiến ở thành Varen.
 

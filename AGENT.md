@@ -119,6 +119,7 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 10. **Không dùng bước "tự kiểm sau khi viết".** Trong chat, model viết một lượt rồi dừng — nó không đọc lại và sửa văn đã viết, nên câu nhắc tự kiểm không có tác dụng. Mọi chuẩn văn phải nằm trong SI dưới dạng **chuẩn khi đang viết**; khâu kiểm thật sự là review của Agent (`review-blacklist.md`), đoạn hỏng thì làm lại ở session mới.
 11. **Thiết lập chỉ ghi sự thật trơn**, không kèm mệnh đề nhân quả hay diễn giải ("…nên…", "vì…", "như thể…", "như chưa từng…"). Writer kể lại những mệnh đề đó thành câu giải thích trong chính văn (bài học lượt 2, đoạn 1).
 12. **Chuỗi kỹ thuật cố định của bàn tay vàng** (câu khởi động, cách xưng) được ghi nguyên văn trong prompt — đây là ngoại lệ của nguyên tắc 2, vì ta *muốn* Writer chép đúng.
+13. **Tính từ cảm giác trong prompt sẽ thành câu mở đầu.** "Phòng ẩm mốc" → văn mở bằng mùi mốc "直往鼻孔里钻" (3 lần liên tiếp). Chỉ ghi tính từ cảm giác khi muốn Writer mở cảnh đúng bằng cảm giác đó.
 
 ---
 

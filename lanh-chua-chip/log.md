@@ -49,3 +49,4 @@
 2026-10-22 | dự án | Bắt đầu lượt 2 từ đoạn 1 với SI v2; lượt 1 (đoạn 1–5) vào `archive/run-1/`. Canon và các quyết định đã duyệt giữ nguyên (Pell phương án A) | Yêu cầu của Tác giả | Tác giả
 2026-10-22 | doan-001 (lượt 2) | Bản 1 làm lại: giải thích thừa. Nguyên nhân chính: prompt có mệnh đề nhân quả/diễn giải; SI cho phép so sánh khắp nơi. Sửa SI v2 (so sánh chỉ trong cảnh đánh nhau; lời kể không kể lý lịch/động cơ), thêm nguyên tắc prompt 11–12, prompt bản 2 | Tác giả nhận xét | Tác giả
 2026-10-22 | doan-001 (lượt 2) | Bản 2 làm lại: SI sửa quá tay, mất giọng Gareth và phần giải thích. SI v2: so sánh thuộc về nhân vật (người kể nói thẳng); phần nền đi qua phép tính / thoại; báo cáo là thoại của người báo cáo | Tác giả nhận xét | Tác giả
+2026-10-22 | doan-001 (lượt 2) | Prompt bản 3 bỏ "ẩm mốc" (Tác giả phát hiện: tính từ cảm giác trong prompt kéo câu mở đầu thành mùi) → AGENT.md nguyên tắc 13 | Tác giả | Tác giả
