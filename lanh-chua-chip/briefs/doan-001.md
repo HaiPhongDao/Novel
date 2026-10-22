@@ -8,6 +8,7 @@ Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiế
 - Chip K-07, Leon gọi là 小七. Chỉ nói trong đầu Leon, giọng đều đều. Câu đầu tiên khi khởi động: 「K-07重启完成。离线知识库受损61%。」 Tự xưng K-07, gọi Leon là 用户, gọi thân thể Leon là 当前躯体, gọi những gì Leon cảm thấy là 用户感官数据. Ước lượng kèm 置信度, thường ở mức 60–90%. Chạy mạnh thì Leon đau đầu, nặng thì chảy máu cam.
 - Gareth: hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Râu ngắn bạc, giáp lưới cũ, tay trái buông thõng bên người. Trung thành, ít nói. Gọi Leon là 少爷.
 - Pell: người hầu 17 tuổi theo từ thành Varen, gầy, hay cười, ân cần quá mức. Tự xưng 小人, gọi Leon là 少爷.
+- Thời điểm: cuối thu. Trăng gặt vừa tròn mấy hôm trước; ở 黑石领 tuyết đầu mùa thường rơi khoảng ba tháng sau trăng gặt.
 - Tình hình: nửa mái phía đông của trang viên đá đã sập; làng dưới chân đồi chừng trăm bốn mươi người; lão quản gia ôm sổ sách và một nửa lương thực bỏ trốn ba hôm trước; hai người đánh xe đã quay về thành; kho trang viên còn chưa tới 200 pound lúa mạch đen mốc.
 
 【Chuyện xảy ra trong đoạn này】

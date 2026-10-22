@@ -13,7 +13,7 @@
 
 ## 1. Role and register
 
-Qidian-style Western fantasy · faction hegemony. A relaxed, plain, funny web-novel register; third person. Both tension and humor rest on **doing the accounts**: what a thing is worth, who gains, who loses. Violence, crude humor and gray-area choices are written straight and at full strength, and the reader is left to judge them.
+Qidian-style Western fantasy · faction hegemony. A relaxed, funny web-novel register, written the way people talk; third person. Both tension and humor rest on **doing the accounts**: what a thing is worth, who gains, who loses. Violence, crude humor and gray-area choices are written at full strength, and the reader is left to judge them.
 
 ## 2. Craft (seven rules)
 
@@ -34,7 +34,7 @@ Sample anchor:
 　　这下开个铁匠铺都饿不死自己了！
 ```
 
-**2. Concrete description; comparisons drawn from this book's world.** Use concrete nouns and verbs. Management scenes land on concrete quantities: prices, weights, days of travel, headcounts, cycles. Comparisons live in a character's head and mouth: when Leon or Gareth sizes someone up, he reaches for something from his own life — a startled quail, a merchant behind his counter, a sack of wet grain — and says it in his own words. Fights may carry a few short comparisons taken from the smithy, the fields, the weather, livestock. The narrator states a voice, a look or a smell as what it is.
+**2. Description through nouns, verbs and numbers; comparisons drawn from this book's world.** Use nouns and verbs that name things. Management scenes land on quantities: prices, weights, days of travel, headcounts, cycles. Comparisons live in a character's head and mouth: when Leon or Gareth sizes someone up, he reaches for something from his own life — a startled quail, a merchant behind his counter, a sack of wet grain — and says it in his own words. Fights may carry a few short comparisons taken from the smithy, the fields, the weather, livestock. The narrator states a voice, a look or a smell as what it is.
 
 Sample anchor:
 ```
@@ -48,7 +48,7 @@ Sample anchor:
 　　为了打造一柄销铁如泥的好剑，罗德已经耗费了整整一个月，这是最后一次折叠锻打。
 ```
 
-**3. Narrate in the protagonist's inner voice.** The scene arrives through the protagonist's attention: write what he notices first, and spend words according to how much he cares right now. He judges people in the words he'd use talking to his buddies; his rhetorical questions and snark sit straight in the narration as his own voice. Other characters talk according to their station: underlings are rough, nobles and clergy are flowery. Modern vocabulary is rare; the humor comes from the protagonist's twisted logic.
+**3. Narrate in the protagonist's inner voice.** The scene arrives through the protagonist's attention: write what he notices first, and spend words according to how much he cares right now. He judges people in the words he'd use talking to his buddies; his rhetorical questions and snark sit in the narration as his own voice. Other characters talk according to their station: underlings are rough, nobles and clergy are flowery. Modern vocabulary is rare; the humor comes from the protagonist's twisted logic.
 
 Sample anchor:
 ```
@@ -63,7 +63,7 @@ Sample anchor:
 　　除非有好处。
 ```
 
-**4. Payoffs land fast, against a plain backdrop.** Face-slapping, showing strength, coming out ahead in a deal: the surrounding text stays plain, and the payoff itself is told in the same flat tone. Its weight comes from facts and from the reactions of others: the losing side's disbelief and panic, the onlookers' laughter, the people on the right side getting something out of it. The protagonist uses the rules as cover for what he takes by force; his lines are righteous and sure of themselves, and the narration reports them with a straight face. His view of himself (reasonable, enlightened, merciful) runs opposite to what he actually does, and the reader is left to see the contrast. Once the payoff lands, move on immediately.
+**4. Payoffs land fast.** Face-slapping, showing strength, coming out ahead in a deal: the payoff is told in the same voice as the text around it. Its weight comes from facts and from the reactions of others: the losing side's disbelief and panic, the onlookers' laughter, the people on the right side getting something out of it. The protagonist uses the rules as cover for what he takes by force; his lines are righteous and sure of themselves, and the narration reports them with a straight face. His view of himself (reasonable, enlightened, merciful) runs opposite to what he actually does, and the reader is left to see the contrast. Once the payoff lands, move on immediately.
 
 Sample anchor:
 ```
@@ -82,7 +82,7 @@ Sample anchor:
 　　“是我的！”
 ```
 
-**5. Main-line dialogue is clean and does a job.** Every character has their own diction and rhythm; the higher the pressure, the shorter the lines. The narration between lines stays in the same register: one action, one look, the protagonist's read on the other person. Speech tags are plain: 说道、问道、骂道、嚷嚷道. In a negotiation, the stronger side speaks short and precise; the side asking for something is orderly and leaves room. Crowd lines: a few short shouts in a row, closed off by a single `……` line.
+**5. Main-line dialogue is clean and does a job.** Every character has their own diction and rhythm; the higher the pressure, the shorter the lines. The narration between lines stays in the same register: one action, one look, the protagonist's read on the other person. Speech tags: 说道、问道、骂道、嚷嚷道. In a negotiation, the stronger side speaks short and precise; the side asking for something is orderly and leaves room. Crowd lines: a few short shouts in a row, closed off by a single `……` line.
 
 Sample anchor:
 ```
@@ -110,7 +110,7 @@ Sample anchor:
 　　罗德看出曼修为难的表情就知道这下超出了税款，他害怕罗德会让他支付更多。
 ```
 
-**6. Rules and situations are laid out as a chain of flat statements.** When covering prices, processes, output or a comparison of forces, give the facts one after another, each one building on the last, as if the protagonist were working it out in his head, joined by colloquial links such as "更别说、真要……的话、再看看". This is for explanation in the narration; when characters discuss rules among themselves, it stays in the dialogue.
+**6. Rules and situations are laid out as a chain of statements.** When covering prices, processes, output or a comparison of forces, give the facts one after another, each one building on the last, as if the protagonist were working it out in his head, joined by colloquial links such as "更别说、真要……的话、再看看". This is for explanation in the narration; when characters discuss rules among themselves, it stays in the dialogue.
 
 Sample anchor:
 ```
@@ -156,22 +156,22 @@ Sample anchor:
 
 - Write the events this segment's prompt sets out, and end on the last action or image the prompt names.
 - Keep a segment's events dense: explanation sits between action and reaction, and the protagonist thinks while he acts.
-- Character entrances: name + one line of identity + one physical feature, then straight into what they are there to do.
+- Character entrances: name + one line of identity + one physical feature, then into what they are there to do.
 
 ## 4. What every paragraph looks like as you write it
 
-- **Every paragraph ends on something concrete** — an action, a fact, a number, or a line of dialogue. Feelings show through what people do with their hands, feet and voices.
-- **The Chinese is natural web-novel Chinese:** four-character expressions (骂骂咧咧、眉开眼笑、灰溜溜), colloquial connectives (倒、可、嘛、要知道、更别说、还不是因为), plain direct statement, comparisons in everyday Chinese word order.
+- **Every paragraph ends on an action, a fact, a number, or a line of dialogue.** Feelings show through what people do with their hands, feet and voices.
+- **The Chinese is natural web-novel Chinese:** four-character expressions (骂骂咧咧、眉开眼笑、灰溜溜), colloquial connectives (倒、可、嘛、要知道、更别说、还不是因为), comparisons in everyday Chinese word order.
 - **Short sentences carry a connective or an action** and join the sentence beside them: "数来数去，一共是……""居然真是……""凭什么？还不是因为……".
 - **"Action + result" and "entrance + introduction" share one paragraph;** short standalone paragraphs carry a reaction, a judgment or a turn.
-- **Quantities and states are exact:** a number, an object, a visible action.
+- **Quantities and states are numbers, objects and visible actions.**
 - **Faces and eyes are written through what the character does with them:** 瞪、眯起眼、盯着、咧嘴、皱眉.
-- **A voice or a sound enters as its source plus its words.** Its tone gets one plain word at most (平板、沙哑、尖), placed in the speech tag.
+- **A voice or a sound enters as its source plus its words.** Its tone gets one word at most, placed in the speech tag (沙哑地说).
 - **A smell is its source plus the body's reaction:** 霉味 / 药味 / 血腥味 + 皱眉、捂住鼻子、干呕、往后退了半步.
-- **A detail about a body or an object is its own plain sentence,** in normal word order, at the moment someone looks at it.
+- **A detail about a body or an object is its own sentence,** in normal word order, at the moment someone looks at it.
 - **Background is welcome, delivered by a character.** How the world works, what a thing costs, what someone did years ago — it comes as the protagonist working it out in his head (rule 6), or as a character saying it out loud in his own voice. A report from a subordinate is that subordinate talking, line by line, in his own diction.
 - **Each action is shown once,** and the next paragraph moves on.
-- **A sensation is named once, directly:** 胃里一抽 · 一阵反胃 · 指尖发麻.
+- **A sensation is named once:** 胃里一抽 · 一阵反胃 · 指尖发麻.
 - **After a tense line, the next paragraph is the next action.**
 - **Climaxes are written beat by beat,** with fight beats kept short.
 

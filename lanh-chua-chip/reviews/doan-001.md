@@ -52,3 +52,28 @@ Bản nháp: `archive/run-2/doan-001-v2.md`.
 ### Đã sửa
 - **SI v2:** so sánh thuộc về đầu và miệng nhân vật (lời của chính họ); người kể nói thẳng giọng/ánh nhìn/mùi. Phần nền (thế giới, giá cả, chuyện cũ) được hoan nghênh, đi qua phép tính của Leon hoặc lời nhân vật; báo cáo của cấp dưới là thoại từng câu của người đó.
 - **Prompt bản 3:** Gareth báo cáo bằng thoại của mình; ở hành lang ông nhớ lại một chuyện cụ thể về Leon trước kia.
+
+## Bản 3 (prompt bản 3, bỏ "ẩm mốc")
+Bản nháp: `archive/run-2/doan-001-v3.md`.
+
+**Tác giả:** vẫn có câu kiểu "…rất thực". Hỏi: do anchor hay do đầu vào nhiều token?
+
+### Chẩn đoán
+- **Không phải anchor:** anchor chỉ có 着实、严严实实、其实 — dùng bình thường.
+- **Không phải do nhiều token:** đây là tin nhắn đầu của session mới, đầu vào chỉ SI + prompt (vài nghìn token). Hiện tượng trôi theo độ dài chỉ xuất hiện khi một session viết nhiều đoạn (lượt 1, đoạn 5).
+- **Nguyên nhân gần nhất: từ vựng của SI lọt vào văn.** SI v2 tả cách viết bằng các tính từ phẩm chất — plain ×7, concrete ×4, straight ×4, exact ×3, flat ×2 — và cho sẵn "平板" làm ví dụ giọng. Writer "diễn" các phẩm chất đó thành chữ: "扎得极实", "实在账", "机械平直的声音", "硬邦邦". Cùng cơ chế với câu phủ định mồi ngược.
+- Đã sửa: gỡ toàn bộ tính từ phẩm chất khỏi SI (còn 0), thay bằng mô tả thao tác (danh từ, động từ, con số; câu riêng; một từ trong thẻ thoại).
+
+### Lỗi canon
+- **Sai mùa:** "北境的春耕还要等到下个月底", "去年地里剩下的草根和冻坏的芜菁" → thành cuối đông/đầu xuân. Canon: **cuối thu, mùa đông sắp tới**. Lỗi phía Agent: prompt bản 1–3 không ghi mùa. Đã thêm vào prompt.
+
+### Lỗi văn còn lại
+- Người kể vẫn so sánh: "像两块粗砂纸在互相摩擦", "抖得像片风里的枯叶", "热络得像是刚从死神手里把主子抢回来一样".
+- "钻进了鼻腔", "寒气直往骨头缝里钻"; "——黑石领" (—— trong lời kể); "一丝极淡的酸涩气味".
+
+### Làm tốt — bản tốt nhất tới giờ
+- **Gareth** báo cáo bằng 6 câu thoại của chính ông, giọng lính già; ở hành lang nhớ một chuyện cụ thể: năm 14 tuổi Leon khóc cả buổi chiều vì người hầu làm đổ nửa ly rượu mâm xôi đen lên áo nhung.
+- Mở đầu bằng cơn đau đầu, không còn mở bằng mùi.
+- Trà có "酸涩铁腥味" — manh mối tốt. Chip đúng câu khởi động, đúng bốn dấu hiệu, 78%.
+- Kết có tính sổ kiểu Leon: không hắt trà, không đập bát vì "连一个完好的陶碗和木碗都是资产".
+- Nghi phạm sau Pell: bá tước hoặc hai người anh.

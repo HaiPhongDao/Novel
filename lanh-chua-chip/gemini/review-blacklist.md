@@ -39,6 +39,9 @@ Gom từ SI cũ (mục 三, 四, 五) khi SI chuyển sang viết khẳng địn
 - Báo cáo của cấp dưới phải là **thoại của chính người đó**, không bị tóm thành lời kể ("低声汇报起来。情况烂得超出了想象。" + liệt kê bằng lời kể = mất giọng Gareth).
 - Kiến thức / quy tắc / lý lịch: được, nếu đi qua phép tính của Leon hoặc lời nhân vật.
 
+## Tác giả: "…rất thực" (lượt 2, đoạn 1 bản 3)
+- Từ chỉ phẩm chất mà SI dùng để *mô tả cách viết* lọt vào chính văn: "扎得极实", "实在账", "机械平直的声音", "平板无波", "硬邦邦". SI v2 lúc đó lặp plain ×7, concrete ×4, straight ×4, exact ×3, flat ×2 và cho ví dụ "平板" → Writer "diễn" luôn phẩm chất đó vào câu văn. Đã gỡ khỏi SI.
+
 ## Agent bắt thêm (cùng bản test)
 - Tên bị phiên âm kèm ngoặc: "莱昂·瓦伦（Leon Varen）", "加雷斯（Gareth）", "佩尔（Pell）".
 - Lời nghĩ của nhân vật phụ để trong ngoặc đơn '…'.
