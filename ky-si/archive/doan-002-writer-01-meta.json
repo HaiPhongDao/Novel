@@ -1,0 +1,13 @@
+{
+  "status": "rewrite_required",
+  "model": "Gemini 3.8 Flash",
+  "modelId": "gemini-3.8-flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "sessionUrl": "https://aistudio.google.com/prompts/1vQVn2zixEgE-kP0PF61VlvvJQDrIqnQs",
+  "sessionSegment": 2,
+  "proseCharacters": 3005,
+  "hanCharacters": 2356,
+  "fileSha256": "1bf3630b7b2da1a1c76a203fdbe692c1158b1c13b4541a1401a5fd5e43ad966b",
+  "retrieval": "Rendered ms-text-chunk innerText; prose unchanged, terminal newline appended; readback equality verified."
+}

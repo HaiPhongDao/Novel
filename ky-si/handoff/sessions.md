@@ -1,10 +1,14 @@
 # Nhật ký session Writer
 
-Đã chạy bốn session độc lập ngày 23/10/2026. Hai bản đầu dùng SI v0.1; sau phản hồi thoại cụt có hai bản SI v0.2. Chưa chốt đoạn.
+Bốn session thử 001 ngày 23/10/2026. Tác giả chọn v02-02 để viết tiếp; session đó đã dùng đủ hai đoạn sau lượt 002 đầu (không đạt). Đoạn 002 viết lại ở session mới, cùng SI v0.2.
 
 | Session | Đoạn đã viết | Bắt đầu bằng | Ghi chú |
 |---|---|---|---|
 | [Thử 01](https://aistudio.google.com/prompts/1uVzZFLMzO4D5iP61_gRIDVipD6aNvKAH) | 001 test v01-01 | Prompt 3.372 ký tự | Flash 3.8, High, Grounding tắt; lưu archive; review VIẾT LẠI |
 | [Thử 02](https://aistudio.google.com/prompts/1aC6MxGrvVXl7Ybjn13_X7bCRvyHPVEfZ) | 001 test v01-02 | Prompt 3.602 ký tự | Session mới, cùng SI; lưu archive; review VIẾT LẠI trước chốt |
 | [v02-01](https://aistudio.google.com/prompts/1dwxoq3saUgLu4lhyCDQ_5OLAUkRJQB1R) | 001 test v02-01 | SI v0.2 5.282; prompt cũ 3.602 | Chỉ đổi SI: thoại chưa đạt |
-| [v02-02](https://aistudio.google.com/prompts/1vQVn2zixEgE-kP0PF61VlvvJQDrIqnQs) | 001 test v02-02 | Cùng SI v0.2; prompt 4.096 | Mở trao đổi trong brief: thoại khá hơn; còn lỗi nội dung |
+| [v02-02](https://aistudio.google.com/prompts/1vQVn2zixEgE-kP0PF61VlvvJQDrIqnQs) | 001 được chọn; 002 lượt 01 bị loại | SI v0.2; prompt 001 4.096 ký tự | Đã dùng đủ hai đoạn; không tiếp tục trong session này |
+
+| [002 lượt 02](https://aistudio.google.com/prompts/1w2U8OvEZ28tfKT9gHgbiq42tSluKAN2s) | 002 viết lại, không đạt | Gói 9.600 ký tự sau 001 | Đếm Dain ngoài nhóm, tự đặt quyền phí và thông số |
+| [002 lượt 03](https://aistudio.google.com/prompts/1IWRzcmWWkhJvBt3S_PybHRKh0LB8ZBCE) | 002 viết lại, không đạt | Gói gọn 4.057 ký tự | Đúng quân số; còn cơ học, tên phiên âm và số tự thêm |
+| [002 lượt 04](https://aistudio.google.com/prompts/15-RsuX5OmhUNgFZvlTqETUci_Qc8ezU-) | 002 bản giữ để đọc | SI v0.2 5.282; gói 4.365 ký tự | 2.129 chữ Hán; SỬA NHẸ; còn chỗ cho 003 trong phiên nếu tiếp tục |

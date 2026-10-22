@@ -27,3 +27,6 @@
 2026-10-23 | chốt dùng 001 | Tác giả: “Được rồi. Lấy đoạn 1 bản mới nhất này rồi tiếp tục viết tiếp đi”; chọn v02-02, sao chép nguyên byte sang chapters/doan-001.md, giữ archive và review cũ | Bản nền để nối 002; giữ thân phận theo bible và kiểm chứng nhận định hàng/tải trong cảnh tiếp theo | Tác giả chọn bản, Agent ghi nhận
 
 2026-10-23 | brief 002 | Tiếp lời Rowan, chia tám người thành hai nhóm bốn, cùng Mira kiểm hai xe ghép; dừng ở đề nghị Alden giao việc ghìm dây xuống dốc | Triển khai mục 002 trong outline, giữ trao đổi trọn ý và quyền chuyên môn Mira | Agent lập brief theo yêu cầu viết tiếp
+
+2026-10-23 | Writer 002 | Chạy bốn lượt, mỗi lượt hỏng chuyển session mới; giữ SI v0.2, rút gói và làm rõ phạm vi | Ba lượt đầu có lỗi quân số/quyền phí/kỹ thuật; giữ nguyên văn, prompt, SI, metadata, review | Agent thực hiện yêu cầu viết tiếp
+2026-10-23 | bản thảo 002 | Giữ lượt 04, 2.129 chữ Hán, review SỬA NHẸ; hai nhóm bốn, kiểm hai xe ghép, dừng ở Alden hỏi điều kiện công thêm; chưa sửa chính văn hoặc ghi Tác giả duyệt | Lưu để đọc; cân nặng và thao tác phà tự thêm chỉ là lời chưa kiểm, không chốt thông số canon | Agent review

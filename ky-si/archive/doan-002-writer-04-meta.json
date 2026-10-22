@@ -1,0 +1,17 @@
+{
+  "status": "retained_draft_minor_notes_not_author_approved",
+  "model": "Gemini 3.8 Flash",
+  "modelId": "gemini-3.8-flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "sessionUrl": "https://aistudio.google.com/prompts/15-RsuX5OmhUNgFZvlTqETUci_Qc8ezU-",
+  "sessionSegment": 1,
+  "systemInstructionCharacters": 5282,
+  "promptCharacters": 4365,
+  "proseCharacters": 2745,
+  "hanCharacters": 2129,
+  "fileSha256": "2c5603541aea904b83680e6a2d0ac7829839be32cfcdb15bcfa52fe1d4f39644",
+  "retrieval": "Rendered ms-text-chunk innerText; prose unchanged, terminal newline appended; chapter/archive equality verified.",
+  "chapter": "chapters/doan-002.md",
+  "review": "reviews/doan-002.md"
+}

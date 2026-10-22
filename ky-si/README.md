@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Có bốn bản thử đoạn 001. Theo phản hồi thoại cụt, đã sửa SI v0.2 và mở trao đổi trong brief. Bản mới nhất [v02-02](archive/doan-001-test-v02-02.md) có lời giải thích và lượt đáp nối ý tốt hơn; còn lỗi dữ kiện vận hành nên chưa chốt đoạn.
+**Trạng thái 23/10/2026:** Tác giả chọn [đoạn 001 v02-02](chapters/doan-001.md) để viết tiếp. Đã có [bản thảo đoạn 002](chapters/doan-002.md), 2.129 chữ Hán; [review SỬA NHẸ](reviews/doan-002.md). Giữ được mạch thoại và hai nhóm bốn; cân nặng và một số chi tiết chuẩn bị phà chưa chốt thành thiết lập. Ba lượt 002 trước giữ archive, không dùng làm tiền tình.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -20,12 +20,12 @@
 ## Writer
 
 - **Đọc trước khi lập brief, chạy Writer hoặc review:** [Lưu ý của Tác giả](luu-y-tac-gia.md), đặc biệt yêu cầu thoại nói trọn ý, lưu loát và đáp nối nhau.
-- [SI đang thử v0.2](gemini/system-instruction.md): 5.282 ký tự, Gemini 3.8 Flash, Thinking High, Grounding tắt. Bản lưu AI Studio mới nhất: `Kỵ sĩ - SI v0.2 thoại test02`. SI v0.1 được giữ trong snapshot của hai bản đầu.
+- [SI đang thử v0.2](gemini/system-instruction.md): 5.282 ký tự, Gemini 3.8 Flash, Thinking High, Grounding tắt. Bản lưu AI Studio mới nhất: `Kỵ sĩ - SI v0.2 tiếp đoạn 002`; [session bản 002 giữ để đọc](https://aistudio.google.com/prompts/15-RsuX5OmhUNgFZvlTqETUci_Qc8ezU-). SI v0.1 được giữ trong snapshot của hai bản đầu.
 - [Thay đổi về thoại](gemini/thay-doi-v02.md): tách nhịp lời kể với lượt nói, thêm trích mẫu nối lời và mở cơ hội trao đổi trong cảnh tập.
 - [Kế hoạch thử](gemini/ke-hoach-thu.md), [trích mẫu hiệu chỉnh](gemini/mau-giong.md), [gói thử mở đầu](briefs/session-test-001.md).
-- Mỗi bản thử dùng session riêng, bản gốc nằm trong archive. Phản hồi Tác giả cho phép sửa thoại và chạy lại; chưa suy thành duyệt các chi tiết vận hành Writer tự thêm.
+- Bốn bản thử 001 dùng session riêng, bản gốc nằm trong archive. Ngày 23/10, Tác giả chọn bản mới nhất để viết tiếp; [review ghi quyết định dùng 001](reviews/doan-001.md). Các review thử vẫn giữ làm lịch sử.
 - Checklist: [lỗi riêng](gemini/review-blacklist.md) cùng `../chung/review-blacklist.md`.
-- Công cụ `build_pack.py` cần đã có chính văn; gói thử đầu được ghép riêng, không tạo đoạn giả.
+- Đã có chính văn 001; gói bàn giao được ghép bằng `tools/build_pack.py`. Archive giữ nguyên văn, SI, prompt và metadata của mỗi lượt Writer.
 
 ## Trạng thái từng đoạn
 
@@ -34,6 +34,10 @@
 | 001 / thử 01 | Đã chạy | [Nguyên văn](archive/doan-001-test-v01-01.md) | [VIẾT LẠI](reviews/doan-001-test-v01-01.md) | Chưa |
 | 001 / thử 02 | Đã chạy, làm rõ dữ kiện | [Nguyên văn](archive/doan-001-test-v01-02.md) | [VIẾT LẠI trước khi chốt](reviews/doan-001-test-v01-02.md) | Chưa |
 | 001 / v02-01 | Chỉ đổi SI, giữ prompt thử 02 | [Nguyên văn](archive/doan-001-test-v02-01.md) | [Thoại chưa đạt](reviews/doan-001-test-v02-01.md) | Chưa |
-| 001 / v02-02 | Giữ SI v0.2, mở đối đáp trong brief | [Nguyên văn mới nhất](archive/doan-001-test-v02-02.md) | [Thoại cải thiện; còn lỗi nội dung](reviews/doan-001-test-v02-02.md) | Chưa |
+| 001 / v02-02 | Giữ SI v0.2, mở đối đáp trong brief | [Bản được chọn](chapters/doan-001.md) | [Quyết định dùng và ghi chú nối](reviews/doan-001.md) | Tác giả chọn dùng |
+| 002 / lượt 01 | Đã chạy cùng session 001 | [Archive](archive/doan-002-writer-01.md) | [VIẾT LẠI](reviews/doan-002-writer-01.md) | Loại khỏi mạch chính |
+| 002 / lượt 02 | Session mới, gói đầy đủ | [Archive](archive/doan-002-writer-02.md) | [VIẾT LẠI](reviews/doan-002-writer-02.md) | Loại khỏi mạch chính |
+| 002 / lượt 03 | Session mới, gói gọn | [Archive](archive/doan-002-writer-03.md) | [VIẾT LẠI](reviews/doan-002-writer-03.md) | Loại khỏi mạch chính |
+| 002 / lượt 04 | Session mới, phạm vi rõ | [Bản giữ để đọc](chapters/doan-002.md) | [SỬA NHẸ](reviews/doan-002.md) | Bản thảo, chưa ghi Tác giả duyệt |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).
