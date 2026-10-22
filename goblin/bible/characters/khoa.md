@@ -1,8 +1,8 @@
 # Khoa — nhân vật chính
 
-> Bản nháp của Agent (22/10), chờ Tác giả duyệt.
+> Tác giả duyệt 22/10.
 
-- **Kiếp trước:** Lương Đình Khoa, 34 tuổi, người Thái Nguyên. Sáu năm kỹ sư vận hành lò cao ở khu gang thép, sau bỏ nghề về dạy Hoá ở một trường THPT huyện. Mê đi rừng, cắm trại sinh tồn cuối tuần, xem phim tài liệu. Chết khi đang… *(cách chết để Tác giả chọn; đề xuất: lật xe trên đèo khi đi phượt — không cần kể nhiều).*
+- **Kiếp trước:** Lương Đình Khoa, 34 tuổi, người Thái Nguyên. Sáu năm kỹ sư vận hành lò cao ở khu gang thép, sau bỏ nghề về dạy Hoá ở một trường THPT huyện. Mê đi rừng, cắm trại sinh tồn cuối tuần, xem phim tài liệu. Chết khi lật xe trên một con đèo ở Hà Giang lúc đi phượt (không cần kể nhiều).
 - **Kiếp này:** con goblin còi trong ổ trứng ở Hang Dơi. Thân xác như mọi con non khác.
 - **Tên trong lời kể:** Khoa. Goblin gọi anh là **Ko** (chúng không phát âm được "Khoa"). *(Ghi chú cho prompt: tên chữ Latin "Khoa"; goblin gọi "Ko".)*
 - **Biết gì (có cơ sở):** hoá vô cơ phổ thông (vôi, tro → kiềm, diêm tiêu, lưu huỳnh, than), nguyên lý luyện kim (lò cao, gang/thép, xỉ, gió), kỹ năng rừng (cung khoan lửa, bẫy số 4, đó cá, xông khói thịt, lọc nước), sư phạm (chia bài, làm mẫu, kiểm tra). **Không** nhớ hết tỉ lệ, nhiệt độ, chi tiết tay nghề → phải thử, hỏng, sửa.

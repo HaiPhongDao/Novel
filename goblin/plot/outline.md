@@ -1,6 +1,6 @@
 # Dàn ý
 
-> Đơn vị là **đoạn** (~2000 字), tối đa 2 cảnh + 1 lần nhảy thời gian, dừng giữa mạch. Bản nháp của Agent (22/10), chờ Tác giả duyệt. Arc 1 chi tiết; arc sau xem `arcs.md`.
+> Đơn vị là **đoạn** (~2000 字), tối đa 2 cảnh + 1 lần nhảy thời gian, dừng giữa mạch. Tác giả duyệt 22/10. Arc 1 chi tiết; arc sau xem `arcs.md`.
 
 ## Arc 1 — Hang Dơi
 

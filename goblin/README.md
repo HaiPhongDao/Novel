@@ -9,14 +9,14 @@
 | Bước | Trạng thái |
 |---|---|
 | Phân tích truyện tham khảo | ✅ `tham-khao/phan-tich.md` |
-| `bible/overview.md` | 📝 nháp — chờ Tác giả |
-| `bible/glossary.md` | 📝 nháp — tên tiếng Trung chốt sau đoạn 001 |
-| `bible/characters/` | 📝 nháp — `khoa.md`, `bo-lac-hang-doi.md` |
-| `bible/world.md` | 📝 nháp — luật goblin chờ Tác giả |
-| `plot/arcs.md` → `plot/outline.md` | 📝 nháp — arc 1 chi tiết 16 đoạn |
-| SI | 📝 nháp v0 `gemini/system-instruction.md` — anchor lấy từ truyện tham khảo, chưa viết thử |
+| `bible/overview.md` | ✅ Tác giả duyệt 22/10 |
+| `bible/glossary.md` | ✅ — tên tiếng Trung chốt sau đoạn 001 |
+| `bible/characters/` | ✅ `khoa.md`, `bo-lac-hang-doi.md` |
+| `bible/world.md` | ✅ luật goblin là luật cứng |
+| `plot/arcs.md` → `plot/outline.md` | ✅ arc 1 chi tiết 16 đoạn |
+| SI | ✅ duyệt v0 `gemini/system-instruction.md` — chờ viết thử đoạn 001 |
 | `handoff/` | 📝 canon-card, state (đoạn 0), quiz |
-| Prompt đoạn 001 | ⏳ sau khi Tác giả duyệt các quyết định trong `log.md` |
+| Prompt đoạn 001 | ✅ `briefs/doan-001.md` — chờ chạy Writer |
 
 ## Writer
 
@@ -26,5 +26,6 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
+| 001 | ✅ | ⏳ | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

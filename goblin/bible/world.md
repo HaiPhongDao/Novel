@@ -1,13 +1,13 @@
 # Thế giới
 
-> **Bản nháp của Agent (22/10)** — chờ Tác giả duyệt. Luật cứng chỉ thành luật cứng khi Tác giả chốt.
+> Tác giả duyệt 22/10 — các luật dưới đây là luật cứng.
 
 ## Bối cảnh chung
 - Lục địa Tây huyễn ôn đới, **có bốn mùa, mùa đông có tuyết**. Loài người ở phía tây (vương quốc phong kiến, giáo hội), lùn ở dãy núi phía bắc, các giống "ma vật" (goblin, người chó, quỷ khổng lồ…) ở rừng và đầm lầy phía đông.
 - Phép thuật có, nhưng hiếm và thuộc về giáo hội / học viện của loài người; ma vật chỉ có "thầy cúng" dùng thảo dược và mẹo. Arc 1 **không có phép thuật xuất hiện trực tiếp**.
 - Loài người coi goblin là sâu bọ: thấy là giết, treo thưởng tai goblin.
 
-## Goblin — LUẬT CỨNG (đề xuất)
+## Goblin — LUẬT CỨNG
 1. **Sinh sản bằng Mẹ Ổ (巢母).** Mỗi bộ lạc có đúng một goblin cái — Mẹ Ổ — to như con bò, gần như không đi lại, nằm trong hang sâu nhất. Bà đẻ một ổ trứng khoảng **10 ngày/lần**; số trứng tuỳ lượng thịt bà được ăn. Trời lạnh hoặc thiếu ăn → ngừng đẻ. Mẹ Ổ chết thì bộ lạc tàn dần. *(Thay cơ chế "bắt con cái loài khác" của truyện tham khảo.)*
 2. **Lớn nhanh:** trứng nở → con non bò được ngay; **~20 ngày** đứng thẳng, cao ~0,9 m, coi như trưởng thành. Ăn rất khoẻ so với cỡ người.
 3. **Bắt chước:** goblin xem một thao tác tay **khoảng ba lần** là làm lại được y hệt, cả động tác thừa. Không hiểu vì sao làm thế, không tự cải tiến; nguyên liệu hay hoàn cảnh đổi khác thì làm hỏng. *(Ngoại lệ — tuyến dài, chưa lộ: một số con có thể học "hiểu" khi được dạy đúng cách.)*

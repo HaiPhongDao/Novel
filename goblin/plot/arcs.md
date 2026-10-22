@@ -1,6 +1,6 @@
 # Các arc
 
-> Bản nháp của Agent (22/10), chờ Tác giả duyệt. Xương sống: mỗi bậc công nghệ gắn với **một tài nguyên có thật của địa bàn** và **một bài toán dạy học** (goblin bắt chước được thao tác nhưng không hiểu).
+> Tác giả duyệt 22/10. Xương sống: mỗi bậc công nghệ gắn với **một tài nguyên có thật của địa bàn** và **một bài toán dạy học** (goblin bắt chước được thao tác nhưng không hiểu).
 
 ## Arc 1 — Hang Dơi (~16 đoạn) · cuối thu → tuyết đầu mùa
 - **Mục tiêu:** sống qua ~60 ngày tới mùa đông; không để ai ăn con non; lên làm thủ lĩnh.

@@ -31,7 +31,7 @@
 | quặng sắt đầm lầy | 沼铁矿 (chưa dùng ở arc 1) |
 | diêm tiêu | 硝石 (chưa dùng ở arc 1) |
 
-## Xưng hô (CỐ ĐỊNH — đề xuất)
+## Xưng hô (CỐ ĐỊNH)
 | Người nói → người nghe | Cách gọi |
 |---|---|
 | goblin → Khoa (trước khi làm thủ lĩnh) | Ko |

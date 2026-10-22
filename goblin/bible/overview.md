@@ -1,6 +1,6 @@
 # Tổng quan
 
-> **Bản nháp của Agent (22/10)** — mọi mục đánh ⏳ trong `../log.md` chờ Tác giả duyệt. Truyện tham khảo: `../tham-khao/phan-tich.md`.
+> Tác giả duyệt 22/10 (`../log.md`). Truyện tham khảo: `../tham-khao/phan-tich.md`.
 
 - **Tên tạm:** Goblin Khai Hoá
 - **Thể loại:** Xuyên không · Tây huyễn · Xây bộ lạc / làm ruộng · Tranh bá chủng tộc · Quân sự (đao kiếm → súng pháo)

@@ -1,11 +1,11 @@
 # Bộ lạc Hang Dơi — nhân vật arc 1
 
-> Bản nháp của Agent (22/10), chờ Tác giả duyệt. Tên goblin là âm ngắn, viết chữ Latin trong chính văn.
+> Tác giả duyệt 22/10. Tên goblin là âm ngắn, viết chữ Latin trong chính văn.
 
 ## Gorr — tù trưởng
 - Goblin già nhất hang, cao ~1,2 m (to nhất bộ lạc), **chột mắt trái**, mang một con dao sắt mẻ lưỡi nhặt từ xác người — vật bằng sắt duy nhất của bộ lạc.
 - Đã làm tù trưởng nhiều mùa đông. Khôn kiểu goblin: biết sợ, biết đợi, biết dùng đói để trị. Mùa đói thì xuống hố ổ chọn con non béo ăn — và để cả bộ lạc thấy.
-- Kết arc 1: bị Khoa lật đổ. *(Gorr chết hay bị đuổi — Tác giả chọn; đề xuất: chết trong cuộc lật đổ, Khoa không ăn xác — lần đầu bộ lạc thấy xác không bị ăn.)*
+- Kết arc 1: chết trong cuộc lật đổ; Khoa không ăn xác — lần đầu bộ lạc thấy xác không bị ăn.
 
 ## Yeg — thầy cúng
 - Goblin đực già, **mù cả hai mắt**, giữ đống lửa than trong hang và chăm Mẹ Ổ. Đi đâu cũng sờ vách hang. Ngửi giỏi nhất bộ lạc.
