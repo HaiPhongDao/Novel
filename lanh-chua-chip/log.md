@@ -66,3 +66,8 @@
 2026-10-22 | dự án | Nguyên tắc prompt: tư thế/xưng hô cần giữ phải nằm ngay trong câu sự việc của cảnh đó, không chỉ ở phần thiết lập | Bài học đoạn 004–005 | Agent (ghi log)
 2026-10-22 | doan-005 | Sai canon nhỏ: "车夫" (hai người đánh xe đã về thành) → không sửa văn, ghi state; Writer lại dùng nước sôi làm hình phạt → state ghi rõ hình phạt là trừ khẩu phần | Review | Agent (ghi log)
 2026-10-22 | bible | 小七 hiện hình trong tầm nhìn lần nữa ("淡蓝网格", đoạn 005; "投影/视网膜" ở 004 bản 2) — Writer cứ kéo về hướng này | Cần quyết vạch xanh | ⏳ Chờ Tác giả
+2026-10-22 | plot | Lão Jim (chết cháy cùng cả nhà năm người) là em trai Hob; Hob nói ra ở đoạn 6 | Hob có lý do riêng để sợ đá nguyền và đổi ý ở vụ nhà Dunn | Tác giả
+2026-10-22 | bible | 小七 chỉ là giọng nói, không hiện vạch/lưới/chữ trong tầm nhìn | Tránh thành bảng hệ thống | Tác giả
+2026-10-22 | plot | Không thêm bước lắng/lọc nước; đun sôi là đủ | Tác giả hỏi, Agent đề xuất, Tác giả không cần | Tác giả
+2026-10-22 | dự án | Agent tự chạy ~10 đoạn (006–015) theo dàn ý gốc + đề xuất `Writer Gemini 3.8 Flash/plan-de-xuat.md` (Hoag → Doyle); không chạm chủ mưu, lật bài Pell, đổi than lấy lương; 015 = đào than + nồi nước chuyển sang than + bếp có ống khói | Yêu cầu của Tác giả | Tác giả
+2026-10-22 | doan-006 (lượt 2) | Đạt (S5). Hob nói lão Jim là em ruột, thề không đụng than. Leon nói củi "không quá hai tháng" (phóng đại; state giữ ~69 ngày) | Review | Agent (ghi log)

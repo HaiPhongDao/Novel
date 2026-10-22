@@ -9,7 +9,7 @@
 - **Phân tích dữ liệu giác quan của Leon**: chỉ những gì Leon nhìn, nghe, ngửi, nếm, sờ. Không có cảm biến riêng, không "quét" từ xa.
 - **Tính toán / ước lượng / mô phỏng đơn giản** (khẩu phần, độ dốc, lực, thời gian…). Luôn kèm độ tin cậy.
 - **Ghi nhớ hoàn hảo** mọi thứ Leon đã trải nghiệm từ khi khởi động.
-- Hiển thị chữ trong tầm nhìn Leon và "nói" trong đầu anh.
+- **Chỉ "nói" trong đầu Leon** — không hiện chữ, vạch, lưới hay hình gì trong tầm nhìn (Tác giả chốt 22/10). Lời 小七 trong chính văn đặt trong 「」.
 
 ## Không thể làm (LUẬT CỨNG)
 - Không điểm kinh nghiệm, không cửa hàng, không nhiệm vụ, không phần thưởng, không vật phẩm. **Không phải "hệ thống" game.**
