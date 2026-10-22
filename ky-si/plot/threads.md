@@ -21,3 +21,7 @@ K01: người mới còn vội dưới tiếng xe, được Dain kéo khỏi đ�
 ### Cập nhật005
 
 K02: đã thực nhận1 bạc công thêm, chi sửa riêng chủ bến. K01: người mới hỏi trước làm thay vội lao vào. K05: có đề nghị việc ngoài, cần quyền nhận và người giữ bến.
+
+### Cập nhật006
+
+K05: nhận việc ngoài bằng phạm vi và ca gác rõ, chưa được tự rút lính mọi ngày. K02: tạmứng1 nằm trong phí3, còn2 chưa thu. K01: Dain nêu hạn chế theo xe.

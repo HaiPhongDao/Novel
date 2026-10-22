@@ -2,43 +2,40 @@
 
 Đọc đuôi chính văn và brief tự đủ, rồi viết đoạn tiếp theo. Những sự thật và trạng thái cần dùng nằm trong brief. Giữ giọng SI hiện hành.
 
-## Nguyên văn cuối doan-003
+## Nguyên văn cuối doan-005
 
-Oswin伸出黑黢黢的手指，在支撑排木的横梁上使劲抠了一把。只见大块大块松散如泥的黑褐色烂木屑被他直接扯了下来，木梁当中赫然已经空了大半，里头甚至还能看到几只受惊乱爬的水生潮虫。
+那人约莫三十多岁，身上披着一件防风的羊毛短呢斗篷，脚下踩着一双沾满尘土的长筒皮靴，腰间挂着一只扁平的牛皮文书袋，打扮得像是个行脚管事或者货栈押运人。他没有靠近武器，只是在两步开外停住脚，目光在Rowan身上的轻甲和几名士兵整齐的站姿上打量了一番，客客气气地摘下了帽子。
 
-Oswin用手里的蓝粉石在横梁两侧重重画了一道横杠，拍了拍手上的木屑，转头对Mira和Rowan说道：
+“这位长官，想必就是Rowan队长吧？”男子微微欠身，语气试探而谨慎。
 
-“面上的橡木板是硬实，可下头吃力的这根垫底托木全烂透了。平时过几只羊、两辆空板车倒还能蒙混过去，那两辆装满磨坊铸铁齿轮的重车只要前轱辘一搭上来，这根木头当场就得粉碎，整辆车都得歪进水沟里。”
+Rowan看着他：“是我。有事？”
 
-Rowan蹲下身，仔细看了看那道粉笔印：“要是从上面再铺两层厚木板，能不能把分量散开硬垫过去？”
+那男子笑了笑，指了指平地外围一条不起眼的碎石岔道，低声说道：
 
-Oswin连连摇头，将撬棍往烂木梁上一戳，半截铁棍轻而易举就陷了进去：
-
-“不能这么干，Rowan大人。光在面上垫木板那是自欺欺人，受力的根子全在这根托木上。要想让那种生铁重车稳当过河，底下这根烂托木必须整根刨出来换掉，不换，谁推车谁找死。”
+“方才看了片刻，Rowan队长带出来的兵确实扎实，令行禁止，比那些四处游荡的雇佣佣兵强出太多。在下是替对岸一家商行办差的，明日一早，有一辆装载精细染料和药草的轻货马车要从Stonewake出发，走南边的小道送往Greyford城外的货栈。那条道有些不太平，常有流民和毛贼游荡，在下想雇几位精干兄弟随车护上一趟……不知道Rowan队长接不接这趟差事？”
 
 ## Brief đoạn tiếp theo
 
-Viết đoạn 004, khoảng 2000 chữ Trung. Mở ngay lời Rowan đáp Oswin: thợ vừa chỉ gỗ kê dưới ván mặt bị mục, cần thay. Cảnh ở Stonewake; điểm nhìn Rowan; tên Latin cả lời kể và thoại.
+Viết đoạn006, khoảng2000 chữ Trung. Mở lời Rowan đáp khách vừa hỏi thuê hộ tống xe nhẹ ngày mai tới kho ngoàiGreyford. Điểm nhìn Rowan; tên Latin cả lời kể và thoại.
 
 【Thiết lập】
-Rowan kỵ sĩ vừa giải ngũ, chỉ huy tám người: Dain + Toma + hai người mới ở đường dẫn; cựu binh còn lại + ba người mới giữ sân. Rowan ngoài tám. Mira quản phà, Alden đại diện chủ bến tư nhân, Oswin thợ mộc theo việc ngoài đội. Một phà. Sáu xe chờ trên bãi bằng: bốn ngũ cốc, hai phụ tùng máy xay đi Greyford. Phà chở từng xe phụ tùng, mỗi chuyến một xe.
+Cuối ngày đầu tại Stonewake. Công phà đã xong, Alden trả1 bạc; Rowan hiện33 bạc tiền mặt. Phòng vệ bến24 bạc/30 ngày, đã nhận12 trong tổng24. Có8 người gác: cựu binh Dain, cựu binh thứ hai chưa đặt tên,6 người mới gồmToma. Rowan ngoài8. Mira vận hành, Alden đại diện chủ bến tư nhân, ngoài đội. Người gác đang trở về nhịp canh thường và ăn/nghỉ, không còn đứng nguyên dưới dốc.
 
-Rowan có 32 bạc tiền mặt. Thỏa thuận công thêm một bạc sau hoàn tất cả hai xe còn đang chờ làm. Sửa bến/vật tư/phí phà do chủ bến trả, ngoài tiền đội. Toma còn mệt; kỹ năng thu giáo 13/100, tích lũy0 giữ nguyên, bảng chưa có nội dung mới.
+Khách chưa tên, làm cho một thương hội bờ đối diện theo lời giới thiệu, hỏi hộ tống một xe nhẹ thuốc nhuộm và dược thảo theo đường nam từStonewake tới kho ngoàiGreyford sáng ngàymai. Chưa có giá hoặc lời nhận.
 
 【Chuyện trong đoạn】
-Rowan hỏi Oswin phần việc cần thay và cách kiểm sau sửa. Oswin chỉ gỗ đang nhìn, báo cả công và vật liệu bốn mươi đồng. Alden hỏi rõ tiền công gồm những gì; người thợ đáp, Mira nói phần khai thông bến thuộc việc chủ bến. Alden đồng ý 40 đồng đi sổ sửa bến, trả Oswin trực tiếp sau việc xong. Một bạc đổi một trăm đồng; chuyện tiền này nằm giữa người thợ và Alden, Rowan giữ đội ngoài chỗ sửa. Chủ đoàn hỏi liệu có thể cho ngũ cốc đi trước, Mira đáp rằng xe chờ tới khi phần đỡ sửa xong.
+Rowan hỏi giấy giao hàng, nơi nhận, việc xe chở, người lái và đường về; khách giải thích mình cần phòng người giật hàng/lấn xe và đưa giấy cho đối chiếu. Alden có mặt xác nhận người làm ăn đã có trong sổ giao dịch của bến; lời xác nhận chỉ về người và giấy, không bảo đảm mọi chuyện trên đường. Rowan bàn với khách giới hạn một xe, một điểm nhận ghi trên giấy, quay về trong ngày2. Phần lái xe/bốc dỡ thuộc khách; Rowan chịu việc hộ tống, duy trì lối và phối hợp khi đường bị vướng.
 
-Chuyển thời gian một lần trong cùng buổi. Thợ đã thay phần kê, cùng người vận hành kiểm lại, nhận 40 đồng từ phía Alden. Miêu tả công việc qua vật liệu cũ được lấy ra, câu người thợ báo việc xong và bước kiểm của Mira; trọng tâm là trách nhiệm và quyền gọi xe. Tám người gác vẫn chia hai nhóm bốn.
+Hai người thương lượng phí3 bạc cho chuyến ngàymai, nhận trước1 bạc khi thống nhất giấy, còn2 bạc khi bàn giao tại đúng kho ghi trên giấy. Đổi nơi nhận hoặc nhờ việc thêm phải thỏa thuận công riêng trước làm. Giữ công3 bạc là khoản toàn chuyến, một bạc nhận trước đã nằm trong3.
 
-Mira gọi riêng xe phụ tùng đầu tiên. Dain và hai người mới giữ đường, Toma hướng dẫn chỗ chờ cho người đánh xe; Rowan quan sát và sửa một chỗ lệnh chưa rõ. Người mới có thể hỏi lại, giữ chân ngoài đường bánh xe. Người của đoàn điều khiển ngựa và xe, người chạy phà nhận xe ở bến. Thể hiện một lượt phối hợp có sức ép, một việc Toma làm được và chỗ vẫn cần cựu binh nhắc. Xe đầu được bàn giao cho Mira, phà rời bến chở xe đó sang bờ đối diện.
+Trước khi nhận tiền, Rowan trao đổi với Alden và Dain về người. Dự kiến đi là Rowan, cựu binh thứhai, Toma và một người mới khác:4 người trong đó3 người gác. Ở bến cònDain và4 người mới:5 người gác, có kế hoạch ca trực; Mira vẫn giữ phầnphà. Alden đồng ý cách bố trí cho đúng ngày2 nếu đủ canh, chuyến đi trở về trong ngày. Đây là thỏa thuận tạm cho một chuyến, số lính và quỹ lương không tăng. Dain hỏi nếu xe chậm thì ai nhắn bến và ca nào cần giữ; Rowan/khách thống nhất đầu mối qua người đánh xe, không biến thành bỏ bến tùy ý.
 
-Xe phụ tùng thứ hai cùng bốn xe ngũ cốc vẫn trên bãi. Trong lúc chờ phà quay lại, Rowan hỏi Dain cho người mới đổi tư thế hoặc uống nước thế nào mà lối chờ vẫn có người. Dain nhìn người dưới rồi đề nghị cụ thể. Dừng ngay câu đề nghị ấy; 005 nối lời Rowan đáp, chờ phà về, làm xe còn lại rồi mới nhận một bạc.
+Sau khi giới hạn việc và người đã rõ, khách đặt giấy nhận và trả1 bạc tận tay. Rowan có34 bạc =33+1 tạmứng mới;2 bạc còn chờ hoàn tất, chưa là tiền mặt. Khách rời đi chuẩn bị xe. Rowan hỏi Dain hai người mới được chọn còn thiếu gì. Dain nêu cách giữ bên hông xe, đổi chỗ khi qua góc hẹp và hỏi lệnh lúc người phía trước khuất; Toma biết thu giáo hơn chưa đủ theo xe giữa người lạ. Dừng ngay phầnDain chỉ vấn đề phải luyện;007 mở Rowan quyết cách tập trước giờ đi.
 
 【Giữ đúng】
-- Đoạn chỉ có xe phụ tùng thứ nhất lên phà và rời bến. Xe phụ tùng thứ hai còn trên bãi chờ phà về. Tiền mặt Rowan cuối đoạn vẫn32 bạc; công thêm chưa đủ điều kiện nhận.
-- 40 đồng sửa bến do Alden trả Oswin, không trừ Rowan. Dain đã nằm trong nhóm bốn; nhóm sân bốn người giữ nguyên.
-- Bảng chưa có thay đổi. Oswin ngoài đội, chỉ nói về gỗ đã kiểm; giờ/tải định lượng không có kết quả đo mới.
-- Dừng lúc Dain đề nghị đổi người/nghỉ ngắn trong thời gian chờ lượt phà tiếp, để Rowan còn phải đáp.
+8 người gác =3 đi+5 ởbến; cộngRowan là4 người đi. Dain ởbến, cựu binh thứhai đi. Hai người mới đi làToma và một người trong6.
+33→34 bạc chỉ khi nhận1; hợp đồng mới tổng3 gồm1 trước+2 sau. Tiềnphà/sửa bến riêng,1 bạc việc phà đã trả không lặp.
+Việc đi ngày2, mộtxe mộtđiểm nhận; bốc dỡ và điều khiểnngựa phía khách, việc thêm thỏa thuận riêng. Toma thu giáo13/100 tíchlũy0 chưa đổi, bảng chưa có nội dung mới.
 
 【自由发挥】
-Tự chọn lời mặc cả của Oswin với Alden, lời Mira đáp khách chờ, vấn đề nhỏ người mới hỏi khi phối hợp và suy nghĩ tính công của Rowan. Lời nói nối nhau đủ ý; hành động đưa cuộc bàn việc tiến lên. Giữ kỹ thuật ngắn ở việc nhân vật đã kiểm và làm.
+Giữ cuộc mặc cả có qua có lại: khách muốn đáng tiền, Alden giữ canh bến, Dain nêu chuyện người thật làm được. Tự chọn câu hỏi, cách ghi giấy và suy nghĩ ngắn tính lời công củaRowan. Mỗi người nói trọn ý, đáp điều vừa được hỏi. Dừng giữa việcDain đang bàn kỹ năng cần luyện.

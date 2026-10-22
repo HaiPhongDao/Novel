@@ -1,9 +1,11 @@
-## 3. Trạng thái sau đoạn 005
+## 3. Trạng thái sau006
 
-Ngày đầu, sau việc phà ở Stonewake. Khách chưa tên vừa hỏi thuê hộ tống một xe nhẹ thuốc nhuộm/dược thảo ngày mai từ bến qua đường phía nam tới kho ngoài Greyford. Rowan chưa nhận, chưa bàn giá;006 mở anh hỏi rõ phạm vi rồi tính đội giữ bến.
+Tối ngày1 tại sânStonewake. Khách vừa rời, ngàymai chờ xe tại ngãrẽ ngoài bến. Dain đang nói hai người mới chưa biết đổi vịtrí bênxe ở góchẹp hoặc hỏi lệnh khi khuất;007 mở Rowan đáp và tổchức tập ngắn có nghỉ rồi ngủ.
 
-Tiền mặt33 bạc =32+1 công thêm đã được Alden trả. Hai xe phụ tùng đã hoàn tất từng lượt một phà, phí phà riêng. Oswin được chủ bến trả40 đồng riêng. Không còn khoản công xe chờ thu. Phòng vệ24/30 ngày, nhận12 trong tổng24.
+Tiền mặt34 bạc=33+1 tạmứng chuyếnmới. Tổngphí3 bạc, còn2 chờ bàn giao mộtxe tới đúngkho trên giấy ngoàiGreyford ngày2. Khách quản ngựa/xe/bốc dỡ; đổi địađiểm/việcthêm cần thỏa thuậnriêng. Tiềnphà1 đã nhậnkhông lặp; sửa40đồng riêng chủbến. Phòngvệ24/30, đãnhận12 trong tổng24.
 
-Tám người gác: Dain+Toma+hai mới ở nhiệm vụ đường dẫn, cựu binh còn lại+ba mới tại sân. Lệnh nghỉ/đổi ca cần vẫn có người giữ bến; câu tám người cạnh dốc không thay phân công. Rowan ngoài8. Người mới không bị thương, đã được nghỉ sau việc; bữa ăn cải thiện là lệnh chưa có khoản mua thật.
+Đi:Rowan+cựu binh thứhai+Toma+mộtmới=4, trongđó3gác. Ởbến:Dain+4mới=5gác. Tổng8gác ngoàiRowan. Alden chấp thuận riêngngày2 nếu giữca và vềtrongngày; khi chậm liênhệ qua người của khách, không tự bỏbến kéo hết línhđi.
 
-Toma 长矛收势13/100, 训练积累0, chưa có mục mới. Chỉ Rowan biết bảng. Sàn kê đã sửa; các số tải/thời gian tự thêm không chốt. Cảnh006 giữ điểm nhìn Rowan, giọng hỏi đáp đủ ý. Khách là người làm cho thương hội bờ đối diện theo lời tự giới thiệu; cần giấy/người xác nhận nếu dùng để ký.
+Hàng khách: nguyênliệu nhuộm/dược liệu nhẹ, dễhỏng nếu đổ/ướt theo lời khai; tới kho trên giấy ngoàiGreyford qua đườngnam. Thươnghội/kho dùng cách gọi vai trò, các tên Hán tựthêm chưa chốt; tênnhânvật giữLatin. Người đánhxe biếtđường, khách chịu phần lái/vậntải.
+
+Toma 长矛收势13/100,训练积累0. Kỹnăng theo xe chưa thử/ghi. Oswin/Mira/khách ngoàiquânsố. Đoạn007 sẽ tập và mua góiănđường20đồng cho4 người, là chi thật cần ghisổ; chưa tự trừ trước lúc mua.

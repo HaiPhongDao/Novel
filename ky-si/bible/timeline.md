@@ -25,3 +25,7 @@ Ngày đầu: thay kê, chủ bến trả Oswin40 đồng; xe phụ tùng đầu
 ### Diễn biến làm việc005
 
 Ngày đầu: phà quay về rỗng, đưa xe phụ tùng thứ hai, Alden trả1 bạc, Rowan có33. Khách hỏi việc hộ tống ngày mai.
+
+### Diễn biến làm việc006
+
+Tối ngày1: ký việc mộtxe/mộtkho ngày2, nhận1/3 bạc; tiền34, còn2 chờ. Dain nêu kỹnăng phải tập trước đi.

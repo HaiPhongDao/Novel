@@ -1,9 +1,15 @@
 {
-  "latest": 5,
-  "cash": 33,
-  "receivables": [],
-  "sessionUrl": "https://aistudio.google.com/prompts/1JFDM1lrTk0r-6NFGcr99i7z5HNxUFRk1",
-  "sessionSegments": 2,
+  "latest": 6,
+  "cash": 34,
+  "receivables": [
+    {
+      "work": "Hộ tống một xe tới kho ghi trong giấy, ngày2",
+      "silver": 2,
+      "status": "chưa giao"
+    }
+  ],
+  "sessionUrl": "https://aistudio.google.com/prompts/1EVBWEbvMRLEnFaok54FmoAQroQ6-EqWP",
+  "sessionSegments": 1,
   "decision": "SỬA NHẸ",
   "authorApproved": false
 }

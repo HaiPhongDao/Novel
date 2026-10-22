@@ -39,3 +39,9 @@ Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công 
 Rowan chốt hai người nghỉ, nhóm sân giữ việc. Khi phà giao xe đầu và về rỗng, xe phụ tùng hai xuống riêng; một người mới hỏi trước làm, phối hợp có tiến bộ. Alden xác nhận hai lượt, trả một bạc công riêng; tiền mặt32→33. Sửa bến40 đồng không chạm quỹ đội.
 
 Một khách chưa tên hỏi hộ tống xe nhẹ thuốc nhuộm/dược thảo ngày mai theo đường phía nam tới kho ngoài Greyford. Chưa bàn giá hoặc chọn người;006 bắt đầu Rowan đáp.
+
+### Đoạn006 — chốt chuyếnngày2 và nhận tạmứng
+
+Khách đưa giấy vàAlden xác nhận giao dịch. Mộtxe nhẹ thuốcnhuộm/dược liệu tới mộtkho ngoàiGreyford, từbến điđườngnam rồi vềtrongngày2. Phí3 bạc gồm1 nhậntrước+2 khi bàn giao; lái/bốc dỡ của khách, đổi nơi nhận/việcthêm phải thương lượng.
+
+Đi4người=Rowan+cựu binh thứhai+Toma+mộtmới; ởbến5=Dain+4mới. Alden đồng ý riêng mộtngày với ca gác rõ. Rowan nhận1bạc, tiền34. Dain vừa nêu người mới chưa biết đổi vịtrí theo gócxe;007 nối Rowan chọnbài tập.
