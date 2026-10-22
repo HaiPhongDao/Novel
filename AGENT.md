@@ -41,7 +41,7 @@ Novel/
 │   ├── ai-studio.md              # Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome
 │   └── review-blacklist.md       # Lỗi văn chung để soát khi review
 ├── writer/SI-template        # SI mẫu dùng chung (Tác giả soạn) — mỗi truyện điền ô [[...]] thành SI riêng
-├── tools/                    # build_pack.py, chot_doan.py, set_clip.ps1, save_clip.ps1, ollama_write.py
+├── tools/                    # build_pack.py, chot_doan.py, gop_doan.py, gemini_write.py, set_clip.ps1, save_clip.ps1, ollama_write.py
 ├── _mau-truyen/              # Khung để chép khi mở truyện mới (mục 11)
 └── <ten-truyen>/
     ├── README.md                 # Tóm tắt, SI đang dùng, bảng trạng thái từng đoạn
@@ -60,6 +60,7 @@ Novel/
     │   └── threads.md            # Tuyến truyện mở, foreshadowing ↔ payoff
     ├── briefs/                   # Prompt (tiếng Việt) giao Gemini: doan-001.md, doan-002.md…
     ├── chapters/                 # Chính văn tiếng Trung: doan-001.md… (chia chương làm sau)
+    ├── gop/                      # Chính văn gộp mỗi 10 đoạn: doan-001-010.md… (tools/gop_doan.py tự tạo, không sửa tay)
     ├── reviews/                  # Ghi chú biên tập từng đoạn: doan-001.md…
     ├── archive/                  # Bản nháp cũ, ý tưởng bị loại
     └── log.md                    # Nhật ký quyết định (Decision Log)
@@ -83,7 +84,7 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
 4. **Review** — Agent kiểm tra theo checklist ở mục 5, ghi kết quả vào `reviews/doan-XXX.md`.
 5. **Đoạn hỏng → làm lại ở session mới**, không gửi prompt viết lại (Tác giả 22/10). Agent chuyển bản hỏng vào `archive/` (kèm prompt bản đó), sửa prompt, rồi ghép tin nhắn mở session mới (gói bàn giao tính tới đoạn trước + prompt mới): `python tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` → `handoff/session-start.md`. Lỗi nhỏ không đáng làm lại → chỉ ghi trong review; nếu sai canon hoặc sai số thì ghi rõ vào gói bàn giao để đoạn sau không lặp.
-6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, **commit + push ngay** (Tác giả 22/10). `python tools/chot_doan.py <ten-truyen> <spec.py>` làm một lượt: ghi review, cập nhật story-so-far/state/canon-card/voice-anchor/README/sessions/log, ghép gói, commit, push.
+6. **Chốt** — Khi đạt: cập nhật `bible/` (nhân vật, timeline, glossary), `plot/threads.md`, `handoff/` (mục 5c), ghi `log.md`, **commit + push ngay** (Tác giả 22/10). `python tools/chot_doan.py <ten-truyen> <spec.py>` làm một lượt: ghi review, cập nhật story-so-far/state/canon-card/voice-anchor/README/sessions/log, ghép gói, gộp khối 10 đoạn vừa đủ vào `gop/` (`tools/gop_doan.py`), commit, push.
 
 ---
 
