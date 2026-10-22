@@ -81,3 +81,4 @@
 2026-10-23 | doan-011 (lượt 2) | Bản 2 (S9) ĐẠT. Thịt sói ~143 pound (chính văn tính thành 3,5 ngày — sai; state ~1 ngày). Hob cúi gập "黑石领有救了" — chấp nhận theo arc "tôn trọng" sau vụ Dunn | Review | Agent (ghi log)
 2026-10-23 | doan-012 (lượt 2) | Đạt (S9). Khung số liệu sai trong văn ("chỉ thiếu 20 ngày giữa mùa đông") → state ghi khung đúng: ~57 ngày ăn / 74 ngày tới tuyết + nửa năm tuyết. Từ nay prompt đưa sẵn con số tổng khi Leon tính sổ | Review | Agent (ghi log)
 2026-10-23 | doan-013 (lượt 2) | Đạt (S10). Morris tới ngay chiều Ngày 15 (sớm hơn đề xuất Ngày 17) để nối liền đoạn 12; Pell nhận túi da; bí mật chủ mưu giữ nguyên (Leon chỉ tự hỏi) | Review | Agent (ghi log)
+2026-10-23 | doan-014 (lượt 2) | Đạt (S10). Morris mang số cũ về thành; gian xông khói chạy than; muối 6,7/32–40 pound. 小七 lại "视网膜" một cụm — không viết lại, prompt từ 015 ghi "Leon chỉ nghe 小七 nói" | Review | Agent (ghi log)

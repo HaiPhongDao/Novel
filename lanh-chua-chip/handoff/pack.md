@@ -91,45 +91,45 @@ Về làng dưới mắt bầy sói (小七: 14 con). Ở nhà Mira, Bram chỉ 
 Bốn con sói tiền quân: một con sụp hố chông, một con bị chậu than đẩy lùi rồi trúng giáo Doyle và kiếm Gareth; hai con chạy. Sáng Ngày 13 hai xác (~143 pound thịt, hai tấm da). Hob cúi gập: "黑石领有救了"; Leon cho phơi thịt nhập kho, thái hạt lựu vào cháo.
 
 ### Đoạn 12 — sáng Ngày 13 → chiều tối Ngày 15
-Bram chống gậy chạc, Mira đỡ, ra tới rào: chỉ còn mười mấy con trong rừng; suối nước lạnh phía tây mùa này có cá lưng đen vảy nhỏ ngược dòng. Chiều Ngày 13, Leon, Gareth, Mira đi xem: suối rộng hai trượng, rừng sồi rụng đầy hạt. Mira cười "đồ cho lợn rừng"; Gareth: chỉ năm đói mới ăn. Leon cắn thử, nhổ ra; khử chát: bóc vỏ, giã, đóng bao ngâm nước chảy ba ngày, phơi giã thành bột. 小七: ~3.600 pound bột (84%); đập chữ V + rọ phễu giữ 30–50 pound cá/ngày tới khi suối đóng băng (79%). Lệnh: đàn bà trẻ con nhặt hạt (đủ hai sọt thêm nửa bát cháo), Dunn và mấy người già đan rọ liễu đỏ, hai mươi trai tráng đắp đập. Chiều tối Ngày 15 bên suối: đập đá chữ V, ba rọ, mẻ đầu 37 pound cá; 32 bao hạt sồi ngâm buộc cọc; Mira nướng bánh sồi trên phiến đá kê chậu than — Tobi đòi thêm, Dunn: "甜的". Hob cầm que than báo: 37 pound cá nửa buổi, 46 bao hạt đã bóc gần 3.000 pound; hỏi làng có sống qua mùa đông không. Leon tính: tổng cộng chừng 56–58 ngày ăn — vẫn thiếu chừng hai mươi ngày trước khi tuyết rơi, chưa nói nửa năm tuyết. Dunn xâu cá mang về kho; trời tối hẳn.
+Bram chỉ suối phía tây có cá ngược dòng. Leon khử chát hạt sồi bằng nước chảy (小七: ~3.600 pound bột), dựng đập đá chữ V + rọ phễu (30–50 pound cá/ngày). Chiều tối Ngày 15: mẻ đầu 37 pound cá, 32 bao hạt sồi ngâm, bánh sồi Mira nướng — cả làng đổi ý. Tổng ~57 ngày ăn, vẫn thiếu trước khi tuyết rơi.
 
 ### Đoạn 13 — chạng vạng Ngày 15 → đêm Ngày 15
 Bên suối, một đứa chăn cừu chạy tới: năm ngựa áo xanh lục đang lên dốc vào trang viên. Leon dặn: cá, hạt sồi vẫn làm; người dư về nhà đóng cửa; kho mạch và cá khô khoá lại, Hob giữ chìa. Leon về đại sảnh quấn chăn, ho. Morris (béo trắng, áo choàng len xanh lót lông cáo đỏ, nhẫn bạc chạm hoa ở ngón út) cùng bốn kỵ binh áo xanh lục huy hiệu chim ưng hai đầu; "三少爷", "在下"; tới theo lệnh "大少爷Cedric" lập sổ thuế đầu xuân cho các lãnh địa phía bắc; đòi danh sách nông nô và sổ kho trước khi đi sáng mai. Gareth chặn: sổ cũ bị quản gia lấy, Hob không biết chữ — Morris bắt Hob đếm suốt đêm. Morris thấy than đỏ trong lò sưởi, chê "乡野下贱的烂石渣"; Leon ngượng nhận là đá vụn, nghèo không mua nổi củi. Pell bưng nước mời, bị gạt. Đoàn Morris ngủ ở đại sảnh. Nửa đêm, sau cửa sổ tầng hai tối đèn, Leon thấy Pell bưng chậu gỗ lẻn ra kho cỏ; một kỵ binh (cao, người nghiêng phải, vai phải có thương cũ) chờ sẵn, Pell chỉ lên cửa sổ phòng Leon, kỵ binh đưa một túi da cừu cỡ bàn tay buộc dây da. Leon tự hỏi: thuốc hay tiền; chỉ Cedric, hay còn ai khác — chưa có câu trả lời. Pell nhét túi vào tay áo, đi về bếp; tay Leon vẫn giữ mép rèm.
 
+### Đoạn 14 — khuya Ngày 15 → chiều Ngày 18
+Leon buông rèm, ngồi tới sáng. Rạng sáng Ngày 16, sân trước phủ sương muối: Morris chép danh sách bằng bút lông ngỗng trên tờ da dê đặt trên yên, theo lời Hob đọc từ ba que khắc — 143 nông nô, 42 đàn ông khoẻ, kho 5800 pound (số cũ Ngày 2); không có than, thịt sói, hạt sồi, cá. Leon quấn chăn ho ở hiên. Morris lên ngựa: "希望明年开春融雪、在下来收税的时候，还能在这座庄园里看到您喘气。" Pell đứng ở cổng, hai tay thọc trong tay áo, cúi chào theo. Đoàn ngựa khuất; Leon vứt chăn, bảo Hob đốt ba que khắc: "天知地知，我知，你知。" Hob đứng chống gậy: lỡ lộ một chữ thì tự nhảy hố phân. Chiều Ngày 18, bờ suối tây: gian xông khói bằng sỏi và đất sét vàng đã lợp xong, hố than ủ dưới vỏ sồi ẩm, ống gốm dẫn khói lạnh vào ba tầng giá. Bram chống gậy chỉ cách mổ, bỏ mang, xát muối, hun khói lạnh; Mira mổ cá rất nhanh. 小七: mỗi mẻ 120–150 pound, 3–4 ngày khô, để được 90–150 ngày; muối 0,04–0,05 pound/pound cá → 800 pound cá cần 32–40 pound muối. Hob đã đi từng nhà vét được 6,2 pound muối thô, cộng nửa pound muối trắng của Leon = 6,7 pound — chỉ đủ ~150 pound cá. Leon dốc nhúm muối ra lòng bàn tay; Bram nhìn đống cá đã mổ: "这点盐面子，顶多够铺两层架子…要不了三天就得全臭在木杆上。"
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 13)
+## 3. Trạng thái hiện tại (hết đoạn 14)
 
-**Thời điểm:** khuya Ngày 15, phòng ngủ tầng hai của Leon (tối đèn), sau rèm cửa sổ nhìn xuống sân sau.
-**Dưới sân:** Pell vừa nhận túi da cừu cỡ bàn tay từ một kỵ binh của Morris, nhét vào tay áo, đi về bếp. Kỵ binh đã khuất vào chuồng ngựa.
-**Trong trang viên:** Morris và bốn kỵ binh ngủ ở đại sảnh tầng một (lò sưởi đốt than). Gareth ở trang viên. Hob đang đếm người, dê, lương để sáng mai đưa Morris.
+**Thời điểm:** chiều Ngày 18, bờ suối phía tây, trước gian xông khói vừa lợp xong.
+**Có mặt:** Leon (cầm nhúm muối trong lòng bàn tay), Bram (chống gậy chạc), Mira (đang mổ cá trên phiến đá), mấy người kéo rọ. Ba rọ vừa kéo lên, vài chục con cá còn giãy. Pell ở trang viên. Morris đã về thành từ sáng Ngày 16.
 
 **Leon biết**
-- Pell bỏ độc; vừa nhận túi da từ người của phủ bá tước. Ai đứng sau — chưa biết (Leon nghĩ tới Cedric, nhưng chưa chắc).
-- Morris tới theo lệnh Cedric, lập sổ thuế đầu xuân; Morris coi than là đá bẩn.
+- Pell bỏ độc; đêm Ngày 15 nhận túi da cừu cỡ bàn tay từ một kỵ binh của Morris (cao, nghiêng phải, vai phải có thương cũ). Ai đứng sau — chưa biết.
+- Morris mang về thành danh sách số cũ (143 người, 42 đàn ông khoẻ, 5800 pound); sẽ quay lại thu thuế đầu xuân.
 - Bầy sói còn 12 con ở rừng. Vết cào 5,7 cm (chỉ Leon biết).
-
-**Morris**
-- ~45 tuổi, béo trắng, áo choàng len xanh lót lông cáo đỏ, nhẫn bạc chạm hoa dây leo ở ngón út, hay che mũi bằng khăn tay. Gọi Leon "三少爷", tự xưng "在下".
-- Bốn kỵ binh áo choàng xanh lục, huy hiệu chim ưng hai đầu bạc. Kỵ binh đưa túi cho Pell: cao ~182 cm, người nghiêng phải, vai phải có thương cũ.
-- Đòi danh sách nông nô và sổ kho trước khi lên đường sáng Ngày 16.
+- Số hạt sồi, cá, than chỉ Leon và Hob biết; que khắc cũ đã đốt.
 
 **Con số đang chạy (khung đúng)**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Mạch đen trong kho | ~3.700 pound + thịt sói khô ~143 pound |
+| Mạch đen trong kho | ~3.250 pound (Ngày 18) + thịt sói khô ~143 pound |
 | Bột sồi | ước ~3.500 pound khi xử lý xong |
-| Cá | 30–50 pound/ngày, mùa cá còn ~20 ngày |
-| Tổng | ~56–58 ngày ăn; tới tuyết ~74 ngày → thiếu ~16–18 ngày trước tuyết, nửa năm tuyết chưa có gì |
+| Cá | mùa cá còn ~17 ngày; dự kiến tổng ~800 pound |
+| Tổng | ~53–55 ngày ăn (tính từ Ngày 18); tới tuyết ~71 ngày → vẫn thiếu trước tuyết; nửa năm tuyết chưa có gì |
+| Muối | 6,7 pound (6,2 thô + 0,5 trắng của Leon) — đủ ~150 pound cá; cần 32–40 pound cho 800 pound |
+| Gian xông khói | ~12 m³, mỗi mẻ 120–150 pound, 3–4 ngày, để được 90–150 ngày |
 
 **Lệnh đang chạy**
-- Kho mạch và cá khô khoá, Hob giữ chìa, không ai được mở khi có người lạ.
-- Nước sôi phát không; ba quy tắc than; rào bắc 12 chậu than.
+- Nước sôi phát không; ba quy tắc than; rào bắc 12 chậu than đốt suốt đêm.
+- Số liệu mới chỉ Hob nhớ, không ghi.
 
 **Tuyến đang mở**
+- Thiếu muối cho cá.
 - Túi da của Pell.
-- Sổ thuế: Morris lấy danh sách sáng mai.
 - Thiếu lương; bầy sói.
 
 ---
@@ -190,42 +190,42 @@ Hob看着Leon冷峻的眼神，躬下身去：“我明白了，领主大人。�
 
 “掉进去一个，就废一个。”
 
+**Hob sau khi Morris đi (đoạn 14):**
+
+“这事要是从我嘴里漏出去一个字，不用大人动手，我自个儿跳进粪坑里淹死。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 13 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 14 (để nối mạch và giữ giọng)
 
-楼下的后厨木门极其轻微地响了一声，若不是在这个万籁俱寂的深夜，根本不可能被察觉。
-一道单薄猥琐的身影端着一个洗菜用的破木盆，蹑手蹑脚地从后门溜了出来。
-是Pell。
-他没有去倒水，而是警惕地四下张望了一圈，随后猫着腰，借着墙根阴影的掩护，飞快地钻进了马厩旁边的草料棚。
-几乎在同一时间，草料棚阴暗的木柱后，无声无息地转出了一道高大的黑影。
-身上披着深绿色的斗篷。
-是Morris带来的那四名骑兵之一。
-「启动图像对比与轮廓测算。」
-小七平稳的嗓音如约在脑海中响起：
-「目标甲：仆从Pell，步频急促，心率估测在110以上，处于应激警戒状态。」
-「目标乙：Varen家族骑兵，身高约182cm，体态右倾，右肩胛骨曾受钝器击打留有旧伤，步行着力偏左。」
-草料棚内。
-由于离得太远，交谈的声音被寒风撕碎，根本传不到二楼。
-但Leon那双在黑暗中浸润已久的灰眸，死死盯着月光与阴影交界处的动作。
-那名骑兵没有过多废话，只是冷冷地俯视着面前矮了半个头的Pell，嘴唇动了几下，似乎在低沉地质问着什么。
-Pell不住地点头，双手在身前紧张地绞着，嘴里急促地辩解着什么，甚至抬起手指向二楼Leon卧房的方向。
-骑兵沉默了片刻，随后反手探进自己厚重斗篷的内衬夹层。
-他掏出了一样东西。
-那是一个只有巴掌大小、用熟羊皮缝制的小皮袋，袋口用细皮绳紧紧扎着，看不出里面装的是金币还是药粉。
-骑兵将小皮袋递了过去。
-Pell像条闻到肉腥味的野狗，两只手忙不迭地接过来，在手里轻轻掂了掂分量，脸上露出一抹混杂着贪婪与恐惧的笑容。
-他把小皮袋死死攥在掌心，连连对着骑兵躬身作揖。
-站在二楼窗后的Leon面无表情。
-指甲无声地嵌进冰凉的粗木窗框里。
-那个袋子里装的是什么？
-是让他继续慢性暴毙的毒药？
-还是买通这条狗命的赏钱？
-派Morris来这片烂泥地的，当真只是那位自视甚高的大少爷Cedric吗？
-还是说，这支巡视队伍里，本就夹杂着另一只藏在幕后的黑手？
-楼下。
-那名骑兵已经转身隐入了马厩的阴影之中，仿佛从没出现过一样。
-Pell迅速将那个小羊皮袋塞进自己油腻破旧的袄子衣袖深处，弯腰端起地上的破木盆，低着头，轻手轻脚地朝着后厨的方向快步溜了回去。
-二楼窗前，Leon捏着粗麻窗帘边缘的手指，始终没有松开。
+「熏制成品保质期预估：在北境当前环境温度下（0至零下5度），可储存90至150天，置信度86%。」
+能够储存三到五个月。
+这意味着只要熏干，这些原本极易变质腐烂的高蛋白鱼肉，就能安安稳稳地躺在大仓里，一直吃到明年开春大雪融化。
+Leon紧绷的嘴角刚要松开，小七的下一行数据紧接着刷了出来。
+「补充环境变量：抑菌与渗透压控制需依赖外源电解质。」
+「每磅鲜鱼基础脱水处理，最低需消耗粗盐0.04至0.05磅（渗透率3%至5%）。」
+「按后续预计捕获的八百磅鲜鱼总量测算，最低需消耗粗盐储备：32至40磅。」
+冰冷的数字像一桶冰水，当头浇灭了Leon心头刚升起的那点热度。
+三十多磅盐。
+Leon皱紧了眉头，抬起手摸向自己腰间挂着的一个小皮囊。
+这年头的食盐根本不是什么廉价佐料，在内陆的北境，盐就是白花花的银子，甚至比银子还硬性。
+平民吃的粗盐又苦又涩，还带着沙子，全靠行脚商人从南方的盐沼或者海边千里迢迢运过来。
+整座黑石领，能刮出多少盐？
+昨天晚上，Hob带着几个村老，挨家挨户敲开三十多间破茅草屋的门，把各家陶罐底下刮得干干净净。
+最后收拢上来的，全装在Leon身前这个打着补丁的破亚麻布口袋里。
+Leon伸出手，解开布袋扎口的麻绳，将里面的东西倒了一小撮在自己的掌心里。
+灰蒙蒙的一小堆，颗粒大得像碎砂石，凑近了一闻，带着一股刺鼻的苦涩卤水味。
+就这么一堆破烂杂质盐，是全村一百四十多口人凑出来的全部家底。
+他闭上眼睛，脑海里浮现出昨天用秤称出来的那个要命数字。
+六点二磅。
+加上自己从Varen城带来的行囊里，仅存的那半磅用来应急的雪白细盐。
+黑石领现在所有能入口的盐加在一起，只有六点七磅。
+最多只能用来腌制一百五十磅鱼。
+剩下六百多磅还没从水里捞上来的大鱼，根本没有足够的盐去杀菌脱水，挂进熏房不出三天，就会在温热的烟气里发胀、长毛、彻底烂成一堆恶臭的烂肉。
+“领主大人。”
+Bram拄着拐杖走上前，粗粝的老眼扫过Leon掌心里那一小撮灰褐色的粗盐，眉头拧成了一个死疙瘩。
+“村里凑上来的盐，全在这儿了吧？”
+老猎人啐了一口嘴里的草茎，看着案板上越堆越多的开膛活鱼，声音低沉：
+“这点盐面子，顶多够铺两层架子。要是没盐把肉里的血水杀出来，这剩下的几百磅活鱼挂进熏房，要不了三天就得全臭在木杆上。”
 
-(Đoạn 14 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 15 sẽ bắt đầu ngay sau chỗ này.)
