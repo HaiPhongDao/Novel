@@ -1,3 +1,9 @@
 ## 4. Giọng đã được duyệt
 
-Chưa có trích đoạn chính văn được Tác giả chọn. Các trích mẫu ở gemini/mau-giong.md chỉ dùng phân tích kỹ thuật; không giả làm giọng của truyện mới.
+Nguồn: đoạn 001 v02-02, Tác giả chọn dùng ngày 23/10/2026. Trích nguyên văn cuộc tập; học mạch hỏi–đáp, không bê lại sự việc hoặc lời nói vào cảnh mới.
+
+“副队长，我握绳子惯了。”Toma忍不住小声辩解，粗糙的拇指抠着矛杆上的白茬，“两只手一往怀里使劲，右肘就下意识想往外架，不架开使不上力气……后头的弟兄又跟得紧，我这一收，后头根本没地方躲。”
+
+Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收回腰际，矛身紧贴着粗麻布背心。
+
+“谁让你拿胳膊肘使蛮力了？”Dain侧过身，把动作放慢给他们看，“握枪不是拉耕牛。你把矛尾当成自己的肋骨，小臂贴紧，手腕往内扣。你看，这样收回来，矛尾顺着大腿外侧走，占的是你自己的地方，后头的人闭着眼睛往前压也碰不着你。”

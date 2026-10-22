@@ -1,6 +1,6 @@
 # Dòng thời gian — đề xuất v0.1
 
-> Lịch dự kiến; chưa có sự kiện chính văn chốt.
+> Đoạn 001 v02-02 được Tác giả chọn dùng ngày 23/10/2026. Sự kiện tới hết 001 đã lên trang; các mốc sau vẫn là lịch dự kiến.
 
 | Mốc | Sự việc |
 |---|---|
@@ -8,7 +8,7 @@
 | Trước mở | Chiến dịch kết thúc, đơn vị cũ giải tán; tám người tiếp tục làm cùng Rowan |
 | Tối trước ngày 1 | Ký hợp đồng giữ bến 30 ngày; nhận 12 bạc; tiền mặt 32 bạc |
 | Đầu 001, ngày 1 | Buổi luyện đầu tại bến; chưa chi dự toán tháng mới |
-| Cuối 001 dự kiến | Toma 12 → 13 điểm thu giáo; báo sáu xe thay bốn xe đã hẹn |
+| Cuối 001, đã viết | Toma 12 → 13 điểm thu giáo; báo sáu xe thay bốn xe đã hẹn |
 | 002–004 dự kiến, ngày 1 | Làm rõ việc thêm, tổ chức lượt xe, xử lý sự cố nhỏ |
 | Sau đó | Lập lịch sau phản hồi Tác giả và kết quả bản thử |
 

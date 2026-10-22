@@ -1,6 +1,6 @@
 # Kỵ sĩ — tổng quan đề xuất v0.1
 
-> Bản làm việc 23/10/2026. Tác giả mới chốt mở truyện Kỵ sĩ và dùng file tham khảo; các tên, cơ chế và sự kiện dưới đây chưa phải canon được duyệt.
+> Cập nhật 23/10/2026: Tác giả chọn đoạn 001 v02-02 làm bản để viết tiếp. Các sự kiện đã lên trang và dữ kiện dùng tiếp ở handoff/canon-card.md; tên truyện, hướng phát triển xa và phần chưa viết vẫn là đề xuất. Ghi chú biên tập đoạn 001 ở reviews/doan-001.md.
 
 **Logline:** Một kỵ sĩ vừa giải ngũ nhận hợp đồng giữ bến phà xuống cấp, dùng bảng luyện tập biến tám người gác thành đội quân đầu tiên và biến việc giữ đường thành quyền giữ đất.
 
