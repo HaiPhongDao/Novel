@@ -63,7 +63,7 @@ Leon đổ trà vào khe gạch, để bát rỗng cho Pell tin; sáng viện c�
 Làng có bảy tám nhà mắc 秋季病. Nhà Bram (gỗ, cuối làng): Mira 16 tuổi cầm dao chắn em; Tobi 7 tuổi mất nước, 小七 cho 24 giờ (82%). Giếng ở chỗ trũng nhất, dốc nhà và phân đổ xuống; 小七: nước nhiễm khuẩn (88%). Leon ra lệnh chỉ uống nước đun sôi, uống nước lã trừ ba ngày khẩu phần; Hob chống gậy chắn giếng vì củi mùa đông, mười mấy dân đứng sau.
 
 ### Đoạn 4 — chiều → tối Ngày 2
-Leon nói luật Aldermark: đất, giếng, rừng thuộc lãnh chúa; từ hôm nay 领主府 quản giếng, nước sôi phát không sáng tối cạnh giếng; củi lấy từ xà sồi mái sập trang viên, không đụng củi các nhà. 小七: 6 xà + 28 rui ~3200 pound, nồi chung đỡ hao, đủ 146 người 72–80 ngày, 86%. Doyle (gã to con làm thuê vặt) xách dao rựa gào rằng lãnh chúa muốn chiếm giếng thu tiền; Gareth không rút kiếm, bẻ trật cổ tay, đè úp mặt xuống bùn. Leon nhắc luật treo cổ rồi phạt lao dịch: chẻ củi, trông lửa nồi nước tới khi Leon cho thôi. Hob đứng chống gậy nhìn suốt, nghĩ lãnh chúa này "既有刀子，又有算盘". Leon giao Hob trông từng nhà: nhà nào uống nước lã trừ ba ngày khẩu phần, Hob chịu cùng. Hob hỏi nếu đêm có người lén uống nước giếng → đậy giếng bằng phiến đá, Hob giữ chìa; sáng gõ chuông phát nước, chiều phát lần hai. "我明白了，领主大人." Hob đi báo từng nhà. Chập tối: nồi đồng kê trên bốn tảng bazan cạnh giếng, Doyle cởi trần chẻ củi. Nhà Mira: Mira cầm dao chắn; Leon đòi hũ mật ong ("再留一天，你弟的身子就凉透了"), lấy muối trong áo choàng, pha hai bát nước sôi để nguội ~1 lít + sáu thìa mật + nửa thìa muối; 小七 89%. Dặn đút từng thìa, cách vài hơi thở, suốt đêm. Mira đút thìa đầu, Tobi nuốt xuống.
+Leon nói luật Aldermark, 领主府 quản giếng, nước sôi phát không sáng tối, củi lấy từ xà sồi mái sập (小七: 72–80 ngày, 86%). Doyle gào chống lệnh → Gareth bẻ trật cổ tay, đè xuống bùn; Doyle lao dịch chẻ củi trông lửa. Hob đứng chống gậy, nhận trông từng nhà (uống nước lã trừ ba ngày khẩu phần, Hob chịu cùng), hỏi chuyện đêm có người lén uống → giếng đậy đá có khoá. Tối, Leon pha nước muối mật cho Tobi; Tobi nuốt thìa đầu.
 
 ### Đoạn 5 — Ngày 3 → chiều tối Ngày 5
 Sáng Ngày 3, Doyle một tay chẻ củi dưới mắt Gareth. Leon (đã một ngày rưỡi không uống trà của Pell, đỡ buồn nôn) giao ba việc: hố xí chung 35 bước dưới giếng sau bụi táo chua, rào liễu; dọn hết phân gia súc sau nhà vào hố; rãnh chặn nước hình cung phía trên giếng 5 bước, rộng 2 thước sâu 1,5 thước, dẫn sang khe đá phía đông. Dân càu nhàu; Hob quất gậy vào chân gã kêu to nhất, dọa trừ ba ngày khẩu phần. Leon đo dốc bằng bước chân; 小七 tính rãnh rồi quá tải → Leon chảy máu cam, độ tin cậy tụt còn 71%; Leon cấm Gareth lại gần, vạch đường rãnh bằng que than. Thành giếng xây cao ba thước bằng đá tường trang viên. Trưa, Mira chạy tới: canh ba Tobi tỉnh đòi nước, sáng phân hết máu, đã ngồi dậy được; cô đưa tấm da cáo đỏ nguyên vẹn để đáp lễ (Leon nhận, đưa Gareth cầm). Bram đã đi bốn ngày rưỡi, thường tối đa bốn ngày; trong rừng có tiếng sói, sương phía bắc dày sớm hơn mọi năm. Leon bảo cô về trông em. Chiều tối Ngày 5: rãnh xong (đáy rải sỏi), thành giếng trát bùn rơm đã khô, nắp phiến đá có xích và ổ khoá; Doyle ngồi bệt cạnh đống củi cao hơn hai người. Hob đứng cách ba bước: số ca mới "零". Rồi ông khai: 42 bao lớn, 16 bao nhỏ, chỉ hơn 5800 pound, "我多报了快两百磅" — vì sợ lãnh chúa thấy làng nghèo quá, trước khi đi vét luôn lương dân giấu dưới giường. Leon: "我知道……抓一把麦子过手，数数沉在掌心里的沙子和瘪谷，我就知道了。" Hob đứng sững, tay siết đầu gậy.
@@ -71,46 +71,48 @@ Sáng Ngày 3, Doyle một tay chẻ củi dưới mắt Gareth. Leon (đã mộ
 ### Đoạn 6 — đêm Ngày 5 → sáng Ngày 6
 Đêm, phòng ngủ tầng hai: Leon vạch mẩu đá đen lên lò sưởi (vệt đen), bỏ vào lửa — khó bén, rồi lửa vàng, mùi lưu huỳnh, nóng hơn gỗ. 小七: than đá, nhiệt trị 2,3–2,5 lần gỗ cứng; cảnh báo CO không màu không mùi, ngủ là chết (84%); lớp than lộ ở sườn đông đủ cả lãnh địa sưởi ít nhất ba mùa đông (60%). Leon mở toang cửa chớp, hiểu nhà lão Jim: bịt kín cửa, chết trong khói than trước, lửa bén mái sau. Sáng Ngày 6, sườn đông: Doyle (tay quấn vải) đập một sọt than; Leon cho xếp hai hố lửa — mười thanh củi sồi và ba thanh mồi phủ nửa sọt than. Dân làm dấu trừ tà, chê mùi "lưu huỳnh địa ngục". Chưa tới nửa canh giờ củi thành tro, than đỏ rực, nóng gấp đôi. Leon nói: gỗ mái sập chỉ đủ đun nước, có than thì mùa đông nhà nào cũng ấm; ba quy tắc — chỉ đốt trong bếp/lò có ống khói gạch bùn; phòng có than phải chừa khe gió một ngón tay, ai bịt kín thì dỡ mái nhà; trước khi ngủ phải ủ tắt lửa hoặc mở hẳn lỗ thông, không thì như nhà lão Jim. Hob đứng chống gậy: "老Jim……是我一母同胞的亲兄弟", hôm Jim mang đá về ông có mặt; "到死……也不会碰这石头一下". Dân đứng cách hố lửa mười bước; Hob đứng xa nhất.
 
+### Đoạn 7 — đêm Ngày 6 → sáng Ngày 7
+Đêm gió tuyết đầu tiên. Dunn (ngoài bốn mươi, thợ đan liễu, hay ho) lén lên sườn đông xúc nửa bao than còn hồng về đốt trong hầm đất, chèn ván kín cửa, nhét rơm khe cửa; ngủ cùng vợ và mẹ già nằm liệt. Gần sáng vợ Dunn bò ra kêu cứu. Gareth dùng xà beng phá cửa; Leon cấm dân xông vào, cùng Gareth nín thở kéo ba người ra đầu gió, sai lấy đất lấp hố than. 小七: môi đỏ anh đào; Dunn và vợ nhẹ, bà cụ nặng (sống 71%). Leon móc đờm, ấn ngực, bà cụ thở lại; Dunn ôm đầu nôn. Không ai chết. Dunn dập đầu xin tha; Leon tự tay cạy tấm ván chèn cửa, khoét lỗ khói to bằng miệng bát: "我说过，留一指风缝，谁敢封死，我就扒了谁的屋顶。" — lần sau lấp hầm. Hob chống gậy tới, nhìn mặt đỏ của bà cụ — y như mặt Jim khi lôi ra khỏi đống đổ nát. Không nói gì, ông lên sườn đông, lấy xẻng xúc nửa gùi than, cõng về căn nhà gỗ có ống khói gạch bùn của mình; dân nhìn theo. Mira ở lại, đứng thẳng: Tobi đã ăn được bát cháo mạch nóng; cha vào rừng tám ngày; cô biết dấu hiệu cha để lại, xin mượn Gareth đi tìm. Leon tính: Bram là mắt và cây cung giỏi nhất của lãnh địa, nhưng không thể để Gareth đi một mình rồi ở lại với Pell. "Gareth会去。我也去。明天天一亮，村口集合。"
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 6)
+## 3. Trạng thái hiện tại (hết đoạn 7)
 
-**Thời điểm:** sáng Ngày 6, sườn đồi phía đông, cạnh hai hố lửa thử (một nhúm tro củi, một đống than đỏ rực).
-**Có mặt:** Leon, Gareth, Hob (đứng xa nhất), Doyle, năm sáu nông nô. Pell ở trang viên. Mira ở nhà trông Tobi.
+**Thời điểm:** sáng Ngày 7, khoảng đất trống phía đông làng, trước hầm đất nhà Dunn.
+**Có mặt:** Leon, Gareth, Mira. Nhà Dunn đã được hàng xóm khiêng về hầm (đã khoét rộng lỗ khói). Hob đã cõng than về nhà. Pell ở trang viên.
+**Hẹn:** sáng sớm Ngày 8, Leon, Gareth, Mira tập trung ở đầu làng để vào 迷雾森林 tìm Bram.
 
 **Leon biết**
-- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon đã thôi uống trà của Pell (vẫn khen rồi lén đổ); Pell tin Leon vẫn uống.
-- Đá đen là than đá; đốt trong phòng kín sinh khí độc không màu không mùi. Nhà lão Jim (em ruột Hob) chết vì khói than trước khi cháy.
-- Bram đi săn quá ngày về; sương phía bắc dày sớm, trong rừng có tiếng sói.
+- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon vẫn khen trà rồi lén đổ; Pell tin Leon vẫn uống.
+- Than đá; khí than giết người trong phòng kín. Nhà lão Jim (em ruột Hob) chết như vậy.
+- Bram vào rừng tám ngày (thường tối đa bốn); sương phía bắc dày sớm, trong rừng có tiếng sói.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên (Leon, Gareth, Pell) = 146 miệng ăn |
-| Lương | kho chung hơn 5800 pound lúc Ngày 2 + kho trang viên <200 pound mốc |
-| Khẩu phần | 1 pound/người/ngày → còn ~36 ngày (tính tới hết Ngày 6) |
-| Tới tuyết đầu mùa | ~83 ngày (tính từ Ngày 6); tuyết kéo dài nửa năm |
-| Củi đun nước | xà sồi mái sập: còn ~69 ngày |
+| Lương | 1 pound/người/ngày → còn ~35 ngày (tính tới hết Ngày 7) |
+| Tới tuyết đầu mùa | ~82 ngày (tính từ Ngày 7); tuyết kéo dài nửa năm |
+| Củi đun nước | xà sồi mái sập: còn ~68 ngày |
 | Than | lớp lộ ở sườn đông, 小七 ước đủ sưởi cả làng ít nhất 3 mùa đông (60%) |
 | 秋季病 | không ca mới từ Ngày 5 |
-| Thể trạng Leon | hồi phục dần; vẫn mau mệt |
+| Thể trạng Leon | hồi phục dần; kéo người một lúc là tay mỏi run |
 
 **Lệnh đang chạy**
-- Giếng do 领主府 quản; nắp phiến đá có khoá, Hob giữ chìa. Nước sôi phát không cho mọi người, sáng và chiều, ở nồi đồng cạnh giếng. Hình phạt trong làng là trừ khẩu phần.
-- Ba quy tắc than (Ngày 6): chỉ đốt trong bếp/lò có ống khói; phòng có than chừa khe gió một ngón tay; trước khi ngủ ủ tắt lửa hoặc mở hẳn lỗ thông.
-- Doyle lao dịch: chẻ củi, trông lửa, đập than, tới khi Leon cho thôi.
+- Giếng do 领主府 quản; nắp đá có khoá, Hob giữ chìa. Nước sôi phát không cho mọi người sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
+- Ba quy tắc than: chỉ đốt trong bếp/lò có ống khói; chừa khe gió một ngón tay (ai bịt kín thì dỡ mái); trước khi ngủ ủ tắt lửa hoặc mở hẳn lỗ thông.
+- Doyle lao dịch: chẻ củi, trông lửa, đập than.
 
 **Đồ vật / chi tiết đã xuất hiện**
-- Phòng Leon tầng hai: tường bazan, lò sưởi đá, cửa chớp gỗ dày.
-- Hai hố lửa thử ở sườn đông; một sọt than Doyle đập.
-- Giếng: thành cao ba thước, rãnh chặn phía trên, hố xí chung 35 bước dưới giếng.
-- Tấm da cáo đỏ Mira tặng (Gareth cầm).
-- Trang viên chỉ có ba người: Leon, Gareth, Pell (hai người đánh xe đã về thành từ trước).
+- Hầm đất nhà Dunn: cửa ván đã bị cạy bỏ, lỗ khói khoét to bằng miệng bát.
+- Nhà Hob: nhà gỗ có ống khói gạch bùn; trong nhà có nửa gùi than Hob tự cõng về.
+- Hai hố lửa thử ở sườn đông còn than vụn.
+- Tobi ăn được cháo mạch nóng.
+- Trang viên chỉ có ba người: Leon, Gareth, Pell.
 
 **Tuyến đang mở**
-- Hob không chịu đụng vào than.
-- Bram chưa về; Mira lo.
-- Khoảng trống lương: ~36 ngày lương / ~83 ngày tới tuyết.
+- Ngày mai vào rừng tìm Bram; trang viên sẽ chỉ còn Pell.
+- Khoảng trống lương: ~35 ngày lương / ~82 ngày tới tuyết.
 - Mèo vờn chuột với Pell.
 
 ---
@@ -159,36 +161,44 @@ Hob看着Leon冷峻的眼神，躬下身去：“我明白了，领主大人。�
 
 “我多报了快两百磅。我是怕您觉得黑石领太穷，活不下去，临走前把各家各户床底下藏的那点救命杂粮也给刮干净了……”
 
+**Mira xin đi tìm cha (đoạn 7):**
+
+“我爹进迷雾森林，到今天整整八天了。”
+
+“我知道他在林子里留下的暗记。我想进迷雾森林去找他。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 6 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 7 (để nối mạch và giữ giọng)
 
-他抬手指了指左边那摊冰冷的灰烬，“一捆橡木柴，烧半个时辰就变成灰。庄园塌掉的屋顶上总共就那么多木梁，全村一百四十多口人，光是烧水喝，都撑不过两个月。”
-他又指向那团赤红如铁的黑石堆：
-“但只要有了这石头，不仅水有的烧，到了隆冬大雪封山，各家各户的屋子里都能热得像夏天。”
-人群中传出一阵咽唾沫的声音。
-几个冻得嘴唇发紫的农奴，眼神里甚至流露出了一丝贪婪的光芒。
-“不过——”
-Leon的声音骤然一沉，目光如刀子般刮过在场每一个人的脸，“想要用它活命，就必须守我的三条规矩。”
-“第一，这东西只能在有泥砖烟囱的灶膛或者炉子里烧，没有烟囱的破窝棚，一律不准点！”
-“第二，只要屋里烧了这石头，门缝、窗缝，必须留出至少一指宽的通风口，谁敢封死，我就让人去扒了他的屋顶！”
-“第三，也是最要紧的一条。”
-Leon顿了顿，一字一顿地说道：“睡觉之前，必须把炉子里的明火封灭，或者把通气孔彻底打开。谁要是敢在封得严严实实的屋子里点着它睡觉，老Jim一家的下场，就是他的下场！”
-听到“老Jim”的名字，热烈的人群像是被泼了一盆冷水，猛地打了个寒战。
-沉默之中，一直拄着拐杖站在最后面的Hob，慢慢往前挪了两步。
-老头子枯瘦的手死死抓着拐木，指骨凸起得变了形，眼眶发红地盯着那团散发着硫磺味的赤红火堆。
-良久，他抬起头，声音沙哑得像是在粗砂纸上磨过：
-“领主大人。”
-Hob喘了一口粗气，胸口剧烈起伏着，“老Jim……是我一母同胞的亲兄弟。”
-周围的农奴们顿时安静下来，连呼吸声都放轻了。
-“当年他把这石头搬回家的时候，我也在场。”
-老村长眼眶里泛着混浊的水光，枯皮般的嘴角剧烈抽搐了几下，声音低沉而决绝：
-“您是尊贵的少爷，懂天上的学问，您怎么说，村里人怎么做。但是这东西……害死了我兄弟一家五口。”
-他拄着拐杖往后退了一步，把头扭向一边，不再看那团刺眼的红光：
-“我这把老骨头，到死……也不会碰这石头一下。”
-冷风卷起地上的黑色碎屑，扑打在滚烫的石堆上，发出轻微的滋滋声。
-山坡上一片死寂。
-农奴们畏缩在火塘十步开外的地方，眼神在赤红发烫的黑石头和那摊灰白的橡木灰烬之间游移不定。
-唯有Hob一个人，拄着那根弯曲的木拐杖，形单影只地立在所有人身后最远的风口里，背影佝偻得像是一截风干的枯木。
+清晨的寒风吹乱了她额前那缕红褐色的碎发，露出那双野兽般清澈而坚韧的眸子。
+“领主大人。”Mira的声音清脆，甚至带着一丝粗粝的硬度。
+Leon直起身，拍了拍袖口上的灰：“怎么，你弟弟又不舒服了？”
+“Tobi很好，早晨已经能喝下一大碗热麦糊了。”
+Mira咬了咬下唇，右手下意识地按在了腰间那柄磨损得厉害的砍柴刀柄上，一字一顿地说道：
+“我爹进迷雾森林，到今天整整八天了。”
+Leon微微眯了眯眼。
+黑石领最优秀的猎手，往常进山最多四天，现在超期了一倍的时间。
+在这片被凛冬步步逼近的土地上，八天不归，几乎等同于死人的代名词。
+“村里的大仓只够吃一个多月，如果我爹回不来，今年冬天村里连一张能御寒的兽皮、一斤额外的熏肉都拿不出来。”
+Mira抬起头，目光毫不退避地撞上Leon的灰眸子，声音沉稳得不像个十六岁的姑娘：
+“我知道他在林子里留下的暗记。我想进迷雾森林去找他。”
+她顿了顿，眼神转向一直像尊铁塔般护在Leon身侧的独臂骑士：
+“外面的深雪林子里有成群的雪狼，我一个人应付不来。我想向您借Gareth大人，让他带上剑，跟我走一趟。”
+晨风呼啸，卷过荒凉的泥地。
+Gareth面无表情地站在原地，唯有按在剑柄上的右手微微紧了紧，目光投向自家年轻的少爷。
+借走庄园唯一的战力？
+在这座暗流涌动的领地里，一旦没了这柄铁剑坐镇，后方那个满脸堆笑端着毒茶的仆人Pell，说不定就会暴露出致命的獠牙。
+但在Leon的心里，账本翻动的速度比风还要快。
+Bram是黑石领唯一的眼睛和最好的猎弓。
+少了一个老猎手，等于瞎了眼，在这个动辄大雪封山半年的边境，一百四十号人光靠地里那点瘪麦子根本熬不过隆冬。
+更何况，迷雾森林里有木料，有猎物，甚至可能有未被开采的资源。
+如果Bram还活着，就必须捞出来；如果死了，他也必须知道那片林子里到底有什么要命的玩意儿。
+但放Gareth一个人走？绝不可能。
+把唯一的护卫派出去，自己留在庄园里跟下毒的凶手喝茶玩捉迷藏，那是前世二流电视剧里弱智反派才会干的事。
+Leon抬起手，掸了掸斗篷上的寒霜，平淡地迎上少女那双满含决绝与孤注一掷的眼睛：
+“Gareth会去。”
+他嘴角微微扯出一抹极浅的弧度，平静地说道：
+“我也去。明天天一亮，村口集合。”
 
-(Đoạn 7 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 8 sẽ bắt đầu ngay sau chỗ này.)

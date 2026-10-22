@@ -71,3 +71,4 @@
 2026-10-22 | plot | Không thêm bước lắng/lọc nước; đun sôi là đủ | Tác giả hỏi, Agent đề xuất, Tác giả không cần | Tác giả
 2026-10-22 | dự án | Agent tự chạy ~10 đoạn (006–015) theo dàn ý gốc + đề xuất `Writer Gemini 3.8 Flash/plan-de-xuat.md` (Hoag → Doyle); không chạm chủ mưu, lật bài Pell, đổi than lấy lương; 015 = đào than + nồi nước chuyển sang than + bếp có ống khói | Yêu cầu của Tác giả | Tác giả
 2026-10-22 | doan-006 (lượt 2) | Đạt (S5). Hob nói lão Jim là em ruột, thề không đụng than. Leon nói củi "không quá hai tháng" (phóng đại; state giữ ~69 ngày) | Review | Agent (ghi log)
+2026-10-22 | doan-007 (lượt 2) | Đạt (S6). Hob đổi ý bằng việc tự xúc than cõng về nhà mình, không lời giải thích. Lời kể còn câu chốt giữa đoạn ("活命的温度，比神明更实在") | Review | Agent (ghi log)

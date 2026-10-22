@@ -1,39 +1,38 @@
-## 3. Trạng thái hiện tại (hết đoạn 6)
+## 3. Trạng thái hiện tại (hết đoạn 7)
 
-**Thời điểm:** sáng Ngày 6, sườn đồi phía đông, cạnh hai hố lửa thử (một nhúm tro củi, một đống than đỏ rực).
-**Có mặt:** Leon, Gareth, Hob (đứng xa nhất), Doyle, năm sáu nông nô. Pell ở trang viên. Mira ở nhà trông Tobi.
+**Thời điểm:** sáng Ngày 7, khoảng đất trống phía đông làng, trước hầm đất nhà Dunn.
+**Có mặt:** Leon, Gareth, Mira. Nhà Dunn đã được hàng xóm khiêng về hầm (đã khoét rộng lỗ khói). Hob đã cõng than về nhà. Pell ở trang viên.
+**Hẹn:** sáng sớm Ngày 8, Leon, Gareth, Mira tập trung ở đầu làng để vào 迷雾森林 tìm Bram.
 
 **Leon biết**
-- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon đã thôi uống trà của Pell (vẫn khen rồi lén đổ); Pell tin Leon vẫn uống.
-- Đá đen là than đá; đốt trong phòng kín sinh khí độc không màu không mùi. Nhà lão Jim (em ruột Hob) chết vì khói than trước khi cháy.
-- Bram đi săn quá ngày về; sương phía bắc dày sớm, trong rừng có tiếng sói.
+- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Leon vẫn khen trà rồi lén đổ; Pell tin Leon vẫn uống.
+- Than đá; khí than giết người trong phòng kín. Nhà lão Jim (em ruột Hob) chết như vậy.
+- Bram vào rừng tám ngày (thường tối đa bốn); sương phía bắc dày sớm, trong rừng có tiếng sói.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên (Leon, Gareth, Pell) = 146 miệng ăn |
-| Lương | kho chung hơn 5800 pound lúc Ngày 2 + kho trang viên <200 pound mốc |
-| Khẩu phần | 1 pound/người/ngày → còn ~36 ngày (tính tới hết Ngày 6) |
-| Tới tuyết đầu mùa | ~83 ngày (tính từ Ngày 6); tuyết kéo dài nửa năm |
-| Củi đun nước | xà sồi mái sập: còn ~69 ngày |
+| Lương | 1 pound/người/ngày → còn ~35 ngày (tính tới hết Ngày 7) |
+| Tới tuyết đầu mùa | ~82 ngày (tính từ Ngày 7); tuyết kéo dài nửa năm |
+| Củi đun nước | xà sồi mái sập: còn ~68 ngày |
 | Than | lớp lộ ở sườn đông, 小七 ước đủ sưởi cả làng ít nhất 3 mùa đông (60%) |
 | 秋季病 | không ca mới từ Ngày 5 |
-| Thể trạng Leon | hồi phục dần; vẫn mau mệt |
+| Thể trạng Leon | hồi phục dần; kéo người một lúc là tay mỏi run |
 
 **Lệnh đang chạy**
-- Giếng do 领主府 quản; nắp phiến đá có khoá, Hob giữ chìa. Nước sôi phát không cho mọi người, sáng và chiều, ở nồi đồng cạnh giếng. Hình phạt trong làng là trừ khẩu phần.
-- Ba quy tắc than (Ngày 6): chỉ đốt trong bếp/lò có ống khói; phòng có than chừa khe gió một ngón tay; trước khi ngủ ủ tắt lửa hoặc mở hẳn lỗ thông.
-- Doyle lao dịch: chẻ củi, trông lửa, đập than, tới khi Leon cho thôi.
+- Giếng do 领主府 quản; nắp đá có khoá, Hob giữ chìa. Nước sôi phát không cho mọi người sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
+- Ba quy tắc than: chỉ đốt trong bếp/lò có ống khói; chừa khe gió một ngón tay (ai bịt kín thì dỡ mái); trước khi ngủ ủ tắt lửa hoặc mở hẳn lỗ thông.
+- Doyle lao dịch: chẻ củi, trông lửa, đập than.
 
 **Đồ vật / chi tiết đã xuất hiện**
-- Phòng Leon tầng hai: tường bazan, lò sưởi đá, cửa chớp gỗ dày.
-- Hai hố lửa thử ở sườn đông; một sọt than Doyle đập.
-- Giếng: thành cao ba thước, rãnh chặn phía trên, hố xí chung 35 bước dưới giếng.
-- Tấm da cáo đỏ Mira tặng (Gareth cầm).
-- Trang viên chỉ có ba người: Leon, Gareth, Pell (hai người đánh xe đã về thành từ trước).
+- Hầm đất nhà Dunn: cửa ván đã bị cạy bỏ, lỗ khói khoét to bằng miệng bát.
+- Nhà Hob: nhà gỗ có ống khói gạch bùn; trong nhà có nửa gùi than Hob tự cõng về.
+- Hai hố lửa thử ở sườn đông còn than vụn.
+- Tobi ăn được cháo mạch nóng.
+- Trang viên chỉ có ba người: Leon, Gareth, Pell.
 
 **Tuyến đang mở**
-- Hob không chịu đụng vào than.
-- Bram chưa về; Mira lo.
-- Khoảng trống lương: ~36 ngày lương / ~83 ngày tới tuyết.
+- Ngày mai vào rừng tìm Bram; trang viên sẽ chỉ còn Pell.
+- Khoảng trống lương: ~35 ngày lương / ~82 ngày tới tuyết.
 - Mèo vờn chuột với Pell.
