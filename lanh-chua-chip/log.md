@@ -82,3 +82,5 @@
 2026-10-23 | doan-012 (lượt 2) | Đạt (S9). Khung số liệu sai trong văn ("chỉ thiếu 20 ngày giữa mùa đông") → state ghi khung đúng: ~57 ngày ăn / 74 ngày tới tuyết + nửa năm tuyết. Từ nay prompt đưa sẵn con số tổng khi Leon tính sổ | Review | Agent (ghi log)
 2026-10-23 | doan-013 (lượt 2) | Đạt (S10). Morris tới ngay chiều Ngày 15 (sớm hơn đề xuất Ngày 17) để nối liền đoạn 12; Pell nhận túi da; bí mật chủ mưu giữ nguyên (Leon chỉ tự hỏi) | Review | Agent (ghi log)
 2026-10-23 | doan-014 (lượt 2) | Đạt (S10). Morris mang số cũ về thành; gian xông khói chạy than; muối 6,7/32–40 pound. 小七 lại "视网膜" một cụm — không viết lại, prompt từ 015 ghi "Leon chỉ nghe 小七 nói" | Review | Agent (ghi log)
+2026-10-23 | doan-015 (lượt 2) | Bản 1 (S11) VIẾT LẠI: vào đầu Pell ("城里那位大人"), 小七 gọi 宿主 + cảnh báo màu đỏ. Bản 2 ghi điểm nhìn ngay trong câu sự việc | Review | Agent (ghi log)
+2026-10-23 | doan-015 (lượt 2) | Bản 2 (S12) ĐẠT. Còn hai câu vào đầu Pell ("那个骑士大人") — không lộ chủ mưu, không viết lại. Hết đợt tự động 006–015 | Review | Agent (ghi log)

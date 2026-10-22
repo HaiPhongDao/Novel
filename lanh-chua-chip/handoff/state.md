@@ -1,30 +1,35 @@
-## 3. Trạng thái hiện tại (hết đoạn 14)
+## 3. Trạng thái hiện tại (hết đoạn 15)
 
-**Thời điểm:** chiều Ngày 18, bờ suối phía tây, trước gian xông khói vừa lợp xong.
-**Có mặt:** Leon (cầm nhúm muối trong lòng bàn tay), Bram (chống gậy chạc), Mira (đang mổ cá trên phiến đá), mấy người kéo rọ. Ba rọ vừa kéo lên, vài chục con cá còn giãy. Pell ở trang viên. Morris đã về thành từ sáng Ngày 16.
+**Thời điểm:** sáng Ngày 22, phòng ngủ tầng hai của Leon.
+**Có mặt:** Leon ngồi tựa ghế, máu cam lem cằm và tay áo, vũng máu trên bàn đá; bát trà đã đổ vào khe gạch, còn lớp cặn mỏng; chậu nước vỡ trên sàn. Pell đang chạy từ hành lang sau lên, cầm khăn lanh. Gareth chưa biết.
 
 **Leon biết**
-- Pell bỏ độc; đêm Ngày 15 nhận túi da cừu cỡ bàn tay từ một kỵ binh của Morris (cao, nghiêng phải, vai phải có thương cũ). Ai đứng sau — chưa biết.
-- Morris mang về thành danh sách số cũ (143 người, 42 đàn ông khoẻ, 5800 pound); sẽ quay lại thu thuế đầu xuân.
+- Trà sáng Ngày 22: liều độc tăng 3–4 lần (mùi hạnh nhân đắng, tê môi); uống trọn bát chết trong 4–6 giờ. Loại độc chưa biết (dữ liệu hỏng). Người đứng sau đã hết kiên nhẫn — ai thì chưa biết.
+- Pell tin Leon đã uống phần lớn bát trà và đang gục nhanh; Leon thấy khoé miệng Pell giật lên cười.
+- Leon dặn Pell không cho Gareth biết. Ngoài 小七, Leon chưa nói với ai.
 - Bầy sói còn 12 con ở rừng. Vết cào 5,7 cm (chỉ Leon biết).
-- Số hạt sồi, cá, than chỉ Leon và Hob biết; que khắc cũ đã đốt.
 
 **Con số đang chạy (khung đúng)**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Mạch đen trong kho | ~3.250 pound (Ngày 18) + thịt sói khô ~143 pound |
+| Mạch đen trong kho | ~2.650 pound (Ngày 22) + thịt sói khô |
 | Bột sồi | ước ~3.500 pound khi xử lý xong |
-| Cá | mùa cá còn ~17 ngày; dự kiến tổng ~800 pound |
-| Tổng | ~53–55 ngày ăn (tính từ Ngày 18); tới tuyết ~71 ngày → vẫn thiếu trước tuyết; nửa năm tuyết chưa có gì |
-| Muối | 6,7 pound (6,2 thô + 0,5 trắng của Leon) — đủ ~150 pound cá; cần 32–40 pound cho 800 pound |
-| Gian xông khói | ~12 m³, mỗi mẻ 120–150 pound, 3–4 ngày, để được 90–150 ngày |
+| Cá | hầm đông 470 pound (sức chứa 800–1.000, giữ 60–75 ngày); cá xông khô 120 pound; mùa cá còn ~13 ngày |
+| Muối | đã dùng cho mẻ cá xông; gần hết |
+| Tổng | vẫn chỉ ~50 ngày ăn; tới tuyết ~67 ngày; nửa năm tuyết chưa có gì |
 
 **Lệnh đang chạy**
 - Nước sôi phát không; ba quy tắc than; rào bắc 12 chậu than đốt suốt đêm.
-- Số liệu mới chỉ Hob nhớ, không ghi.
+- Ăn cá đông trước, cá khô và bột sồi để sau.
+- Số liệu mới chỉ Hob nhớ.
+
+**Đồ vật / chi tiết đã xuất hiện**
+- Hầm đông ở sườn bắc khuất nắng, lát đá phiến.
+- Gian xông khói cạnh đập suối phía tây.
+- Tấm ván ghi số bằng than trên bàn Leon.
 
 **Tuyến đang mở**
-- Thiếu muối cho cá.
-- Túi da của Pell.
+- Liều độc tăng; Pell tin Leon đang chết dần.
 - Thiếu lương; bầy sói.
+- Chiều Ngày 22: Gareth luyện giáo cho người canh rào (đoạn sau).

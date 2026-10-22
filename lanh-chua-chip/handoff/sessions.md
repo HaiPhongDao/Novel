@@ -14,3 +14,5 @@ Lượt 1: `archive/run-1/handoff/sessions.md`.
 | S8 | 011 bản 1 | `session-start.md` (hết đoạn 010 + prompt đoạn 011) | VIẾT LẠI (小七 dò nhiệt, 赤瞳狼) |
 | S9 | 011 bản 2, 012 | `session-start.md` (hết đoạn 010 + prompt đoạn 011 bản 2) | cả hai ĐẠT |
 | S10 | 013, 014 | `session-start.md` (hết đoạn 012 + prompt đoạn 013) | cả hai ĐẠT |
+| S11 | 015 bản 1 | `session-start.md` (hết đoạn 014 + prompt đoạn 015) | VIẾT LẠI (vào đầu Pell, 宿主) |
+| S12 | 015 bản 2 | `session-start.md` (hết đoạn 014 + prompt đoạn 015 bản 2) | ĐẠT; còn 1 lượt viết trong S12 |
