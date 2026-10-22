@@ -7,6 +7,6 @@
 | S3 | 004 bản 2 | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 2) | VIẾT LẠI (Hob quỳ, 小七 chiếu hình) |
 | S4 | 004 bản 3, 005 bản 1 | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 3) | 004 ĐẠT; 005 bản 1 VIẾT LẠI (Hob quỳ khai) |
 | S5 | 005 bản 2, 006 | `session-start.md` (hết đoạn 004 + prompt đoạn 005 bản 2) | cả hai ĐẠT |
-| S6 | 007 → | `session-start.md` (hết đoạn 006 + prompt đoạn 007) | 007 ĐẠT |
+| S6 | 007, 008 | `session-start.md` (hết đoạn 006 + prompt đoạn 007) | cả hai ĐẠT |
 
 Lượt 1: `archive/run-1/handoff/sessions.md`.
