@@ -25,3 +25,7 @@ K02: đã thực nhận1 bạc công thêm, chi sửa riêng chủ bến. K01: n
 ### Cập nhật006
 
 K05: nhận việc ngoài bằng phạm vi và ca gác rõ, chưa được tự rút lính mọi ngày. K02: tạmứng1 nằm trong phí3, còn2 chưa thu. K01: Dain nêu hạn chế theo xe.
+
+### Cập nhật007
+
+K01: tập đúng kỹnăng theo xe, bảng chỉ cải thiện thao tác nhỏ. K04: tích lũy theo đúngngười/kỹnăng, không cho kinhnghiệm thựcchiến. K02: chi thật20đồng chuyếnđi.

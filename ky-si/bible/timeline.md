@@ -29,3 +29,7 @@ Ngày đầu: phà quay về rỗng, đưa xe phụ tùng thứ hai, Alden trả
 ### Diễn biến làm việc006
 
 Tối ngày1: ký việc mộtxe/mộtkho ngày2, nhận1/3 bạc; tiền34, còn2 chờ. Dain nêu kỹnăng phải tập trước đi.
+
+### Diễn biến làm việc007
+
+Tối1 tập xe trống; sáng2 trả20đồng góiăn4người, tiền33,8. Nhómđi4 sẵnsàng, Dain ởbến5.

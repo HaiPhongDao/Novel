@@ -45,3 +45,9 @@ Một khách chưa tên hỏi hộ tống xe nhẹ thuốc nhuộm/dược thả
 Khách đưa giấy vàAlden xác nhận giao dịch. Mộtxe nhẹ thuốcnhuộm/dược liệu tới mộtkho ngoàiGreyford, từbến điđườngnam rồi vềtrongngày2. Phí3 bạc gồm1 nhậntrước+2 khi bàn giao; lái/bốc dỡ của khách, đổi nơi nhận/việcthêm phải thương lượng.
 
 Đi4người=Rowan+cựu binh thứhai+Toma+mộtmới; ởbến5=Dain+4mới. Alden đồng ý riêng mộtngày với ca gác rõ. Rowan nhận1bạc, tiền34. Dain vừa nêu người mới chưa biết đổi vịtrí theo gócxe;007 nối Rowan chọnbài tập.
+
+### Đoạn007 — luyện theo xe, trả tiền gói ăn, bàn giao
+
+Tối ngày1, Rowan hỏi cựu binh thứhai, cho Toma/người mới tập đổi vịtrí quanh xe trống; hỏi và sửa thật. BảngToma 随车换位4/100+积累1→5/100+0, thu giáo13 giữ nguyên. Ăn và ngủ rồi sang sángngày2.
+
+Trả20đồng gói thứcăn cho4người, tiền33bạc80đồng; xe/khách tới,4ngườiđi chuẩn bị. Dain giữ5ởbến và hỏi phươngán nếu đườngbị chắn/xe vội quayđầu. Chưa lênđường, chưa thu2bạc còn lại.
