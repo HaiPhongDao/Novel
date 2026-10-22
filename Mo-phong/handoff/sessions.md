@@ -6,3 +6,4 @@
 | run-A | 002 | SI v1 + brief/gói bàn giao | ĐẠT theo chuẩn Tác giả 23/10; đã soát canon |
 | run-A | 003 | SI v1 + brief/gói bàn giao | ĐẠT theo chuẩn Tác giả 23/10; đã soát canon |
 | run-B | 004 | SI v1 + brief/gói bàn giao | ĐẠT theo chuẩn Tác giả 23/10; đã soát canon |
+| run-B | 005 | SI v1 + brief/gói bàn giao | ĐẠT theo chuẩn Tác giả 23/10; đã soát canon |

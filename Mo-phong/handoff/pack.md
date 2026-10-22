@@ -50,17 +50,20 @@ MC tiêu một viên, còn hai. Lượt hai trốn tông, thấy Triệu Toàn g
 ### Đoạn 004 — Lấy sổ trong vại phân thứ ba
 Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, theo ký ức vào kho. Gặp lão Chung cụt chân trái, ông xin rượu không pha nước rồi rời đi. MC mở ngăn khô lấy bọc sổ: tên mình năm nay, phí hoãn5viên; tên Đôn ở danh sách năm sau. Giữ sổ gốc trong ngực, đóng ngăn; tiếng then cửa chính động.
 
+### Đoạn 005 — Xoá năm linh thạch, giữ quyền dự khảo hạch
+Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổgốc giữa2thanhgiường. Sáng3 mang1trangchép tới赵全. Quảnsự đọc rồi gạch khoản5viên trong sổ thu riêng trước mặtMC, giữ trangchép. Chỉ bảo đảm khảo hạch bìnhthường, chưa cho đỗ/đổi tuổi. Dừng khi赵全 hỏi sổởđâu.
+
 ---
 
-## 3. Trạng thái hiện tại — hết đoạn 004
+## 3. Trạng thái hiện tại — hết005
 
-Đêm Ngày2, MC ở trong肥料库, sổ gốc bọc油布 trong ngực, ngăn vại đã đóng; vừa nghe then cửa chính động, chuẩn bị rời bằng cửa sổ.
-- 炼气二层, 五灵根, 2 linh thạch; không chạy máy trong004.
-- Lần mô phỏng đã dùng2; phí lần kế1viên. Hạn phí5viên vào khoảngNgày4, khảo hạchNgày90.
-- Sổ gốc lấy được: private ledger của赵全, có tên沈砚 trong năm nay, phí hoãn5viên/hạn3ngày; năm sau có石墩 mới18tuổi, hơn1năm mới20. Chưa biết chủ mưu/chuyện trận pháp.
-- 老钟/钟伯 cụt nửa chân trái, nhai苦烟叶, gánh phân; đã thấy MC tới kho, xin土烧 không pha nước, MC hứa nhưng chưa mua/chưa tiêu2viên. Ông đã đi khỏi kho trước khi MC đọc sổ.
-- Đôn ở lán chưa biết máy hoặc sổ; MC cần giữ gốc và chỉ đưa bản chép1trang cho赵全 ở005.
-- Khảo hạch là tuổi20/tầng3, không có điều kiện tự thêm5năm ở tạp dịch viện.
+Sáng Ngày3, MC trong phòng赵全, vừa bị hỏi sổởđâu; chưa trả lời hoặc ra ngoài.
+- 炼气二层, 五灵根;2灵石 thật ở chỗ cũ dưới ván giường.
+- Khoản5viên được赵全 gạch bỏ ngay trước mắtMC. Khảo hạch vẫnNgày90, còn khoảng88ngày từ sángNgày3 theo quy ước Ngày1 còn90. Qua khảo hạch chỉ được ởlại, không tự thành ngoại môn.
+- Sổgốc油布 giấu giữa2thanh chịu lực giường, ngoài chỗtiền;1trang chép đã nằm tay赵全. Chưa ai khác thật sự nhận bảnchép. MC có thể giữ mập mờ về bảnchép đểtựbảo vệ.
+- MC biết năm sau石墩 cótên trong sổ; chưa tiếtlộĐôn/máy. 老钟 biếtMC vào kho, hứa rượu chưa trả.
+- Đã môphỏng2lần: 1tuvi,2kýứcđêmgiấusổ. Lần1 chết次年三月初七ở三号矿洞; lượt3 chưa chạy.
+- Nhận định cóngười chốnglưng赵全 chỉ là suyđoán; chưa biết danh tính hoặc trậnpháp.
 
 ---
 
@@ -72,46 +75,44 @@ Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, t
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
-　　封面上没有任何字迹，但翻开第一页，沈砚的目光就凝固了。
-　　那是一行行密密麻麻的蝇头小楷。
-　　“崇元三十一年，灵田克扣中品灵米三石，换取下品灵石三十枚……”
-　　“崇元三十三年，杂役弟子考核名额出售，得灵石四十枚……”
-　　沈砚快速翻动，手指因为用力而微微泛白。
-　　这根本不是普通的公账，而是赵全这些年贪墨宗门资产、收受贿赂的私账！
-　　更要命的在后头。
-　　沈砚翻到了关于寒鸦矿的那几页。
-　　那一页上，赫然罗列着今年即将被送往寒鸦矿的杂役弟子名单。
-　　沈砚一眼就在最上头看到了自己的名字！
-　　而在“沈砚”二字的右侧，赫然用朱砂笔写着一行刺眼的小注：
-　　“暂缓。留舍费下品灵石五枚，限期三日。若足额奉上，暂留杂役院。”
-　　好一个赵扒皮！
-　　沈砚咬了咬牙，后背一阵发凉。
-　　合着不管自己交不交灵石，名字早就已经挂在送死的名单上了！
-　　交了灵石，也不过是“暂留”，说不定过一阵子，还会被他找借口弄去矿洞！
-　　沈砚深吸一口气，强压下心头的火气，继续往下翻。
-　　当翻到下一年度的“预备送矿名单”时，沈砚的瞳孔骤然收缩。
-　　他在那一页的第三行，清清楚楚地看到了两个字——
-　　石墩！
-　　沈砚眉头狠狠拧成了一个疙瘩。
-　　石墩今年才刚满十八岁，按照青岚宗的规矩，杂役弟子年满二十岁考核无望，才会被分流去各处灵矿。
-　　石墩离那个年限，还有一年多时间！
-　　可在这本见不得光的黑账里，赵全竟然已经把石墩的名字写进了明年的名单！
-　　这是连明年的矿奴指标，都提前给安排好了！
-　　沈砚指尖发紧，将账册捏得变了形。
-　　赵全这是把他们当成了明码标价的牲口，能榨出油水的就敲骨吸髓，榨不出来的，就送去矿洞换取他在执事那里的政绩！
-　　“好狠的算计……”
-　　沈砚眼神冰冷。
-　　这本账册，绝对不能留在这里。
-　　虽然他现在还不知道赵全背后站着的到底是哪位靠山，但只要这本账册在自己手里，赵全就等于被掐住了死穴。
-　　哪怕日后真的东窗事发，这也是他沈砚翻盘或者保命的最后王牌！
-　　沈砚没有丝毫犹豫，迅速将账册重新用油布包好，伸手塞进了怀里最贴身的位置。
-　　冰冷的油布紧贴着胸口，硌着肋骨，却让沈砚心里莫名多了一分底气。
-　　他反手将暗格推回原位，青砖严丝合缝地扣紧。
-　　做完这一切，沈砚吐出一口浊气，转身就准备从窗户翻出去。
-　　然而，就在他脚尖刚点在泥地上的那一瞬间——
-　　“吱呀……”
-　　肥料库紧闭的正门处，那根粗重的木门闩，忽然极其轻微地动了一下。
+　　赵全脸上的肥肉一点点绷紧，眼中的轻蔑与暴怒迅速褪去，取而代之的，是一种被毒蛇咬了一口般的惊怒与难以置信。
+　　“你……”
+　　赵全猛地抬起头，死死盯着沈砚。
+　　那眼神不再是看一个任人宰割的杂役，而是在看一个随时可能引爆火药桶的疯子。
+　　沈砚神色自若，甚至嘴角还挂着一丝恰到好处的恭敬笑意。
+　　“管事大人日理万机，想必是账目太多，偶尔有些笔误也是难免的。”
+　　沈砚的声音不高不低，在这死寂的屋子里格外清晰。
+　　“弟子愚钝，只想安分守己地在杂役院当差。三个月后的宗门考核，弟子自会凭本事去争一争那个留宗资格。”
+　　“至于这上头记着的五块灵石……弟子以为，管事大人怕是记错了人。”
+　　赵全死死按着桌案，呼吸粗重得像个拉动的风箱。
+　　一股冰冷的杀机在他眼底疯狂涌动。
+　　赵全眼角的横肉抽搐了半晌，终于缓缓吐出一口浊气。
+　　他收起了身上那股咄咄逼人的威压。
+　　“沈砚。”
+　　赵全咬着后槽牙，从牙缝里挤出这两个字。
+　　他伸手拉开身侧最底下的抽屉，从里面翻出一本薄薄的名册。
+　　那是杂役院用来私下记账的小本子。
+　　赵全翻到沈砚的那一页，抓起案上的毛笔，沾饱了浓浓的黑墨。
+　　在沈砚平静的注视下，赵全手腕发抖，重重一笔落下，将“留舍费五块灵石”那一整行字，死死涂成了一团黑疙瘩。
+　墨汁飞溅，几乎把纸张划破。
+　　“五块灵石的事，一笔勾销。”
+　　赵全扔下笔，肥胖的大手一把将桌上的黄纸抓起，揉成了一团，塞进了自己的袖筒里。
+　　“三个月后的考核，你自去考你的。”
+　　赵全冷冷盯着沈砚，“只要你有本事在三个月内突破到炼气三层，留在宗门的路老子绝不拦你，去寒鸦矿的名册我也自会划掉。”
+　　“但若是你考不过……”
+　　赵全没有把话说死，但语气里的森然之意已经溢于言表。
+　　沈砚心中了然。
+　　赵全能退到这一步，已经是贪生怕死之下的极限。
+　　不掏灵石，保留正常参加九十天后考核的资格，并且免去了眼前的灭顶之灾，这本就是他此行的底线。
+　　至于考不上还是要去矿洞？
+　　三个月后，谁去矿洞还不一定呢。
+　　沈砚微微欠身，礼数周全得挑不出半点毛病：“多谢赵管事明察秋毫。”
+　　然而，赵全并没有让他退下。
+　　这位平日里不可一世的杂役管事身子前倾，两只布满血丝的倒三角眼死死锁在沈砚的脸上，像是要将他整个人看穿一般。
+　　屋内的空气再次沉了下来。
+　　赵全盯着沈砚看了足足半柱香的工夫，终于压低了嗓门，阴恻恻地吐出一句：
+　　“那本账册……在哪？”
 
-(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)

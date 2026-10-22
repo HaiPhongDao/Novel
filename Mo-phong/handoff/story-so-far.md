@@ -11,3 +11,6 @@ MC tiêu một viên, còn hai. Lượt hai trốn tông, thấy Triệu Toàn g
 
 ### Đoạn 004 — Lấy sổ trong vại phân thứ ba
 Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, theo ký ức vào kho. Gặp lão Chung cụt chân trái, ông xin rượu không pha nước rồi rời đi. MC mở ngăn khô lấy bọc sổ: tên mình năm nay, phí hoãn5viên; tên Đôn ở danh sách năm sau. Giữ sổ gốc trong ngực, đóng ngăn; tiếng then cửa chính động.
+
+### Đoạn 005 — Xoá năm linh thạch, giữ quyền dự khảo hạch
+Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổgốc giữa2thanhgiường. Sáng3 mang1trangchép tới赵全. Quảnsự đọc rồi gạch khoản5viên trong sổ thu riêng trước mặtMC, giữ trangchép. Chỉ bảo đảm khảo hạch bìnhthường, chưa cho đỗ/đổi tuổi. Dừng khi赵全 hỏi sổởđâu.
