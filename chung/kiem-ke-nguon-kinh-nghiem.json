@@ -1,0 +1,1007 @@
+{
+  "schemaVersion": 1,
+  "snapshot": "2026-10-23 before shared-knowledge consolidation",
+  "defaultBranch": "ccr-d59235d4-pqh9t3",
+  "consolidationBase": "ddcf613d395f36696c80abdc4ba9fa1a6fda92be",
+  "branches": [
+    {
+      "name": "ccr-2764b3e9-jenlb1",
+      "tipBeforeConsolidation": "6357cdc05d83c7b42d1bee80bdb7a5f5ec0c2e3e",
+      "isAncestorOfKySiBeforeConsolidation": true
+    },
+    {
+      "name": "ccr-50ce3fcb-ewd9hm",
+      "tipBeforeConsolidation": "126a56a587df7cead44c44bfaa04ec7fda8ed599",
+      "isAncestorOfKySiBeforeConsolidation": true
+    },
+    {
+      "name": "ccr-d59235d4-pqh9t3",
+      "tipBeforeConsolidation": "a3fbcd12dc9d5b00d58db80fe2462044186eb0b0",
+      "isAncestorOfKySiBeforeConsolidation": true
+    },
+    {
+      "name": "ky-si",
+      "tipBeforeConsolidation": "ddcf613d395f36696c80abdc4ba9fa1a6fda92be",
+      "isAncestorOfKySiBeforeConsolidation": true
+    }
+  ],
+  "trackedSourcePathCount": 72,
+  "trackedSourceVersionCount": 72,
+  "scope": "Git inventory of review/log/author-note/common files plus AGENT.md and writer/SI-template; editorial synthesis reads selected logs and reviews, not all prose.",
+  "sources": [
+    {
+      "path": "AGENT.md",
+      "versions": [
+        {
+          "gitBlob": "89e8c277f12a252c30a510837e7410cfab3d808c",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/gemini/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "662fba249df8dc8dfb3c5b2fde6d800782892a4b",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/log.md",
+      "versions": [
+        {
+          "gitBlob": "ab36f029b6214fc1658328409315b57a784ab845",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-001-test-v0-01.md",
+      "versions": [
+        {
+          "gitBlob": "bc10897e49e3a1727fd6e39b2d2c37379efe5cba",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-001-test-v0-02.md",
+      "versions": [
+        {
+          "gitBlob": "6eec8cbfd5f1fe419f5e313afaad222e5b6f51c4",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-001-test-v1-01.md",
+      "versions": [
+        {
+          "gitBlob": "340dc285a707e3327ad73d13de7caa919e65f199",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "0c07bb9e6e6f38bb15312549927d953565ab8781",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-002.md",
+      "versions": [
+        {
+          "gitBlob": "516b84084542b3fa5b3374340303fbf4f56af565",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-003.md",
+      "versions": [
+        {
+          "gitBlob": "942b7dad5541ea38e3e126257d8fe31632e9d453",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-004.md",
+      "versions": [
+        {
+          "gitBlob": "5aa481e6f1b0367748664d7c623e35bed44abd2d",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-005.md",
+      "versions": [
+        {
+          "gitBlob": "4827731f81d519048f047f63d24108a12a7ec955",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-006.md",
+      "versions": [
+        {
+          "gitBlob": "ab97a940e815481ca72a237900b4c4dd7e6a5139",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/doan-007.md",
+      "versions": [
+        {
+          "gitBlob": "b8fb850e56eab97abe8e801f165d640d53349ce1",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Mo-phong/reviews/test-doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "1897f91fdc377f56113631b0ef2957045675b880",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "_mau-truyen/gemini/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "f6977954a9fcbc52e28f53ce6e9a28bb802cb972",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "_mau-truyen/log.md",
+      "versions": [
+        {
+          "gitBlob": "049aa58883af8be94d47629a589f67b183113977",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "chung/ai-studio.md",
+      "versions": [
+        {
+          "gitBlob": "01676c71d6ee103874f4ffc2ed7ee2c8b7d1482f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "chung/quy-trinh-ban-giao.md",
+      "versions": [
+        {
+          "gitBlob": "5b7527d4aea46ac9fa24cc4dd57c7501ea359182",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "chung/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "b73728739f9c4d299356c5418168f7501426e9db",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/gemini/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "33952f7f51a01798dbf167052d6e7b4480891e5e",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/log.md",
+      "versions": [
+        {
+          "gitBlob": "6c3337823ae2694a279e5d3f1d89c9b8f3dee3e9",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "138de582151ee6e8e7d67e820f4e7858bf9e670c",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-002.md",
+      "versions": [
+        {
+          "gitBlob": "f40bb5facad6fafbe84379312fde86cbe7b63f97",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-003.md",
+      "versions": [
+        {
+          "gitBlob": "85e21ae74c8dc747802c159afd3d3ef5448b5136",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-004.md",
+      "versions": [
+        {
+          "gitBlob": "5f9c0b556b532f91423e51f040ead8a55f7c39b9",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-005.md",
+      "versions": [
+        {
+          "gitBlob": "00f5de56e4e7dcf83211ac9867216ec75116d742",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "goblin/reviews/doan-006.md",
+      "versions": [
+        {
+          "gitBlob": "c62c9daadb75eb3b4de2f7e6cfa9406b785d9a5f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/gemini/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "4912d8567132ebf2e79625a16a3f57521ae0971a",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/log.md",
+      "versions": [
+        {
+          "gitBlob": "273afee9e477f5745ea227958a0d73bc48962501",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/luu-y-tac-gia.md",
+      "versions": [
+        {
+          "gitBlob": "02248f182eba4adc345bbd026a2d16f1a7e8e81d",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/reviews/doan-001-test-v01-01.md",
+      "versions": [
+        {
+          "gitBlob": "5dea8088c7aa13ee13b5e99a8ec9b32078ba5879",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/reviews/doan-001-test-v01-02.md",
+      "versions": [
+        {
+          "gitBlob": "c7a5c15ed4dab9515743589636f6ff92d2eb5e99",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/reviews/doan-001-test-v02-01.md",
+      "versions": [
+        {
+          "gitBlob": "3ab425c9a9a1371f241b2b3416d0e1b7976f2bf6",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "ky-si/reviews/doan-001-test-v02-02.md",
+      "versions": [
+        {
+          "gitBlob": "e171c7fd5400c4360270af563ea2f8bf0f486adf",
+          "branches": [
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "c9d2cd78d97374c1146f337b27841dcedcfc7ab3",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-002.md",
+      "versions": [
+        {
+          "gitBlob": "bc362ed9ab1a4e55e2ef5257b658bc350c23d46e",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-003.md",
+      "versions": [
+        {
+          "gitBlob": "4f1492927a3a102622700c596eabe8168259becc",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-004.md",
+      "versions": [
+        {
+          "gitBlob": "ff05bdba9852bcd266f6ac8293663a28027e5562",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-005.md",
+      "versions": [
+        {
+          "gitBlob": "79574a679538f8bf867a06ff316c44ee2551e64f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-006.md",
+      "versions": [
+        {
+          "gitBlob": "29caf3155ca0c075d32fd00451d57c82b90c115c",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-007.md",
+      "versions": [
+        {
+          "gitBlob": "5293f7d82e5d74daeaed9d5b80dc4fce25699ac6",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-008.md",
+      "versions": [
+        {
+          "gitBlob": "604d80f3723160d3e5a4fab98fd43cfe7d3b887f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-009.md",
+      "versions": [
+        {
+          "gitBlob": "00050564df3706d6b32523fc5b17d65081900fb4",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-010.md",
+      "versions": [
+        {
+          "gitBlob": "5c97a12b11380cce96a77e1e0f4dbc5c84adaad3",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-011.md",
+      "versions": [
+        {
+          "gitBlob": "146f34ab434dc9af82c20a96b3d5269a49de027f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-012.md",
+      "versions": [
+        {
+          "gitBlob": "a9a6ac56d596cb253d264c2846533c1330a7eeee",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-013.md",
+      "versions": [
+        {
+          "gitBlob": "435eaf207061811eadc13521152ebffc40b73279",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/Writer Gemini 3.8 Flash/reviews/doan-014.md",
+      "versions": [
+        {
+          "gitBlob": "afafd2fe984eaf63b43df03687f756394ad047cd",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/archive/run-1/reviews/doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "2b1d5b2932f65a74ffc9e0e4b3bf4123b12abe7a",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/archive/run-1/reviews/doan-002.md",
+      "versions": [
+        {
+          "gitBlob": "188e01b3128d4a0c3cf143cadc781ace8b2609bf",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/archive/run-1/reviews/doan-003.md",
+      "versions": [
+        {
+          "gitBlob": "df4b1d6f980cdec174675745c83bfeeafe10c425",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/archive/run-1/reviews/doan-004.md",
+      "versions": [
+        {
+          "gitBlob": "9e82e03ccf23e7439c4ddb386daf2f0e3d95257b",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/archive/run-1/reviews/doan-005.md",
+      "versions": [
+        {
+          "gitBlob": "9e16593d478330a018957db77d0ea9281a507929",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/gemini/review-blacklist.md",
+      "versions": [
+        {
+          "gitBlob": "b3ebdb5b5c045ee3742359b0775604321297dc65",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/log.md",
+      "versions": [
+        {
+          "gitBlob": "5a03194a719d63f924f0dd7688e5887bba6630cb",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-001.md",
+      "versions": [
+        {
+          "gitBlob": "0f3c4580ade821be4509c8c19934cd5eb7fb952c",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-002.md",
+      "versions": [
+        {
+          "gitBlob": "6d2f8061a1f1e3f3019d183ca2a1c6dbf9e6573f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-003.md",
+      "versions": [
+        {
+          "gitBlob": "ea4b3e52e7f049aab3cf779827435db6037be830",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-004.md",
+      "versions": [
+        {
+          "gitBlob": "1a1a34b0fca12a8a6c64bd30f0c76b47c9334278",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-005.md",
+      "versions": [
+        {
+          "gitBlob": "7d72e43c5c1e3cdb90b5285a1c600d7599a75aa3",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-006.md",
+      "versions": [
+        {
+          "gitBlob": "e1a58ec41a044488ab74ae353b26fd27aa99266f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-007.md",
+      "versions": [
+        {
+          "gitBlob": "0c9edb87cbe826a1aab18e486051bc47e4823c96",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-008.md",
+      "versions": [
+        {
+          "gitBlob": "7ec2c7f9d7075ca3f50870c523aaef084069e725",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-009.md",
+      "versions": [
+        {
+          "gitBlob": "c6b994c283785a8e2e55beff7276f0075b626f38",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-010.md",
+      "versions": [
+        {
+          "gitBlob": "35ba1ae12fec73a6313bc43589e7379cc07ab611",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-011.md",
+      "versions": [
+        {
+          "gitBlob": "599e73b7f9674432575e9abd0b8c34519a091da0",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-012.md",
+      "versions": [
+        {
+          "gitBlob": "59a6476346361e31b4b711c0bcdd64b225171797",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-013.md",
+      "versions": [
+        {
+          "gitBlob": "6ed8faed4fb3b9a2d687f116f5eb13ffb27066dd",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-014.md",
+      "versions": [
+        {
+          "gitBlob": "78d860e651a58edc44e9eb2adb87f720d68d9caf",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/doan-015.md",
+      "versions": [
+        {
+          "gitBlob": "323f5103cdd15f3283ec96597676e5ab8b3347c3",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "lanh-chua-chip/reviews/test-B-C.md",
+      "versions": [
+        {
+          "gitBlob": "62262de109da06c0b0c02ef1be8e4ee24836869f",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "writer/SI-template",
+      "versions": [
+        {
+          "gitBlob": "7f14cc491e2164d239036ed6cdd3a65a48654423",
+          "branches": [
+            "ccr-2764b3e9-jenlb1",
+            "ccr-50ce3fcb-ewd9hm",
+            "ccr-d59235d4-pqh9t3",
+            "ky-si"
+          ]
+        }
+      ]
+    }
+  ],
+  "pendingLocalSources": [
+    {
+      "workspace": "D:\\Codex\\Novel-repo",
+      "path": "Mo-phong/bible/characters/tham-nghien.md",
+      "sha256": "5945d773bd8911243ab0046242862aa1a2ac4c2b8b0d53a50cfbc42b3ca34868",
+      "status": "uncommitted_local_source_only; story revision remains unfinished"
+    },
+    {
+      "workspace": "D:\\Codex\\Novel-repo",
+      "path": "Mo-phong/gemini/review-blacklist.md",
+      "sha256": "870b18e03d39ac0fa01089ff92c7249bc9100bd8c3cd8584e2f89519813a8fb4",
+      "status": "uncommitted_local_source_only; story revision remains unfinished"
+    },
+    {
+      "workspace": "D:\\Codex\\Novel-repo",
+      "path": "Mo-phong/log.md",
+      "sha256": "34df38e48a11a59487a7a740660a1ce07e5243b4175feccc494e11850181f88e",
+      "status": "uncommitted_local_source_only; story revision remains unfinished"
+    }
+  ],
+  "localWorkspaceStatusBefore": " M Mo-phong/bible/characters/tham-nghien.md\n M Mo-phong/gemini/review-blacklist.md\n M Mo-phong/log.md\n?? Mo-phong/archive/truoc-sua-cau-20261023/\n"
+}

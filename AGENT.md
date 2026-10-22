@@ -176,6 +176,8 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 **Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
+Trước phần hồ sơ truyện, đọc thêm [`chung/kinh-nghiem.md`](chung/kinh-nghiem.md) để dùng các phát hiện đã tổng hợp. Khi đứng trên branch cũ, kiểm bản chung trên branch mặc định theo [`chung/dong-bo-kinh-nghiem.md`](chung/dong-bo-kinh-nghiem.md). Không dùng một bài học theo thể loại để ghi đè SI hoặc canon riêng đã được Tác giả chốt.
+
 ## 6. Mẫu Ghi chú sửa gửi Gemini
 
 ```markdown
@@ -253,3 +255,11 @@ Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); 
 4. `bible/world.md` — bối cảnh và các luật không được phá.
 5. `plot/arcs.md` → `plot/outline.md` — dàn ý toàn truyện.
 6. Prompt đoạn 1 → bắt đầu vòng lặp ở mục 3.
+
+## 12. Ghi và chia sẻ bài học giữa các truyện
+
+- Sổ chung: [`chung/kinh-nghiem.md`](chung/kinh-nghiem.md); nguồn: [`chung/nguon-kinh-nghiem.md`](chung/nguon-kinh-nghiem.md). Luật/SI và phản hồi mới nhất của Tác giả trong đúng truyện quyết định phạm vi áp dụng.
+- Mỗi phát hiện ghi nguồn, điều đã thử, kết quả, phạm vi và tình trạng. Phân biệt yêu cầu của Tác giả với nhận xét Agent hoặc giả thuyết chưa thử; đánh dấu quyết định bị thay thế.
+- Thoại thông thường cần nói trọn ý và đáp nối nhau. Giữ nhịp khẩu lệnh khi cần; nhịp đoạn kể ngắn không giới hạn độ dài lượt thoại. Khi cảnh cần trao đổi, brief tạo cơ hội cho người nghe nêu khó khăn, hỏi lại hoặc góp ý.
+- Phát hiện về cách viết/quy trình có thể đưa vào sổ chung, checklist hoặc SI-template. Không chuyển tên, số liệu, chức năng bàn tay vàng, bí mật hay thẩm quyền tự duyệt của một truyện thành quy tắc cho mọi truyện.
+- Thay đổi tài liệu chung thành commit riêng; đồng bộ đúng commit sang các branch theo hướng dẫn. Không ghi đè công việc chưa commit hoặc gộp cả branch truyện chỉ để chia sẻ một bài học.
