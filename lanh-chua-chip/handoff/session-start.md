@@ -72,45 +72,56 @@ Leon đốt thử mẩu đá đen trong lò sưởi: than đá; 小七 cảnh b�
 Nhà Dunn (thợ đan liễu) lén xúc than còn hồng về đốt trong hầm đất, chèn kín cửa → cả nhà ngộ độc; Gareth phá cửa, Leon kéo ba người ra đầu gió, bà cụ nặng nhất, không ai chết. Leon cạy ván chèn cửa, khoét rộng lỗ khói. Hob nhìn mặt đỏ của bà cụ — như mặt Jim năm xưa — rồi tự xúc nửa gùi than cõng về căn nhà có ống khói của mình. Mira xin vào rừng tìm cha (đi tám ngày); Leon: Gareth đi, anh cũng đi.
 
 ### Đoạn 8 — Ngày 8
-Leon, Gareth, Mira vào 迷雾森林; Leon yếu, mang bình sắt nước sôi và vải sạch. Mira đọc dấu cành bẻ của cha. Dấu chân sói lớn hơn sói xám 26%, nặng 110–125 pound (72%), đói. Xác hoẵng mới bị xé; một con sói mắt đỏ gầy trơ xương lao vào Leon, Gareth một nhát chém bay đầu. Trên sườn trái nó có ba vết cào cũ liền vảy, mỗi vết cách nhau 5,7 cm, sâu tới cơ; 小七 không khớp được với sói, gấu hay báo tuyết — "sinh vật lớn chưa biết" (83%). Leon không nói với ai. Quá trưa tới lán săn dưới sườn đá bazan: Bram nằm bốn ngày, bắp chân phải bị xé mưng mủ, sốt; Leon rửa bằng nước sôi, nặn mủ, đắp mã đề, băng lại. Bram kể bầy mười bốn con, con đầu đàn cao gần bằng người, chạy từ núi phía bắc xuống nam, lông dựng, ỉa chảy: "它们是在逃命。" Chập tối ra bìa rừng, Gareth và Leon dìu Bram, Mira đi sau; Leon ngoái lại, trong sương một hàng dài mắt đỏ đứng nhìn theo.
+Leon, Gareth, Mira vào rừng; dấu chân sói to hơn thường 26%. Gareth chém chết một con sói đói; trên sườn nó có ba vết cào cũ cách nhau 5,7 cm, 小七 không nhận ra loài nào — Leon giữ kín. Lán săn: Bram bị sói xé bắp chân phải, sốt; Leon rửa nước sôi, băng lại. Bram: bầy mười bốn con chạy từ núi bắc xuống nam — "它们是在逃命". Chập tối ra bìa rừng, một hàng mắt đỏ đứng nhìn theo.
 
 ### Đoạn 9 — tối Ngày 8
-Hàng mắt đỏ dừng ở bìa rừng; 小七 đếm 28 đốm = 14 con (89%), đói, chưa định xông lên (76%). Gareth cầm kiếm đi lùi sau cùng; lùi hơn hai trăm bước thì mắt đỏ chìm vào đêm. Phía bắc làng chỉ có hàng rào cành khô cao nửa người. Về nhà Mira: Tobi đã đứng dậy được, Bram nằm trên đống rơm mạch. Hob cầm đuốc nhựa thông tới, đứng chống gậy; Leon nói mười bốn con sói mắt đỏ. Bram: chúng bị thứ gì trong núi đuổi ra, đi theo đường nai, lối gần nhất là lòng suối cạn đáy sỏi phía bắc — nửa canh giờ từ rừng tới đầu làng. 小七: 3–5 ngày nữa bầy xuống (81%). Leon ra kế hoạch: rào cọc nhọn cao 2 m dài ~210 m (630 cọc, 140 thanh giằng), hào nông phía trước, chậu than sau rào cách nhau 20 bước; 40 đàn ông làm 3 ngày rưỡi (85%); cọc lấy từ thông đỏ chết khô ở sườn đông; người già, đàn bà, trẻ con cõng than đun nước. Người làm rào thêm nửa pound lương mỗi ngày, lười thì mất cả phần. Bram góp mẹo: chừa khe hai thước ở lòng suối cạn, sau khe đào hố chông ngạnh ngược phủ tro cỏ, treo da bôi mỡ cừu làm mồi. Hob nhận chia người lúc trời sáng, chống gậy ra cửa; Leon đứng ở góc nhà nhẩm khẩu phần thêm.
+Về làng dưới mắt bầy sói (小七: 14 con). Ở nhà Mira, Bram chỉ lối lòng suối cạn phía bắc; 小七: 3–5 ngày nữa bầy xuống. Leon ra kế hoạch rào cọc 210 m, hào, chậu than cách nhau 20 bước; 40 người làm 3 ngày rưỡi, thêm nửa pound lương/ngày. Bram góp mẹo khe hở + hố chông + da cừu bôi mỡ.
 
 ### Đoạn 10 — đêm Ngày 8 → nửa đêm Ngày 12
-Leon nhẩm 60 pound lương thêm rồi cùng Gareth về trang viên. Pell bưng trà tối ra đón, mắt dò mặt Leon; Leon ho (nửa thật), tay run cầm bát, than lạnh trong rừng, khen trà, sai Pell xuống kho ôm củi, rồi đổ trà vào khe gạch, lau miệng bát. Pell quay lại thấy bát rỗng, cười híp mắt, lui ra. Ngày 9–11: dỡ rào cành cũ, Doyle chặt thông đỏ dưới mắt Gareth, thợ mộc già vót cọc; Bram nằm cáng quát người đào hố chông ở khe lòng suối (sâu một người rưỡi, chông thông đỏ bôi bùn thối, phủ cành khô, tro, đất, treo mảnh da cừu); người già, trẻ con cõng than, nồi sắt đun nước cho người làm; chiều nào Hob cũng phát nửa pound thêm trước cả làng. Chiều Ngày 11 rào 210 m khép (634 cọc), hào sâu 68 cm, hố chông sâu 2,1 m, 12 chậu than sắt sau rào. Lương thêm đã chi 63 pound; còn 4.321 pound — 29 ngày; tuyết còn 77 ngày. Đêm Ngày 12, Leon (đeo đoản kiếm), Gareth và sáu đàn ông cầm giáo gỗ hơ lửa nấp sau rào, không đốt đuốc. Gần nửa đêm Doyle ở góc bắc thấy mười mấy đốm mắt đỏ đang men lòng suối cạn, rạp sát đất, mò về phía khe hở; Gareth siết chuôi kiếm, đám đàn ông nắm chặt cán giáo.
+Đêm Ngày 8, Leon diễn mệt trước Pell, đổ trà vào khe gạch; Pell thấy bát rỗng. Ngày 9–11 cả làng dựng rào (634 cọc), hào, hố chông, 12 chậu than; lương thêm 63 pound; còn 4.321 pound — 29 ngày. Đêm Ngày 12 mắt đỏ men lòng suối cạn xuống.
+
+### Đoạn 11 — nửa đêm Ngày 12 → sáng Ngày 13
+Bốn con sói tiền quân men lòng suối cạn (小七 đếm qua những đốm phản quang Leon thấy, 91%). Con đầu ngửi mỡ cừu chui qua khe hai thước, sụp hố chông — tám cọc xuyên người. Con đực lớn bị kích máu nhảy vào rào; hơi nóng chậu than làm nó chùn giữa không trung, đâm vào cọc rơi xuống hào; giáo của Doyle đâm trúng sườn, Gareth đâm kiếm qua khe cọc xuyên cổ. Hai con còn lại chạy về bắc lệch đông. Leon không cho đuổi; ai ngủ gật trong ca trừ hai ngày khẩu phần; cả đêm không ai ngủ. Sáng Ngày 13 cả làng ra xem: hai xác 118 và 124 pound, ~143 pound thịt ăn được, hai tấm da ấm bằng ba lớp nỉ lanh. Hob chống gậy tới, nhìn lâu, cúi gập người: "领主大人……黑石领有救了。" — mười mấy dân quỳ theo. Leon bảo đứng dậy; lệnh: thịt lóc xương xát muối phơi khô nhập kho, mỗi ngày thái hạt lựu bỏ vào cháo mạch chia theo đầu người; da rửa tro, treo dưới hành lang trang viên. Leon tính: thịt sói thêm được chừng một ngày; còn ~30 ngày lương, 76 ngày tới tuyết, mười hai con sói vẫn ở rừng. Anh nhớ tấm bản đồ da dê cũ có con suối không đóng băng ở phía tây. Sau lưng vang lên một tiếng ho già nua.
+
+### Đoạn 12 — sáng Ngày 13 → chiều tối Ngày 15
+Bram chống gậy chạc, Mira đỡ, ra tới rào: chỉ còn mười mấy con trong rừng; suối nước lạnh phía tây mùa này có cá lưng đen vảy nhỏ ngược dòng. Chiều Ngày 13, Leon, Gareth, Mira đi xem: suối rộng hai trượng, rừng sồi rụng đầy hạt. Mira cười "đồ cho lợn rừng"; Gareth: chỉ năm đói mới ăn. Leon cắn thử, nhổ ra; khử chát: bóc vỏ, giã, đóng bao ngâm nước chảy ba ngày, phơi giã thành bột. 小七: ~3.600 pound bột (84%); đập chữ V + rọ phễu giữ 30–50 pound cá/ngày tới khi suối đóng băng (79%). Lệnh: đàn bà trẻ con nhặt hạt (đủ hai sọt thêm nửa bát cháo), Dunn và mấy người già đan rọ liễu đỏ, hai mươi trai tráng đắp đập. Chiều tối Ngày 15 bên suối: đập đá chữ V, ba rọ, mẻ đầu 37 pound cá; 32 bao hạt sồi ngâm buộc cọc; Mira nướng bánh sồi trên phiến đá kê chậu than — Tobi đòi thêm, Dunn: "甜的". Hob cầm que than báo: 37 pound cá nửa buổi, 46 bao hạt đã bóc gần 3.000 pound; hỏi làng có sống qua mùa đông không. Leon tính: tổng cộng chừng 56–58 ngày ăn — vẫn thiếu chừng hai mươi ngày trước khi tuyết rơi, chưa nói nửa năm tuyết. Dunn xâu cá mang về kho; trời tối hẳn.
 
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 10)
+## 3. Trạng thái hiện tại (hết đoạn 12)
 
-**Thời điểm:** gần nửa đêm Ngày 12, sau rào bắc của làng.
-**Có mặt sau rào:** Leon (áo choàng, đeo đoản kiếm), Gareth (kiếm rút), Doyle và năm đàn ông khác cầm giáo gỗ hơ lửa. Không đốt đuốc; chỉ có ánh 12 chậu than dọc rào.
-**Ngoài rào:** mười mấy đốm mắt đỏ đang men theo lòng suối cạn, rạp sát đất, tới gần khe hở hai thước. Hố chông ở sau khe đã ngụy trang, treo da cừu bôi mỡ.
-**Nơi khác:** Bram nằm nhà Mira (chân băng). Pell ở trang viên, tin Leon vẫn uống trà (đêm Ngày 8 thấy bát rỗng).
+**Thời điểm:** chạng vạng Ngày 15, bờ suối phía tây, cạnh đập đá chữ V.
+**Có mặt:** Leon, Gareth, Mira (nướng bánh sồi trên phiến đá kê chậu than), Tobi, Dunn (đang xâu cá), Hob (cầm que than ghi số), dân làng. Bram ở nhà (đi được bằng gậy chạc). Pell ở trang viên.
 
 **Leon biết**
-- Pell bỏ độc; kẻ chủ mưu ở thành Varen.
-- Bầy sói 14 con, đói, bị thứ gì đó trong núi đuổi xuống. Vết cào 5,7 cm (chỉ Leon biết).
+- Pell bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon vẫn uống trà.
+- Bầy sói còn 12 con ở rừng. Vết cào 5,7 cm (chỉ Leon biết).
 
-**Công sự phía bắc (xong chiều Ngày 11)**
-- Rào cọc thông đỏ nhọn cao ~2 m, dài 210 m, 634 cọc.
-- Hào trước rào sâu 68 cm, rộng 1,2 m.
-- Khe hở hai thước ở lòng suối cạn; sau khe là hố chông sâu 2,1 m.
-- 12 chậu than sắt sau rào, cách nhau 20 bước.
-
-**Con số đang chạy**
+**Con số đang chạy (khung đúng)**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Lương | 4.321 pound (chiều Ngày 11) → ~29 ngày; làm rào đã chi thêm 63 pound |
-| Tới tuyết đầu mùa | ~76 ngày (tính từ Ngày 12) |
-| Củi đun nước | xà sồi mái sập: còn ~63 ngày |
-| Sói mắt đỏ | 14 con, 110–125 pound mỗi con |
+| Mạch đen trong kho | ~3.700 pound (Ngày 15) + thịt sói khô ~143 pound |
+| Bột sồi | ước ~3.500 pound khi xử lý xong (mới nhặt ~1/4, 46 bao đã bóc ~3.000 pound hạt, 32 bao đang ngâm) |
+| Cá | 30–50 pound/ngày tới khi suối đóng băng (~20 ngày nữa) → ~700–800 pound |
+| Tổng | ~56–58 ngày ăn cho 146 người |
+| Tới tuyết đầu mùa | ~74 ngày (tính từ Ngày 15) → **thiếu ~16–18 ngày trước khi tuyết rơi**, và nửa năm tuyết sau đó chưa có gì |
+| Củi đun nước | xà sồi mái sập: còn ~60 ngày |
+
+**Lệnh đang chạy**
+- Nước sôi phát không sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
+- Ba quy tắc than; rào bắc có 12 chậu than đốt suốt đêm.
+- Thịt sói phơi khô nhập kho, thái hạt lựu vào cháo theo đầu người. Da sói treo hành lang trang viên.
+- Đàn bà trẻ con nhặt hạt sồi (đủ hai sọt thêm nửa bát cháo); Dunn và người già đan rọ; trai tráng giữ đập.
+
+**Đồ vật / chi tiết đã xuất hiện**
+- Đập đá chữ V ở chỗ suối hẹp, ba rọ liễu đỏ miệng phễu; hàng cọc buộc bao hạt sồi ngâm ở bãi nông phía trên đập.
+- Phiến đá nướng bánh, chậu than bên bờ suối.
+- Tấm bản đồ lãnh địa bằng da dê ở trang viên.
 
 **Tuyến đang mở**
-- Sói đang tới khe hở.
-- Lương: ~29 ngày / ~76 ngày tới tuyết.
+- Thiếu lương trước tuyết và cả mùa đông.
+- Bầy sói còn 12 con.
 - Mèo vờn chuột với Pell.
 
 ---
@@ -173,74 +184,71 @@ Hob看着Leon冷峻的眼神，躬下身去：“我明白了，领主大人。�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 10 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-「沿栅栏内侧每隔二十步架设铁盆火点共计十二处，石炭储备充足，置信度92%。」
-Leon站在防线后方，脚踩着翻出来的湿冷冻土。
-一道粗糙但狰狞的木桩高墙横亘在荒滩边缘，尖锐的木刺斜斜指向北面的迷雾森林。
-浅壕横在栅栏前，足以打断任何冲刺跳跃的借力点。
-防线成了。
-但代价同样清晰明了。
-「三天半工期累计额外支取黑麦六十三磅。」
-「结合全村日常口粮消耗，当前剩余存粮四千三百二十一磅。」
-「按当前人口基数标准供给，剩余粮食仅可维持二十九天，置信度95%。」
-二十九天。
-距离北境大雪封山，还有整整七十七天。
-Leon紧了紧领口的羊毛围巾，心头冷笑了一声。
-防住了狼，还得防着饿死。
-不过至少今晚，村里的人不用在睡梦中被开膛破肚了。
-……
-第十二天夜里。
-北境的寒风彻底撕扯开浓雾，夜空黑得像一块扣下的铁锅。
-十二只生铁破盆整整齐齐地架在木栅栏内侧，里面填满了红松引柴和黝黑的碎煤。
-暗红色的煤火在盆里静静地翻滚着，没有大烟，却散发出一股逼人的燥热和刺鼻的硫磺焦味。
-灼热的气浪顺着夜风向北面的荒滩扩散开去。
-粗糙的木栅栏后头，Leon披着黑色斗篷，右手扶着腰间的短剑。
-身旁是拄着阔剑的Gareth，以及六名手握火烤硬化木矛的精壮汉子。
-所有人都屏住呼吸，没人敢点火把，只借着脚边炭火盆的暗红色微光，死死盯着前方漆黑的荒滩。
-荒草在狂风中疯狂摇晃，发出呜呜的悲鸣。
-时间一点一点滑向午夜。
-空气冷得似乎要将人的眼睫毛冻结在一起。
-突然，蹲在最北侧木桩后面的Doyle喉咙里发出一声被死死掐住的倒抽气声。
-他手里握着的那根削尖长矛猛地一颤，矛尖撞在木桩上，发出一声轻微的脆响。
-“领、领主大人……”
-Doyle浑身发抖，牙齿打着战，颤抖的手指死死指向前方那条漆黑的干涸旱溪：
-“溪……溪沟里！有东西过来了！”
-Leon眼神骤然一凝，顺着木桩之间的细缝望去。
-冰冷干燥的狂风灌入旱溪。
-在黑黝黝的河床鹅卵石之间，两点、四点、六点……
-十几点猩红如血的光斑，压得极低，像贴着地皮游走的幽灵鬼火，无声无息地顺着干涸的溪道，朝着那道留出的两尺窄缝，悄然摸了过来。
-Gareth右臂一紧，皮手套死死扣住了剑柄，发出沉闷的皮革摩擦声。
-身旁的几名农夫脸色瞬间煞白，死死抓紧了手中的长矛，指节捏得发青。
+周围的大人小孩轰的一下骚动起来，看着地上那三十二袋正在水里泡着的橡果，眼神全变了。
+那不再是什么有毒的苦果子。
+那是成堆成堆从树上掉下来的、白捡的面粉！
+拄着拐杖的Hob从石坝那边一瘸一拐地走了过来。
+老头子手里攥着一截用来记数的炭黑木棍，走到Leon身前站定，干瘪的胸膛剧烈起伏着。
+“领主大人……”
+Hob的声音打着颤，指着刚刚拖上岸的几个大柳条笼子：
+“第一网收了三个笼子，一共称出来三十七磅活鱼。这还只是半下午的收成！”
+“林子里今天运回来的橡果……剥了壳的足足装了四十六个麻袋，差不多有近三千磅！剩下的还在林子里堆着，天黑前还能再拉两车回来！”
+老人抬起那张布满沟壑的枯瘦老脸，看着神色平静的年轻贵族，浑浊的眼眶里竟然泛起了一层泪花。
+“这要全弄成面粉，全村这个冬天……是不是真的能活下去了？”
+听着Hob发颤的询问，Leon没有立刻回答。
+他一边慢慢咽下嘴里最后一口带着坚果香气的粗糙面饼，一边在脑海中飞快地拨弄着算盘。
+「三十七磅冷水鱼，高蛋白低脂肪，热量转化效率优良。」
+「按当前水坝截流效率，预计在入冬封冻前还可捕捞约二十天，累计可收获鲜鱼约七百至八百磅。」
+「橡果采摘进度已完成预估总量的四分之一，全部脱涩处理后，预计最终可获得干粉三千五百磅左右。」
+「折算为基础热量摄入，相当于新增约两千八百磅标准黑麦的营养总值。」
+算上原有的四千多磅粮食和那两只死狼的肉干。
+黑石领当前的物资储备线，被这两样原本被村民视作废物的资源，硬生生往后推延了二十多天。
+总共能撑多久？
+Leon抬起头，迎着天边那一抹惨淡暗淡的血色夕阳。
+大约五十六到五十八天。
+不够。
+还是不够。
+距离第一场大雪彻底封山，还有七十六天。
+而封山之后，整整六个月的大雪期，外面连一根能吃的草根都刨不出来。
+哪怕把这些橡果和鱼全部省吃俭用算到底，在最严酷的寒冬腊月里，黑石领依然有将近二十天的粮食断档期。
+在零下二三十度的北境凛冬，二十天没有东西下肚，一百四十多口人照样会冻毙在漏风的破草房里，连骨头都烂不掉。
+欢呼声还在溪边回荡，Dunn正带着几个村民把刚抓上来的大鱼用柳条串成一串，欢天喜地地准备运回村里的大仓。
+Leon面无表情地拍了拍手上的坚果碎屑，将斗篷拢得更紧了一些。
+得在封冻之前，再找到那能救命的最后二十天口粮。
+天彻底擦黑了。
 
-(Đoạn 11 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn thứ 11, khoảng 2000 chữ, bằng tiếng Trung.
+Viết đoạn thứ 13, khoảng 2000 chữ, bằng tiếng Trung.
 
 【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
-- Sói ở đây gọi là 红眼狼. Đợt này chỉ là mấy con tiền quân đi dò; cả bầy mười bốn con vẫn ở bìa rừng.
-- Một con sói mắt đỏ nặng chừng 110–125 pound; thịt sói ăn được dù dai và hôi; da sói dày, giữ ấm tốt.
-- Dân làng chưa từng thấy sói chết trước rào; những mùa đông trước sói xuống là mất dê, mất trẻ.
-- Leon chỉ huy và tính toán; anh đứng sau rào cùng 小七.
-- Hob: tự xưng 我, gọi Leon 领主大人; đứng chống gậy cong.
-- 小七 chỉ là giọng nói trong đầu Leon; lời 小七 đặt trong 「」. Nó biết đúng những gì Leon thấy, nghe, ngửi: trong đêm nó đếm những đốm mắt đỏ Leon nhìn thấy qua khe cọc, và đoán hướng chúng chạy theo chỗ Leon thấy chúng khuất.
+- Morris: quản sự của phủ bá tước ở thành Varen, khoảng bốn mươi lăm tuổi, béo trắng, áo choàng len xanh lót lông cáo đỏ, nhẫn bạc chạm hoa ở ngón út; nói năng lễ độ kiểu người hầu nhà quyền quý, mắt lướt qua đồ đạc như đang kiểm kê. Đi cùng bốn kỵ binh áo choàng xanh lục sẫm có huy hiệu chim ưng hai đầu của nhà Varen. Gọi Leon "三少爷", tự xưng "在下".
+- Việc Morris lo là sổ sách: ông được giao đi một vòng các lãnh địa nhỏ phía bắc để lập sổ thuế cho mùa xuân; 黑石领 là chặng cuối. Ông nói mình tới theo lệnh của "大少爷" Cedric (anh cả của Leon, người thừa kế).
+- Lãnh địa nộp thuế cho bá tước mỗi mùa xuân.
+- Trước người của phủ bá tước, Leon giữ vẻ bệnh tật như trước Pell: quấn chăn, ho, mặt tái.
+- Đại sảnh tầng một 领主府: lò sưởi lớn đang đốt than, bàn gỗ dài. Từ cửa sổ tầng hai nhìn thấy chuồng ngựa và kho cỏ ở sân sau.
+- Lời kể bám sát Leon. Morris, Pell và các kỵ binh chỉ hiện ra qua những gì Leon thấy và nghe.
+- 小七 chỉ là giọng nói trong đầu Leon; lời 小七 đặt trong 「」. Nó biết đúng những gì Leon thấy, nghe, ngửi.
 
 【Chuyện xảy ra trong đoạn này】
-Mấy con sói tiền quân mò tới khe hở ở lòng suối cạn. Một con ngửi thấy mỡ cừu, chui qua khe, sụp xuống hố chông, mắc trên chông; Gareth xuống tay kết liễu. Một con khác lao vào rào chỗ khác, bị lửa chậu than đẩy lùi rồi bị giáo của đám đàn ông đâm qua khe cọc trúng sườn, gục ngoài hào. Số còn lại lùi vào bóng tối. 小七 đếm số đốm mắt và ước bầy rút về hướng nào, kèm độ tin cậy. Cả đêm không ai ngủ.
-Sáng Ngày 13, hai xác sói nằm trước rào; dân làng kéo ra xem, lần đầu tiên có sói chết mà làng không mất gì. Hob chống gậy đứng nhìn hai cái xác. Leon tính ngay: hai con sói được bao nhiêu pound thịt, bao nhiêu tấm da, thêm được mấy ngày ăn cho ai — và vẫn còn thiếu bao nhiêu so với cả mùa đông.
+Bên suối, trong lúc mọi người còn ăn bánh sồi, một đứa trẻ chạy từ làng tới báo: có năm người cưỡi ngựa áo xanh đang lên dốc vào trang viên. Leon về trang viên trước, quấn chăn ngồi ở đại sảnh.
+Morris vào sảnh, chào đúng phép, mắt lướt khắp sảnh; nói đại thiếu gia Cedric sai ông ghé xem em trai, nhân tiện nhắc mùa xuân lãnh địa phải nộp thuế, và đòi mang danh sách nông nô cùng sổ kho về. Morris để ý lò sưởi đốt đá đen và hỏi; Leon gạt đi như thứ đá bẩn bất đắc dĩ phải dùng, Morris chê nó. Pell rót nước mời khách. Morris ở lại một đêm.
+Đêm đó Leon không ngủ, đứng sau cửa sổ tầng hai tối đèn. Anh thấy Pell bưng chậu gỗ làm cớ lẻn ra kho cỏ ở sân sau; một kỵ binh của Morris đứng chờ sẵn. Hai người nói nhỏ mấy câu; kỵ binh đưa Pell một túi da nhỏ. Leon không làm gì, chỉ nhìn; 小七 ghi lại hình dáng cái túi và người kỵ binh qua những gì mắt Leon thấy. Leon tự hỏi người đứng sau Pell là ai, và chưa có câu trả lời.
 
 【Những điểm bắt buộc】
-- Mẹo hố chông của Bram có tác dụng; chậu than đẩy lùi sói.
-- Chỉ mấy con tiền quân xuống; hai con chết, số còn lại rút; cả bầy vẫn ở rừng.
-- Có con số thịt và da thu được.
+- Leon giữ vỏ bọc bệnh tật trước Morris; Morris coi than là đá bẩn.
+- Morris nhắc thuế xuân, đòi danh sách nông nô và sổ kho; nói mình tới theo lệnh đại thiếu gia Cedric.
+- Pell nhận một túi da nhỏ từ một kỵ binh của Morris; Leon thấy, không can thiệp.
 
 【Tự do sáng tạo】
-Gareth ra đòn thế nào, Doyle và đám đàn ông phản ứng ra sao, ai đâm trúng con thứ hai, dân làng buổi sáng nói gì, Bram được báo tin thế nào — giao cho bạn.
+Đứa trẻ báo tin là ai, Morris kiểm kê bằng mắt thế nào, Gareth đối xử với Morris ra sao, Leon diễn bệnh và đối đáp thế nào, Pell cư xử thế nào trước mặt Morris, Leon tính sổ trong đầu ra sao — giao cho bạn.
 
 【Mở đầu và chỗ dừng】
-- Mở: nối thẳng từ chỗ đoạn 10 dừng — mười mấy đốm mắt đỏ đang men lòng suối cạn tới gần khe hở, Gareth siết chuôi kiếm, đám đàn ông nắm chặt cán giáo.
-- Dừng: giữa mạch, sáng Ngày 13 trước rào — Leon vẫn đứng cạnh đám đàn ông đang lột dở tấm da thứ hai, vừa tính xong số ngày lương thêm được. Leon đi tìm nguồn ăn ở con suối phía tây là phần của đoạn sau.
+- Mở: nối thẳng từ chỗ đoạn 12 dừng — chạng vạng bên suối phía tây, Dunn đang xâu cá, người ta còn cầm bánh sồi trên tay.
+- Dừng: giữa mạch, trên tầng hai, ngay lúc Pell nhét túi da vào tay áo và quay về phía bếp, tay Leon vẫn đang giữ mép rèm. Sáng hôm sau Morris lên đường và chuyện cuốn sổ của Hob là phần của đoạn sau.

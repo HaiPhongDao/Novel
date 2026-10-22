@@ -1,35 +1,33 @@
-## 3. Trạng thái hiện tại (hết đoạn 12)
+## 3. Trạng thái hiện tại (hết đoạn 13)
 
-**Thời điểm:** chạng vạng Ngày 15, bờ suối phía tây, cạnh đập đá chữ V.
-**Có mặt:** Leon, Gareth, Mira (nướng bánh sồi trên phiến đá kê chậu than), Tobi, Dunn (đang xâu cá), Hob (cầm que than ghi số), dân làng. Bram ở nhà (đi được bằng gậy chạc). Pell ở trang viên.
+**Thời điểm:** khuya Ngày 15, phòng ngủ tầng hai của Leon (tối đèn), sau rèm cửa sổ nhìn xuống sân sau.
+**Dưới sân:** Pell vừa nhận túi da cừu cỡ bàn tay từ một kỵ binh của Morris, nhét vào tay áo, đi về bếp. Kỵ binh đã khuất vào chuồng ngựa.
+**Trong trang viên:** Morris và bốn kỵ binh ngủ ở đại sảnh tầng một (lò sưởi đốt than). Gareth ở trang viên. Hob đang đếm người, dê, lương để sáng mai đưa Morris.
 
 **Leon biết**
-- Pell bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon vẫn uống trà.
+- Pell bỏ độc; vừa nhận túi da từ người của phủ bá tước. Ai đứng sau — chưa biết (Leon nghĩ tới Cedric, nhưng chưa chắc).
+- Morris tới theo lệnh Cedric, lập sổ thuế đầu xuân; Morris coi than là đá bẩn.
 - Bầy sói còn 12 con ở rừng. Vết cào 5,7 cm (chỉ Leon biết).
+
+**Morris**
+- ~45 tuổi, béo trắng, áo choàng len xanh lót lông cáo đỏ, nhẫn bạc chạm hoa dây leo ở ngón út, hay che mũi bằng khăn tay. Gọi Leon "三少爷", tự xưng "在下".
+- Bốn kỵ binh áo choàng xanh lục, huy hiệu chim ưng hai đầu bạc. Kỵ binh đưa túi cho Pell: cao ~182 cm, người nghiêng phải, vai phải có thương cũ.
+- Đòi danh sách nông nô và sổ kho trước khi lên đường sáng Ngày 16.
 
 **Con số đang chạy (khung đúng)**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Mạch đen trong kho | ~3.700 pound (Ngày 15) + thịt sói khô ~143 pound |
-| Bột sồi | ước ~3.500 pound khi xử lý xong (mới nhặt ~1/4, 46 bao đã bóc ~3.000 pound hạt, 32 bao đang ngâm) |
-| Cá | 30–50 pound/ngày tới khi suối đóng băng (~20 ngày nữa) → ~700–800 pound |
-| Tổng | ~56–58 ngày ăn cho 146 người |
-| Tới tuyết đầu mùa | ~74 ngày (tính từ Ngày 15) → **thiếu ~16–18 ngày trước khi tuyết rơi**, và nửa năm tuyết sau đó chưa có gì |
-| Củi đun nước | xà sồi mái sập: còn ~60 ngày |
+| Mạch đen trong kho | ~3.700 pound + thịt sói khô ~143 pound |
+| Bột sồi | ước ~3.500 pound khi xử lý xong |
+| Cá | 30–50 pound/ngày, mùa cá còn ~20 ngày |
+| Tổng | ~56–58 ngày ăn; tới tuyết ~74 ngày → thiếu ~16–18 ngày trước tuyết, nửa năm tuyết chưa có gì |
 
 **Lệnh đang chạy**
-- Nước sôi phát không sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
-- Ba quy tắc than; rào bắc có 12 chậu than đốt suốt đêm.
-- Thịt sói phơi khô nhập kho, thái hạt lựu vào cháo theo đầu người. Da sói treo hành lang trang viên.
-- Đàn bà trẻ con nhặt hạt sồi (đủ hai sọt thêm nửa bát cháo); Dunn và người già đan rọ; trai tráng giữ đập.
-
-**Đồ vật / chi tiết đã xuất hiện**
-- Đập đá chữ V ở chỗ suối hẹp, ba rọ liễu đỏ miệng phễu; hàng cọc buộc bao hạt sồi ngâm ở bãi nông phía trên đập.
-- Phiến đá nướng bánh, chậu than bên bờ suối.
-- Tấm bản đồ lãnh địa bằng da dê ở trang viên.
+- Kho mạch và cá khô khoá, Hob giữ chìa, không ai được mở khi có người lạ.
+- Nước sôi phát không; ba quy tắc than; rào bắc 12 chậu than.
 
 **Tuyến đang mở**
-- Thiếu lương trước tuyết và cả mùa đông.
-- Bầy sói còn 12 con.
-- Mèo vờn chuột với Pell.
+- Túi da của Pell.
+- Sổ thuế: Morris lấy danh sách sáng mai.
+- Thiếu lương; bầy sói.

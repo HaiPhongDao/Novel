@@ -80,3 +80,4 @@
 2026-10-23 | doan-011 (lượt 2) | Bản 1 (S8) VIẾT LẠI: 小七 dò nhiệt + theo dấu bầy cách 1.400 m (trái luật cứng), tên 赤瞳狼. Prompt bản 2 ghi giới hạn giác quan của 小七 ngay trong thiết lập + tên 红眼狼 | Review | Agent (ghi log)
 2026-10-23 | doan-011 (lượt 2) | Bản 2 (S9) ĐẠT. Thịt sói ~143 pound (chính văn tính thành 3,5 ngày — sai; state ~1 ngày). Hob cúi gập "黑石领有救了" — chấp nhận theo arc "tôn trọng" sau vụ Dunn | Review | Agent (ghi log)
 2026-10-23 | doan-012 (lượt 2) | Đạt (S9). Khung số liệu sai trong văn ("chỉ thiếu 20 ngày giữa mùa đông") → state ghi khung đúng: ~57 ngày ăn / 74 ngày tới tuyết + nửa năm tuyết. Từ nay prompt đưa sẵn con số tổng khi Leon tính sổ | Review | Agent (ghi log)
+2026-10-23 | doan-013 (lượt 2) | Đạt (S10). Morris tới ngay chiều Ngày 15 (sớm hơn đề xuất Ngày 17) để nối liền đoạn 12; Pell nhận túi da; bí mật chủ mưu giữ nguyên (Leon chỉ tự hỏi) | Review | Agent (ghi log)

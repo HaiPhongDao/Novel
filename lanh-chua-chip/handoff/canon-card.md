@@ -34,3 +34,5 @@
 - Đơn vị cân: pound (磅).
 
 - **Leon** có một thanh đoản kiếm đeo bên hông (từ đoạn 10).
+
+- **Morris** — quản sự phủ bá tước ở thành Varen, ~45 tuổi, béo trắng, áo choàng len xanh lót lông cáo đỏ, nhẫn bạc chạm hoa ở ngón út; gọi Leon "三少爷", tự xưng "在下". Kỵ binh nhà Varen mặc áo choàng xanh lục, huy hiệu chim ưng hai đầu.
