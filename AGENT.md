@@ -102,8 +102,9 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 【Tự do sáng tạo】
 - Ghi rõ phần giao cho Writer: chi tiết, phản ứng nhân vật phụ, cách nhân vật chính tự giễu và tính toán, cách bàn tay vàng lộ bản lĩnh.
 
-【Kết đoạn】
-- Dừng ở phát hiện / tình thế nào.
+【Mở đầu và chỗ dừng】
+- Mở: nối thẳng từ khoảnh khắc đoạn trước dừng (cùng cảnh, cùng nhịp).
+- Dừng: giữa mạch, ở chỗ X; chuyện tiếp theo là Y — phần của đoạn sau.
 ```
 
 **Nguyên tắc viết prompt**
@@ -115,7 +116,7 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 6. Luật cứng đầy đủ (kể cả điều cấm) nằm trong bible cho Agent dùng khi **review**; lỗi lệch luật xử lý bằng ghi chú sửa, không nhồi trước vào prompt.
 7. **Tả sự việc, không tả ý nghĩa.** Thay đổi thái độ của nhân vật phải đi qua một việc cụ thể — một con số khai thật, một món đồ đưa ra, một mệnh lệnh làm theo — không viết "nói một câu cho thấy ông đã nhìn lại", "vẫn gắt nhưng đã khác". Model sẽ viết đúng cái ý nghĩa đó rồi tự giải thích nó (bài học đoạn 005).
 8. **Tối đa 2 cảnh + 1 lần nhảy thời gian mỗi đoạn.** Nhiều hơn là model phải tóm tắt.
-9. **Kết đoạn bằng một hình ảnh / hành động cụ thể** và nói rõ đoạn dừng ở đó.
+9. **Đoạn dừng giữa mạch, không khép lại.** Chỉ ra chỗ dừng (một việc đang dở) và chuyện kế tiếp thuộc đoạn sau; đoạn sau mở ngay từ khoảnh khắc đó. Nhảy thời gian đặt *trong* đoạn, không đặt ở chỗ nối hai đoạn. (Tác giả 22/10: kiểu "Kết đoạn bằng một hình ảnh" làm mỗi đoạn khép tròn như một tập phim, đoạn sau dựng cảnh lại từ đầu → mất mạch liên tục.)
 10. **Không dùng bước "tự kiểm sau khi viết".** Trong chat, model viết một lượt rồi dừng — nó không đọc lại và sửa văn đã viết, nên câu nhắc tự kiểm không có tác dụng. Mọi chuẩn văn phải nằm trong SI dưới dạng **chuẩn khi đang viết**; khâu kiểm thật sự là review của Agent (`review-blacklist.md`), đoạn hỏng thì làm lại ở session mới.
 11. **Thiết lập chỉ ghi sự thật trơn**, không kèm mệnh đề nhân quả hay diễn giải ("…nên…", "vì…", "như thể…", "như chưa từng…"). Writer kể lại những mệnh đề đó thành câu giải thích trong chính văn (bài học lượt 2, đoạn 1).
 12. **Chuỗi kỹ thuật cố định của bàn tay vàng** (câu khởi động, cách xưng) được ghi nguyên văn trong prompt — đây là ngoại lệ của nguyên tắc 2, vì ta *muốn* Writer chép đúng.
@@ -143,7 +144,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - [ ] Không có dấu hiệu chép prompt / chạy checklist
 - [ ] Thoại tự nhiên, phân biệt được giọng từng nhân vật
 - [ ] Nhân vật chính chủ động, có tính toán
-- [ ] Kết đoạn có lực kéo sang đoạn sau
+- [ ] Nối liền với đoạn trước; dừng giữa mạch, để ngỏ cho đoạn sau
 
 **Kết luận review**: `ĐẠT` / `SỬA NHẸ` / `VIẾT LẠI` + 1–3 câu lý do.
 

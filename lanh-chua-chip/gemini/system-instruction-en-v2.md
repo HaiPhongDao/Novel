@@ -154,7 +154,7 @@ Sample anchor:
 
 ## 3. Output
 
-- Write the events this segment's prompt sets out, and end on the last action or image the prompt names.
+- Write the events this segment's prompt sets out. Open straight from the moment the previous segment stopped, in the same scene and rhythm. Stop where the prompt says to stop, mid-flow: the story runs on, and the next segment picks up from that exact moment.
 - Keep a segment's events dense: explanation sits between action and reaction, and the protagonist thinks while he acts.
 - Character entrances: name + one line of identity + one physical feature, then into what they are there to do.
 

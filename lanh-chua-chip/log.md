@@ -73,3 +73,5 @@
 2026-10-22 | doan-006 (lượt 2) | Đạt (S5). Hob nói lão Jim là em ruột, thề không đụng than. Leon nói củi "không quá hai tháng" (phóng đại; state giữ ~69 ngày) | Review | Agent (ghi log)
 2026-10-22 | doan-007 (lượt 2) | Đạt (S6). Hob đổi ý bằng việc tự xúc than cõng về nhà mình, không lời giải thích. Lời kể còn câu chốt giữa đoạn ("活命的温度，比神明更实在") | Review | Agent (ghi log)
 2026-10-22 | doan-008 (lượt 2) | Đạt (S6). Vết cào 5,7 cm "sinh vật chưa biết" cài cho T10; bầy 14 con, đầu đàn sói cái | Review | Agent (ghi log)
+2026-10-22 | dự án | Bỏ mục 【Kết đoạn】 (hình ảnh khép đoạn) khỏi prompt; thay bằng 【Mở đầu và chỗ dừng】: mở nối thẳng từ chỗ đoạn trước dừng, dừng giữa mạch + nói chuyện kế tiếp thuộc đoạn sau; nhảy thời gian đặt trong đoạn. Dàn ý 009+ dời ranh giới đoạn vào giữa cảnh | Tác giả: các đoạn không liền mạch | Tác giả
+2026-10-22 | dự án | SI v2 mục 3 Output: bỏ "end on the last action or image the prompt names", thay bằng mở nối thẳng từ chỗ đoạn trước dừng + dừng giữa mạch theo prompt (bản SI đã lưu trên AI Studio cập nhật theo) | Cùng nguyên nhân đoạn khép tròn | Tác giả
