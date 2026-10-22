@@ -47,3 +47,30 @@ Viết xong tự kiểm theo mục 四、写完自查.
 - Thử đốt than dời sang đầu đoạn 6.
 - Thái độ đi qua việc cụ thể: Mira đáp lễ bằng một món đồ; Hob khai thật con số.
 - Kết bằng hình ảnh: Hob đứng im bên thành giếng mới, tay siết đầu gậy.
+
+---
+
+# Review — Đoạn 005 bản 2 · session S3 (đoạn đầu của session)
+
+**Kết luận: ĐẠT.** Tốt hơn hẳn bản 1. Quy tắc prompt mới có tác dụng: không còn chép prompt, không còn câu chốt cuối đoạn, kết đúng hình ảnh.
+
+## Làm tốt
+- "这要是不得病，简直对不起大自然的重力" — giọng tự giễu của Leon trở lại.
+- Mệnh lệnh "三件事" ngắn, rõ; "饭减半"; vào đầu Hob ("自己这把老骨头也得跟着劈柴搬砖") cụ thể.
+- Mira đáp lễ bằng **tấm da thỏ xám đã thuộc** ("本来是准备留给Tobi做冬鞋填料的") — đúng kiểu "thái độ qua đồ vật".
+- Hob khai 5800 → Leon nói tiếp con số trước khi Hob nói hết → Hob chết sững. Đúng điểm bắt buộc.
+- Chảy máu cam đúng cái giá của 小七; ngày thứ sáu Bram chưa về.
+
+## Còn lỗi (nhỏ, không làm lại)
+- **Số củi sai:** Hob nói xà gỗ "还剩下一半…还能烧三十几天" — mâu thuẫn với 70–80 ngày (mới đun 3 ngày). Gói bàn giao ghi số đúng: còn ~65–75 ngày.
+- **小七 hiện vạch xanh trong tầm nhìn** ("蓝色高亮虚线") — lần đầu chip có hình ảnh kiểu bảng hệ thống. → *Cần Tác giả quyết.*
+- **Độ tin cậy 98%** — quá cao cho chip hỏng 61%. Gói bàn giao thêm: độ tin cậy thường ở 60–90%.
+- Cảnh Hob còn vài câu kể thay: "带上了彻底臣服的意味" (quá tay — Hob mới mềm đi, chưa thần phục), "脸上的皱纹似乎舒展了不少", "一丝" ×2, câu kết "仿佛那是他此刻唯一能依靠的东西".
+- "灰色的**眸子**" (SI cấm).
+- Đá tường trang viên gọi là "黑岩石" — lẫn với than. Lỗi gốc ở bible (trang viên ghi "nhà đá đen"). → Agent chốt: trang viên xây bằng **đá bazan đen** nặng, cứng; than là đá giòn, nhẹ.
+
+## Chi tiết mới → canon
+- Kael: tên gã to con; lưng sưng đỏ (bị phạt).
+- Ba hố xí dưới dốc 30 bước, che ván và rơm; rãnh hình chữ 八 phía trên giếng 5 bước, rộng 1 thước, sâu 1,5 thước, kéo dài 20 bước mỗi bên; thành giếng cao 2 thước.
+- Số ca mới: hai (Ngày 3) → một (Ngày 4) → không (Ngày 5); mười mấy người đang bệnh, bảy tám người đã đi làm lại được.
+- Leon nhận tấm da thỏ, để trong túi áo choàng cạnh mẩu than.

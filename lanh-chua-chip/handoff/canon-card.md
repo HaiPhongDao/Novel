@@ -10,7 +10,7 @@
 **Bàn tay vàng — chip K-07, Leon gọi là 小七**
 - Chỉ nói trong đầu Leon. Giọng đều đều như đọc báo cáo thí nghiệm, buồn cười vì quá thẳng. Tự xưng K-07, gọi Leon là "用户" (người dùng), gọi thân thể Leon là "cơ thể hiện tại". Hay mở đầu bằng "指令接收".
 - Kho tri thức ngoại tuyến hỏng 61%, phục hồi dần khi Leon ăn no ngủ đủ.
-- Phân tích những gì Leon nhìn, nghe, ngửi, nếm, sờ; tính toán, ước lượng, luôn kèm độ tin cậy (结果可信度：NN%).
+- Phân tích những gì Leon nhìn, nghe, ngửi, nếm, sờ; tính toán, ước lượng, luôn kèm độ tin cậy (结果可信度：NN%) — vì đang hỏng 61%, con số này thường ở mức 60–90%.
 - Cái giá: dùng nhiều thì Leon đau đầu, đói, nặng thì chảy máu cam (đã xảy ra ở đoạn 1).
 
 **Nhân vật phụ**
@@ -20,12 +20,13 @@
 
 - **Mira** — 16 tuổi, con gái thợ săn, tóc đỏ nâu buộc gọn, da rám nắng màu đồng, nhanh nhẹn. Mẹ mất, một mình chăm em. Thẳng tính, nói gắt, không quỳ lạy quý tộc. Gọi Leon "领主大人" giọng không mấy kính nể. Ở **nhà gỗ** cuối làng, chắc hơn các nhà tranh khác.
 - **Tobi** — em trai Mira, 7–8 tuổi, mắc 秋季病 nặng nhất làng.
-- **Bram** — cha Mira, thợ săn giỏi nhất làng, đang ở 迷雾森林 (chỉ được nhắc).
+- **Bram** — cha Mira, thợ săn giỏi nhất làng, vào 迷雾森林 từ trước khi Leon tới; mỗi chuyến thường 4–5 ngày, tới Ngày 5 là ngày thứ sáu chưa về.
+- **Kael** — gã to con mặt đầy thịt ngang, từng gào lên chống lệnh, đang chịu lao dịch dưới mắt Gareth; khoẻ, cục cằn, sợ Gareth.
 
 **Lãnh địa 黑石领**
-- 领主府: nhà đá đen hai tầng lưng chừng đồi, nửa mái phía đông sập lộ xà gỗ cháy đen, tường rào đổ nhiều đoạn.
+- 领主府: nhà **đá bazan đen** (nặng, cứng) hai tầng lưng chừng đồi, nửa mái phía đông sập lộ xà gỗ cháy đen, tường rào đổ nhiều đoạn.
 - Làng dưới chân đồi: vài chục nóc nhà tranh, dân là 农奴, sợ và đề phòng lãnh chúa. Một giếng chung giữa làng. Rừng Sương Mù ở xa phía bắc.
-- 被诅咒的石头: đá đen lộ ra ở sườn đồi phía đông, giòn, nhẹ hơn đá granite. Nhiều năm trước lão Jim (老吉姆) lấy về kê bếp, đêm đó cháy rụi cả nhà; từ đó không ai dám chạm.
+- 被诅咒的石头: đá đen lộ ra ở sườn đồi phía đông — khác đá bazan của trang viên: giòn, nhẹ, đen bóng, có thớ lớp. Nhiều năm trước lão Jim (老吉姆) lấy về kê bếp, đêm đó cháy rụi cả nhà; từ đó không ai dám chạm.
 - Lịch: tuyết đầu mùa rơi khoảng ba tháng sau 收获之月.
 - **秋季病**: tiêu chảy, sốt mỗi độ thu; năm nào cũng có người già, trẻ nhỏ chết. Thực chất do nước giếng: làng nằm trên sườn dốc, dân phóng uế và chất phân gia súc sau nhà, mưa thu cuốn tất cả xuống giếng ở chỗ trũng thấp nhất.
 - Củi là thứ quý nhất trước mùa đông; dân gom từ mùa xuân ở rìa 迷雾森林, mỗi cành đều đã tính chỗ dùng. Làng hiếm cả nồi sắt.

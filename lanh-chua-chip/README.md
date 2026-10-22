@@ -15,8 +15,9 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 | 002 | ✅ | ✅ nháp 1 (S1) | ✅ ĐẠT — sửa 1 chữ | — |
 | 003 | ✅ (mở session S2 bằng `handoff/pack.md`) | ✅ nháp 1 (S2) | ✅ ĐẠT — test chuyển session qua | — |
 | 004 | ✅ | ✅ nháp 1 (S2) | ✅ ĐẠT — 2 lỗi nhất quán nhỏ | — |
-| 005 | ✅ bản 2 | nháp 1 hỏng → `archive/`; làm lại ở S3 (`handoff/session-start.md`) | ❌ nháp 1 trôi giọng | — |
-| 006–007 | ⏳ (dàn ý có; 006 mở session S3) | — | — | — |
+| 005 | ✅ bản 2 | ✅ bản 2 (S3); bản 1 hỏng → `archive/` | ✅ ĐẠT (bản 2) | — |
+| 006 | ✅ | ⏳ | — | — |
+| 007–008 | ⏳ (dàn ý có; 007 mở session S4) | — | — | — |
 
 ## Cách chạy
 

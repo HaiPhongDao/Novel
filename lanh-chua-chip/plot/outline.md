@@ -24,8 +24,12 @@ Leon dập thế giằng co bằng luật lãnh chúa: giếng thuộc lãnh ch�
 Sáng Ngày 3 bên giếng: Kael chịu lao dịch, đào hố xí dưới dốc, rãnh phía trên giếng, xây cao thành giếng; Leon bắt 小七 tính tới chảy máu cam; Mira báo Tobi qua khỏi, đáp lễ bằng một món đồ, nhắc cha quá ngày về. Chiều tối Ngày 5: Hob báo số ca mới, khai thật kho lương 5800 pound; Leon "biết từ hôm đó".
 **Móc:** Hob sững người bên thành giếng mới.
 
-### Đoạn 6 — Đá nguyền (đêm Ngày 5 → Ngày 7)
-Đêm Ngày 5 Leon đốt thử mẩu đá đen → than đá, 小七 cảnh báo khí độc. Sau đó (như ch4 cũ): biểu diễn đốt than; chuyện lão Jim; sự cố khí than nhà Dunn; Hob đổi ý. Mira xin tìm cha. *(Có thể phải tách 2 đoạn theo quy tắc ≤2 cảnh.)*
+### Đoạn 6 — Đá nguyền (đêm Ngày 5 → sáng Ngày 6)
+Đêm: Leon đốt thử → than đá; 小七 cảnh báo khí độc; Leon hiểu cái chết nhà lão Jim. Sáng: đốt than cạnh bó củi ngoài trời ở sườn đồi; Leon tuyên bố đá đen là chất đốt của lãnh địa + 3 quy tắc; Hob vẫn sợ.
+**Móc:** dân làng đứng cách hố lửa mười bước, không ai bước lên.
+
+### Đoạn 6b — Khói than (đêm Ngày 6 → sáng Ngày 7)
+Nhà Dunn lén mang than về đốt trong nhà kín → ngộ độc; Leon, Gareth, Mira cứu. Hob đổi ý (chuyện lão Jim). Mira xin Leon tìm cha.
 
 ### Đoạn 7 — Rừng Sương Mù (Ngày 7)
 (như ch5 cũ) Tìm Bram; sói mắt đỏ; vết cào lạ; "Chúng đang chạy trốn."
