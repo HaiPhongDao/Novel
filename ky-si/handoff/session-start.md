@@ -2,40 +2,40 @@
 
 Đọc đuôi chính văn và brief tự đủ, rồi viết đoạn tiếp theo. Những sự thật và trạng thái cần dùng nằm trong brief. Giữ giọng SI hiện hành.
 
-## Nguyên văn cuối doan-005
+## Nguyên văn cuối doan-007
 
-那人约莫三十多岁，身上披着一件防风的羊毛短呢斗篷，脚下踩着一双沾满尘土的长筒皮靴，腰间挂着一只扁平的牛皮文书袋，打扮得像是个行脚管事或者货栈押运人。他没有靠近武器，只是在两步开外停住脚，目光在Rowan身上的轻甲和几名士兵整齐的站姿上打量了一番，客客气气地摘下了帽子。
+昨日那名商行管事领着一辆双轮轻棚马车，缓缓停在了渡口外围的碎石岔道旁。马车套着两匹健壮的灰骡，车棚用厚实的防雨油布扎得严严实实，赶车的是个五十岁上下的老把式，腰里别着一根硬皮鞭，警惕地打量着四周。
 
-“这位长官，想必就是Rowan队长吧？”男子微微欠身，语气试探而谨慎。
+管事跳下车辕，手里扬着昨天盖了蜡印的货单副页，快步走上前来。
 
-Rowan看着他：“是我。有事？”
+“Rowan队长，车备妥了，货也点齐了。就劳烦各位兄弟搭把手，照应一程。”
 
-那男子笑了笑，指了指平地外围一条不起眼的碎石岔道，低声说道：
+营地栅栏口处，留守的五名卫兵在Dain的带领下已经排好了晨间的第一班哨。Mira也已经站在了缆舟的跳板边，开始擦拭绞盘上的浮锈。
 
-“方才看了片刻，Rowan队长带出来的兵确实扎实，令行禁止，比那些四处游荡的雇佣佣兵强出太多。在下是替对岸一家商行办差的，明日一早，有一辆装载精细染料和药草的轻货马车要从Stonewake出发，走南边的小道送往Greyford城外的货栈。那条道有些不太平，常有流民和毛贼游荡，在下想雇几位精干兄弟随车护上一趟……不知道Rowan队长接不接这趟差事？”
+Dain披着一身厚皮甲，腰间挎着阔剑，大步走到Rowan身侧。他扫了一眼那辆马车的轮轴和车夫的神色，压低了嗓音，语气极其严肃地作最后的交接叮嘱：
+
+“队长，渡口这边五个人我盯得死，只要河面上不闹水贼，绝出不了乱子。倒是你们南道这一路，有件事你得记结实了——南道过了野梨林有一处叫‘泥洼子’的窄口，两边全是半人高的灌木。要是真碰上有枯树横在路当中挡道，赶车的要是慌了神想强行掉头，你打算怎么护？”
 
 ## Brief đoạn tiếp theo
 
-Viết đoạn006, khoảng2000 chữ Trung. Mở lời Rowan đáp khách vừa hỏi thuê hộ tống xe nhẹ ngày mai tới kho ngoàiGreyford. Điểm nhìn Rowan; tên Latin cả lời kể và thoại.
+Viết đoạn 008, khoảng 2000 chữ Trung. Mở ngay Rowan trả lời Dain ở phần bàn giao trước đi, rồi theo đội rời Stonewake. Điểm nhìn Rowan; tên Latin cả lời kể và thoại.
 
-【Thiết lập】
-Cuối ngày đầu tại Stonewake. Công phà đã xong, Alden trả1 bạc; Rowan hiện33 bạc tiền mặt. Phòng vệ bến24 bạc/30 ngày, đã nhận12 trong tổng24. Có8 người gác: cựu binh Dain, cựu binh thứ hai chưa đặt tên,6 người mới gồmToma. Rowan ngoài8. Mira vận hành, Alden đại diện chủ bến tư nhân, ngoài đội. Người gác đang trở về nhịp canh thường và ăn/nghỉ, không còn đứng nguyên dưới dốc.
+【Dữ kiện】
+Sáng ngày2. Đi hộ tống một xe nhẹ nguyên liệu nhuộm/dược liệu tới kho ngoài Greyford ghi trên giấy, về trong ngày. Phí3 bạc, đã nhận1, còn2 sau ký nhận; lái xe/bốc dỡ của khách, thay địa điểm hoặc thêm việc cần bàn trước. Khách và người đánh xe ngoài quân số.
 
-Khách chưa tên, làm cho một thương hội bờ đối diện theo lời giới thiệu, hỏi hộ tống một xe nhẹ thuốc nhuộm và dược thảo theo đường nam từStonewake tới kho ngoàiGreyford sáng ngàymai. Chưa có giá hoặc lời nhận.
+Đội đi gồm Rowan, cựu binh thứhai, Toma và một người mới khác:4 người, gồm3 người gác. Ở bến Dain+4 người mới=5 gác, theo chấp thuận riêng ngày2 của Alden. Rowan chỉ biết bến đã bàn giao lúc rời, không nhìn thấy việc ở bến khi đã đi xa.
+
+Tiền mặt33 bạc80 đồng sau trả20 đồng thức ăn đường cho4 người, chưa thu/chi mới trong008. Toma vừa tập 随车换位4→5/100, tích lũy1→0; thu giáo13 giữ nguyên. Điểm cải thiện thao tác nhỏ, chưa thử trước người lạ; chỉ Rowan biết bảng. Đồ, ngựa và xe đã kiểm khi bàn giao; mọi tên mới chưa đặt, dùng cách gọi vai trò.
 
 【Chuyện trong đoạn】
-Rowan hỏi giấy giao hàng, nơi nhận, việc xe chở, người lái và đường về; khách giải thích mình cần phòng người giật hàng/lấn xe và đưa giấy cho đối chiếu. Alden có mặt xác nhận người làm ăn đã có trong sổ giao dịch của bến; lời xác nhận chỉ về người và giấy, không bảo đảm mọi chuyện trên đường. Rowan bàn với khách giới hạn một xe, một điểm nhận ghi trên giấy, quay về trong ngày2. Phần lái xe/bốc dỡ thuộc khách; Rowan chịu việc hộ tống, duy trì lối và phối hợp khi đường bị vướng.
+Rowan trả lời Dain về đầu mối báo tin và việc đang gặp phải tự phân người cho đúng. Nhóm rời bến cùng xe/khách và người lái, Dain ở lại. Trong quãng đầu trên đường nam, Rowan hỏi người lái chỗ khó qua và nơi có thể dừng xe; người lái nêu một khúc cua hẹp trước rãnh thoát nước, xe ngược chiều dễ vướng. Rowan để cựu binh giữ phía trước, hai người mới theo bên xe như đã tập, bản thân chọn chỗ nhìn được người lẫn hàng. Toma có một lượt đổi vị trí gọn hơn tối trước, vẫn phải đợi lệnh cựu binh chứ chưa biết việc hết.
 
-Hai người thương lượng phí3 bạc cho chuyến ngàymai, nhận trước1 bạc khi thống nhất giấy, còn2 bạc khi bàn giao tại đúng kho ghi trên giấy. Đổi nơi nhận hoặc nhờ việc thêm phải thỏa thuận công riêng trước làm. Giữ công3 bạc là khoản toàn chuyến, một bạc nhận trước đã nằm trong3.
+Tới khúc cua ấy, một xe chở củi đi ngược chiều đang dừng lại, chiếm một phần lối. Người hai bên phải bàn cách nhường, khách muốn tới kho đúng hẹn, người đánh xe củi cần cho xe mình thoát chỗ lún. Rowan hỏi rõ rồi cho xe mình dừng ở chỗ có thể đứng, cựu binh đi nhìn khe đường trong tầm mắt. Chọn sự việc người lạ áp sát xe để xin giúp/đòi len lối; người ấy vừa nói chuyện vừa đưa tay tới dây buộc kiện. Chỉ mô tả điều Rowan thấy, chưa tự xác nhận âm mưu hoặc đọc nghĩ.
 
-Trước khi nhận tiền, Rowan trao đổi với Alden và Dain về người. Dự kiến đi là Rowan, cựu binh thứhai, Toma và một người mới khác:4 người trong đó3 người gác. Ở bến cònDain và4 người mới:5 người gác, có kế hoạch ca trực; Mira vẫn giữ phầnphà. Alden đồng ý cách bố trí cho đúng ngày2 nếu đủ canh, chuyến đi trở về trong ngày. Đây là thỏa thuận tạm cho một chuyến, số lính và quỹ lương không tăng. Dain hỏi nếu xe chậm thì ai nhắn bến và ca nào cần giữ; Rowan/khách thống nhất đầu mối qua người đánh xe, không biến thành bỏ bến tùy ý.
-
-Sau khi giới hạn việc và người đã rõ, khách đặt giấy nhận và trả1 bạc tận tay. Rowan có34 bạc =33+1 tạmứng mới;2 bạc còn chờ hoàn tất, chưa là tiền mặt. Khách rời đi chuẩn bị xe. Rowan hỏi Dain hai người mới được chọn còn thiếu gì. Dain nêu cách giữ bên hông xe, đổi chỗ khi qua góc hẹp và hỏi lệnh lúc người phía trước khuất; Toma biết thu giáo hơn chưa đủ theo xe giữa người lạ. Dừng ngay phầnDain chỉ vấn đề phải luyện;007 mở Rowan quyết cách tập trước giờ đi.
+Rowan phát hiện tay đã quá gần hàng, gọi người mới giữ bên xe và yêu cầu khách kiểm dây, cựu binh quay về đúng vị trí. Toma hiểu lệnh đã tập nhưng khi người lạ và con ngựa cùng áp tới cậu chậm một nhịp, chưa chọn được vừa chắn lối vừa để xe có khoảng trống. Thể hiện qua chân, giáo, mắt và lời cậu hỏi, không vào đầu cậu. Dừng ngay lúc Rowan đang phải quyết vị trí hoặc gọi cậu làm một việc cụ thể;009 nối hành động xử lý. Chưa có đánh chết, bắt hàng loạt hoặc xác nhận chủ mưu; việc cần giải quyết vẫn là lối và hàng trước mắt.
 
 【Giữ đúng】
-8 người gác =3 đi+5 ởbến; cộngRowan là4 người đi. Dain ởbến, cựu binh thứhai đi. Hai người mới đi làToma và một người trong6.
-33→34 bạc chỉ khi nhận1; hợp đồng mới tổng3 gồm1 trước+2 sau. Tiềnphà/sửa bến riêng,1 bạc việc phà đã trả không lặp.
-Việc đi ngày2, mộtxe mộtđiểm nhận; bốc dỡ và điều khiểnngựa phía khách, việc thêm thỏa thuận riêng. Toma thu giáo13/100 tíchlũy0 chưa đổi, bảng chưa có nội dung mới.
+Dain ở bến, cựu binh thứhai đi cùng. Đội đi4 gồm Rowan, không thành5; không thêm lính hay người bí mật biết bảng. Tiền33 bạc80 đồng và2 bạc chờ nhận không đổi. Hàng chưa tới kho hoặc bốc dỡ. Toma 5/100 theo xe không thành thực chiến hoặc biết ý đồ người lạ.
 
 【自由发挥】
-Giữ cuộc mặc cả có qua có lại: khách muốn đáng tiền, Alden giữ canh bến, Dain nêu chuyện người thật làm được. Tự chọn câu hỏi, cách ghi giấy và suy nghĩ ngắn tính lời công củaRowan. Mỗi người nói trọn ý, đáp điều vừa được hỏi. Dừng giữa việcDain đang bàn kỹ năng cần luyện.
+Tự chọn lời người lái với người xe củi, khó khăn cụ thể ở chỗ nhường và cách khách thúc tiến độ. Có trao đổi thật, người sau đáp đúng điều vừa nghe. Rowan hỏi người thạo, quan sát rồi ra lệnh; một chút hài từ chuyện đường đủ xe nhưng người nào cũng muốn đi trước. Dừng giữa việc còn phải xử lý ở khúc cua.

@@ -17,3 +17,4 @@ Bốn session thử 001 ngày 23/10/2026. Tác giả chọn v02-02 để viết 
 | [005 lượt 01](https://aistudio.google.com/prompts/1JFDM1lrTk0r-6NFGcr99i7z5HNxUFRk1) | 005 | 2858 ký tự | SỬA NHẸ; đoạn 2/2 của session |
 | [006 lượt 01](https://aistudio.google.com/prompts/1EVBWEbvMRLEnFaok54FmoAQroQ6-EqWP) | 006 | 3872 ký tự | SỬA NHẸ; đoạn 1/2 của session |
 | [007 lượt 01](https://aistudio.google.com/prompts/1EVBWEbvMRLEnFaok54FmoAQroQ6-EqWP) | 007 | 2997 ký tự | SỬA NHẸ; đoạn 2/2 của session |
+| [008 lượt 01](https://aistudio.google.com/prompts/1m65Lc8lNm0mnJBIe4mzq7SQj8aS_wr36) | 008 | 3761 ký tự | SỬA NHẸ; đoạn 1/2 của session |

@@ -1,11 +1,9 @@
-## 3. Trạng thái sau007
+## 3. Trạng thái sau008
 
-Sáng ngày2, tại ngãrẽ ngoàiStonewake. Xe nhẹ và khách/người lái đãtới; nhóm4người hộtống chuẩn bịđi. Dain vừa hỏiRowan nếu khúc hẹp qua rừnglê có vật chắn và lái muốn quayđầu thì làm thế nào;008 mởRowan đáp, rồi điđườngnam. Đây là giảđịnh đềphòng, chưa có phục kích được xác nhận.
+Ngày2, đườngnam khúc cua cạnh rãnh. Xe khách dừng nềnchắc trước xe củi lún, mộtngười vừa xin giúp rồi tới dâybuộc hàng, người kia giữngựa xe củi. Người tới đã rút tay nhưng cònchen, chưa có kếtluận âm mưu. Khách đang giữ/kiểm dây. Toma hỏi chắn ngang haylùi nhường ngựa, chân/giáo đang vướng;Rowan vừa nhảy từ bờđất xuống.009 nối việc anh làm ngay.
 
-Tiền mặt33 bạc80đồng =34-20đồng góiăn4người. Mộtbạc=100đồng. Phíhộ3 gồm1nhậntrước,2 chờ giao đúngkho ngoàiGreyford. Khách chịu ngựa/xe/bốc dỡ; việc thêm/đổiđiểm cầnthỏa thuận trước. Không có chi/thu khác.
+Hộ tống:Rowan,cựu binh thứhai,Toma,mộtmới=4. Cựu binh ở bên trước xe, đãquayvề khi gọi, trong tầm nhìnRowan. Dain+4mới ởbến, không xuất hiện trênđường. Từ009 dùngBram cho cựu binh thứhai,Jory cho người mới đi cùng đãcó; tênlàmviệc để phân biệt, không tăngquânsố.
 
-Đi:Rowan+cựu binh thứhai+Toma+mộtmới=4. Ởbến:Dain+4mới=5gác. Tổng8gác ngoàiRowan. Cựu binh có kinhnghiệm đi thươngđội theo lời kể, Dain không đicùng; khi rời Rowan không biết sựkiện bến ởxa.
+Tiền33 bạc80đồng; còn2bạc phíhộ chờ ký nhận đúngkho ngoàiGreyford. Khách chịu lái/bốc dỡ, đổiđiểm/việc thêm bàn trước. Hàng mộtxe thuốcnhuộm/dược liệu, chưa biết có mất/vỡ; khách cần kiểm ngay. Toma随车换位5/100,积累0;长矛收势13/100,积累0;008không tăngđiểm, không đọcýđồ. Rowan chưa biết chuyệnbến saukhi rời.
 
-BảngToma: 长矛收势13/100,训练积累0; 随车换位5/100,训练积累0 (mới4→5 sau tập thật). ChỉRowan biết. Thao tác cải thiện nhỏ, vẫn cầnlệnh trướcngười lạ, chưa có kinhnghiệm chiếnđấu/đọc ýđồ.
-
-Đồ/góiăn đã kiểm, xe mộtchiếc nhẹ nguyênliệu nhuộm/dược liệu, theo giấy tới mộtkho ngoàiGreyford. Sựkiện hômnayngày2, không coi lời bếp “ngàymai” là trì hoãn chuyến. Hướng tập trái/phải có lỡ câu; tới đường dùng vịtrí vật thật, không sao chép hướngnhầm.
+Đích009: ổn vịtrí và tách lối, người lạ lùi theo việc thật, xe tiếpđường tới đúngkho. Khách nhờ chuyểnthêm phía bênkiađường, phải bàn côngtrước; chưa thu2 hoặc phíthêm trong009.

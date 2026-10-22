@@ -17,3 +17,7 @@
 | 训练积累 | Tích lũy của cùng người/kỹ năng | Không là thưởng nhiệm vụ |
 
 Nhân vật chưa có tên gọi theo vai trò. Đổi tên thì cập nhật hồ sơ, brief và gói bàn giao đồng bộ.
+
+## Tên làm việc bổ sung từ009
+
+Bram: cựu binh thứhai đã ở trong tám, đi chuyếnngày2 cùngRowan. Jory: người mới ngoàiToma đượcchọn cùng chuyến, đã ở trong sáu. Đây là đặt tên cho người đãcó, không tuyển thêm; Agent triểnkhai để rõ thoại theo yêu cầu viếtliên tục, chưa gán Tác giả duyệt riêng.

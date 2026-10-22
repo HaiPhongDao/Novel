@@ -33,3 +33,7 @@ Tối ngày1: ký việc mộtxe/mộtkho ngày2, nhận1/3 bạc; tiền34, cò
 ### Diễn biến làm việc007
 
 Tối1 tập xe trống; sáng2 trả20đồng góiăn4người, tiền33,8. Nhómđi4 sẵnsàng, Dain ởbến5.
+
+### Diễn biến làm việc008
+
+Ngày2: đội4 rời bến, gặp xe củi lún ở góchẹp; người xin giúp chạm dâyhàng. Toma chậm,Rowan đang xử lý. Tiền33,8.

@@ -44,3 +44,5 @@
 2026-10-23 | 006 | Chốt mộtchuyến ngày2:phí3 bạc,nhậntrước1, còn2 khi giao. Đi3gác+Rowan, ởbến5 doDain quản, Alden đồngý ngoại lệngày2. Tiền34. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
 
 2026-10-23 | 007 | Luyện thực tế và củng cố 随车换位 củaToma4→5, tíchlũy1→0, kỹnăngthu giáo13 giữ. Sángngày2 trả20đồng góiăn,34→33,8bạc. Xe tới, Dain bàn giao trướcđi. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
+
+2026-10-23 | 008 | Đội4 lênđường, Dain ởbến5. Xe củi chắn lối, người chạm dâyhàng, Toma chậm dưới sứcép; dừngRowan nhảy xuống xử lý. Không tăngđiểm hoặc thu/chi mới. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |

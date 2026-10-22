@@ -1,15 +1,15 @@
 {
-  "latest": 7,
+  "latest": 8,
   "cash": 33.8,
   "receivables": [
     {
-      "work": "Hộ tống mộtxe/mộtkho ngày2",
+      "work": "Xe tới kho ghi trong giấy ngày2",
       "silver": 2,
-      "status": "chưa giao"
+      "status": "đang trên đường"
     }
   ],
-  "sessionUrl": "https://aistudio.google.com/prompts/1EVBWEbvMRLEnFaok54FmoAQroQ6-EqWP",
-  "sessionSegments": 2,
+  "sessionUrl": "https://aistudio.google.com/prompts/1m65Lc8lNm0mnJBIe4mzq7SQj8aS_wr36",
+  "sessionSegments": 1,
   "decision": "SỬA NHẸ",
   "authorApproved": false
 }

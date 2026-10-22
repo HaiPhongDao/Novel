@@ -51,3 +51,7 @@ Khách đưa giấy vàAlden xác nhận giao dịch. Mộtxe nhẹ thuốcnhu�
 Tối ngày1, Rowan hỏi cựu binh thứhai, cho Toma/người mới tập đổi vịtrí quanh xe trống; hỏi và sửa thật. BảngToma 随车换位4/100+积累1→5/100+0, thu giáo13 giữ nguyên. Ăn và ngủ rồi sang sángngày2.
 
 Trả20đồng gói thứcăn cho4người, tiền33bạc80đồng; xe/khách tới,4ngườiđi chuẩn bị. Dain giữ5ởbến và hỏi phươngán nếu đườngbị chắn/xe vội quayđầu. Chưa lênđường, chưa thu2bạc còn lại.
+
+### Đoạn008 — đường hẹp và bàn tay gần dây hàng
+
+Rowan đápDain rồi cùng3người gác rờiStonewake, Dain giữ5ởbến. Hỏi người lái chỗhẹp/chỗdừng, đội giữ xe trên nềnchắc trước mộtxe củi lún chắn lối. Người phụxe củi tới xinđẩy rồi chạm dâyhàng;Rowan yêu cầu rời tay, khách giữ dây, cựu binh quay về. Toma hiểu lệnh nhưng chân/giáo vướng giữa người lạ và xe, hỏi cách chắn;Rowan vừa nhảy xuống đất để xử lý. Chưa có đánh, mất hàng haythuthêmtiền.
