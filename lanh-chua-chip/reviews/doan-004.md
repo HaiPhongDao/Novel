@@ -32,3 +32,40 @@ Bản thảo: `archive/run-2/doan-004-v1.md` · prompt: `archive/run-2/brief-doa
 - "trưởng làng chịu phạt cùng" không nói Hob phản ứng bằng việc gì ⇒ Writer cho quỳ. Bản 2: Hob nhận việc bằng một việc cụ thể (hỏi chuyện thực tế, chống gậy đi báo các nhà).
 - Điểm bắt buộc về mẩu đá đen ⇒ thêm cảnh. Bản 2: bỏ.
 - Kết đoạn có hai hình ảnh (Tobi nuốt + dân xếp hàng) ⇒ Writer nối thêm câu đúc kết. Bản 2: một hình ảnh.
+
+## Bản 2 (session S3, mở bằng gói hết đoạn 003) — VIẾT LẠI
+
+Bản thảo: `archive/run-2/doan-004-v2.md` · prompt: `archive/run-2/brief-doan-004-v2.md`. 4020 chữ Hán.
+
+**Đã sửa được so với bản 1:** phạt đúng việc uống nước lã; Hob hỏi một chuyện thực tế (nhà không có vò đựng nước thì sao) → Leon cho dùng chậu gỗ của trang viên; nước muối mật đong bằng hai bát; kết đúng một hình ảnh (Tobi nuốt, "咕咚"). 小七 tính 12 xà + 48 rui, 72–78 ngày, 87%.
+
+**Vẫn hỏng:**
+1. Hob lại vứt gậy quỳ, "小人在……小人在！", "如蒙大赦，手脚并用地爬了起来" — lần thứ 2 liên tiếp. Kurt cũng "小人劈柴". (Lượt Gemini 3.8 Flash trước đó cũng cho Hob xưng 小人 và đã được ĐẠT — xem `Writer Gemini 3.8 Flash/chapters/doan-004.md`; nhưng glossary/canon-card ghi Hob gọi 领主大人, tự xưng 我.)
+2. 小七 chiếu hình: "K-07的辅助投影精准地投射在木碗上方", "芯片在视网膜上拉出的虚拟辅助线" — blacklist (hình ảnh trong tầm nhìn); lời 小七 đổi sang ngoặc “”.
+3. Leon dọa "按律当处绞刑", "割舌，绞死", "直接吊死在水井架子上" — prompt chỉ có lao dịch.
+4. Lỗi nhỏ: "霍乱弧菌" (đoạn 3 là E. coli/salmonella), "误差被控制在毫克级别", Mira bị gọi "小女孩", "灰色的眸子" (blacklist 眸子), Leon "少废话" với Mira.
+
+**Nguyên nhân & sửa ở bản 3:** prompt không nói Hob làm gì *trong lúc* Gareth ra tay và Leon xử, chỉ nói sau đó ⇒ Writer lấp bằng quỳ. Bản 3 ghi sự thật cố định: Hob tự xưng 我, đứng chống gậy suốt cảnh giếng; hình phạt Leon nói ra là lao dịch; 小七 chỉ là giọng nói, lời đặt trong 「」 (nguyên tắc 12). "đè quỳ xuống bùn" → "đè úp mặt xuống bùn".
+
+## Bản 3 (session S4, mở bằng gói hết đoạn 003) — ĐẠT
+
+Bản thảo: `chapters/doan-004.md`. 2846 chữ Hán.
+
+**Kết luận: ĐẠT** — các điểm vỡ của bản 1–2 đã hết; còn lỗi văn nhỏ.
+
+### Canon & cốt truyện
+- ✅ Hob đứng chống gậy nhìn suốt cảnh, nghĩ trong đầu (so với "前两任" chết rét — khớp đoạn 2), "我明白了，领主大人", hỏi chuyện đêm có người lén uống nước giếng → Leon cho đậy giếng bằng phiến đá, Hob giữ chìa; rồi đi báo từng nhà.
+- ✅ Củi: xà sồi mái sập, củi của dân giữ nguyên; 小七: 6 xà chính + 28 rui, ~3200 pound, 1,5 lít/người/ngày, 146 người, 72–80 ngày, 86%.
+- ✅ Doyle (gã to con) bị Gareth bẻ trật cổ tay, đè úp mặt xuống bùn; phạt lao dịch: chẻ củi, trông lửa nồi nước tới khi Leon cho thôi.
+- ✅ Nước muối mật: hai bát ~1 lít, sáu thìa mật ong, nửa thìa muối; uống từng thìa suốt đêm. Kết: Tobi nuốt thìa đầu.
+- ✅ 小七 chỉ là giọng nói, lời trong 「」.
+- ⚠️ Gareth "单臂垂立", "仅存的右臂" — dễ đọc thành cụt tay; canon: tay trái thương cũ buông thõng. Ghi vào canon-card.
+- ⚠️ Leon nhắc luật "应当直接吊死在领地界碑上" trước khi phạt lao dịch — chấp nhận (nói luật, không làm).
+- Chi tiết mới: Doyle — người làm thuê vặt có sức, mặc áo da cừu bẩn; phát nước "天亮敲钟", chiều trước khi tắt nắng; giếng đậy phiến đá ban đêm, Hob giữ chìa; nồi đồng kê trên bốn tảng bazan cạnh giếng.
+
+### Văn phong (blacklist)
+- "小七平板无波的电子音" (平板无波 có trong blacklist), "平静得像在念一段账单".
+- So sánh người kể: "像半扇死猪", "像口深井", "烫得像块刚从灶膛里掏出来的熟炭", "像只受惊的小兽", "下手竟然像个杀戮多年的老兵痞".
+- Hob nghĩ hơi dài và liệt kê chiến thuật của Leon theo "先…接着…最后…" (giải thích thừa nhưng nằm trong đầu nhân vật). "既有刀子，又有算盘" — giữ, là giọng Hob.
+- "眼底的惧意更浓了几分", "嘴角泛起一丝苦涩".
+

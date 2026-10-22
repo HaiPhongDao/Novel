@@ -27,7 +27,10 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 - **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là bàn tay bỏ độc vào trà theo lệnh một người ở thành Varen. Lời kể chỉ đi vào đầu Leon khi có Pell.
 
-- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy, lưng còng, chống gậy cong, đi khập khiễng, mắt sâu. Đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu. Lễ phép, kiệm lời, giữ của cho làng (khai dư số lương). Gọi Leon "领主大人".
+- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy, lưng còng, chống gậy cong, đi khập khiễng, mắt sâu. Đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu. Lễ phép, kiệm lời, giữ của cho làng (khai dư số lương). Tự xưng 我, gọi Leon "领主大人".
+- **Mira** — 16 tuổi, con gái thợ săn Bram, tóc đỏ nâu buộc gọn, da rám nắng, tay chân nhanh. Mẹ mất, một mình chăm em trai. Thẳng tính, nói gắt, đứng thẳng trước quý tộc. Gọi Leon "领主大人".
+- **Tobi** — em trai Mira, 7 tuổi.
+- **Bram** — cha Mira, thợ săn giỏi nhất làng; vào 迷雾森林 từ ba hôm trước Ngày 2.
 
 **Lãnh địa 黑石领**
 - Trang viên xây bằng đá bazan đen, nặng và cứng; nửa mái phía đông đã sập.
@@ -50,17 +53,21 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 ### Đoạn 2 — đêm Ngày 1 → trưa Ngày 2
 Nửa đêm Leon đổ bát trà vào khe gạch sát tường, lau miệng bát, đặt bát rỗng lại đúng vòng nước. Sáng ra Pell vào, thấy bát rỗng thì giãn mặt, bưng bát mới (thêm gừng khô). 小七: mùi trùng 89% với độc trong miệng hôm qua, 置信度 84%. Leon khen "你办事一向周到", viện cớ lưỡi phồng hai nốt, nóng không nuốt được, sai Pell đi dọn đống cỏ khô ngoài sân. Leon khoác áo choàng len cũ, cùng Gareth xuống làng: hơn ba mươi nhà tranh mái mục, giếng đá vụn giữa làng; dân thấy lãnh chúa thì đóng cửa. Hob chống gậy khập khiễng ra đón, thầm nghĩ đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu — chỉ mong lãnh chúa này đừng vét kho trước khi chết. Ở sườn núi đá phía đông, Hob kể đá nguyền: lão Jim lấy về kê bếp, đêm đó cháy cả nhà năm người, dân gọi là "恶魔火". Leon lén bẻ một mẩu đá đen cỡ quả óc chó bỏ túi; 小七: cấu trúc giàu carbon, cần đốt thử. Kho chung: 42 bao lớn, 16 bao nhỏ; Hob nói 6000 pound, 小七 đo 5800 dùng được; 143 dân + 3 người trang viên = 146 miệng → 41 ngày; trăng gặt tròn 4 hôm trước → 87 ngày tới tuyết. Leon không vạch Hob khai dư. Bốc nắm lúa mạch cho hạt chảy qua kẽ tay: 87 ngày tuyết, 41 ngày lương.
 
+### Đoạn 3 — chiều Ngày 2
+Rời kho, Leon đi qua làng: bảy tám nhà có người nằm rên, nôn, tiêu chảy; Hob nói đó là 秋季病, năm nào cũng chết vài người già, trẻ nhỏ, "习惯了就好了". Leon tính: 143 người, 87 ngày, chết một người là mất một sức cày xuân. Hob chỉ nhà nặng nhất: nhà gỗ của Bram ở cuối làng, hiên treo da thú phơi khô. Mira (16 tuổi, tóc đỏ nâu) tưởng lãnh chúa tới thu lương, cầm dao xương lột da đứng chắn trước em: "领主大人也是来要粮的？" Gareth đặt tay lên chuôi kiếm, Leon bảo lui. Leon hỏi triệu chứng: năm ngày, đau bụng, sốt, phân nước rồi có tia máu, sáng nay uống nước giếng hai lần đều nôn. Bram vào 迷雾森林 ba hôm trước, định săn hươu đổi thuốc hạ sốt ở thị trấn, chưa về. 小七: mất nước nặng, nhiễm khuẩn đường ruột từ nước, 82%; 24 giờ. Leon dặn Mira đừng cho Tobi uống nước lạnh nữa rồi đi thẳng ra giếng. Giếng nằm ở chỗ trũng nhất, sườn dốc phía trên là nhà và đống phân, mưa thu đẩy bẩn xuống. Leon kéo một gàu: nước trong, đáy lắng bùn xám, mùi tanh nước tù; 小七: vi khuẩn vượt ngưỡng, 88%, đun sôi là giải pháp. Leon ra lệnh: từ hôm nay chỉ uống nước đã đun sôi, ai uống nước lã trừ ba ngày khẩu phần. Hob phản đối gay gắt: củi nhặt ở bìa 迷雾森林 từ mùa xuân, chia theo đầu người cho mùa đông, đun nước cho hơn một trăm bốn mươi người thì chưa tới tuyết đầu mùa đã hết củi. Mười mấy dân làng cầm chĩa, dao rựa kéo tới đứng sau lưng Hob; Hob chống gậy chắn trước miệng giếng. Gareth rút kiếm ra nửa tấc. Leon đứng đối diện, gàu nước vẫn trên thành giếng.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 2)
+## 3. Trạng thái hiện tại (hết đoạn 3)
 
-**Thời điểm:** trưa Ngày 2, trong kho lương chung của làng.
-**Có mặt:** Leon, Gareth, Hob. Pell ở trang viên (dọn cỏ khô ngoài sân).
+**Thời điểm:** chiều Ngày 2, bên giếng chung ở chỗ trũng giữa làng.
+**Có mặt:** Leon, Gareth (kiếm rút nửa tấc), Hob chống gậy chắn trước miệng giếng, mười mấy dân làng đứng sau lưng Hob. Mira ở nhà trông Tobi. Pell ở trang viên.
 
 **Leon biết**
-- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon đã uống bát trà đêm qua; bát sáng nay Leon chưa uống, đang để nguội trên bàn.
+- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon đã uống bát trà đêm qua; bát sáng nay Leon chưa uống.
 - Hob khai dư 200 pound lương; Leon chưa vạch.
-- Đá đen giàu carbon, cháy rất mạnh; chưa đốt thử.
+- Đá đen giàu carbon; chưa đốt thử.
+- Nước giếng bẩn do sườn dốc nhà ở và phân đổ xuống; 秋季病 là bệnh từ nước.
 
 **Con số đang chạy**
 | Mục | Giá trị |
@@ -69,19 +76,26 @@ Nửa đêm Leon đổ bát trà vào khe gạch sát tường, lau miệng bát
 | Lương | kho chung ~5800 pound dùng được (Hob nói 6000) + kho trang viên <200 pound mốc |
 | Khẩu phần | 1 pound/người/ngày → ~41 ngày |
 | Tới tuyết đầu mùa | ~87 ngày (tính từ Ngày 2); tuyết kéo dài nửa năm |
+| Người bệnh | bảy tám nhà có người tiêu chảy, nôn, sốt |
+| Tobi | còn khoảng 24 giờ (小七, tính từ chiều Ngày 2) |
 | Thể trạng Leon | yếu, đi một đoạn là thở dốc |
+
+**Lệnh đã ban**
+- Chỉ uống nước đã đun sôi; ai uống nước lã trừ ba ngày khẩu phần. Hob và dân làng chưa nhận lệnh.
 
 **Đồ vật / chi tiết đã xuất hiện**
 - Túi áo choàng len cũ của Leon: mẩu đá đen cỡ quả óc chó.
-- Phòng Leon: bát trà sáng nay đang nguội trên bàn; khe gạch sát tường (chỗ đổ trà).
-- Làng: hơn ba mươi nhà tranh, giếng đá vụn giữa làng, gà rụng lông bới bùn.
-- Kho chung: lán gỗ, khoá sắt gỉ, chìa Hob giữ trong ngực áo; 42 bao lớn, 16 bao nhỏ, vài sọt củ cải dại và đậu khô.
-- Hob chống gậy cong, đi khập khiễng.
+- Giếng: thành đá đen xếp thô, ròng rọc gỗ dây gai, không nắp, quanh giếng bùn nhão. Gàu gỗ nước vừa kéo lên đang đặt trên thành giếng.
+- Củi của làng: nhặt ở bìa 迷雾森林 từ mùa xuân, xếp sau từng nhà, chia theo đầu người cho mùa đông.
+- Nhà Bram/Mira: nhà gỗ ở cuối làng, hiên treo da thú phơi khô; Tobi nằm trên ổ rêu khô và rơm; Mira có dao xương lột da. Leon dặn Mira đừng cho Tobi uống nước lạnh.
+- Kho chung: chìa Hob giữ trong ngực áo. Hob chống gậy cong, đi khập khiễng.
 
 **Tuyến đang mở**
-- Khoảng trống lương: 41 ngày lương / 87 ngày tới tuyết, chưa kể nửa năm tuyết.
-- Mèo vờn chuột với Pell.
-- Mẩu đá đen chờ đốt thử.
+- Thế giằng co bên giếng: lệnh đun nước ↔ củi mùa đông.
+- Tobi: hạn 24 giờ.
+- Bram vào rừng ba hôm, chưa về.
+- Khoảng trống lương: 41 ngày lương / 87 ngày tới tuyết.
+- Mèo vờn chuột với Pell. Mẩu đá đen chờ đốt thử.
 
 ---
 
@@ -105,69 +119,82 @@ Leon皱了皱眉，抬手指了指冰凉的桌面，“太烫了咽不下去，�
 
 只要别在死前把村里的口粮抢光就行。
 
+**Hob cãi lệnh đun nước (đoạn 3):**
+
+“每家每户分了多少柴，都是按人头算死的！到了隆冬，雪能下一人深，外面连一根枯草都找不着！那些柴火是要留着在大雪封山的时候抗冻救命的！”
+
+“烧水？全村一百四十多口人，一天得烧多少锅开水？这柴火要是用来烧水，不到第一场大雪，各家的柴堆就得烧光！”
+
+**Mira (đoạn 3):**
+
+“……五天。”Mira咬了咬牙。
+
+“我爹是Bram，三天前进了迷雾森林打猎。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
 
-Leon收回手，若无其事地拍了拍袍子上的灰尘：“走吧。”
-村子的公共粮仓位于村后背风的土坡下，其实就是一座用原木胡乱拼凑起来的大木棚，门上挂着一把锈迹斑斑的大铁锁。
-Hob从怀里摸出一把磨得锃亮的铁钥匙，费力地拧开锁头，推开了那扇吱呀作响的厚木门。
-一股混合着干燥泥土、陈年麦秆和霉烂甜味的闷气迎面扑来。
-昏暗的光线从门口照进去，可以看到里面整整齐齐地码放着几十个粗麻布大口袋，角落里还堆着几筐干瘪发黑的脱水野萝卜和干豆角。
-“大人，都在这儿了。”
-Hob侧身让开，语气带着一丝刻意的可怜与试探，“村里一共收了四十二个大袋，十六个小袋，粗算下来，差不多有六千磅粮食……可这一百四十多口人，全指望这点东西熬过冬天了。”
-老村长把“六千磅”咬得极重，眼神不自觉地瞟向Leon的脸色。
-而Leon的视线只是在那些麻袋的体积和堆叠层数上扫了一圈。
-脑海中，小七的电子音迅速流淌出一连串冰冷的数据。
-「正在统计生命体征数据……山脚村落常住人口：143人。」
-「结合领主府邸3人，辖区当前共有146张进食口。」
-「正在通过包装体积与堆积密度测算物资总量……」
-「已剔除外层空隙、沙砾及不可食用杂质，可用口粮实际总重：约5800磅。」
-六千磅？
-这老头子张嘴就虚报了两百磅，显然是习惯性地给自己留了防灾的余量，生怕新来的领主按账面数字把粮食征走。
-Leon没有拆穿他，只是在心里默默拨动着这笔关乎生死的算盘。
-全领地一共146个人。
-按照最低生存标准，每人每天需要消耗1磅麦子吊命。
-146个人，一天就是146磅。
-5800磅粮食除以146，哪怕每天只喝稀得能照出人影的烂麦汤，撑死了也就只能维持大约41天。
-而四天前，收割月的月亮才刚刚圆满。
-在北境这片冻土上，初雪通常会在圆月后的三个月左右降临。
-距离大雪封山，整整还有87天。
-也就是说，在冰雪彻底把黑石领变成一座孤岛之前，他们的粮食就已经见底了整整一个半月。
-Leon走上前，伸手解开最近一个麻袋上的草绳，探手抓了一把干燥冰凉的黑麦粒。
-麦粒干瘪细小，表面泛着缺乏养分的暗褐色，在昏暗的光线下显得毫无生气。
-他缓缓摊开手掌，粗糙的麦粒顺着指缝滑落，沙沙地掉回麻袋里。
-87天后大雪封山。
-而手里的口粮，只够撑41天。
+“因为这水里有脏东西，喝了就会像Bram家的小崽子一样等死。”Leon冷冷地看着他。
+“那也不能烧啊！”
+Hob眼眶通红，声音尖锐得破了音，“大人！您刚从城里来，不知道这北境有多冷！村里的柴火全是在迷雾森林外围捡的干树枝，那是全村老小从开春攒到现在的命根子！”
+老头子指着各家屋后堆得整整齐齐的柴堆，指头剧烈颤抖着。
+“每家每户分了多少柴，都是按人头算死的！到了隆冬，雪能下一人深，外面连一根枯草都找不着！那些柴火是要留着在大雪封山的时候抗冻救命的！”
+Hob往前踉跄了半步，噗通一声将拐杖重重顿在泥水里。
+“烧水？全村一百四十多口人，一天得烧多少锅开水？这柴火要是用来烧水，不到第一场大雪，各家的柴堆就得烧光！”
+“大人，您这是要让全村人活活冻死在屋里啊！”
+尖锐的喊声在洼地上空回荡。
+周围紧闭的木门和茅草帘子被纷纷推开。
+几个原本缩在屋里的汉子拎着生锈的铁叉和柴刀走了出来，脚步沉重而迟疑。
+后面还跟着几个面黄肌瘦的妇人，手里牵着怯生生的孩子。
+十几个村民慢慢聚拢过来，踩着泥泞的碎石，无声地围在了洼地四周。
+没人敢大声叫骂，但一道道混杂着惊恐、麻木与绝望的目光，齐刷刷地落在了那个年轻的贵族身上。
+北境的规矩很简单：饥荒会杀人，但寒冬杀人更快。
+在他们看来，这位从大城市来的娇贵少爷，不过是在异想天开地挥霍他们保命的柴火。
+Hob喘着粗气，借着身后村民聚过来的势头，干瘪的身躯死死挡在了水井正前方，那根弯曲的木拐杖深深地扎在水井边的烂泥里。
+十几张麻木而阴郁的脸，整整齐齐地排在老村长身后，形成了一堵沉默的人墙。
+空气冷得像要结冰。
+“铮——”
+一声刺耳的铁器摩擦声突兀地响起。
+Gareth上前一步，那条完好的右臂肌肉紧绷，腰间的钢剑已经拔出半寸，露出一截森寒的刃口。
+老骑士独臂护在Leon身侧，冰冷的视线扫过前方的人群，杀气凛冽。
+对面的几个年轻村民下意识地往后缩了缩脖子，但看了一眼地上的水井，又咬着牙硬生生顶了回来。
+Leon站在原地，清瘦的身形在秋风中显得有些单薄。
+他看着横在面前的老村长，又看了一眼身后按剑的老骑士，目光最终落回了井沿上那桶散发着腥味的冷水上。
+水桶里的水微微荡漾，倒映着北境阴沉低垂的天空。
+谁也没有往后退哪怕半步。
 
-(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn thứ 3, khoảng 2000 chữ, bằng tiếng Trung. Nối tiếp ngay sau đoạn 2.
+Viết đoạn thứ 4, khoảng 2000 chữ, bằng tiếng Trung. Nối tiếp ngay sau đoạn 3.
 
 【Thiết lập mới (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
-- 秋季病: mỗi độ thu sang, trong làng nhiều người tiêu chảy, sốt; người già và trẻ nhỏ năm nào cũng có người chết. Dân làng coi là chuyện thường.
-- Mira: 16 tuổi, con gái thợ săn, tóc đỏ nâu buộc gọn, da rám nắng, tay chân nhanh. Mẹ mất, một mình chăm em trai. Thẳng tính, nói gắt, đứng thẳng trước quý tộc. Ở căn nhà gỗ cuối làng. Gọi Leon là 领主大人.
-- Tobi: em trai Mira, 7 tuổi. Đã tiêu chảy năm ngày, phân toàn nước có lẫn tia máu, sốt, môi nứt, mắt trũng; từ sáng nay uống vào là nôn ra.
-- Bram: cha Mira, thợ săn giỏi nhất làng, vào 迷雾森林 từ ba hôm trước. Chỉ được nhắc tới.
-- Giếng chung nằm ở chỗ trũng nhất làng. Phía trên dốc là các nhà tranh; sau nhà là đống phân gia súc và chỗ người làng đi vệ sinh.
-- Củi của làng gom từ mùa xuân ở bìa 迷雾森林, xếp sau từng nhà, đã chia sẵn cho mùa đông.
-- 小七 đọc Tobi qua những gì Leon nhìn thấy: mất nước nặng, nhiễm trùng đường ruột từ nước, 置信度 khoảng 80%; không bù nước thì Tobi suy kiệt trong 24 giờ.
+- Luật của vương quốc Aldermark: đất đai, giếng nước, rừng cây trong lãnh địa thuộc về lãnh chúa; nông nô dùng chúng nhờ ơn lãnh chúa. Người trái lệnh lãnh chúa phải đi lao dịch cho lãnh địa.
+- Xà và rui ở nửa mái sập phía đông của 领主府 bằng gỗ sồi, ngoài cháy sém, lõi khô.
+- Bếp 领主府 có một nồi đồng thau lớn, từng nấu cho cả đoàn tùy tùng khoảng ba mươi người. Hành lý Leon mang từ thành Varen còn một túi muối thô nhỏ.
+- Nhà Mira có một hũ mật ong rừng nhỏ Bram lấy về, cô đang để dành.
+- Hob: tự xưng 我, gọi Leon 领主大人; đứng chống gậy cong.
+- 小七 chỉ là giọng nói trong đầu Leon; lời 小七 đặt trong 「」.
+
+【Tiền tình】
+Bên giếng, Leon vừa ra lệnh cả làng chỉ uống nước đã đun sôi, ai uống nước lã bị trừ ba ngày khẩu phần. Hob chống gậy chắn trước miệng giếng, nói củi của làng đã chia đủ cho mùa đông, đun nước thì chưa tới tuyết đầu mùa đã hết củi; mười mấy dân làng đứng sau lưng ông. Gareth đã rút kiếm ra nửa tấc. Tobi còn khoảng 24 giờ.
 
 【Chuyện xảy ra trong đoạn này】
-Rời kho lương, Leon cùng Gareth và Hob đi qua làng. Leon thấy nhiều nhà có người nằm bẹp; Hob nói đó là 秋季病. Ở căn nhà gỗ cuối làng, Mira đang lau mặt cho Tobi. Cô đứng thẳng nói gắt với lãnh chúa; Gareth đặt tay phải lên chuôi kiếm, Leon giơ tay cản. Leon hỏi triệu chứng từng câu; Mira trả lời, và nhắc tới cha đang ở trong rừng. 小七 đọc Tobi và đặt hạn 24 giờ.
-Leon tới giếng chung, quay ròng rọc kéo lên một gàu nước, nhìn quanh dốc nhà phía trên, ghé sát gàu ngửi. 小七 đánh giá nước nhiễm bẩn, kèm 置信度. Leon ra lệnh ngay bên giếng: từ hôm nay, không ai uống nước giếng chưa đun sôi. Hob phản đối: củi đã chia cho mùa đông, đun nước cả làng là đốt sạch mùa đông của họ. Dân làng kéo tới quanh giếng, đứng sau lưng Hob.
+Chiều, bên giếng. Leon nói luật: giếng là của lãnh chúa, từ hôm nay lãnh chúa quản; nước uống do lãnh chúa đun, phát không sáng và tối ở khoảng đất trống cạnh giếng. Củi lấy từ xà gỗ ở nửa mái sập của trang viên; củi của các nhà giữ nguyên. 小七 tính sổ củi: một nồi lớn đun chung so với mỗi nhà một bếp, và số gỗ trên mái sập đủ đun nước uống cho cả làng khoảng 70–80 ngày, kèm độ tin cậy.
+Một gã to con trong đám đông gào lên rằng lãnh chúa muốn chiếm giếng; hắn xô người đứng trước để bước ra. Gareth vặn quặt tay hắn ra sau lưng, đè hắn úp mặt xuống bùn. Leon phạt hắn lao dịch: chẻ củi và trông lửa cho nồi nước, tới khi Leon cho thôi. Suốt lúc đó Hob đứng chống gậy cạnh giếng, nhìn. Leon giao cho Hob trông từng nhà: nhà nào có người uống nước lã thì trưởng làng cũng bị trừ khẩu phần như nhà đó. Hob hỏi lại Leon một chuyện thực tế về việc phát nước, nghe trả lời, rồi chống gậy đi báo từng nhà.
+Tối, nhà Mira. Nồi đồng đầu tiên đã sôi cạnh giếng. Leon mang tới một vò nước đun sôi để nguội, tự tay pha nước muối mật cho Tobi: khoảng một lít nước (chừng hai bát lớn), sáu thìa nhỏ mật ong của nhà Mira, nửa thìa nhỏ muối của Leon, đong bằng bát và thìa; dặn Mira cho uống từng thìa nhỏ, cách vài hơi thở lại một thìa, suốt đêm.
 
 【Những điểm bắt buộc】
-- Tobi là ca nặng nhất Leon tận mắt thấy; hạn 24 giờ.
-- Lệnh đun nước được nói ra bên giếng và bị phản đối vì củi; đoạn này kết thúc khi chưa ai chịu lùi.
-- Lời kể vào đầu Leon, Gareth, Hob hoặc Mira.
+- Nước sôi phát không; gã chống lệnh chịu lao dịch.
+- Củi đun nước lấy từ xà gỗ mái sập của trang viên; củi của dân giữ nguyên.
+- Con số: gỗ mái sập đủ khoảng 70–80 ngày nước uống; tỉ lệ nước muối mật như trên.
 
 【Tự do sáng tạo】
-Những nhà có người ốm trông ra sao, Mira và Leon đối đáp thế nào, Hob và dân làng phản đối bằng lý lẽ gì, Leon tính sổ củi và nước trong đầu thế nào — giao cho bạn. Có thể đặt tên một hai dân làng phụ.
+Gã to con tên gì, Leon nói luật bằng những lời nào, Hob hỏi chuyện gì và nghĩ gì (có thể vào đầu Hob), dân làng phản ứng thế nào, 小七 tính sổ củi ra sao, Mira làm gì khi Leon pha nước — giao cho bạn.
 
 【Kết đoạn】
-Đoạn dừng ở cảnh Hob chống gậy đứng chắn trước miệng giếng, mười mấy dân làng đứng sau lưng ông; Gareth đặt tay phải lên chuôi kiếm; Leon đứng đối diện, gàu nước vẫn còn trên thành giếng.
+Đoạn dừng ở nhà Mira: Mira đút cho Tobi một thìa nước muối mật, Tobi nuốt xuống.

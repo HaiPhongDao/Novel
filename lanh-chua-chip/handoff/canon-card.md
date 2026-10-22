@@ -15,7 +15,7 @@
 - Chạy mạnh thì Leon đau đầu, nặng thì chảy máu cam.
 
 **Nhân vật phụ**
-- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
+- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng (vẫn còn tay, không cụt) — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là bàn tay bỏ độc vào trà theo lệnh một người ở thành Varen. Lời kể chỉ đi vào đầu Leon khi có Pell.
 
 - **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy, lưng còng, chống gậy cong, đi khập khiễng, mắt sâu. Đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu. Lễ phép, kiệm lời, giữ của cho làng (khai dư số lương). Tự xưng 我, gọi Leon "领主大人".

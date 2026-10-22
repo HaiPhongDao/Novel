@@ -4,6 +4,7 @@
 |---|---|---|---|
 | S1 | 001 (bản 4), 002 | SI v2 + prompt đoạn 001 bản 4 | Bản 1–3 làm ở các session thử riêng |
 | S2 | 003, 004 bản 1 | `session-start.md` (hết đoạn 002 + prompt đoạn 003) | Gemini 3.8 Flash, thinking High, SI v2; Agent chạy AI Studio qua Claude in Chrome. 004 bản 1 VIẾT LẠI |
-| S3 | 004 bản 2 → | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 2) | |
+| S3 | 004 bản 2 | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 2) | VIẾT LẠI (Hob quỳ, 小七 chiếu hình) |
+| S4 | 004 bản 3 → | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 3) | 004 ĐẠT |
 
 Lượt 1: `archive/run-1/handoff/sessions.md`.
