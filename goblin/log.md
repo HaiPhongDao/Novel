@@ -18,3 +18,5 @@
 2026-10-23 | dự án | Tên trong chính văn giữ chữ Latin như đã đề xuất (Khoa, Gorr, Yeg, Zag, Nub) | Bản 1 dùng đúng | Agent (ghi log)
 2026-10-23 | doan-002 | Chốt. Mẹ Ổ lên trang: tứ chi teo, to như trâu (khớp "gần như không đi lại") | Đạt review | Agent (Tác giả bảo chạy tiếp)
 2026-10-23 | doan-003 | Mở đoạn 003 bằng việc Gorr xuống hố ăn thêm một con non (Ngày 3, còn 19) — nối chỗ dừng của 002, đúng luật "săn tay không thì tù trưởng xuống hố" | Chia điểm dừng khi viết brief | Agent (ghi log)
+2026-10-23 | doan-003 | Chốt. Sửa chính tả "这章没有" → "这里没有" (lời người viết lọt vào chính văn) | Đạt review | Agent (ghi log)
+2026-10-23 | doan-004 | Dây cung khoan lửa làm bằng vỏ trong cây liễu bờ suối xoắn lại; Snik là con non cùng ổ đã tự trèo ra khỏi hố | Chi tiết phụ cho prompt | Agent (ghi log)

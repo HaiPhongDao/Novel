@@ -31,3 +31,8 @@
 - Mẹ Ổ (巢母): to như trâu, tứ chi teo không đỡ nổi thân, nằm trong bùn ở ngách sâu nhất; Yeg xé thịt nhỏ đút cho bà.
 - Bộ lạc 127: ~70 trưởng thành (cao ~0,9 m, cầm gậy vót nhọn, đá), 37 con non ổ trước, 20 con non ổ của Khoa. Đội săn mười con.
 - Khoa leo đâu cũng gõ thử hai cái bằng đốt ngón tay trước khi dồn sức; Nub chép đúng thói quen đó.
+
+**Đã lên trang ở đoạn 3**
+- Bẫy số 4: ba que to bằng ngón cái khắc ngàm bằng mảnh đá sắc, đỡ một phiến đá phiến dẹt 3–4 kg; mồi ấu trùng bọ phân hoặc dế mù.
+- Khi bực Khoa búng ngón giữa vào thứ làm hỏng; Nub chép cú búng đó và cả động tác lấy lòng bàn tay vuốt gờ gỗ.
+- Suối Lạnh: bãi đá, bụi lau cao nửa người, cành khô và đá phiến dẹt.
