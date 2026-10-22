@@ -149,7 +149,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 ## 5b. Bàn giao với Gemini
 
 - Agent không gọi trực tiếp Gemini; Tác giả là cầu nối: dán prompt/ghi chú sửa vào Gemini, rồi lưu kết quả vào `chapters/doan-XXX.md`.
-- Gemini có **system instruction văn phong riêng của Tác giả** (bằng tiếng Trung) — đó là thẩm quyền cao nhất về cách viết. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
+- Gemini có **system instruction văn phong riêng của Tác giả** — đó là thẩm quyền cao nhất về cách viết. Bản đang dùng: `<ten-truyen>/gemini/si-wenfeng-en.md` (tiếng Anh, anchor giữ nguyên tiếng Trung); bản gốc tiếng Trung: `si-wenfeng-zh.md`. Prompt của Agent chỉ quy định **nội dung** (diễn biến, canon, nhân vật, xưng hô, thiết lập bàn tay vàng), không chép lại hay viết đè quy tắc văn phong.
 - Chi tiết mới Gemini tự đặt (địa danh, đồ vật, tên phụ) → Agent ghi nhận khi review, đề xuất Tác giả có đưa vào canon không.
 - Vì Gemini không nhớ bible, mỗi prompt phải tự mang theo thiết lập, tên và xưng hô liên quan tới đoạn đó.
 
