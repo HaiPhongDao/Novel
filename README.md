@@ -9,7 +9,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
 | [`goblin/`](goblin/README.md) | Goblin Khai Hoá (tên tạm) — thầy giáo hoá xuyên thành goblin non trong hang ăn thịt con non; giống loài bắt chước mọi thứ, trừ việc hiểu vì sao | Khởi động: bible, dàn ý arc 1, SI nháp — chờ Tác giả duyệt |
 | [`Mo-phong/`](Mo-phong/README.md) | Trăm Lần Chết Mới Lên Luyện Khí (tên tạm) — tester game xuyên thành tạp dịch ngũ linh căn, còn 90 ngày trước khi bị bán xuống mỏ; máy mô phỏng cho sống thử cả đời, chết, mang về một thứ | Khởi động: phân tích truyện tham khảo, bible/dàn ý arc 1/SI nháp — chờ Tác giả duyệt |
-| [`ky-si/`](ky-si/README.md) | Kỵ sĩ (tên tạm) — đề xuất kỵ sĩ giữ bến, luyện đội gác và phát triển thế lực | Đã phân tích mẫu, có bộ đề xuất v0.1 và brief 001; chưa có chính văn |
+| [`ky-si/`](ky-si/README.md) | Kỵ sĩ (tên tạm) — đề xuất kỵ sĩ giữ bến, luyện đội gác và phát triển thế lực | Đã chạy hai bản thử 001, lưu nguyên văn và review; chưa chốt đoạn |
 
 ## Cấu trúc
 

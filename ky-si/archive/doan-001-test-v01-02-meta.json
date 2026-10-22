@@ -1,0 +1,16 @@
+{
+  "status": "reviewed_rewrite_required_before_finalization",
+  "model": "Gemini 3.8 Flash",
+  "modelId": "gemini-3.8-flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "systemInstructionTitle": "Kỵ sĩ - SI v0.1 test02",
+  "sessionUrl": "https://aistudio.google.com/prompts/1aC6MxGrvVXl7Ybjn13_X7bCRvyHPVEfZ",
+  "proseCharacters": 3200,
+  "hanCharacters": 2472,
+  "nonemptyLines": 71,
+  "medianLineCharacters": 35,
+  "proseSha256": "81fdb8552bb2e49c8673cad7efad4c4bc17ea7d2fb9fea48816bb7808551832f",
+  "proseFnv1aUtf16": "dd189e5d",
+  "retrieval": "Rendered model turn text saved directly and compared for exact equality; UI control labels removed; prose otherwise unchanged."
+}

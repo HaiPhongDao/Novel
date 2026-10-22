@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Đã tiếp nhận mẫu và lập bộ khởi động v0.1. Các tên, luật bảng, bối cảnh và dàn ý mới là **đề xuất**, chưa phải canon được Tác giả duyệt. Chưa có chính văn hoặc đoạn chốt.
+**Trạng thái 23/10/2026:** Đã chạy Writer theo yêu cầu Tác giả, có hai bản thử đoạn 001 và review riêng. Bản 02 sửa được tiền, quân số và số phà; còn lỗi tự đặt dữ kiện vận hành và giọng cần chỉnh. Các thiết lập vẫn là bản làm việc; chưa chốt đoạn.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -19,9 +19,9 @@
 
 ## Writer
 
-- [SI tối thiểu v0.1](gemini/system-instruction.md): 2.914 ký tự, dựa `../writer/SI-template`; chưa chạy hoặc lưu lên AI Studio.
+- [SI tối thiểu v0.1](gemini/system-instruction.md): 2.914 ký tự, đã chạy trên AI Studio với Gemini 3.8 Flash, Thinking High, Grounding tắt. Bản SI của session 01 đặt tên `Kỵ sĩ - SI v0.1`.
 - [Kế hoạch thử](gemini/ke-hoach-thu.md), [trích mẫu hiệu chỉnh](gemini/mau-giong.md), [gói thử mở đầu](briefs/session-test-001.md).
-- Các file này chuẩn bị cho bản thử; cập nhật sau phản hồi hướng truyện của Tác giả trước khi chạy. Mỗi lần thử dùng session riêng, lưu bản gốc vào archive.
+- Hai bản thử dùng session riêng, bản gốc nằm trong archive. Tác giả yêu cầu chạy Writer là cho phép thử thiết lập này; chưa suy thành duyệt mọi chi tiết Writer thêm.
 - Checklist: [lỗi riêng](gemini/review-blacklist.md) cùng `../chung/review-blacklist.md`.
 - Công cụ `build_pack.py` cần đã có chính văn; gói thử đầu được ghép riêng, không tạo đoạn giả.
 
@@ -29,6 +29,7 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | Bản thử v0.1, chưa gửi Writer | Chưa có | Chưa có | Chưa |
+| 001 / thử 01 | Đã chạy | [Nguyên văn](archive/doan-001-test-v01-01.md) | [VIẾT LẠI](reviews/doan-001-test-v01-01.md) | Chưa |
+| 001 / thử 02 | Đã chạy, làm rõ dữ kiện | [Nguyên văn](archive/doan-001-test-v01-02.md) | [VIẾT LẠI trước khi chốt](reviews/doan-001-test-v01-02.md) | Chưa |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).
