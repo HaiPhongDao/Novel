@@ -1,15 +1,9 @@
 {
-  "latest": 4,
-  "cash": 32,
-  "receivables": [
-    {
-      "work": "Hai xe phụ tùng",
-      "silver": 1,
-      "status": "mới xe thứ nhất rời bến, chưa nhận"
-    }
-  ],
+  "latest": 5,
+  "cash": 33,
+  "receivables": [],
   "sessionUrl": "https://aistudio.google.com/prompts/1JFDM1lrTk0r-6NFGcr99i7z5HNxUFRk1",
-  "sessionSegments": 1,
+  "sessionSegments": 2,
   "decision": "SỬA NHẸ",
   "authorApproved": false
 }

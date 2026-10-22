@@ -33,3 +33,9 @@ Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lờ
 Alden đồng ý và trả Oswin 40 đồng cả công/vật liệu từ sổ chủ bến. Thợ thay kê, Mira kiểm rồi gọi xe. Nhóm Dain hướng dẫn; một người mới vội lại gần ngựa bị Dain kéo ra kịp, không ai bị thương. Toma đổi cách báo hướng; xe đầu lên một phà, phà chở riêng xe đó sang bờ kia.
 
 Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công thêm một bạc chưa nhận. Dain vừa đề nghị nghỉ luân phiên; Rowan chưa đáp. Các số kỹ thuật tự thêm không dùng làm thông số cố định.
+
+### Đoạn 005 — hoàn tất xe thứ hai, nhận công thêm
+
+Rowan chốt hai người nghỉ, nhóm sân giữ việc. Khi phà giao xe đầu và về rỗng, xe phụ tùng hai xuống riêng; một người mới hỏi trước làm, phối hợp có tiến bộ. Alden xác nhận hai lượt, trả một bạc công riêng; tiền mặt32→33. Sửa bến40 đồng không chạm quỹ đội.
+
+Một khách chưa tên hỏi hộ tống xe nhẹ thuốc nhuộm/dược thảo ngày mai theo đường phía nam tới kho ngoài Greyford. Chưa bàn giá hoặc chọn người;006 bắt đầu Rowan đáp.

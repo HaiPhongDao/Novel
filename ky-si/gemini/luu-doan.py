@@ -13,6 +13,7 @@ import re
 import shutil
 import subprocess
 import sys
+from decimal import Decimal
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -37,12 +38,14 @@ def main():
     if int(re.search(r"doan-(\d+)", previous.name)[1]) + 1 != int(n):
         raise ValueError("Đoạn phải nối đúng số kế tiếp")
     ledger = spec["ledger"]
-    if ledger["before"] + sum(ledger["receipts"]) - sum(ledger["expenses"]) != ledger["after"]:
+    amount = lambda value: Decimal(str(value))
+    if (amount(ledger["before"]) + sum(map(amount, ledger["receipts"]))
+            - sum(map(amount, ledger["expenses"]))) != amount(ledger["after"]):
         raise ValueError("Số dư tiền không khớp")
     old_progress = STORY / "handoff" / "progress.json"
     if old_progress.exists():
         old = json.loads(old_progress.read_text(encoding="utf-8"))
-        if old["cash"] != ledger["before"]:
+        if amount(old["cash"]) != amount(ledger["before"]):
             raise ValueError("Tiền đầu không khớp checkpoint trước")
     stem = f"doan-{n}-writer-{attempt}"
     archive = STORY / "archive" / (stem + ".md")

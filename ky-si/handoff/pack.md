@@ -68,20 +68,23 @@ Alden đồng ý và trả Oswin 40 đồng cả công/vật liệu từ sổ ch
 
 Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công thêm một bạc chưa nhận. Dain vừa đề nghị nghỉ luân phiên; Rowan chưa đáp. Các số kỹ thuật tự thêm không dùng làm thông số cố định.
 
+### Đoạn 005 — hoàn tất xe thứ hai, nhận công thêm
+
+Rowan chốt hai người nghỉ, nhóm sân giữ việc. Khi phà giao xe đầu và về rỗng, xe phụ tùng hai xuống riêng; một người mới hỏi trước làm, phối hợp có tiến bộ. Alden xác nhận hai lượt, trả một bạc công riêng; tiền mặt32→33. Sửa bến40 đồng không chạm quỹ đội.
+
+Một khách chưa tên hỏi hộ tống xe nhẹ thuốc nhuộm/dược thảo ngày mai theo đường phía nam tới kho ngoài Greyford. Chưa bàn giá hoặc chọn người;006 bắt đầu Rowan đáp.
+
 ---
 
-## 3. Trạng thái sau đoạn 004
+## 3. Trạng thái sau đoạn 005
 
-Agent review SỬA NHẸ, tiếp tục theo yêu cầu Tác giả, không gán duyệt riêng.
+Ngày đầu, sau việc phà ở Stonewake. Khách chưa tên vừa hỏi thuê hộ tống một xe nhẹ thuốc nhuộm/dược thảo ngày mai từ bến qua đường phía nam tới kho ngoài Greyford. Rowan chưa nhận, chưa bàn giá;006 mở anh hỏi rõ phạm vi rồi tính đội giữ bến.
 
-Ngày đầu, tại đầu dốc Stonewake, phà đang đưa riêng xe phụ tùng thứ nhất sang bờ đối diện. Xe phụ tùng thứ hai và bốn ngũ cốc ở bãi chờ, đợi phà rỗng về. Dain đang đề nghị cho Toma và người vừa suýt chạm bánh ra nghỉ, còn ông và một người giữ lối. Câu đề nghị thêm đổi người từ nhóm sân chưa thi hành; 005 nối Rowan chốt nhiệm vụ và nghỉ đủ hồi sức.
+Tiền mặt33 bạc =32+1 công thêm đã được Alden trả. Hai xe phụ tùng đã hoàn tất từng lượt một phà, phí phà riêng. Oswin được chủ bến trả40 đồng riêng. Không còn khoản công xe chờ thu. Phòng vệ24/30 ngày, nhận12 trong tổng24.
 
-- Dain + Toma + hai người mới = 4 trong nhóm đường dẫn. Cựu binh còn lại + ba người mới =4 tại sân/bãi; phạm vi này không tự chuyển hết xuống dốc. Rowan ngoài tám; Mira/Alden/Oswin/đội phà ngoài quân số.
-- Kê đã thay, Mira kiểm và gọi xe đầu; không ai bị thương. Oswin nhận 40 đồng do Alden/chủ bến trả riêng. Một bạc=100 đồng.
-- Tiền Rowan vẫn32 bạc. Công thêm1 bạc sau cả hai xe là khoản chưa nhận. Phòng vệ24 bạc/30 ngày, đã nhận12 trong tổng24. Sửa bến/phà đi sổ chủ bến.
-- Một phà. Phà phải giao xe đầu ở bờ kia và quay về rỗng trước xe thứ hai. Hàng chính phụ tùng máy xay Greyford. Các số tải/độ dài/thời gian quay vòng tự thêm không dùng làm thông số đã đo.
-- Toma vẫn 长矛收势13/100, 训练积累0. Người mới mệt, cần nghỉ. Chưa có thêm kỹ năng/chức năng bảng.
-- Đích 005: chốt nghỉ và người gác, đón phà về, hoàn tất xe thứ hai, xác nhận rồi nhận1 bạc, tiền thành33. Sau đó một khách hỏi việc hộ tống xe nhẹ tới kho Greyford ngày mai; giá/chọn người ở006.
+Tám người gác: Dain+Toma+hai mới ở nhiệm vụ đường dẫn, cựu binh còn lại+ba mới tại sân. Lệnh nghỉ/đổi ca cần vẫn có người giữ bến; câu tám người cạnh dốc không thay phân công. Rowan ngoài8. Người mới không bị thương, đã được nghỉ sau việc; bữa ăn cải thiện là lệnh chưa có khoản mua thật.
+
+Toma 长矛收势13/100, 训练积累0, chưa có mục mới. Chỉ Rowan biết bảng. Sàn kê đã sửa; các số tải/thời gian tự thêm không chốt. Cảnh006 giữ điểm nhìn Rowan, giọng hỏi đáp đủ ý. Khách là người làm cho thương hội bờ đối diện theo lời tự giới thiệu; cần giấy/người xác nhận nếu dùng để ký.
 
 ---
 
@@ -97,26 +100,21 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
-Toma这会儿没有慌，他深深吸了一口带着腥气的江风，虽然手臂和腰背还因先前的疲惫有些发酸，但动作依然按照条令做足了。他不再冲驭手大吼，而是快步绕到车后右侧，两手紧紧攥着备用的粗木止退楔，眼睛死死咬着轮后半尺的位置，步步紧跟。
-“慢下，车头对准白线，往左带半寸！”Toma一边跟着走，一边大声报着位置。
-车夫听到了明确的方向，稳住心神，手腕一抖，硬是将挽马重新拉回引道正中。
-车轱辘缓缓搭上了新修的斜坡托木。
-只听得橡木板发出一声沉闷的承重声，底下的红松新梁牢牢吃住了分量，纹丝不动，连一丝碎屑都没往下掉。车轮顺顺当当地滚过跳板，平稳压上了渡船厚重的甲板。
-船身的吃水猛地下沉了半尺，激起一圈浑黄的浪花，但缆绳绷得笔直，整条船在Mira两名水手的撑杆下稳稳咬住了水流。
-水手迅速上前，用两根粗麻绳和木楔子将马车的四只轮子全部绞死在甲板的铁环上。
-“第一车妥了！”水手大声回报。
-Mira看了一眼吃水线，朝岸上挥了挥手：“解缆！先过这一车！”
-粗重的缆绳被甩上船头，渡船顺着横江拉索的力道，在两根长篙的撑动下缓缓脱离码头，载着那一车黑沉沉的生铁机件，破开江面泛着白沫的水流，朝着对岸摆渡过去。
-第一趟算是顺顺当当送走了。
-平地上，第二辆装满齿轮的重车和那四辆粮车依然老老实实停在原地。渡船过江、卸车、再空船拉回来，来回一趟少说也得两三刻钟。
-那名刚才差点被碾断脚的新兵依然僵直地站着，两只手死死握着长矛，骨节发白，肩膀绷得像两块石头。Toma抹了一把额头上的虚汗，倚着长矛站在引道边缘，呼吸有些粗重。
-Rowan抬手摸了摸腰间的皮囊，三十二枚银币沉甸甸地贴着大腿。
-这一趟还没完，那一枚银币的护送酬劳，得等第二辆车也安稳落到对岸才能揣进怀里。
-他迈步走到引道口，目光在几名新兵发僵的腿脚上扫过，最后落在Dain身上。
-“船回来还得些工夫，这帮新崽子浑身绷得跟弓弦似的，再这么傻站半个时辰，等第二辆车下来，腿肚子都得抽筋。”Rowan低声开口，“引道不能空，但人得喘口气。Dain，按你的章程，怎么倒腾着让他们喝口水、松松筋骨，又不误了看路？”
-Dain收回看向江面的目光，转头打量了手下几人一眼，胡子拉碴的脸上露出一抹老兵特有的精明，开口道：
-“大人，让Toma带着那个吓破胆的崽子先退到后面篱笆边上，矛放平，喝两口水把气理顺；我和剩下这个新兵往前压半步，正好顶在引道最窄的口子上，等过了十息，再把平地守粮车的那两个换下来……”
+“Rowan队长，两趟重车全过了，引道没堵，也没伤着人。”Alden将那枚银币递了过来，“按原先讲好的，护送这两辆大件额外给一枚银币。你点一点。”
+Rowan伸手接过银币，指腹在冰冷坚硬的银币边缘摩挲了一下。
+这是他来到Stonewake渡口后，靠着手下这支队伍额外赚到的第一笔现钱。原先接下的守备契约是一个月二十四枚银币，已经预支了十二枚；渡口修缮和木料花费的四十个铜钱全归Alden的东家出，分文没动他的账；如今加上这一枚，他腰包里的现钱正好凑成了三十三枚银币。
+钱数虽小，但只要这支队伍能撑得住场面，营生便算真正扎下了根。
+“数目没错，Alden总管是个爽快人。”Rowan将银币收进皮囊，系好抽绳。
+Alden扯了扯嘴角，摆了摆手：“既然两辆重车都过了，后头那四辆粮车就好办了，随便垫两脚就能运走。你们也可以喘口气了。”
+Rowan转过身，对身旁的Dain说道：“等船回来，让平地上的兄弟也撤下来。天色不早了，轮换着去河滩边洗把脸，今晚营地里让伙夫多放两勺猪油，把燕麦粥煮得浓稠些，给新兵们每人多分半块麦饼。”
+“嘿，有油水喝，那帮小子准得乐翻天。”Dain笑着将长矛扛在肩上。
+正说话间，一个一直站在渡口栈桥边观望的男子迈步走了过来。
+那人约莫三十多岁，身上披着一件防风的羊毛短呢斗篷，脚下踩着一双沾满尘土的长筒皮靴，腰间挂着一只扁平的牛皮文书袋，打扮得像是个行脚管事或者货栈押运人。他没有靠近武器，只是在两步开外停住脚，目光在Rowan身上的轻甲和几名士兵整齐的站姿上打量了一番，客客气气地摘下了帽子。
+“这位长官，想必就是Rowan队长吧？”男子微微欠身，语气试探而谨慎。
+Rowan看着他：“是我。有事？”
+那男子笑了笑，指了指平地外围一条不起眼的碎石岔道，低声说道：
+“方才看了片刻，Rowan队长带出来的兵确实扎实，令行禁止，比那些四处游荡的雇佣佣兵强出太多。在下是替对岸一家商行办差的，明日一早，有一辆装载精细染料和药草的轻货马车要从Stonewake出发，走南边的小道送往Greyford城外的货栈。那条道有些不太平，常有流民和毛贼游荡，在下想雇几位精干兄弟随车护上一趟……不知道Rowan队长接不接这趟差事？”
 
-(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)

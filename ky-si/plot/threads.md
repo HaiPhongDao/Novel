@@ -17,3 +17,7 @@ K01: Toma thử giữ khoảng cách với dây chùng, hỏi rồi sửa. K02: 
 ### Cập nhật 004
 
 K01: người mới còn vội dưới tiếng xe, được Dain kéo khỏi đường bánh kịp; Toma sửa cách báo hướng. K03: Oswin được trả công riêng, Mira kiểm và quyết định lượt đầu.
+
+### Cập nhật005
+
+K02: đã thực nhận1 bạc công thêm, chi sửa riêng chủ bến. K01: người mới hỏi trước làm thay vội lao vào. K05: có đề nghị việc ngoài, cần quyền nhận và người giữ bến.

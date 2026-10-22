@@ -21,3 +21,7 @@ Ngày đầu buổi sáng: thỏa thuận công thêm một bạc sau hai xe, ki
 ### Diễn biến làm việc 004
 
 Ngày đầu: thay kê, chủ bến trả Oswin40 đồng; xe phụ tùng đầu rời bến riêng, xe thứ hai chờ. Tiền Rowan32, công thêm chưa nhận.
+
+### Diễn biến làm việc005
+
+Ngày đầu: phà quay về rỗng, đưa xe phụ tùng thứ hai, Alden trả1 bạc, Rowan có33. Khách hỏi việc hộ tống ngày mai.
