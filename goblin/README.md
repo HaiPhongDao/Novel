@@ -20,12 +20,12 @@
 
 ## Writer
 
-- SI: `gemini/system-instruction.md` (nháp v0, 11.441 ký tự, 7 mục, 7 anchor từ truyện tham khảo). Chưa lưu lên AI Studio — khi lưu đặt tên **"Goblin Khai Hoa - SI"**.
+- SI: `gemini/system-instruction.md` (nháp v0, 11.441 ký tự, 7 mục, 7 anchor từ truyện tham khảo). Đã lưu lên AI Studio 23/10, tên **"Goblin Khai Hoa - SI"**.
 - Theo `../writer/SI-template` (hướng dẫn 1): viết thử đoạn 001 vài bản ở session riêng trước khi chốt SI.
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ | ⏳ | | |
+| 001 | ✅ | bản 1 (23/10) | ⚠️ sửa nhẹ — `reviews/doan-001.md` | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
