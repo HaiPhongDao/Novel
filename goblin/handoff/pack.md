@@ -51,12 +51,18 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Khi bực Khoa búng ngón giữa vào thứ làm hỏng; Nub chép cú búng đó và cả động tác lấy lòng bàn tay vuốt gờ gỗ.
 - Suối Lạnh: bãi đá, bụi lau cao nửa người, cành khô và đá phiến dẹt.
 
+**Đã lên trang ở đoạn 4**
+- Cung khoan lửa của Khoa: dây vỏ trong cây liễu bện ba sợi, que khoan gỗ cứng dài 20 cm, ván gỗ thông có lỗ và rãnh V, hòn cuội lõm làm tay đè, nùi bông lau; làm dưới gốc liễu, khuất sau bờ đất bờ Suối Lạnh. Lửa lần đầu: chạng vạng Ngày 7.
+- Khoa nói tiếng goblin bằng câu cụt ("肉，管饱。").
+- Snik: con non cùng ổ, gầy, tai to, mắt xanh, nhanh tay; hỏi 为什么. Canh cửa hang lúc chạng vạng, kêu tiếng chim ba lần làm ám hiệu.
+- Zag cao hơn 60 cm ở Ngày 8, cầm gậy gỗ cứng; bốn con non to xác cùng ổ theo Zag.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
 
 ### Đoạn 1 — Ngày 1
-Khoa tỉnh trong hố ổ (sâu ~1,5 m, rộng ~2,5 m, nền phân dơi dày) giữa 21 con non vừa nở; nhớ cú lật xe trên đèo Hà Giang. Đặt tên trong đầu: Zag (to nhất, đạp con khác) và Nub (đầu to, gầy, nằm sát Khoa, nhìn không chớp). Sau hố, trong ngách sâu, có khối thân thể to như con bò đang thở. Yeg cầm than hồng tới mép hố; Gorr nhảy xuống nắn bụng từng con. Khoa vùi vào phân dơi giả chết, bị nhấc lên nắn rồi ném lại. Gorr chọn con béo, bám mấy hòn đá lồi trên vách leo lên, ngồi mép hố vặn cổ ăn; Yeg quay mặt đi. Yeg ném xuống một con chuột chết rồi đi. Còn 20. Khoa thề không ăn đồng loại, tính xem Gorr bao lâu xuống một lần. Zag giành con chuột, quay đầu nhìn Khoa; Nub vẫn nhìn Khoa.
+Khoa tỉnh trong hố ổ giữa 21 con non; Gorr xuống hố ăn một con béo, Khoa vùi phân dơi giả chết thoát. Đặt tên Zag (to, bắt nạt), Nub (đầu to, nhìn không chớp). Còn 20.
 
 ### Đoạn 2 — đêm Ngày 1 → chiều Ngày 3
 Khoa nhường con chuột cho Zag, leo khỏi hố bằng mấy hòn đá Gorr đã bám, gõ thử mỗi hòn hai cái; Nub leo theo, gõ đúng hai cái ở từng hòn. Đội săn mười con mang về hai con thỏ (~3 kg); Gorr ngồi tảng đá xanh giữa hang ăn trước. Khoa đếm: ~70 trưởng thành + 37 con non ổ trước + 20 trong hố = 127; mỗi con chưa tới 24 g. Khoa theo Yeg vào ngách sâu, thấy Mẹ Ổ (to như trâu, tứ chi teo) được Yeg đút thịt. Nghe hai con trưởng thành: "昨天，没肉。首领，下坑。吃崽，饱。" Ba ngày Khoa và Nub ăn dế mù, ấu trùng bọ phân; Khoa dài ~nửa mét. Chiều Ngày 3 đội săn về tay không; Gorr rút dao khỏi khe đá, đứng dậy, mắt phải nhìn về lối vào hố ổ.
@@ -64,30 +70,33 @@ Khoa nhường con chuột cho Zag, leo khỏi hố bằng mấy hòn đá Gorr 
 ### Đoạn 3 — chiều Ngày 3 → rạng sáng Ngày 6
 Gorr cầm dao đi ngang mỏm đá nơi Khoa ấn đầu Nub nằm im, xuống hố xách một con non gầy, ngồi mép hố ăn, rồi về tảng đá cắm dao, ngủ. Còn 19 (17 trong hố). Khoa tính: Gorr 2–3 ngày xuống một lần thì 17 con non chưa tới hai tháng → phải tự kiếm thịt ngoài hang. Chạng vạng Ngày 4, Khoa dắt Nub ra Suối Lạnh, khắc ngàm bằng mảnh đá sắc, lắp bẫy số 4 đỡ phiến đá 3–4 kg, mồi ấu trùng bọ phân. Lần đầu sập — Khoa búng ngón giữa vào phiến đá; lần hai quá nhạy; lần ba được. Nub xem đủ ba lần rồi tự lắp một cái y hệt cách đó 5 m, chép cả động tác vuốt gờ gỗ và cú búng ngón giữa. Rạng sáng Ngày 6: bẫy Khoa trống, bẫy Nub có một con chuột đồng ~200 g. Nub há miệng định cắn sống; Khoa chộp cổ tay nó.
 
+### Đoạn 4 — rạng sáng Ngày 6 → rạng sáng Ngày 8
+Khoa giật con chuột khỏi miệng Nub ("不能生吃"), giấu dưới phiến đá trong lạch nước. Chạng vạng Ngày 6 dưới gốc liễu, Khoa tước vỏ liễu xoắn dây, làm cung khoan lửa; dây đứt, bện lại ba sợi; khói có mà than không bắt. Nub làm một bộ y hệt, chép cả cú ngậm ngón tay rách da. Chạng vạng Ngày 7 bẫy thêm hai chuột (3 con, ~600 g); Khoa quỳ dồn sức, có lửa, nướng ba xiên. Snik (con non cùng ổ, tai to, nhanh tay) chộp một xiên rồi chạy; Khoa không đuổi, mặc cả bằng tiếng goblin: mỗi chạng vạng Snik canh cửa hang, có ai tới thì kêu tiếng chim ba lần, đổi lấy một phần thịt. Snik hỏi vì sao phải nướng; Khoa: thịt sống có giun, nướng chín thì lớn. Rạng sáng Ngày 8 ba con dập lửa, lấp tro; dưới cửa hang Zag (cao hơn 60 cm, cầm gậy) và bốn con non to xác chắn đường, Zag kề mũi sát mặt Khoa ngửi mùi thịt nướng.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 3)
+## 3. Trạng thái hiện tại (hết đoạn 4)
 
-**Thời điểm:** rạng sáng Ngày 6, sương mù trên Suối Lạnh.
-**Có mặt:** Khoa và Nub ở bụi lau bờ Suối Lạnh, dưới chân đồi Hang Dơi. Nub cầm con chuột đồng chết (~200 g) vừa lấy từ bẫy của nó; Khoa đang nắm chặt cổ tay Nub. Bẫy của Khoa cách 5 m, vẫn dựng, mồi đã khô.
+**Thời điểm:** rạng sáng Ngày 8, sương mù.
+**Có mặt:** Khoa, Nub, Snik ở dốc đá vụn ngay dưới cửa Hang Dơi, vừa từ Suối Lạnh về, bụng no, người còn mùi thịt nướng. Zag (cao hơn 60 cm, cầm gậy gỗ cứng) và bốn con non to xác cùng ổ chắn lối lên; Zag vừa bước tới, kề mũi sát mặt Khoa mà ngửi.
 
 **Nhân vật chính biết**
-- Đội săn về tay không thì Gorr xuống hố ăn con non; Gorr đã ăn hai con (ngày 1, ngày 3).
-- Bẫy số 4 dùng được ở bờ suối; Nub xem ba lần là lắp y hệt, chép cả động tác thừa.
-- Ra khỏi hang lúc chạng vạng và ban đêm thì mắt nhìn rõ; bộ lạc ngủ, không ai để ý hai con non.
+- Nhóm được lửa bằng cung khoan (dây vỏ liễu bện ba sợi); bộ cung giấu ở gốc liễu bờ Suối Lạnh, tro đã lấp.
+- Bẫy số 4 ở bãi đá bờ suối bắt được chuột đồng; Nub lắp được bẫy và cung khoan y hệt Khoa.
+- Snik nhận canh cửa hang lúc chạng vạng, kêu tiếng chim ba lần khi có ai tới, đổi lấy một phần thịt.
+- Gorr ăn con non khi đội săn về tay không.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Bộ lạc | 126 (~70 trưởng thành, 37 con non ổ trước, 19 con non ổ của Khoa) |
-| Con non ổ của Khoa | 19 — Khoa và Nub ở ngoài, 17 (cả Zag) trong hố |
-| Thịt trong tay | 1 chuột đồng ~200 g |
-| Thân Khoa | dài hơn nửa mét |
-| Ngày tới tuyết đầu mùa | còn ~54 ngày |
+| Con non ổ của Khoa | 19 — ngoài hố: Khoa, Nub, Snik, Zag + 4 con theo Zag; trong hố: 11 |
+| Thịt đã bắt | 3 chuột đồng (~600 g), đã ăn hết |
+| Ngày tới tuyết đầu mùa | còn ~52 ngày |
 
 **Tuyến đang mở**
-- Chuột sống: Khoa chưa cho Nub ăn sống; lửa chỉ có ở đống than của Yeg.
-- Gorr sẽ xuống hố lần nữa khi đội săn về tay không.
+- Zag ngửi ra mùi thịt nướng trên người Khoa.
+- Lửa và bẫy là bí mật của Khoa, Nub, Snik; lửa trong hang vẫn chỉ có đống than của Yeg.
 
 ---
 
@@ -131,42 +140,53 @@ Khoa看着那块立得笔直的石板，又看了看Nub那一脸庄重的神情�
 
 这操蛋的种族天赋，连无意义的泄愤动作都给抄过去了。
 
+**Đoạn 4 — Khoa mặc cả với Snik**
+
+“肉，管饱。”
+
+Khoa盯着Snik，伸出一根指头指向山坡上方的洞口。
+
+“每天，傍晚，蹲上面，看洞口。”
+
+“有人来，学鸟叫，学三声。”
+
+“肉，有你一份。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
 
-只见Nub捡起了一块带刃的石片，在枯枝堆里挑了三截差不多粗细的树枝，学着Khoa刚才的动作，双膝夹住木头，用石片飞快地削凿起来。
-它的动作有些笨拙，握石片的姿势甚至有些别扭，但每一刀切下去的位置、凹槽的角度，竟然跟Khoa刚才修整后的模板分毫不差。
-连削掉木皮后习惯性用手掌抹平毛刺的多余小动作，它都照单全收。
-不到十分钟，Nub就拖出了一块厚重的扁石板。
-它熟练地抓了只盲眼蟋蟀穿在横木上，单手顶着石板，另一只手把三根木棍熟练地卡合在一起。
-在准备松手的瞬间，Nub停顿了一下。
-这只干瘦的小哥布林极其严肃地抬起右手，伸出细长焦绿的中指，对着石板表面狠狠弹了一下。
-叮！
-弹完这一指头，Nub才小心翼翼地收回双手。
-石板稳如磐石，4字结构牢牢支撑着重量。
-Khoa看着那块立得笔直的石板，又看了看Nub那一脸庄重的神情，嘴角忍不住狠狠抽搐了两下。
-这操蛋的种族天赋，连无意义的泄愤动作都给抄过去了。
-天色彻底黑透，接着又在漫长的熬夜中慢慢泛白。
-哥布林幼崽的新陈代谢极快，肚子里昨晚吃的那点甲虫早已消耗殆尽，饥饿感像小刀一样刮着胃壁。
-到了第六天的后半夜，微凉的晨雾开始在冷溪上方弥漫。
-天际刚泛起一丝鱼肚白。
-两只小身影再次悄无声息地溜出了洞穴，潜伏到芦苇丛边缘。
-Khoa首先摸到了自己的陷阱旁。
-扁石板依旧支愣在那里，横木上的粪甲虫幼虫已经风干萎缩，连一根老鼠毛都没碰到。
-空军。
-Khoa自嘲地扯了扯嘴角，心说工科生的理论在荒野里果然经常挨耳光。
-他直起身子，看向五米外Nub的那个陷阱。
-原本支起来的扁平页岩，此刻已经重重地拍在了泥地上。
-塌了！
-Nub像只敏捷的野猫一样窜了过去，伸出爪子一把掀开了沉重的石板。
-石板下方，一团灰褐色的毛茸茸躯体正软塌塌地陷在湿泥里。
-那是一只体型肥硕的田鼠，脑袋被巨石砸得凹陷碎裂，粗短的身躯足有成年哥布林巴掌那么大，少说也有两百多克重。
-它甚至还在微微抽搐，浑身散发着新鲜皮毛和温热血腥的味道。
-Nub那张原本木讷的绿脸瞬间裂开，咧到了耳根处，露出一嘴细碎尖锐的乳牙。
-纯粹的野兽本能瞬间冲垮了理智。
-Nub一把抓起那只满是泥浆的死田鼠，喉咙里发出渴望至极的尖细咕噜声，张开大嘴，对着田鼠血肉模糊的脖颈就要狠狠撕咬下去。
-啪！
-一只覆盖着灰绿角质层的小手如铁钳般探出，一把死死钳住了Nub的手腕。
+这里没有任何社会契约，但生存逻辑是通用的。
+Snik眼珠子转得飞快，视线在烤肉和Khoa平静的脸上来回扫动。
+这个小偷的智力明显比同龄幼崽高上一截。
+它狠狠咽了一口唾沫，指着被炭火烤得滋滋冒油的田鼠，突然歪了歪脑袋，挤出几个破碎的词。
+“为什么……要烤？”
+“生肉，也能吃。”
+对野生哥布林来说，火除了会烫死人、晃瞎眼之外，没有任何意义。
+吃生肉才是它们的本能。
+“生肉，肚里长虫，烂肚子，死。”
+Khoa撕下一条烤得酥脆的后腿肉，扔进嘴里，嚼得满嘴流油。
+久违的熟肉香气充斥着口腔，虽然没有盐，甚至带着点泥腥味，但在这个地狱开局里无异于琼浆玉液。
+“烤熟，长肉，长大个。”Khoa冷漠地补充了一句。
+Snik低头看了看自己爪子上的油渍，又看了看Khoa和Nub明显比它健壮一圈的体格，若有所思。
+它的大耳朵抖了抖，尖声追问：“为什么……烤了……长肉？”
+Khoa翻了个白眼，抬手把第二串烤田鼠递给流口水的Nub，顺便在空树枝上敲了一下Snik的脑壳。
+“不听话，没肉吃。”
+Snik立刻闭嘴，两只爪子迅速抱起最后一串烤肉，躲到火堆边缘狼吞虎咽起来。
+三只田鼠，三只幼崽，几分钟内吃得只剩下一地碎骨头。
+第八天后半夜。
+溪谷里的晨雾愈发浓重。
+Khoa用溪水浇灭了炭火，将灰烬深深掩埋在湿泥和乱石之下，确认没有一丝青烟溢出，才带着Nub和Snik原路返回。
+肚子里有了高热量的熟肉垫底，三只小崽子的动作明显沉稳敏捷了许多。
+然而，当它们刚刚摸到洞穴下方的乱石碎坡时，前方的通道阴影里突然传来了杂乱沉重的脚步声。
+五个灰绿色的矮壮身影从石灰岩巨石后转了出来，死死挡住了回洞的窄道。
+为首的正是Zag。
+这家伙不知道吃了什么，个头居然窜到了六十多厘米，肩膀宽厚，手里还拎着一根粗短的硬木棒。
+在它身后，四个体格同样魁梧的同窝壮崽呈扇形散开，眼中闪烁着凶残的光芒。
+呼哧、呼哧。
+Zag的大鼻孔剧烈翕动着。
+哪怕在溪水里洗过手脸，但吃过烤肉后从毛孔和呼吸里渗出的那股焦香油脂味，在阴冷的洞穴风里根本藏不住。
+Zag咧开满嘴尖牙，大步跨出，沉重的脚掌踩得碎石乱响。
+它一步迈到Khoa身前，居高临下地俯视着这个干瘦的同类，粗短的猪拱鼻几乎贴到了Khoa的鼻尖上，贪婪地猛吸了一口气。
 
-(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)

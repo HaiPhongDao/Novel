@@ -36,3 +36,9 @@
 - Bẫy số 4: ba que to bằng ngón cái khắc ngàm bằng mảnh đá sắc, đỡ một phiến đá phiến dẹt 3–4 kg; mồi ấu trùng bọ phân hoặc dế mù.
 - Khi bực Khoa búng ngón giữa vào thứ làm hỏng; Nub chép cú búng đó và cả động tác lấy lòng bàn tay vuốt gờ gỗ.
 - Suối Lạnh: bãi đá, bụi lau cao nửa người, cành khô và đá phiến dẹt.
+
+**Đã lên trang ở đoạn 4**
+- Cung khoan lửa của Khoa: dây vỏ trong cây liễu bện ba sợi, que khoan gỗ cứng dài 20 cm, ván gỗ thông có lỗ và rãnh V, hòn cuội lõm làm tay đè, nùi bông lau; làm dưới gốc liễu, khuất sau bờ đất bờ Suối Lạnh. Lửa lần đầu: chạng vạng Ngày 7.
+- Khoa nói tiếng goblin bằng câu cụt ("肉，管饱。").
+- Snik: con non cùng ổ, gầy, tai to, mắt xanh, nhanh tay; hỏi 为什么. Canh cửa hang lúc chạng vạng, kêu tiếng chim ba lần làm ám hiệu.
+- Zag cao hơn 60 cm ở Ngày 8, cầm gậy gỗ cứng; bốn con non to xác cùng ổ theo Zag.

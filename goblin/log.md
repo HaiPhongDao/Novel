@@ -20,3 +20,5 @@
 2026-10-23 | doan-003 | Mở đoạn 003 bằng việc Gorr xuống hố ăn thêm một con non (Ngày 3, còn 19) — nối chỗ dừng của 002, đúng luật "săn tay không thì tù trưởng xuống hố" | Chia điểm dừng khi viết brief | Agent (ghi log)
 2026-10-23 | doan-003 | Chốt. Sửa chính tả "这章没有" → "这里没有" (lời người viết lọt vào chính văn) | Đạt review | Agent (ghi log)
 2026-10-23 | doan-004 | Dây cung khoan lửa làm bằng vỏ trong cây liễu bờ suối xoắn lại; Snik là con non cùng ổ đã tự trèo ra khỏi hố | Chi tiết phụ cho prompt | Agent (ghi log)
+2026-10-23 | doan-004 | Chốt. Sửa tên "神农架" → "进山" (Khoa người Việt) và "这章" → "这里" | Đạt review; Writer kéo kiếp trước sang TQ lần thứ ba | Agent (ghi log)
+2026-10-23 | doan-005 | Thêm con non thứ năm của nhóm: **Mok** — một trong bốn con theo Zag, to xác, chậm, theo ai cho ăn. Nhóm năm = Nub, Snik, Zag, Mok là bốn ngón, Khoa là lòng bàn tay | Tay goblin chỉ có bốn ngón (canon đoạn 1) mà outline gọi nhóm năm là "một bàn tay" → ghép bốn ngón + lòng bàn tay. Cần Tác giả xem | Agent (ghi log, chờ Tác giả)

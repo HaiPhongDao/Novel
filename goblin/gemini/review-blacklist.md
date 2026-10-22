@@ -11,3 +11,7 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này chỉ giữ 
 - Khoa mạnh hơn con non khác, lớn vọt nhờ "lên cấp".
 
 ## Ghi nhận qua review
+- **Kiếp trước của Khoa bị kéo sang Trung Quốc**: "太原钢铁厂" (001), "五菱宏光" (001), "神农架" (004). Khoa là người Việt (Thái Nguyên, Hà Giang). Tên địa danh TQ trong ký ức Khoa → sửa (tên riêng, Agent tự làm).
+- **"这章"** lọt vào lời kể ("这章没有…", 003 và 004) — lời của người viết; sửa thành "这里".
+- Thiết lập về mắt goblin bị đọc lại thành câu giải thích ("哥布林的视网膜结构对强光极度敏感", "哥布林的夜视眼睛根本承受不住近距离的明火") — 003, 004.
+- Khuôn "跟…没有任何区别" lặp qua nhiều đoạn.
