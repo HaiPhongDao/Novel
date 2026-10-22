@@ -15,3 +15,9 @@
 2026-10-23 | thử 001 vòng 01 | Lưu nguyên văn 2.156 chữ Hán cùng SI/prompt; review VIẾT LẠI vì sai tiền, số phà, cách gọi lính mới | Không sửa đè văn Writer; chạy lại session mới theo quy trình | Agent review
 
 2026-10-23 | thử 001 vòng 02 | Giữ SI, làm rõ dữ kiện trong brief; lưu nguyên văn 2.472 chữ Hán; số tiền/quân/phà đúng, còn tự thêm thông số vận hành và lỗi giọng; chưa chốt | Có hai bản để Tác giả đọc, giữ chi tiết mới ngoài canon | Agent review; chờ phản hồi giọng và bản thử
+
+2026-10-23 | thoại | Tác giả: “Phần thoại của nhân vật đang bị cụt, không đủ lưu loát”; sửa SI thành v0.2, tách nhịp đoạn kể khỏi lượt nói, thêm chuẩn hoàn thành ý và anchor chương 7 của mẫu | Thực hiện phản hồi phong cách | Tác giả yêu cầu sửa
+
+2026-10-23 | thử thoại v02-01 | Session mới, giữ nguyên prompt v01-02, chỉ đổi SI; 2.058 chữ Hán; người dưới vẫn chủ yếu xác nhận và Mira dài bằng dữ kiện tự đặt | So tác dụng của SI riêng | Agent review, chưa đạt
+
+2026-10-23 | thử thoại v02-02 | Giữ SI v0.2, mở trao đổi giữa người tập và người dạy trong brief; 2.279 chữ Hán; Toma–Dain–Rowan có mạch giải thích và đáp nối ý; lưu nguyên văn, review riêng | Cải thiện thoại theo phản hồi; dữ kiện phà tự thêm chưa vào canon | Agent review, chưa chốt toàn đoạn

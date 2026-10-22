@@ -36,3 +36,7 @@
 ## Hướng xử lý khi tiếp tục
 
 Nếu Tác giả muốn tiếp tục hướng hiện tại, vòng mới dùng session mới và tập trung hai việc: để thông tin Mira đúng phần chị đã biết, và cho giọng tính toán/hài xuất hiện bằng việc làm, thoại. Không dùng các thông số phà hoặc hàng mà Writer tự đặt ở hai bản thử làm canon.
+
+## Phản hồi Tác giả sau khi đọc
+
+23/10/2026: “Phần thoại của nhân vật đang bị cụt, không đủ lưu loát”. Ưu tiên sửa cách nối ý trong lời nói và lượt đáp; không chỉ tăng số chữ. SI v0.2 tách nhịp lời kể khỏi độ dài lượt thoại, thêm chuẩn hoàn thành ý và một trích mẫu hội thoại. Chạy lại cùng prompt ở session mới để đối chiếu.

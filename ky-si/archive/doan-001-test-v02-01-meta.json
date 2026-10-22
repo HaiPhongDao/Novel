@@ -1,0 +1,15 @@
+{
+  "status": "dialogue_target_not_met",
+  "model": "Gemini 3.8 Flash",
+  "modelId": "gemini-3.8-flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "systemInstructionTitle": "Kỵ sĩ - SI v0.2 thoại",
+  "sessionUrl": "https://aistudio.google.com/prompts/1dwxoq3saUgLu4lhyCDQ_5OLAUkRJQB1R",
+  "comparison": "Same prompt as v01-02, only system instruction changed",
+  "proseCharacters": 2892,
+  "hanCharacters": 2058,
+  "proseSha256": "e17b9b468f09c7dc566c2e2719bfd5106a00d5c6e80473126a71ca6c90c6441e",
+  "proseFnv1aUtf16": "039d431f",
+  "retrieval": "Rendered model turn; UI control labels removed; prose unchanged."
+}

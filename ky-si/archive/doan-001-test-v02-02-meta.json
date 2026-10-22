@@ -1,0 +1,15 @@
+{
+  "status": "dialogue_improved_not_finalized",
+  "model": "Gemini 3.8 Flash",
+  "modelId": "gemini-3.8-flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "systemInstructionTitle": "Kỵ sĩ - SI v0.2 thoại test02",
+  "sessionUrl": "https://aistudio.google.com/prompts/1vQVn2zixEgE-kP0PF61VlvvJQDrIqnQs",
+  "comparison": "Same SI as v02-01; prompt opens actual dialogue during training and limits Mira knowledge",
+  "proseCharacters": 2910,
+  "hanCharacters": 2279,
+  "proseSha256": "e771def2971b88a7745ab1398cd03616cc49ea84dd643c81913ecfe4084d7877",
+  "proseFnv1aUtf16": "067d2cfd",
+  "retrieval": "Rendered model turn saved directly; equality checked after save; UI control labels removed; prose unchanged."
+}

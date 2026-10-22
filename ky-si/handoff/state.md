@@ -1,6 +1,8 @@
-## 3. Trạng thái sau hai bản thử 001
+## 3. Trạng thái sau bốn bản thử 001
 
-**Trạng thái hồ sơ:** Đã chạy hai bản thử trong archive, review đều chưa chốt. Bản 01 sai tiền/số phà; bản 02 sửa được nhưng còn tự đặt loại hàng, số la, tải phà và chi tiết giọng chưa đạt. Chưa có chính văn trong chapters.
+**Trạng thái hồ sơ:** Bốn bản thử nằm trong archive, chưa bản nào chốt toàn đoạn. Hai bản v0.1 ban đầu có lỗi tiền/số phà hoặc tự đặt thông số; hai bản v0.2 được chạy để sửa thoại. Chưa có chính văn trong chapters.
+
+**Cập nhật sau phản hồi thoại:** Đã có thêm v02-01 và v02-02 với SI v0.2. Bản mới nhất v02-02 có Toma giải thích chỗ vướng, Dain đáp, Rowan tiếp ý; thoại cải thiện. Còn tự đặt chi tiết xe/phà và gọi Rowan thành kỵ sĩ tập sự; chưa chốt. Xem reviews/doan-001-test-v02-02.md trước khi làm tiếp.
 
 **Mở dự kiến:** Ngày 1, buổi sáng, sân bến Stonewake; Rowan, Dain, Toma và sáu người gác còn lại đang luyện. Mira quản công việc phà.
 

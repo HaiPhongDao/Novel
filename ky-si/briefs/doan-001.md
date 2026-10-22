@@ -1,6 +1,6 @@
-# Brief 001 — vòng thử 02, SI v0.1
+# Brief 001 — SI v0.2, thử 02 (vòng 04 tổng)
 
-> Tác giả đã yêu cầu chạy Writer. Vòng 01 lưu riêng trong archive; vòng này làm rõ các dữ kiện bị viết sai, nội dung vẫn là bản thử.
+> Tác giả yêu cầu sửa thoại cụt, thiếu lưu loát. SI v0.2 thử 01 đã giữ nguyên prompt để đối chiếu; vòng này mở trao đổi trong cảnh tập và làm rõ phần Mira biết. Các bản cũ giữ nguyên trong archive.
 
 Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung.
 
@@ -16,7 +16,7 @@ Hợp đồng giữ bến là 二十四枚银币 cho 三十天, đã nhận 十�
 面板 là chữ riêng Rowan nhìn thấy, hiện thông tin luyện tập đã được ghi nhận của bản thân và người trong nhóm. Thông tin đang dùng chỉ thuộc buổi luyện giáo trước mắt. Điểm tích lũy thuộc đúng người, đúng kỹ năng đã luyện. Ăn, ngủ và mệt là trạng thái thật của thân thể.
 
 【Chuyện xảy ra trong đoạn này】
-Buổi sáng đầu làm việc ở bến, Rowan đang tổ chức tám người tập đổi hàng và thu giáo trong sân chờ. Dain làm mẫu, người mới thực hiện. Để lộ sự rời rạc qua chuyện thật đang xảy ra: người thu chậm vướng người sau, giáo chưa về vị trí đã quay người, tiếng lệnh phải nhắc lại. Rowan sửa bài thành việc nhóm có thể làm được, tiếp tục cho tập. Việc giữ bến và nuôi những người này đi vào suy nghĩ của anh khi dùng người, chia thời gian và nhìn đồ họ mang theo.
+Buổi sáng đầu làm việc ở bến, Rowan đang tổ chức tám người tập đổi hàng và thu giáo trong sân chờ. Dain làm mẫu, người mới thực hiện. Để lộ sự rời rạc qua chuyện thật đang xảy ra: người thu chậm vướng người sau, giáo chưa về vị trí đã quay người, tiếng lệnh phải nhắc lại. Rowan sửa bài thành việc nhóm có thể làm được, tiếp tục cho tập. Cuộc tập có trao đổi thực sự: Toma nói rõ thao tác nào mình đang vướng, Dain nghe ý của cậu và giải thích bằng kinh nghiệm làm việc, Rowan tham gia để họ hiểu rồi thử lại. Người mới có lý do để hỏi hoặc giải thích; người dạy dựa vào điều vừa nghe để đáp. Diễn biến buổi tập được thể hiện qua cuộc nói chuyện và lượt tập, thay vì chỉ qua lời kể và khẩu lệnh. Việc giữ bến và nuôi những người này đi vào suy nghĩ của Rowan khi dùng người, chia thời gian và nhìn đồ họ mang theo.
 
 Trong buổi tập, Rowan mở hồ sơ của Toma. Bảng hiện đúng:
 Toma
@@ -24,7 +24,7 @@ Toma
 训练积累：1
 Rowan dùng một điểm vào thu giáo; bảng đổi thành 长矛收势：13/100 và 训练积累：0. Anh để Toma làm thêm lượt cùng hàng: Toma thu khuỷu tay về đúng hơn một chút, giáo còn rung. Rowan đổi vị trí kiểm tra lại; Toma giữ được cải thiện nhỏ ấy, vẫn thở mệt và chưa đồng đều với cựu binh. Rowan có kết quả nhỏ để dựa vào khi tính cách luyện đội.
 
-Mira tới báo đoàn xe đã hẹn đang xuống đường dẫn. Thông tin hiện có là hẹn bốn xe, thực tế tới sáu; công việc cần quyết ngay là xếp lượt cho chiếc phà duy nhất. Mira báo đủ hai con số rồi hỏi Rowan xếp lượt thế nào; cả đội gác, gồm hai cựu binh và sáu người mới, đang chờ anh chia việc. Dừng ngay ở lời hỏi này. Việc kiểm tra tải xe, sức chở, chia lượt và thương lượng thuộc đoạn 002.
+Mira tới báo đoàn xe đã hẹn đang xuống đường dẫn. Lúc này chị mới biết đã hẹn bốn xe nhưng đếm được sáu xe đang tới; chị còn phải gặp chủ xe và kiểm tra tải trước khi chọn cách chở. Chị nói liền mạch với Rowan về việc chênh số xe và phần việc cần anh giúp, rồi hỏi cách bố trí người trong khi chờ kiểm tra xe. Chị là người cùng làm việc với anh và hiểu việc chạy phà. Đội gác, gồm hai cựu binh và sáu người mới, đang chờ chia việc. Dừng ở câu hỏi của Mira; Rowan đáp và cùng chị kiểm tra tải, chọn lượt chở ở đoạn 002.
 
 【Những điểm bắt buộc】
 - Tám người gác cộng Rowan là chín người; Dain và Toma đã nằm trong tám. Buổi này vẫn tại sân bến.
