@@ -1,7 +1,12 @@
-## 3. Trạng thái hiện tại (hết đoạn 13)
+## 3. Trạng thái hiện tại (hết đoạn 14)
 
-**Thời điểm:** chiều Ngày 20, bên gian xông khói ở suối phía tây. Đoạn kế tiếp bắt đầu ở sáng Ngày 22.
-**Có mặt (cuối đoạn 13):** Leon, Bram (chống nạng), Mira, Tobi, Hob, Hoag, Dunn. Pell ở 领主府.
+**Thời điểm:** hoàng hôn Ngày 22, bãi đất sau rào bắc.
+**Có mặt (cuối đoạn 14):** Leon (vệt máu khô trên cổ tay áo), Gareth, Hoag và 11 người canh đêm đang luyện giáo, Mira đứng xem. Pell ở 领主府, tin Leon vừa thổ huyết.
+
+**Mới ở đoạn 14**
+- Trà của Pell từ Ngày 22 mạnh gấp ~3,4 lần; Leon chưa nói với ai (kể cả Gareth). Leon cho Pell thấy mình chảy máu, gục trên bàn; Pell tin Leon đang suy sụp nhanh.
+- Đội canh đêm 12 người, Hoag tổ trưởng; hai ca sáu người; tù và: một tiếng đổi ca, ba tiếng báo động; ngủ gật: cả đội trừ một ngày lương, kẻ ngủ nhịn ba ngày + 20 roi. Hai áo da sói không tay cho hai lính gác chính ca khuya.
+- Gareth thấy vết máu trên tay áo Leon, chưa hỏi.
 
 **Leon biết**
 - Pell là bàn tay bỏ độc; đêm Ngày 17 Pell nhận một túi bột mới từ kỵ binh sẹo má phải của Morris. Kẻ đứng sau ở phủ bá tước thành Varen — Leon nghi Cedric hoặc phu nhân bá tước, chưa có bằng chứng. Pell tin Leon vẫn uống trà; Leon đưa lên môi rồi đổ xuống hang chuột ở góc phòng ngủ, trước mặt Pell thì diễn bệnh.
