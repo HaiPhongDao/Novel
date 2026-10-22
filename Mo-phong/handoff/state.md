@@ -1,9 +1,9 @@
-## 3. Trạng thái hiện tại — hết005
+## 3. Trạng thái hiện tại — hết đoạn 006
 
-Sáng Ngày3, MC trong phòng赵全, vừa bị hỏi sổởđâu; chưa trả lời hoặc ra ngoài.
-- 炼气二层, 五灵根;2灵石 thật ở chỗ cũ dưới ván giường.
-- Khoản5viên được赵全 gạch bỏ ngay trước mắtMC. Khảo hạch vẫnNgày90, còn khoảng88ngày từ sángNgày3 theo quy ước Ngày1 còn90. Qua khảo hạch chỉ được ởlại, không tự thành ngoại môn.
-- Sổgốc油布 giấu giữa2thanh chịu lực giường, ngoài chỗtiền;1trang chép đã nằm tay赵全. Chưa ai khác thật sự nhận bảnchép. MC có thể giữ mập mờ về bảnchép đểtựbảo vệ.
-- MC biết năm sau石墩 cótên trong sổ; chưa tiếtlộĐôn/máy. 老钟 biếtMC vào kho, hứa rượu chưa trả.
-- Đã môphỏng2lần: 1tuvi,2kýứcđêmgiấusổ. Lần1 chết次年三月初七ở三号矿洞; lượt3 chưa chạy.
-- Nhận định cóngười chốnglưng赵全 chỉ là suyđoán; chưa biết danh tính hoặc trậnpháp.
+Ngày3 tại lán bảy. MC vừa viết 三月初七 bằng than lên mặt ván khuất sát tường cạnh giường.
+- Tu vi thật 炼气二层, 五灵根; còn1下品灵石, đã dùng3lượt (miễn phí +2trả phí).
+- Khoản5viên đã xoá. Khảo hạchNgày90; theo mốc Ngày1 còn90ngày thì sángNgày3 còn88ngày.
+- Lượt3 chọn经验衔石法, không nhận tuvi3 hoặc đồ vật. Pháp cần vụn linh thạch sạch cỡ hạtgạo ngậm khi thổnạp; có hiểu kỹ năng, chưa có vụn để luyện.
+- Lão thợ mỏ cụt tay trong mô phỏng nói老钟 là sưhuynh, biết pháp này. MC biết2lần chết cùng次年三月初七ở三号矿洞, nghi không phải tai nạn thường; chưa biết nguyên nhân hoặc thủ phạm.
+- Sổ gốc giữa2thanhgiường;赵全 giữtrangchép. Lời MC có người giữ bảnchép là hù để tự vệ, chưa có người thứba thật nhận.
+- 老钟 cụt nửa chân trái; hứa土烧 chưa trả; Đôn chưa biết máy. 007 thử pháp, kiếm chút rượu bằng tiền đồng/công, giữ nguyên1viên.

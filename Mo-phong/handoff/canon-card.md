@@ -19,3 +19,5 @@
 - Ký ức lượt2: 油布包 trong ngăn khô bên vại phân thứ ba ở肥料库; vặn gạch dưới vành để mở. 赵全 cởi nhẫn trước khi chạm vại. MC chưa đọc sổ. Phỏng đoán truy dấu tạp dịch chưa phải luật thế giới.
 
 - Sổ gốc đã lấy cuối004, MC giữ trong ngực. 老钟 yêu cầu một壶土烧 không pha nước; MC hứa trả. Sổ có tên石墩 ở kế hoạch năm sau, không đổi tuổi hiện tại18.
+
+- MC đã nhận经验衔石法: ngậm vụn linh thạch sạch cỡ hạtgạo khi thổnạp. Lão thợ trong môphỏng nói老钟 là sưhuynh. Hai đời cùng chết次年三月初七ở三号矿洞, mới nghi bất thường.

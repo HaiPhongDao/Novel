@@ -14,3 +14,6 @@ Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, t
 
 ### Đoạn 005 — Xoá năm linh thạch, giữ quyền dự khảo hạch
 Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổgốc giữa2thanhgiường. Sáng3 mang1trangchép tới赵全. Quảnsự đọc rồi gạch khoản5viên trong sổ thu riêng trước mặtMC, giữ trangchép. Chỉ bảo đảm khảo hạch bìnhthường, chưa cho đỗ/đổi tuổi. Dừng khi赵全 hỏi sổởđâu.
+
+### Đoạn 006 — Ngày chết lặp lại, chọn kinh nghiệm 衔石法
+MC giấu vị trí sổ, nói đã có người giữ trang chép để tự bảo vệ (lời hù, chưa thực giao). Lượt3 tiêu một viên còn một: ở tông tu không kịp khảo hạch, xuống mỏ, học 衔石法 từ lão thợ là sư đệ lão Chung, tới tầng3 Ngày140. Xin đổi ca vẫn bị ép vào hầm3; chết cùng次年三月初七. Chọn kinh nghiệm pháp môn, thật vẫn tầng2. Ghi ngày chết bằng than sau vách cạnh giường.

@@ -27,6 +27,8 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 
 - Ký ức lượt2: 油布包 trong ngăn khô bên vại phân thứ ba ở肥料库; vặn gạch dưới vành để mở. 赵全 cởi nhẫn trước khi chạm vại. MC chưa đọc sổ. Phỏng đoán truy dấu tạp dịch chưa phải luật thế giới.
 
+- Sổ gốc đã lấy cuối004, MC giữ trong ngực. 老钟 yêu cầu một壶土烧 không pha nước; MC hứa trả. Sổ có tên石墩 ở kế hoạch năm sau, không đổi tuổi hiện tại18.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -40,18 +42,23 @@ Lượt miễn phí: nộp ba viên vẫn bị đánh và phạt gánh phân, kh
 ### Đoạn 003 — Đường trốn tông và ký ức chỗ giấu sổ
 MC tiêu một viên, còn hai. Lượt hai trốn tông, thấy Triệu Toàn giấu bọc sổ trong ngăn khô của vại phân thứ ba kho phân bón; ngày thứ ba bị chấp pháp truy và rơi vực chết. Chọn ký ức đúng đêm thấy sổ. Thật rạng sáng Ngày 2, Đôn hỏi sao vã mồ hôi.
 
+### Đoạn 004 — Lấy sổ trong vại phân thứ ba
+Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, theo ký ức vào kho. Gặp lão Chung cụt chân trái, ông xin rượu không pha nước rồi rời đi. MC mở ngăn khô lấy bọc sổ: tên mình năm nay, phí hoãn5viên; tên Đôn ở danh sách năm sau. Giữ sổ gốc trong ngực, đóng ngăn; tiếng then cửa chính động.
+
+### Đoạn 005 — Xoá năm linh thạch, giữ quyền dự khảo hạch
+Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổgốc giữa2thanhgiường. Sáng3 mang1trangchép tới赵全. Quảnsự đọc rồi gạch khoản5viên trong sổ thu riêng trước mặtMC, giữ trangchép. Chỉ bảo đảm khảo hạch bìnhthường, chưa cho đỗ/đổi tuổi. Dừng khi赵全 hỏi sổởđâu.
+
 ---
 
-## 3. Trạng thái hiện tại — hết đoạn 003
+## 3. Trạng thái hiện tại — hết005
 
-Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
-- Tu vi thật炼气二层, 五灵根, linh thạch 2; đã dùng 2 lượt (1 miễn phí + 1 trả phí).
-- Nợ5 viên, hạn từ Ngày1 còn khoảng2 ngày; khảo hạch Ngày90.
-- MC biết lần1 chết ở三号矿洞 vào次年三月初七; lần2 bỏ tông bị chấp pháp truy ngày3 của mô phỏng. Nguyên nhân bị theo dấu chỉ là phỏng đoán của MC, chưa xác minh.
-- Ký ức đã nhận chỉ đêm đầu: đường qua灵田, kho肥料库,第三口粪缸, ngăn khô bên dưới vại; vặn gạch cạnh vành để mở. 赵全 tháo nhẫn trước khi mở; bọc油布 chứa sổ. Chưa biết nội dung sổ.
-- Đôn chưa biết máy, sổ, kế hoạch; hỏi về mồ hôi.
-- Máy gọi你, chỉ mang1 loại thưởng/1ngày ký ức; nghề kiếp trước không cấp trong prompt.
-- Kế tiếp cần nối lời đáp Đôn rồi trong Ngày2 tới đêm lấy sổ, chưa gặp钟伯 ở đời thật.
+Sáng Ngày3, MC trong phòng赵全, vừa bị hỏi sổởđâu; chưa trả lời hoặc ra ngoài.
+- 炼气二层, 五灵根;2灵石 thật ở chỗ cũ dưới ván giường.
+- Khoản5viên được赵全 gạch bỏ ngay trước mắtMC. Khảo hạch vẫnNgày90, còn khoảng88ngày từ sángNgày3 theo quy ước Ngày1 còn90. Qua khảo hạch chỉ được ởlại, không tự thành ngoại môn.
+- Sổgốc油布 giấu giữa2thanh chịu lực giường, ngoài chỗtiền;1trang chép đã nằm tay赵全. Chưa ai khác thật sự nhận bảnchép. MC có thể giữ mập mờ về bảnchép đểtựbảo vệ.
+- MC biết năm sau石墩 cótên trong sổ; chưa tiếtlộĐôn/máy. 老钟 biếtMC vào kho, hứa rượu chưa trả.
+- Đã môphỏng2lần: 1tuvi,2kýứcđêmgiấusổ. Lần1 chết次年三月初七ở三号矿洞; lượt3 chưa chạy.
+- Nhận định cóngười chốnglưng赵全 chỉ là suyđoán; chưa biết danh tính hoặc trậnpháp.
 
 ---
 
@@ -63,74 +70,74 @@ Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
-　　逃亡经验有什么用？学怎么在断龙崖选个好看的跳崖姿势吗？
-　　选项三。
-　　逃离宗门当夜的记忆！
-　　虽然范围只有短短一日，但这短短一日里，包含着一个至关重要的信息——
-　　赵全藏账册的具体细节！
-　　文字日志虽然提到了肥料库第三口粪缸，但具体是哪条路巡逻最松、赵全是几更天去的、机关夹层到底在粪缸哪个方位，日志根本不会细写。
-　　只有亲身经历过的记忆，才能分毫不差！
-　　“选三。”
-　　沈砚在心底沉声下令。
-　　嗡！
-　　脑海深处猛地炸开一阵尖锐的嗡鸣。
-　　一股庞大杂乱的感官信息如同开闸的洪水，疯狂灌入沈砚的识海之中。
-　　刺骨的夜风刮在脸颊上的森冷。
-　　踩在灵田烂泥里那种黏腻湿滑的触感。
-　　还有肥料库前那股令人作呕的陈年粪臭味……
-　　在纷乱的画面中，沈砚如同幽灵般趴在泥沟里，目光死死锁定着前方的木窗缝隙。
-　　借着黑布灯笼那一豆摇晃的昏黄光芒，赵全那张满是横肉的油腻胖脸被照得格外狰狞。
-　　只见赵全小心翼翼地把手上的玉扳指褪下来揣好，接着蹲在角落那口布满青苔的半人高大缸前，伸手在缸沿下方的砖缝处用力一拧。
-　　嘎吱一声轻响，缸底侧面竟然翻开了一个尺许宽的干燥暗格。
-　　一本厚厚的油布包被稳稳塞了进去。
-　　严丝合缝。
-　　“呼——！”
-　　沈砚猛地从木板床上坐了起来，大口大口喘着粗气。
-　　后背的单衣在眨眼间被冷汗彻底浸透，冰凉黏腻地贴在皮肉上，心脏还在胸膛里擂鼓般狂跳。
-　　沈砚抬手抹了一把额头，满手都是冰凉的虚汗。
-　　眼前虚空中，浮现出最后一行收尾的提示：
-　　【下次模拟：下品灵石一枚。】
-　　字迹消散无形。
-　　沈砚低头看了看怀里。
-　　两块下品灵石依然静静躺着，棱角硌着皮肉。
-　　现实中才过去短短一盏茶工夫。
-　　但他闭眼摸索灵石前，已经在床上枯坐盘算了大半夜。
-　　此刻，排房破旧的窗纸上，已经悄然泛起了一抹惨白微青的光芒。
-　　天亮了。
-　　第二天已经到了。
-　　嘎吱一声。
-　　对面的床板发出酸涩的声响，石墩揉着惺忪的睡眼，打着哈欠坐了起来。
-　　他随手抓了抓蓬乱的头发，刚一抬头，就看见沈砚直挺挺地坐在大通铺上，脸色惨白如纸，额头上的汗珠正顺着下巴啪嗒啪嗒往下掉。
-　　石墩吓了一跳，连鞋都顾不上穿，光着脚踩在冰凉的泥地上就扑了过来。
-　　“砚哥！你怎么了？”
-　　石墩瞪圆了眼，盯着沈砚那张毫无血色的脸，结结巴巴地问道：“你这一大早的……怎么出了浑身虚汗？是不是昨天挨的那几脚伤着心肺了？！”
+　　赵全脸上的肥肉一点点绷紧，眼中的轻蔑与暴怒迅速褪去，取而代之的，是一种被毒蛇咬了一口般的惊怒与难以置信。
+　　“你……”
+　　赵全猛地抬起头，死死盯着沈砚。
+　　那眼神不再是看一个任人宰割的杂役，而是在看一个随时可能引爆火药桶的疯子。
+　　沈砚神色自若，甚至嘴角还挂着一丝恰到好处的恭敬笑意。
+　　“管事大人日理万机，想必是账目太多，偶尔有些笔误也是难免的。”
+　　沈砚的声音不高不低，在这死寂的屋子里格外清晰。
+　　“弟子愚钝，只想安分守己地在杂役院当差。三个月后的宗门考核，弟子自会凭本事去争一争那个留宗资格。”
+　　“至于这上头记着的五块灵石……弟子以为，管事大人怕是记错了人。”
+　　赵全死死按着桌案，呼吸粗重得像个拉动的风箱。
+　　一股冰冷的杀机在他眼底疯狂涌动。
+　　赵全眼角的横肉抽搐了半晌，终于缓缓吐出一口浊气。
+　　他收起了身上那股咄咄逼人的威压。
+　　“沈砚。”
+　　赵全咬着后槽牙，从牙缝里挤出这两个字。
+　　他伸手拉开身侧最底下的抽屉，从里面翻出一本薄薄的名册。
+　　那是杂役院用来私下记账的小本子。
+　　赵全翻到沈砚的那一页，抓起案上的毛笔，沾饱了浓浓的黑墨。
+　　在沈砚平静的注视下，赵全手腕发抖，重重一笔落下，将“留舍费五块灵石”那一整行字，死死涂成了一团黑疙瘩。
+　墨汁飞溅，几乎把纸张划破。
+　　“五块灵石的事，一笔勾销。”
+　　赵全扔下笔，肥胖的大手一把将桌上的黄纸抓起，揉成了一团，塞进了自己的袖筒里。
+　　“三个月后的考核，你自去考你的。”
+　　赵全冷冷盯着沈砚，“只要你有本事在三个月内突破到炼气三层，留在宗门的路老子绝不拦你，去寒鸦矿的名册我也自会划掉。”
+　　“但若是你考不过……”
+　　赵全没有把话说死，但语气里的森然之意已经溢于言表。
+　　沈砚心中了然。
+　　赵全能退到这一步，已经是贪生怕死之下的极限。
+　　不掏灵石，保留正常参加九十天后考核的资格，并且免去了眼前的灭顶之灾，这本就是他此行的底线。
+　　至于考不上还是要去矿洞？
+　　三个月后，谁去矿洞还不一定呢。
+　　沈砚微微欠身，礼数周全得挑不出半点毛病：“多谢赵管事明察秋毫。”
+　　然而，赵全并没有让他退下。
+　　这位平日里不可一世的杂役管事身子前倾，两只布满血丝的倒三角眼死死锁在沈砚的脸上，像是要将他整个人看穿一般。
+　　屋内的空气再次沉了下来。
+　　赵全盯着沈砚看了足足半柱香的工夫，终于压低了嗓门，阴恻恻地吐出一句：
+　　“那本账册……在哪？”
 
-(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn 004, khoảng 2000 chữ, bằng tiếng Trung.
+Viết đoạn 006, khoảng 2000 chữ, bằng tiếng Trung.
 
 【Chuyện xảy ra】
 
-Nối ngay câu hỏi của石墩 rạng sáng ngày2; MC đáp qua về vết thương, qua ngày làm việc bằng vài câu rồi chuyển tới đêm Ngày2 trong đoạn. Anh tự đi lấy sổ từ肥料库 theo ký ức đã nhận. Kể lần lẻn vào kho bằng các việc thật từ mắt MC: đường灵田, gạch dưới vành第三口粪缸, ngăn khô, bọc油布. Bọc thật vẫn ở đó; lấy ra mới đọc được nội dung. 老钟, người gánh phân cụt nửa chân trái, khoảng60, nhai thuốc lá đắng, bắt gặp anh; MC gọi钟伯. Ông chỉ xin rượu, lời nói ít, làm việc gánh phân của mình, giữ hành động qua mắt MC; chưa giải thích quá khứ mỏ hoặc pháp môn. MC hiểu đã bị nhìn thấy, hứa mang rượu nhưng chưa tiêu2linhthạch.
+Nối câu赵全 hỏi sổ ở đâu. MC giữ kín vị trí bằng câu đáp lễ phép và mập mờ về các trang chép, rồi xin lui; chưa nói thật vị trí hoặc đưa sổ. Trở về lán trong Ngày 3, anh tính lại: thật tầng hai, hai viên, khoản phí đã xoá, khảo hạch vào Ngày90. Anh dùng viên thứ hai, thật từ2còn1, chạy lượt mô phỏng thứ3 với ý định ở lại tông khổ tu cho tới đủ tầng3.
 
-Trong kho, MC đọc được sổ có danh sách tạp dịch xuống mỏ năm nay gồm沈砚; cạnh tên ghi khoản hoãn5linhthạch. Trang năm sau có石墩 dù mới18tuổi, hơn một năm nữa mới tới tuổi. Đó là danh sách sắp xếp tương lai của quản sự, chưa có việc khai gian tuổi ngay hiện tại. MC quyết giữ sổ làm chỗ dựa, chưa biết ai trên赵全. Cuối đoạn nghe then cửa kho khẽ động khi còn đang cầm sổ; dừng ở tiếng then. Lão钟 và sổ có thể tạo ngạnh từ chỗ giấu bẩn và rượu, giữ tông v1.
+Đời này bắt đầu với hiểu biết về sổ và cái chết lần đầu. Khổ tu thông thường chưa kịp đạt tầng3 trước Ngày90, vẫn bị điều xuống mỏ. Trong mỏ, một lão thợ chỉ 衔石法: ngậm vụn linh thạch sạch cỡ hạt gạo trong lúc thổ nạp; kỹ năng cần nguồn vụn, không tạo ra linh thạch. Ông nhắc sư huynh mình là老钟/钟瘸子 đang gánh phân tại tông. Đời mô phỏng đạt tầng3 khoảng Ngày140 tính từ ngày xuyên vào, tức sau khảo hạch, đang ở mỏ; không đặt anh ở tông sau hạn khảo hạch. Anh nhớ mùng7tháng3 và tìm cách xin đổi ca tránh hầm3 nhưng mệnh lệnh quản mỏ bắt quay về đúng ca, không né được vì thân phận tù dịch. Vào次年三月初七, 三号矿洞 lại sập và chết. Log chỉ ghi điều anh thấy; nguyên nhân sập chưa lộ.
 
-【Những điểm bắt buộc】
+MC nhận ra hai đời đi khác vẫn chết đúng một ngày, bắt đầu nghi có việc lớn ở mỏ chứ không tự biết thủ phạm. Ba lựa chọn cuối có修为炼气三层,经验衔石法 và ký ức một ngày; anh chọn kinh nghiệm để có cách tự tu ở đời thật và nguồn liên hệ lão钟. Nhận cách thổ nạp và cảm giác vận dụng, không tăng tu vi thật hoặc sinh thêm đồ. Kết lúc anh cầm than viết “三月初七” lên vách kín cạnh giường, việc thử pháp và mua rượu thuộc007.
 
-- Thật ngày2, tuvi炼气二层, 2灵石. Không mô phỏng, không đổi tiền. Đôn không biết máy; chỗ giấu biết từ ký ức đúng một đêm. Sổ thật nguyên bản lấy được và giấu mang theo, chưa trao ai.
+【Bắt buộc】
 
-- Chức赵全 là管事; 老钟 cụt nửa chân trái, không đổi chân; MC không vào đầu ông. Máy im khi không chạy. Tên năm sau石墩 là gợi tuyến, không biến thành bị bắt đi mỏ ngay.
+- Thật vẫn Ngày3, 炼气二层, 1 viên còn lại; lượt3 đã tiêu1 từ2. Lựa chọn kinh nghiệm không mang tu vi3 về.
+
+- Log dùng 【模拟开始。】, mốc/ngôi你; 【你死了。】【模拟结束，你可以带回其中一项：】【一，修为：炼气三层。】【二，经验：衔石法。】【三，记忆：本次模拟中一日的记忆。】, cuối 【下次模拟：下品灵石一枚。】.
+
+- 衔石法 là kỹ năng luyện, cần vụn linh thạch thật; lão钟 là sư huynh của lão thợ, chân trái cụt. Chỉ mới nghi ngày sập lặp, chưa biết cơ chế/trận pháp/ai đứng sau.
 
 【Tự do sáng tạo】
 
-Chi tiết lẻn vào, dụng cụ sẵn có, lời đối đáp xinrượu và tự giễu, cách đọc các mục thật trong sổ.
+Lời đối đáp thoát khỏi phòng, phản ứng hài khi xem đời mình lần3 và khi bỏ phần thưởng tu vi cao hơn để lấy kỹ năng, cách chữ ngày được viết. Máy chỉ thông báo log và lựa chọn, không hội thoại.
 
 【Mở/dừng】
 
-Mở câu đáp Đôn, nhảy tới đêm trong đoạn. Dừng tiếng then cửa kho khi sổ đang trong tay, chưa gặp赵全; đoạn005 nối xử lý tiếng then rồi mới qua sángNgày3.
+Nối hỏi sổ, quay về lán trong cùng ngày; cuối nét than ghi ngày, chưa tới gặp老钟.
