@@ -9,3 +9,7 @@
 | K05 | Thêm việc cần thêm quyền, không chỉ lính | Việc ngoài | Thương lượng giữ tuyến | Dự kiến |
 
 Phân biệt chi tiết đã lên trang với payoff dự kiến; phần chưa viết không là sự kiện đã xảy ra.
+
+### Cập nhật 003
+
+K01: Toma thử giữ khoảng cách với dây chùng, hỏi rồi sửa. K02: công thêm một bạc có điều kiện, tiền mặt vẫn 32. K03: Oswin kiểm trực tiếp gỗ kê mục, cần thay trước xe nặng.

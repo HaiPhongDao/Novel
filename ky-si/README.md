@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Tác giả chọn [đoạn 001 v02-02](chapters/doan-001.md) để viết tiếp. Đã có [bản thảo đoạn 002](chapters/doan-002.md), 2.129 chữ Hán; [review SỬA NHẸ](reviews/doan-002.md). Giữ được mạch thoại và hai nhóm bốn; cân nặng và một số chi tiết chuẩn bị phà chưa chốt thành thiết lập. Ba lượt 002 trước giữ archive, không dùng làm tiền tình.
+**Trạng thái 23/10/2026:** Đã viết tới [đoạn 003](chapters/doan-003.md), 1,858 chữ Hán; [review SỬA NHẸ](reviews/doan-003.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -39,5 +39,6 @@
 | 002 / lượt 02 | Session mới, gói đầy đủ | [Archive](archive/doan-002-writer-02.md) | [VIẾT LẠI](reviews/doan-002-writer-02.md) | Loại khỏi mạch chính |
 | 002 / lượt 03 | Session mới, gói gọn | [Archive](archive/doan-002-writer-03.md) | [VIẾT LẠI](reviews/doan-002-writer-03.md) | Loại khỏi mạch chính |
 | 002 / lượt 04 | Session mới, phạm vi rõ | [Bản giữ để đọc](chapters/doan-002.md) | [SỬA NHẸ](reviews/doan-002.md) | Bản thảo, chưa ghi Tác giả duyệt |
+| 003 | [Brief](briefs/doan-003.md) | [Chính văn](chapters/doan-003.md) | [SỬA NHẸ](reviews/doan-003.md) | Agent review |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).

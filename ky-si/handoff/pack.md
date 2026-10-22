@@ -54,23 +54,28 @@ Alden tới phân biệt việc phòng vệ trong 24 bạc/30 ngày với phần
 
 Lời tự đặt về cân nặng và chuẩn bị phà chưa được kiểm chứng, không thành thông số canon. Xem reviews/doan-002.md trước 003.
 
+### Đoạn 003 — kiểm đường, phát hiện gỗ kê mục
+
+Rowan và Alden thống nhất công thêm một bạc sau hoàn tất cả hai xe; chỉ nhận phần giữ lối/phối hợp, vật tư và sửa bến đi sổ chủ bến. Tiền mặt vẫn 32 bạc. Rowan yêu cầu kiểm trước đưa xe xuống.
+
+Nhóm Dain bốn người thử đổi vị trí với dây chùng, Toma hỏi rồi sửa chỗ vướng; nhóm sân bốn người ở nguyên. Xe còn trên bãi. Rowan giẫm thấy sàn kê sát bờ lún, dừng cả nhóm; Oswin nhấc ván mặt, chỉ gỗ kê bên dưới mục. Đoạn dừng khi thợ giải thích phải thay cả phần kê, phủ ván mặt không xử lý gốc hỏng.
+
+Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lời giới hạn nghề trong chính văn là lỗi đã ghi review, không thay thiết lập.
+
 ---
 
-## 3. Trạng thái làm việc sau đoạn 002
+## 3. Trạng thái sau đoạn 003
 
-001: Tác giả đã chọn dùng v02-02. 002: bản Writer lượt 04, 2.129 chữ Hán; review SỬA NHẸ, giữ để đọc, chưa ghi Tác giả duyệt toàn đoạn. Ba lượt 002 trước bị loại, giữ archive.
+Tác giả yêu cầu viết liên tục, tự xử lý việc thường lệ; các đoạn mới được Agent review, không ghi tác giả duyệt riêng. 003 SỬA NHẸ, nguyên văn giữ nguyên.
 
-Sáng ngày đầu, Rowan và Mira tại bãi chờ đầu dốc. Alden vừa hỏi Rowan có nhận việc thêm ghìm dây và giữ đường cho hai xe phụ tùng, và cần điều kiện gì. Đoạn 003 nối ngay câu Rowan trả lời; việc nhận trách nhiệm, công và cách làm chưa chốt.
+Cùng buổi sáng, sàn kê sát bờ Stonewake. Oswin vừa chỉ gỗ kê dưới ván mặt mục, yêu cầu thay cả phần đỡ. Rowan đang nghe; 004 mở lời anh đáp để chốt công sửa với Alden/Mira/Oswin. Sáu xe còn trên bãi trước dốc, chưa xuống hoặc qua phà.
 
-- Nhóm đường dẫn: Dain + Toma + hai người mới = 4. Nhóm sân: cựu binh còn lại + ba người mới = 4. Rowan ngoài tám. Mira/Alden/người làm phà ngoài quân số.
-- Có sáu xe ở bãi = bốn xe ngũ cốc đã hẹn + hai xe nhận ghép dọc đường. Theo giấy và hàng mở kiểm trong bản thảo, hai xe thêm là dụng cụ/phụ tùng máy xay, nơi nhận Greyford. Chưa xuống dốc, chưa lên phà.
-- Một phà; Mira đã chọn chở riêng từng xe phụ tùng. Giờ hoàn tất, cân nặng và giá phí chưa xác nhận. Con số 两千斤往上 Writer tự thêm trong lời Mira không dùng tính tải hoặc người.
-- Phần lót gỗ/thay ván/cách ghìm mới là lời bàn, chưa làm hoặc kiểm nghiệm; 003 phải kiểm tra đường/sàn với người thạo trước chọn cách làm. Người làm phà phụ trách phần phà.
-- Tiền mặt 32 bạc = 20 vốn + 12 tạm ứng; tổng hợp đồng 24 bạc/30 ngày. Phí phà sổ chủ bến; chưa có công thêm hoặc phí mới được chốt/thu.
-- Toma: 长矛收势：13/100; 训练积累：0. Vẫn mệt, biết giữ vị trí; không suy thành thực chiến. Chỉ Rowan biết bảng.
-- Rowan là kỵ sĩ vừa giải ngũ và trực tiếp chỉ huy. Các tên giữ Latin; Alden gọi Rowan骑士.
-
-Bản thảo 002 và trạng thái này dùng để nối mạch, không nâng các lời ước lượng/thao tác tự thêm thành luật bến. Xem review 002 và luu-y-tac-gia.md.
+- Nhóm Dain = Dain + Toma + hai người mới, 4 người, đi kiểm đường/thử dây chùng. Nhóm sân = cựu binh còn lại + ba người mới, 4 người, ở sân. Rowan ngoài tám; Mira, Alden, Oswin và người chạy phà ngoài quân số.
+- Tiền mặt 32 bạc. Phòng vệ 24 bạc/30 ngày, đã nhận 12. Công thêm 1 bạc chỉ trả sau hoàn tất hai xe phụ tùng; chưa được nhận. Vật tư/sửa bến do chủ bến trả riêng.
+- Một phà, mỗi lượt một xe phụ tùng theo Mira. Hàng hai xe là dụng cụ/phụ tùng máy xay, giấy Greyford. Giờ/tải/cân nặng chưa đo; câu hai nghìn cân chưa thành thông số.
+- Kiểm thấy ván mặt còn cứng nhưng phần kê mục, đã vạch phấn; chưa báo giá hoặc sửa. Cách ghìm/chuẩn bị phà phải do người thạo việc quyết sau kiểm, chưa chốt bằng lời bàn cũ.
+- Toma vẫn 长矛收势：13/100, 训练积累：0; chưa có thử kỹ năng khác. Nhãn `收矛/潜能` và câu “控车 không là chiến kỹ” của Writer không thay cơ chế. Có hồ sơ không xác nhận trung thành; dùng điểm không hồi sức.
+- Người mới còn mệt; vừa dùng kỹ năng giữ khoảng cách vào việc nhỏ. Chưa chứng minh thực chiến. Rowan giữ quyền chỉ huy thực, tên Latin cả thoại/lời kể.
 
 ---
 
@@ -86,22 +91,24 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
 
-那车夫见年轻卫兵神情绷得紧紧的，倒也不敢造次，吆喝着拉紧了缰绳，大车稳稳停在了指定的位置。而在不远处的卫所院子前，留守的那名老兵和三个新兵依旧稳稳守在门廊下，半步也没有离开过防区。
-八个人各在各的位子上，引道四个，院子里四个，分毫不乱。
-就在这时，一个清瘦的身影从渡口库房的方向慢步走了过来。
-来人正是Alden，年过半百，身上穿着一件洗得发白的硬亚麻长袍，袖口挽得老高，右手食指与中指的指节上还沾着擦不掉的深黑色墨迹。
-Alden先是停在Mira身侧，目光在六辆大车上转了一圈，开口问道：“Mira，渡工那边怎么说？下头浮码头的缆绳能吃得住这铁家伙么？”
-“水上好办，跳板垫结实了就行。”Mira摇了摇头，伸手指向那条铺满碎石、坡度极陡的下坡路，“麻烦全在这截下坡道。两千斤往上的生铁家伙，光靠车夫拉那一根皮手刹，一旦车轮在碎石上打滑，车带马直冲下去，砸在浮码头上，整条船都得被撞个底朝天。”
-Alden点了点头，眼角的皱纹微微动了动，似乎对此早有预料。他转过身，朝着Rowan客气地招了招手：“Rowan骑士，借一步说话。”
-Rowan按剑上前，神色如常：“Alden管事，有何见教？”
-Alden指了指那两辆装满磨坊配件的大车，压低了嗓门，言语间带着文书特有的条理与谨慎：
-“原本按照渡口主人与您签下的契约，您带着这八个弟兄，每日只管营房防务、引道警戒与过往治安。按一个月三十天算，这二十四枚银币是拿得安安稳稳的。不过眼下这桩事，显然超出了防务的底线。”
-Rowan静静听着，心里微微一动。
-他自己兜里眼下只有三十二枚银币的现钱，那二十四枚银币的守卫佣金也才提前支取了十二枚，任何合规合法的进项，他都不可能轻易放过。
-Alden拿指甲点了点袖口，继续说道：“渡工推脱说他们只管水里的船，不肯上坡拉缆；车夫又怕把牲口压断了腿。我琢磨着，这下坡的两道防滑倒绞索，得有几个力气大、懂规矩的人在后头死死拽着，顺带还要有人沿途卡石楔子、清空道路。”
-老文书抬起那双沾着墨水的手，目光落在Rowan年轻却沉稳的脸庞上，语气里多了一分商量的口吻：
-“这属于雇工外的差事，渡口公账上可以单独列一笔劳务贴补。Rowan骑士，这桩帮着下车控索的活计，您接不接，又打算要个什么章程？”
+Rowan脚下一顿，立刻收回重心退了半步，抬臂拦住身后的人：“停下，都别踩上去。”
+Dain和两个新兵立刻止步，Toma也连忙扯紧了绳头，站在了干硬的碎石地界上。引道上的六辆大车依然稳稳停在上方的坪地，要是这会儿已经推了一辆重车下来，这一脚踩空怕是当场就要出乱子。
+Mira快步走上前来，蹲下身子伸指抹了一把木板缝隙里的黑泥，脸色顿时沉了下来。
+“见鬼的，前几天潮水涨得太高，把下头泡发了。”Mira站起身，扯开嗓子朝后头的库房方向喊道，“Oswin！拿上你的家伙什，赶紧滚过来！”
+不多时，一个身材敦实的中年男人提着沉重的皮质工具袋，急匆匆地顺着坡道小跑了下来。
+来人正是渡口的木匠Oswin，四十二岁，粗布短褂的肩膀处磨得发亮，腰间别着木槌和凿子，粗糙开裂的大手里正捏着一块用来划线的蓝粉石。他并不是卫所里的人，只是按活计从渡口账房领铜子儿的匠人。
+“怎么了管事？跳板我昨儿才刚……”
+“少废话，看这儿。”Mira指了指凹陷下去的那块木板。
+Oswin蹲下身去，从工具袋里掏出一柄生锈的撬棍，插进木板的接缝里，使劲往上一别。
+伴随着刺耳的铁钉拔出声，那块足有两指厚的表面橡木板被生生掀了起来。
+木板翻开的瞬间，一股带着水腥味的腐朽木气扑面而来。
+Oswin伸出黑黢黢的手指，在支撑排木的横梁上使劲抠了一把。只见大块大块松散如泥的黑褐色烂木屑被他直接扯了下来，木梁当中赫然已经空了大半，里头甚至还能看到几只受惊乱爬的水生潮虫。
+Oswin用手里的蓝粉石在横梁两侧重重画了一道横杠，拍了拍手上的木屑，转头对Mira和Rowan说道：
+“面上的橡木板是硬实，可下头吃力的这根垫底托木全烂透了。平时过几只羊、两辆空板车倒还能蒙混过去，那两辆装满磨坊铸铁齿轮的重车只要前轱辘一搭上来，这根木头当场就得粉碎，整辆车都得歪进水沟里。”
+Rowan蹲下身，仔细看了看那道粉笔印：“要是从上面再铺两层厚木板，能不能把分量散开硬垫过去？”
+Oswin连连摇头，将撬棍往烂木梁上一戳，半截铁棍轻而易举就陷了进去：
+“不能这么干，Rowan大人。光在面上垫木板那是自欺欺人，受力的根子全在这根托木上。要想让那种生铁重车稳当过河，底下这根烂托木必须整根刨出来换掉，不换，谁推车谁找死。”
 
-(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)

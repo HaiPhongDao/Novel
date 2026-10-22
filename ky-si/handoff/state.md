@@ -1,15 +1,12 @@
-## 3. Trạng thái làm việc sau đoạn 002
+## 3. Trạng thái sau đoạn 003
 
-001: Tác giả đã chọn dùng v02-02. 002: bản Writer lượt 04, 2.129 chữ Hán; review SỬA NHẸ, giữ để đọc, chưa ghi Tác giả duyệt toàn đoạn. Ba lượt 002 trước bị loại, giữ archive.
+Tác giả yêu cầu viết liên tục, tự xử lý việc thường lệ; các đoạn mới được Agent review, không ghi tác giả duyệt riêng. 003 SỬA NHẸ, nguyên văn giữ nguyên.
 
-Sáng ngày đầu, Rowan và Mira tại bãi chờ đầu dốc. Alden vừa hỏi Rowan có nhận việc thêm ghìm dây và giữ đường cho hai xe phụ tùng, và cần điều kiện gì. Đoạn 003 nối ngay câu Rowan trả lời; việc nhận trách nhiệm, công và cách làm chưa chốt.
+Cùng buổi sáng, sàn kê sát bờ Stonewake. Oswin vừa chỉ gỗ kê dưới ván mặt mục, yêu cầu thay cả phần đỡ. Rowan đang nghe; 004 mở lời anh đáp để chốt công sửa với Alden/Mira/Oswin. Sáu xe còn trên bãi trước dốc, chưa xuống hoặc qua phà.
 
-- Nhóm đường dẫn: Dain + Toma + hai người mới = 4. Nhóm sân: cựu binh còn lại + ba người mới = 4. Rowan ngoài tám. Mira/Alden/người làm phà ngoài quân số.
-- Có sáu xe ở bãi = bốn xe ngũ cốc đã hẹn + hai xe nhận ghép dọc đường. Theo giấy và hàng mở kiểm trong bản thảo, hai xe thêm là dụng cụ/phụ tùng máy xay, nơi nhận Greyford. Chưa xuống dốc, chưa lên phà.
-- Một phà; Mira đã chọn chở riêng từng xe phụ tùng. Giờ hoàn tất, cân nặng và giá phí chưa xác nhận. Con số 两千斤往上 Writer tự thêm trong lời Mira không dùng tính tải hoặc người.
-- Phần lót gỗ/thay ván/cách ghìm mới là lời bàn, chưa làm hoặc kiểm nghiệm; 003 phải kiểm tra đường/sàn với người thạo trước chọn cách làm. Người làm phà phụ trách phần phà.
-- Tiền mặt 32 bạc = 20 vốn + 12 tạm ứng; tổng hợp đồng 24 bạc/30 ngày. Phí phà sổ chủ bến; chưa có công thêm hoặc phí mới được chốt/thu.
-- Toma: 长矛收势：13/100; 训练积累：0. Vẫn mệt, biết giữ vị trí; không suy thành thực chiến. Chỉ Rowan biết bảng.
-- Rowan là kỵ sĩ vừa giải ngũ và trực tiếp chỉ huy. Các tên giữ Latin; Alden gọi Rowan骑士.
-
-Bản thảo 002 và trạng thái này dùng để nối mạch, không nâng các lời ước lượng/thao tác tự thêm thành luật bến. Xem review 002 và luu-y-tac-gia.md.
+- Nhóm Dain = Dain + Toma + hai người mới, 4 người, đi kiểm đường/thử dây chùng. Nhóm sân = cựu binh còn lại + ba người mới, 4 người, ở sân. Rowan ngoài tám; Mira, Alden, Oswin và người chạy phà ngoài quân số.
+- Tiền mặt 32 bạc. Phòng vệ 24 bạc/30 ngày, đã nhận 12. Công thêm 1 bạc chỉ trả sau hoàn tất hai xe phụ tùng; chưa được nhận. Vật tư/sửa bến do chủ bến trả riêng.
+- Một phà, mỗi lượt một xe phụ tùng theo Mira. Hàng hai xe là dụng cụ/phụ tùng máy xay, giấy Greyford. Giờ/tải/cân nặng chưa đo; câu hai nghìn cân chưa thành thông số.
+- Kiểm thấy ván mặt còn cứng nhưng phần kê mục, đã vạch phấn; chưa báo giá hoặc sửa. Cách ghìm/chuẩn bị phà phải do người thạo việc quyết sau kiểm, chưa chốt bằng lời bàn cũ.
+- Toma vẫn 长矛收势：13/100, 训练积累：0; chưa có thử kỹ năng khác. Nhãn `收矛/潜能` và câu “控车 không là chiến kỹ” của Writer không thay cơ chế. Có hồ sơ không xác nhận trung thành; dùng điểm không hồi sức.
+- Người mới còn mệt; vừa dùng kỹ năng giữ khoảng cách vào việc nhỏ. Chưa chứng minh thực chiến. Rowan giữ quyền chỉ huy thực, tên Latin cả thoại/lời kể.

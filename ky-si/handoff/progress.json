@@ -1,0 +1,15 @@
+{
+  "latest": 3,
+  "cash": 32,
+  "receivables": [
+    {
+      "work": "Đưa hai xe phụ tùng xuống bến theo điều kiện đã thỏa thuận",
+      "silver": 1,
+      "status": "chưa hoàn thành, chưa nhận"
+    }
+  ],
+  "sessionUrl": "https://aistudio.google.com/prompts/15-RsuX5OmhUNgFZvlTqETUci_Qc8ezU-",
+  "sessionSegments": 2,
+  "decision": "SỬA NHẸ",
+  "authorApproved": false
+}

@@ -13,3 +13,7 @@
 | Sau đó | Lập lịch sau phản hồi Tác giả và kết quả bản thử |
 
 Ngày 30 là chu kỳ hợp đồng, không là mốc chết hoặc xử phạt đã chốt.
+
+### Diễn biến làm việc 003
+
+Ngày đầu buổi sáng: thỏa thuận công thêm một bạc sau hai xe, kiểm đường trước tải; phát hiện kê sàn mục, chưa sửa/nhận tiền. Agent review theo yêu cầu viết tiếp.

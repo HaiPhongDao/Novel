@@ -19,3 +19,11 @@ Chủ đoàn giải thích nhận ghép hai xe, đưa giấy ghi hàng tới Gre
 Alden tới phân biệt việc phòng vệ trong 24 bạc/30 ngày với phần việc ghìm dây và giữ đường thêm. Ông hỏi Rowan có nhận và muốn điều kiện gì; chưa có câu đáp, giá mới hoặc thu/chi. Tiền mặt 32 bạc, bảng Toma không đổi.
 
 Lời tự đặt về cân nặng và chuẩn bị phà chưa được kiểm chứng, không thành thông số canon. Xem reviews/doan-002.md trước 003.
+
+### Đoạn 003 — kiểm đường, phát hiện gỗ kê mục
+
+Rowan và Alden thống nhất công thêm một bạc sau hoàn tất cả hai xe; chỉ nhận phần giữ lối/phối hợp, vật tư và sửa bến đi sổ chủ bến. Tiền mặt vẫn 32 bạc. Rowan yêu cầu kiểm trước đưa xe xuống.
+
+Nhóm Dain bốn người thử đổi vị trí với dây chùng, Toma hỏi rồi sửa chỗ vướng; nhóm sân bốn người ở nguyên. Xe còn trên bãi. Rowan giẫm thấy sàn kê sát bờ lún, dừng cả nhóm; Oswin nhấc ván mặt, chỉ gỗ kê bên dưới mục. Đoạn dừng khi thợ giải thích phải thay cả phần kê, phủ ván mặt không xử lý gốc hỏng.
+
+Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lời giới hạn nghề trong chính văn là lỗi đã ghi review, không thay thiết lập.
