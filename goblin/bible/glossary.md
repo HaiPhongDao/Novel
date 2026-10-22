@@ -9,7 +9,7 @@
 | Ko | Ko | Tên goblin gọi Khoa |
 | Gorr | Gorr | Tù trưởng |
 | Yeg | Yeg | Thầy cúng mù |
-| Nub · Snik · Zag | Nub · Snik · Zag | Con non cùng ổ |
+| Nub · Snik · Zag · Mok | Nub · Snik · Zag · Mok | Con non cùng ổ — nhóm năm của Khoa (Mok thêm ở 005) |
 | Hang Dơi | 蝙蝠洞 | Địa danh mô tả → dùng chữ Hán |
 | Suối Lạnh | 冷溪 | |
 | Đầm Rêu Đỏ | 红苔沼 | |
@@ -18,7 +18,7 @@
 | Tiếng Việt | 中文 |
 |---|---|
 | goblin | 哥布林 |
-| Mẹ Ổ | 巢母 |
+| Mẹ Ổ | 巢母 (goblin gọi 母亲) |
 | hố ổ / ổ trứng | 巢坑 / 卵窝 |
 | con non | 幼崽 |
 | tù trưởng | 首领 |

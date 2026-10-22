@@ -48,3 +48,9 @@
 - Nhóm năm: Khoa giơ bàn tay bốn ngón — Nub, Snik, Zag, Mok — chọc vào lòng bàn tay là "我"; nắm lại thành nắm đấm. "五个，是一只手。"
 - Zag thua Khoa vì dẫm trúng phiến đá lỏng ở dốc đá vụn dưới cửa hang; gậy của Zag nay Snik cầm.
 - Đàn em gọi Khoa 老大.
+
+**Đã lên trang ở đoạn 6**
+- Goblin gọi Khoa là "Ko" — Yeg gọi trước, vì không phát âm được nguyên âm kép tiếng Việt.
+- Đống sỏi trong khe đá sau lưng Yeg: 112 viên, mỗi viên một con chết mùa đông năm ngoái.
+- Goblin gọi Mẹ Ổ là 母亲.
+- Giao kèo Ko–Yeg: thịt nướng cho Mẹ Ổ mỗi ngày, đổi lấy việc Yeg giữ kín chuyện Ko làm ra lửa.

@@ -1,22 +1,24 @@
-## 3. Trạng thái hiện tại (hết đoạn 5)
+## 3. Trạng thái hiện tại (hết đoạn 6)
 
 **Thời điểm:** đêm Ngày 8.
-**Có mặt:** trong hang, ở góc khuất gió có đống than của Yeg. Khoa đi đầu, sau là Nub, Snik (ôm gậy của Zag), Zag, Mok — cả năm vừa ăn thịt nướng ở Suối Lạnh về. Yeg ngồi bên đống than, vừa ngẩng mặt về phía Khoa, khịt mũi hai cái. Bộ lạc đang ngủ; Gorr ngủ trên đống da thú gần tảng đá xanh.
+**Có mặt:** góc khuất gió có đống than của Yeg. Khoa ngồi xổm bên đống than, đối diện Yeg; Yeg vừa nắm trong tay khúc xương đùi chuột nướng, chưa kịp ăn. Gorr cầm dao đứng ở lối vào góc than, vừa gọi "Yeg"; chưa rõ Gorr thấy gì. Nub, Snik, Zag, Mok đã về mép hố ổ.
 
 **Nhân vật chính biết**
-- Nhóm năm con nghe lời Khoa: Nub, Snik, Zag, Mok là bốn ngón, Khoa là lòng bàn tay. Zag thua vì trượt đá, đã nhận phần thịt to nhất.
-- Lửa và bẫy là bí mật của nhóm; bộ cung khoan giấu ở gốc liễu bờ Suối Lạnh.
-- Gorr ăn con non khi đội săn về tay không. Mẹ Ổ ở ngách sâu nhất, Yeg chăm và đút thịt.
+- Giao kèo với Yeg: ngày nào Ko cũng đem thịt nướng cho Mẹ Ổ; Yeg không cho ai, kể cả Gorr, biết Ko làm ra lửa.
+- Lời Yeg: mùa đông năm ngoái chết 112 con (đống sỏi trong khe đá sau lưng Yeg); lạnh và đói thì Mẹ Ổ không đẻ; Mẹ Ổ già, rụng răng, thịt sống nhai không nát, thịt nướng mềm thì nuốt được.
+- Goblin gọi Khoa là "Ko" (Yeg gọi trước).
+- Nhóm năm: Nub, Snik, Zag, Mok là bốn ngón, Khoa là lòng bàn tay.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Bộ lạc | 126 (~70 trưởng thành, 37 con non ổ trước, 19 con non ổ của Khoa) |
-| Con non ổ của Khoa | 19 — nhóm của Khoa 5; 3 con từng theo Zag; trong hố 11 |
-| Bẫy | 3 bẫy số 4 ở bờ suối, mỗi đêm vài con chuột (~200 g/con) |
-| Thân Khoa / Zag | ~50 cm / hơn 60 cm, ~15 kg |
-| Ngày tới tuyết đầu mùa | còn ~52 ngày |
+| Chết mùa đông năm ngoái | 112 |
+| Ngày tới tuyết đầu mùa | còn ~52 ngày; mùa đông ~100 ngày |
+| Thịt cần cho cả mùa đông | 126 × 0,5 kg × 100 ngày ≈ 6.300 kg |
+| Bẫy chuột | 3 bẫy, chưa tới 600 g một đêm |
 
 **Tuyến đang mở**
-- Yeg ngửi ra mùi thịt nướng trên người Khoa.
-- Ba con non từng theo Zag đã chạy về hang, thấy Zag thua.
+- Gorr đứng ở lối vào góc than, cầm dao, vừa gọi Yeg.
+- Mẹ Ổ chưa đẻ thêm từ ổ của Khoa (Ngày 1).
+- Cần nguồn thịt lớn hơn chuột trước khi tuyết rơi.

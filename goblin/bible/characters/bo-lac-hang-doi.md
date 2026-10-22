@@ -19,3 +19,5 @@
 - **Nub** — con non chậm, mắt to, im lặng. Học trò đầu tiên: bắt chước Khoa **chính xác tới từng động tác thừa**. Trung thành vì được chia ăn trước.
 - **Snik** — con non gầy, nhanh tay, hay ăn cắp. Láu cá. Hay hỏi "tại sao" — điều goblin không bao giờ hỏi. *(Tuyến dài, chưa lộ: Snik là goblin đầu tiên tự cải tiến một quy trình.)*
 - **Zag** — con non to xác nhất ổ, bắt nạt các con khác. Bị Khoa hạ bằng mẹo rồi thu nạp; về sau thành tay đấm của nhóm.
+- **Mok** — con non cùng ổ, béo nhất, chậm, chỉ biết tranh ăn; ai cho ăn thì theo. Một trong bốn con theo Zag, ở lại khi ba con kia bỏ chạy (005). *(Agent thêm 23/10, ghi log.)*
+- **Nhóm năm** (005): Nub, Snik, Zag, Mok là bốn ngón của bàn tay goblin, Khoa là lòng bàn tay.

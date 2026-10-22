@@ -24,3 +24,6 @@
 2026-10-23 | doan-005 | Thêm con non thứ năm của nhóm: **Mok** — một trong bốn con theo Zag, to xác, chậm, theo ai cho ăn. Nhóm năm = Nub, Snik, Zag, Mok là bốn ngón, Khoa là lòng bàn tay | Tay goblin chỉ có bốn ngón (canon đoạn 1) mà outline gọi nhóm năm là "một bàn tay" → ghép bốn ngón + lòng bàn tay. Cần Tác giả xem | Agent (ghi log, chờ Tác giả)
 2026-10-23 | doan-005 | Chốt. Sửa "河江县中学" → "县中学". Mok vào canon; nhóm năm = bốn ngón + lòng bàn tay | Đạt review | Agent (ghi log; nhóm-năm chờ Tác giả xem)
 2026-10-23 | doan-006 | Cảnh Yeg gọi Khoa vào bên đống than dời từ Ngày 10 lên ngay đêm Ngày 8 (nối thẳng chỗ đoạn 005 dừng: Yeg ngửi thấy mùi thịt nướng). Yeg hỏi tên, gọi Khoa là "Ko" | Mạch nối liền; tên Ko lần đầu lên trang | Agent (ghi log)
+2026-10-23 | doan-006 | Chốt. Sửa "河江县中学" → "县中学", "骨刀" → "铁刀". Cảnh Yeg dời lên đêm Ngày 8 | Đạt review | Agent (ghi log)
+2026-10-23 | doan-006 | Ý của Writer: Mẹ Ổ già, rụng răng, chỉ nuốt được thịt nướng mềm — giữ như lời Yeg trong state, CHƯA vào bible | Làm giao kèo chặt; hơi lệch đoạn 2 | Chờ Tác giả
+2026-10-23 | dự án | Sau 6 đoạn SI v0: lời kể giải thích (thiết lập đọc lại, vào đầu nhân vật phụ, "对…来说") tăng dần, độ dài 1,2–1,9 lần. Đề xuất sửa SI trước đoạn 007 | Review 001–006 | Chờ Tác giả
