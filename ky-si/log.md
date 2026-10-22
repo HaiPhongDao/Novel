@@ -21,3 +21,5 @@
 2026-10-23 | thử thoại v02-01 | Session mới, giữ nguyên prompt v01-02, chỉ đổi SI; 2.058 chữ Hán; người dưới vẫn chủ yếu xác nhận và Mira dài bằng dữ kiện tự đặt | So tác dụng của SI riêng | Agent review, chưa đạt
 
 2026-10-23 | thử thoại v02-02 | Giữ SI v0.2, mở trao đổi giữa người tập và người dạy trong brief; 2.279 chữ Hán; Toma–Dain–Rowan có mạch giải thích và đáp nối ý; lưu nguyên văn, review riêng | Cải thiện thoại theo phản hồi; dữ kiện phà tự thêm chưa vào canon | Agent review, chưa chốt toàn đoạn
+
+2026-10-23 | lưu ý lâu dài | Lưu riêng yêu cầu thoại lưu loát, nói trọn ý và đáp nối nhau vào luu-y-tac-gia.md; đặt liên kết cần đọc trong README trước khi lập brief, chạy Writer hoặc review | Tác giả yêu cầu “Lưu lưu ý này lại git” | Tác giả

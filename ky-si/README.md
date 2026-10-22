@@ -19,6 +19,7 @@
 
 ## Writer
 
+- **Đọc trước khi lập brief, chạy Writer hoặc review:** [Lưu ý của Tác giả](luu-y-tac-gia.md), đặc biệt yêu cầu thoại nói trọn ý, lưu loát và đáp nối nhau.
 - [SI đang thử v0.2](gemini/system-instruction.md): 5.282 ký tự, Gemini 3.8 Flash, Thinking High, Grounding tắt. Bản lưu AI Studio mới nhất: `Kỵ sĩ - SI v0.2 thoại test02`. SI v0.1 được giữ trong snapshot của hai bản đầu.
 - [Thay đổi về thoại](gemini/thay-doi-v02.md): tách nhịp lời kể với lượt nói, thêm trích mẫu nối lời và mở cơ hội trao đổi trong cảnh tập.
 - [Kế hoạch thử](gemini/ke-hoach-thu.md), [trích mẫu hiệu chỉnh](gemini/mau-giong.md), [gói thử mở đầu](briefs/session-test-001.md).
