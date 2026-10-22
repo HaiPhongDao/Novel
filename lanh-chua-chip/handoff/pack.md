@@ -80,49 +80,53 @@ Nhà Dunn (thợ đan liễu) lén xúc than còn hồng về đốt trong hầm
 Leon, Gareth, Mira vào rừng; dấu chân sói to hơn thường 26%. Gareth chém chết một con sói đói; trên sườn nó có ba vết cào cũ cách nhau 5,7 cm, 小七 không nhận ra loài nào — Leon giữ kín. Lán săn: Bram bị sói xé bắp chân phải, sốt; Leon rửa nước sôi, băng lại. Bram: bầy mười bốn con chạy từ núi bắc xuống nam — "它们是在逃命". Chập tối ra bìa rừng, một hàng mắt đỏ đứng nhìn theo.
 
 ### Đoạn 9 — tối Ngày 8
-Hàng mắt đỏ dừng ở bìa rừng; 小七 đếm 28 đốm = 14 con (89%), đói, chưa định xông lên (76%). Gareth cầm kiếm đi lùi sau cùng; lùi hơn hai trăm bước thì mắt đỏ chìm vào đêm. Phía bắc làng chỉ có hàng rào cành khô cao nửa người. Về nhà Mira: Tobi đã đứng dậy được, Bram nằm trên đống rơm mạch. Hob cầm đuốc nhựa thông tới, đứng chống gậy; Leon nói mười bốn con sói mắt đỏ. Bram: chúng bị thứ gì trong núi đuổi ra, đi theo đường nai, lối gần nhất là lòng suối cạn đáy sỏi phía bắc — nửa canh giờ từ rừng tới đầu làng. 小七: 3–5 ngày nữa bầy xuống (81%). Leon ra kế hoạch: rào cọc nhọn cao 2 m dài ~210 m (630 cọc, 140 thanh giằng), hào nông phía trước, chậu than sau rào cách nhau 20 bước; 40 đàn ông làm 3 ngày rưỡi (85%); cọc lấy từ thông đỏ chết khô ở sườn đông; người già, đàn bà, trẻ con cõng than đun nước. Người làm rào thêm nửa pound lương mỗi ngày, lười thì mất cả phần. Bram góp mẹo: chừa khe hai thước ở lòng suối cạn, sau khe đào hố chông ngạnh ngược phủ tro cỏ, treo da bôi mỡ cừu làm mồi. Hob nhận chia người lúc trời sáng, chống gậy ra cửa; Leon đứng ở góc nhà nhẩm khẩu phần thêm.
+Về làng dưới mắt bầy sói (小七: 14 con). Ở nhà Mira, Bram chỉ lối lòng suối cạn phía bắc; 小七: 3–5 ngày nữa bầy xuống. Leon ra kế hoạch rào cọc 210 m, hào, chậu than cách nhau 20 bước; 40 người làm 3 ngày rưỡi, thêm nửa pound lương/ngày. Bram góp mẹo khe hở + hố chông + da cừu bôi mỡ.
 
 ### Đoạn 10 — đêm Ngày 8 → nửa đêm Ngày 12
-Leon nhẩm 60 pound lương thêm rồi cùng Gareth về trang viên. Pell bưng trà tối ra đón, mắt dò mặt Leon; Leon ho (nửa thật), tay run cầm bát, than lạnh trong rừng, khen trà, sai Pell xuống kho ôm củi, rồi đổ trà vào khe gạch, lau miệng bát. Pell quay lại thấy bát rỗng, cười híp mắt, lui ra. Ngày 9–11: dỡ rào cành cũ, Doyle chặt thông đỏ dưới mắt Gareth, thợ mộc già vót cọc; Bram nằm cáng quát người đào hố chông ở khe lòng suối (sâu một người rưỡi, chông thông đỏ bôi bùn thối, phủ cành khô, tro, đất, treo mảnh da cừu); người già, trẻ con cõng than, nồi sắt đun nước cho người làm; chiều nào Hob cũng phát nửa pound thêm trước cả làng. Chiều Ngày 11 rào 210 m khép (634 cọc), hào sâu 68 cm, hố chông sâu 2,1 m, 12 chậu than sắt sau rào. Lương thêm đã chi 63 pound; còn 4.321 pound — 29 ngày; tuyết còn 77 ngày. Đêm Ngày 12, Leon (đeo đoản kiếm), Gareth và sáu đàn ông cầm giáo gỗ hơ lửa nấp sau rào, không đốt đuốc. Gần nửa đêm Doyle ở góc bắc thấy mười mấy đốm mắt đỏ đang men lòng suối cạn, rạp sát đất, mò về phía khe hở; Gareth siết chuôi kiếm, đám đàn ông nắm chặt cán giáo.
+Đêm Ngày 8, Leon diễn mệt trước Pell, đổ trà vào khe gạch; Pell thấy bát rỗng. Ngày 9–11 cả làng dựng rào (634 cọc), hào, hố chông, 12 chậu than; lương thêm 63 pound; còn 4.321 pound — 29 ngày. Đêm Ngày 12 mắt đỏ men lòng suối cạn xuống.
 
 ### Đoạn 11 — nửa đêm Ngày 12 → sáng Ngày 13
 Bốn con sói tiền quân men lòng suối cạn (小七 đếm qua những đốm phản quang Leon thấy, 91%). Con đầu ngửi mỡ cừu chui qua khe hai thước, sụp hố chông — tám cọc xuyên người. Con đực lớn bị kích máu nhảy vào rào; hơi nóng chậu than làm nó chùn giữa không trung, đâm vào cọc rơi xuống hào; giáo của Doyle đâm trúng sườn, Gareth đâm kiếm qua khe cọc xuyên cổ. Hai con còn lại chạy về bắc lệch đông. Leon không cho đuổi; ai ngủ gật trong ca trừ hai ngày khẩu phần; cả đêm không ai ngủ. Sáng Ngày 13 cả làng ra xem: hai xác 118 và 124 pound, ~143 pound thịt ăn được, hai tấm da ấm bằng ba lớp nỉ lanh. Hob chống gậy tới, nhìn lâu, cúi gập người: "领主大人……黑石领有救了。" — mười mấy dân quỳ theo. Leon bảo đứng dậy; lệnh: thịt lóc xương xát muối phơi khô nhập kho, mỗi ngày thái hạt lựu bỏ vào cháo mạch chia theo đầu người; da rửa tro, treo dưới hành lang trang viên. Leon tính: thịt sói thêm được chừng một ngày; còn ~30 ngày lương, 76 ngày tới tuyết, mười hai con sói vẫn ở rừng. Anh nhớ tấm bản đồ da dê cũ có con suối không đóng băng ở phía tây. Sau lưng vang lên một tiếng ho già nua.
 
+### Đoạn 12 — sáng Ngày 13 → chiều tối Ngày 15
+Bram chống gậy chạc, Mira đỡ, ra tới rào: chỉ còn mười mấy con trong rừng; suối nước lạnh phía tây mùa này có cá lưng đen vảy nhỏ ngược dòng. Chiều Ngày 13, Leon, Gareth, Mira đi xem: suối rộng hai trượng, rừng sồi rụng đầy hạt. Mira cười "đồ cho lợn rừng"; Gareth: chỉ năm đói mới ăn. Leon cắn thử, nhổ ra; khử chát: bóc vỏ, giã, đóng bao ngâm nước chảy ba ngày, phơi giã thành bột. 小七: ~3.600 pound bột (84%); đập chữ V + rọ phễu giữ 30–50 pound cá/ngày tới khi suối đóng băng (79%). Lệnh: đàn bà trẻ con nhặt hạt (đủ hai sọt thêm nửa bát cháo), Dunn và mấy người già đan rọ liễu đỏ, hai mươi trai tráng đắp đập. Chiều tối Ngày 15 bên suối: đập đá chữ V, ba rọ, mẻ đầu 37 pound cá; 32 bao hạt sồi ngâm buộc cọc; Mira nướng bánh sồi trên phiến đá kê chậu than — Tobi đòi thêm, Dunn: "甜的". Hob cầm que than báo: 37 pound cá nửa buổi, 46 bao hạt đã bóc gần 3.000 pound; hỏi làng có sống qua mùa đông không. Leon tính: tổng cộng chừng 56–58 ngày ăn — vẫn thiếu chừng hai mươi ngày trước khi tuyết rơi, chưa nói nửa năm tuyết. Dunn xâu cá mang về kho; trời tối hẳn.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 11)
+## 3. Trạng thái hiện tại (hết đoạn 12)
 
-**Thời điểm:** sáng Ngày 13, bãi đất ngay trước rào bắc.
-**Có mặt:** Leon, Gareth, Doyle và mấy đàn ông đang treo hai xác sói lên giá gỗ lột da; dân làng đứng xem; Hob. Sau lưng Leon vừa vang lên một tiếng ho già nua. Pell ở trang viên.
+**Thời điểm:** chạng vạng Ngày 15, bờ suối phía tây, cạnh đập đá chữ V.
+**Có mặt:** Leon, Gareth, Mira (nướng bánh sồi trên phiến đá kê chậu than), Tobi, Dunn (đang xâu cá), Hob (cầm que than ghi số), dân làng. Bram ở nhà (đi được bằng gậy chạc). Pell ở trang viên.
 
 **Leon biết**
 - Pell bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon vẫn uống trà.
-- Bầy sói còn 12 con ở rừng; hai con tiền quân chạy về bắc lệch đông. Vết cào 5,7 cm (chỉ Leon biết).
-- Tấm bản đồ lãnh địa bằng da dê cũ ở trang viên: phía tây có một con suối không đóng băng chảy từ núi xuống.
+- Bầy sói còn 12 con ở rừng. Vết cào 5,7 cm (chỉ Leon biết).
 
-**Con số đang chạy**
+**Con số đang chạy (khung đúng)**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Lương | ~4.300 pound mạch đen + ~143 pound thịt sói → ~30 ngày (sáng Ngày 13) |
-| Tới tuyết đầu mùa | ~76 ngày (tính từ Ngày 13) |
-| Củi đun nước | xà sồi mái sập: còn ~62 ngày |
-| Sói mắt đỏ | còn 12 con ở rừng |
+| Mạch đen trong kho | ~3.700 pound (Ngày 15) + thịt sói khô ~143 pound |
+| Bột sồi | ước ~3.500 pound khi xử lý xong (mới nhặt ~1/4, 46 bao đã bóc ~3.000 pound hạt, 32 bao đang ngâm) |
+| Cá | 30–50 pound/ngày tới khi suối đóng băng (~20 ngày nữa) → ~700–800 pound |
+| Tổng | ~56–58 ngày ăn cho 146 người |
+| Tới tuyết đầu mùa | ~74 ngày (tính từ Ngày 15) → **thiếu ~16–18 ngày trước khi tuyết rơi**, và nửa năm tuyết sau đó chưa có gì |
+| Củi đun nước | xà sồi mái sập: còn ~60 ngày |
 
 **Lệnh đang chạy**
 - Nước sôi phát không sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
-- Ba quy tắc than. Rào bắc có 12 chậu than đốt suốt đêm; người gác ngủ gật trừ hai ngày khẩu phần.
-- Thịt sói: lóc xương, xát muối, phơi khô, nhập kho; mỗi ngày thái hạt lựu bỏ vào cháo mạch theo đầu người. Da sói rửa tro, treo dưới hành lang trang viên; làm rách da trừ nửa pound.
+- Ba quy tắc than; rào bắc có 12 chậu than đốt suốt đêm.
+- Thịt sói phơi khô nhập kho, thái hạt lựu vào cháo theo đầu người. Da sói treo hành lang trang viên.
+- Đàn bà trẻ con nhặt hạt sồi (đủ hai sọt thêm nửa bát cháo); Dunn và người già đan rọ; trai tráng giữ đập.
 
 **Đồ vật / chi tiết đã xuất hiện**
-- Rào bắc 210 m, hào, hố chông ở khe lòng suối (đã dùng một lần), 12 chậu than.
-- Hai xác sói treo trên giá gỗ cạnh rào, đang lột da.
-- Leon đeo đoản kiếm.
+- Đập đá chữ V ở chỗ suối hẹp, ba rọ liễu đỏ miệng phễu; hàng cọc buộc bao hạt sồi ngâm ở bãi nông phía trên đập.
+- Phiến đá nướng bánh, chậu than bên bờ suối.
+- Tấm bản đồ lãnh địa bằng da dê ở trang viên.
 
 **Tuyến đang mở**
-- Ai vừa ho sau lưng Leon.
-- Nguồn ăn mới: suối phía tây.
-- Lương ~30 ngày / ~76 ngày tới tuyết.
+- Thiếu lương trước tuyết và cả mùa đông.
+- Bầy sói còn 12 con.
 - Mèo vờn chuột với Pell.
 
 ---
@@ -185,36 +189,39 @@ Hob看着Leon冷峻的眼神，躬下身去：“我明白了，领主大人。�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-这一百多磅肉，足以让全村的口粮配额再往后多撑三天半。
-加上原先剩下的四千多磅黑麦，总存粮的维持天数勉强从二十九天拉回到了三十一天左右。
-可算完这笔账，Leon的眉头不仅没松，反而皱得更紧了。
-距离大雪封山结束，还有整整七十六天。
-就算加上这两头撞上门的蠢狼，粮食缺口依然高达四十多天！
-换句话说，哪怕把剩下的十二头狼全宰了吃了，村里的人也照样熬不过这个漫长凶险的寒冬。
-肉少狼多，指望野兽送上门来填饱肚子，纯粹是找死。
-“别跪着了，都起来。”
-Leon转过身，冲着趴在地上的Doyle和几个拿着柴刀的精壮汉子招了招手：
-“找两根粗木架子，把这两头畜生吊起来放血。”
-“皮子要整张扒下来，用草木灰揉洗干净，挂在庄园的廊下风干，谁要是把皮子割破了，扣半磅粮。”
-“至于肉……”
-Leon看了一眼眼巴巴盯着狼尸咽口水的村民们，冷冷地补充道：
-“肉全部剔骨，切成条抹盐风干，统一收归大仓。每天熬麦粥的时候，按人头切肉丁扔进去。”
-听到能吃上肉，围观的人群里爆出一阵压抑不住的欢呼声。
-几个妇人甚至激动得抹起了眼泪。
-在黑石领，平民一年到头能闻到肉味的次数一只手都数得过来，更别说是凶悍的狼肉。
-Doyle几个汉子顿时像打了鸡血一样，麻利地找来麻绳和削尖的木棍，把那头一百二十多磅的大公狼四蹄捆住，高高地吊在栅栏的横木上。
-锋利的柴刀顺着狼腹割开了一条细线，带着热气的暗红色内脏哗啦啦淌了出来。
-血腥气在清晨冰冷的空气中迅速弥漫开来。
-Leon站在一边，看着几个人熟练地用石块和木片一点点把紧绷的狼皮从冻肉上剥离。
-他抬起头，目光越过粗糙尖锐的木栅栏，冷冷地望向北面那片白雾翻腾的苍茫森林。
-昨晚逃走的那两只狼，已经把这里的虚实带回去了。
-剩下的十二头狼，还有那头传闻中大得像牛一样的狼王，现在肯定就在那片不见天日的浓雾深处，饥肠辘辘地盯着这道防线。
-靠这两具狼尸，撑不过隆冬。
-必须得在下一场暴雪彻底封死山路之前，找到另一个更稳定、更庞大的粮食来源。
-Leon低头看了看靴子踩碎的坚硬霜壳，脑海里缓缓浮现出前几天查看过的那张破旧领地羊皮纸。
-在黑石领的西侧边缘，似乎有一条从雪山流下来的常年不冻的宽阔冷水溪。
-他正思索着，身后的林地边缘突然传来了一声低沉苍老的咳嗽。
+周围的大人小孩轰的一下骚动起来，看着地上那三十二袋正在水里泡着的橡果，眼神全变了。
+那不再是什么有毒的苦果子。
+那是成堆成堆从树上掉下来的、白捡的面粉！
+拄着拐杖的Hob从石坝那边一瘸一拐地走了过来。
+老头子手里攥着一截用来记数的炭黑木棍，走到Leon身前站定，干瘪的胸膛剧烈起伏着。
+“领主大人……”
+Hob的声音打着颤，指着刚刚拖上岸的几个大柳条笼子：
+“第一网收了三个笼子，一共称出来三十七磅活鱼。这还只是半下午的收成！”
+“林子里今天运回来的橡果……剥了壳的足足装了四十六个麻袋，差不多有近三千磅！剩下的还在林子里堆着，天黑前还能再拉两车回来！”
+老人抬起那张布满沟壑的枯瘦老脸，看着神色平静的年轻贵族，浑浊的眼眶里竟然泛起了一层泪花。
+“这要全弄成面粉，全村这个冬天……是不是真的能活下去了？”
+听着Hob发颤的询问，Leon没有立刻回答。
+他一边慢慢咽下嘴里最后一口带着坚果香气的粗糙面饼，一边在脑海中飞快地拨弄着算盘。
+「三十七磅冷水鱼，高蛋白低脂肪，热量转化效率优良。」
+「按当前水坝截流效率，预计在入冬封冻前还可捕捞约二十天，累计可收获鲜鱼约七百至八百磅。」
+「橡果采摘进度已完成预估总量的四分之一，全部脱涩处理后，预计最终可获得干粉三千五百磅左右。」
+「折算为基础热量摄入，相当于新增约两千八百磅标准黑麦的营养总值。」
+算上原有的四千多磅粮食和那两只死狼的肉干。
+黑石领当前的物资储备线，被这两样原本被村民视作废物的资源，硬生生往后推延了二十多天。
+总共能撑多久？
+Leon抬起头，迎着天边那一抹惨淡暗淡的血色夕阳。
+大约五十六到五十八天。
+不够。
+还是不够。
+距离第一场大雪彻底封山，还有七十六天。
+而封山之后，整整六个月的大雪期，外面连一根能吃的草根都刨不出来。
+哪怕把这些橡果和鱼全部省吃俭用算到底，在最严酷的寒冬腊月里，黑石领依然有将近二十天的粮食断档期。
+在零下二三十度的北境凛冬，二十天没有东西下肚，一百四十多口人照样会冻毙在漏风的破草房里，连骨头都烂不掉。
+欢呼声还在溪边回荡，Dunn正带着几个村民把刚抓上来的大鱼用柳条串成一串，欢天喜地地准备运回村里的大仓。
+Leon面无表情地拍了拍手上的坚果碎屑，将斗篷拢得更紧了一些。
+得在封冻之前，再找到那能救命的最后二十天口粮。
+天彻底擦黑了。
 
-(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)
