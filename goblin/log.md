@@ -13,3 +13,6 @@
 2026-10-22 | dự án | SI nháp v0 điền từ `writer/SI-template`, 7 anchor trích truyện tham khảo (ch13, 18, 22, 24, 29, 65, 81); tông hài–châm chọc, ngôi limited omniscient | Truyện tham khảo là mẫu giọng gần nhất với thể loại | Tác giả
 2026-10-22 | dự án | Tác giả duyệt toàn bộ đề xuất khởi động: bỏ hệ thống game, Mẹ Ổ, hài đen giảm meme, giữ thư mục `goblin/`, MC chết vì lật xe trên đèo khi đi phượt, Gorr chết trong cuộc lật đổ | "Duyệt" | Tác giả
 2026-10-22 | doan-001 | Con non chưa có tên; Khoa đặt tên trong đầu theo thói quen điểm danh (Zag, Nub). Ổ của Khoa: 21 con kể cả Khoa | Chi tiết phụ cho prompt đoạn 001 | Agent (ghi log)
+2026-10-23 | doan-001 | Chốt bản 1 (SI v0), không chạy bản 2 | Tác giả: "Ok đấy" | Tác giả
+2026-10-23 | doan-001 | Bản 1 viết quê Khoa "太原钢铁厂" (đọc như Thái Nguyên Sơn Tây TQ). Prompt sau không nhắc tên tỉnh; cách viết quê Khoa chờ Tác giả nếu cần nhắc lại | Tránh nhầm địa danh | Agent (ghi log)
+2026-10-23 | dự án | Tên trong chính văn giữ chữ Latin như đã đề xuất (Khoa, Gorr, Yeg, Zag, Nub) | Bản 1 dùng đúng | Agent (ghi log)

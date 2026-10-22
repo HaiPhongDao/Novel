@@ -26,6 +26,6 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ | bản 1 (23/10) | ⚠️ sửa nhẹ — `reviews/doan-001.md` | |
+| 001 | ✅ | ✅ | ⚠️ sửa nhẹ — Tác giả duyệt | ✅ |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

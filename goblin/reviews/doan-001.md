@@ -1,10 +1,10 @@
 # Review — Đoạn 001
 
-## Bản 1 (SI v0) — SỬA NHẸ, chờ Tác giả chọn: chốt hay chạy bản 2
+## Bản 1 (SI v0) — ĐẠT (Tác giả duyệt 23/10: "Ok đấy")
 
 Bản thảo: `chapters/doan-001.md`. Session 1 trên AI Studio (Gemini 3.8 Flash, Thinking High, SI "Goblin Khai Hoa - SI" = `gemini/system-instruction.md` 11.441 ký tự), 23/10. **3.813 chữ Hán** — gấp ~1,9 lần mức 2000 của prompt.
 
-**Kết luận: SỬA NHẸ.** Cốt truyện và con số đúng hết; văn có một loạt lỗi giải thích thừa và chép ý prompt, cộng chia đoạn vụn. Vì SI còn là v0 (README: viết thử vài bản trước khi chốt SI), Agent khuyến nghị chạy thêm bản 2 ở chat mới để so trước khi chốt.
+**Kết luận: SỬA NHẸ → Tác giả duyệt chốt.** Cốt truyện và con số đúng hết; văn có một loạt lỗi giải thích thừa và chép ý prompt, cộng chia đoạn vụn. Vì SI còn là v0 (README: viết thử vài bản trước khi chốt SI), Agent khuyến nghị chạy thêm bản 2 ở chat mới để so trước khi chốt.
 
 ## Canon & cốt truyện
 - ✅ Tỉnh trong hố ổ, mảnh ký ức đèo Hà Giang (河江), nhìn tay bốn ngón, sờ răng, nhận ra goblin; điểm danh 21 con; đặt tên Zag (to xác, đạp con khác) và Nub (mắt to, nằm sát, nhìn không chớp).

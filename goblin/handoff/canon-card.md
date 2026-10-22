@@ -17,3 +17,10 @@
 - Hang Dơi (蝙蝠洞): hang đá vôi; ngách ngoài để ngủ, ngách sâu là hố ổ (巢坑) và chỗ Mẹ Ổ; nền phủ phân dơi (蝙蝠粪) dày, khai nồng.
 - Suối Lạnh (冷溪): suối nhỏ chân đồi, nhiều cá nhỏ.
 - Đầm Rêu Đỏ (红苔沼): đầm than bùn phía nam, nước váng gỉ đỏ.
+
+**Đã lên trang ở đoạn 1**
+- Kiếp trước Khoa chết khi chiếc xe lật xuống vực trên đèo Hà Giang (河江).
+- Hố ổ: sâu ~1,5 m, rộng ~2,5 m, nền phân dơi dày lẫn vỏ trứng; trên vách có mấy hòn đá lồi làm chỗ bám.
+- Mắt goblin nhìn đêm thành các mảng xám; ánh lửa làm chói, chảy nước mắt.
+- Gorr quấn một tấm da thú, dao sắt giắt hông bằng dây cỏ. Yeg đeo một túi cỏ bện bên hông, đi bằng cách sờ vách và dò chân.
+- Zag: to nhất ổ, đạp các con khác. Nub: đầu to, gầy, nhìn không chớp.
