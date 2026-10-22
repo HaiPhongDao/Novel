@@ -158,9 +158,7 @@ Sample anchor:
 - Keep a segment's events dense: explanation sits between action and reaction, and the protagonist thinks while he acts.
 - Character entrances: name + one line of identity + one physical feature, then straight into what they are there to do.
 
-## 4. Self-check after writing
-
-Read the segment back and check that it reads like this:
+## 4. What every paragraph looks like as you write it
 
 - **Every paragraph ends on something concrete** — an action, a fact, a number, or a line of dialogue. Feelings show through what people do with their hands, feet and voices.
 - **The Chinese is natural web-novel Chinese:** four-character expressions (骂骂咧咧、眉开眼笑、灰溜溜), colloquial connectives (倒、可、嘛、要知道、更别说、还不是因为), plain direct statement, comparisons in everyday Chinese word order.

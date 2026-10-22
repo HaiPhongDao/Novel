@@ -21,5 +21,3 @@ Leon tự giễu và tính sổ củi–than thế nào, dân làng xì xào ra 
 
 【Kết đoạn】
 Đoạn dừng ở hình ảnh: dân làng vẫn đứng cách hố lửa mười bước, nhìn đống than đỏ rực bên cạnh nhúm tro của bó củi; không ai bước lên, Hob là người đứng xa nhất.
-
-Viết xong tự kiểm theo mục 四、写完自查.

@@ -116,7 +116,7 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 7. **Tả sự việc, không tả ý nghĩa.** Thay đổi thái độ của nhân vật phải đi qua một việc cụ thể — một con số khai thật, một món đồ đưa ra, một mệnh lệnh làm theo — không viết "nói một câu cho thấy ông đã nhìn lại", "vẫn gắt nhưng đã khác". Model sẽ viết đúng cái ý nghĩa đó rồi tự giải thích nó (bài học đoạn 005).
 8. **Tối đa 2 cảnh + 1 lần nhảy thời gian mỗi đoạn.** Nhiều hơn là model phải tóm tắt.
 9. **Kết đoạn bằng một hình ảnh / hành động cụ thể** và nói rõ đoạn dừng ở đó.
-10. Dòng cuối mọi prompt: `Viết xong tự kiểm theo mục 四、写完自查.`
+10. **Không dùng bước "tự kiểm sau khi viết".** Trong chat, model viết một lượt rồi dừng — nó không đọc lại và sửa văn đã viết, nên câu nhắc tự kiểm không có tác dụng. Mọi chuẩn văn phải nằm trong SI dưới dạng **chuẩn khi đang viết**; khâu kiểm thật sự là review của Agent (`review-blacklist.md`), đoạn hỏng thì làm lại ở session mới.
 
 ---
 

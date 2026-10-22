@@ -44,3 +44,4 @@
 2026-10-22 | bible | 小七 hiện vạch xanh trong tầm nhìn (đoạn 005) — giữ hay bỏ? | Chạm luật bàn tay vàng | ⏳ Chờ Tác giả
 2026-10-22 | dự án | SI của Writer (bản sửa `gemini/system-instruction.md`) dịch sang tiếng Anh → `system-instruction-en.md` (anchor, tên riêng, ví dụ tiếng Trung giữ nguyên); Writer đổi sang Gemini 3.8 Flash | Tiết kiệm token | Tác giả
 2026-10-22 | dự án | Nháp SI v2 viết khẳng định (`system-instruction-en-v2.md`): bỏ mọi câu cấm và ví dụ sai khỏi SI; ví dụ sai chuyển sang `review-blacklist.md` cho Agent | SI cũ dùng phủ định nhiều, ví dụ sai mồi ngược (眸子, 一丝, 系统 lặp lại trong bản ra) | ⏳ Tác giả xem
+2026-10-22 | dự án | Bỏ bước "tự kiểm sau khi viết" khỏi prompt và SI v2 (mục 4 đổi thành chuẩn khi đang viết) | Model trong chat viết một lượt, không đọc lại để sửa | Tác giả

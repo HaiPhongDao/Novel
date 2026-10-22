@@ -19,5 +19,3 @@ Cảnh đào bới bẩn thỉu và tiếng càu nhàu của dân, Kael làm vi�
 
 【Kết đoạn】
 Đoạn dừng ở cái sững người của Hob khi nghe Leon nói đã biết từ hôm đó: ông đứng im bên thành giếng mới, tay siết chặt đầu gậy.
-
-Viết xong tự kiểm theo mục 四、写完自查.
