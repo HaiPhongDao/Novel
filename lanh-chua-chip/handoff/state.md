@@ -1,30 +1,34 @@
-## 3. Trạng thái hiện tại (hết đoạn 10)
+## 3. Trạng thái hiện tại (hết đoạn 11)
 
-**Thời điểm:** gần nửa đêm Ngày 12, sau rào bắc của làng.
-**Có mặt sau rào:** Leon (áo choàng, đeo đoản kiếm), Gareth (kiếm rút), Doyle và năm đàn ông khác cầm giáo gỗ hơ lửa. Không đốt đuốc; chỉ có ánh 12 chậu than dọc rào.
-**Ngoài rào:** mười mấy đốm mắt đỏ đang men theo lòng suối cạn, rạp sát đất, tới gần khe hở hai thước. Hố chông ở sau khe đã ngụy trang, treo da cừu bôi mỡ.
-**Nơi khác:** Bram nằm nhà Mira (chân băng). Pell ở trang viên, tin Leon vẫn uống trà (đêm Ngày 8 thấy bát rỗng).
+**Thời điểm:** sáng Ngày 13, bãi đất ngay trước rào bắc.
+**Có mặt:** Leon, Gareth, Doyle và mấy đàn ông đang treo hai xác sói lên giá gỗ lột da; dân làng đứng xem; Hob. Sau lưng Leon vừa vang lên một tiếng ho già nua. Pell ở trang viên.
 
 **Leon biết**
-- Pell bỏ độc; kẻ chủ mưu ở thành Varen.
-- Bầy sói 14 con, đói, bị thứ gì đó trong núi đuổi xuống. Vết cào 5,7 cm (chỉ Leon biết).
-
-**Công sự phía bắc (xong chiều Ngày 11)**
-- Rào cọc thông đỏ nhọn cao ~2 m, dài 210 m, 634 cọc.
-- Hào trước rào sâu 68 cm, rộng 1,2 m.
-- Khe hở hai thước ở lòng suối cạn; sau khe là hố chông sâu 2,1 m.
-- 12 chậu than sắt sau rào, cách nhau 20 bước.
+- Pell bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon vẫn uống trà.
+- Bầy sói còn 12 con ở rừng; hai con tiền quân chạy về bắc lệch đông. Vết cào 5,7 cm (chỉ Leon biết).
+- Tấm bản đồ lãnh địa bằng da dê cũ ở trang viên: phía tây có một con suối không đóng băng chảy từ núi xuống.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Dân làng | 143 người; cộng trang viên = 146 miệng ăn |
-| Lương | 4.321 pound (chiều Ngày 11) → ~29 ngày; làm rào đã chi thêm 63 pound |
-| Tới tuyết đầu mùa | ~76 ngày (tính từ Ngày 12) |
-| Củi đun nước | xà sồi mái sập: còn ~63 ngày |
-| Sói mắt đỏ | 14 con, 110–125 pound mỗi con |
+| Lương | ~4.300 pound mạch đen + ~143 pound thịt sói → ~30 ngày (sáng Ngày 13) |
+| Tới tuyết đầu mùa | ~76 ngày (tính từ Ngày 13) |
+| Củi đun nước | xà sồi mái sập: còn ~62 ngày |
+| Sói mắt đỏ | còn 12 con ở rừng |
+
+**Lệnh đang chạy**
+- Nước sôi phát không sáng và chiều. Hình phạt trong làng là trừ khẩu phần.
+- Ba quy tắc than. Rào bắc có 12 chậu than đốt suốt đêm; người gác ngủ gật trừ hai ngày khẩu phần.
+- Thịt sói: lóc xương, xát muối, phơi khô, nhập kho; mỗi ngày thái hạt lựu bỏ vào cháo mạch theo đầu người. Da sói rửa tro, treo dưới hành lang trang viên; làm rách da trừ nửa pound.
+
+**Đồ vật / chi tiết đã xuất hiện**
+- Rào bắc 210 m, hào, hố chông ở khe lòng suối (đã dùng một lần), 12 chậu than.
+- Hai xác sói treo trên giá gỗ cạnh rào, đang lột da.
+- Leon đeo đoản kiếm.
 
 **Tuyến đang mở**
-- Sói đang tới khe hở.
-- Lương: ~29 ngày / ~76 ngày tới tuyết.
+- Ai vừa ho sau lưng Leon.
+- Nguồn ăn mới: suối phía tây.
+- Lương ~30 ngày / ~76 ngày tới tuyết.
 - Mèo vờn chuột với Pell.

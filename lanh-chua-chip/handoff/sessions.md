@@ -11,3 +11,5 @@
 | S7 | 009, 010 | `session-start.md` (hết đoạn 008 + prompt đoạn 009); SI v2 đã sửa mục Output | cả hai ĐẠT |
 
 Lượt 1: `archive/run-1/handoff/sessions.md`.
+| S8 | 011 bản 1 | `session-start.md` (hết đoạn 010 + prompt đoạn 011) | VIẾT LẠI (小七 dò nhiệt, 赤瞳狼) |
+| S9 | 011 bản 2 → | `session-start.md` (hết đoạn 010 + prompt đoạn 011 bản 2) | |

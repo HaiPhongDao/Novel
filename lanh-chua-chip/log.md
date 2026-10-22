@@ -77,3 +77,5 @@
 2026-10-22 | dự án | SI v2 mục 3 Output: bỏ "end on the last action or image the prompt names", thay bằng mở nối thẳng từ chỗ đoạn trước dừng + dừng giữa mạch theo prompt (bản SI đã lưu trên AI Studio cập nhật theo) | Cùng nguyên nhân đoạn khép tròn | Tác giả
 2026-10-22 | doan-009 (lượt 2) | Đạt (S7) — đoạn đầu theo kiểu nối liền/dừng giữa mạch: mở từ hàng mắt đỏ, dừng lúc Leon nhẩm khẩu phần. Lỗi số: Leon nghĩ kho "<3000 pound" (đúng ~4.960); state giữ số đúng | Review | Agent (ghi log)
 2026-10-22 | doan-010 (lượt 2) | Đạt (S7). Lương còn 4.321 pound / 29 ngày (chiều Ngày 11) lấy theo chính văn; Leon có đoản kiếm | Review | Agent (ghi log)
+2026-10-23 | doan-011 (lượt 2) | Bản 1 (S8) VIẾT LẠI: 小七 dò nhiệt + theo dấu bầy cách 1.400 m (trái luật cứng), tên 赤瞳狼. Prompt bản 2 ghi giới hạn giác quan của 小七 ngay trong thiết lập + tên 红眼狼 | Review | Agent (ghi log)
+2026-10-23 | doan-011 (lượt 2) | Bản 2 (S9) ĐẠT. Thịt sói ~143 pound (chính văn tính thành 3,5 ngày — sai; state ~1 ngày). Hob cúi gập "黑石领有救了" — chấp nhận theo arc "tôn trọng" sau vụ Dunn | Review | Agent (ghi log)

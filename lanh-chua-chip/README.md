@@ -20,6 +20,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 | 008 | ✅ (S6) | ✅ (S6) | ✅ ĐẠT | ✅ |
 | 009 | ✅ (mở S7) | ✅ (S7) | ✅ ĐẠT | ✅ |
 | 010 | ✅ (S7) | ✅ (S7) | ✅ ĐẠT | ✅ |
+| 011 | ✅ bản 2 (mở S9) | ✅ bản 2 (S9); bản 1 → `archive/run-2/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
 
 ## Cách chạy
 
