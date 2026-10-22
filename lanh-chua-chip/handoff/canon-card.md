@@ -13,6 +13,7 @@
 - Kho tri thức ngoại tuyến hỏng 61%, phục hồi dần khi Leon ăn no ngủ đủ.
 - Ước lượng kèm độ tin cậy, thường ở mức 60–90%.
 - Chạy mạnh thì Leon đau đầu, nặng thì chảy máu cam.
+- Chỉ là giọng nói, lời đặt trong 「」.
 
 **Nhân vật phụ**
 - **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng (vẫn còn tay, không cụt) — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".

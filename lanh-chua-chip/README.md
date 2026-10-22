@@ -14,6 +14,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 | 002 | ✅ | ✅ (S1) | ✅ ĐẠT | ✅ |
 | 003 | ✅ (mở S2) | ✅ (S2) | ✅ ĐẠT | ✅ |
 | 004 | ✅ bản 3 (mở S4) | ✅ bản 3 (S4); bản 1–2 → `archive/run-2/` | ✅ ĐẠT (bản 1–2 VIẾT LẠI) | ✅ |
+| 005 | ✅ bản 2 (mở S5) | ✅ bản 2 (S5); bản 1 → `archive/run-2/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
 
 ## Cách chạy
 

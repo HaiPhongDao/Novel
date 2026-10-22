@@ -62,3 +62,7 @@
 2026-10-22 | doan-004 (lượt 2) | Bản 2 (S3) VIẾT LẠI: Hob lại quỳ/xưng 小人, 小七 chiếu hình lên võng mạc, Leon dọa treo cổ. Bản 3 (S4) ĐẠT sau khi prompt ghi sự thật cố định: Hob tự xưng 我 + đứng chống gậy suốt cảnh; lời 小七 trong 「」; hình phạt là lao dịch | Review | Agent (ghi log)
 2026-10-22 | dự án | Nguyên tắc prompt: cảnh có quyền lực đè người (phạt, khống chế) phải ghi nhân vật phụ quan trọng làm gì TRONG LÚC đó, nếu không Writer lấp bằng quỳ lạy | Bài học đoạn 004 | Agent (ghi log)
 2026-10-22 | bible | Từ đoạn 004: Doyle (lao dịch); phát nước sáng gõ chuông + chiều; giếng đậy phiến đá ban đêm, Hob giữ chìa | Chi tiết Writer tự đặt | Agent (ghi log)
+2026-10-22 | doan-005 (lượt 2) | Bản 1 (S4) VIẾT LẠI: Hob quỳ dập trán khai + lời kể giải thích Hob "bị chấn động hoàn toàn". Bản 2 (S5) ĐẠT sau khi đặt "Hob đứng chống gậy" ngay trong câu khai và bỏ lời mời vào đầu Hob | Review | Agent (ghi log)
+2026-10-22 | dự án | Nguyên tắc prompt: tư thế/xưng hô cần giữ phải nằm ngay trong câu sự việc của cảnh đó, không chỉ ở phần thiết lập | Bài học đoạn 004–005 | Agent (ghi log)
+2026-10-22 | doan-005 | Sai canon nhỏ: "车夫" (hai người đánh xe đã về thành) → không sửa văn, ghi state; Writer lại dùng nước sôi làm hình phạt → state ghi rõ hình phạt là trừ khẩu phần | Review | Agent (ghi log)
+2026-10-22 | bible | 小七 hiện hình trong tầm nhìn lần nữa ("淡蓝网格", đoạn 005; "投影/视网膜" ở 004 bản 2) — Writer cứ kéo về hướng này | Cần quyết vạch xanh | ⏳ Chờ Tác giả
