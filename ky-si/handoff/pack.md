@@ -62,20 +62,26 @@ Nhóm Dain bốn người thử đổi vị trí với dây chùng, Toma hỏi r
 
 Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lời giới hạn nghề trong chính văn là lỗi đã ghi review, không thay thiết lập.
 
+### Đoạn 004 — sửa kê, xe phụ tùng đầu tiên rời bến
+
+Alden đồng ý và trả Oswin 40 đồng cả công/vật liệu từ sổ chủ bến. Thợ thay kê, Mira kiểm rồi gọi xe. Nhóm Dain hướng dẫn; một người mới vội lại gần ngựa bị Dain kéo ra kịp, không ai bị thương. Toma đổi cách báo hướng; xe đầu lên một phà, phà chở riêng xe đó sang bờ kia.
+
+Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công thêm một bạc chưa nhận. Dain vừa đề nghị nghỉ luân phiên; Rowan chưa đáp. Các số kỹ thuật tự thêm không dùng làm thông số cố định.
+
 ---
 
-## 3. Trạng thái sau đoạn 003
+## 3. Trạng thái sau đoạn 004
 
-Tác giả yêu cầu viết liên tục, tự xử lý việc thường lệ; các đoạn mới được Agent review, không ghi tác giả duyệt riêng. 003 SỬA NHẸ, nguyên văn giữ nguyên.
+Agent review SỬA NHẸ, tiếp tục theo yêu cầu Tác giả, không gán duyệt riêng.
 
-Cùng buổi sáng, sàn kê sát bờ Stonewake. Oswin vừa chỉ gỗ kê dưới ván mặt mục, yêu cầu thay cả phần đỡ. Rowan đang nghe; 004 mở lời anh đáp để chốt công sửa với Alden/Mira/Oswin. Sáu xe còn trên bãi trước dốc, chưa xuống hoặc qua phà.
+Ngày đầu, tại đầu dốc Stonewake, phà đang đưa riêng xe phụ tùng thứ nhất sang bờ đối diện. Xe phụ tùng thứ hai và bốn ngũ cốc ở bãi chờ, đợi phà rỗng về. Dain đang đề nghị cho Toma và người vừa suýt chạm bánh ra nghỉ, còn ông và một người giữ lối. Câu đề nghị thêm đổi người từ nhóm sân chưa thi hành; 005 nối Rowan chốt nhiệm vụ và nghỉ đủ hồi sức.
 
-- Nhóm Dain = Dain + Toma + hai người mới, 4 người, đi kiểm đường/thử dây chùng. Nhóm sân = cựu binh còn lại + ba người mới, 4 người, ở sân. Rowan ngoài tám; Mira, Alden, Oswin và người chạy phà ngoài quân số.
-- Tiền mặt 32 bạc. Phòng vệ 24 bạc/30 ngày, đã nhận 12. Công thêm 1 bạc chỉ trả sau hoàn tất hai xe phụ tùng; chưa được nhận. Vật tư/sửa bến do chủ bến trả riêng.
-- Một phà, mỗi lượt một xe phụ tùng theo Mira. Hàng hai xe là dụng cụ/phụ tùng máy xay, giấy Greyford. Giờ/tải/cân nặng chưa đo; câu hai nghìn cân chưa thành thông số.
-- Kiểm thấy ván mặt còn cứng nhưng phần kê mục, đã vạch phấn; chưa báo giá hoặc sửa. Cách ghìm/chuẩn bị phà phải do người thạo việc quyết sau kiểm, chưa chốt bằng lời bàn cũ.
-- Toma vẫn 长矛收势：13/100, 训练积累：0; chưa có thử kỹ năng khác. Nhãn `收矛/潜能` và câu “控车 không là chiến kỹ” của Writer không thay cơ chế. Có hồ sơ không xác nhận trung thành; dùng điểm không hồi sức.
-- Người mới còn mệt; vừa dùng kỹ năng giữ khoảng cách vào việc nhỏ. Chưa chứng minh thực chiến. Rowan giữ quyền chỉ huy thực, tên Latin cả thoại/lời kể.
+- Dain + Toma + hai người mới = 4 trong nhóm đường dẫn. Cựu binh còn lại + ba người mới =4 tại sân/bãi; phạm vi này không tự chuyển hết xuống dốc. Rowan ngoài tám; Mira/Alden/Oswin/đội phà ngoài quân số.
+- Kê đã thay, Mira kiểm và gọi xe đầu; không ai bị thương. Oswin nhận 40 đồng do Alden/chủ bến trả riêng. Một bạc=100 đồng.
+- Tiền Rowan vẫn32 bạc. Công thêm1 bạc sau cả hai xe là khoản chưa nhận. Phòng vệ24 bạc/30 ngày, đã nhận12 trong tổng24. Sửa bến/phà đi sổ chủ bến.
+- Một phà. Phà phải giao xe đầu ở bờ kia và quay về rỗng trước xe thứ hai. Hàng chính phụ tùng máy xay Greyford. Các số tải/độ dài/thời gian quay vòng tự thêm không dùng làm thông số đã đo.
+- Toma vẫn 长矛收势13/100, 训练积累0. Người mới mệt, cần nghỉ. Chưa có thêm kỹ năng/chức năng bảng.
+- Đích 005: chốt nghỉ và người gác, đón phà về, hoàn tất xe thứ hai, xác nhận rồi nhận1 bạc, tiền thành33. Sau đó một khách hỏi việc hộ tống xe nhẹ tới kho Greyford ngày mai; giá/chọn người ở006.
 
 ---
 
@@ -91,24 +97,26 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
 
-Rowan脚下一顿，立刻收回重心退了半步，抬臂拦住身后的人：“停下，都别踩上去。”
-Dain和两个新兵立刻止步，Toma也连忙扯紧了绳头，站在了干硬的碎石地界上。引道上的六辆大车依然稳稳停在上方的坪地，要是这会儿已经推了一辆重车下来，这一脚踩空怕是当场就要出乱子。
-Mira快步走上前来，蹲下身子伸指抹了一把木板缝隙里的黑泥，脸色顿时沉了下来。
-“见鬼的，前几天潮水涨得太高，把下头泡发了。”Mira站起身，扯开嗓子朝后头的库房方向喊道，“Oswin！拿上你的家伙什，赶紧滚过来！”
-不多时，一个身材敦实的中年男人提着沉重的皮质工具袋，急匆匆地顺着坡道小跑了下来。
-来人正是渡口的木匠Oswin，四十二岁，粗布短褂的肩膀处磨得发亮，腰间别着木槌和凿子，粗糙开裂的大手里正捏着一块用来划线的蓝粉石。他并不是卫所里的人，只是按活计从渡口账房领铜子儿的匠人。
-“怎么了管事？跳板我昨儿才刚……”
-“少废话，看这儿。”Mira指了指凹陷下去的那块木板。
-Oswin蹲下身去，从工具袋里掏出一柄生锈的撬棍，插进木板的接缝里，使劲往上一别。
-伴随着刺耳的铁钉拔出声，那块足有两指厚的表面橡木板被生生掀了起来。
-木板翻开的瞬间，一股带着水腥味的腐朽木气扑面而来。
-Oswin伸出黑黢黢的手指，在支撑排木的横梁上使劲抠了一把。只见大块大块松散如泥的黑褐色烂木屑被他直接扯了下来，木梁当中赫然已经空了大半，里头甚至还能看到几只受惊乱爬的水生潮虫。
-Oswin用手里的蓝粉石在横梁两侧重重画了一道横杠，拍了拍手上的木屑，转头对Mira和Rowan说道：
-“面上的橡木板是硬实，可下头吃力的这根垫底托木全烂透了。平时过几只羊、两辆空板车倒还能蒙混过去，那两辆装满磨坊铸铁齿轮的重车只要前轱辘一搭上来，这根木头当场就得粉碎，整辆车都得歪进水沟里。”
-Rowan蹲下身，仔细看了看那道粉笔印：“要是从上面再铺两层厚木板，能不能把分量散开硬垫过去？”
-Oswin连连摇头，将撬棍往烂木梁上一戳，半截铁棍轻而易举就陷了进去：
-“不能这么干，Rowan大人。光在面上垫木板那是自欺欺人，受力的根子全在这根托木上。要想让那种生铁重车稳当过河，底下这根烂托木必须整根刨出来换掉，不换，谁推车谁找死。”
+Toma这会儿没有慌，他深深吸了一口带着腥气的江风，虽然手臂和腰背还因先前的疲惫有些发酸，但动作依然按照条令做足了。他不再冲驭手大吼，而是快步绕到车后右侧，两手紧紧攥着备用的粗木止退楔，眼睛死死咬着轮后半尺的位置，步步紧跟。
+“慢下，车头对准白线，往左带半寸！”Toma一边跟着走，一边大声报着位置。
+车夫听到了明确的方向，稳住心神，手腕一抖，硬是将挽马重新拉回引道正中。
+车轱辘缓缓搭上了新修的斜坡托木。
+只听得橡木板发出一声沉闷的承重声，底下的红松新梁牢牢吃住了分量，纹丝不动，连一丝碎屑都没往下掉。车轮顺顺当当地滚过跳板，平稳压上了渡船厚重的甲板。
+船身的吃水猛地下沉了半尺，激起一圈浑黄的浪花，但缆绳绷得笔直，整条船在Mira两名水手的撑杆下稳稳咬住了水流。
+水手迅速上前，用两根粗麻绳和木楔子将马车的四只轮子全部绞死在甲板的铁环上。
+“第一车妥了！”水手大声回报。
+Mira看了一眼吃水线，朝岸上挥了挥手：“解缆！先过这一车！”
+粗重的缆绳被甩上船头，渡船顺着横江拉索的力道，在两根长篙的撑动下缓缓脱离码头，载着那一车黑沉沉的生铁机件，破开江面泛着白沫的水流，朝着对岸摆渡过去。
+第一趟算是顺顺当当送走了。
+平地上，第二辆装满齿轮的重车和那四辆粮车依然老老实实停在原地。渡船过江、卸车、再空船拉回来，来回一趟少说也得两三刻钟。
+那名刚才差点被碾断脚的新兵依然僵直地站着，两只手死死握着长矛，骨节发白，肩膀绷得像两块石头。Toma抹了一把额头上的虚汗，倚着长矛站在引道边缘，呼吸有些粗重。
+Rowan抬手摸了摸腰间的皮囊，三十二枚银币沉甸甸地贴着大腿。
+这一趟还没完，那一枚银币的护送酬劳，得等第二辆车也安稳落到对岸才能揣进怀里。
+他迈步走到引道口，目光在几名新兵发僵的腿脚上扫过，最后落在Dain身上。
+“船回来还得些工夫，这帮新崽子浑身绷得跟弓弦似的，再这么傻站半个时辰，等第二辆车下来，腿肚子都得抽筋。”Rowan低声开口，“引道不能空，但人得喘口气。Dain，按你的章程，怎么倒腾着让他们喝口水、松松筋骨，又不误了看路？”
+Dain收回看向江面的目光，转头打量了手下几人一眼，胡子拉碴的脸上露出一抹老兵特有的精明，开口道：
+“大人，让Toma带着那个吓破胆的崽子先退到后面篱笆边上，矛放平，喝两口水把气理顺；我和剩下这个新兵往前压半步，正好顶在引道最窄的口子上，等过了十息，再把平地守粮车的那两个换下来……”
 
-(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)

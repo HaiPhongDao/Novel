@@ -17,3 +17,7 @@ Ngày 30 là chu kỳ hợp đồng, không là mốc chết hoặc xử phạt 
 ### Diễn biến làm việc 003
 
 Ngày đầu buổi sáng: thỏa thuận công thêm một bạc sau hai xe, kiểm đường trước tải; phát hiện kê sàn mục, chưa sửa/nhận tiền. Agent review theo yêu cầu viết tiếp.
+
+### Diễn biến làm việc 004
+
+Ngày đầu: thay kê, chủ bến trả Oswin40 đồng; xe phụ tùng đầu rời bến riêng, xe thứ hai chờ. Tiền Rowan32, công thêm chưa nhận.

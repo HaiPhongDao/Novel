@@ -1,12 +1,12 @@
-## 3. Trạng thái sau đoạn 003
+## 3. Trạng thái sau đoạn 004
 
-Tác giả yêu cầu viết liên tục, tự xử lý việc thường lệ; các đoạn mới được Agent review, không ghi tác giả duyệt riêng. 003 SỬA NHẸ, nguyên văn giữ nguyên.
+Agent review SỬA NHẸ, tiếp tục theo yêu cầu Tác giả, không gán duyệt riêng.
 
-Cùng buổi sáng, sàn kê sát bờ Stonewake. Oswin vừa chỉ gỗ kê dưới ván mặt mục, yêu cầu thay cả phần đỡ. Rowan đang nghe; 004 mở lời anh đáp để chốt công sửa với Alden/Mira/Oswin. Sáu xe còn trên bãi trước dốc, chưa xuống hoặc qua phà.
+Ngày đầu, tại đầu dốc Stonewake, phà đang đưa riêng xe phụ tùng thứ nhất sang bờ đối diện. Xe phụ tùng thứ hai và bốn ngũ cốc ở bãi chờ, đợi phà rỗng về. Dain đang đề nghị cho Toma và người vừa suýt chạm bánh ra nghỉ, còn ông và một người giữ lối. Câu đề nghị thêm đổi người từ nhóm sân chưa thi hành; 005 nối Rowan chốt nhiệm vụ và nghỉ đủ hồi sức.
 
-- Nhóm Dain = Dain + Toma + hai người mới, 4 người, đi kiểm đường/thử dây chùng. Nhóm sân = cựu binh còn lại + ba người mới, 4 người, ở sân. Rowan ngoài tám; Mira, Alden, Oswin và người chạy phà ngoài quân số.
-- Tiền mặt 32 bạc. Phòng vệ 24 bạc/30 ngày, đã nhận 12. Công thêm 1 bạc chỉ trả sau hoàn tất hai xe phụ tùng; chưa được nhận. Vật tư/sửa bến do chủ bến trả riêng.
-- Một phà, mỗi lượt một xe phụ tùng theo Mira. Hàng hai xe là dụng cụ/phụ tùng máy xay, giấy Greyford. Giờ/tải/cân nặng chưa đo; câu hai nghìn cân chưa thành thông số.
-- Kiểm thấy ván mặt còn cứng nhưng phần kê mục, đã vạch phấn; chưa báo giá hoặc sửa. Cách ghìm/chuẩn bị phà phải do người thạo việc quyết sau kiểm, chưa chốt bằng lời bàn cũ.
-- Toma vẫn 长矛收势：13/100, 训练积累：0; chưa có thử kỹ năng khác. Nhãn `收矛/潜能` và câu “控车 không là chiến kỹ” của Writer không thay cơ chế. Có hồ sơ không xác nhận trung thành; dùng điểm không hồi sức.
-- Người mới còn mệt; vừa dùng kỹ năng giữ khoảng cách vào việc nhỏ. Chưa chứng minh thực chiến. Rowan giữ quyền chỉ huy thực, tên Latin cả thoại/lời kể.
+- Dain + Toma + hai người mới = 4 trong nhóm đường dẫn. Cựu binh còn lại + ba người mới =4 tại sân/bãi; phạm vi này không tự chuyển hết xuống dốc. Rowan ngoài tám; Mira/Alden/Oswin/đội phà ngoài quân số.
+- Kê đã thay, Mira kiểm và gọi xe đầu; không ai bị thương. Oswin nhận 40 đồng do Alden/chủ bến trả riêng. Một bạc=100 đồng.
+- Tiền Rowan vẫn32 bạc. Công thêm1 bạc sau cả hai xe là khoản chưa nhận. Phòng vệ24 bạc/30 ngày, đã nhận12 trong tổng24. Sửa bến/phà đi sổ chủ bến.
+- Một phà. Phà phải giao xe đầu ở bờ kia và quay về rỗng trước xe thứ hai. Hàng chính phụ tùng máy xay Greyford. Các số tải/độ dài/thời gian quay vòng tự thêm không dùng làm thông số đã đo.
+- Toma vẫn 长矛收势13/100, 训练积累0. Người mới mệt, cần nghỉ. Chưa có thêm kỹ năng/chức năng bảng.
+- Đích 005: chốt nghỉ và người gác, đón phà về, hoàn tất xe thứ hai, xác nhận rồi nhận1 bạc, tiền thành33. Sau đó một khách hỏi việc hộ tống xe nhẹ tới kho Greyford ngày mai; giá/chọn người ở006.

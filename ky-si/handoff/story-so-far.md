@@ -27,3 +27,9 @@ Rowan và Alden thống nhất công thêm một bạc sau hoàn tất cả hai 
 Nhóm Dain bốn người thử đổi vị trí với dây chùng, Toma hỏi rồi sửa chỗ vướng; nhóm sân bốn người ở nguyên. Xe còn trên bãi. Rowan giẫm thấy sàn kê sát bờ lún, dừng cả nhóm; Oswin nhấc ván mặt, chỉ gỗ kê bên dưới mục. Đoạn dừng khi thợ giải thích phải thay cả phần kê, phủ ván mặt không xử lý gốc hỏng.
 
 Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lời giới hạn nghề trong chính văn là lỗi đã ghi review, không thay thiết lập.
+
+### Đoạn 004 — sửa kê, xe phụ tùng đầu tiên rời bến
+
+Alden đồng ý và trả Oswin 40 đồng cả công/vật liệu từ sổ chủ bến. Thợ thay kê, Mira kiểm rồi gọi xe. Nhóm Dain hướng dẫn; một người mới vội lại gần ngựa bị Dain kéo ra kịp, không ai bị thương. Toma đổi cách báo hướng; xe đầu lên một phà, phà chở riêng xe đó sang bờ kia.
+
+Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công thêm một bạc chưa nhận. Dain vừa đề nghị nghỉ luân phiên; Rowan chưa đáp. Các số kỹ thuật tự thêm không dùng làm thông số cố định.

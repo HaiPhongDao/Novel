@@ -1,5 +1,14 @@
 # Lưu ý của Tác giả
 
+## Viết liên tục, giảm thao tác lặp — 23/10/2026
+
+Tác giả yêu cầu “Tiếp tục đi, đừng dừng (vì là công việc lặp lại nên hãy chọn cách thông minh)”. Agent tiếp tục theo outline hiện có, tự xử lý triển khai thường lệ và review từng đoạn; không dừng sau mỗi bản để hỏi có viết tiếp không. Các thay đổi lớn về canon, twist hoặc kết truyện vẫn theo quyết định của Tác giả.
+
+- Giữ SI hiện hành, tối đa hai đoạn/session; bản hỏng cần làm lại dùng session mới. Lỗi nhỏ đã được ghi review/state thì tiếp tục, không lặp thử chỉ để mài mọi câu.
+- Gói Writer chỉ mang brief tự đủ và đuôi chính văn khi đủ cho cảnh; gói quản lý đầy đủ vẫn lưu ở handoff/pack.md.
+- `gemini/ghep-goi.py` ghép tin mở session gọn; `gemini/luu-doan.py` kiểm số dư, lưu hash/snapshot và cập nhật hồ sơ từ spec Agent đã review. Công cụ không tự chấm chất lượng, không gán Tác giả đã duyệt.
+- Mỗi đoạn lưu nguyên văn, review, trạng thái và Git trước khi chuyển tiếp. Chat chỉ báo mốc ngắn, không dán chính văn hoặc ảnh Writer.
+
 ## Báo cáo gọn để tiết kiệm quota — 23/10/2026
 
 Tác giả: “Để tiết kiệm quota bạn có thể không cần gửi text truyện hoặc thứ tương tự lên chat”.

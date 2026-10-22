@@ -13,3 +13,7 @@ Phân biệt chi tiết đã lên trang với payoff dự kiến; phần chưa v
 ### Cập nhật 003
 
 K01: Toma thử giữ khoảng cách với dây chùng, hỏi rồi sửa. K02: công thêm một bạc có điều kiện, tiền mặt vẫn 32. K03: Oswin kiểm trực tiếp gỗ kê mục, cần thay trước xe nặng.
+
+### Cập nhật 004
+
+K01: người mới còn vội dưới tiếng xe, được Dain kéo khỏi đường bánh kịp; Toma sửa cách báo hướng. K03: Oswin được trả công riêng, Mira kiểm và quyết định lượt đầu.
