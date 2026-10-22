@@ -11,7 +11,8 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | ✅ bản 4 | ✅ bản 4 (bản 1–3 → `archive/run-2/`) | ✅ ĐẠT | ✅ |
-| 002 | ✅ | ⏳ | — | — |
+| 002 | ✅ | ✅ (S1) | ✅ ĐẠT | ✅ |
+| 003 | ✅ (mở S2: `handoff/session-start.md`) | ⏳ | — | — |
 
 ## Cách chạy
 

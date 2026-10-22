@@ -32,9 +32,12 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là bàn tay bỏ độc vào trà theo lệnh một người ở thành Varen. Lời kể chỉ đi vào đầu Leon khi có Pell.
 
+- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy, lưng còng, chống gậy cong, đi khập khiễng, mắt sâu. Đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu. Lễ phép, kiệm lời, giữ của cho làng (khai dư số lương). Gọi Leon "领主大人".
+
 **Lãnh địa 黑石领**
 - Trang viên xây bằng đá bazan đen, nặng và cứng; nửa mái phía đông đã sập.
-- Làng dưới chân đồi, chừng trăm bốn mươi người; thu hoạch mùa thu năm nay bị sương giá.
+- Làng dưới chân đồi: 143 người, hơn ba mươi nhà tranh, dân là 农奴; giếng chung đá vụn giữa làng; kho lương chung là lán gỗ sau làng. Thu hoạch mùa thu năm nay bị sương giá.
+- 被诅咒的石头: đá đen lộ ở sườn núi phía đông, giòn, nhẹ hơn đá bazan. Nhiều năm trước lão Jim lấy về kê bếp, đêm đó cháy cả nhà năm người; dân gọi là "恶魔火".
 - Lịch: cuối thu; tuyết đầu mùa rơi khoảng ba tháng sau trăng gặt (收割月) và kéo dài nửa năm.
 
 **Quy ước trình bày**
@@ -49,95 +52,97 @@ Sau đó chờ prompt của đoạn tiếp theo.
 ### Đoạn 1 — Ngày 1
 陈明康 tỉnh dậy trên giường rơm trong phòng đá của trang viên 黑石领; K-07 khởi động ("K-07重启完成。离线知识库受损61%。"). Ký ức Leon gốc: xe ngựa một tháng, người cha bá tước nhìn bằng ánh mắt chán ghét, mẹ là thiếp chết sớm. Từ giờ anh là Leon. Gareth vào, Leon đòi nước rồi hỏi thẳng "把现在的家底给我报一遍". Gareth báo: mái phía đông sập nửa (đè chết hai con gà mái); làng ~140 người, thu hoạch mùa thu bị sương giá; lão quản gia ôm sổ sách và nửa lương bỏ trốn ba hôm trước; hai người đánh xe về thành; hầm còn chưa tới 200 pound lúa mạch đen mốc. Leon tính: chia cho làng không đủ hai ngày; ba người trong trang viên ăn được hơn hai tháng; trăng gặt (收割月) vừa tròn, ba tháng sau tuyết phong núi, tuyết kéo dài nửa năm. Pell bưng "安神草汤" (nói nhờ một bà lão trong làng hái, có thêm bạc hà khô); Leon buồn nôn, bảo để trên bàn, cho cả hai ra. Ngoài hành lang Gareth nhớ: hai tháng trước Leon gốc khóc ba ngày vì con chim ưng chết, quất người hầu rách da vì hai vết bùn trên ủng — người vừa hỏi ông lại như "老军需官". Một mình, Leon bắt 小七 quét (chảy máu cam): vị kim loại đắng, vạch Mees trên móng, tê đầu ngón, tim 112 loạn nhịp → độc mãn tính 3–6 tuần, 置信度 78%. Pell là tay bưng bát mỗi sáng tối dọc đường; kẻ chủ mưu ở thành Varen. Leon nâng bát trà nguội lên rồi đặt lại đúng vào vòng nước cũ trên bàn.
 
+### Đoạn 2 — đêm Ngày 1 → trưa Ngày 2
+Nửa đêm Leon đổ bát trà vào khe gạch sát tường, lau miệng bát, đặt bát rỗng lại đúng vòng nước. Sáng ra Pell vào, thấy bát rỗng thì giãn mặt, bưng bát mới (thêm gừng khô). 小七: mùi trùng 89% với độc trong miệng hôm qua, 置信度 84%. Leon khen "你办事一向周到", viện cớ lưỡi phồng hai nốt, nóng không nuốt được, sai Pell đi dọn đống cỏ khô ngoài sân. Leon khoác áo choàng len cũ, cùng Gareth xuống làng: hơn ba mươi nhà tranh mái mục, giếng đá vụn giữa làng; dân thấy lãnh chúa thì đóng cửa. Hob chống gậy khập khiễng ra đón, thầm nghĩ đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu — chỉ mong lãnh chúa này đừng vét kho trước khi chết. Ở sườn núi đá phía đông, Hob kể đá nguyền: lão Jim lấy về kê bếp, đêm đó cháy cả nhà năm người, dân gọi là "恶魔火". Leon lén bẻ một mẩu đá đen cỡ quả óc chó bỏ túi; 小七: cấu trúc giàu carbon, cần đốt thử. Kho chung: 42 bao lớn, 16 bao nhỏ; Hob nói 6000 pound, 小七 đo 5800 dùng được; 143 dân + 3 người trang viên = 146 miệng → 41 ngày; trăng gặt tròn 4 hôm trước → 87 ngày tới tuyết. Leon không vạch Hob khai dư. Bốc nắm lúa mạch cho hạt chảy qua kẽ tay: 87 ngày tuyết, 41 ngày lương.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 1)
+## 3. Trạng thái hiện tại (hết đoạn 2)
 
-**Thời điểm:** Ngày 1, chiều. Cuối thu; trăng gặt (收割月) tròn cách đây vài hôm.
-**Có mặt:** Leon một mình trong phòng ngủ đá. Gareth đã xuống cầu thang. Pell ở bếp dưới nhà.
+**Thời điểm:** trưa Ngày 2, trong kho lương chung của làng.
+**Có mặt:** Leon, Gareth, Hob. Pell ở trang viên (dọn cỏ khô ngoài sân).
 
 **Leon biết**
-- Cơ thể bị đầu độc mãn tính 3–6 tuần; Pell là bàn tay bưng thuốc; kẻ chủ mưu ở thành Varen (bá tước hoặc hai người anh). Pell chưa biết mình bị nghi.
-- Hầm trang viên: chưa tới 200 pound lúa mạch đen mốc.
+- Pell là bàn tay bỏ độc; kẻ chủ mưu ở thành Varen. Pell tin Leon đã uống bát trà đêm qua; bát sáng nay Leon chưa uống, đang để nguội trên bàn.
+- Hob khai dư 200 pound lương; Leon chưa vạch.
+- Đá đen giàu carbon, cháy rất mạnh; chưa đốt thử.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Làng | ~140 người (theo Gareth) |
-| Trang viên | 3 người: Leon, Gareth, Pell |
-| Lương trang viên | <200 pound lúa mạch đen mốc |
-| Tới tuyết đầu mùa | ~3 tháng (tính từ trăng gặt); tuyết kéo dài nửa năm |
+| Dân làng | 143 người; cộng trang viên (Leon, Gareth, Pell) = 146 miệng ăn |
+| Lương | kho chung ~5800 pound dùng được (Hob nói 6000) + kho trang viên <200 pound mốc |
+| Khẩu phần | 1 pound/người/ngày → ~41 ngày |
+| Tới tuyết đầu mùa | ~87 ngày (tính từ Ngày 2); tuyết kéo dài nửa năm |
+| Thể trạng Leon | yếu, đi một đoạn là thở dốc |
 
 **Đồ vật / chi tiết đã xuất hiện**
-- Bát gỗ đựng "安神草汤" của Pell, đã nguội, nằm trên bàn gỗ vuông trong phòng Leon, đè đúng vòng nước cũ.
-- Phòng Leon: giường rơm ẩm, xà gỗ đen, đá rỉ nước, cửa gỗ sồi nặng.
-- Gareth đeo kiếm rộng bản (阔剑) bên hông.
+- Túi áo choàng len cũ của Leon: mẩu đá đen cỡ quả óc chó.
+- Phòng Leon: bát trà sáng nay đang nguội trên bàn; khe gạch sát tường (chỗ đổ trà).
+- Làng: hơn ba mươi nhà tranh, giếng đá vụn giữa làng, gà rụng lông bới bùn.
+- Kho chung: lán gỗ, khoá sắt gỉ, chìa Hob giữ trong ngực áo; 42 bao lớn, 16 bao nhỏ, vài sọt củ cải dại và đậu khô.
+- Hob chống gậy cong, đi khập khiễng.
 
 **Tuyến đang mở**
-- Bát trà của Pell trên bàn — Pell sẽ quay lại lấy bát.
-- Lương thực: <200 pound cho trang viên; làng chưa xem kho.
+- Khoảng trống lương: 41 ngày lương / 87 ngày tới tuyết, chưa kể nửa năm tuyết.
+- Mèo vờn chuột với Pell.
+- Mẩu đá đen chờ đốt thử.
 
 ---
 
 ## 4. Mẫu giọng (trích nguyên văn các đoạn đã duyệt — viết tiếp đúng giọng này)
 
-**Leon tính sổ, mặc cả (đoạn 2):**
+**Gareth báo cáo (đoạn 1):**
 
-　　“这些粮食有多重？”Leon问。
-　　“大约……六千磅左右吧。”Hob含糊地回答，显然不想交底。
-　　“小七，估算体积和重量。”
-　　“视觉扫描完毕。基于麻袋规格及堆积体积，扣除杂质比例，实际可用可食用干物质总量约为5800磅。结果可信度：85%。”
-　　Leon转头看向Hob，眼神锐利。
+“东侧主屋的屋顶前天塌了一半，石料压死了两只母鸡，现在那边漏风漏雨，根本住不了人。”
 
-**Uy của Leon và đầu Hob (đoạn 4):**
+“老管家三天前趁您烧得人事不省，卷走了所有的账册和庄园里仅存的一半干粮，带人连夜跑了。”
 
-　　Hob眼角抽搐了一下。
-　　他干了十几年村长，见过强抢粮食的领主，见过收初夜权的领主。
-　　这是他第一次见到拿刀逼着大家喝热水的领主。
-　　但他没有任何理由反驳。
-　　柴火是领主的，水是领主给的，甚至连干活的人都是领主罚的。
-　　Hob深深地低下头：“是，领主大人。我会死死盯住他们的。”
+**Leon với Pell (đoạn 2):**
 
-**Leon với Pell (đoạn 4):**
+“昨晚发了汗，嘴里苦得厉害，舌头上还起了两个水泡。”
 
-　　让一个往自己茶里下毒的王八蛋，去看着全村人喝水的锅？
-　　真当我是智障吗。
-　　“不用了。”
-　　Leon摆摆手，找了个极其正当的理由：“领主府那半边塌掉的屋子还没收拾干净。
-　　你是我的贴身男仆，你的手是用来伺候我的，不是用来给农奴烧水的。滚回去干活。”
+Leon皱了皱眉，抬手指了指冰凉的桌面，“太烫了咽不下去，先搁着放凉。昨天车夫卸车的时候在院子里堆了不少烂草料，容易招老鼠，你现在就去清干净。”
+
+**Hob trong đầu (đoạn 2):**
+
+他在黑石领见过了三任被发配过来的倒霉贵族，前两个没熬过第一个冬天就病死了，看这位年轻少爷的虚弱模样，大概也活不过今年大雪。
+
+只要别在死前把村里的口粮抢光就行。
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 1 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
 
-下一秒，一阵如同滚烫铁钎插进脑髓的剧痛骤然爆发！
-Leon闷哼一声，整个人猛地弓成了虾米状，眼前炸开大片刺目的白光。
-他的呼吸瞬间停滞，喉咙深处泛起浓重的铁锈腥味，紧接着，一滴温热的液体顺着他的左侧鼻孔滑落，滴答一声砸在洗得发白的麻布被单上。
-猩红刺眼。
-Leon连眼皮都没眨一下，抬起干瘦的手背随手将鼻血抹开，神色冷硬如铁。
-算力过载引起的毛细血管破裂而已，死不了人。
-「扫描完成。用户感官数据汇总完毕。」
-小七平板死板的电子音准时在颅腔内响起。
-「特征一：口腔黏膜持续分泌苦涩金属味。」
-「特征二：双手指甲角蛋白层出现多组乳白色横向米氏线。」
-「特征三：周围神经病变，四肢末梢伴有间歇性刺痛与麻木感。」
-「特征四：心率失常，当前心率112，伴随阶段性心肌无力。」
-「综合推断：当前躯体在过去三至六周内，持续摄入低剂量外源性神经毒素。毒素类型受限于离线库受损无法精确匹配，慢性中毒结论置信度78%。」
-Leon垂下眼帘，就着从石窗缝隙透进来的微弱天光，仔细端详着自己的右手。
-每一枚泛青的指甲盖上，果然横亘着几道极细微的白斑。
-慢性中毒，三至六周。
-从离开Varen城算起，整整一个月零三天。
-这一路上，原主因为水土不服吐得昏天黑地，每隔半天就要喝一次所谓的“安神草汤”。
-而那个鞍前马后、满脸堆笑、每天早晚准时端着热药汤递到床边的贴身男仆，正是门外那个十七岁的Pell。
-一个连字都认不全的家仆，买不起这种杀人于无形的慢毒，更没胆子谋害一个贵族。
-Pell只是一只递碗的手。
-真正想要让这个庶子无声无息烂死在荒原上的主谋，还安安稳稳地坐在几百里外、那座烧着温暖壁炉的Varen城堡里。
-Leon转过头，看向不远处那张油腻陈旧的方木桌。
-那碗已经不再冒热气的草药汤静静地搁在那里，暗绿色的汤水表面凝结了一层油腻的膜，碗底渗出的水渍在落满灰尘的桌面上浸出了一圈深色的圆印。
-Leon撑着颤抖的双腿走下床，脚步虚浮，但每一步都踩得很稳。
-他走到桌前，伸出满是白色横纹的手指，将那只冰凉的木碗端了起来。
-汤水倒映着他那张苍白干瘪的脸，以及一双毫无温度的灰色眼睛。
-他端详了片刻，随后手腕轻落，平平稳稳地将木碗重新放了回去。
-分毫不差，正好压在那圈还未干涸的旧水渍正中央。
+Leon收回手，若无其事地拍了拍袍子上的灰尘：“走吧。”
+村子的公共粮仓位于村后背风的土坡下，其实就是一座用原木胡乱拼凑起来的大木棚，门上挂着一把锈迹斑斑的大铁锁。
+Hob从怀里摸出一把磨得锃亮的铁钥匙，费力地拧开锁头，推开了那扇吱呀作响的厚木门。
+一股混合着干燥泥土、陈年麦秆和霉烂甜味的闷气迎面扑来。
+昏暗的光线从门口照进去，可以看到里面整整齐齐地码放着几十个粗麻布大口袋，角落里还堆着几筐干瘪发黑的脱水野萝卜和干豆角。
+“大人，都在这儿了。”
+Hob侧身让开，语气带着一丝刻意的可怜与试探，“村里一共收了四十二个大袋，十六个小袋，粗算下来，差不多有六千磅粮食……可这一百四十多口人，全指望这点东西熬过冬天了。”
+老村长把“六千磅”咬得极重，眼神不自觉地瞟向Leon的脸色。
+而Leon的视线只是在那些麻袋的体积和堆叠层数上扫了一圈。
+脑海中，小七的电子音迅速流淌出一连串冰冷的数据。
+「正在统计生命体征数据……山脚村落常住人口：143人。」
+「结合领主府邸3人，辖区当前共有146张进食口。」
+「正在通过包装体积与堆积密度测算物资总量……」
+「已剔除外层空隙、沙砾及不可食用杂质，可用口粮实际总重：约5800磅。」
+六千磅？
+这老头子张嘴就虚报了两百磅，显然是习惯性地给自己留了防灾的余量，生怕新来的领主按账面数字把粮食征走。
+Leon没有拆穿他，只是在心里默默拨动着这笔关乎生死的算盘。
+全领地一共146个人。
+按照最低生存标准，每人每天需要消耗1磅麦子吊命。
+146个人，一天就是146磅。
+5800磅粮食除以146，哪怕每天只喝稀得能照出人影的烂麦汤，撑死了也就只能维持大约41天。
+而四天前，收割月的月亮才刚刚圆满。
+在北境这片冻土上，初雪通常会在圆月后的三个月左右降临。
+距离大雪封山，整整还有87天。
+也就是说，在冰雪彻底把黑石领变成一座孤岛之前，他们的粮食就已经见底了整整一个半月。
+Leon走上前，伸手解开最近一个麻袋上的草绳，探手抓了一把干燥冰凉的黑麦粒。
+麦粒干瘪细小，表面泛着缺乏养分的暗褐色，在昏暗的光线下显得毫无生气。
+他缓缓摊开手掌，粗糙的麦粒顺着指缝滑落，沙沙地掉回麻袋里。
+87天后大雪封山。
+而手里的口粮，只够撑41天。
 
-(Đoạn 2 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)

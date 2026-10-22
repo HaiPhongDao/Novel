@@ -18,9 +18,12 @@
 - **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là bàn tay bỏ độc vào trà theo lệnh một người ở thành Varen. Lời kể chỉ đi vào đầu Leon khi có Pell.
 
+- **Hob** — trưởng làng hơn mười năm, ~55 tuổi, gầy, lưng còng, chống gậy cong, đi khập khiễng, mắt sâu. Đã thấy ba quý tộc bị đày tới, hai người chết trước mùa đông đầu. Lễ phép, kiệm lời, giữ của cho làng (khai dư số lương). Gọi Leon "领主大人".
+
 **Lãnh địa 黑石领**
 - Trang viên xây bằng đá bazan đen, nặng và cứng; nửa mái phía đông đã sập.
-- Làng dưới chân đồi, chừng trăm bốn mươi người; thu hoạch mùa thu năm nay bị sương giá.
+- Làng dưới chân đồi: 143 người, hơn ba mươi nhà tranh, dân là 农奴; giếng chung đá vụn giữa làng; kho lương chung là lán gỗ sau làng. Thu hoạch mùa thu năm nay bị sương giá.
+- 被诅咒的石头: đá đen lộ ở sườn núi phía đông, giòn, nhẹ hơn đá bazan. Nhiều năm trước lão Jim lấy về kê bếp, đêm đó cháy cả nhà năm người; dân gọi là "恶魔火".
 - Lịch: cuối thu; tuyết đầu mùa rơi khoảng ba tháng sau trăng gặt (收割月) và kéo dài nửa năm.
 
 **Quy ước trình bày**

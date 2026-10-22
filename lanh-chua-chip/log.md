@@ -53,3 +53,4 @@
 2026-10-22 | doan-001 (lượt 2) | Bản 3: tốt nhất (Gareth đạt), nhưng sai mùa (xuân) và còn "…rất thực". Chẩn đoán: tính từ phẩm chất trong SI lọt vào văn → gỡ khỏi SI v2; prompt thêm mùa (cuối thu) | Tác giả hỏi nguyên nhân | Agent (ghi log)
 2026-10-22 | doan-001 (lượt 2) | CHỐT bản 4. Kết đoạn (đặt bát lại) chưa có nghĩa → đoạn 2 cho Leon đổ trà đêm đó, để bát rỗng đúng chỗ cho Pell tin | Tác giả nhận xét kết đoạn | Agent (ghi log)
 2026-10-22 | bible | Từ đoạn 001: Leon gốc từng quất người hầu thân cận rách da; tuyết kéo dài nửa năm; Pell nói thảo dược do một bà lão trong làng hái; Leon bị gọi "男爵" | Chi tiết Writer tự đặt | ⏳ Chờ Tác giả (xem câu hỏi trong chat)
+2026-10-22 | doan-002 (lượt 2) | Đạt. Mẫu giọng trong gói bàn giao thay bằng các khúc lượt 2 (Gareth báo cáo, Leon với Pell, Hob nghĩ) | Lượt 1 đã vào archive | Agent (ghi log)
