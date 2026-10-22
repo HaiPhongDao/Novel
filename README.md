@@ -20,10 +20,10 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | `chung/quy-trinh-ban-giao.md` | Gói bàn giao và chuyển session Writer |
 | `chung/ai-studio.md` | Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome |
 | `chung/review-blacklist.md` | Lỗi văn chung để soát khi review |
-| `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `ollama_write.py` (chạy Writer bằng Ollama) |
+| `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `gop_doan.py` (gộp mỗi 10 đoạn thành `gop/doan-001-010.md`…), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `ollama_write.py` (chạy Writer bằng Ollama) |
 | `writer/SI-template` | SI mẫu dùng chung — điền ô `[[...]]` cho từng truyện |
 | `_mau-truyen/` | Khung thư mục để chép khi mở truyện mới |
-| `<ten-truyen>/` | Mọi thứ của riêng một truyện: bible, plot, briefs, chapters, reviews, handoff, SI + lỗi riêng (`gemini/`), archive, log |
+| `<ten-truyen>/` | Mọi thứ của riêng một truyện: bible, plot, briefs, chapters, gop (khối 10 đoạn), reviews, handoff, SI + lỗi riêng (`gemini/`), archive, log |
 
 ## Mở truyện mới
 

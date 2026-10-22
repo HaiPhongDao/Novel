@@ -94,6 +94,9 @@ def main():
     wr("log.md", rd("log.md").rstrip("\n") + "\n" + spec["LOG"].strip() + "\n")
 
     print(run(sys.executable, "tools/build_pack.py", story_name))
+    gopped = run(sys.executable, "tools/gop_doan.py", story_name)
+    if gopped.startswith("Đã gộp"):
+        print(gopped)
     run("git", "add", story_name)
     with tempfile.NamedTemporaryFile("w", encoding="utf-8", suffix=".txt", delete=False) as f:
         f.write(spec["COMMIT"].strip() + "\n\n" + CO_AUTHOR + "\n")
