@@ -22,3 +22,5 @@
 2026-10-23 | doan-004 | Dây cung khoan lửa làm bằng vỏ trong cây liễu bờ suối xoắn lại; Snik là con non cùng ổ đã tự trèo ra khỏi hố | Chi tiết phụ cho prompt | Agent (ghi log)
 2026-10-23 | doan-004 | Chốt. Sửa tên "神农架" → "进山" (Khoa người Việt) và "这章" → "这里" | Đạt review; Writer kéo kiếp trước sang TQ lần thứ ba | Agent (ghi log)
 2026-10-23 | doan-005 | Thêm con non thứ năm của nhóm: **Mok** — một trong bốn con theo Zag, to xác, chậm, theo ai cho ăn. Nhóm năm = Nub, Snik, Zag, Mok là bốn ngón, Khoa là lòng bàn tay | Tay goblin chỉ có bốn ngón (canon đoạn 1) mà outline gọi nhóm năm là "một bàn tay" → ghép bốn ngón + lòng bàn tay. Cần Tác giả xem | Agent (ghi log, chờ Tác giả)
+2026-10-23 | doan-005 | Chốt. Sửa "河江县中学" → "县中学". Mok vào canon; nhóm năm = bốn ngón + lòng bàn tay | Đạt review | Agent (ghi log; nhóm-năm chờ Tác giả xem)
+2026-10-23 | doan-006 | Cảnh Yeg gọi Khoa vào bên đống than dời từ Ngày 10 lên ngay đêm Ngày 8 (nối thẳng chỗ đoạn 005 dừng: Yeg ngửi thấy mùi thịt nướng). Yeg hỏi tên, gọi Khoa là "Ko" | Mạch nối liền; tên Ko lần đầu lên trang | Agent (ghi log)

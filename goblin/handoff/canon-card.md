@@ -42,3 +42,9 @@
 - Khoa nói tiếng goblin bằng câu cụt ("肉，管饱。").
 - Snik: con non cùng ổ, gầy, tai to, mắt xanh, nhanh tay; hỏi 为什么. Canh cửa hang lúc chạng vạng, kêu tiếng chim ba lần làm ám hiệu.
 - Zag cao hơn 60 cm ở Ngày 8, cầm gậy gỗ cứng; bốn con non to xác cùng ổ theo Zag.
+
+**Đã lên trang ở đoạn 5**
+- Mok: con non cùng ổ, béo nhất, chậm, ai cho ăn thì theo.
+- Nhóm năm: Khoa giơ bàn tay bốn ngón — Nub, Snik, Zag, Mok — chọc vào lòng bàn tay là "我"; nắm lại thành nắm đấm. "五个，是一只手。"
+- Zag thua Khoa vì dẫm trúng phiến đá lỏng ở dốc đá vụn dưới cửa hang; gậy của Zag nay Snik cầm.
+- Đàn em gọi Khoa 老大.
