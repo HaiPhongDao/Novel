@@ -26,6 +26,14 @@ Gom từ SI cũ (mục 三, 四, 五) khi SI chuyển sang viết khẳng địn
 - Dấu —— trong lời kể để chêm câu giải thích: "——那是握剑留下的痕迹".
 - Mùi "chui / xộc" vào mũi: "直往鼻孔里钻", "直冲鼻腔", "直冲面门", "钻进鼻腔" — gần như đoạn nào cũng có.
 
+## Tác giả bắt được (lượt 2, đoạn 1): "giải thích thừa"
+- Giọng nói + "得像…": "平板得像在念一份讣告", "平稳得像是一条直线", "干瘪得像两片干枯的树叶在摩擦", "平淡得听不出喜怒".
+- So sánh diễn giải: "那眼神不像…倒像是个…冷血商人", kết đoạn "宛如从始至终都未曾有人碰过".
+- "不是 A，而是 B" cho cảm giác: "不是饥饿的痉挛，而是一种源自内脏深处的剧烈反胃".
+- Lời kể giải thích lý lịch / động cơ: "那是早年在战场上落下的残疾，所有动作都只靠右手完成", "这具身体残存的记忆太碎，他需要确切的数字", "不过是…的表象罢了".
+- "空气骤然冷了几分".
+- **Nguồn gốc phần lớn từ prompt của Agent:** câu thiết lập có mệnh đề nhân quả / diễn giải ("tay trái buông thõng **nên** mọi việc làm bằng tay phải", "**như chưa từng** đụng tới") bị Writer kể lại nguyên văn thành câu giải thích.
+
 ## Agent bắt thêm (cùng bản test)
 - Tên bị phiên âm kèm ngoặc: "莱昂·瓦伦（Leon Varen）", "加雷斯（Gareth）", "佩尔（Pell）".
 - Lời nghĩ của nhân vật phụ để trong ngoặc đơn '…'.

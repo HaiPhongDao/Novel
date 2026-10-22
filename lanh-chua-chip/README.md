@@ -10,7 +10,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ | ⏳ | — | — |
+| 001 | ✅ bản 2 | bản 1 làm lại → `archive/run-2/` | ❌ bản 1 giải thích thừa | — |
 
 ## Cách chạy
 
