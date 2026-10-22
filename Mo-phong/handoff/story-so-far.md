@@ -8,3 +8,6 @@ Lượt miễn phí: nộp ba viên vẫn bị đánh và phạt gánh phân, kh
 
 ### Đoạn 003 — Đường trốn tông và ký ức chỗ giấu sổ
 MC tiêu một viên, còn hai. Lượt hai trốn tông, thấy Triệu Toàn giấu bọc sổ trong ngăn khô của vại phân thứ ba kho phân bón; ngày thứ ba bị chấp pháp truy và rơi vực chết. Chọn ký ức đúng đêm thấy sổ. Thật rạng sáng Ngày 2, Đôn hỏi sao vã mồ hôi.
+
+### Đoạn 004 — Lấy sổ trong vại phân thứ ba
+Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, theo ký ức vào kho. Gặp lão Chung cụt chân trái, ông xin rượu không pha nước rồi rời đi. MC mở ngăn khô lấy bọc sổ: tên mình năm nay, phí hoãn5viên; tên Đôn ở danh sách năm sau. Giữ sổ gốc trong ngực, đóng ngăn; tiếng then cửa chính động.

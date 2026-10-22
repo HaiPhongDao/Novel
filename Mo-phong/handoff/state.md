@@ -1,10 +1,9 @@
-## 3. Trạng thái hiện tại — hết đoạn 003
+## 3. Trạng thái hiện tại — hết đoạn 004
 
-Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
-- Tu vi thật炼气二层, 五灵根, linh thạch 2; đã dùng 2 lượt (1 miễn phí + 1 trả phí).
-- Nợ5 viên, hạn từ Ngày1 còn khoảng2 ngày; khảo hạch Ngày90.
-- MC biết lần1 chết ở三号矿洞 vào次年三月初七; lần2 bỏ tông bị chấp pháp truy ngày3 của mô phỏng. Nguyên nhân bị theo dấu chỉ là phỏng đoán của MC, chưa xác minh.
-- Ký ức đã nhận chỉ đêm đầu: đường qua灵田, kho肥料库,第三口粪缸, ngăn khô bên dưới vại; vặn gạch cạnh vành để mở. 赵全 tháo nhẫn trước khi mở; bọc油布 chứa sổ. Chưa biết nội dung sổ.
-- Đôn chưa biết máy, sổ, kế hoạch; hỏi về mồ hôi.
-- Máy gọi你, chỉ mang1 loại thưởng/1ngày ký ức; nghề kiếp trước không cấp trong prompt.
-- Kế tiếp cần nối lời đáp Đôn rồi trong Ngày2 tới đêm lấy sổ, chưa gặp钟伯 ở đời thật.
+Đêm Ngày2, MC ở trong肥料库, sổ gốc bọc油布 trong ngực, ngăn vại đã đóng; vừa nghe then cửa chính động, chuẩn bị rời bằng cửa sổ.
+- 炼气二层, 五灵根, 2 linh thạch; không chạy máy trong004.
+- Lần mô phỏng đã dùng2; phí lần kế1viên. Hạn phí5viên vào khoảngNgày4, khảo hạchNgày90.
+- Sổ gốc lấy được: private ledger của赵全, có tên沈砚 trong năm nay, phí hoãn5viên/hạn3ngày; năm sau có石墩 mới18tuổi, hơn1năm mới20. Chưa biết chủ mưu/chuyện trận pháp.
+- 老钟/钟伯 cụt nửa chân trái, nhai苦烟叶, gánh phân; đã thấy MC tới kho, xin土烧 không pha nước, MC hứa nhưng chưa mua/chưa tiêu2viên. Ông đã đi khỏi kho trước khi MC đọc sổ.
+- Đôn ở lán chưa biết máy hoặc sổ; MC cần giữ gốc và chỉ đưa bản chép1trang cho赵全 ở005.
+- Khảo hạch là tuổi20/tầng3, không có điều kiện tự thêm5năm ở tạp dịch viện.

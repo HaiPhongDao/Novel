@@ -17,3 +17,5 @@
 - Sau đoạn 002: lần đầu chọn修为, thật lên炼气二层. Mỏ linh khí dày là điều MC đã thấy qua log; cái chết lần đầu次年三月初七 ở三号矿洞. Nguyên nhân chưa biết.
 
 - Ký ức lượt2: 油布包 trong ngăn khô bên vại phân thứ ba ở肥料库; vặn gạch dưới vành để mở. 赵全 cởi nhẫn trước khi chạm vại. MC chưa đọc sổ. Phỏng đoán truy dấu tạp dịch chưa phải luật thế giới.
+
+- Sổ gốc đã lấy cuối004, MC giữ trong ngực. 老钟 yêu cầu một壶土烧 không pha nước; MC hứa trả. Sổ có tên石墩 ở kế hoạch năm sau, không đổi tuổi hiện tại18.

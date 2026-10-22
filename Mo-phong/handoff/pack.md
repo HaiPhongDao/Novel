@@ -32,6 +32,8 @@ Sau đó chờ prompt của đoạn tiếp theo.
 
 - Ký ức lượt2: 油布包 trong ngăn khô bên vại phân thứ ba ở肥料库; vặn gạch dưới vành để mở. 赵全 cởi nhẫn trước khi chạm vại. MC chưa đọc sổ. Phỏng đoán truy dấu tạp dịch chưa phải luật thế giới.
 
+- Sổ gốc đã lấy cuối004, MC giữ trong ngực. 老钟 yêu cầu một壶土烧 không pha nước; MC hứa trả. Sổ có tên石墩 ở kế hoạch năm sau, không đổi tuổi hiện tại18.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -45,18 +47,20 @@ Lượt miễn phí: nộp ba viên vẫn bị đánh và phạt gánh phân, kh
 ### Đoạn 003 — Đường trốn tông và ký ức chỗ giấu sổ
 MC tiêu một viên, còn hai. Lượt hai trốn tông, thấy Triệu Toàn giấu bọc sổ trong ngăn khô của vại phân thứ ba kho phân bón; ngày thứ ba bị chấp pháp truy và rơi vực chết. Chọn ký ức đúng đêm thấy sổ. Thật rạng sáng Ngày 2, Đôn hỏi sao vã mồ hôi.
 
+### Đoạn 004 — Lấy sổ trong vại phân thứ ba
+Nối lời hỏi của Đôn, MC đáp vết thương; qua ngày tới đêm, theo ký ức vào kho. Gặp lão Chung cụt chân trái, ông xin rượu không pha nước rồi rời đi. MC mở ngăn khô lấy bọc sổ: tên mình năm nay, phí hoãn5viên; tên Đôn ở danh sách năm sau. Giữ sổ gốc trong ngực, đóng ngăn; tiếng then cửa chính động.
+
 ---
 
-## 3. Trạng thái hiện tại — hết đoạn 003
+## 3. Trạng thái hiện tại — hết đoạn 004
 
-Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
-- Tu vi thật炼气二层, 五灵根, linh thạch 2; đã dùng 2 lượt (1 miễn phí + 1 trả phí).
-- Nợ5 viên, hạn từ Ngày1 còn khoảng2 ngày; khảo hạch Ngày90.
-- MC biết lần1 chết ở三号矿洞 vào次年三月初七; lần2 bỏ tông bị chấp pháp truy ngày3 của mô phỏng. Nguyên nhân bị theo dấu chỉ là phỏng đoán của MC, chưa xác minh.
-- Ký ức đã nhận chỉ đêm đầu: đường qua灵田, kho肥料库,第三口粪缸, ngăn khô bên dưới vại; vặn gạch cạnh vành để mở. 赵全 tháo nhẫn trước khi mở; bọc油布 chứa sổ. Chưa biết nội dung sổ.
-- Đôn chưa biết máy, sổ, kế hoạch; hỏi về mồ hôi.
-- Máy gọi你, chỉ mang1 loại thưởng/1ngày ký ức; nghề kiếp trước không cấp trong prompt.
-- Kế tiếp cần nối lời đáp Đôn rồi trong Ngày2 tới đêm lấy sổ, chưa gặp钟伯 ở đời thật.
+Đêm Ngày2, MC ở trong肥料库, sổ gốc bọc油布 trong ngực, ngăn vại đã đóng; vừa nghe then cửa chính động, chuẩn bị rời bằng cửa sổ.
+- 炼气二层, 五灵根, 2 linh thạch; không chạy máy trong004.
+- Lần mô phỏng đã dùng2; phí lần kế1viên. Hạn phí5viên vào khoảngNgày4, khảo hạchNgày90.
+- Sổ gốc lấy được: private ledger của赵全, có tên沈砚 trong năm nay, phí hoãn5viên/hạn3ngày; năm sau có石墩 mới18tuổi, hơn1năm mới20. Chưa biết chủ mưu/chuyện trận pháp.
+- 老钟/钟伯 cụt nửa chân trái, nhai苦烟叶, gánh phân; đã thấy MC tới kho, xin土烧 không pha nước, MC hứa nhưng chưa mua/chưa tiêu2viên. Ông đã đi khỏi kho trước khi MC đọc sổ.
+- Đôn ở lán chưa biết máy hoặc sổ; MC cần giữ gốc và chỉ đưa bản chép1trang cho赵全 ở005.
+- Khảo hạch là tuổi20/tầng3, không có điều kiện tự thêm5năm ở tạp dịch viện.
 
 ---
 
@@ -68,48 +72,46 @@ Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
 
-　　逃亡经验有什么用？学怎么在断龙崖选个好看的跳崖姿势吗？
-　　选项三。
-　　逃离宗门当夜的记忆！
-　　虽然范围只有短短一日，但这短短一日里，包含着一个至关重要的信息——
-　　赵全藏账册的具体细节！
-　　文字日志虽然提到了肥料库第三口粪缸，但具体是哪条路巡逻最松、赵全是几更天去的、机关夹层到底在粪缸哪个方位，日志根本不会细写。
-　　只有亲身经历过的记忆，才能分毫不差！
-　　“选三。”
-　　沈砚在心底沉声下令。
-　　嗡！
-　　脑海深处猛地炸开一阵尖锐的嗡鸣。
-　　一股庞大杂乱的感官信息如同开闸的洪水，疯狂灌入沈砚的识海之中。
-　　刺骨的夜风刮在脸颊上的森冷。
-　　踩在灵田烂泥里那种黏腻湿滑的触感。
-　　还有肥料库前那股令人作呕的陈年粪臭味……
-　　在纷乱的画面中，沈砚如同幽灵般趴在泥沟里，目光死死锁定着前方的木窗缝隙。
-　　借着黑布灯笼那一豆摇晃的昏黄光芒，赵全那张满是横肉的油腻胖脸被照得格外狰狞。
-　　只见赵全小心翼翼地把手上的玉扳指褪下来揣好，接着蹲在角落那口布满青苔的半人高大缸前，伸手在缸沿下方的砖缝处用力一拧。
-　　嘎吱一声轻响，缸底侧面竟然翻开了一个尺许宽的干燥暗格。
-　　一本厚厚的油布包被稳稳塞了进去。
-　　严丝合缝。
-　　“呼——！”
-　　沈砚猛地从木板床上坐了起来，大口大口喘着粗气。
-　　后背的单衣在眨眼间被冷汗彻底浸透，冰凉黏腻地贴在皮肉上，心脏还在胸膛里擂鼓般狂跳。
-　　沈砚抬手抹了一把额头，满手都是冰凉的虚汗。
-　　眼前虚空中，浮现出最后一行收尾的提示：
-　　【下次模拟：下品灵石一枚。】
-　　字迹消散无形。
-　　沈砚低头看了看怀里。
-　　两块下品灵石依然静静躺着，棱角硌着皮肉。
-　　现实中才过去短短一盏茶工夫。
-　　但他闭眼摸索灵石前，已经在床上枯坐盘算了大半夜。
-　　此刻，排房破旧的窗纸上，已经悄然泛起了一抹惨白微青的光芒。
-　　天亮了。
-　　第二天已经到了。
-　　嘎吱一声。
-　　对面的床板发出酸涩的声响，石墩揉着惺忪的睡眼，打着哈欠坐了起来。
-　　他随手抓了抓蓬乱的头发，刚一抬头，就看见沈砚直挺挺地坐在大通铺上，脸色惨白如纸，额头上的汗珠正顺着下巴啪嗒啪嗒往下掉。
-　　石墩吓了一跳，连鞋都顾不上穿，光着脚踩在冰凉的泥地上就扑了过来。
-　　“砚哥！你怎么了？”
-　　石墩瞪圆了眼，盯着沈砚那张毫无血色的脸，结结巴巴地问道：“你这一大早的……怎么出了浑身虚汗？是不是昨天挨的那几脚伤着心肺了？！”
+　　封面上没有任何字迹，但翻开第一页，沈砚的目光就凝固了。
+　　那是一行行密密麻麻的蝇头小楷。
+　　“崇元三十一年，灵田克扣中品灵米三石，换取下品灵石三十枚……”
+　　“崇元三十三年，杂役弟子考核名额出售，得灵石四十枚……”
+　　沈砚快速翻动，手指因为用力而微微泛白。
+　　这根本不是普通的公账，而是赵全这些年贪墨宗门资产、收受贿赂的私账！
+　　更要命的在后头。
+　　沈砚翻到了关于寒鸦矿的那几页。
+　　那一页上，赫然罗列着今年即将被送往寒鸦矿的杂役弟子名单。
+　　沈砚一眼就在最上头看到了自己的名字！
+　　而在“沈砚”二字的右侧，赫然用朱砂笔写着一行刺眼的小注：
+　　“暂缓。留舍费下品灵石五枚，限期三日。若足额奉上，暂留杂役院。”
+　　好一个赵扒皮！
+　　沈砚咬了咬牙，后背一阵发凉。
+　　合着不管自己交不交灵石，名字早就已经挂在送死的名单上了！
+　　交了灵石，也不过是“暂留”，说不定过一阵子，还会被他找借口弄去矿洞！
+　　沈砚深吸一口气，强压下心头的火气，继续往下翻。
+　　当翻到下一年度的“预备送矿名单”时，沈砚的瞳孔骤然收缩。
+　　他在那一页的第三行，清清楚楚地看到了两个字——
+　　石墩！
+　　沈砚眉头狠狠拧成了一个疙瘩。
+　　石墩今年才刚满十八岁，按照青岚宗的规矩，杂役弟子年满二十岁考核无望，才会被分流去各处灵矿。
+　　石墩离那个年限，还有一年多时间！
+　　可在这本见不得光的黑账里，赵全竟然已经把石墩的名字写进了明年的名单！
+　　这是连明年的矿奴指标，都提前给安排好了！
+　　沈砚指尖发紧，将账册捏得变了形。
+　　赵全这是把他们当成了明码标价的牲口，能榨出油水的就敲骨吸髓，榨不出来的，就送去矿洞换取他在执事那里的政绩！
+　　“好狠的算计……”
+　　沈砚眼神冰冷。
+　　这本账册，绝对不能留在这里。
+　　虽然他现在还不知道赵全背后站着的到底是哪位靠山，但只要这本账册在自己手里，赵全就等于被掐住了死穴。
+　　哪怕日后真的东窗事发，这也是他沈砚翻盘或者保命的最后王牌！
+　　沈砚没有丝毫犹豫，迅速将账册重新用油布包好，伸手塞进了怀里最贴身的位置。
+　　冰冷的油布紧贴着胸口，硌着肋骨，却让沈砚心里莫名多了一分底气。
+　　他反手将暗格推回原位，青砖严丝合缝地扣紧。
+　　做完这一切，沈砚吐出一口浊气，转身就准备从窗户翻出去。
+　　然而，就在他脚尖刚点在泥地上的那一瞬间——
+　　“吱呀……”
+　　肥料库紧闭的正门处，那根粗重的木门闩，忽然极其轻微地动了一下。
 
-(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
