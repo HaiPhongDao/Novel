@@ -15,12 +15,13 @@
 - Chạy mạnh thì Leon đau đầu, nặng thì chảy máu cam.
 
 **Nhân vật phụ**
-- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói. Gọi Leon "少爷".
+- **Gareth** — hiệp sĩ già 58 tuổi, từng là hiệp sĩ của mẹ Leon. Giáp lưới cũ, râu ngắn bạc, tay trái thương cũ buông thõng — mọi việc làm bằng tay phải. Trung thành, ít nói, báo cáo từng việc một bằng giọng lính già. Gọi Leon "少爷".
 - **Pell** — người hầu 17 tuổi theo từ thành Varen; gầy, hay cười, ân cần quá mức. Tự xưng "小人", gọi "少爷". Là bàn tay bỏ độc vào trà theo lệnh một người ở thành Varen. Lời kể chỉ đi vào đầu Leon khi có Pell.
 
 **Lãnh địa 黑石领**
 - Trang viên xây bằng đá bazan đen, nặng và cứng; nửa mái phía đông đã sập.
-- Làng dưới chân đồi, chừng trăm bốn mươi người.
+- Làng dưới chân đồi, chừng trăm bốn mươi người; thu hoạch mùa thu năm nay bị sương giá.
+- Lịch: cuối thu; tuyết đầu mùa rơi khoảng ba tháng sau trăng gặt (收割月) và kéo dài nửa năm.
 
 **Quy ước trình bày**
 - Đơn vị cân: pound (磅).

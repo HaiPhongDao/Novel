@@ -77,3 +77,18 @@ Bản nháp: `archive/run-2/doan-001-v3.md`.
 - Trà có "酸涩铁腥味" — manh mối tốt. Chip đúng câu khởi động, đúng bốn dấu hiệu, 78%.
 - Kết có tính sổ kiểu Leon: không hắt trà, không đập bát vì "连一个完好的陶碗和木碗都是资产".
 - Nghi phạm sau Pell: bá tước hoặc hai người anh.
+
+## Bản 4 — CHỐT
+Chính văn: `chapters/doan-001.md`. Prompt: `briefs/doan-001.md` (bản 4, thêm mùa).
+
+**Tác giả:** tốt nhất trong mọi lần; kết đoạn (đặt bát lại đúng vòng nước) do prompt nên hơi vô nghĩa.
+
+### Kết đoạn
+Lỗi phía Agent: prompt bắt một hành động mà chưa cho nó lý do. **Gỡ ở đoạn 2:** đêm đó Leon đổ trà đi rồi đặt bát rỗng lại đúng vòng nước cũ — sáng ra Pell thấy bát rỗng nằm đúng chỗ, tin là thiếu gia đã uống. Hành động cuối đoạn 1 thành bước đầu của màn kịch với Pell.
+
+### Ghi nhận
+- Đúng mùa (秋收遭了霜冻, 收割月 vừa tròn, ba tháng sau tuyết phong núi).
+- Gareth: 5 câu thoại báo cáo; nhớ chuyện 2 tháng trước — Leon gốc khóc ba ngày vì con chim ưng chết, **quất người hầu thân cận rách da** vì hai vết bùn trên ủng.
+- Phép tính đúng: 140 người > 100 pound/ngày → không đủ 2 ngày; 3 người × 1 pound → hơn hai tháng.
+- Còn sót: "眸底", "灰色的眸子", "平板死板的电子音", "——黑石领"? (không — lần này không có), so sánh của người kể ("像决了堤的泥石流", "弱得像张浸透了水的烂纸"), "冰冷、干瘪、没有任何起伏的声音…" (tả giọng chip). Mở đầu vẫn bằng mùi ("发馊的霉味呛醒").
+- Chi tiết mới: Leon bị gọi là "年轻的男爵"; "雪一下就是整整半年"; Pell nói thảo dược nhờ "一个老妇人trong làng" hái; tiền thưởng "五十万信用点"; trang viên hiện có 3 người (Leon, Gareth, Pell).
