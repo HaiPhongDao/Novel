@@ -42,4 +42,4 @@
 2026-10-22 | doan-005 | Bản 2 (S3) đạt. Số củi Hob nói (30+ ngày) sai → state ghi ~65–75 ngày | Nhất quán | Agent (ghi log)
 2026-10-22 | bible | Trang viên xây bằng đá bazan đen; độ tin cậy của 小七 thường 60–90% | Tránh lẫn với than; chặn số 98–99,9% | Agent (ghi log)
 2026-10-22 | bible | 小七 hiện vạch xanh trong tầm nhìn (đoạn 005) — giữ hay bỏ? | Chạm luật bàn tay vàng | ⏳ Chờ Tác giả
-2026-10-22 | dự án | SI của Writer chuyển sang tiếng Anh (anchor, tên riêng, ví dụ tiếng Trung giữ nguyên); Writer đổi sang Gemini 3.8 Flash | Tiết kiệm token | Tác giả
+2026-10-22 | dự án | SI của Writer (bản sửa `gemini/system-instruction.md`) dịch sang tiếng Anh → `system-instruction-en.md` (anchor, tên riêng, ví dụ tiếng Trung giữ nguyên); Writer đổi sang Gemini 3.8 Flash | Tiết kiệm token | Tác giả

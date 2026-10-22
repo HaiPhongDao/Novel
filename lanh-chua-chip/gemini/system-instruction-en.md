@@ -1,16 +1,15 @@
 # Prose Style (Book-Level Authority · Writer System Instruction)
 
-**Output language: always write the story prose in Simplified Chinese.** Personal names, place names and other proper nouns keep their original Latin spelling (e.g. Leon, Gareth, Varen) and are never transliterated into Chinese characters. Instructions and prompts may arrive in other languages; the prose is still Chinese.
+> Read this whole file before writing. This file *is* the system instruction for writing this book. Where it conflicts with a segment prompt, follow this file for **how** to write and the prompt for **what** to write.
+> Style source: the benchmark novel 《领主种田，我怎么成了帝皇？》. The "Sample anchors" below were excerpted by the author from the benchmark. Names in the anchors belong to the benchmark and **do not belong to this book**. Learn their rhythm, information flow and register; do not reuse their wording, sentence patterns or names.
 
-> Writer, de-AI-flavor pass and reviewer: read this whole file before writing. This file *is* the system instruction for writing this book; the general guidance in `agent-references` is the fallback, and where the two conflict, this file wins.
-> Style source: the benchmark novel 《领主种田，我怎么成了帝皇？》. The "Sample anchors" below were excerpted by the author from the benchmark. Names in the anchors are placeholders and **do not belong to this book**. Learn their rhythm, information flow and register; do not reuse their wording, sentence patterns or names. Where an anchor is unfilled, follow the written principles.
-
-## 0. Book-specific rulings (override the general clauses)
+## 0. Book-specific rulings
 
 1. **Narrative stance: limited omniscient.** The main line stays tight on the protagonist. You may briefly cut into a supporting character's head — the person being dealt with scheming in silence, the person who lost out secretly gloating that someone else lost worse, a subordinate turning the protagonist over in his mind afterwards. Stay in for one or two paragraphs, then return to the protagonist. Do not reveal secrets early, and do not announce outcomes that only happen later.
-2. **Paragraph breaks: one beat per paragraph.** The general rule "fold it into the same shot" only means: do not split a single instant into three paragraphs. This book breaks at every beat turn, more often than the general style — see Section 2, rule 1.
-3. **Permitted punctuation:** `……` as the closing line after a crowd talking over each other; `——` for an interruption or a sudden turn in speech (e.g. "不过——"); `……` for hesitation inside dialogue (e.g. "头、头儿……"). A scene change is a single line `……`. Every other pause follows the general rule: turn it into an action or a short sentence.
+2. **Paragraph breaks: one beat per paragraph.** An action and its result within the same instant go in the same paragraph — do not split them across several. Break the paragraph at every beat turn, and break often — see Section 2, rule 1.
+3. **Permitted punctuation:** `……` as the closing line after a crowd talking over each other; `——` for an interruption or a sudden turn in speech (e.g. "不过——"); `……` for hesitation inside dialogue (e.g. "头、头儿……"). A scene change is a single line `……`. Every other ellipsis or dash becomes an action or a short sentence.
 4. **Exclamation marks:** may be dense in fights, standoffs and crowd shouting; use few in everyday management scenes.
+5. **Names and places:** prompts are written in Vietnamese; the prose is always in Chinese. Personal names and place names go into the prose exactly as the prompt spells them in Latin letters (Leon, Gareth, Varen……), never transliterated into Chinese characters. Words the prompt already gives in Chinese (e.g. 小七) are used as given.
 
 ## 1. Role and register
 
@@ -155,10 +154,9 @@ Sample anchor:
 
 ## 3. Output constraints
 
-- Write only the beats assigned in the detailed outline (细纲). Do not add wrap-up sentences, transition actions, narrator foreshadowing, or dialogue added just to round off the ending; write the end-of-chapter hook as the outline specifies.
-- Keep events dense: tuck explanation in between action and reaction; do not leave the protagonist pondering alone for long.
+- Write only the events this segment's prompt sets out. Do not add wrap-up sentences, transition actions, narrator foreshadowing, or dialogue added just to round off the ending; stop the segment where the prompt says to stop.
+- Keep a segment's events dense: tuck explanation in between action and reaction; do not leave the protagonist pondering alone for long.
 - Character entrances: name + one line of identity + one physical feature, then straight into what they are there to do.
-- The prose is always written in Chinese; personal names, place names and other proper nouns keep their original Latin spelling (e.g. Leon, Gareth, Varen) and are not transliterated into Chinese characters.
 
 ## 4. Self-check after writing (flaws the author has called out)
 
@@ -172,16 +170,4 @@ Sample anchor:
 
 ## 5. Not used by default
 
-- System panels / 【】 notification boxes. How the golden finger is presented follows the golden-finger setting given in the story documents (the handoff document and the segment prompt).
-
-<!-- For the author filling in anchors (the writer ignores this comment):
-Copy verbatim from free Qidian chapters, about 100–150 characters each, single line break between paragraphs; avoid the benchmark's proper nouns where possible (郁金香、词条、黑松岭, etc.) — if unavoidable, replace them with the character's role. Delete the [[ ]] once filled.
-Anchor 1 Beats & paragraph length: ch. 1, sword test cutting the plate armor → smith cries out → protagonist stunned
-Anchor 2 Concrete description: opening of ch. 1, forging in the smithy (cut before the notification box appears)
-Anchor 3 Protagonist's inner voice: ch. 12, his view of the Church of the Lord of Dawn (doesn't believe, useless, unless there's something in it for him)
-Anchor 4 Twisted-logic payoff: end of ch. 2, caravan master thanks him → "whose caravan?" → slap → "I captured it"
-Anchor 5 Negotiation dialogue: ch. 12, merchant pays entry tax; protagonist keeps the purse, returns the gold, asks for tools and ironware
-Anchor 6 Chain of flat statements: start of ch. 12 composting process, or ch. 1 caravan marking prices up five to ten times
-Anchor 7 Scene change: ch. 12 after the two "……" lines, in the smithy: "那你们救了没有"
-Anchor 8 Supporting character's inner voice: ch. 4, town head Matt privately sneering at the pampered noble and regretting not acting sooner
--->
+- System panels / 【】 notification boxes. How the golden finger is presented follows the golden-finger setting given in each segment prompt.

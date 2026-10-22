@@ -31,7 +31,7 @@ Chính văn viết bằng **tiếng Trung**, theo **đoạn** (~2000 字), chia 
 - `bible/` — Story Bible (nguồn sự thật duy nhất)
 - `plot/` — Arc, dàn ý, tuyến truyện mở
 - `briefs/` — Prompt (tiếng Việt) giao Gemini; bản brief tiếng Việt v1 trong `archive/briefs-v1/`
-- `gemini/si-wenfeng-en.md` — System Instruction của Writer (tiếng Anh, đang dùng); `si-wenfeng-zh.md` — bản gốc tiếng Trung
+- `gemini/system-instruction-en.md` — System Instruction của Writer, tiếng Anh (dịch từ `system-instruction.md`, anchor giữ nguyên)
 - `gemini/test-prompts.md` — 3 prompt test vòng 1 + bảng chấm
 - `reviews/test-B-C.md` — kết quả test vòng 1 và nguyên tắc prompt rút ra
 - `handoff/` — Gói bàn giao chuyển session Gemini (`pack.md` dán thẳng)
