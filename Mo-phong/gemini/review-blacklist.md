@@ -12,6 +12,8 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này chỉ giữ 
 - Mang về vượt luật: tu vi quá đỉnh đại cảnh giới, đồ vật, linh căn tốt lên.
 - Log ghi chuyện MC trong mô phỏng không thể biết (suy nghĩ người khác, việc sau lưng).
 - Kiếp trước của MC bị gắn nước / thành phố / công ty cụ thể (bài học goblin).
-- Meme mạng của truyện tham khảo: 鹅厂、tnnd、拼夕夕、给我狠狠模拟.
+- Chép nguyên meme/tên thương hiệu của truyện tham khảo: 鹅厂、tnnd、拼夕夕、给我狠狠模拟. Tác giả 23/10 cho dùng ngạnh (梗) để tạo không khí thoải mái; không bắt mọi ngạnh như một lỗi. Chỉ bắt khi nhét câu hot không ăn cảnh, lặp một công thức gây cười, giải thích câu đùa hoặc dùng nghề kiếp trước làm nguồn ví von liên tục. Đây là ngoại lệ riêng của Mo-phong với mục meme trong blacklist chung.
 
 ## Ghi nhận qua review
+
+- Tông truyện bị kéo thành âm u, than thân kéo dài, hoặc lời kể quá đều khiến cảnh mất sự dí dỏm và mong chờ lật kèo. Ngược lại, không dùng nhãn vô địch để cho MC tự vượt cảnh giới hoặc thắng ngoài dàn ý.
