@@ -1,11 +1,9 @@
-## 3. Trạng thái hiện tại — hết đoạn 001
+## 3. Trạng thái hiện tại — hết đoạn 002
 
-Ngày 1, cuối chiều; trong lán bảy. Thẩm Nghiễn giữ ba viên trong tay, Thạch Đôn che cạnh giường. Máy vừa hiện 【模拟开始。】; đời mô phỏng đầu chưa hiện.
-
-- Tu vi 炼气一层; 五灵根; linh thạch thật 3 viên, lượt đầu miễn phí.
-- Nợ bị đòi: 5 viên, thiếu 2, hạn 3 ngày. Khảo hạch còn 90 ngày; đây là hạn khảo hạch, không phải thọ nguyên.
-- Triệu Toàn doạ đổi việc gánh phân nếu không nộp; xuống mỏ theo kỳ khảo hạch. MC chỉ biết lời đồn mỏ nguy hiểm, chưa biết ngày chết hoặc hầm số 3.
-- Máy chỉ hiện log trong đầu; gọi 你, ba chuỗi ở đoạn 001 đúng glossary.
-- Thạch Đôn chưa biết máy. Mỏ cách ba ngày đường. Nghề kiếp trước không đưa vào gói Writer.
-
-Giọng v1 được Tác giả duyệt 23/10: tiếp tục giữ, ưu tiên soát canon/con số/mạch nối.
+Đêm Ngày 1 trong lán bảy. Mọi người đã ngủ, MC đặt một viên trong tay, chưa tiêu.
+- Tu vi thật 炼气二层; 五灵根; 3 linh thạch thật. Lượt miễn phí đã dùng, lượt kế giá 1.
+- Nợ 5 viên, hạn sau 3 ngày; khảo hạch 90 ngày từ Ngày 1. Vết thương còn nhưng linh lực giúp chịu đau.
+- MC biết trong đời 1: nộp 3 vẫn bị phạt; trượt khảo hạch, tới mỏ bằng xe ba ngày; trong mỏ linh khí dày, nửa năm lên tầng hai; 次年三月初七, 三号矿洞 sập, chết. Mới một lần, chưa biết nguyên nhân.
+- Đôn biết MC lo tiền, chưa biết máy/tu vi; ngủ trong lán. Có nhắc钟伯 nhưng chưa gặp trực tiếp.
+- Lần tiếp theo phải bắt đầu đúng đêm này, theo hiểu biết hiện tại, tiêu 1 còn 2; máy chỉ gọi你, hiện sự kiện và lựa chọn.
+- Nghề kiếp trước không đưa vào brief. Giọng SI v1 đã được Tác giả chấp nhận.

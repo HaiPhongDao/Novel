@@ -13,3 +13,5 @@
 
 **Địa danh**
 - Lán số 7 tạp dịch viện (12 người) · linh điền · kho phân bón · mỏ Hàn Nha (寒鸦矿), ba ngày đường.
+
+- Sau đoạn 002: lần đầu chọn修为, thật lên炼气二层. Mỏ linh khí dày là điều MC đã thấy qua log; cái chết lần đầu次年三月初七 ở三号矿洞. Nguyên nhân chưa biết.

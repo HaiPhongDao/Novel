@@ -26,3 +26,4 @@
 
 2026-10-23 | quy trình | Tác giả chấp nhận giọng SI v1, chỉ bắt lỗi thiết lập; cho tự chạy tiếp khoảng 10 đoạn, tự duyệt và push ngay từng đoạn. Thực hiện 001 rồi thêm 002–011 | Tác giả
 2026-10-23 | doan-001 | Chốt — Máy mô phỏng kích hoạt; Tác giả duyệt giọng; chỉ sửa dòng máy/địa lý sai, bản gốc còn trong archive | Tác giả cho phép tự duyệt và push từng đoạn | Agent
+2026-10-23 | doan-002 | Chốt — Lần chết đầu, nhận Luyện Khí tầng hai; giữ giọng Writer, soát canon/con số/mạch nối | Tác giả cho phép tự duyệt và push từng đoạn | Agent

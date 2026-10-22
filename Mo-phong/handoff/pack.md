@@ -28,6 +28,8 @@ Sau đó chờ prompt của đoạn tiếp theo.
 **Địa danh**
 - Lán số 7 tạp dịch viện (12 người) · linh điền · kho phân bón · mỏ Hàn Nha (寒鸦矿), ba ngày đường.
 
+- Sau đoạn 002: lần đầu chọn修为, thật lên炼气二层. Mỏ linh khí dày là điều MC đã thấy qua log; cái chết lần đầu次年三月初七 ở三号矿洞. Nguyên nhân chưa biết.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -35,19 +37,20 @@ Sau đó chờ prompt của đoạn tiếp theo.
 ### Đoạn 001 — Máy mô phỏng kích hoạt
 Thẩm Nghiễn tỉnh ở lán bảy, được Thạch Đôn đắp thuốc. Triệu Toàn đòi năm linh thạch trong ba ngày, doạ chuyển việc gánh phân; khảo hạch sau 90 ngày. MC lấy ba viên giấu dưới ván giường, nhờ Đôn che, máy kích hoạt lượt miễn phí; dừng ở 【模拟开始。】.
 
+### Đoạn 002 — Lần chết đầu, nhận Luyện Khí tầng hai
+Lượt miễn phí: nộp ba viên vẫn bị đánh và phạt gánh phân, khảo hạch trượt. Ở mỏ tu nhanh, nửa năm lên tầng hai; chết do hầm số ba sập ngày mùng bảy tháng ba năm sau. MC chọn tu vi, thật lên tầng hai, vẫn bị thương và còn ba viên. Đêm đặt viên đầu trong tay để thử đời khác.
+
 ---
 
-## 3. Trạng thái hiện tại — hết đoạn 001
+## 3. Trạng thái hiện tại — hết đoạn 002
 
-Ngày 1, cuối chiều; trong lán bảy. Thẩm Nghiễn giữ ba viên trong tay, Thạch Đôn che cạnh giường. Máy vừa hiện 【模拟开始。】; đời mô phỏng đầu chưa hiện.
-
-- Tu vi 炼气一层; 五灵根; linh thạch thật 3 viên, lượt đầu miễn phí.
-- Nợ bị đòi: 5 viên, thiếu 2, hạn 3 ngày. Khảo hạch còn 90 ngày; đây là hạn khảo hạch, không phải thọ nguyên.
-- Triệu Toàn doạ đổi việc gánh phân nếu không nộp; xuống mỏ theo kỳ khảo hạch. MC chỉ biết lời đồn mỏ nguy hiểm, chưa biết ngày chết hoặc hầm số 3.
-- Máy chỉ hiện log trong đầu; gọi 你, ba chuỗi ở đoạn 001 đúng glossary.
-- Thạch Đôn chưa biết máy. Mỏ cách ba ngày đường. Nghề kiếp trước không đưa vào gói Writer.
-
-Giọng v1 được Tác giả duyệt 23/10: tiếp tục giữ, ưu tiên soát canon/con số/mạch nối.
+Đêm Ngày 1 trong lán bảy. Mọi người đã ngủ, MC đặt một viên trong tay, chưa tiêu.
+- Tu vi thật 炼气二层; 五灵根; 3 linh thạch thật. Lượt miễn phí đã dùng, lượt kế giá 1.
+- Nợ 5 viên, hạn sau 3 ngày; khảo hạch 90 ngày từ Ngày 1. Vết thương còn nhưng linh lực giúp chịu đau.
+- MC biết trong đời 1: nộp 3 vẫn bị phạt; trượt khảo hạch, tới mỏ bằng xe ba ngày; trong mỏ linh khí dày, nửa năm lên tầng hai; 次年三月初七, 三号矿洞 sập, chết. Mới một lần, chưa biết nguyên nhân.
+- Đôn biết MC lo tiền, chưa biết máy/tu vi; ngủ trong lán. Có nhắc钟伯 nhưng chưa gặp trực tiếp.
+- Lần tiếp theo phải bắt đầu đúng đêm này, theo hiểu biết hiện tại, tiêu 1 còn 2; máy chỉ gọi你, hiện sự kiện và lựa chọn.
+- Nghề kiếp trước không đưa vào brief. Giọng SI v1 đã được Tác giả chấp nhận.
 
 ---
 
@@ -59,50 +62,37 @@ Giọng v1 được Tác giả duyệt 23/10: tiếp tục giữ, ưu tiên soá
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 1 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
 
-　　其他杂役自顾不暇，谁也没心思往这阴暗角落凑。
-　　沈砚侧过身，忍着后背撕裂般的剧痛，伸手探进床铺最里侧的缝隙。
-　　那里有一截活动的床板。
-　　他的指尖摸到粗糙的木刺，随后往上一扣，一个小小的凹槽露了出来。
-　　一块粗布包裹静静躺在里面。
-　　沈砚把它掏出来，揭开泛黄的粗布。
-　　三枚拇指大小、通体灰白、表面散发着微弱荧光的石头映入眼帘。
-　　下品灵石。
-　　杂质极多，灵气驳杂，但在这群食不果腹的杂役眼里，这就是命。
-　　原身入宗三年，每月得一块灵石，省吃俭用，连修炼都舍不得多吸一口灵气，三年下来，竟然硬生生攒下了三块。
-　　沈砚的手指摩挲着冰凉的石面，心里飞快盘算起来。
-　　三块。
-　　赵全要五块。
-　　还差两块。
-　　期限只有三天。
-　　三天之内去哪儿弄两块下品灵石？去偷？去抢？杂役院这帮穷鬼兜里比脸还干净，赵全屋里倒是有，可炼气六层一巴掌就能拍碎自己的天灵盖。
-　　更别提，就算把这三块棺材本加上砸锅卖铁凑够五块喂饱了赵全，九十天后怎么办？
-　　五灵根。
-　　炼气一层。
-　　九十天突破到炼气三层？
-　　除非天上下灵石雨，或者掌教真人突然发疯收他当关门弟子，否则这根本就是一条死路。
-　　横竖都是个死。
-　　沈砚的嘴角抽搐了一下，在心底狠狠问候了一遍穿越大神的直系亲属。
-　　就在他满心郁闷、准备把灵石重新塞回床板下时，异变陡生。
-　　嗡——
-　　脑海深处忽然传来一声极其轻微的颤鸣，像是古老的青铜钟在神魂深处被撞响。
-　　紧接着，他的视线开始模糊，眼前的木板床、破瓦罐、甚至石墩那宽阔的后背，全都蒙上了一层灰白色的光晕。
-　　沈砚下意识闭上眼。
-　　但闭上眼后，那光芒不仅没有消失，反而在漆黑的意识中变得愈发璀璨夺目。
-　　几行暗金色的文字，犹如烧红的烙铁，清晰无比地在脑海中浮现出来：
-　　【万劫模拟器，已绑定。】
-　　沈砚呼吸猛地一滞。
-　　金手指？
-　　作为资深打工人加网文老书虫，这东西他太熟悉了！
-　　他就知道，穿越这行当，哪怕开局是牛马，也总该配一套趁手的农具！
-　　沈砚强压住狂跳的心脏，意念死死锁定在那几行字上。
-　　金色文字微微流转，新的字迹随之浮现：
-　　【首次模拟免费。】
-　　免费的不用白不用，现在这处境，哪怕前面是个火坑，他也得跳进去看看能不能炸出点油水来。
-　　“开启！”
-　　沈砚在脑海中狠狠下达了指令。
-　　意识中的暗金色光芒骤然暴涨，那些文字如水波般荡漾开来，随后凝聚成一行崭新而冰冷的行楷小字：
-　　【模拟开始。】
+　　他站起身活动了一下肩膀，顺势伸手扶了一下旁边的粗木床架。
+　　五指微微收拢，原本坚硬粗糙的杂木立柱，竟被他随手捏出了几道深深的浅痕，木屑簌簌落下。
+　　炼气二层的气力与灵力，绝非一层时那种绵软无力可比。
+　　石墩没注意到床柱上的指印，只是把门栓插好，轻手轻脚走过来，蹲在床沿边发愁：“砚哥，三天后赵管事就要带人来收灵石了，咱们统共就这三枚……剩下两枚去哪儿凑啊？”
+　　他抓了抓乱糟糟的头发，咬牙道：“要不……我明天去找钟伯借借看？钟伯虽然瘸了腿，可好歹在杂役院待了快三十年，万一手头有点积蓄呢？”
+　　“别去烦钟伯。”
+　　沈砚摇了摇头：“老钟那条断腿每到阴雨天就疼得打滚，他那点棺材本是用来买止痛草药的，借了他也得喝西北风。”
+　　再说了，模拟里自己就算把三块灵石交出去，换来的也不过是两个大耳刮子和挑粪。
+　　赵全那厮摆明了不是为了例钱，而是吃定了他们这几个没依没靠的软柿子。
+　　五块灵石凑齐了，下个月他就能要六块。
+　　在恶狗面前跪下把馒头交出去，恶狗不仅不会走，还会顺便把你的手指头也咬下来。
+　　“那咱们怎么办啊？”石墩急得眼圈泛红，“总不能真去后山挑三个月大粪吧？要是耽误了修炼，九十天后的考核铁定过不了，到时候真要被发配去寒鸦矿当矿奴了！”
+　　沈砚拍了拍石墩厚实的肩膀，笑了笑。
+　　“天塌不下来，先睡觉。”
+　　石墩愣了愣，看着沈砚平静的眼神，心里的慌乱莫名被压下去几分，只得闷闷应了一声，脱了草鞋爬上自己的大通铺。
+　　……
+　　夜色渐深。
+　　七号排房里很快响起了此起彼伏的鼾声。
+　　杂役们干了一整天重活，倒在稻草席上便睡得像死猪一样，石墩的呼噜声尤其响亮，震得窗纸微微发颤。
+　　沈砚在黑暗中睁开眼。
+　　窗外月光清冷，透过破旧的窗棂，在泥地上洒下一片惨白的斑驳。
+　　他重新理了理手头的底牌。
+　　第一，现实中的九十天考核还没到，时间完全充裕。
+　　第二，他现在已经跨过了五灵根最难熬的门槛，真正踏入了炼气二层，体内的灵力做不得假。
+　　第三，怀里还揣着三块下品灵石。
+　　而下一次开启模拟，只需要一枚下品灵石。
+　　沈砚翻了个身，伸手探入怀中，摸出一块下品灵石。
+　　石头在被窝底下泛着极微弱的荧光，带着粗劣灵矿特有的冰凉质感。
+　　他没有立刻吸纳灵气，而是将那枚灵石稳稳放在掌心之中，五指轻轻搭住。
+　　既然交钱挑粪是一条死路，那他倒要看看，换个活法，赵全这条恶狗能咬下他几两肉。
 
-(Đoạn 2 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
