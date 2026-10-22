@@ -1,3 +1,9 @@
-# Quy ước riêng của truyện
+# Quy ước riêng — đề xuất v0.1
 
-> Văn phong do SI quyết định. File này chỉ giữ quy ước riêng: tên gọi nhân vật chính trong lời kể, xưng hô đặc biệt, cách trình bày bàn tay vàng.
+Văn phong do SI quyết định. Chưa có chính văn được duyệt.
+
+- Lời kể gọi Rowan; xưng hô theo glossary.
+- Người và nơi giữ Latin; thuật ngữ bảng dùng chữ Trung đã cấp.
+- Bảng là dòng chữ ngắn trong chính văn, không có khung Markdown, giọng nói hoặc nhiệm vụ.
+- Đổi điểm khớp người, kỹ năng và trạng thái trước/sau.
+- Cảnh, tên và câu chữ mẫu không là canon của truyện mới.

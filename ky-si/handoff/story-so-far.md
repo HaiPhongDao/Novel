@@ -1,1 +1,3 @@
-## 2. Tóm tắt những gì đã viết
+## 2. Tóm tắt truyện đã chốt
+
+Chưa có đoạn nào. Premise và các việc trong outline chỉ là đề xuất, xem bible/overview.md.

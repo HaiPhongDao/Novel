@@ -1,15 +1,19 @@
-# Thuật ngữ & Xưng hô
+# Thuật ngữ & xưng hô — đề xuất v0.1
 
-> Chính văn tiếng Trung; prompt tiếng Việt. Tên riêng trong chính văn giữ chữ Latin.
+> Tên làm việc, chưa được Tác giả chốt. Chính văn giữ Latin.
 
-## Tên riêng
-| Tiếng Việt | 中文 | Ghi chú |
+| Tên | Vai trò | Cách gọi |
 |---|---|---|
+| Rowan | Kỵ sĩ, chỉ huy | Lời kể Rowan; lính Rowan大人; người làm ăn Rowan骑士 |
+| Dain | Cựu binh, đội phó; trong tám người gác | Dain; lính mới có thể gọi 队副 |
+| Toma | Người gác mới | Toma |
+| Mira | Quản vận hành phà | Mira; Mira女士 khi trang trọng |
+| Oswin | Thợ mộc sửa bến theo việc | Oswin |
+| Alden | Quản hợp đồng thay chủ bến | Alden; Alden管事 |
+| Greyford | Thị trấn | Greyford镇 |
+| Stonewake | Bến phà | Stonewake渡口 |
+| 面板 | Bảng riêng Rowan | 面板 |
+| 长矛收势 | Kỹ năng thử bảng | Giữ đúng bốn chữ này |
+| 训练积累 | Tích lũy của cùng người/kỹ năng | Không là thưởng nhiệm vụ |
 
-## Thuật ngữ
-| Tiếng Việt | 中文 |
-|---|---|
-
-## Xưng hô (CỐ ĐỊNH)
-| Người nói → người nghe | Cách gọi |
-|---|---|
+Nhân vật chưa có tên gọi theo vai trò. Đổi tên thì cập nhật hồ sơ, brief và gói bàn giao đồng bộ.
