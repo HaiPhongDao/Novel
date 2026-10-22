@@ -1,9 +1,10 @@
-## 3. Trạng thái hiện tại — hết đoạn 002
+## 3. Trạng thái hiện tại — hết đoạn 003
 
-Đêm Ngày 1 trong lán bảy. Mọi người đã ngủ, MC đặt một viên trong tay, chưa tiêu.
-- Tu vi thật 炼气二层; 五灵根; 3 linh thạch thật. Lượt miễn phí đã dùng, lượt kế giá 1.
-- Nợ 5 viên, hạn sau 3 ngày; khảo hạch 90 ngày từ Ngày 1. Vết thương còn nhưng linh lực giúp chịu đau.
-- MC biết trong đời 1: nộp 3 vẫn bị phạt; trượt khảo hạch, tới mỏ bằng xe ba ngày; trong mỏ linh khí dày, nửa năm lên tầng hai; 次年三月初七, 三号矿洞 sập, chết. Mới một lần, chưa biết nguyên nhân.
-- Đôn biết MC lo tiền, chưa biết máy/tu vi; ngủ trong lán. Có nhắc钟伯 nhưng chưa gặp trực tiếp.
-- Lần tiếp theo phải bắt đầu đúng đêm này, theo hiểu biết hiện tại, tiêu 1 còn 2; máy chỉ gọi你, hiện sự kiện và lựa chọn.
-- Nghề kiếp trước không đưa vào brief. Giọng SI v1 đã được Tác giả chấp nhận.
+Rạng sáng Ngày 2, lán bảy; Đôn vừa hỏi vì sao MC vã mồ hôi.
+- Tu vi thật炼气二层, 五灵根, linh thạch 2; đã dùng 2 lượt (1 miễn phí + 1 trả phí).
+- Nợ5 viên, hạn từ Ngày1 còn khoảng2 ngày; khảo hạch Ngày90.
+- MC biết lần1 chết ở三号矿洞 vào次年三月初七; lần2 bỏ tông bị chấp pháp truy ngày3 của mô phỏng. Nguyên nhân bị theo dấu chỉ là phỏng đoán của MC, chưa xác minh.
+- Ký ức đã nhận chỉ đêm đầu: đường qua灵田, kho肥料库,第三口粪缸, ngăn khô bên dưới vại; vặn gạch cạnh vành để mở. 赵全 tháo nhẫn trước khi mở; bọc油布 chứa sổ. Chưa biết nội dung sổ.
+- Đôn chưa biết máy, sổ, kế hoạch; hỏi về mồ hôi.
+- Máy gọi你, chỉ mang1 loại thưởng/1ngày ký ức; nghề kiếp trước không cấp trong prompt.
+- Kế tiếp cần nối lời đáp Đôn rồi trong Ngày2 tới đêm lấy sổ, chưa gặp钟伯 ở đời thật.
