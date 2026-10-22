@@ -1,0 +1,1 @@
+<!-- Test SI v2 (system-instruction-en-v2.md) · đoạn 1 · Gemini · 2026-10-22. Tác giả đánh giá: còn dấu vết AI (xem gemini/review-blacklist.md mục "Tác giả bắt được"). Nguyên văn do Tác giả dán trong chat; xem lịch sử hội thoại. -->

@@ -21,6 +21,16 @@ Gom từ SI cũ (mục 三, 四, 五) khi SI chuyển sang viết khẳng địn
 - Thẻ thoại văn hoa: "语气很和善地".
 - Meme mạng, từ hiện đại dày đặc ("新手村", "全息游戏").
 
+## Tác giả bắt được (test SI v2, đoạn 1)
+- Câu so sánh giải thích gắn sau lời giới thiệu giọng nói / âm thanh: "平淡得像是在宣读一份报废仪器的检测清单".
+- Dấu —— trong lời kể để chêm câu giải thích: "——那是握剑留下的痕迹".
+- Mùi "chui / xộc" vào mũi: "直往鼻孔里钻", "直冲鼻腔", "直冲面门", "钻进鼻腔" — gần như đoạn nào cũng có.
+
+## Agent bắt thêm (cùng bản test)
+- Tên bị phiên âm kèm ngoặc: "莱昂·瓦伦（Leon Varen）", "加雷斯（Gareth）", "佩尔（Pell）".
+- Lời nghĩ của nhân vật phụ để trong ngoặc đơn '…'.
+- Biểu cảm khuôn mẫu: "嘴角扯出一抹极度森冷的讥诮", "眼底的寒意越来越浓", "掠过一丝波动".
+
 ## Bàn tay vàng
 - Bảng hệ thống, khung 【】, chữ 系统 / 宿主, hình ảnh hiện trong tầm nhìn.
 
