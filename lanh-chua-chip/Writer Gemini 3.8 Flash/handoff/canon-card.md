@@ -3,7 +3,7 @@
 **Truyện:** lãnh chúa · xuyên không · xây lãnh địa, trung cổ phương Tây. Chính văn tiếng Trung; tên riêng giữ chữ Latin (Leon, Gareth, Pell, Hob, Mira, Tobi, Bram, Varen, Aldermark). Đơn vị cân: pound (磅).
 
 **Leon Varen** (kiếp trước: Trần Minh Khang, 29 tuổi, kỹ sư nông nghiệp ở 远心实验室)
-- 18 tuổi, con vợ lẽ (庶子) thứ ba của Bá tước Varen; mẹ là thiếp xuất thân bình dân, mất sớm; có hai anh trai. Bị "ban" 黑石领 ở biên giới phía bắc vương quốc Aldermark — thực chất là bị đày.
+- 18 tuổi, con vợ lẽ (庶子) thứ ba của Bá tước Varen, lớn lên ở phủ bá tước trong **thành Varen** (Varen城) — nơi Leon rời đi và nơi kẻ chủ mưu ở; mẹ là thiếp xuất thân bình dân, mất sớm; có hai anh trai. Bị "ban" 黑石领 ở biên giới phía bắc vương quốc Aldermark — thực chất là bị đày.
 - Cao gầy, tóc nâu sẫm, mắt xám, hổ khẩu có chai mỏng. Đang hồi phục sau 3–6 tuần trúng độc: đi nhanh là thở dốc.
 - Ngoài mặt điềm tĩnh, ra lệnh ngắn; trong đầu miệng độc, tự giễu. Gặp chuyện là tính sổ: quy đổi, chia khẩu phần, đếm ngày.
 
