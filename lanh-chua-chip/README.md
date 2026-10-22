@@ -19,6 +19,7 @@ Chính văn tiếng Trung, theo **đoạn** (~2000 字). Writer dùng `gemini/sy
 | 007 | ✅ (mở S6) | ✅ (S6) | ✅ ĐẠT | ✅ |
 | 008 | ✅ (S6) | ✅ (S6) | ✅ ĐẠT | ✅ |
 | 009 | ✅ (mở S7) | ✅ (S7) | ✅ ĐẠT | ✅ |
+| 010 | ✅ (S7) | ✅ (S7) | ✅ ĐẠT | ✅ |
 
 ## Cách chạy
 

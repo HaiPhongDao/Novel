@@ -32,3 +32,5 @@
 
 **Quy ước trình bày**
 - Đơn vị cân: pound (磅).
+
+- **Leon** có một thanh đoản kiếm đeo bên hông (từ đoạn 10).

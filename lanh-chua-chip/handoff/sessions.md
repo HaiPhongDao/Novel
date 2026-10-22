@@ -8,6 +8,6 @@
 | S4 | 004 bản 3, 005 bản 1 | `session-start.md` (hết đoạn 003 + prompt đoạn 004 bản 3) | 004 ĐẠT; 005 bản 1 VIẾT LẠI (Hob quỳ khai) |
 | S5 | 005 bản 2, 006 | `session-start.md` (hết đoạn 004 + prompt đoạn 005 bản 2) | cả hai ĐẠT |
 | S6 | 007, 008 | `session-start.md` (hết đoạn 006 + prompt đoạn 007) | cả hai ĐẠT |
-| S7 | 009 → | `session-start.md` (hết đoạn 008 + prompt đoạn 009); SI v2 đã sửa mục Output | 009 ĐẠT |
+| S7 | 009, 010 | `session-start.md` (hết đoạn 008 + prompt đoạn 009); SI v2 đã sửa mục Output | cả hai ĐẠT |
 
 Lượt 1: `archive/run-1/handoff/sessions.md`.

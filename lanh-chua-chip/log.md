@@ -76,3 +76,4 @@
 2026-10-22 | dự án | Bỏ mục 【Kết đoạn】 (hình ảnh khép đoạn) khỏi prompt; thay bằng 【Mở đầu và chỗ dừng】: mở nối thẳng từ chỗ đoạn trước dừng, dừng giữa mạch + nói chuyện kế tiếp thuộc đoạn sau; nhảy thời gian đặt trong đoạn. Dàn ý 009+ dời ranh giới đoạn vào giữa cảnh | Tác giả: các đoạn không liền mạch | Tác giả
 2026-10-22 | dự án | SI v2 mục 3 Output: bỏ "end on the last action or image the prompt names", thay bằng mở nối thẳng từ chỗ đoạn trước dừng + dừng giữa mạch theo prompt (bản SI đã lưu trên AI Studio cập nhật theo) | Cùng nguyên nhân đoạn khép tròn | Tác giả
 2026-10-22 | doan-009 (lượt 2) | Đạt (S7) — đoạn đầu theo kiểu nối liền/dừng giữa mạch: mở từ hàng mắt đỏ, dừng lúc Leon nhẩm khẩu phần. Lỗi số: Leon nghĩ kho "<3000 pound" (đúng ~4.960); state giữ số đúng | Review | Agent (ghi log)
+2026-10-22 | doan-010 (lượt 2) | Đạt (S7). Lương còn 4.321 pound / 29 ngày (chiều Ngày 11) lấy theo chính văn; Leon có đoản kiếm | Review | Agent (ghi log)
