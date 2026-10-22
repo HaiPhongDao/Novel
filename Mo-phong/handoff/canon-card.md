@@ -21,3 +21,5 @@
 - Sổ gốc đã lấy cuối004, MC giữ trong ngực. 老钟 yêu cầu một壶土烧 không pha nước; MC hứa trả. Sổ có tên石墩 ở kế hoạch năm sau, không đổi tuổi hiện tại18.
 
 - MC đã nhận经验衔石法: ngậm vụn linh thạch sạch cỡ hạtgạo khi thổnạp. Lão thợ trong môphỏng nói老钟 là sưhuynh. Hai đời cùng chết次年三月初七ở三号矿洞, mới nghi bất thường.
+
+- Ngày4 trả rượu cho老钟 bằng một壶高粱土烧 không pha, đổi công cọ2nồi bếp. Chưa tiêu viên cuối. 老钟 đã nghe tên衔石法 và đang hỏi ai dạy.

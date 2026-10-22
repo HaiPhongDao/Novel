@@ -31,3 +31,4 @@
 2026-10-23 | doan-004 | Chốt — Lấy sổ trong vại phân thứ ba; giữ giọng Writer, soát canon/con số/mạch nối | Tác giả cho phép tự duyệt và push từng đoạn | Agent
 2026-10-23 | doan-005 | Chốt — Xoá năm linh thạch, giữ quyền dự khảo hạch; giữ giọng Writer, soát canon/con số/mạch nối | Tác giả cho phép tự duyệt và push từng đoạn | Agent
 2026-10-23 | doan-006 | Chốt — Ngày chết lặp lại, chọn kinh nghiệm 衔石法; giữ giọng Writer, soát canon/con số/mạch nối | Tác giả cho phép tự duyệt và push từng đoạn | Agent
+2026-10-23 | doan-007 | Chốt — Một壶rượu đổi câu hỏi về 衔石法; giữ giọng Writer, soát canon/con số/mạch nối | Tác giả cho phép tự duyệt và push từng đoạn | Agent

@@ -35,6 +35,7 @@
 | 004 | `briefs/doan-004.md` | `chapters/doan-004.md` | `reviews/doan-004.md`: ĐẠT | ✅ |
 | 005 | `briefs/doan-005.md` | `chapters/doan-005.md` | `reviews/doan-005.md`: ĐẠT | ✅ |
 | 006 | `briefs/doan-006.md` | `chapters/doan-006.md` | `reviews/doan-006.md`: ĐẠT | ✅ |
+| 007 | `briefs/doan-007.md` | `chapters/doan-007.md` | `reviews/doan-007.md`: ĐẠT | ✅ |
 
 Test 23/10: Chrome báo permission denied; browser tích hợp chạy thành công Gemini 3.8 Flash / High / Search tắt. Bản test 2943 chữ Hán, có lỗi canon và điểm nhìn; giữ SI v0, chưa bắt đầu tiến độ chính thức.
 
@@ -42,4 +43,4 @@ Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
 
 ## Tiến độ chính thức
 
-Đã chốt đến đoạn **006**. Tác giả duyệt giọng SI v1; Agent tự duyệt canon và push từng đoạn theo yêu cầu 23/10. Xem `handoff/state.md`.
+Đã chốt đến đoạn **007**. Tác giả duyệt giọng SI v1; Agent tự duyệt canon và push từng đoạn theo yêu cầu 23/10. Xem `handoff/state.md`.

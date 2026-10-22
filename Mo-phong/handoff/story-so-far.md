@@ -17,3 +17,6 @@ Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổ
 
 ### Đoạn 006 — Ngày chết lặp lại, chọn kinh nghiệm 衔石法
 MC giấu vị trí sổ, nói đã có người giữ trang chép để tự bảo vệ (lời hù, chưa thực giao). Lượt3 tiêu một viên còn một: ở tông tu không kịp khảo hạch, xuống mỏ, học 衔石法 từ lão thợ là sư đệ lão Chung, tới tầng3 Ngày140. Xin đổi ca vẫn bị ép vào hầm3; chết cùng次年三月初七. Chọn kinh nghiệm pháp môn, thật vẫn tầng2. Ghi ngày chết bằng than sau vách cạnh giường.
+
+### Đoạn 007 — Một壶rượu đổi câu hỏi về 衔石法
+MC thử nhịp thổ nạp nhưng chưa có vụn linh thạch, giữ nguyên viên cuối. Nói với Đôn đã xoá khoản phí. Sang Ngày4 đổi công cọ hai nồi bếp lấy một壶土烧 không pha nước; mang trả lão Chung, hỏi về 衔石法. Lão giữ壶rượu, nắm cổ tay anh và hỏi ai dạy.

@@ -36,6 +36,8 @@ Sau đó chờ prompt của đoạn tiếp theo.
 
 - MC đã nhận经验衔石法: ngậm vụn linh thạch sạch cỡ hạtgạo khi thổnạp. Lão thợ trong môphỏng nói老钟 là sưhuynh. Hai đời cùng chết次年三月初七ở三号矿洞, mới nghi bất thường.
 
+- Ngày4 trả rượu cho老钟 bằng một壶高粱土烧 không pha, đổi công cọ2nồi bếp. Chưa tiêu viên cuối. 老钟 đã nghe tên衔石法 và đang hỏi ai dạy.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -58,17 +60,21 @@ Tiếngthen là người tuần kho; MC thoát cửa sổ về lán, giấu sổ
 ### Đoạn 006 — Ngày chết lặp lại, chọn kinh nghiệm 衔石法
 MC giấu vị trí sổ, nói đã có người giữ trang chép để tự bảo vệ (lời hù, chưa thực giao). Lượt3 tiêu một viên còn một: ở tông tu không kịp khảo hạch, xuống mỏ, học 衔石法 từ lão thợ là sư đệ lão Chung, tới tầng3 Ngày140. Xin đổi ca vẫn bị ép vào hầm3; chết cùng次年三月初七. Chọn kinh nghiệm pháp môn, thật vẫn tầng2. Ghi ngày chết bằng than sau vách cạnh giường.
 
+### Đoạn 007 — Một壶rượu đổi câu hỏi về 衔石法
+MC thử nhịp thổ nạp nhưng chưa có vụn linh thạch, giữ nguyên viên cuối. Nói với Đôn đã xoá khoản phí. Sang Ngày4 đổi công cọ hai nồi bếp lấy một壶土烧 không pha nước; mang trả lão Chung, hỏi về 衔石法. Lão giữ壶rượu, nắm cổ tay anh và hỏi ai dạy.
+
 ---
 
-## 3. Trạng thái hiện tại — hết đoạn 006
+## 3. Trạng thái hiện tại — hết đoạn 007
 
-Ngày3 tại lán bảy. MC vừa viết 三月初七 bằng than lên mặt ván khuất sát tường cạnh giường.
-- Tu vi thật 炼气二层, 五灵根; còn1下品灵石, đã dùng3lượt (miễn phí +2trả phí).
-- Khoản5viên đã xoá. Khảo hạchNgày90; theo mốc Ngày1 còn90ngày thì sángNgày3 còn88ngày.
-- Lượt3 chọn经验衔石法, không nhận tuvi3 hoặc đồ vật. Pháp cần vụn linh thạch sạch cỡ hạtgạo ngậm khi thổnạp; có hiểu kỹ năng, chưa có vụn để luyện.
-- Lão thợ mỏ cụt tay trong mô phỏng nói老钟 là sưhuynh, biết pháp này. MC biết2lần chết cùng次年三月初七ở三号矿洞, nghi không phải tai nạn thường; chưa biết nguyên nhân hoặc thủ phạm.
-- Sổ gốc giữa2thanhgiường;赵全 giữtrangchép. Lời MC có người giữ bảnchép là hù để tự vệ, chưa có người thứba thật nhận.
-- 老钟 cụt nửa chân trái; hứa土烧 chưa trả; Đôn chưa biết máy. 007 thử pháp, kiếm chút rượu bằng tiền đồng/công, giữ nguyên1viên.
+Trưa Ngày4, dưới cây cạnh kho phân. MC vừa nói 衔石法; lão Chung nắm cổ tay và hỏi 谁教你的？！;壶rượu vẫn trong tay lão.
+- MC 炼气二层, 五灵根, còn đúng1下品灵石 nguyên vẹn; chưa chạy lượt4, chưa có vụn sạch để luyện pháp.
+- Rượu được đổi bằng công cọ hai nồi tại bếp, không tiêu linh thạch, không thêm tiền từ hư không. Nợ壶rượu đã trả.
+- Đôn đã nghe khoản5viên được xoá; chưa biết máy hoặc sổ.
+- Sổ gốc vẫn giữa2thanhgiường;赵全 chỉ giữtrangchép, biết MC nói có người giữbảnchép nhưng đó là lời hù.
+- 老钟 chân trái cụt nửa, nhai苦烟叶. MC biết từ môphỏng rằng lão thợ cụt tay là sưđệ ông, nhưng chưa nói cho ông và chưa tiếtlộ máy.
+- Mỏ sập lặp次年三月初七三号矿洞 chỉ là nghi vấn củaMC; lão chưa kể sự thật từng sốngsót, chưa chỉ nguồnquặng.
+- 008 nối câu trả lời cho lão, trong cùng cảnh; lấy nguồn vụn và việc gánh phân.
 
 ---
 
@@ -80,49 +86,39 @@ Ngày3 tại lán bảy. MC vừa viết 三月初七 bằng than lên mặt vá
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 6 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 7 (để nối mạch và giữ giọng)
 
-　　寒鸦矿的水太深，现在去琢磨矿底的阴谋还太早。
-　　眼下最要紧的，是眼前的三选一。
-　　光幕上三个选项闪烁着淡淡的微光。
-　　第一项：炼气三层。
-　　只要选了这个，他现在就能原地踏入炼气三层，三个月后的考核轻轻松松通过，彻底摆脱被发配去寒鸦矿的命运。
-　　诱惑大得惊人。
-　　沈砚的手指几乎都要按上去了。
-　　但他硬生生停住了。
-　　突破到炼气三层，然后呢？
-　　凭他这垫底的五灵根，留在杂役院里继续当苦力？
-　　到了炼气三层，没有更好的功法，没有法子加速吐纳，从三层到四层可能要熬五年、十年。
-　　杂役院不养闲人，一旦年纪大了修为停滞，迟早还是逃不过被清理的命运。
-　　更关键的是——那套‘衔石法’！
-　　那可是专门针对低劣灵根、在灵气污浊环境下都能强行提速的吐纳窍门！
-　　只要掌握了这门技巧，配上灵石碎渣，自己在现实里完全有希望在八十八天内堂堂正正冲上三层。
-　　而且老矿工还提到了老钟。
-　　老钟也是靠这个熬过来的。
-　　老钟在宗门里挑了这么多年粪，手里会不会有干净的灵石碎渣？甚至懂不懂更深一层的门道？
-　　授人以鱼，不如授人以渔。
-　　拿了现成的修为，只管这一关；拿了经验法门，才是长长久久的饭碗。
-　　沈砚眼神一凝，不再犹豫。
-　　“我选二，经验：衔石法。”
-　　话音落下的瞬间，光幕猛然溃散成无数点星芒，顺着沈砚的天灵盖狠狠灌了进去。
-　　嗡——
-　　沈砚脑海一阵轰鸣。
-　　无数日夜在阴冷矿洞中盘膝打坐的画面如潮水般涌来。
-　　舌尖如何卷起、怎样将灵石碎渣压在舌根底下、呼吸如何在咽喉处打转、如何借口中津液过滤煞气……
-　　那种千锤百炼的肌肉记忆与吐纳韵律，在短短三息之间，严丝合缝地烙印进了他的四肢百骸。
-　　沈砚下意识地抿了抿嘴，甚至能感觉到舌根底下那股若有若无的清凉感。
-　　法门已成。
-　　只缺一块可以敲碎的灵石。
-　　沈砚睁开眼，低头看了看自己的手。
-　　体内灵力依旧是炼气二层，分毫未涨。
-　　床板下的布袋里，也只剩下孤零零的一块下品灵石。
-　　穷得叮当响。
-　　但他眼底的迷茫与紧绷，却散去了大半。
-　　沈砚站起身，走到棚舍角落那个早已熄灭的冷灶台前。
-　　他在灶膛里翻了翻，挑出一根手指粗细、烧得硬邦邦的黑炭头。
-　　沈砚拿着炭头走回床铺，蹲下身子，掀开破席子，钻到了靠近墙角最隐秘的那面木板后头。
-　　那里光线幽暗，平常根本没人会看上一眼。
-　　沈砚握紧炭头，手腕用力，在木板上重重写下了四个黑黝黝的大字：
-　　“三月初七”。
+　　烈酒顺着他干瘪的喉结滚落，呛得他剧烈咳嗽了几声，脸上泛起一抹病态的潮红，原本死气沉沉的眸子里终于多了一丝活人气。
+　　“伙房那死胖子的高粱烧……”
+　　老钟用袖口擦了擦嘴角的酒渍，重新盖上塞子，斜睨着沈砚：“没掺水。你小子倒还算守信用，没拿井水糊弄老头子。”
+　　“答应过的事，自然不能糊弄。”
+　　沈砚顺势拉过旁边半截烂木桩坐了下来。
+　　老钟重新把酒壶抱在怀里，像护着什么宝贝，又捏起一片苦烟叶塞进嘴里：“酒我收了，那天晚上的事就当没看见。赵全丢了东西也好，死了爹也罢，跟老头子我没关系，你也不用再往这跑。”
+　　下了逐客令。
+　　沈砚没动，神色自若地看着老钟那条光秃秃的木桩假腿。
+　　“钟伯，听说您早年间，在寒鸦矿待过不少年头？”
+　　老钟嚼烟叶的嘴骤然停了下来。
+　　周围的空气仿佛凝固了一瞬。
+　　“那地方是个绝户坟，提它干什么。”
+　　老钟声音低沉，重新靠在树干上，闭上了眼睛：“宗门里的杂役，十个去九个死，剩下半个活着回来的，就像老头子我这样，断手断脚，等死而已。”
+　　“弟子资质差，五灵根。”
+　　沈砚神色平静，自顾自地说道：“三个月后的大比要是通不过，多半也得步您的后尘，去那座坟里挖石头。”
+　　老钟冷笑了一声，没搭腔。
+　　沈砚身子微微前倾，压低了嗓门，目光平静地盯着老钟那张布满风霜的褶皱脸庞。
+　　“弟子这两天一直在琢磨，这天地间的灵气既然驳杂，为什么非要按部就班地从天地里引？”
+　　“若是有人在矿洞里，连整块灵石都见不着，却能找几粒米粒大小的干净碎渣，压在舌根底下……”
+　　老钟原本耷拉着的眼皮，几不可察地跳动了一下。
+　　沈砚没有停，语气越发笃定，轻轻吐出后半句话：
+　　“借口中津液化开暴戾灵气，护住心脉，强行吐纳周天。”
+　　“钟伯，您觉得这种‘衔石法’，到底能不能让五灵根在三个月里，拼出一条活路来？”
+　　咔。
+　　一声轻响。
+　　老钟手里的粗陶酒壶，硬生生在木凳边沿磕了一下。
+　　怀里的酒壶稳住了，没有掉在地上。
+　　老钟嘴里嚼到一半的苦烟叶猛地顿住，整个人仿佛被施了定身咒一般僵在原地。
+　　下一瞬，他猛地扭过头。
+　　那双原本浑浊、麻木、半死不活的灰黄色眸子，爆发出两道森寒刺骨的精光，如两柄刚刚出鞘的锈蚀铁剑，死死钉在沈砚的脸上。
+　　老钟一把扣住沈砚的手腕，枯瘦如柴的手指硬得像铁箍，声音沙哑得几乎变了调：
+　　“谁教你的？！”
 
-(Đoạn 7 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 8 sẽ bắt đầu ngay sau chỗ này.)
