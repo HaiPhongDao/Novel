@@ -1,4 +1,4 @@
-<!-- Test prompt tối giản, đoạn 2. Dán vào CÙNG chat với test đoạn 001 (đoạn thứ hai của session). Nối theo bản lam-game/test/doan-001-lower-prompt.md, không theo canon đã chốt. -->
+<!-- Test prompt ngắn, đoạn 2. Dán vào CÙNG chat với test đoạn 001. Bản chạy: lam-game/test/doan-002-lower-prompt.md (branch ccr-06ebc233-7uywq9). -->
 
 Viết đoạn thứ 2, khoảng 2000 chữ, bằng tiếng Trung.
 
