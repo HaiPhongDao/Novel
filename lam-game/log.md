@@ -14,3 +14,5 @@
 2026-10-23 | bible | Game đầu tay 《退潮》: push-your-luck trên bãi bồi, thủy triều làm đồng hồ, cái thật dồn vào món đồ trong tay | Sinh ra từ ràng buộc (46 giờ 算力, chỉ 灰模) và từ cái lỗ của thế giới | ⏳ Chờ Tác giả
 2026-10-23 | plot | Dàn ý arc 1 (đoạn 001–008 chi tiết, phần sau sơ lược); arc 2–5 là đề xuất | Bắt đầu viết | ⏳ Chờ Tác giả
 2026-10-23 | gemini | SI v1 điền từ writer/SI-template v3, anchor từ 全能游戏设计师 (ch5, 6, 10–12) | Khởi tạo Writer | ⏳ Chờ Tác giả
+2026-10-23 | doan-001 | Bản 1 VIẾT LẠI → archive; SI v2 (mục 3 "lời kể là MC đang nghĩ" + anchor nội tâm; mục 5 thoại đời thường + anchor tán gẫu; PART 2 cho đoạn kết bằng ý nghĩ MC; app gọi chung chung); prompt v2 | Tác giả: thoại chưa tự nhiên, thiếu cảm giác ở trong đầu nhân vật; xem reviews/doan-001.md | Tác giả (phản hồi) · SI v2 ⏳ chờ Tác giả đọc bản 2
+2026-10-23 | bible | Đề xuất đưa vào canon từ bản 1: 规则脚本员 3,000–4,000/tháng, đặt 空气墙 / 碰撞体积 / tuần tra NPC; 《晾衣街》 làm ba tháng từ bộ quét cơ bản của trường; khoang có nút 上浮 | Chi tiết tốt của Writer | ⏳ Chờ Tác giả

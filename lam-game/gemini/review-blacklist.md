@@ -11,3 +11,7 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - **Văn phong truyện mẫu cũ:** meme mạng dày (尼玛、狗带、战五渣、yy、辣鸡) — giọng tự giễu được, meme thì soát.
 
 ## Ghi nhận qua review
+- (001 bản 1) Địa danh / nhãn hiệu có thật lọt qua chỗ trống prompt để ngỏ: "九寨沟", "微信", "国际会展中心". Cách chặn: prompt đặt sẵn tên cho mọi cảnh/app sẽ được nhắc (《云海栈道》, 短信).
+- (001 bản 1) Lời kể bách khoa giảng thế giới giữa cảnh, không qua phản ứng của 许牧; thông tin xếp "第一条…第二条…第三条".
+- (001 bản 1) Thoại "như anh đã biết": nhân vật giảng cho nhau điều cả hai đã rõ; MC đáp cụt, không hỏi lại.
+- **Ngoại lệ của truyện này (Tác giả 23/10 muốn nhập vai):** câu tự hỏi, câu cảm thán ngắn của 许牧 đứng riêng một dòng trong lời kể là *giọng MC* → giữ. Chỉ bắt câu hỏi tu từ của người kể đứng ngoài (không thuộc ai) theo `chung/review-blacklist.md`.
