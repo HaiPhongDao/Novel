@@ -29,8 +29,8 @@ Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin 
 | 006 | ✅ | ✅ (Agent, API 3.6-flash) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 007 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 008 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
-| 009 | ✅ | ⬜ file trống — chờ dán (cùng chat S4) | | |
-| 010 | | ⬜ file trống | | |
+| 009 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 010 | ✅ | ⬜ file trống — chờ dán (cùng chat S4) | | |
 | 011 | | ⬜ file trống | | |
 | 012 | | ⬜ file trống | | |
 

@@ -58,3 +58,8 @@
 - Con non lớn nhanh: Ngày 1 dài hai bàn tay, Ngày 9 cao ~0,5 m, ~Ngày 20 cao 0,9 m.
 - Cây khô cách đăng mười mét — chỗ canh của Snik.
 
+**Đã lên trang ở đoạn 9**
+- Cống nạp: chiều nào nhóm Khoa cũng mang ~2 kg cá (hai ba con to nhất) về tảng đá giữa hang cho Gorr; Gorr: "每天……送！" "不送……吃了你。" Má Khoa có vết dao Gorr rạch.
+- Giàn hong khói ở hố đất thượng nguồn 冷溪: lửa âm ỉ ban ngày, cá xiên cành treo cách than nửa mét, phủ cành dương ướt và rêu.
+- Đêm nào Khoa cũng đưa Yeg một con cá nướng ấm cho Mẹ Ổ; Yeg nhai mớm.
+
