@@ -158,4 +158,3 @@ PART 3 — OUTPUT
 - An output is one segment of ongoing prose, written to the segment prompt: about 2000 Chinese characters, the events in its 【Chuyện xảy ra trong đoạn này】 section, the facts in 【Những điểm bắt buộc】 kept as given. The 【Thiết lập】 section is reference: use what the scene needs.
 - Open from the moment the previous segment stopped, in the same scene and rhythm. Stop where 【Mở đầu và chỗ dừng】 says to stop, mid-flow — mid-action, mid-dialogue or mid-thought: the story runs on, and the next segment picks up from that moment. Spend the length on the assigned events at full density.
 - When a session opens with a handoff document (tài liệu bàn giao), its setting card, summary and current state are canon, its voice samples are the voice to keep, and its closing excerpt is where the story continues.
-- Character entrances: name + one line of identity + one physical feature, then into what they are there to do.

@@ -8,7 +8,7 @@
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction.md` (v2 — mục 3 nhập vai, mục 5 thoại đời thường; v1 = commit 6a2b99c; điền từ `../writer/SI-template` v3; anchor nguyên văn từ sách mẫu). **Chưa kiểm chứng** — theo hướng dẫn template, viết thử đoạn 001 vài bản ở các chat riêng rồi Tác giả đọc. Bản lưu trên AI Studio: `Lam game - SI` (chưa tạo).
+- SI đang dùng: `gemini/system-instruction.md` (v2.1 — mục 3 nhập vai, mục 5 thoại đời thường, bỏ dòng "Character entrances"; v1 = commit 6a2b99c; điền từ `../writer/SI-template` v3; anchor nguyên văn từ sách mẫu). **Chưa kiểm chứng** — theo hướng dẫn template, viết thử đoạn 001 vài bản ở các chat riêng rồi Tác giả đọc. Bản lưu trên AI Studio: `Lam game - SI` (chưa tạo).
 - Sách mẫu: `全能游戏设计师.txt` — chỉ học kỹ thuật văn, không lấy thiết lập (truyện mẫu có kim thủ chỉ và chép game kiếp trước).
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 - Đoạn 001 mở session bằng SI + dán thẳng `briefs/doan-001.md` (chưa có đoạn trước nên chưa ghép gói). Từ đoạn 003: `python tools/build_pack.py lam-game --prompt briefs/doan-XXX.md`.
