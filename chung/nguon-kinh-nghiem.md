@@ -51,6 +51,7 @@ Nguồn: `Mo-phong/bible/characters/tham-nghien.md`, `Mo-phong/gemini/review-bla
 ## Làm Game
 
 - [Test prompt tối giản đoạn 001](https://github.com/HaiPhongDao/Novel/blob/e7694df/lam-game/test/doan-001-lower-prompt.md) và [đoạn 002](https://github.com/HaiPhongDao/Novel/blob/e7694df/lam-game/test/doan-002-lower-prompt.md) (branch `ccr-06ebc233-7uywq9`), prompt ở `lam-game/test/` branch `ccr-984caee6-w5xqdg`: cùng SI v2.1 và gemini-3.6-flash, prompt vài câu thay cho brief chi tiết. Tác giả 23/10: văn tốt lên rõ, lỗi "diễn biến, nhân vật cứng" là do prompt; từ nay prompt chỉ cho phương hướng + số liệu. Nguồn của KN01 bản mới.
+- `lam-game/archive/doan-005-v1.md` + `lam-game/reviews/doan-005.md` (branch `lam-game`): prompt gắn nhãn tính cách và giao lập luận → thoại thành màn thuyết trình; Tác giả 23/10: thoại cứng do prompt. Nguồn của AGENT.md 4.11 và phần bổ sung KN04.
 
 ## Tài liệu quy trình đã có
 
