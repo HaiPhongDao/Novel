@@ -29,3 +29,4 @@
 2026-10-23 | doan-006 | Chốt; Agent đặt những chỗ sai của vỏ ốc tạm (theo 姜禾) và nội dung bản thử (ốc/cua/chai, con nước 3 phút rưỡi, xem trên laptop); 【获得…】 trái thiết kế không giao diện → sửa khi biên tập | Theo outline 006 | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-007 | Chốt; Agent đặt bốn thay đổi (sóng, chim, nước buốt, 试错潮); nhận chi tiết Writer: chòi giữ đồ qua lượt, chai đựng mảnh hải đồ mở vùng xa hơn ⏳ | Theo outline 007; hải đồ khớp "chai có giấy" trong games.md | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-008 | Chốt; nhận chi tiết Writer: giày cỏ, hải đồ hiện vệt đỏ trên bàn trong chòi, 老周 gom sáu mảnh; gọi bằng mã gemini-3.5-flash (Google trả modelVersion 3.6) vì 3.6-flash hết 20 lượt miễn phí/ngày | Chi tiết phụ; hạn mức | Agent (Tác giả đọc lại sau)
+2026-10-23 | doan-009 | Chốt; nhận chi tiết phụ: mũ cảm ứng mềm, tàu điện nửa tiếng, 小姜 / 周老板 | Chi tiết phụ | Agent (Tác giả đọc lại sau)

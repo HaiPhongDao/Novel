@@ -37,3 +37,6 @@
 - Về chòi gỗ trên bờ với giỏ thì đồ được giữ qua các lượt. Hải đồ đặt lên bàn trong chòi hiện vệt đỏ chỉ ra vùng xa hơn.
 - Trong 境 không có chữ hay bảng nào hiện lên; người chơi biết mình nhặt được gì bằng cách nhìn món đồ.
 - Cái thật dồn vào món đồ trong tay, sát mắt. Vỏ ốc thật theo 姜禾: đường xoắn thu đều về một phía, mép miệng mỏng thấu sáng, mặt trong bóng như men sứ, vỏ ướt có cát mắc trong rãnh, cầm nhẹ vì rỗng.
+
+**Thêm sau đoạn 009**
+- 老周 gọi 姜禾 là 小姜; 姜禾 gọi ông 周老板. 深蓝 đưa khách mũ cảm ứng mềm khi vào khoang. Từ 长庚 tới 深蓝 đi tàu điện ngầm gần nửa tiếng.
