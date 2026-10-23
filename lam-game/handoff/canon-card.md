@@ -42,3 +42,8 @@
 - 《退潮》 (tên tạm, game của 许牧): bãi bồi lúc chiều tà, toàn 灰模. Nước rút → đeo giỏ tre, cầm móc sắt nhỏ đi ra đào đồ trong bùn; càng xa càng quý, bùn càng níu chân. Nước lên không có đồng hồ: sóng xa đổi nhịp, gió đổi chiều lạnh đi, chim bay lên, nước lạnh liếm mắt cá. Nước tới thắt lưng → bị cuốn về bờ, mất cả giỏ. Về tới bờ với giỏ → đồ cất ở chòi trên bờ. Cái thật dồn vào món đồ trong tay.
 - 造境台 có mô-đun miễn phí 公共灾害模拟库——水体与潮汐动态模块 (gốc mô phỏng chống lũ cho cứu hộ): mực nước lên xuống theo thông số, có lực cản và độ lạnh.
 - 算力: thế giới 灰模 tốn khoảng 0.2 giờ 算力 cho mỗi giờ người chơi; 观光境 như 《千灯巷》 hơn 3 giờ.
+
+**Thêm sau đoạn 005**
+- 姜禾 (ra mắt đoạn 005): 22 tuổi, cùng lớp 造境系, tóc ngắn ngang tai vén sau tai, bút 修补笔 màu bạc ở túi áo. 修补员 hợp đồng tổ 扫描修补 của 长庚造境, ca 9 giờ sáng – 9 giờ tối. Thẳng, kiệm lời. Gọi 许牧 cả tên. Bốn năm cùng lớp, 许牧 gốc và cô nói chưa tới mười câu.
+- Quán mì bò cạnh cổng đông 长庚, 15元 một bát.
+- Đồ người chơi mang về bờ trong 《退潮》 cất trong một chòi gỗ nhỏ trên bờ.

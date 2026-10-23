@@ -25,3 +25,4 @@
 2026-10-23 | doan-002 | Chốt bản 2 (Tác giả giao viết tiếp ~10 đoạn trong đêm); nhận làm canon: đồng hồ đếm ngược trong 境, NPC lặp ~30 giây, 《千灯巷》 真实度38 ⏳ | Chi tiết phụ của Writer, không ảnh hưởng arc | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-003 | Chốt; Agent đặt số sổ quán (9,600元 góp, tháng tám < 7,000元) và 《静湖》 + ông cụ câu cá; Writer thêm 老李头, quy định trừ điểm khi sự cố 试映 — nhận làm canon; "三年前" của 《静湖》 sai canon → sửa khi biên tập | Chi tiết phụ, không ảnh hưởng arc | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-004 | Chốt; nhận: mô-đun nước 公共灾害模拟库, móc sắt nhỏ, con số 算力 0.2 / >3 giờ (Agent đặt); không nhận "收藏冰箱" (đồ cất ở chòi trên bờ) | Chi tiết phụ | Agent (Tác giả đọc lại sau)
+2026-10-23 | doan-005 | Chốt bản 3; bản 1 (微信, vào đầu 姜禾, hứa chia tiền 试映) và bản 2 (微信支付, sai số dư) → archive | Bài học: chỗ trả tiền/nhắn tin để ngỏ thì Writer điền 微信 — prompt phải ghi sẵn 短信 / 手机银行 | Agent (Tác giả đọc lại sau)

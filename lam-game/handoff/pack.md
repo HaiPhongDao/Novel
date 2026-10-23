@@ -57,6 +57,11 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - 造境台 có mô-đun miễn phí 公共灾害模拟库——水体与潮汐动态模块 (gốc mô phỏng chống lũ cho cứu hộ): mực nước lên xuống theo thông số, có lực cản và độ lạnh.
 - 算力: thế giới 灰模 tốn khoảng 0.2 giờ 算力 cho mỗi giờ người chơi; 观光境 như 《千灯巷》 hơn 3 giờ.
 
+**Thêm sau đoạn 005**
+- 姜禾 (ra mắt đoạn 005): 22 tuổi, cùng lớp 造境系, tóc ngắn ngang tai vén sau tai, bút 修补笔 màu bạc ở túi áo. 修补员 hợp đồng tổ 扫描修补 của 长庚造境, ca 9 giờ sáng – 9 giờ tối. Thẳng, kiệm lời. Gọi 许牧 cả tên. Bốn năm cùng lớp, 许牧 gốc và cô nói chưa tới mười câu.
+- Quán mì bò cạnh cổng đông 长庚, 15元 một bát.
+- Đồ người chơi mang về bờ trong 《退潮》 cất trong một chòi gỗ nhỏ trên bờ.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -65,9 +70,7 @@ Sau đó chờ prompt của đoạn tiếp theo.
 许牧 (linh hồn 游戏策划 chín năm) tỉnh trong thân thể sinh viên 22 tuổi vừa tốt nghiệp 造境系 ở 老城区 澜城: tiền nhà 1,500元 hạn 十号 (chủ nhà 王阿姨), số dư 2,316元, 学生算力 46 giờ hết 三十号, 14 hồ sơ trượt, 《晾衣街》 58 điểm (真实度 21/40). Thế giới không có nghề thiết kế lối chơi. Anh xuống 深蓝, trả 20元 (còn 2,296元), chọn 《千灯巷》.
 
 ### Đoạn 2 — 《千灯巷》 (Ngày 1, cuối buổi sáng)
-Lần đầu linh hồn này 潜入. Mưa bụi trên mặt, đá xanh trơn, đèn lồng đỏ tới cuối ngõ, mùi rượu nếp — 许牧 phục tay nghề của 秦怀岳 (《千灯巷》 真实度38), thấy 《晾衣街》 như đồ nặn đất. Rồi anh thử: đèn lồng, phiến đá, hòn sỏi đứng yên như hàn chết vào không gian ("全是死模型"); quầy 酒酿圆子 cho nếm thật ngon, nhưng người bán cứ ba mươi giây lặp đúng câu rao, đúng động tác.
-Anh đứng xem một cặp đôi: mới vào thì cô gái giơ hai ngón tay chụp ảnh đèn lồng, bảy tám phút sau cả hai chán, hỏi "还有别的路吗", định xem hết rồi ra. Phút thứ mười hai anh tới cuối ngõ: cổng đá, sau đó là một thị trấn mờ, nhưng chắn bằng 空气墙 và tấm biển 「游览区域至此」. Một cậu bé sáu bảy tuổi hỏi mẹ "接下来玩什么啊？我想打怪兽"; mẹ bảo 秦大师 làm nghệ thuật, quay lại ngắm đèn; cậu bé lẩm bẩm "灯笼又不会动".
-Còn mười tám phút. 许牧 không ở nổi nữa, nắm tay phải giữ ba giây, 上浮. Nắp khoang số ba trượt mở, 老周 kéo kính xuống, ló mặt vào: "卧槽？小许，你怎么这么快就上来了？！"
+Lần đầu linh hồn này 潜入 《千灯巷》 (真实度38): thật tới từng giọt mưa, nhưng đèn lồng và sỏi cố định, người bán lặp câu rao 30 giây một lần; khách chán sau bảy tám phút; cuối ngõ 空气墙, cậu bé hỏi "接下来玩什么". Phút 12 anh nắm tay phải 上浮.
 
 ### Đoạn 3 — Sổ của lão Chu (Ngày 1, gần trưa)
 许牧 bảo 老周 trong ngõ "连个能踢动的石头都是死的". Ra quầy thì khoang số hai tắt đèn: một thanh niên xem 《云海栈道》 ra sau 17 phút, chê chỉ đứng mép vực nhìn mây, trả tiền rồi đi thẳng. 老周 lôi sổ bìa da: sáu khoang trả góp 9,600元/tháng, cả tháng tám thu chưa tới 7,000元, bù tiền túi hơn hai nghìn; trung bình 18 phút một lượt, không ai quay lại; đã liên hệ người mua hai khoang bên trái. 许牧 nhẩm: chưa tới hai lượt mỗi khoang mỗi ngày.
@@ -77,30 +80,32 @@ Hỏi ai ở lâu nhất, 老周 kể về 老李头 — ông cụ về hưu nh�
 许牧 đáp 老周: 《晾衣街》 thì chính anh còn chê, mang tới thì sẽ là thứ mới; 老周 khuyên đi nộp hồ sơ, tìm việc đàng hoàng. Tám giờ tối ở phòng thuê, anh tính sổ: 796元 sau tiền nhà, 17 ngày tới hạn nộp, 27 ngày tới khi thu 算力. 46 giờ chạy thế giới thật như 《千灯巷》 chưa tới 15 giờ người chơi; thế giới 灰模 (0.2 giờ mỗi giờ người chơi) thì khoảng 230 giờ. Anh gạt ba hướng — đánh chém (một mình không kịp), xây dựng (ngốn 算力), giải đố (chơi một lần là hết).
 Trong 素材库 miễn phí anh thấy 【公共灾害模拟库——水体与潮汐动态模块】 của mô phỏng chống lũ; kéo thông số mực nước, nghĩ ra thủy triều làm đồng hồ → 《退潮》: bãi bồi xám lúc chiều tà, giỏ tre và móc sắt nhỏ, càng xa đồ càng quý, nước lên chỉ báo bằng tín hiệu, nước tới thắt lưng thì bị cuốn về, mất cả giỏ. Bài toán thứ hai: thế giới xám sẽ bị chê → dồn cái thật vào món đồ sát mắt. Anh tự dựng một con ốc đỏ suốt nửa giờ, ra một cục "xi măng mốc". Anh mở danh bạ nhóm lớp 造境系, ngón tay dừng ở tên 姜禾.
 
+### Đoạn 5 — Quán mì (đêm Ngày 1 → tối Ngày 2, 九月四号)
+许牧 nhắn 短信 cho 姜禾 (bốn năm cùng lớp, nói chưa tới mười câu); gần nửa đêm cô hẹn: chín giờ tối mai, quán mì bò cạnh cổng đông 长庚, cô tan ca. Ngày 2 anh dựng bản thô và quay video. 8 giờ 50 tối ở quán, anh trả hai bát mì bằng 手机银行 (30元 → còn 2,266元; sau tiền nhà còn 766元 cho 26 ngày).
+姜禾 tới trong đồng phục 长庚, mặt trắng sau ca 12 tiếng, ăn trước rồi mới nghe. 许牧 kể 《退潮》; cô bảo 灰模 là lười, người chơi tưởng lỗi kết xuất, ba mươi giây là thoát. Anh giải thích cái thật dồn vào món đồ sát mắt; cô chỉ ra món đó "容错率是零", hỏi vì sao tìm cô. Anh: người khác làm "差不多就行", cô bị xếp đi vá khe hở nên ghét nhất cái "差不多". Cô hỏi trả bao nhiêu; anh nói thật số dư, chỉ đưa được đứng tên chung (主建模师) và bản quyền mô hình thuộc về cô. Cô cười tự giễu: ở 长庚 sửa mấy trăm mô hình một ngày, không được để lại chữ ký nào. Cô chìa tay đòi xem bản thô, phóng to vào cái vỏ ốc tạm như cục xi măng mốc, và cau mày.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 004)
+## 3. Trạng thái hiện tại (hết đoạn 005)
 
-**Thời điểm:** Ngày 1 — 九月三号, khoảng chín giờ tối.
-**Có mặt:** 许牧 một mình trong phòng thuê, laptop mở 造境台, tay cầm điện thoại, ngón tay dừng ở tên 姜禾 trong danh bạ nhóm lớp 造境系.
+**Thời điểm:** Ngày 2 — 九月四号, khoảng chín rưỡi tối.
+**Có mặt:** 许牧 và 姜禾 ngồi đối diện ở quán mì bò cạnh cổng đông 长庚造境; hai bát mì đã vơi. 姜禾 cầm điện thoại của 许牧, phóng to video bản thô vào cái vỏ ốc tạm, cau mày.
 
 **许牧 biết**
-- Thân thể 许牧 22 tuổi; ký ức nguyên chủ đủ. 许牧 gốc dựng mô hình trung bình, viết 规则脚本 khá; ít nói chuyện với 姜禾.
-- Sổ của 深蓝 (góp 9,600元/tháng, 18 phút một lượt, sắp bán hai khoang); khách quen duy nhất 老李头 câu cá ở 《静湖》.
-- Đã có ý tưởng 《退潮》 (tên tạm): luật lõi ở thẻ thiết lập. Đồ nhặt được mang về bờ thì cất ở một cái chòi trên bờ.
-- Thế giới 灰模 rẻ 算力; muốn khỏi bị chê thô thì món đồ trong tay phải thật hoàn toàn — anh không tự dựng nổi.
-- 姜禾: điểm 建模 cao nhất lớp, nay là 修补员 hợp đồng ở tổ 扫描修补 của 长庚造境.
+- 《退潮》 đã có bản thô: bãi xám, mặt nước lên xuống, người xám đeo giỏ, móc sắt nhỏ, vỏ ốc tạm do anh dựng (xấu). Đồ mang về bờ cất trong chòi gỗ trên bờ.
+- 姜禾 làm 修补员 ở 长庚, ca 9 giờ sáng – 9 giờ tối; cô chưa nhận lời. Anh đã đưa ra: đứng tên chung (主建模师), bản quyền mô hình của cô thuộc về cô; không trả được tiền.
+- Đã nói với 老周 sẽ mang 境 mới tới chạy 试映.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Số dư | 2,296元 |
-| Tiền nhà | 1,500元, hạn 九月十号 (còn 7 ngày) — trừ xong còn 796元 cho 27 ngày |
-| 学生算力 | 46小时, thu hồi 九月三十号 (còn 27 ngày). Thế giới xám: 0.2 giờ 算力 cho mỗi giờ người chơi → khoảng 230 giờ người chơi |
-| Hạn nộp chứng nhận 见习 | 九月二十号 (còn 17 ngày), lệ phí 600元 |
+| Số dư | 2,266元 |
+| Tiền nhà | 1,500元, hạn 九月十号 (còn 6 ngày) — trừ xong còn 766元 cho 26 ngày tới 九月三十号 |
+| 学生算力 | 46小时 (dựng bản thô dùng không đáng kể), thu hồi 九月三十号. Thế giới xám: 0.2 giờ 算力 / giờ người chơi |
+| Hạn nộp chứng nhận 见习 | 九月二十号 (còn 16 ngày), lệ phí 600元 |
 
 **Tuyến đang mở**
-- Đã nói với 老周 sẽ mang một 境 mới tới chạy 试映.
+- 姜禾 chưa trả lời có làm không.
 - Tiền nhà 十号; hạn nộp 二十号; 算力 hết 三十号.
 
 ---
@@ -145,34 +150,41 @@ Trong 素材库 miễn phí anh thấy 【公共灾害模拟库——水体与�
 
 一个月进账不到七千，按二十块钱半小时算，相当于整个八月总共只有三百五十个人次潜入。
 
+**Đoạn 005 — thoại hai người làm nghề**
+
+她抬起头，直视许牧的眼睛：“但这也意味着，你手里那个战利品模型，容错率是零。任何一点贴图拉伸、接缝错误或者光影错位，都会瞬间把玩家从沉浸感里拉出来。”
+
+“对。”许牧点头，“所以我找到了你。”
+
+“澜城艺术学院造境系毕业的，能建模的人不少。”姜禾看着他，“为什么找我？”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
-当退潮结束、涨潮开始的刹那，远方的浪涛声会突然改变节奏，从沉闷的轰鸣变成急促的拍击；迎面吹来的海风会骤然改向，变得刺骨冰凉；原本停在浅滩上的海鸟会惊慌地成群飞起；冰冷的海水会悄无声息地漫过玩家的脚踝。
-如果玩家贪心，在远处刨到了好东西不肯走，海水就会一路漫上腰际。
-一旦被淹没到腰部以上，汹涌的潮水就会瞬间将玩家卷回岸边——代价是，这一趟辛苦捡到的一整篓东西，全部掉光，血本无归。
-只有在潮水彻底封死浅滩之前，凭着自己的直觉和对危险的预判，踩着泥泞一步一步跑回干涸海岸的人，才能将篓子里的东西彻底带走，放入自己的“收藏冰箱”里。
-高风险，高回报，加上极具压迫感的环境倒计时。
-这就是一个标准的、能让人欲罢不能的循环。
-许牧猛地睁开眼，嘴角勾起一抹弧度。
-但这套机制还有一个致命的痛点。
-玩家进来了，放眼望去全是灰色的泥滩、灰色的海水，连手里的小铁钩都是灰色的几何体，视觉体验太差，很容易在第一分钟就退出来。
-怎么解决？
-“资源要集中在玩家眼皮子底下。”许牧自言自语。
-全真潜入视觉的注意力机制很有趣，当玩家漫步在旷野时，会对周围的环境要求很高；可一旦玩家低头把注意力死死盯在手里拿的东西上时，周围的环境就会被大脑自动降级为背景。
-只要周围的灰色世界足够干净、没有扎眼的贴图错误，而玩家拿在手里、捏在指尖、凑到眼前看的那枚螺壳，细节真实度能达到100%——
-大脑就会自动帮玩家补全整片大海的真实感！
-许牧立刻打开造境台的建模界面，准备自己亲手建一个精细的红螺模型，作为玩家能挖出来的第一件高价值战利品。
-半小时后。
-许牧看着屏幕上那个形状古怪、表面凹凸不平、看起来像是一块发霉水泥疙瘩的东西，陷入了沉思。
-原主在学校里的主攻方向是“规则脚本”，建模课成绩只能算勉强及格。
-眼前这个所谓的“红螺”，别说诱惑玩家了，拿出去砸狗都嫌不够圆润。
-凭他自己的建模手艺，想要做出那种能让人拿在手里翻来覆去爱不释手的精细模型，十七天时间根本不够用。
-专业的事情，得找专业的人。
-许牧揉了揉有些发胀的太阳穴，拿起旁边的旧手机，翻开了澜城艺术学院造境系的大群通讯录。
-他的手指在屏幕上缓缓下滑，掠过一个个早已转行或者去小作坊打杂的同学名字。
-最后，他的指尖停在了其中一个名字上。
-姜禾。
+“因为别人做的是‘差不多就行’的模型。”许牧直截了当地说道，“而你在长庚造境的扫描修补组，每天干的就是把别人扫描出来的瑕疵一点点抠掉。全班建模成绩第一的人，被按在修补岗位上修缝隙，我相信你比任何人都看不惯‘差不多就行’。”
+姜禾沉默了两秒。
+她低头看了眼自己口袋里插着的修补笔，又抬起头，语气极其务实：“给我多少钱？”
+来了。
+许牧在心里吸了一口气，脸上的表情却依然镇定。
+对于一个九年经验的策划来说，跟美术谈预算永远是最头疼的环节，尤其是当自己兜里比洗过还干净的时候。
+“我现在账上还有二千二百六十六块。”许牧看着她，把话说到明处，“六天后我要交一千五的房租，剩下七百六，是我这个月所有的生活费。”
+姜禾看着他，没说话，等待着后文。
+“所以我给不出预付款，也给不出按小时结算的时薪。”许牧坦诚地说道，“我能给你的，只有两样东西。”
+“第一，《退潮》上线试映后，作品的联合署名权归你。姜禾，主建模师。”
+“第二，这个境里所有由你独立制作的高精模型，版权永远在你手上。我只有这个境的使用权。如果以后有别的作品想购买这些模型，收益全归你；如果《退潮》以后能拿到商业分成，按你的模型贡献度直接分账。”
+听完许牧的话，姜禾既没有发火，也没有立刻拒绝。
+她只是静静地看着桌上那碗已经有些放凉的牛肉面。
+“联合署名权，还有模型版权……”姜禾轻声重复了一遍，嘴角露出一丝自嘲的笑意，“长庚造境扫描修补组每天修几百个模型，连个底角签名都不允许留。你倒是挺大方，用白嫖的姿态说得这么义正辞严。”
+“不是白嫖，是合伙。”许牧认真地修正道，“我出玩法规则和架构，你出核心资产。如果这东西烂在手里，损失的是我剩下的算力和我四天没睡好的时间。”
+姜禾没有在这个问题上继续纠缠。
+她伸手拿过桌上的纸巾擦了擦手，朝许牧伸出右手：“你的灰模原型呢？我先看看。”
+“在手机里。”
+许牧立刻解锁手机，打开了今天下午录好的一段视频，递到了姜禾手里。
+视频里，灰蒙蒙的浅滩上，潮水正沿着设定的逻辑缓缓退去。一个灰色的几何体小人背着灰色的竹篓，用小铁钩从泥坑里挑起了一个“东西”。
+姜禾接过手机，眼睛微微眯起。
+她的手指在屏幕上双指张开，将视频画面瞬间放大，死死锁定在那个被小人捏在手里的“物品”上。
+那是一个表面凹凸不平、形状怪异、怎么看都像是发霉水泥疙瘩的灰色硬块。
+姜禾的眉头瞬间拧成了一个死结。
 
-(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)
