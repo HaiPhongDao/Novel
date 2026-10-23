@@ -1,0 +1,27 @@
+# Goblin Khai Hoá (tên tạm)
+
+> Truyện thứ hai của xưởng. Luật chung: `../AGENT.md`; quy trình bàn giao, chạy AI Studio, lỗi văn chung: `../chung/`. Truyện tham khảo (Tác giả tải lên 22/10): `tham-khao/` — xem `tham-khao/phan-tich.md`.
+
+**Logline:** Một thầy giáo hoá từng làm kỹ sư lò cao tỉnh dậy trong thân một con goblin còi vừa nở, ở cái hang mà tù trưởng ăn con non mỗi khi đói — và giống loài của anh học được mọi thứ người ta làm trước mặt, trừ việc hiểu vì sao.
+
+## Trạng thái
+
+**Lượt 2** (Tác giả 23/10): viết lại từ đoạn 001 theo cách prompt ngắn — phương hướng + số liệu, Writer tự do phần còn lại (`../AGENT.md` mục 4). Lượt 1 (001–006 đã chốt, brief chi tiết) → `archive/luot-1/` (briefs, chapters, reviews, handoff).
+
+⚠️ `bible/` và `plot/` giữ nguyên bản Tác giả duyệt 22/10. Những gì lượt 1 thêm vào (Mok, đống sỏi 112, "Ko" từ Yeg, giao kèo thịt nướng, nhóm năm = bốn ngón + lòng bàn tay) **không** tự sang lượt 2 — chỉ vào canon khi lượt 2 viết ra và qua review. `handoff/canon-card.md` chỉ còn phần thiết lập cố định; state/story-so-far/voice-anchor dựng lại sau review đoạn 001.
+
+`chapters/doan-001.md`, `doan-002.md` là file trống để dán chính văn.
+
+## Writer
+
+- SI: `gemini/system-instruction.md` (nháp v0, 11.441 ký tự, 7 mục, 7 anchor từ truyện tham khảo). Đã lưu lên AI Studio 23/10, tên **"Goblin Khai Hoa - SI"**.
+- Lượt 2 vẫn chạy SI v0 để so được với lượt 1 (chỉ đổi prompt). Đề xuất sửa SI sau 6 đoạn lượt 1 (`log.md` 23/10) vẫn chờ Tác giả.
+- Session S1 lượt 2: đoạn 001 mở chat mới, dán `briefs/doan-001.md` (không cần gói bàn giao); đoạn 002 dán thẳng `briefs/doan-002.md` vào cùng chat.
+- Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
+
+| Đoạn | Prompt | Bản thảo | Review | Chốt |
+|---|---|---|---|---|
+| 001 | ✅ | ⬜ file trống — chờ dán | | |
+| 002 | ✅ | ⬜ file trống — chờ dán | | |
+
+Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
