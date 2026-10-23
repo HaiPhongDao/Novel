@@ -46,6 +46,12 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Trong 境: chụp ảnh bằng hai ngón tay khung trước mắt; 上浮 sớm bằng cách nắm tay phải giữ ba giây; đồng hồ đếm ngược thời gian khoang hiện giữa không trung.
 - 《千灯巷》: ngõ đá xanh, mái cong tường trắng, quầy hàng (糖画、馄饨、蒸糕、酒酿圆子 mời nếm); người bán rao một câu, ba mươi giây lặp lại; mọi vật cố định; cuối ngõ là cổng đá, 空气墙 và biển 「游览区域至此」. 真实度 38/40.
 
+**Thêm sau đoạn 003**
+- 深蓝: sáu khoang trả góp 9,600元/tháng; tháng tám thu dưới 7,000元; trung bình 18 phút một lượt; 老周 đã liên hệ người mua hai khoang bên trái. Khách trả tiền ở quầy. 老周 ghi sổ bìa da.
+- 老李头: ông cụ về hưu ở nhà số 2 bên cạnh, ba giờ chiều nào cũng tới ngồi hai tiếng trong 《静湖》.
+- 《静湖》: 模拟境 câu cá đời đầu (ra khoảng một năm trước), 真实度 dưới 30 — hồ nước, cây liễu, cần câu tre; cá cắn phao thì giật, được con diếc bằng bàn tay rồi thả lại.
+- 试映: không thu tiền riêng cho tác phẩm, không quảng cáo ra ngoài, khách trả tiền giờ khoang như thường; có sự cố an toàn thì 造境师 và chủ quán cùng bị trừ điểm.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -60,18 +66,24 @@ Lần đầu linh hồn này 潜入. Mưa bụi trên mặt, đá xanh trơn, đ
 Anh đứng xem một cặp đôi: mới vào thì cô gái giơ hai ngón tay chụp ảnh đèn lồng, bảy tám phút sau cả hai chán, hỏi "还有别的路吗", định xem hết rồi ra. Phút thứ mười hai anh tới cuối ngõ: cổng đá, sau đó là một thị trấn mờ, nhưng chắn bằng 空气墙 và tấm biển 「游览区域至此」. Một cậu bé sáu bảy tuổi hỏi mẹ "接下来玩什么啊？我想打怪兽"; mẹ bảo 秦大师 làm nghệ thuật, quay lại ngắm đèn; cậu bé lẩm bẩm "灯笼又不会动".
 Còn mười tám phút. 许牧 không ở nổi nữa, nắm tay phải giữ ba giây, 上浮. Nắp khoang số ba trượt mở, 老周 kéo kính xuống, ló mặt vào: "卧槽？小许，你怎么这么快就上来了？！"
 
+### Đoạn 3 — Sổ của lão Chu (Ngày 1, gần trưa)
+许牧 bảo 老周 trong ngõ "连个能踢动的石头都是死的". Ra quầy thì khoang số hai tắt đèn: một thanh niên xem 《云海栈道》 ra sau 17 phút, chê chỉ đứng mép vực nhìn mây, trả tiền rồi đi thẳng. 老周 lôi sổ bìa da: sáu khoang trả góp 9,600元/tháng, cả tháng tám thu chưa tới 7,000元, bù tiền túi hơn hai nghìn; trung bình 18 phút một lượt, không ai quay lại; đã liên hệ người mua hai khoang bên trái. 许牧 nhẩm: chưa tới hai lượt mỗi khoang mỗi ngày.
+Hỏi ai ở lâu nhất, 老周 kể về 老李头 — ông cụ về hưu nhà số 2, ba giờ chiều nào cũng tới ngồi hai tiếng trong 《静湖》, một 境 câu cá cũ, 真实度 dưới 30: quăng cần, nhìn phao, cá cắn thì giật, được con diếc bằng bàn tay rồi thả lại. 许牧 nhìn ra vòng lặp. Anh hỏi 试映; 老周 giải thích: không thu tiền riêng cho tác phẩm, không quảng cáo, khách trả tiền giờ khoang như thường, có sự cố thì 造境师 và chủ quán cùng bị trừ điểm. 许牧 hỏi nếu anh làm một 境 mang tới chạy 试映 thì sao; 老周 phá lên cười: "你不会是要把你那个拿了58分的《晾衣街》搬过来试映吧？"
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 002)
+## 3. Trạng thái hiện tại (hết đoạn 003)
 
-**Thời điểm:** Ngày 1 — 九月三号, cuối buổi sáng.
-**Có mặt:** 许牧 vừa 上浮, nằm trong khoang số ba của 深蓝潜入馆, nắp đang mở; 老周 ló mặt vào hỏi sao lên nhanh thế. Anh chỉ dùng mười hai phút trong nửa giờ đã trả.
+**Thời điểm:** Ngày 1 — 九月三号, gần trưa.
+**Có mặt:** 许牧 ngồi ghế nhựa trước quầy 深蓝潜入馆; 老周 sau quầy vừa vỗ bàn cười, hỏi có phải anh định mang 《晾衣街》 58 điểm tới chạy 试映 không.
 
 **许牧 biết**
-- Mình ở thân thể 许牧 22 tuổi; nhớ đủ ký ức nguyên chủ. Đây là lần đầu linh hồn này 潜入.
-- 《千灯巷》 thật tới từng giọt mưa và vị 酒酿圆子, nhưng mọi vật cố định, người bán lặp câu rao, chỉ có một con ngõ thẳng, cuối là 空气墙. Khách xem chừng mười phút là chán; cậu bé hỏi "接下来玩什么".
-- Ngành không có nghề thiết kế lối chơi; 规则脚本员 lương thấp nhất.
-- Anh chưa có ý tưởng game nào; mới thấy cái lỗ: người ta vào nhìn, không có gì để làm, không ai quay lại.
+- Mình ở thân thể 许牧 22 tuổi; nhớ đủ ký ức nguyên chủ.
+- 《千灯巷》 thật nhưng không có gì để làm; khách xem chừng mười phút là chán.
+- Sổ của 深蓝: góp 9,600元/tháng, tháng tám thu dưới 7,000元, 18 phút một lượt, không ai quay lại, 老周 sắp bán hai khoang.
+- Khách quen duy nhất là 老李头 với 《静湖》 (câu cá) — người ta quay lại khi có việc để làm và có phản hồi.
+- 试映: chạy tác phẩm chưa chứng nhận trong quán, không thu tiền riêng, không quảng cáo, khách trả tiền giờ khoang; sự cố thì 造境师 và chủ quán cùng bị trừ điểm.
+- Anh vừa ngỏ ý làm một 境 mang tới 试映, nhưng **chưa có ý tưởng cụ thể nào**.
 
 **Con số đang chạy**
 | Mục | Giá trị |
@@ -80,12 +92,11 @@ Còn mười tám phút. 许牧 không ở nổi nữa, nắm tay phải giữ b
 | Tiền nhà | 1,500元, hạn 九月十号 (còn 7 ngày) — trừ xong còn 796元 cho 27 ngày tới 九月三十号 |
 | 学生算力 | 46小时, thu hồi 九月三十号 (còn 27 ngày) |
 | Hạn nộp chứng nhận 见习 | 九月二十号 (còn 17 ngày), lệ phí 600元 |
-| Hồ sơ xin việc | 14 gửi, 14 trượt |
 | 《晾衣街》 | 58 điểm (60 đạt), 真实度 21/40 |
 
 **Tuyến đang mở**
-- Tiền nhà 九月十号; 学生算力 hết 九月三十号.
-- 老周 không hiểu "复游率" là gì; sáng nay quán thu 40块.
+- Tiền nhà 九月十号; 学生算力 hết 九月三十号; hạn nộp 二十号.
+- 深蓝 sắp bán hai khoang.
 
 ---
 
@@ -119,45 +130,46 @@ Còn mười tám phút. 许牧 không ở nổi nữa, nắm tay phải giữ b
 
 “好像就这一条直路。”男生看了看前面的拐角，“要不前面看完就出去了？有点无聊了。”
 
+**Đoạn 003 — 老周 than bằng sổ**
+
+“落多少？我落个屁！小许我跟你讲，我这六台舱，那是贷款买的！一个月光是给银行还按揭就要九千六！”
+
+老周伸出两根手指，在许牧面前比画：“上个月，整个八月！我这店里流水加起来不到七千块！除去水电费网费，我自己还倒贴了两千多块钱的私房钱！”
+
+许牧在心里默算了一下。
+
+一个月进账不到七千，按二十块钱半小时算，相当于整个八月总共只有三百五十个人次潜入。
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
 
-“好像就这一条直路。”男生看了看前面的拐角，“要不前面看完就出去了？有点无聊了。”
-“嗯，感觉跟刚才看到的差不多。”
-许牧听着他们的对话，心里默默算着时间。
-进场第十分钟，玩家的审美疲劳彻底爆发。
-因为这里除了“看”，没有任何事情可以做。
-没有目标，没有交互，没有反馈，甚至没有哪怕一丝一毫的意外。
-这就像是花二十块钱买了一张三维立体风景画的门票，刚走进来的时候惊艳得想叫，十分钟后发现这张画只有一帧。
-第十二分钟。
-许牧走到了巷子的尽头。
-前面是一座古色古香的石牌坊，牌坊后面隐约能看到一片朦胧的烟雨江南小镇。
-但当许牧抬脚准备穿过牌坊时，身体却撞上了一层看不见的透明墙壁。
-冰冷，坚硬，将他和外面的世界彻底隔开。
-空气墙的前方，悬浮着一块半透明的木质告示牌，上面写着几个飘逸的墨字：
-【游览区域至此】
-许牧停下脚，伸手按了按那道空气墙。
-质感就像是一块毫无弹性的大理石。
-旁边一个六七岁的小男孩正拉着妈妈的衣角，用力晃着：“妈妈，接下来玩什么啊？我想打怪兽！”
-年轻的妈妈拉着孩子的手，语气里带着几分无奈：“哪有什么怪兽啊，秦大师做的是艺术！咱们再回头看看灯笼，刚才那盏鱼灯你还没看清呢。”
-小男孩噘着嘴，嘟囔道：“我不看灯笼，灯笼又不会动，一点意思都没有……”
-许牧看着这对母子转身往回走。
-他抬起手，看了一眼虚空中的倒计时界面。
-还剩下十八分钟。
-二十块钱半小时，他这才用了不到一半。
-按原主的贫穷程度，这十八分钟怎么也得强行待满，把二十块钱的本吃回来。
-但许牧实在待不下去了。
-作为一个设计了九年游戏的策划，在这个只有精致皮囊、内部一团死寂的“景观盒子”里多待一分钟，都是对他人生的折磨。
-他站直身体，右手指节弯曲，缓缓捏紧成拳。
-一，二，三。
-三秒倒计时结束。
-眼前的青石板、红灯笼、烟雨和空气墙瞬间如同被风吹散的沙画，迅速扭曲、褪色、崩塌。
-耳边飘渺的细雨声戛然而止，取而代之的是液压杆舒张的哧哧声，以及老城区沿街嘈杂的汽笛声。
-黑暗褪去，淡蓝色的舱内冷光重新落入视野。
-厚重的舱盖缓缓向两侧滑开。
-许牧还没来得及坐起身，深蓝潜入馆那张熟悉的大脸就直接凑到了舱口缝隙处。
-老周把老花镜往下拉了拉，瞪着一双老眼，像看怪物一样死死盯着许牧：
-“卧槽？小许，你怎么这么快就上来了？！”
+“周哥。”许牧开口，“这店里就没有回头的客人？一个都没有？”
+“回头？谁花二次冤枉钱看同一树花、同一块石头？”老周翻了个白眼。
+“那有没有在里面待得时间长，天天跑来的？”许牧换了个问法。
+老周愣了愣，拧紧保温杯盖子，皱着眉头想了半天。
+“天天跑来的……倒还真有一个独苗。”
+“谁？”
+“隔壁二栋的那个退休老李头。”老周指了指门外，“每天下午三点准时来，一坐就是两个小时，雷打不动。”
+许牧眼睛微微眯了一下：“他看什么境？”
+“看啥？他就看那个老掉牙的《静湖》。”老周摆了摆手，一脸嫌弃，“那还是三年前的古董境，真实度连30都没有。里面啥都没有，就一片破水塘，一树垂柳，加一根竹制钓鱼竿。”
+许牧接话：“他在里面钓鱼？”
+“对啊！甩杆，盯浮漂，等鱼咬钩。咬钩了就往上一提，拉上来一条巴掌大的小鲫鱼，然后再扔回水里去。”老周摇着头，完全无法理解，“就这么个破玩意儿，老李头乐此不疲，天天来甩杆。要不是有他贡献这两小时，我上个月亏得更多。”
+许牧笑了。
+老周看不懂，但他懂。
+老李头玩的根本不是景致，而是“闭环”。
+抛竿是输入，浮漂动是反馈，提竿是操作，钓上鱼是奖励。
+这是一个最原始、但也最有效的游戏循环。
+即使真实度只有不到30，只要这个循环还在，它就能死死勾住玩家。
+许牧敛起笑容，看着老周：“周哥，问你个正经事。潜入馆能放没经过协会认证的作品吗？”
+老周斜了他一眼：“你问这个干嘛？”
+“好奇。”许牧说。
+“行规叫‘试映’。”老周倒也没瞒着，掰着手指解释道，“造境师协会为了鼓励新人，允许未认证的作品在实体店里挂机测试，收集数据和评价。不过规定死严——第一，不能单独收作品费；第二，店里不能公开打广告宣传；第三，客人只能按正常机时费交钱。”
+老周说到这，指了指电脑：“说白了，就是借我的舱给未认证的小作坊试水。要是出了安全事故，造境师和店主一起扣分。怎么着，你突然打听这个？”
+许牧身子微微前倾，看着老周的眼睛：
+“周哥，如果我弄个新境出来，放你这儿试映呢？”
+老周听到这话，先是愣了整整三秒钟。
+随后，他像是听到了这辈子最好笑的笑话一样，噗嗤一声笑出声来，肚皮跟着一阵颤抖，掌心啪地一声拍在柜台上：
+“你？小许，你别逗我了！你不会是要把你那个拿了58分的《晾衣街》搬过来试映吧？”
 
-(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)

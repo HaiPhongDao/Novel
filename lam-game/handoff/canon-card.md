@@ -31,3 +31,9 @@
 **Thêm sau đoạn 002**
 - Trong 境: chụp ảnh bằng hai ngón tay khung trước mắt; 上浮 sớm bằng cách nắm tay phải giữ ba giây; đồng hồ đếm ngược thời gian khoang hiện giữa không trung.
 - 《千灯巷》: ngõ đá xanh, mái cong tường trắng, quầy hàng (糖画、馄饨、蒸糕、酒酿圆子 mời nếm); người bán rao một câu, ba mươi giây lặp lại; mọi vật cố định; cuối ngõ là cổng đá, 空气墙 và biển 「游览区域至此」. 真实度 38/40.
+
+**Thêm sau đoạn 003**
+- 深蓝: sáu khoang trả góp 9,600元/tháng; tháng tám thu dưới 7,000元; trung bình 18 phút một lượt; 老周 đã liên hệ người mua hai khoang bên trái. Khách trả tiền ở quầy. 老周 ghi sổ bìa da.
+- 老李头: ông cụ về hưu ở nhà số 2 bên cạnh, ba giờ chiều nào cũng tới ngồi hai tiếng trong 《静湖》.
+- 《静湖》: 模拟境 câu cá đời đầu (ra khoảng một năm trước), 真实度 dưới 30 — hồ nước, cây liễu, cần câu tre; cá cắn phao thì giật, được con diếc bằng bàn tay rồi thả lại.
+- 试映: không thu tiền riêng cho tác phẩm, không quảng cáo ra ngoài, khách trả tiền giờ khoang như thường; có sự cố an toàn thì 造境师 và chủ quán cùng bị trừ điểm.
