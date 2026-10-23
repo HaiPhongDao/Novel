@@ -69,3 +69,7 @@ Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlư�
 ### Đoạn 020
 
 Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Thanh toán1bạcgóiăn9người ngày1–5 (phầnđãcấp+4–5đặt), quỹ35,7→34,65.3bạcđườngcuối9chưa thu, lương/vậttưdựtoánchưachi. DainhỏiMilođỡca,Rowanđangnóikhôngthểthếgácthực;021nối.
+
+### Đoạn 021
+
+Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc/dặnhiệuvàlốigiaovậttư. Bram/Jory tuầnđầu,sáuởbến; đội8đếmđúng. DainđưakhiêncũBramráchdâychoRowanxem, chưa mua/sửa,quỹ34,65khôngđổi.

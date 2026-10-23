@@ -102,15 +102,17 @@ Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlư�
 
 Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Thanh toán1bạcgóiăn9người ngày1–5 (phầnđãcấp+4–5đặt), quỹ35,7→34,65.3bạcđườngcuối9chưa thu, lương/vậttưdựtoánchưachi. DainhỏiMilođỡca,Rowanđangnóikhôngthểthếgácthực;021nối.
 
+### Đoạn 021
+
+Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc/dặnhiệuvàlốigiaovậttư. Bram/Jory tuầnđầu,sáuởbến; đội8đếmđúng. DainđưakhiêncũBramráchdâychoRowanxem, chưa mua/sửa,quỹ34,65khôngđổi.
+
 ---
 
-## 3. Trạng thái sau 020
+## 3. Trạng thái sau 021
 
-Tốingày3 nhàtrực. Rowanvừabắtcâu: Milo khôngvũtrang/chưađượcđào tạonênkhôngthếchỗgácthực. Dainhỏi dùngphụviệcngàymaiđỡvấtvả,021nốicâuRowanrồichuyểnngày4trongđoạn.
+Sángngày4 sânnhàtrực, Bram/Jory đãđituầnđầu, Dain/Toma/bốn mới ởbến. Rowan vừacầmkhiênCŨcủaBram(mộttrong2khiênnhỏ), kéo nhẹdâyđeođãrách vàđangquyếtsửa/thay;Bramtạmđemkhiêncũcònlại.022nốikiểmđồ, chưa chi.
 
-QuỹTHỰC34bạc65đồng=34,65 sautrảMilo5đồngngày3và1bạcgóiăn9người ngày1–5. CôngMilo ngày4/5chưa trả,3bạcđườngcuối9chưa thu. Góiănngày6trởđichưa mua; vật tư3vẫndựphòngtrong34,65,lươngtháng9cho8gácchưađếnhạn.
-
-Milo mớiNGÀYĐẦU thử,đãđốichiếucộtngày3vớingàyđầu trong020. NhãnToma/Jorycựu và9gáctrong020làlỗinhãncủangườikể, chỉDain/Bramcựu+sáumới=8,Rowanngoài8. Chưalịchthánghoặcmùachốt,giữthứtựngàyởbến. Jackkhôngtựthànhgiánđiệp.
+Milo ngàythửTHỨHAI,đãdọnphân/mùncưa,đượcchỉlốivật tưvàhiệuđểkhôngvướngcagác, chưađào tạoquân/hồsơbảng. Ngày4công/phụăn5đồngchưa trả; ngày3đãtrả. Quỹ34bạc65đồng=34,65.
 
 8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5NGÀYĐẦU ngày3, ngày4/5chưa trả, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
@@ -134,39 +136,39 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 20 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 21 (để nối mạch và giữ giọng)
 
-　　Rowan没犹豫，从木匣底部摸出一枚打磨得光润平整的银币，放在了账单正上方。
-　　“九人份五日例粮，初一至初五，验收结清。”
-　　Rowan在单据末尾签上自己的名字，又盖上了代表防卫队私章的小木戳。
-　　婆子一把抓过银币，在粗布围裙上用力蹭了蹭，又放在嘴边咬了一下，顿时满脸堆笑：
-　　“得嘞！大人爽快！后厨那边炖了热滚滚的咸豆汤，待会儿换岗下来的兄弟们管够喝！”
-　　婆子收了单子，脚步轻快地退了出去。
-　　值房里重新安静下来，只有油灯芯子偶尔爆裂出的噼啪声。
-　　Rowan拿起炭笔，在账目底册上再次落下一记：
-　　实付初一至初五例粮批银，一枚银币。
-　　公账箱底的现银再次变动。
-　　扣掉这一枚银币，防卫队手头能调用的活钱，变成了34枚银币、65枚铜板。
-　　九名守卫到月底才结算月薪，眼下还不到发饷的日子；
-　　巡道试跑的那3枚银币补贴，必须等初九那天满打满算跑足七天才能找主家结算，算不得手里的落袋钱；
-　　至于备用物资那一块，虽然压着3枚银币的预算额度，但不到器械折损或添置急件的时候，绝不能当成活钱乱动。
-　　实打实的家底，就眼前这些。
-　　Dain把敞开的窗板拉上一半，挡住了晚春顺着河面刮过来的湿冷夜风。
-　　“这一枚银币花得值当。”
-　　老兵转过身来，在长凳上坐下，声音压得不高：
-　　“那帮新卒子以前在庄子上啃草根麦皮，如今顿顿有干面包泡豆汤，嘴里嚼着咸味，巡道的时候腿肚子都不打飘了。
-　　今天两趟道口跑下来，没一个喊苦落队的。”
-　　“肚子吃不饱，手里的矛就握不稳。”
-　　Rowan收好账册，把木匣重新落了铜锁：
-　　“口粮不能省，但也容不得浪费。
-　　后厨领来的干粮必须锁在防潮架上，这几天沿河雾气重，要是发了霉，吃坏了肚子，巡道班次立刻就得塌。”
-　　“这您放心，我和Bram盯着呢。”
-　　Dain咧嘴笑笑，随即神色微微收拢，粗大的指节在膝盖上轻轻敲打：
-　　“不过队长，说明天的活计。
-　　明天是初四，Milo这半大伙子要是照着吩咐，上午把辕门那几块烂槽木修补好、杂活理顺了，后晌咱们巡道换岗的时候，这人你打算怎么用？
-　　八个弟兄轮着跑两趟道口，腿脚磨得生疼。
-　　要是能把这无甲杂役派上去顶个闲差，队里的正经守卫兴许能多喘两口气，轮换着歇上一阵。”
-　　Rowan将合拢的账册推到桌案一角，目光落在墙上挂着的道口巡查路线上：
-　　“他手里没兵器，也没受过阵列操练，巡道站桩的实缺绝不能让他顶……”
+　　“门前中道是战备通道，披甲出营的人绝不绕行。
+　　你挑水送物，一律靠着东墙根走。”
+　　Milo连忙把水桶卸在泥地上，局促地用袖口擦了擦额头的冷汗：
+　　“是，大人！我……我走急了，没看着兵爷们出来。”
+　　他看了看廊下威严的Rowan，又看了看旁边按剑肃立的Bram，咽了口唾沫，大着胆子开口问了一句：
+　　“大人，我能不能……能不能学学营里吹哨的调子，还有兵爷们交接换岗的口令？
+　　我绝不敢肖想当兵打仗，就是怕自个儿耳朵木、脑子笨，下回端水搬料又踩在哨点上，挡了各位兵爷的正事。”
+　　站在一旁的Dain挑了挑眉，左脸的伤疤动了动，似乎对这小子的眼色有些意外。
+　　Rowan看了他片刻。
+　　一个杂役主动要求辨识营哨和路径规程，是为了不碍事、保住差事，这种务实的机敏远比自作主张有用。
+　　“可以。”
+　　Rowan点头：
+　　“稍后让Dain把两长一短的出巡哨、短促的三声急哨吹给你听。
+　　听到长哨，收工退到棚下；听到急哨，立刻躲进库房，不许在外头乱晃。
+　　现在去把南边道口备用的槽木理出来，垫木分大小码齐，堆在库门右侧三尺外。”
+　　“哎！我这就去！”
+　　Milo应得响亮，拎起扁担小跑着奔向杂物棚。
+　　Bram整了整肩带，带着Jory大步迈出辕门，踩着晨雾向道口巡去。
+　　院里的秩序逐渐归位。
+　　等新兵们各自归位擦拭矛头，Dain从器械库里快步走出来，手里提着一面覆皮的圆木盾。
+　　这是防卫队目前仅有的两面旧小圆盾之一，平时归老兵Bram使用。
+　　Dain走到Rowan跟前，将圆盾翻转过来，露出内侧的把手和皮带：
+　　“队长，您瞧这个。”
+　　Dain粗粝的手指勾起内侧的熟牛皮挽带。
+　　牛皮表面布满了干燥龟裂的细纹，其中靠近铆钉固定的受力处，皮革已经磨得泛白拉丝，撕裂开了一道足有半指宽的豁口，只剩几根干硬的筋线连着。
+　　“Bram刚才巡道前换了另一面，把这面留下了。”
+　　Dain指着那处裂口，沉声说道：
+　　“这带子糟得厉害。
+　　下午要是赶上道口有牲口惊车，或者遇上不讲理的脚夫硬冲，手肘猛一顶，这皮带立刻就得崩断。
+　　盾牌要是脱了手，前排连个挡头都没有。
+　　您给拿个主意，咱们是找镇上皮匠换条新牛皮带，还是自己找块废皮料铆几颗钉子凑合用？”
+　　Rowan伸手接过盾牌，指尖在那道开裂的挽带上用力掰了掰，干硬的皮层发出细微的断裂声……
 
-(Đoạn 21 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 22 sẽ bắt đầu ngay sau chỗ này.)

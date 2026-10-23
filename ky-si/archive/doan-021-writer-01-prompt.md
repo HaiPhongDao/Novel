@@ -1,0 +1,9 @@
+Viết đoạn021 khoảng1800–2200 chữ Trung,chỉ chínhvăn. Nối ngaycâuRowan đangnói: Milo khôngthếgácvìkhôngvũtrang/chưaluyện, tốingày3nhàtrực.
+
+Sựthật: chỉDain/Bram làHAIcựubinh,Toma/Jory+bốnmới làSÁUmới,tổng8gác;Rowan ngoài8,lươngtháng9bạccho8chưađếnhạn,9miệngăn cóRowan. Milo23 phụviệcngoài8 mới làmNGÀYĐẦU ngày3;đãtrả5đồng(3công+2phụăn),cònngày4/5mỗi5chưa trả,khôngthànhlính/lươngtháng. Quỹhiện34BẠC65ĐỒNG sau020, góiăn9người ngày1–5đãtrả1bạc,đường3bạcchờcuối9đủ7ngày. Đoạnnày khôngthu/chi. Gọingàytheothứtựởbến(ngày4),thờitiếtmátẩm,sángsương/tốigió,chưachốtlịchtháng/mùa. Mira tócngắnquảnmộtphà ngangchuyênmôn,Jackngườichủgiữkhóa/ghixe;Rowanđộc lậpchỉhuyđội do chủbếnkinhdoanhtưthuê,phạmviđườngtư.
+
+Rowan trảlờiDain bằngviệc hậu cầntrongsân: Milo sửa lỗiviệcmình hômnay,dọnlối/sẵnvật tư/nướcđểngười gácđỡchạyviệcvặt;gáclốivẫn do8ngườiphânca. Dainphảnbiệnnếu khôngdặnrõthì người khỏelạiômhếtviệcdọn,mấtsức/trễgiờ;hai ngườichốt ưu tiênthật,khôngđọctiêuchíthànhdiễnvăn. ChỗngủMilođãtựchọnngườiquentạibến,tiềnbổsungkhôngcầncấp.
+
+Chuyểnmộtlầnsang sángngày4. Milođếnđúnggiờ,trảlại chỗphânđổsai/dọnmùncưa nhưđãhứa,nhưngchưa hiểu luồngngười/điểmgiaovậttư. Dain/Bram tổchứccađườngbangày,tốithiểu6gácởbếnkhi2đi,ngườivừatrựctốikhôngphảichạytuầntiếp;Bramđi cùngJory lượtđầu saukhiđãngủ, Tomaởbến. Rowannhìnthấyđượcmộtthayđổiởgiaoca(gỗkêđượctraotay/ghiđếm),khôngmọithứhoànhảo. KhiMilo cầmvậttư sắpvướngcửangườigiaoca, anh hỏi ởđâuchờ/đâura, Rowanchỉmộtviệc vừa sức. ChoMilo chủđộnghỏimuốnhọclệnhcơbảnđểđừngcảnngười,khôngđòithayca/lênlính. Rowan cóthểđồngýnghegiải thíchcáchchuyểnđồđúngvịtrí,khôngmởbảngnghềthợ/chữa mệt.
+
+Dừng khiDain/Milođưa chiếcKHIÊNCŨCỦABram(mộttronghai khiênnhỏđộiđãcó) đếnRowan,chỉdâyđeobịsờn/nứt; cầnxemsửahaythayđểchiềudùng,022nốikiểmđồ/luyệntập. Chưaquyếtgiá/chimuadâyở021;Toma thu13/100/Jory换位4/100khôngtựtăng. Tựdochi tiếtđờisống/đốiđáp đủý,gầnRowan,2cảnh cùngtiếntrình,khôngthuyếtgiảng/tổchứclớn/địadanhmới.

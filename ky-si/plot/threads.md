@@ -65,4 +65,12 @@ K05: ranh/quyền/ca thử được ghi phụ lục, chưa lãnh địa. K02: c�
 
 ### Cập nhật 015
 
-K02: dựchiMilo15đồng/3ngày, chưa chi/không phải gác mới. K04: đánhgiáMilo qua làmviệc/lờinói, khôngbảngtrunghthành. K05: xe cá hỏi quyền đội, phải giải quyết bằng ranh và bàn giao thực.
+K02: dựchiMilo15đồng/3ngày, chưa chi/không phải gác mới. K04: đánhgiáMilo qua làmviệc/lờinói, khôngbảngtrung thành. K05: xe cá hỏi quyền đội, phải giải quyết bằng ranh và bàn giao thực.
+
+### Rà tuyến 020
+
+- K01: lỗiJoryởcổng được táihiện/luyện/kiểm ở017, bướcchân cóích nhưng chưa hếtvấplời; theoTomaở022đểhai hồsơ tiếnriêng.
+- K02: đãchi0,05công/phụănMilo ngày3và1góiăn9người ngày1–5, quỹ34,65. Côngđường3bạcchưa thu đếncuốingày9; lương/vậttưdựtoán chưa tựtrừ. Khônggọi tiềnmặt làlãi.
+- K03: Miraquyếtphà/ngườikhotựdọnlối/Jackghi giờđến ở018–019; đội giữtrậttự thay ôm tấtcả.
+- K04: Jory3→4đúnghồsơ sau luyện, khôngđọclòngngườiMilo hoặc tựhọcnghềthợ.
+- K05: phạmviđườngtư/ca cógiờnghỉ đãthànhviệcthử thật, chưa tựmởđườngcông/đất/quyềnthuế.

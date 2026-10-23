@@ -4,7 +4,7 @@ Tácgiả yêu cầu tiếp tục NGAY đến khi hếtquota, không đợi mỗ
 
 Mỗi đoạn: Writer→đọc đủ raw→review thực→lưu raw/prompt/SI/hash/state/summary→commit/push ky-si. Lỗi số/thẩmquyền trọngyếu làm phiên mới; một câu đếm nhầm cục bộ có thể giữ cùngreview/state, không sửa raw. Tối đa2đoạn/session. SI hiệnv0.2.1 5217ký tự, High/Groundingoff, chỉ ẩn tênmẫu sau01801nhiễu, không đổi chuẩnthoại.
 
-Hiện đãpush019,020đangWriterchưađọc/lưu. Phiênmới20làđoạn1/2. Tiếp21cùngphiên rồi22mởmới. Luônxem progress/state thayvì coidòngnày mới hơn saukhiđãtiếp.
+Hiện đãpush020,021đangWriterchưađọc/lưu. Phiên20–21, sau021 mởmới022. Xemprogress/state để lấy mốc mới hơn dòng này.
 
 Kếhoạch tiền/chuyểnngày (CHƯA làsựkiện, chỉlậpbrieftrước dùng):
 - 020cuốingày3: trảMilo5đồng ngàyĐẦU, trảgóiăn9người ngày1–5 giá1bạc, tiền35,7→34,65. Milo hômnaykhởiđầuthử, câuDain019nói thửngày3làlỗilời, khôngqua thêm2ngày.

@@ -1,10 +1,8 @@
-## 3. Trạng thái sau 020
+## 3. Trạng thái sau 021
 
-Tốingày3 nhàtrực. Rowanvừabắtcâu: Milo khôngvũtrang/chưađượcđào tạonênkhôngthếchỗgácthực. Dainhỏi dùngphụviệcngàymaiđỡvấtvả,021nốicâuRowanrồichuyểnngày4trongđoạn.
+Sángngày4 sânnhàtrực, Bram/Jory đãđituầnđầu, Dain/Toma/bốn mới ởbến. Rowan vừacầmkhiênCŨcủaBram(mộttrong2khiênnhỏ), kéo nhẹdâyđeođãrách vàđangquyếtsửa/thay;Bramtạmđemkhiêncũcònlại.022nốikiểmđồ, chưa chi.
 
-QuỹTHỰC34bạc65đồng=34,65 sautrảMilo5đồngngày3và1bạcgóiăn9người ngày1–5. CôngMilo ngày4/5chưa trả,3bạcđườngcuối9chưa thu. Góiănngày6trởđichưa mua; vật tư3vẫndựphòngtrong34,65,lươngtháng9cho8gácchưađếnhạn.
-
-Milo mớiNGÀYĐẦU thử,đãđốichiếucộtngày3vớingàyđầu trong020. NhãnToma/Jorycựu và9gáctrong020làlỗinhãncủangườikể, chỉDain/Bramcựu+sáumới=8,Rowanngoài8. Chưalịchthánghoặcmùachốt,giữthứtựngàyởbến. Jackkhôngtựthànhgiánđiệp.
+Milo ngàythửTHỨHAI,đãdọnphân/mùncưa,đượcchỉlốivật tưvàhiệuđểkhôngvướngcagác, chưađào tạoquân/hồsơbảng. Ngày4công/phụăn5đồngchưa trả; ngày3đãtrả. Quỹ34bạc65đồng=34,65.
 
 8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5NGÀYĐẦU ngày3, ngày4/5chưa trả, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
