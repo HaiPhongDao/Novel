@@ -68,3 +68,8 @@
 - Ổ mới: 34 trứng, đẻ đêm Ngày 11, nở chiều Ngày 13.
 - Trời lạnh dần, cá nước lạnh xuống chỗ sâu: đăng còn ~1 kg/ngày (trước ~3 kg).
 
+**Đã lên trang ở đoạn 11**
+- Gorr biết tên Ko; lời Gorr: mai không có cá to thì ăn Ko.
+- Khoa nói với Gorr: chỉ Ko dụ được cá to ra khỏi khe đá khi nước lạnh.
+- Yeg có một cây gậy gỗ khô; gõ vào vách khi nói trước cả hang. Yeg nói trước mặt Gorr: con non là lương cho mùa lạnh.
+
