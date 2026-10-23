@@ -8,9 +8,9 @@
 
 **Lượt 2** (Tác giả 23/10): viết lại từ đoạn 001 theo cách prompt ngắn — phương hướng + số liệu, Writer tự do phần còn lại (`../AGENT.md` mục 4). Lượt 1 (001–006 đã chốt, brief chi tiết) → `archive/luot-1/` (briefs, chapters, reviews, handoff).
 
-⚠️ `bible/` và `plot/` giữ nguyên bản Tác giả duyệt 22/10. Những gì lượt 1 thêm vào (Mok, đống sỏi 112, "Ko" từ Yeg, giao kèo thịt nướng, nhóm năm = bốn ngón + lòng bàn tay) **không** tự sang lượt 2 — chỉ vào canon khi lượt 2 viết ra và qua review. `handoff/canon-card.md` chỉ còn phần thiết lập cố định; state/story-so-far/voice-anchor dựng lại sau review đoạn 001.
+⚠️ `bible/` và `plot/` giữ nguyên bản Tác giả duyệt 22/10. Những gì lượt 1 thêm vào (Mok, đống sỏi 112, "Ko" từ Yeg, giao kèo thịt nướng, nhóm năm = bốn ngón + lòng bàn tay) **không** tự sang lượt 2 — chỉ vào canon khi lượt 2 viết ra và qua review. `handoff/canon-card.md` chỉ còn phần thiết lập cố định; state/story-so-far/voice-anchor đã dựng lại theo lượt 2 (tới đoạn 002).
 
-`chapters/doan-002.md` là file trống để dán chính văn.
+`chapters/doan-003.md` là file trống để dán chính văn. Đoạn 003 mở **chat mới** (session S2): dán `handoff/session-start.md`.
 
 ## Writer
 
@@ -22,6 +22,7 @@
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) — chờ Tác giả 2 điểm canon | |
-| 002 | ✅ | ⬜ file trống — chờ dán | | |
+| 002 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 003 | ✅ | ⬜ file trống — chờ dán | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

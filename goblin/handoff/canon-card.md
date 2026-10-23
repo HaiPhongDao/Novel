@@ -9,11 +9,17 @@
 **Nhân vật phụ**
 - Gorr — tù trưởng (首领), to nhất hang (~1,2 m), chột mắt trái, mang con dao sắt mẻ lưỡi duy nhất của bộ lạc; mùa đói ăn con non.
 - Yeg — thầy cúng (巫祝) mù, giữ đống than lửa và chăm Mẹ Ổ (巢母); ngửi giỏi nhất hang.
-- Nub — con non cùng ổ, chậm, mắt to, bắt chước chính xác.
-- Snik — con non gầy, nhanh tay, hay ăn cắp, hay hỏi "tại sao".
-- Zag — con non to xác nhất ổ, bắt nạt.
+- Nub — con non cùng ổ, gầy bé, chép y hệt từng động tác của Khoa, cả động tác thừa.
 
 **Địa danh**
 - Hang Dơi (蝙蝠洞): hang đá vôi; ngách ngoài để ngủ, ngách sâu là hố ổ (巢坑) và chỗ Mẹ Ổ; nền phủ phân dơi (蝙蝠粪) dày, khai nồng.
 - Suối Lạnh (冷溪): suối nhỏ chân đồi, nhiều cá nhỏ.
 - Đầm Rêu Đỏ (红苔沼): đầm than bùn phía nam, nước váng gỉ đỏ.
+
+**Đã lên trang ở đoạn 1–2**
+- Hố ổ: sâu ~2 m, rộng ~2 m, vách đá ướt trơn, nền phân dơi lẫn vỏ trứng; trần hang cao hơn chục mét, dơi treo kín.
+- Con non vừa nở: dài hai gang tay, da xanh, bốn ngón, móng mềm, bụng tròn.
+- Gorr quấn tấm da thú hôi, dao sắt gỉ mẻ bên hông; ngồi trên tảng đá giữa hang chính. Yeg: mù hai mắt có màng trắng, nửa mặt lở loét, cầm cục than kẹp que.
+- Goblin nói từng từ cụt ("……大……肉……", "走了……回……"); đếm "一、二、三、四、五" rồi "很多".
+- Khe đá rộng một bàn tay trên vách hang chính — chỗ nấp của Khoa và Nub.
+- Mẹ Ổ (巢母): khối thịt trắng xám to như bò, chân tay teo thành nếp, miệng gần như không răng.
