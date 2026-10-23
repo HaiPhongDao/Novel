@@ -1,39 +1,27 @@
 # Review — Đoạn 001
 
-## Bản 1 (SI v1 + prompt v1) → `archive/doan-001-v1.md`, prompt ở `archive/doan-001-brief-v1.md`
+## Bản 2 (SI v2 + prompt v2, session S2) — `chapters/doan-001.md`
 
-**Kết luận: VIẾT LẠI.** Tác giả 23/10: "thoại chưa tự nhiên… thiếu cảm giác nhập vai, chưa đủ cảm giác như đang ở trong đầu hắn". Đúng đoạn đã đủ điểm bắt buộc, nhưng lời kể đứng ngoài 许牧 và thoại là hai người trao thông tin cho nhau. Có thêm ba lỗi canon (địa danh/nhãn hiệu có thật).
+**Kết luận: ĐẠT** (Tác giả 23/10: "vẫn chưa đúng những gì tôi muốn lắm, đặc biệt đoạn đầu. Nhưng tạm ổn rồi"). ~2,550 chữ Hán.
 
-### Nhập vai — lời kể đứng ngoài nhân vật
-- Thông tin tới thành danh sách, MC không phản ứng giữa chừng: "第一条是…", "第二条是…", "第三条是…"; "四项评分明细排得很整齐".
-- Lời kể giảng thế giới như bách khoa: đoạn "潜入舱技术民用化才一年零十个月…受万人追捧，地位堪比顶流巨星。" — không phải điều 许牧 đang nghĩ lúc đó.
-- Lời kể giải thích thay MC: "因为墙皮的脱落没有严格遵循物理风化算法，麻绳上的毛刺甚至没有做光影微散射。"
-- Khoảnh khắc xuyên không đi qua phẳng lặng: "再睁眼，就是这间十四平米的单间。"; ký ức nguyên chủ thành bản tóm tắt ("原主也叫许牧，二十二岁…兜里比脸还干净"). Buổi họp huỷ dự án ba năm không để lại cảm giác gì.
-- Máy quay đặt ngoài người: "这笑声在空荡荡的十四平米房间里显得格外清晰。"; thẻ ngoài "神色自然"、"干脆利落地"、"随口应道".
+### Canon & nhất quán
+- ✅ Mọi con số đúng: 1,500元 trước 九月十号; 2,316元 → 816元 / 27 ngày ≈ 30元 một ngày (phép tính đúng); 九月三十号, 46小时; 14 hồ sơ; 58/60, 真实度 21/40; 860万人次; 20元 nửa giờ; sau khi trả còn 2,296元.
+- ✅ Lời phê nguyên văn; kiếp trước đủ ba điều (nghề, chín năm, buổi họp).
+- ❌ "国际汽车展会策划" — lại có 国际 (bản 1 cũng vậy, đều từ chữ "展会策划" trong prompt). Không viết lại vì lỗi một chữ; gói bàn giao không nhắc tới, các prompt sau không liệt kê "展会".
+- ⚠️ "二锅头" — tên rượu có gốc địa phương có thật. Ghi blacklist.
+- ⚠️ Writer thêm: chủ nhà 王阿姨; 许牧 gốc xem 《千灯巷》 "四五回"; "两千多盏红灯笼"; 许牧 gốc đêm qua uống bia rẻ đọc thư từ chối. Nhận làm canon (không ảnh hưởng arc).
 
-**Nguyên nhân phía Agent:** SI v1 mục 3 lấy anchor là đoạn MC *đọc hợp đồng* (lời kể phân tích); PART 2 dòng đầu chép từ lanh-chua-chip ("mỗi đoạn kết bằng hành động/sự kiện/con số/thoại; cảm xúc hiện qua tay chân") đẩy văn ra ngoài cơ thể; prompt v1 xếp tám dữ kiện liền nhau và viết ý nghĩa ("anh hiểu ra… thế giới này chấm bằng thước đo gì") thay cho việc xảy ra.
+### Cốt truyện
+- ✅ Đủ diễn biến: tỉnh dậy → điện thoại từng món → bảng điểm → tin 《千灯巷》 → trang tuyển dụng → "策划" ra tổ chức sự kiện → bật cười → 深蓝 → 《千灯巷》.
+- ✅ Gieo được "复游率" — 许牧 buột miệng, 老周 hỏi lại "复啥？". Chưa nằm trong kế hoạch nhưng hợp tuyến T07 (để dùng ở đoạn 003).
 
-### Thoại
-- 老周 giảng cho 许牧 điều cả hai đã biết: "那可是秦大师的一级认证境…细节密得很，神经负荷不小"; "大公司只要特级院所的尖子，小工作室又养不起新人。我这小破店也是…".
-- 许牧 đáp câu nào đóng câu đó, không nối, không hỏi lại: "投了，还在等消息。" / "毕业设计交了。" / "不看风景。" / "观摩观摩名家手笔。" — kiểu thoại cụt ở `chung/review-blacklist.md` mục Thoại lưu loát.
-- 老周 hỏi "今天不在宿舍捣鼓你那个毕业设计了？" — MC đã tốt nghiệp, ở phòng thuê.
+### Văn phong
+- ✅ Nhập vai khá hơn bản 1: cơ thể đi trước ký ức ("掌心连常年握鼠标磨出来的薄茧都没有"); tính sổ trong đầu ("前提是别生病，别买水，别出门坐公共交通。"); "得，连吃饭的工具都快被收走了。"
+- ✅ Thoại đời thường, có đối đáp: 许牧 đùa lảng ("大厂嘛，流程长…正互相考察呢"), 老周 bóc ("得了吧你，跟我还打马虎眼。"), 许牧 hỏi lại chuyện quán, 老周 than 《云海栈道》 bằng chuyện của ông.
+- ⚠️ Đoạn đầu (Tác giả chưa ưng): khoảnh khắc xuyên không vẫn kể tóm tắt ("上一世，他当了九年游戏策划…高层一句话说砍就砍"), và vẫn có hai đoạn lời kể giảng thế giới ("在这个世界，大约一年零十个月前…", "在这个世界，评测一个境全靠四个指标…"). Đó là lỗi giảng của người kể, không phải dòng nghĩ của 许牧.
+- ⚠️ "鼻腔里钻进来一股…怪味" — mẫu mùi "chui vào mũi" của blacklist chung.
+- ✅ Dừng giữa mạch: "躺平别乱动啊！半小时一到自动上浮——".
 
-**Nguyên nhân phía Agent:** anchor thoại của SI v1 là cảnh mời việc trịnh trọng ("您的好意我心领了"); prompt v1 chỉ ghi "老周 nói mấy câu của người quen", không cho hai người chuyện riêng để đối đáp.
+## Bản 1 — `archive/doan-001-v1.md` (prompt `archive/doan-001-brief-v1.md`)
 
-### Canon (❌)
-- "国际会展中心" — từ 国际 (ranh giới không quốc gia).
-- "九寨沟的高清复原" — địa danh có thật.
-- "微信" — nhãn hiệu có thật.
-- "下季度的房租一千五" — canon: 1,500元 / tháng.
-
-### Giữ được (đưa vào bản sau nếu Writer tự viết lại tương tự)
-- Nhịp tìm "策划" ra 婚礼策划 → bật cười, và câu "合着你们造了个神仙底座，结果就用来让人进去散步看灯？".
-- "十四投零中，战绩相当稳定。" — đúng giọng tự giễu.
-- 《晾衣街》: ba tháng nặn sào tre, dây gai, quần áo bạc màu từ bộ quét cơ bản của trường.
-- Mô tả 规则脚本员: 3,000–4,000/tháng, đặt 空气墙、碰撞体积、đường tuần tra NPC cơ bản — đề xuất đưa vào canon.
-- Biển hiệu 深蓝 hỏng nửa đèn neon; khoang ghế gel, mùi thuốc khử trùng; điểm dừng "老周…别硬撑…赶紧按上浮键——" / "咔哒。" — dừng giữa mạch đúng.
-- Phép tính 816元 / 27 ngày ≈ 30元 một ngày: đúng.
-
-### Sửa cho bản 2
-- SI v2: mục 3 viết lại thành "lời kể là 许牧 đang nghĩ" + anchor nội tâm (chương 2 sách mẫu: "没办法，气的。…为啥生气？"); mục 5 thêm chuẩn thoại đời thường + anchor tán gẫu (chương 15 sách mẫu); PART 2 cho phép đoạn kết bằng ý nghĩ của MC, thêm "thông tin tới từng món, MC đáp từng món"; quy ước 2 thêm tên app chung chung.
-- Prompt v2: cảm giác cơ thể trước ký ức; đọc điện thoại từng món, đáp từng món; 老周 nói chuyện như người quen, không giảng lại điều đã biết; MC đùa lảng và hỏi lại; đặt tên 观光境 tuần trước là 《云海栈道》.
+**VIẾT LẠI** (Tác giả: thoại chưa tự nhiên, thiếu cảm giác ở trong đầu nhân vật). Chi tiết: commit b276e22 — lời kể đứng ngoài, thông tin xếp "第一条…第二条…", thoại "như anh đã biết", MC đáp cụt; lỗi canon 九寨沟, 微信, 国际会展中心. Nguyên nhân phía Agent: anchor mục 3 của SI v1 là đoạn đọc hợp đồng; PART 2 "cảm xúc chỉ qua tay chân"; anchor thoại trịnh trọng; prompt v1 xếp dữ kiện liền nhau.

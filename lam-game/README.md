@@ -17,7 +17,8 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ bản 2 | bản 1 → `archive/` | bản 1 VIẾT LẠI | |
+| 001 | ✅ bản 2 | ✅ bản 2 (S2); bản 1 → `archive/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
+| 002 | ✅ (S2) | | | |
 
 ## Mục lục
 

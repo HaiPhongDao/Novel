@@ -15,3 +15,6 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (001 bản 1) Lời kể bách khoa giảng thế giới giữa cảnh, không qua phản ứng của 许牧; thông tin xếp "第一条…第二条…第三条".
 - (001 bản 1) Thoại "như anh đã biết": nhân vật giảng cho nhau điều cả hai đã rõ; MC đáp cụt, không hỏi lại.
 - **Ngoại lệ của truyện này (Tác giả 23/10 muốn nhập vai):** câu tự hỏi, câu cảm thán ngắn của 许牧 đứng riêng một dòng trong lời kể là *giọng MC* → giữ. Chỉ bắt câu hỏi tu từ của người kể đứng ngoài (không thuộc ai) theo `chung/review-blacklist.md`.
+- (001 bản 2) "国际汽车展会策划" — prompt liệt kê "展会策划" thì Writer gắn 国际 (hai bản liền). Prompt sau không đưa "展会".
+- (001 bản 2) "二锅头" — nhãn rượu có gốc địa phương có thật; rượu gọi chung (白酒、啤酒).
+- (001 bản 2) Lời kể mở bằng "在这个世界，…" rồi giảng luật — vẫn là giảng của người kể, kể cả khi SI đã sửa mục 3.
