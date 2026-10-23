@@ -1,0 +1,13 @@
+Viết đoạn014 khoảng1800–2200 chữ Trung, chỉ chính văn.
+
+Thiết lập: Rowan kỵ sĩ chỉ huy, ngoài8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới, tổng9miệng ăn. Mira quản phà ngang chuyên môn,Alden thay chủbến tư, mộtphà. Quỹ35,7bạc, đoạn này chưa thu/chi. Hợp đồngcũ24/30ngày từngày1,12đãnhận nằmtrong24, dựtoán18tháng chưa trừ.84/90 đãgồm12cũ là dự thảo hoãn. Đề nghị mới RIÊNG7ngày từsángngày3 đến hếtngày9, côngthêm3bạc trảsau đủkỳ; ở cuối013 mới gửi hỏi chủ. Hai gác đi đường tư trong giờ đông ban ngày, còn ít nhất6gác ởbến; banđêm theo hợp đồngcũ. Người quen làmđá củaJory hẹn ngày3 gặp, chưa cómặt/chưa nhận/lương. BảngToma thu giáo13,换位5,tíchlũy0, không cần hiện.
+
+Tiền tình: tối ngày2 trong nhàtrực, Alden hỏi nếu chủchấp thuận thì sángmai tuầnđầu khởi lúc nào. Những giờ chiều trong đề nghị trước chỉ phác, chưa ký: chiều phải kết trước trời tối/khóa cổng, không tuần đường ngoài banđêm. Xe hộ đã giao khoGreyford, nhóm4đibộ vềbến chiều2; không có xe chiều quayvềbến hoặc Alden chứngkiến ởGreyford.
+
+Chuyện xảy ra: trả lời Alden ngay. Rowan/Dain dựa giờ mởphà, hẹn hai người cómặt ởcổng khi đủsáng, trước nhận xe lượtđầu. Dain chọn Bram vàJory cho lượtđầu, sáu gác giữ bến gồm Dain,Toma,bốn mới; Rowan có thể đi quan sát ngoài quân số. Buổi chiều kiểm lượt đông trước khóa cổng/lúc trời tối, giữa haiđợt đủ giờ nghỉ, chưa cho một người đứng cảngày và trựcđêm. Chỉ cần lịch thực hiểuđược, đừng đọc bảnggiờ mâu thuẫn. Alden làm rõ phí trả theo đủca/ghi bàn giao và xửlý/báo sự cố đãthỏa thuận, không theo lời hứa đường không bao giờ có tranh chấp; hàng/khóa do phía kho. Ông về hỏi chủ.
+
+Chuyển mộtlần sang sángngày3 trong đoạn. Alden trởlại mang văn bản chủ cho thử đúng7ngày/công3bạc cuối kỳ/phạmvi trên. Chỉ ký phụlục thử, hợp đồngcũ24/30giữ nguyên, không tự ký84/90. Rowan đọc, Alden giải thích một chỗ, Dain hỏi bàn giao thì ai thực sự đứngcổng; chủ cử một người ghi xe/giữ chìa làm đúng vai, ngoài đội, không áp hết choMira. Hai bên có thể ký phụlục đã rõ, không trả trước. Chưa ghi3bạc như đãthu.
+
+Chuẩn bị việc sáng chứ không khai triển cảngày: Bram kiểm người cùngđi,Jory cần giao nhận ca ởcổng. Người xin việc doJory giới thiệu xuất hiện ngoài cổng với đồ cá nhân và bàn tay chai nghềđá, chưa tên đểRowan hỏi ở015. Dừng khi lính cổng báo cóngười tìmJory/Rowan và Rowan vừa quayra đáp.015 nối gặp người, không tựnhận hay cho vũkhí ở014.
+
+Bắt buộc: đúng ngày3 sau một chuyển trong đoạn, không thêm phà/lính/tiền nhận, phần thử không làm đội sởhữu đường hoặc đượcthu phí. Đối thoại trọn ý và phản ứng riêng, giữ điểmnhìn gầnRowan. Tự do sáng tạo chi tiết buổi sáng, cách Dain/Bram chuẩn bị và trao đổi khôngchép chỉdẫn. Tốiđa hai cảnh; kết giữa việc báo người chờ.

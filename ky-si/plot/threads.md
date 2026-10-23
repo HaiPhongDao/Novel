@@ -49,3 +49,7 @@ K03: Mira nêu giới hạn kiểm soát khóa/cửa. K05: thêm12/90 chưa bù 
 ### Cập nhật 013
 
 K05: hạ từ trách nhiệm90ngày rộng sang đề nghị thử có ranh/giờ, hai đi/sáu giữ bến. Giờ cụ thể còn phải sửa trước thực thi. K02:3bạc chưa phải tiền hay khoản phải thu đã chắc.
+
+### Cập nhật 014
+
+K05: ranh/quyền/ca thử được ghi phụ lục, chưa lãnh địa. K02: công3bạc chờ đủkỳ, tiền mặt không đổi. K03: Jack phía chủ giữkhóa/ghi xe, Mira vẫn phầnphà.

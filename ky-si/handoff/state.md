@@ -1,11 +1,9 @@
-## 3. Trạng thái sau 013
+## 3. Trạng thái sau 014
 
-Tối ngày2 nhà trực, Alden ghi đề nghị mang hỏi chủ, chưa rời ngay; hỏi nếu chủ đồng ý đêmnay thì sángmai tuần đầu khởi lúc nào.014 đáp ngay rồi chuyển sang sángngày3 trong đoạn.
+Sáng ngày3 ngay trước lượt tuần đầu. Phụ lục đã ký, chưa tiền mới. Người quenJory làmđá vừa tới cổng, đứng cạnh gốc liễu với túi vải và tay chai; Rowan vừa đi ra gặp. Chưa tên/nhận/lương. Bram/Jory đã chuẩn bị đi giao ca, không được vì gặp bạn mà bỏ lượt.
 
-Quỹ35,7 không đổi; 8gác Dain/Bram hai cựu+Toma/Jory/bốn mới; Rowan ngoài8. Chưa nhận người quenJory, hẹn ngày3 tới cổng. Dự toán18tháng không chi gộp. Hợp đồngcũ24/30,12cũ đã nhận trong24, vẫn hiệu lực;84/90 đãgồm12cũ chỉ dự thảo hoãn, không tiền mới.
+Quỹ35,7bạc. Hợp đồngcũ24/30từngày1,12cũ nằmtrong24; dựtoán18chưa chi gộp. Thử đường RIÊNG từsángngày3 tới hếtngày9,3bạc trả cuối sau đủca/ghi bàn giao và không vi phạm nặng, chưa thu.84/90hoãn, không ký. Phần đường chỉ ranh tư/bangày giờđông, chiều kết trước khóa cổng/lúc tối, đêm phạmvi cũ. GiờHán raw là cách gọi tự thêm, không dựng lịchthếgiới; Dain giữ giờnghỉ người tuần. Không bảo chứng hàng/thuế/đất.
 
-Đề nghị thử riêng7ngày từ sángngày3 tới hếtngày9, thêm3bạc trả sau hoàn thành, chưa ký/thu và chưa ghi khoản phải thu. Hai gác đi đường vào giờ đông ban ngày, ít nhất6gác còn ở bến; đêm phạm vi cũ. Ranh đường tư chủbến, không thu phí/đất/quyềncông. Chủbến phụ trách ghi xe/khóa/kiểm hàng, đội trật tự, báo và xử lý sự cố theo quyền thực; không bảo chứng nguyên vẹn từng kiện hàng hoặc hứa không có sự cố.
+8gác=Dain/Bram hai cựu+Toma/Jory/bốn mới, Rowan ngoài8. Bram+Jory tuầnđầu, Dain+Toma+4mới=6ởbến. Toma chưa giàkinhnghiệm dù được phụDain. Jack tên làm việc của老贾克, nhân viên chủbến giữcổng/chìa/ghi xe, ngoài8; Mira quản phàchuyênmôn,Alden quản hợpđồng,Oswinthợ ngoàiđội. Mộtphà, không lấy chữ驳船 thành phàthứhai. Rowan khôngthiếtquyềnđất/thuế.
 
-Lịch giờ trong013 mới phác và mâu thuẫn (chiều từlặn1时辰 lấnđêm; người kể lặp nhầm1,5).014 phải làm rõ đápAlden: đầu buổi sáng trước chuyếnphà đầu khi đủsáng, buổi chiều xong trước khóa cổng/trời tối, Dain kiểm ca/nghỉ, không cố giữ số giờ sai. Trả công đủ ca đã thống nhất và xử lý/báo sự cố, không điều kiện tuyệt đối không có loạn. 12tạmứng cơ chế cũ, không canon hóa khấu từngngày.
-
-Hồi tưởng xechiều013 sai: xe đã giao khoGreyford, nhóm4đibộ về chiều2, Alden không ởGreyford xem toànchuyến. Không thêm xe/phà. Toma长矛收势13/100积累0;随车换位5/100积累0. Khóa/cửa phụ còn phía bốc dỡ, chưa bàn giao; chưa nộigián xác nhận.
+Toma长矛收势13/100积累0;随车换位5/100积累0. Khôngbảngđọc người/xácnhậntrungthành hoặc nghềthợ tự mở. Người quenJory cóthể thử việc hậu cần có lương/ăn tính rõ, chưa mặc định gác thứ9.015 phải hỏi việc thật, sức khỏe/tính nghe lệnh bằng hành động, không kiểm bằng bảng.

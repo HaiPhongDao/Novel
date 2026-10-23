@@ -57,3 +57,7 @@ Cuối ngày2: đọc giấy, nhìn sân, về nhà trực khi tối. Đánh d�
 ### Diễn biến làm việc 013
 
 Tối ngày2: đề nghị thử7ngày từ3–9,3bạc trả cuối kỳ, giữ hợp đồngcũ. Alden còn phải hỏi chủ, chưa ký/thu.
+
+### Diễn biến làm việc 014
+
+Sángngày3: ký thử7ngày ngày3–9,3bạc cuối kỳ. Bram/Jory chuẩn bị tuầnđầu,6gác ở bến. Người quenJory tới xin gặp, chưa nhận.

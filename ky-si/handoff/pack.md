@@ -30,73 +30,25 @@ Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm 
 
 ## 2. Tóm tắt truyện đã viết
 
-### Đoạn 001 — sáng ngày đầu ở Stonewake
+### Đoạn 001–004 — ngày đầu, làm được việc ở bến
 
-Tác giả chọn bản v02-02 ngày 23/10/2026 để viết tiếp. Rowan và Dain luyện tám người gác thu giáo, đổi hàng. Toma giải thích thói quen làm nông khiến khuỷu tay văng ra; Dain làm mẫu, Rowan chia thao tác để tập lại.
+Rowan luyện đội8gác ở Stonewake, thử một điểm tích lũy đúng hồ sơ Toma:长矛收势12→13/100,积累1→0, kiểm bằng lượt tập sau. Toma vẫn mệt, chưa có kinh nghiệm thực chiến. Vốn20+tạmứng12 trong hợp đồng24/30=quỹ32. Dự toántháng18 chưa chi gộp.
 
-Rowan dùng một điểm tích lũy của Toma: thu giáo 12 → 13/100, tích lũy 1 → 0. Cậu giữ được cải thiện nhỏ ở lượt sau, vẫn mệt và chưa ngang cựu binh. Chỉ Rowan biết bảng.
+Sáu xe tới thay bốn, Mira quyết lượt theo tải. Hai xe thêm chở phụ tùng/dụng cụ máy xay. Rowan nhận việc giữ đường/ghìm dây riêng, phí1bạc chỉ trả khi hai xe thêm qua an toàn. Oswin phát hiện gỗ kê mục, chủ bến trả riêng40đồng sửa, không trừ Rowan. Xe phụ tùng đầu qua, nghỉ/đổi người; một phà phải quay lại, chưa có phà thứhai.
 
-Tiền mặt vẫn 32 bạc: vốn 20 + tạm ứng 12; hợp đồng 24 bạc/30 ngày. Mira tới báo sáu xe thay bốn đã hẹn, hai xe thêm phủ bạt và vết bánh sâu. Chị nghi hàng khác với khai báo, nêu lo ngại vận hành, hỏi Rowan chia tám người. Đoạn dừng khi anh chuẩn bị đáp.
+### Đoạn 005–007 — ngày đầu đến sáng ngày2, công và chuẩn bị chuyến ngoài
 
-Thân phận tiếp tục theo bible là kỵ sĩ vừa giải ngũ, chỉ huy trực tiếp; nhận định hàng và tải của Mira cần kiểm tra tại chỗ. Xem ghi-chu-noi-001-002.md.
+Xe thêm thứhai bàn giao, Rowan thực nhận1bạc→33. Khách thuê hộ một xe nhẹ tới kho Greyford ngày2, cônggốc3bạc:1tạmứng nằm trong3→quỹ34, còn2chờthu. Rowan đi cùng Bram(cựu binhthứhai),Toma,Jory; Dain+4mới=5gác giữ bến, không thêm lính.
 
-### Đoạn 002 — bản thảo đã review, chưa chốt toàn bộ canon
+Luyện theo xe có thửthách thật, Toma随车换位4→5/100 dùng1tíchlũy, về0. Chỉ thao tác nhỏ, không ban canđảm. Trả góiăn cho nhóm4chuyếnđi20đồng→33,8. Bàn giao sángngày2 rồi đi; không trừ lươngtháng/dựtoán18.
 
-Rowan chia tám người gác thành hai nhóm bốn: Dain + Toma + hai người mới tại đường dẫn; cựu binh còn lại + ba người mới ở sân. Dain nêu mệt và ngựa, Rowan giới hạn người gác giữ lối, chủ xe điều khiển ngựa; Toma hỏi rồi chỉ chỗ chờ cho xe.
+### Đoạn 008–010 — ngày2 tới kho, thanh toán và hỏi người xin việc
 
-Chủ đoàn giải thích nhận ghép hai xe, đưa giấy ghi hàng tới Greyford. Mở kiểm thấy dụng cụ/phụ tùng máy xay, sau đó đóng kiện buộc lại. Chủ đoàn muốn ghép lượt; Mira quyết định mỗi lượt một xe phụ tùng. Sáu xe vẫn ở bãi, một phà, chưa xuống dốc.
+Đường bị xe chở gỗ kẹt, có bàn tay gần dây hàng. Rowan chỉ kết luận điều đã thấy, cho nhóm giữ lối/hàng và cùng bênxe gỗ thông đường; chưa chứng minh băng tội phạm. Toma còn cần lệnh cụ thể, Jory là người mới. Tới kho khách muốn sang kho phụ bên kia đường, Rowan chốt phụphí50đồng trước làm, người lái/bốc dỡ của khách giữ trách nhiệm.
 
-Alden tới phân biệt việc phòng vệ trong 24 bạc/30 ngày với phần việc ghìm dây và giữ đường thêm. Ông hỏi Rowan có nhận và muốn điều kiện gì; chưa có câu đáp, giá mới hoặc thu/chi. Tiền mặt 32 bạc, bảng Toma không đổi.
+Hộ qua lối an toàn, nhận đủ2bạc50đồng(cônggốc2còn lại+phụ0,5)→36,3. Tổngthu chuyến3,5 gồm1tạmứng cũ, không3,5mới. Thưởng Bram/Toma/Jory mỗi20đồng, tổng60→35,7. Côngchuyến đã thu hết. Chi chuyến0,2ăn+0,6thưởng, soquỹ33sauphà tăng2,7tiềnmặt; không gọi toànquỹlàlãi.
 
-Lời tự đặt về cân nặng và chuẩn bị phà chưa được kiểm chứng, không thành thông số canon. Xem reviews/doan-002.md trước 003.
-
-### Đoạn 003 — kiểm đường, phát hiện gỗ kê mục
-
-Rowan và Alden thống nhất công thêm một bạc sau hoàn tất cả hai xe; chỉ nhận phần giữ lối/phối hợp, vật tư và sửa bến đi sổ chủ bến. Tiền mặt vẫn 32 bạc. Rowan yêu cầu kiểm trước đưa xe xuống.
-
-Nhóm Dain bốn người thử đổi vị trí với dây chùng, Toma hỏi rồi sửa chỗ vướng; nhóm sân bốn người ở nguyên. Xe còn trên bãi. Rowan giẫm thấy sàn kê sát bờ lún, dừng cả nhóm; Oswin nhấc ván mặt, chỉ gỗ kê bên dưới mục. Đoạn dừng khi thợ giải thích phải thay cả phần kê, phủ ván mặt không xử lý gốc hỏng.
-
-Bảng chuẩn Toma vẫn 长矛收势13/100, 训练积累0; nhãn rút và lời giới hạn nghề trong chính văn là lỗi đã ghi review, không thay thiết lập.
-
-### Đoạn 004 — sửa kê, xe phụ tùng đầu tiên rời bến
-
-Alden đồng ý và trả Oswin 40 đồng cả công/vật liệu từ sổ chủ bến. Thợ thay kê, Mira kiểm rồi gọi xe. Nhóm Dain hướng dẫn; một người mới vội lại gần ngựa bị Dain kéo ra kịp, không ai bị thương. Toma đổi cách báo hướng; xe đầu lên một phà, phà chở riêng xe đó sang bờ kia.
-
-Xe thứ hai và bốn ngũ cốc còn trên bãi. Tiền Rowan vẫn 32, công thêm một bạc chưa nhận. Dain vừa đề nghị nghỉ luân phiên; Rowan chưa đáp. Các số kỹ thuật tự thêm không dùng làm thông số cố định.
-
-### Đoạn 005 — hoàn tất xe thứ hai, nhận công thêm
-
-Rowan chốt hai người nghỉ, nhóm sân giữ việc. Khi phà giao xe đầu và về rỗng, xe phụ tùng hai xuống riêng; một người mới hỏi trước làm, phối hợp có tiến bộ. Alden xác nhận hai lượt, trả một bạc công riêng; tiền mặt32→33. Sửa bến40 đồng không chạm quỹ đội.
-
-Một khách chưa tên hỏi hộ tống xe nhẹ thuốc nhuộm/dược thảo ngày mai theo đường phía nam tới kho ngoài Greyford. Chưa bàn giá hoặc chọn người;006 bắt đầu Rowan đáp.
-
-### Đoạn006 — chốt chuyếnngày2 và nhận tạmứng
-
-Khách đưa giấy vàAlden xác nhận giao dịch. Mộtxe nhẹ thuốcnhuộm/dược liệu tới mộtkho ngoàiGreyford, từbến điđườngnam rồi vềtrongngày2. Phí3 bạc gồm1 nhậntrước+2 khi bàn giao; lái/bốc dỡ của khách, đổi nơi nhận/việcthêm phải thương lượng.
-
-Đi4người=Rowan+cựu binh thứhai+Toma+mộtmới; ởbến5=Dain+4mới. Alden đồng ý riêng mộtngày với ca gác rõ. Rowan nhận1bạc, tiền34. Dain vừa nêu người mới chưa biết đổi vịtrí theo gócxe;007 nối Rowan chọnbài tập.
-
-### Đoạn007 — luyện theo xe, trả tiền gói ăn, bàn giao
-
-Tối ngày1, Rowan hỏi cựu binh thứhai, cho Toma/người mới tập đổi vịtrí quanh xe trống; hỏi và sửa thật. BảngToma 随车换位4/100+积累1→5/100+0, thu giáo13 giữ nguyên. Ăn và ngủ rồi sang sángngày2.
-
-Trả20đồng gói thứcăn cho4người, tiền33bạc80đồng; xe/khách tới,4ngườiđi chuẩn bị. Dain giữ5ởbến và hỏi phươngán nếu đườngbị chắn/xe vội quayđầu. Chưa lênđường, chưa thu2bạc còn lại.
-
-### Đoạn008 — đường hẹp và bàn tay gần dây hàng
-
-Rowan đápDain rồi cùng3người gác rờiStonewake, Dain giữ5ởbến. Hỏi người lái chỗhẹp/chỗdừng, đội giữ xe trên nềnchắc trước mộtxe củi lún chắn lối. Người phụxe củi tới xinđẩy rồi chạm dâyhàng;Rowan yêu cầu rời tay, khách giữ dây, cựu binh quay về. Toma hiểu lệnh nhưng chân/giáo vướng giữa người lạ và xe, hỏi cách chắn;Rowan vừa nhảy xuống đất để xử lý. Chưa có đánh, mất hàng haythuthêmtiền.
-
-### Đoạn009 — giữ hàng, nhường đường, tới kho
-
-Rowan hạ lệnh choToma thành mộtviệc/vịtrí rõ, Bram vàJory giữ hai phía. Người chen rời tay/lùi, khách kiểm dây/niêmphong không thấyhỏng; nhường nềnđể người xe củi tựthoát lún, xe tiếpđường. Toma traođổi điều mình chưa làmđược vớiBram/Rowan.
-
-Tới đúngkho ngoàiGreyford, kiểm giấy/niêmphong. Người kho muốn sangkho phụ bênkiađường, khách nhờ giữlối thêm rồi mới trả;Rowan viện phạmvi đãký và giờvềbến. Kết khách hỏi cógộp trong3 bạc không. Chưa thu/chi hoặc bốc dỡ, tiền33,8.
-
-### Đoạn010 — chốt phụphí và nhận tiền, thưởng trước về
-
-Rowan/khách chốt thêm50đồng cho hộ xe quađường tới kho phụ, lái/bốc dỡ vẫn của khách. Chờ khexe, xin nhường rồi hộ xe qua, kho kýnhận và khách trả2 bạc50đồng. Tiền33,8→36,3; tổngthu chuyến3,5 đã gồm1nhậntrước.
-
-Ngay hiênkho cùng ngày2, Rowan trảthưởngBram,Toma,Jory20đồng/người tổng60, tiền còn35,7. Toma hỏi cách cầmgiáo;Rowan đáp theo việc vừa làm. Nhóm đứng dậy chuẩn bịvề trước tối; Jory vừa hỏi ngườiquenxóm từng làmđá tìmviệc cóthể tới xin theođội không. Chưa vềbến hoặc tuyểnngười,011 nốiRowan đáp.
+Tại hiênkho sau gầntrưa ngày2, Jory hỏi người quen cùngxóm từng làmđá nay thiếuviệc có được tới xin theo không. Nhóm4sắp đi bộvề bến cùng chiều trước tối; chưa tuyển, chưa có tên/lương. Bản010lượt01 lỡ qua ngày3 bị loại; giữ010lượt02 đúng ngày2.
 
 ### Đoạn 011 — về bến và dự thảo dài hạn
 
@@ -116,19 +68,23 @@ Rowan hoãn84/90, giữ24/30 và đề nghị riêng bảy ngày từ sáng ngà
 
 Chưa ký/thu. Quỹ35,7. Một số giờ trong thoại mâu thuẫn được ghi review,014 cần chốt lịch ban ngày trước thực thi; hồi tưởng xe chiều về bến không phải sự kiện.
 
+### Đoạn 014 — phụ lục thử và người chờ cổng
+
+Tối ngày2 trả lời giờ đầu; sáng ngày3 Alden mang chủ chấp thuận. Ký phụ lục thử riêng ngày3–9, hai đợt ban ngày, hai gác đi và ít nhất sáu ở bến, đêm phạm vi cũ.3bạc chỉ cuối kỳ, cũ24/30 còn hiệu lực. Jack (raw老贾克) giữ chìa/ghi xe ngoài đội.
+
+Bram/Jory sắp giao ca, Rowan quan sát ngoài8. Một người vai rộng/tay chai nghềđá tới cổng tìmJory vàRowan. Rowan vừa bước ra xem, chưa nhận người hoặc trả tiền. Quỹ35,7.
+
 ---
 
-## 3. Trạng thái sau 013
+## 3. Trạng thái sau 014
 
-Tối ngày2 nhà trực, Alden ghi đề nghị mang hỏi chủ, chưa rời ngay; hỏi nếu chủ đồng ý đêmnay thì sángmai tuần đầu khởi lúc nào.014 đáp ngay rồi chuyển sang sángngày3 trong đoạn.
+Sáng ngày3 ngay trước lượt tuần đầu. Phụ lục đã ký, chưa tiền mới. Người quenJory làmđá vừa tới cổng, đứng cạnh gốc liễu với túi vải và tay chai; Rowan vừa đi ra gặp. Chưa tên/nhận/lương. Bram/Jory đã chuẩn bị đi giao ca, không được vì gặp bạn mà bỏ lượt.
 
-Quỹ35,7 không đổi; 8gác Dain/Bram hai cựu+Toma/Jory/bốn mới; Rowan ngoài8. Chưa nhận người quenJory, hẹn ngày3 tới cổng. Dự toán18tháng không chi gộp. Hợp đồngcũ24/30,12cũ đã nhận trong24, vẫn hiệu lực;84/90 đãgồm12cũ chỉ dự thảo hoãn, không tiền mới.
+Quỹ35,7bạc. Hợp đồngcũ24/30từngày1,12cũ nằmtrong24; dựtoán18chưa chi gộp. Thử đường RIÊNG từsángngày3 tới hếtngày9,3bạc trả cuối sau đủca/ghi bàn giao và không vi phạm nặng, chưa thu.84/90hoãn, không ký. Phần đường chỉ ranh tư/bangày giờđông, chiều kết trước khóa cổng/lúc tối, đêm phạmvi cũ. GiờHán raw là cách gọi tự thêm, không dựng lịchthếgiới; Dain giữ giờnghỉ người tuần. Không bảo chứng hàng/thuế/đất.
 
-Đề nghị thử riêng7ngày từ sángngày3 tới hếtngày9, thêm3bạc trả sau hoàn thành, chưa ký/thu và chưa ghi khoản phải thu. Hai gác đi đường vào giờ đông ban ngày, ít nhất6gác còn ở bến; đêm phạm vi cũ. Ranh đường tư chủbến, không thu phí/đất/quyềncông. Chủbến phụ trách ghi xe/khóa/kiểm hàng, đội trật tự, báo và xử lý sự cố theo quyền thực; không bảo chứng nguyên vẹn từng kiện hàng hoặc hứa không có sự cố.
+8gác=Dain/Bram hai cựu+Toma/Jory/bốn mới, Rowan ngoài8. Bram+Jory tuầnđầu, Dain+Toma+4mới=6ởbến. Toma chưa giàkinhnghiệm dù được phụDain. Jack tên làm việc của老贾克, nhân viên chủbến giữcổng/chìa/ghi xe, ngoài8; Mira quản phàchuyênmôn,Alden quản hợpđồng,Oswinthợ ngoàiđội. Mộtphà, không lấy chữ驳船 thành phàthứhai. Rowan khôngthiếtquyềnđất/thuế.
 
-Lịch giờ trong013 mới phác và mâu thuẫn (chiều từlặn1时辰 lấnđêm; người kể lặp nhầm1,5).014 phải làm rõ đápAlden: đầu buổi sáng trước chuyếnphà đầu khi đủsáng, buổi chiều xong trước khóa cổng/trời tối, Dain kiểm ca/nghỉ, không cố giữ số giờ sai. Trả công đủ ca đã thống nhất và xử lý/báo sự cố, không điều kiện tuyệt đối không có loạn. 12tạmứng cơ chế cũ, không canon hóa khấu từngngày.
-
-Hồi tưởng xechiều013 sai: xe đã giao khoGreyford, nhóm4đibộ về chiều2, Alden không ởGreyford xem toànchuyến. Không thêm xe/phà. Toma长矛收势13/100积累0;随车换位5/100积累0. Khóa/cửa phụ còn phía bốc dỡ, chưa bàn giao; chưa nộigián xác nhận.
+Toma长矛收势13/100积累0;随车换位5/100积累0. Khôngbảngđọc người/xácnhậntrungthành hoặc nghềthợ tự mở. Người quenJory cóthể thử việc hậu cần có lương/ăn tính rõ, chưa mặc định gác thứ9.015 phải hỏi việc thật, sức khỏe/tính nghe lệnh bằng hành động, không kiểm bằng bảng.
 
 ---
 
@@ -144,21 +100,36 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 13 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 14 (để nối mạch và giữ giọng)
 
-Rowan取过桌上的炭条，就着羊皮纸边角的空白处划出了两道竖杠，“白天派出的两名卫兵，专盯这两个最要紧的关口。早上从第一班驳船起锚前三刻钟开始，到引道第一波车流彻底理顺为止，巡查压阵一个半时辰；傍晚从落日开始，到渡口大门落锁为止，再巡查一个时辰。中间清闲的时段，卫兵撤回哨所休整，照旧参与码头的常规轮换。”
-他手里的炭条在纸上顿住，留下一个醒目的黑点。
-“但有两件事必须说明白。第一，引道巡路，只负责公私界桩以内的私家地界，公路上怎么堵、外来人怎么吵，只要没踩进渡口的引道门槛，我的卫兵绝不越权插手，更不会去替你们向过路客商收什么进场杂税；第二，引道大门上锁与登车造册，必须由东家自己派个得力的帐房跟着。每天进出多少辆大车、货物有无毁损，那是你们的人拿笔核对。卫兵手里握的是长矛，只管人不讲规矩，不管箱子里少没少半寸布。”
-一番话说完，屋里安静了片刻。
-Dain仔细核算了一下早晚两头的时辰，紧绷的肩膀微微松弛下来，点了点头。早晚各卡一个半时辰左右的硬差，中间能回营房喝口热水歇歇脚，人手虽然紧凑，但咬咬牙能够轮转得开，不至于把手底下的年轻新兵拖垮。
-Mira看了Rowan一眼，端起冷掉的茶水抿了一口，没再反驳。在码头这种鱼龙混杂的地方，把防人的刀和算账的笔分得这么利落的带兵人，她确实没见过几个。
-Alden盯着纸上被改动划记的几个条目，心里那点想要用长契套住整片杂务的念头彻底打消了。面前这位年轻骑士年纪虽轻，行事却像个打了十几年仗的老行伍，每一寸地界、每一个时辰、每一个银币的分量，都卡得极准，半点便宜也不肯虚让。
-但换个角度想，能把人手和防务算得这么扎实的队伍，真放到了乱哄哄的引道上，也确实比那些只会吹嘘的大话佣兵管用得多。
-“行。”
-Alden从袖子里抽出一卷空白的粗麻纸，就着桌上的墨水和细炭条，把Rowan刚才定下的条件逐字逐句记了下来。
-写完之后，他吹了吹未干的字迹，小心地折好收进怀里。
-“Rowan队长，您定下的这套规矩，听着确实是实打实的章程。不过我毕竟只是个当差办事的管事，这七天加三枚银币、只管治安不包货损的试行法子，我得连夜回禀东家，由东家亲自点头才作数。”
-Alden收好纸卷，抬起头看着Rowan，问出了最后一句关键的话：
-“要是今夜东家点了头、应下了这桩试行的差事——那明早引道巡查的第一趟差，你们打算几刻动身？”
+Dain在一旁凑过来看了一眼，指着其中一行字问道：
+“Alden管事，这上头写着‘引道进出由门栅记数人验放’——到了辰光，真正站在大门口管开锁、点车头数目的，到底是谁？Mira管事成天在跳板上盯着渡船，可分不出手来管大门。”
+“这个放心，东家早就安排好了。”
+Alden笑着摆了摆手：
+“东库里拨了个老杂役，叫老贾克，专管引道那扇铁皮木栅栏。钥匙在他腰上，过往商队的放行竹牌也由他收发。你们的人只要按时站在门旁，帮他镇住场子，别让后头的急脾气车夫抢道打架就行。”
+“那就没问题了。”
+Rowan提起炭笔，在副契下方稳稳签下了自己的名字。
+Alden也利落地副署画押，将一份抄件递给Rowan，另一份小心收好。
+自始至终，双方谁也没提先支取定金的事，账目上那三枚银币，必须等七天期满、差事办妥才算数。
+收好契约，哨所里顿时忙碌起来。
+Bram已经换好了行头，皮甲上的铜扣勒得紧实，腰间挂着宽刃短剑，手里提着一根削得光滑沉重的硬木哨棍。
+他一边检查着靴带，一边转头对旁边的Jory叮嘱：
+“待会儿出了门，你站靠外侧的碎石坡，眼睛放亮堂点。遇上运大木料或者酒桶的重车，先别让他们往斜坡上扎，等前面的空车退出来，再放他们进。”
+Jory嘴里嚼着一块干硬的麦饼，使劲点了点头，把皮护腕扎紧：
+“放心吧Bram大叔，那段路我熟得很，哪块石头容易打滑我都清楚。”
+两人正准备迈出哨所去门栅处交接，营区大门外忽然传来一阵脚步声。
+留守门栅的一名新兵快步跑了过来，站在门槛外向里张望，脸上带着几分犹疑：
+“队头！外头有人找。”
+屋里的几个人齐齐停下了动作。
+“找谁？”Rowan抬起头。
+“说是找Jory的，但又说想见领头的骑士老爷。”
+新兵挠了挠头，压低声音比划着：
+“是个生面孔，背着个破麻布口袋。个头不算顶高，但肩膀宽得吓人，两只手全是灰白色的老茧，指节粗得像铁榔头，就立在大门外头的柳树桩子边上等回话呢。”
+Jory一听，眼睛顿时亮了起来，手里的半块麦饼差点掉在地上：
+“少爷！肯定是他——昨天我跟您提过的那个采石场出来的老伙计，真赶在这个点找来了！”
+Rowan放下手中的巡查簿子，整了整领口的皮革搭扣，转过身来。
+“人在门外是吧？”
+他迈开脚步朝门外走去，神色沉静：
+“走，出去看看。”
 
-(Đoạn 14 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 15 sẽ bắt đầu ngay sau chỗ này.)
