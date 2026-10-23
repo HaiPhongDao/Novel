@@ -4,14 +4,33 @@
 
 | # | Game | Khái niệm mang tới | Arc |
 |---|---|---|---|
-| 1 | 《退潮》 | Mục tiêu · được/mất · thua rồi chơi lại · đọc tín hiệu · độ khó tăng dần · cái thật làm phần thưởng | 1 |
+| 1 | Game câu cá *(tên chưa đặt; lượt 2, Tác giả 23/10)* | Mục tiêu · phản hồi trong tay · vòng kiếm–tiêu–nâng cấp · độ khó tăng dần · cá hiếm để quay lại · cái thật đặt đúng chỗ | 1 |
+| ~~1~~ | ~~《退潮》~~ | Lượt 1 — bị thay ở lượt 2 | — |
 | 2 | *(chưa chốt)* | Nhiều người chơi: luật tạo ra chuyện giữa người với người | 2 |
 | 3 | *(chưa chốt)* | Lựa chọn có hệ quả / câu chuyện do người chơi viết | 3–4 |
 | 4 | *(chưa chốt)* | Hệ thống tự sinh (sinh thái, kinh tế) | 4–5 |
 
 ---
 
-## 1. 《退潮》 (tên tạm) — game đầu tay
+## 1. Game câu cá — game đầu tay (lượt 2)
+
+> Tác giả 23/10: MC làm game "kiểu How to Fish" (Dazed Games, ra 20/8/2026: câu cá vật lý hỗn loạn, 1–4 người; câu → cá lên bờ vẫn đánh nhau → bán → nâng đồ → boss canh đảo mới; cá hiếm, cú hạ đẹp được thưởng thêm). Đây là **tham chiếu cho Agent**, không phải game kiếp trước MC chép: trong truyện không nêu tên; MC đi từ 张大爷 (ông cụ câu cá hai ba tiếng mỗi ngày trong cái hồ có lực cắn câu làm dở) và từ nguyên lý.
+
+**Ràng buộc khi làm (lượt 2):** cổng engine sinh viên khoá sau ~72 giờ kể từ sáng ngày 1; một người; chỉ có tài nguyên công cộng của trường (hồ, cây, đá thô); 367.50元.
+
+**Ý tưởng một câu:** Một cái hồ thô sơ, nhưng cá cắn câu thì kéo thật trong tay; lên bờ rồi cá vẫn giãy, quẫy, tát người, phải vật nhau mới giữ được — rồi đem bán lấy tiền đổi cần, mồi tốt hơn, ra chỗ nước sâu có cá to và dữ hơn.
+
+**Vòng chơi:** thả câu → chờ, đọc phao → cá cắn: lực kéo, dây căng (cái thật nằm ở tay) → kéo lên bờ → cá vẫn quẫy, phải khống chế → bán ở quầy bên hồ → đổi cần / mồi / dụng cụ → vùng nước sâu hơn.
+
+**Tiến triển (dự kiến):** cá thường gần bờ → cá to, khỏe ở chỗ sâu → cá hiếm hiếm khi cắn (lý do quay lại) → một con cá lớn canh lối sang hồ kế (boss). Bản chơi được đầu tiên: một hồ, ba bốn loại cá, quầy bán, hai cấp cần.
+
+**Tông:** vật lý cố ý phóng đại, buồn cười, không giống thật — ngược hẳn chuẩn 真实度 của thế giới. Cái thật duy nhất được đặt vào **lực ở tay và con cá** → chỗ cho 姜禾.
+
+**Mở rộng sau:** nhiều người cùng câu một hồ (1–4 người) — có thể là bước của arc 2.
+
+---
+
+## (Lượt 1) 《退潮》 (tên tạm) — đã bị thay ở lượt 2
 
 **Ràng buộc khi làm:** 46 giờ 学生算力, chỉ có 灰模 miễn phí, một người, ~2 tuần, không tiền mua tài sản. Phải hiểu được trong một phút, phải khiến người ta muốn chơi lại.
 
