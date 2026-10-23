@@ -10,7 +10,7 @@
 
 ⚠️ `bible/` và `plot/` giữ nguyên bản Tác giả duyệt 22/10. Những gì lượt 1 thêm vào (Mok, đống sỏi 112, "Ko" từ Yeg, giao kèo thịt nướng, nhóm năm = bốn ngón + lòng bàn tay) **không** tự sang lượt 2 — chỉ vào canon khi lượt 2 viết ra và qua review. `handoff/canon-card.md` chỉ còn phần thiết lập cố định; state/story-so-far/voice-anchor đã dựng lại theo lượt 2 (tới đoạn 002).
 
-`chapters/doan-003.md` là file trống để dán chính văn. Đoạn 003 mở **chat mới** (session S2): dán `handoff/session-start.md`.
+Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin <số đoạn> --model gemini-3.6-flash` (Tác giả 23/10: 3.8 không dùng được).
 
 ## Writer
 
@@ -23,6 +23,7 @@
 |---|---|---|---|---|
 | 001 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) — chờ Tác giả 2 điểm canon | |
 | 002 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
-| 003 | ✅ | ⬜ file trống — chờ dán | | |
+| 003 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 004 | ✅ | ⏳ Agent chạy qua API (gemini-3.6-flash) | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

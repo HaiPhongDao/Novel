@@ -23,3 +23,10 @@
 - Goblin nói từng từ cụt ("……大……肉……", "走了……回……"); đếm "一、二、三、四、五" rồi "很多".
 - Khe đá rộng một bàn tay trên vách hang chính — chỗ nấp của Khoa và Nub.
 - Mẹ Ổ (巢母): khối thịt trắng xám to như bò, chân tay teo thành nếp, miệng gần như không răng.
+
+**Đã lên trang ở đoạn 3**
+- Cửa hang có hai con già canh, hay ngủ gật bên măng đá.
+- Suối Lạnh (冷溪): rộng 2–3 m, nước trong lạnh buốt, bãi đá đen, cá nhỏ dài một ngón tay; bờ có lớp than bùn, bãi cỏ và đường mòn chuột đồng.
+- Bẫy số 4 (4字形陷阱): cột, thanh chống chéo, thanh mồi khắc ngàm bằng mảnh đá lửa; đè bằng phiến đá phiến xám đen; mồi sâu trắng. Bốn bẫy dọc đường mòn.
+- Tật của Khoa khi đau/bực: vẩy cổ tay, chà tay vào đùi, tặc lưỡi — Nub chép cả ba.
+

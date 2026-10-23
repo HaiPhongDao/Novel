@@ -1,23 +1,23 @@
-## 3. Trạng thái hiện tại (hết đoạn 2)
+## 3. Trạng thái hiện tại (hết đoạn 3)
 
-**Thời điểm:** hoàng hôn Ngày 3, cuối thu.
-**Có mặt:** hang chính của 蝙蝠洞. Khoa và Nub nằm trong khe đá rộng một bàn tay trên vách hang. Gorr vừa đứng dậy khỏi tảng đá giữa hang, dao bên hông, mắt nhìn về góc hố ổ. Mười con đội săn vừa bò vào, tay không, con đầu đàn vai rách. Cả hang im bặt.
+**Thời điểm:** chạng vạng Ngày 4, cuối thu, gió lạnh.
+**Có mặt:** bờ Suối Lạnh dưới chân đồi, ngoài 蝙蝠洞. Khoa xách đuôi con chuột đồng còn ấm (~100 g) bên phiến đá bẫy vừa sập; Nub ngồi bên cạnh, chảy dãi, vừa bị Khoa gạt tay. Ba bẫy còn lại vẫn dựng dọc đường mòn.
 
 **Nhân vật chính biết**
-- Thân goblin non, yếu như mọi con khác; móng mềm, xương chưa cứng.
-- Gorr ăn con non khi đói; đội săn về tay trắng thì con non trong hố là lương dự trữ.
-- Mẹ Ổ nằm ở ngách sâu nhất, Yeg đút thịt cho bà; Yeg giữ đống than không bao giờ tắt.
-- Goblin chỉ đếm tới năm.
-- Nub chép y hệt từng động tác của Khoa, cả động tác thừa.
+- Gorr ăn con non khi đội săn về tay trắng; cứ thế ổ hết trong chừng hai tuần.
+- Lửa duy nhất là đống than của Yeg trong hang; goblin không tự nhóm lửa.
+- Nub xem khoảng ba lần là làm lại y hệt, chép cả động tác thừa và tật.
+- Ăn sống thịt chuột: nguy cơ giun sán, bệnh.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Bộ lạc | 127 (~70 trưởng thành, 37 con choai/tàn tật/già, 20 con non ổ của Khoa) |
-| Ổ của Khoa | 20 = 18 con trong hố + Khoa + Nub ở ngoài |
-| Đội săn | 10 con, gậy nhọn + đá cuội; lần gần nhất: thỏ ~1,5 kg cho 127 miệng; lần này tay không |
-| Khoa đã ăn | gần như không gì trong ba ngày |
+| Bộ lạc | 126 |
+| Ổ của Khoa | 19 = 17 trong hố + Khoa + Nub |
+| Thịt trong tay | 1 chuột đồng ~100 g |
+| Khoa cần | ~200 g thịt/ngày; ba ngày nay chưa ăn |
+| Bẫy | 4 cái dọc đường mòn bên Suối Lạnh |
 
 **Tuyến đang mở**
-- Gorr sắp xuống hố ổ lần hai.
-- Khoa cần nguồn thịt của riêng mình.
+- Có thịt nhưng không có lửa.
+- Gorr sẽ còn xuống hố khi đội săn hỏng.
