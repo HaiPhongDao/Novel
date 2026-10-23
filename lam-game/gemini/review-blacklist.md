@@ -26,3 +26,5 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (007–008) Câu đúc kết sau mỗi nhịp: "这就是游戏机制的力量…", "游戏策划的核心技巧之一…".
 - (005 bản 1, 2) "一字一顿" + lời khích kiểu "你就打算…" khi MC thuyết phục — nhịp kịch lặp; soát và cân nhắc khi biên tập.
 - (005 bản 2) "全潜" — thuật ngữ trôi như "全真潜入".
+- (006) "人民币", "银行LPR" — tiền tệ / lãi suất của nước có thật; dùng "元", "银行同期利息".
+- (006) Thử ở nhà mà có cảm giác toàn thân — 潜入 cần khoang; trình mô phỏng ở nhà chỉ có hình, tiếng, lực tay cầm.
