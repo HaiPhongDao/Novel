@@ -7,6 +7,7 @@ Viết đoạn thứ 12, khoảng 2000 chữ, bằng tiếng Trung.
 - 老李头: ông cụ về hưu ở nhà số 2, ba giờ chiều nào cũng tới ngồi hai tiếng trong 《静湖》 (câu cá).
 - 小郑: thanh niên giao đồ ăn (外卖骑手), khoảng hai mươi tuổi, thỉnh thoảng ghé 深蓝 giết thời gian giữa hai cuốc, lần nào cũng nửa giờ.
 - 《退潮》 bản thử: bãi bồi xám, ba con nước mỗi lượt tối dần (chiều tà → hoàng hôn → tối hẳn); giày cỏ, giỏ tre, móc sắt nhỏ; vỏ ốc và con cua là mô hình thật của 姜禾 (cua kẹp được tay, đau ở mức 痛感上限), chai thuỷ tinh còn là khối xám, trong chai có mảnh hải đồ. Tín hiệu nước lên: sóng ầm, đàn chim xám bay lên, nước buốt ở mắt cá; con nước đầu chỉ tới gối. Nước tới thắt lưng thì bị cuốn về, mất giỏ. Chòi gỗ giữ đồ; trên vách treo ủng, cào, đèn bão — đặt đủ đồ lên kệ gỗ bên dưới thì đổi được (ủng = tám vỏ ốc, cào = ba cua, đèn = hai chai). Trong 境 không có chữ hay bảng nào hiện lên.
+- 许牧 chưa có chứng nhận gì; 《退潮》 là tác phẩm của một sinh viên vừa tốt nghiệp.
 - 许牧 xem góc nhìn người chơi trên laptop, ngồi ghế gấp cạnh khoang số bốn.
 - Hôm nay của cảnh hai là Ngày 9, 九月十一号 (周五), buổi chiều. Số dư của 许牧 766元.
 
