@@ -54,3 +54,7 @@
 
 **Thêm sau đoạn 007**
 - 《退潮》 sau lần sửa đầu: sóng to và đổi thành tiếng ầm dồn dập khi nước sắp lên; đàn chim xám bay vụt lên; nước ở mắt cá lạnh buốt; con nước "试错潮" đầu mỗi lượt chỉ tới gối, mười giây rồi rút, không cuốn giỏ. Chòi gỗ là kho riêng, đồ giữ qua các lượt. Chai thuỷ tinh đựng mảnh hải đồ cũ, mở vùng bãi xa hơn.
+
+**Thêm sau đoạn 008**
+- Người chơi 《退潮》 đi giày cỏ, bùn có thể hút mất giày. Hải đồ đặt lên bàn trong chòi hiện vệt đỏ chỉ ra vùng xa hơn.
+- Đồng hồ trên nóc khoang của 深蓝 đếm phút người chơi ở trong khoang.
