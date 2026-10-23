@@ -4,8 +4,6 @@ Viết đoạn thứ 9, khoảng 2000 chữ, bằng tiếng Trung.
 
 Tiền tình: 许牧 — linh hồn một 游戏策划 chín năm trong thân một sinh viên vừa tốt nghiệp ở 澜城 — làm xong một 境 câu cá, mang tới 深蓝潜入馆 của 老周 试映, chia tiền vé quán sáu, anh bốn. Người chơi đầu tiên là 张大爷 bên tiệm sửa xe, ông khách gần như ngày nào cũng sang quán câu hai ba tiếng trong trò câu cá cũ 《碧波钓叟》. Đây là mấy đoạn văn cuối của đoạn trước:
 
-张大爷翻了个白眼，把虚拟头显一把拉下，扣在了脸上：“废话真多，开机！”
-
 老周在收银台按下了启动按钮。
 
 气泵发出一声低沉的泄压长鸣，7号潜入舱沉重的弧形舱盖带着冰冷的机械咬合声，缓缓向下闭合，将老人的身影彻底隔绝在了幽蓝色的微光之中。
