@@ -8,4 +8,4 @@
 | S4 | 002 bản 2, 003 | `session-start.md` qua `tools/gemini_write.py` (stream) | gemini-3.6-flash; cả hai ĐẠT |
 | S5 | 004, 005 bản 1 | `session-start.md` (stream) | 004 ĐẠT; 005 bản 1 VIẾT LẠI |
 | S6 | 005 bản 2 | `session-start.md` (stream) | VIẾT LẠI |
-| S7 | 005 bản 3 → | `session-start.md` (stream) | 005 ĐẠT |
+| S7 | 005 bản 3, 006 | `session-start.md` (stream) | cả hai ĐẠT |

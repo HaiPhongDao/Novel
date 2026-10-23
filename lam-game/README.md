@@ -23,6 +23,7 @@
 | 003 | ✅ | ✅ (S4, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 | 004 | ✅ | ✅ (S5, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 | 005 | ✅ v3 | ✅ bản 3 (S7); bản 1, 2 → `archive/` | ✅ ĐẠT (bản 1, 2 VIẾT LẠI) | ✅ |
+| 006 | ✅ | ✅ (S7) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 
 ## Mục lục
 

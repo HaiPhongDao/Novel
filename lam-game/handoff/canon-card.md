@@ -47,3 +47,7 @@
 - 姜禾 (ra mắt đoạn 005): 22 tuổi, cùng lớp 造境系, tóc ngắn ngang tai vén sau tai, bút 修补笔 màu bạc ở túi áo. 修补员 hợp đồng tổ 扫描修补 của 长庚造境, ca 9 giờ sáng – 9 giờ tối. Thẳng, kiệm lời. Gọi 许牧 cả tên. Bốn năm cùng lớp, 许牧 gốc và cô nói chưa tới mười câu.
 - Quán mì bò cạnh cổng đông 长庚, 15元 một bát.
 - Đồ người chơi mang về bờ trong 《退潮》 cất trong một chòi gỗ nhỏ trên bờ.
+
+**Thêm sau đoạn 006**
+- Bản thử 《退潮》: gần bờ vỏ ốc, xa hơn cua biết chạy ngang, xa nữa chai thuỷ tinh vùi nửa trong bùn; bùn xa bờ níu chân. Một con nước khoảng ba phút rưỡi. 许牧 xem góc nhìn người chơi trên laptop (造境台 bản sinh viên).
+- Vỏ ốc thật theo 姜禾: đường xoắn thu đều về một phía, mép miệng mỏng thấu sáng, mặt trong bóng như men sứ, vỏ ướt có cát mắc trong rãnh, cầm nhẹ vì rỗng.
