@@ -18,3 +18,9 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (001 bản 2) "国际汽车展会策划" — prompt liệt kê "展会策划" thì Writer gắn 国际 (hai bản liền). Prompt sau không đưa "展会".
 - (001 bản 2) "二锅头" — nhãn rượu có gốc địa phương có thật; rượu gọi chung (白酒、啤酒).
 - (001 bản 2) Lời kể mở bằng "在这个世界，…" rồi giảng luật — vẫn là giảng của người kể, kể cả khi SI đã sửa mục 3.
+- (002–008, gemini-3.6-flash) Lời kể mở bằng "在这个世界，…" rồi giảng — lặp ở 004 dù SI v2.1. Đề xuất chỉnh SI (chờ Tác giả).
+- (005 bản 1, 2) **Chỗ nhắn tin / trả tiền để trống thì Writer điền 微信 / 微信支付.** Prompt phải ghi sẵn "短信", "手机银行". Bản thử 001 (3.6) cũng lọt "微信支付".
+- (004–007) "全真潜入" — thuật ngữ trôi; từ đúng: 潜入 / full-dive không có tên riêng trong chính văn.
+- (006) Chữ hiện trong 《退潮》 ("【获得：…】") — trái thiết kế không giao diện; prompt ghi "trong 境 không có chữ hay bảng nào hiện lên".
+- (005 bản 1) Lời kể vào đầu 姜禾 khi prompt chỉ cho hiện qua lời và việc. Cách giữ: đặt điểm nhìn trong câu sự việc + cho cô một hành động kết phản ứng.
+- (007–008) Câu đúc kết sau mỗi nhịp: "这就是游戏机制的力量…", "游戏策划的核心技巧之一…".

@@ -38,7 +38,8 @@ Thành phố chính: **澜城** — thành phố lớn, trung tâm ngành 造境
 - **境市:** nền tảng phát hành 境; thu tiền theo thời gian 潜入, chia cho 造境师. *(tỉ lệ chia: dự kiến, chốt khi cần)*
 - **造境台:** phần mềm dựng 境 (bản sinh viên / bản chuyên nghiệp). Gồm 素材库 (tài sản dựng sẵn; bản miễn phí chủ yếu là **灰模** — khối xám), 规则脚本 (luật tương tác), 算力 (máy chủ chạy 境).
 - **学生算力:** tài khoản sinh viên đi kèm một lượng 算力; tài khoản hết hạn sau tốt nghiệp.
-- **试映** *(dự kiến)*: 潜入馆 được chạy tác phẩm chưa chứng nhận để thử, không thu phí riêng cho tác phẩm, không quảng cáo ra ngoài; khách trả tiền giờ khoang như thường.
+- **试映** (đoạn 003): 潜入馆 được chạy tác phẩm chưa chứng nhận để thử, không thu phí riêng cho tác phẩm, không quảng cáo ra ngoài; khách trả tiền giờ khoang như thường; có sự cố an toàn thì 造境师 và chủ quán cùng bị trừ điểm.
+- **算力 theo độ thật** (đoạn 004): thế giới 灰模 ~0.2 giờ 算力 cho mỗi giờ người chơi; 观光境 như 《千灯巷》 hơn 3 giờ.
 
 ## Kinh tế đời thường (con số đã dùng)
 

@@ -1,2 +1,5 @@
 # Lịch sử chat của tools/gemini_write.py (riêng từng máy)
 */handoff/gemini-session.json
+
+# Cache Python khi chạy tools/
+__pycache__/

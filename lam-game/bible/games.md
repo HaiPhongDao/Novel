@@ -31,6 +31,8 @@
 
 **Cái thật là phần thưởng (ý tưởng trung tâm):** cả thế giới là 灰模 vì không có tiền. 许牧 dồn 算力 vào **đúng một thứ: món đồ đang nằm trong tay người chơi, sát mắt**. Thế giới xám, nhưng vỏ ốc trong lòng bàn tay thì thật hoàn toàn — vân, độ ướt, độ lạnh, mùi tanh mặn. Thứ cả ngành coi là tiêu chuẩn tối thiểu, ở đây thành phần thưởng. Về kỹ thuật cũng hợp lý: một vật duy nhất ở cự ly gần tốn ít 算力 hơn cả một thế giới thật. Món đồ "thật" cần người dựng giỏi → lý do tìm 姜禾.
 
+**Đã lên trang (002–008):** giày cỏ (bùn hút mất được), móc sắt nhỏ; chai thuỷ tinh đựng **mảnh hải đồ cũ** — đặt lên bàn trong chòi thì hiện vệt đỏ chỉ ra vùng xa hơn (Writer đặt, ⏳ Tác giả); chòi gỗ là kho riêng, đồ giữ qua các lượt; con nước **"试错潮"** đầu mỗi lượt chỉ lên tới gối, mười giây rồi rút (dạy luật không cần chữ); tín hiệu sau lần sửa đầu: sóng to đổi thành tiếng ầm, đàn chim xám bay lên, nước buốt ở mắt cá. Không có chữ hay bảng nào trong 境. Một con nước khoảng ba phút rưỡi. Vỏ ốc thật đầu tiên: `shell_model_v1.mesh` của 姜禾 (九月八号).
+
 *(Dự kiến, chưa chốt: phần thưởng cuối — con nước ròng nhất lúc nửa đêm, người đã đủ dụng cụ đi tới mép bãi và thấy mặt trăng trên biển, được dựng thật trong vài giây trước khi nước lên.)*
 
 **Chi phí vận hành:** thế giới xám → 算力 mỗi giờ rất thấp so với 观光境 → 潜入馆 có lãi hơn trên mỗi giờ khoang. *(Tỉ lệ cụ thể chốt khi lên trang.)*
