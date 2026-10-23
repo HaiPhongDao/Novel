@@ -26,6 +26,10 @@
 
 **Tông:** vật lý cố ý phóng đại, buồn cười, không giống thật — ngược hẳn chuẩn 真实度 của thế giới. Cái thật duy nhất được đặt vào **lực ở tay và con cá** → chỗ cho 姜禾.
 
+**Bản 1 (`Fisherman_Trial_v1.0`, 试映 thứ Sáu — đoạn 006–009):** vào là có cần tre + giun; cá con chỗ nông (野鲫鱼, 5 钱), cá lớn chỗ nước đen (40 钱, giật >200 牛顿), cần sợi thuỷ tinh 80 钱; bàn gỗ có cân, bảng viết than, ống tre nhả đồng. Thiếu: lúc mới vào chỉ có một việc là ngồi câu.
+
+**Bản 2 (Tác giả 23/10 — giống How to Fish lúc đầu):** mới vào **tay không**. Bờ hồ lúc nước cạn: nhặt sò, ốc, mò tôm trong đám cỏ nước, bắt cua (kẹp tay) — đem tới bàn gỗ bán lấy 钱 → mua chiếc cần tre đầu tiên → câu cá con → cá lớn / cần tốt / chỗ nước đen. Mỗi thứ nhặt được là một vật thật trong tay → thêm việc cho 姜禾 (cua, tôm, vỏ ốc). Làm sau buổi 试映 đầu; cổng engine sinh viên đã khoá → dùng máy nhà 姜禾 hoặc thuê 25元/giờ.
+
 **Mở rộng sau:** nhiều người cùng câu một hồ (1–4 người) — có thể là bước của arc 2.
 
 ---

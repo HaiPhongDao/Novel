@@ -33,7 +33,7 @@
 | 007 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
 | 008 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
 | 009 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
-| 010 |  | ⬜ file trống — chờ dán | | |
+| 010 | ✅ | ⬜ file trống — chờ dán | | |
 | 011 |  | ⬜ file trống — chờ dán | | |
 | 012 |  | ⬜ file trống — chờ dán | | |
 
