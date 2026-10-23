@@ -1,0 +1,29 @@
+## 1. Thẻ thiết lập cố định
+
+**Truyện:** 《游戏而已，何必当真》 — đô thị, một thế giới chỉ có thành phố và tổ chức (澜城). 许牧, một người làm 游戏策划 chín năm, tỉnh dậy trong thân thể một sinh viên vừa tốt nghiệp ở thế giới đã có game full-dive.
+
+**Nhân vật chính — 许牧**, 22 tuổi, tốt nghiệp 造境系 của 澜城艺术学院 hai tháng. Gầy, tóc dài quá tai. Thuê phòng 14㎡ tầng sáu, khu nhà cũ không thang máy ở 老城区. Linh hồn: chín năm làm 游戏策划 (hệ thống, màn chơi). Ngoài mặt bình tĩnh, trong đầu tự giễu, gặp chuyện là tính sổ tiền và ngày. Lời kể luôn gọi 许牧.
+
+**Thế giới**
+- 潜入舱 full-dive dân dụng có từ khoảng một năm mười tháng trước. Người chơi nằm trong khoang, giác quan vào hẳn thế giới game. Vào: 潜入; ra: 上浮.
+- Tác phẩm full-dive trong giới gọi là 境; người làm là 造境师, hạng 见习造境师、三级、二级、一级、特级 do 造境师协会 chứng nhận; 造境师 nổi tiếng như minh tinh.
+- 境评: 真实度 40、规模 20、稳定性 20、沉浸度 20. Đạt 见习: tổng ≥ 60 và 真实度 ≥ 20.
+- Nghề trong ngành: 建模师、扫描师、修补员、灯光师、声景师、造境助理、规则脚本员 (lương thấp nhất). Từ "策划" chỉ dùng cho tổ chức sự kiện.
+- Tiền: 元 / 块.
+
+**Nhân vật phụ**
+- 老周 (周海生), 45 tuổi, chủ 深蓝潜入馆. Đường chân tóc lùi tới đỉnh đầu, kính lão đẩy lên trán. Gọi 许牧 là 小许; 许牧 gọi 周哥.
+- 秦怀岳, 一级造境师, tác giả 《千灯巷》 (ngõ đèn lồng, 累计潜入 860万人次). Mọi người gọi 秦老师.
+
+**Địa danh**
+- 澜城 · 老城区 (phòng thuê của 许牧).
+- 深蓝潜入馆: góc phố dưới nhà, sáu khoang, 20元 nửa giờ.
+- 长庚造境: xưởng lớn nhất 澜城.
+
+**Thêm sau đoạn 001**
+- Chủ nhà của 许牧: 王阿姨 (nhắn tin, giục tiền nhà).
+- 《晾衣街》: 许牧 gốc làm ba tháng — dây thép gỉ, ga trải giường ướt, rêu chân tường dán từng li.
+- 《千灯巷》: hơn hai nghìn chiếc đèn lồng đỏ, ngõ lát đá xanh, mưa bụi. 许牧 gốc đã xem bốn năm lần.
+- 规则脚本员: 3,000–4,000/tháng, đặt 空气墙 ở rìa 境 và trigger tuyến tham quan.
+- 《云海栈道》: 观光境 ra tuần trước, nóng được một tuần.
+- 深蓝潜入馆: sáu khoang hai hàng màu đen–xanh, đèn xanh trên nóc là có người; 老周 hay cầm cốc giữ nhiệt bằng gốm tử sa.

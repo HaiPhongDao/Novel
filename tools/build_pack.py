@@ -34,7 +34,8 @@ def header(story: Path) -> str:
 
 
 def latest_segment(story: Path) -> Path:
-    segs = sorted(story.glob("chapters/doan-*.md"))
+    # bỏ qua file trống tạo sẵn để dán chính văn
+    segs = sorted(s for s in story.glob("chapters/doan-*.md") if s.read_text(encoding="utf-8").strip())
     if not segs:
         raise SystemExit("Chưa có đoạn nào trong chapters/")
     return segs[-1]

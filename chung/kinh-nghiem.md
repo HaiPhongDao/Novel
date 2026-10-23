@@ -8,10 +8,10 @@ Bản tổng hợp ngày 23/10/2026 từ Lãnh Chúa Chip, Goblin, Mô phỏng v
 
 | ID | Phát hiện và cách áp dụng | Nguồn / phạm vi |
 |---|---|---|
-| KN01 | **Chốt sự thật và điểm đến, thả cách đi.** Brief quá thưa để Writer tự lấp canon; quá nhiều nhịp, hành động và thoại mẫu khiến văn chạy checklist. Cấp điều cần đúng, diễn biến chính, điểm dừng và vùng tự do. | Lãnh Chúa Chip: test B/C; quy trình chung |
+| KN01 | **Prompt ngắn: phương hướng + số liệu, còn lại Writer tự do** (Tác giả 23/10, thay cách cũ). Vài câu nói nối từ đâu, chuyện đi về đâu, dừng ở đâu; thêm con số giữ độ khó (tiền, hạn, giá). Prompt dài, nhiều thiết lập và điểm bắt buộc làm nhiễu Writer: diễn biến và nhân vật cứng. Chỉ thêm câu khi đoạn trước đã hỏng đúng chỗ đó. Mẫu ở AGENT.md mục 4. | Làm Game: test prompt tối giản 001–002 (`lam-game/test/`), cùng SI và model; trước đó Lãnh Chúa Chip test B/C |
 | KN02 | **Giao sự việc thay cho ý nghĩa muốn người đọc hiểu.** Thái độ đổi bằng việc làm, con số khai thật, vật trao tay hoặc quyết định; câu chỉ đạo kiểu “cho thấy đã kính phục” dễ bị kể lại thành lời giải thích. | Lãnh Chúa Chip 004–005; Goblin 001 |
 | KN03 | **SI mô tả cách viết đúng; ví dụ lỗi để Agent soát.** Trong các lần thử của repo, từ bị cấm và ví dụ sai từng lọt lại vào văn. Cấp từ đúng, mô tả thao tác viết; tránh lặp tính từ phẩm chất khiến Writer diễn chúng vào câu. | Lãnh Chúa Chip; SI-template; đây là quan sát thử nghiệm của repo |
-| KN04 | **Thoại nói trọn ý và đáp nối nhau.** Nhịp đoạn kể ngắn không là hạn mức lượt nói. Giải thích, báo cáo và bàn bạc cần đủ ý; khẩu lệnh có thể gọn. Brief phải tạo chỗ cho người nghe nêu khó khăn, hỏi lại hoặc góp ý. Chỉ kéo dài câu không giải quyết được thoại cụt. | Gareth ở Lãnh Chúa Chip; phản hồi Tác giả và thử v02 của Kỵ sĩ |
+| KN04 | **Thoại nói trọn ý và đáp nối nhau.** Nhịp đoạn kể ngắn không là hạn mức lượt nói. Giải thích, báo cáo và bàn bạc cần đủ ý; khẩu lệnh có thể gọn. Brief phải tạo chỗ cho người nghe nêu khó khăn, hỏi lại hoặc góp ý. Chỉ kéo dài câu không giải quyết được thoại cụt. Cảnh bàn việc: prompt cho mỗi người mối bận tâm và câu hỏi thực tế, không gắn nhãn tính cách, không giao lập luận để trình bày — nếu không thoại thành màn thuyết trình (AGENT.md mục 4.11). | Gareth ở Lãnh Chúa Chip; phản hồi Tác giả và thử v02 của Kỵ sĩ; Làm Game lượt 2 đoạn 005 (Tác giả 23/10) |
 | KN05 | **Giữ phần giải thích có chủ thể.** Phép tính và suy luận có thể thuộc MC; báo cáo thuộc người báo cáo. So sánh trong đầu/miệng nhân vật có thể giữ giọng. Không cắt sạch lời giải thích hoặc so sánh chỉ vì đã gặp một loại giải thích thừa. | Lãnh Chúa Chip: bản sửa quá tay làm mất giọng Gareth |
 | KN06 | **Đoạn là phần của một mạch truyện.** Mở nối đúng khoảnh khắc trước, dừng giữa hành động/thoại/suy nghĩ; việc kế tiếp thuộc đoạn sau. Nhảy thời gian ở trong đoạn. Chỉ lấy khoảng hai cảnh và một lần nhảy làm giới hạn làm việc hiện tại của repo, không nhồi cả arc vào khoảng 2.000 chữ. | Lãnh Chúa Chip 005, 009+; Goblin 003, 006 |
 | KN07 | **Giữ điểm nhìn và ranh giới hiểu biết ngay trong cảnh.** Ai được nghĩ, ai chỉ có lời và việc phải rõ. Điều mới nghe, suy đoán và điều đã kiểm chứng là ba mức khác nhau; tránh lời kể tự xác nhận âm mưu, lý lịch hoặc tải/phương tiện mà nhân vật chưa biết. | Pell ở Lãnh Chúa Chip; log Mô phỏng; Mira ở Kỵ sĩ |
@@ -38,6 +38,7 @@ Log cũ được giữ làm lịch sử. Khi tổng hợp, dùng quyết định
 
 | Cách làm cũ | Cách hiện dùng | Căn cứ |
 |---|---|---|
+| Brief chi tiết: thiết lập đầy đủ, điểm bắt buộc, mục tự do sáng tạo ("chốt sự thật và điểm đến, thả cách đi") | Prompt vài câu: phương hướng + số liệu, Writer tự do phần còn lại | Test Làm Game 23/10; Tác giả xác nhận văn tốt lên rõ |
 | Kết đoạn bằng một hình ảnh khép lại | Mở nối thẳng và dừng giữa mạch | Phản hồi Tác giả ở Lãnh Chúa Chip 009+; AGENT.md mục 4.9 |
 | Writer tự kiểm sau khi viết như khâu duyệt | Agent đọc bản thật và review; chuẩn viết nằm trong SI | Lãnh Chúa Chip; AGENT.md mục 4.10 |
 | Chuyển session sau 2–3 đoạn | Tối đa hai đoạn/session theo quy trình repo hiện tại | Lãnh Chúa Chip 005; quy-trinh-ban-giao.md |

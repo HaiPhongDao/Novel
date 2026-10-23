@@ -48,6 +48,11 @@ Nguồn: `Mo-phong/bible/characters/tham-nghien.md`, `Mo-phong/gemini/review-bla
 - [Review v02-01](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/ky-si/reviews/doan-001-test-v02-01.md) và [v02-02](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/ky-si/reviews/doan-001-test-v02-02.md): chỉ tăng độ dài chưa đủ; mở tình huống trao đổi cho kết quả khá hơn. Toàn đoạn chưa chốt vì vẫn có lỗi dữ kiện.
 - [Review v01-01](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/ky-si/reviews/doan-001-test-v01-01.md): tạm ứng/doanh thu, quân số, số phà và đơn vị tiền.
 
+## Làm Game
+
+- [Test prompt tối giản đoạn 001](https://github.com/HaiPhongDao/Novel/blob/e7694df/lam-game/test/doan-001-lower-prompt.md) và [đoạn 002](https://github.com/HaiPhongDao/Novel/blob/e7694df/lam-game/test/doan-002-lower-prompt.md) (branch `ccr-06ebc233-7uywq9`), prompt ở `lam-game/test/` branch `ccr-984caee6-w5xqdg`: cùng SI v2.1 và gemini-3.6-flash, prompt vài câu thay cho brief chi tiết. Tác giả 23/10: văn tốt lên rõ, lỗi "diễn biến, nhân vật cứng" là do prompt; từ nay prompt chỉ cho phương hướng + số liệu. Nguồn của KN01 bản mới.
+- `lam-game/archive/doan-005-v1.md` + `lam-game/reviews/doan-005.md` (branch `lam-game`): prompt gắn nhãn tính cách và giao lập luận → thoại thành màn thuyết trình; Tác giả 23/10: thoại cứng do prompt. Nguồn của AGENT.md 4.11 và phần bổ sung KN04.
+
 ## Tài liệu quy trình đã có
 
 - [AGENT.md](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/AGENT.md), [blacklist chung](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/chung/review-blacklist.md), [quy trình bàn giao](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/chung/quy-trinh-ban-giao.md) và [SI-template](https://github.com/HaiPhongDao/Novel/blob/ddcf613d395f36696c80abdc4ba9fa1a6fda92be/writer/SI-template).
