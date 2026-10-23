@@ -1,0 +1,14 @@
+{
+  "status": "rejected",
+  "authorApproved": false,
+  "sessionUrl": "https://aistudio.google.com/prompts/138mn8tvIqz3iWnaJfgznxMIUPjCFXo4y",
+  "sessionSegment": 1,
+  "model": "Gemini 3.8 Flash",
+  "thinking": "High",
+  "reasons": [
+    "Lẫn佩雷斯领 từ ví dụSI",
+    "Milo bị đưa sang nhóm bốc dỡ hàng chủ bến thay việc sân đã nhận"
+  ],
+  "proseCharacters": 3298,
+  "promptCharacters": 2904
+}

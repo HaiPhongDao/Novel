@@ -32,3 +32,6 @@ Phản hồi nguyên văn: “Phần thoại của nhân vật đang bị cụt,
 Khi review, đọc liền các lượt nói để kiểm tra mạch hỏi–đáp. Không đánh giá độ lưu loát chỉ bằng số chữ hoặc số câu tăng lên.
 
 Đã triển khai trong [SI v0.2](gemini/system-instruction.md), [ghi chú thay đổi](gemini/thay-doi-v02.md) và [checklist review](gemini/review-blacklist.md). Việc lưu yêu cầu này không đồng nghĩa đã duyệt toàn bộ bản thử hoặc các chi tiết Writer tự thêm.
+
+
+Ghi chú triển khai018: SIv0.2.1 giữ toàn bộ chuẩn thoại v0.2, chỉ làm tên/vai trong ví dụ trung tính sau bản lỗi lẫn địa danh mẫu. [Chi tiết/giả thuyết cần theo dõi](gemini/thay-doi-v021.md). Không ghi thay đổi này là quyết định trực tiếp của Tácgiả.

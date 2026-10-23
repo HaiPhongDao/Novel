@@ -27,3 +27,7 @@ Bốn session thử 001 ngày 23/10/2026. Tác giả chọn v02-02 để viết 
 | [015 lượt 01](https://aistudio.google.com/prompts/1OTkus7YwsPCHVuMZWCoNuRRo-bSrcA5I) | 015 | 2358 ký tự | ĐẠT; đoạn 2/2 của session |
 | [016 lượt 02](https://aistudio.google.com/prompts/1a-W9sJgXGj5C3MYhoEDSCR7qk55nWbjF) | 016 | 2784 ký tự | SỬA NHẸ; đoạn 1/2 của session |
 | [017 lượt 01](https://aistudio.google.com/prompts/1a-W9sJgXGj5C3MYhoEDSCR7qk55nWbjF) | 017 | 2150 ký tự | ĐẠT; đoạn 2/2 của session |
+
+| [016 lượt01 loại](https://aistudio.google.com/prompts/1SXroF5vYnEP_M-K3q60WsqQhm3WITMBU) | 016 | bản sai tiền/quyền | archive, không canon |
+| [018 lượt01 loại](https://aistudio.google.com/prompts/138mn8tvIqz3iWnaJfgznxMIUPjCFXo4y) | 018 | lẫn tên SI/phần việcMilo | archive, dùng SIv0.2.1 từlượt02 |
+| [018 lượt 02](https://aistudio.google.com/prompts/1Uw5IIPb6jsM8CSuaqrNA7O9A9sOFJV27) | 018 | 2614 ký tự | SỬA NHẸ; đoạn 1/2 của session |

@@ -1,6 +1,6 @@
 # Lỗi riêng — Agent soát khi review
 
-Soát cùng chung/review-blacklist.md. Đây là checklist cho bản thử v0.1, chưa có kết quả review chính văn.
+Soát cùng chung/review-blacklist.md. Checklist áp dụng cùng state/review hiện hành; các thay đổi thường lệ đã lên trang được ghi riêng, không ép quân số/dự toán ban đầu phủ định người phụ việc có chi phí riêng.
 
 - Bê tên, câu, cảnh hoặc chuỗi mở đầu từ mẫu thay cho sự kiện mới.
 - Bảng nói chuyện, cho nhiệm vụ, biết lòng trung thành hoặc tự cấp tiền, lương thực, kỹ năng chưa luyện.
@@ -23,3 +23,9 @@ Soát cùng chung/review-blacklist.md. Đây là checklist cho bản thử v0.1,
 - Thêm nhiều chữ nhưng chỉ nhắc lại dữ kiện; câu dài không đồng nghĩa lưu loát.
 
 Giữ khẩu lệnh ngắn khi nó làm đúng việc của khẩu lệnh. Soát phần trò chuyện thường theo mạch ý và cách người nghe đáp, không theo hạn mức độ dài.
+
+## Sau015–017: phân biệt người gác và phụ việc
+
+- Milo ngoài8gác và ngân sáchăn9người cũ; có công/phụăn riêng. Không coi hiện10người là tựđộng10lính, hoặc dùngMilo thế gác.
+- Jory随车换位4/100/tíchlũy0 sau017 là hồsơriêng; Toma thu13/换位5/tíchlũy0. Mỗi người cần luyện/kiểm thật, không chiađiểm hoặc đồngloạt tăng khi một người khá hơn.
+- Rowan vàđội do chủbếnkinhdoanh tư thuê, chưa là tuầnlãnhchúa/quyềncông. Dùngnhầm quyềncông trong lờiJory016 là lỗi của nhânvật được sửa017, không nguồnthiếtlập.

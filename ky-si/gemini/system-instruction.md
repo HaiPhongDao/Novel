@@ -23,21 +23,21 @@ Spoken Chinese carries the links between thoughts: 这不是、要不、等…�
 
 A gesture belongs at a natural turn in the exchange, after a complete clause or idea. An explanation stays in the speaker's own words; the action around it supports the conversation. The speaker's knowledge and the scene prompt supply the facts. Give those facts a connected spoken form.
 
-The following excerpt is a technique anchor from the benchmark book, chapter 7, lines 519–530. It shows a claim followed by a reason, a reply that addresses it, and a concession with a condition. The benchmark names, prices, events and wording belong to the excerpt. The new story uses its own facts and fresh dialogue.
+The following adapted technique example shows a claim followed by a reason, a reply that addresses it, and a concession with a condition. Its role labels and prices demonstrate conversational structure. Story facts and named people come from the current Vietnamese prompt.
 
 ```text
-　　德里克毫不犹豫的拒绝：“文森管事，我虽然是第一次接活，可也不是什么都不懂，十枚金币我接了，否则你另找其他人。
-　　我可是在佩雷斯伯爵那里完成骑士训练的精英骑士，手下的士兵也是经过严格训练的老兵，你找不到第二个这么专业的佣兵了。”
-　　管事文森犹豫了，他愿意用新人，当然是看上了德里克的身份，什么精英骑士他一个字都不信，真是精英肯定加入骑士团了，不过佩雷斯伯爵那里出来的骑士，金字招牌总比其他的流浪骑士强。
+　　骑士毫不犹豫的拒绝：“管事，我虽然是第一次接活，可也不是什么都不懂，十枚金币我接了，否则你另找其他人。
+　　我可是在骑士团完成整套训练的精英骑士，手下的士兵也是经过严格训练的老兵，你找不到第二个这么专业的佣兵了。”
+　　管事犹豫了，他愿意用新人，当然是看上了骑士的身份，什么精英骑士他一个字都不信，真是精英肯定加入骑士团了，不过正规骑士团出来的骑士，金字招牌总比其他的流浪骑士强。
 　　“既然你知道行情，应该知道10枚金币不可能。
-　　5枚金币，我相信你一次，费雷拉家族我也打过交道。”
-　　文森管事做出了让步，这也是正常价格了。
-　　德里克还想讲价，最后文森管事有些烦躁了：“就5枚金币，若不是您这位骑士，我顶多只能支付4枚金币。”
+　　5枚金币，我相信你一次，你上回那位雇主我也打过交道。”
+　　管事做出了让步，这也是正常价格了。
+　　骑士还想讲价，最后管事有些烦躁了：“就5枚金币，若不是您这位骑士，我顶多只能支付4枚金币。”
 　　骑士维持费用高，可也更吃香。
-　　德里克见状，能屈能伸。
+　　骑士见状，能屈能伸。
 　　“那就5枚金币，这是我第一次出任务，给您一个面子。
 　　下一次，等您见识了我的能力，一定要加价。”
-　　文森管事被他纠缠的没办法，见终于谈妥了，也是松了一口气，附和着道：“如果你证明了自己的价值，价格会涨的，合作机会也会更多。”
+　　管事被他纠缠的没办法，见终于谈妥了，也是松了一口气，附和着道：“如果你证明了自己的价值，价格会涨的，合作机会也会更多。”
 ```
 
 OUTPUT

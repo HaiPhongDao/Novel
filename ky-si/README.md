@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Đã viết tới [đoạn 017](chapters/doan-017.md), 2,298 chữ Hán; [review ĐẠT](reviews/doan-017.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
+**Trạng thái 23/10/2026:** Đã viết tới [đoạn 018](chapters/doan-018.md), 2,814 chữ Hán; [review SỬA NHẸ](reviews/doan-018.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -24,7 +24,7 @@ Lịch giờ đã tạm dừng sau khi Tác giả làm rõ: viết liên tục n
 ## Writer
 
 - **Đọc trước khi lập brief, chạy Writer hoặc review:** [Lưu ý của Tác giả](luu-y-tac-gia.md), đặc biệt yêu cầu thoại nói trọn ý, lưu loát và đáp nối nhau.
-- [SI đang thử v0.2](gemini/system-instruction.md): 5.282 ký tự, Gemini 3.8 Flash, Thinking High, Grounding tắt. Bản lưu AI Studio mới nhất: `Kỵ sĩ - SI v0.2 tiếp đoạn 002`; [session bản 002 giữ để đọc](https://aistudio.google.com/prompts/15-RsuX5OmhUNgFZvlTqETUci_Qc8ezU-). SI v0.1 được giữ trong snapshot của hai bản đầu.
+- [SI hiện hành v0.2.1](gemini/system-instruction.md): 5.217 ký tự, Gemini3.8Flash/ThinkingHigh/Grounding tắt. Từ018lượt02 ẩn tên riêng trong ví dụ để giảm lẫn mẫu, giữ chuẩn thoại củav0.2; [ghi chú và giới hạn kết luận](gemini/thay-doi-v021.md). SI trước nằm trong snapshot archive; URL từng phiên trong [sessions](handoff/sessions.md).
 - [Thay đổi về thoại](gemini/thay-doi-v02.md): tách nhịp lời kể với lượt nói, thêm trích mẫu nối lời và mở cơ hội trao đổi trong cảnh tập.
 - [Kế hoạch thử](gemini/ke-hoach-thu.md), [trích mẫu hiệu chỉnh](gemini/mau-giong.md), [gói thử mở đầu](briefs/session-test-001.md).
 - Bốn bản thử 001 dùng session riêng, bản gốc nằm trong archive. Ngày 23/10, Tác giả chọn bản mới nhất để viết tiếp; [review ghi quyết định dùng 001](reviews/doan-001.md). Các review thử vẫn giữ làm lịch sử.
@@ -58,5 +58,6 @@ Lịch giờ đã tạm dừng sau khi Tác giả làm rõ: viết liên tục n
 | 015 | [Brief](briefs/doan-015.md) | [Chính văn](chapters/doan-015.md) | [ĐẠT](reviews/doan-015.md) | Agent review |
 | 016 | [Brief](briefs/doan-016.md) | [Chính văn](chapters/doan-016.md) | [SỬA NHẸ](reviews/doan-016.md) | Agent review |
 | 017 | [Brief](briefs/doan-017.md) | [Chính văn](chapters/doan-017.md) | [ĐẠT](reviews/doan-017.md) | Agent review |
+| 018 | [Brief](briefs/doan-018.md) | [Chính văn](chapters/doan-018.md) | [SỬA NHẸ](reviews/doan-018.md) | Agent review |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).

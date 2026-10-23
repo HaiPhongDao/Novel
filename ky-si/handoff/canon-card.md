@@ -1,4 +1,4 @@
-## 1. Thẻ thiết lập hiện hành — sau 015
+## 1. Thẻ thiết lập hiện hành — sau 017
 
 Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm việc đã được Agent review theo yêu cầu viết liên tục, chưa ghi Tác giả duyệt riêng. State/review ghi đính chính cục bộ và tình hình mới nhất; tương lai trong outline chưa là sự kiện.
 
@@ -11,4 +11,5 @@ Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm 
 - Quỹ sau011=35,7bạc. Đãthu1công phà,3,5chuyến hộxe(1tạmứng nằm trong3cônggốc+0,5thêm); chi0,2ăn chuyến và0,6thưởng3người. Côngchuyến đãthu đủ. Sửa40đồng riêng chủ bến không trừRowan. Chưa phát lươngtháng hay trừdựtoán18gộp.
 - Sau015 sángngày3: phụlục thử đường đãký riêng7ngày ngày3–9, công3bạc trảcuốiđủkỳ/ca; cũ24/30vẫn hiệu lực.84/90hoãn/chưa ký. Hai gác tuầnđường tư giờđông bangày,ít nhất6ởbến; đêmphạmvi cũ. Jack nhânviênchủ giữcổng/chìa/ghi xe, ngoài8gác. Không bảo chứng từng kiện hàng/thuế/đất.
 - Milo23, bạncùngxómJory từng làmđá, phụviệc khôngvũtrang thửngày3–5, công3+phụăn2=5đồng/cuốingàyđãlàm, tổngdựchi15đồng. Sau015 chưa trả. Ngoài8gác/ngân sáchăn9người cũ, chưa giáo/giáp/lươngtháng/hồsơ bảngnghềthợ. QuenJory khôngcòn là người chưa xuất hiện; lời ngậpbãi là chuyện anh kể, chưa xácnhận rộng.
-- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.
+- Sau017 Jory luyện随车换位 có thửthách, hồsơriêng3/100,tíchlũy1→dùng1thành4/100,tíchlũy0. Bước chân tốt thêmchút, khiồn lời vẫnvấp/cầnBramnhắc. ĐiểmToma khôngđổi, khônghồsơthợMilo.
+- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.1 (chuẩn thoại v0.2, ví dụ đã ẩn tên).

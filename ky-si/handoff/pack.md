@@ -12,7 +12,7 @@ Sau đó chờ prompt của đoạn tiếp theo.
 
 ---
 
-## 1. Thẻ thiết lập hiện hành — sau 015
+## 1. Thẻ thiết lập hiện hành — sau 017
 
 Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm việc đã được Agent review theo yêu cầu viết liên tục, chưa ghi Tác giả duyệt riêng. State/review ghi đính chính cục bộ và tình hình mới nhất; tương lai trong outline chưa là sự kiện.
 
@@ -25,7 +25,8 @@ Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm 
 - Quỹ sau011=35,7bạc. Đãthu1công phà,3,5chuyến hộxe(1tạmứng nằm trong3cônggốc+0,5thêm); chi0,2ăn chuyến và0,6thưởng3người. Côngchuyến đãthu đủ. Sửa40đồng riêng chủ bến không trừRowan. Chưa phát lươngtháng hay trừdựtoán18gộp.
 - Sau015 sángngày3: phụlục thử đường đãký riêng7ngày ngày3–9, công3bạc trảcuốiđủkỳ/ca; cũ24/30vẫn hiệu lực.84/90hoãn/chưa ký. Hai gác tuầnđường tư giờđông bangày,ít nhất6ởbến; đêmphạmvi cũ. Jack nhânviênchủ giữcổng/chìa/ghi xe, ngoài8gác. Không bảo chứng từng kiện hàng/thuế/đất.
 - Milo23, bạncùngxómJory từng làmđá, phụviệc khôngvũtrang thửngày3–5, công3+phụăn2=5đồng/cuốingàyđãlàm, tổngdựchi15đồng. Sau015 chưa trả. Ngoài8gác/ngân sáchăn9người cũ, chưa giáo/giáp/lươngtháng/hồsơ bảngnghềthợ. QuenJory khôngcòn là người chưa xuất hiện; lời ngậpbãi là chuyện anh kể, chưa xácnhận rộng.
-- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.
+- Sau017 Jory luyện随车换位 có thửthách, hồsơriêng3/100,tíchlũy1→dùng1thành4/100,tíchlũy0. Bước chân tốt thêmchút, khiồn lời vẫnvấp/cầnBramnhắc. ĐiểmToma khôngđổi, khônghồsơthợMilo.
+- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.1 (chuẩn thoại v0.2, ví dụ đã ẩn tên).
 
 ---
 
@@ -89,13 +90,17 @@ Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranh�
 
 Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhách, nghỉvàthửhướngmới. Jory随车换位3/100积累1→4/100积累0, bước kháhơn nhưngcònvấplời/khiồn cầnnhắc. Rowan/Bram/Jory tới mépcổng trongbến xemhai xe thùnggỗ tới, chưa thayca. Tiền35,7 khôngđổi.
 
+### Đoạn 018
+
+Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Giữkhoảng, ngườixe chènthùng, đỗxe/gánh tạm; Jackghi giờđến/lýdo, khôngxóaphạt. Bram/Jory vềnghỉ, haigácđươngca giữlối. Mira tới cầmphiếuGreyford, chờngườikho. Quỹ35,7. Giữ018lượt02/SIv0.2.1;01lẫnmẫu/việcMilo bịloại.
+
 ---
 
-## 3. Trạng thái sau 017
+## 3. Trạng thái sau 018
 
-Sángngày3, cùngbuổi sau luyện. Rowan/Bram/Jory vừađến mépcổng TRONG bến đểquan sát hai gácđangtuần nhận hai xe thùnggỗ+ngườigánhđi sau; chưa ra thayca. Toma đẩyxe rỗng vềJack ởcổng theo lệnh, không tự đưa tới phà/rời vịtrí cảbuổi; Dain quản người ởbến. Milo vẫnxếpván khôngvũtrang.
+Sángngày3 cổng/sânStonewake. Hai xe thùnggỗ từGreyford, nhómgánh bịlốiphụkho chắn bằngsọt/kiện, chồngtuyến. Nhómđãđặtgánhra mép, xeđầu đỗgầncổng, xesau chờngoài; ngườixe tựchènthùng. Jack ghigiờtới/lýdochậm trênphiếu, khôngbảolãnhxeđượcmiễnphạt. Ngườikho đãđượcnhờra. Mira tócNGẮN vừatới vàcầmphiếugiao đểxem,019 nốiđọcgiấy. Chữđuôingựatrong018 làlỗitả,khôngđổiMira.
 
-Jory随车换位 đãluyện nền3/tíchlũy1, dùng1→4/100积累0, kiểm thấybướcchân khá hơn nhưng nói cònvấp/ngheBram nhắc khiồn. Toma khôngđổi. Quỹ35bạc70đồng=35,7, chưa trả5đồngMilo ngày3/thu3bạctuần.018 nối lượt xe thật, Rowan quan sáttrongquyền, hai línhvừa xongca đượcnghỉ/khôngbịdùnglại vôhạn.
+Bram/Jory đãđượcvềăn/nghỉ trongbến, hai gácmớiđươngca ởlối;Rowan ngoài8giải quyết. Milo vẫnviệc sânDain như015, khôngđược đi bốc dỡhàngchủbến. Quỹ35bạc70đồng=35,7,chưa trảMilo5đồng/thu3bạctuần.
 
 Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
 
@@ -117,39 +122,35 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 17 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 18 (để nối mạch và giữ giọng)
 
-　　随着刚才几次扎实的纠错与对抗，界面上跳出了清晰的反馈：
-　　【卫兵：Jory】
-　　【随车换位：3/100】
-　　【训练积累：1】
-　　Rowan没有丝毫迟疑，心念微动，直接将这一份刚刚成型的积累点数填入了技能之中。
-　　界面的细微字迹随之变换：
-　　【随车换位：4/100】
-　　【训练积累：0】
-　　点数落下的一瞬，Jory的眼神并没突然变得精明狡黠，脸上也看不出什么顿悟的神采。他只是站在泥地上甩了甩有些发酸的胳膊，整个人看起来依旧是个刚摸透点门道的新兵。
-　　“换个方向，再走一遍。”Rowan说道。
-　　Toma调转车头，推着板车从另一侧压了上来。
-　　这一回，当板车逼近的瞬间，Jory的右脚下意识地往斜后方滑开，动作比前几次明显轻捷顺畅了些许，没再出现拖泥带水的停顿。他的身体稳稳落在了侧翼安全线以内，左手抬起引路。
-　　“坡下……坡下有空车上来！”
-　　但在开口说话时，Jory依然有些结巴，舌头在嘴里打了下绊子。
-　　Bram在一旁故意用脚跺了跺地面，大声嚷嚷了一声，Jory的眼神立刻又飘了一下，直到Bram在旁边低声咳了一声，他才猛地回过神，把后半句补齐：
-　　“车往石堆靠！”
-　　身体的避让反应确实扎实了一点，但在嘈杂和叫骂的环境下，这年轻卫兵依旧需要老兵在旁边提点，离独当一面还差得很远。
-　　“队长！”
-　　还没等Jory把气喘匀，辕门外突然传来一声急促的呼喊。
-　　负责在外头巡道的另一名新兵一路小跑进来，神色有些慌张：
-　　“道口外头又来大车了！这次拉的是两车木桶，后头还跟着挑筐的脚夫！Jack大叔在道口喊，说这辆推车得赶紧送去趸船，下头水手要起大件！”
-　　Rowan神色未变，转头对Toma吩咐：
-　　“把车推还给Jack。”
-　　“是！”Toma立刻推着板车朝辕门跑去。
-　　Rowan看了一眼满头大汗的Jory，又看了看站在一旁的Bram：
-　　“把矛带上，水壶放下。跟我去门边站着。”
-　　Jory连忙抓起矛杆，有些紧张地问道：“队长，我们去替他们接车吗？”
-　　“不替。”
-　　Rowan迈步朝木栅门走去，脚下的皮靴踩在泥石路面上沉稳有力：
-　　“外头有轮班的人守着。去门边看，看他们怎么接这批运桶车，看底下的窄坡是怎么走空的。”
-　　三人走到辕门的木桩边缘停住脚步。
-　　门外引道上，新的一批车马已经逼近了道口，赶车汉子的吆喝声和滚滚的车轮声再次在河风中响了起来。
+　　“这车夫是辰时四刻到的辕门前，这一点你我看得清楚，两个守卫也能作证。”
+　　Rowan神色如常，有条不紊地说道：
+　　“他按时到了渡口，堵在门外是因为仓房便道被杂物占了，挑担的人冲乱了引道。
+　　车行的规矩是防车夫偷懒磨蹭，不是防我们渡口自家的道口堵塞。
+　　你在单子上记明他抵达辕门的时间和缘由，他拿回去交差，车行认不认是他们的事，但至少渡口没有平白扣他时间的由头。
+　　我们免不了车行的误工钱，可也不能把仓房堵路的错，全扣在一个赶车人的脚钱上。”
+　　车把式听到这番话，眼睛一下子亮了，连连向Rowan躬身：
+　　“这位长官明理！这位长官明理！只要有渡口的验时戳，回了车行账房就扣不得我这三枚铜板！”
+　　Jack抓了抓头皮，看着Rowan坚定的眼神，心想反正这也不用自己掏钱，还能卖这位新来的骑士一个面子，便哼了一声：
+　　“拿来吧！算你运气好，碰上Rowan队长说话！”
+　　他接过单子，在旁边的木桩上摊开，沾了墨水飞快地写下时刻，按上了木戳。
+　　Rowan看着Jack落笔，接着说道：
+　　“Jack，光记个时刻解不了根本。
+　　打发个腿脚快的零工去后面仓房，把管库的或者码头排班的管事请一个过来。
+　　便道被空筐堵住，仓房和车行的活计撞在一起，门前能让一次，等会儿要是再来三辆运货的大车，两头全得卡死。
+　　这事情得当面把道路的权责划清楚，该搬走的空筐，半个刻钟内必须挪开。”
+　　Jack把凭条还给车夫，听到这话也是叹了口气：
+　　“您说的在理，那帮管库的就知道图自己省事，空筐往便道上一堆，害得我们道口擦屁股。我这就让人去叫！”
+　　正说着，门内连接趸船的下坡木栈道上，忽然传来了急促清脆的皮靴声。
+　　那脚步踩在铺着防滑麻绳的木板上，节奏极快。
+　　只见Mira快步从斜坡下走了上来。
+　　她今天依然扎着干练的马尾，身上的皮甲短坎肩沾着点点江水潮气，两只袖口高高挽起，露出结实白皙的小臂。
+　　她刚走到道口平地，就擦了一把额角被江风吹乱的碎发，眉心微蹙，目光扫过停在门边的运桶大车，清亮的声音直接落了过来：
+　　“怎么回事？下头驳船的空泊位都腾出来两刻钟了，水手连缆绳都备好了，大车怎么全卡在门前不下去？”
+　　她目光一转，落在车夫手里的羊皮纸上：
+　　“拿的是哪一家的交接单？”
+　　车把式赶紧把手里刚刚按了戳的单子往前一递：
+　　“管事小姐，是Greyford车行送来的硬木酒桶凭条！”
 
-(Đoạn 18 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 19 sẽ bắt đầu ngay sau chỗ này.)
