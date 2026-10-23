@@ -22,6 +22,20 @@
 - ⚠️ "鼻腔里钻进来一股…怪味" — mẫu mùi "chui vào mũi" của blacklist chung.
 - ✅ Dừng giữa mạch: "躺平别乱动啊！半小时一到自动上浮——".
 
+## Bản thử API gemini-3.6-flash (SI v2.1 + prompt v2, session riêng, 23/10) — `archive/doan-001-thu-api-gemini-3.6-flash-20261023-0442.md`
+
+Tác giả muốn thử gemini-3.8-flash, nhưng lúc đó 3.8 và 3.7 trả 503 "quá tải" rồi 502 liên tục; mã `gemini-3.5-flash` thì Google trả về modelVersion gemini-3.6-flash. Tác giả chọn chạy 3.6 (gọi streaming; kiểu gọi thường bị 502 qua proxy). 2,320 chữ Hán, thinking high.
+
+**Kết luận: nhỉnh hơn bản thử 3-flash, nhưng có lỗi cứng — không thay bản 2.**
+- ✅ Đủ con số, lời phê nguyên văn; tính sổ đúng (816 / 27 ngày ≈ hơn 30 đồng/ngày); kiếp trước đúng ba điều (+ ba năm dự án, khớp brief).
+- ✅ 许牧 hỏi lại sao quán vắng; 老周 than đúng giọng (tiền, điện, 《云海栈道》 tuần trước); giọng MC nhập vai tốt ("十四连败，达成成就", "同行全灭，还是降维打击？").
+- ✅ Dừng đúng chỗ: nắp khoang số 3 khép, 老周 nói vọng vào.
+- ❌ "【微信支付收款，20元。】" — nhãn hiệu có thật (lỗi bản 1 tái phát) và bảng 【】; tin nhắn/thông báo đều đóng trong 【】.
+- ❌ Rác token: "四十 writ五岁"; lỗi chữ "评审眼眼里".
+- ⚠️ Lời kể giảng thế giới khi MC bật cười ("这个世界在一年十个月前发明了民用潜入舱…") — vẫn cùng dạng lỗi "在这个世界".
+- ⚠️ 老周 tự nói ra luận điểm của truyện ("不好看也不好玩"), lấy mất phát hiện của MC.
+- ⚠️ Sai cảnh: "网吧里昏暗的光线"; 老周 nói "系统会自动弹出来" thay vì 上浮.
+
 ## Bản thử API (SI v2.1 + prompt v2, session riêng, 23/10) — `archive/doan-001-thu-api-20261023-0418.md`
 
 Chạy thử theo yêu cầu Tác giả để xem SI v2.1 qua Gemini API (gemini-3-flash-preview, thinking high, chỉ gửi prompt). Không thay bản 2 đã chốt. 1,975 chữ Hán.
