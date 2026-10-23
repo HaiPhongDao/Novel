@@ -60,6 +60,34 @@ def goi_api(method, path, key, body=None, timeout=900):
         raise SystemExit(f"Lỗi API {e.code}:\n{loi}")
 
 
+def goi_stream(model, key, body, timeout=900):
+    """streamGenerateContent (SSE), gộp lại thành dạng trả về của generateContent.
+    Qua proxy của Claude Code cloud, generateContent hay trả 502 với model mới; stream thì không."""
+    req = urllib.request.Request(
+        f"{API}/models/{model}:streamGenerateContent?alt=sse", method="POST",
+        data=json.dumps(body).encode("utf-8"),
+        headers={"Content-Type": "application/json", **({"x-goog-api-key": key} if key else {})})
+    parts, last = [], {}
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            for line in r:
+                line = line.decode("utf-8").strip()
+                if not line.startswith("data:"):
+                    continue
+                last = json.loads(line[5:])
+                for c in last.get("candidates", []):
+                    parts += c.get("content", {}).get("parts", [])
+    except urllib.error.HTTPError as e:
+        loi = e.read().decode("utf-8", "replace")
+        if e.code in (429, 503):
+            raise SystemExit(f"{e.code} — hết hạn mức hoặc model đang quá tải. Đợi rồi chạy lại.\n{loi}")
+        raise SystemExit(f"Lỗi API {e.code}:\n{loi}")
+    cand = dict((last.get("candidates") or [{}])[0])
+    cand["content"] = {"parts": parts}
+    return {"candidates": [cand], "usageMetadata": last.get("usageMetadata", {}),
+            "modelVersion": last.get("modelVersion"), "promptFeedback": last.get("promptFeedback")}
+
+
 def liet_ke_model(key):
     data = goi_api("GET", "models?pageSize=200", key)
     for m in data.get("models", []):
@@ -148,7 +176,7 @@ def main():
         return
 
     t0 = time.time()
-    data = goi_api("POST", f"models/{a.model}:generateContent", key, body)
+    data = goi_stream(a.model, key, body)
     cand = (data.get("candidates") or [{}])[0]
     text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []) if not p.get("thought")).strip()
     if not text:
@@ -156,7 +184,7 @@ def main():
                          f"promptFeedback={data.get('promptFeedback')}). Chạy lại, nên kèm --moi.")
 
     out.parent.mkdir(parents=True, exist_ok=True)
-    note = f"<!-- {a.model} · thinking {a.thinking} · session {ses['id']} · {datetime.now():%Y-%m-%d %H:%M} -->"
+    note = f"<!-- {a.model} (modelVersion {data.get('modelVersion')}) · thinking {a.thinking} · session {ses['id']} · {datetime.now():%Y-%m-%d %H:%M} -->"
     out.write_text(f"{note}\n\n{text}\n", encoding="utf-8")
     ses["contents"] = contents + [{"role": "model", "parts": [{"text": text}]}]
     ses["doan"].append(n)
