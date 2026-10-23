@@ -179,6 +179,8 @@ def main():
     data = goi_stream(a.model, key, body)
     cand = (data.get("candidates") or [{}])[0]
     text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []) if not p.get("thought")).strip()
+    if text and not cand.get("finishReason"):
+        raise SystemExit(f"Luồng trả về bị đứt giữa chừng (không có finishReason, {len(text)} ký tự) — không lưu. Chạy lại, nên kèm --moi.")
     if not text:
         raise SystemExit(f"Không có chữ trả về (finishReason={cand.get('finishReason')}, "
                          f"promptFeedback={data.get('promptFeedback')}). Chạy lại, nên kèm --moi.")
