@@ -11,7 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
-| [`lam-game/`](lam-game/README.md) | Chỉ Là Game, Cần Gì Thật — người làm 游戏策划 xuyên vào sinh viên vừa tốt nghiệp ở thế giới game full-dive tôn sùng độ chân thực; không kim thủ chỉ | Bible + dàn ý arc 1 + prompt đoạn 001 |
+| [`lam-game/`](lam-game/README.md) | Chỉ Là Game, Cần Gì Thật — người làm 游戏策划 xuyên vào sinh viên vừa tốt nghiệp ở thế giới game full-dive tôn sùng độ chân thực; không kim thủ chỉ | Lượt 2 (prompt ngắn): có bản test 001–002, prompt 003; lượt 1 (001–011) ở `archive/luot-1/` |
 
 ## Cấu trúc
 

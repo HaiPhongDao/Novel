@@ -32,3 +32,4 @@
 2026-10-23 | doan-009 | Chốt; nhận chi tiết phụ: mũ cảm ứng mềm, tàu điện nửa tiếng, 小姜 / 周老板 | Chi tiết phụ | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-010 | Chốt; 姜禾 nhận làm (cua, chai, hải đồ, làm lại vỏ ốc) với ba điều kiện Writer đặt — nhận làm canon | Theo outline 009–011 ("cô đòi làm thêm") | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-011 | Chốt; Agent đặt giá đổi dụng cụ (ủng 8 ốc, cào 3 cua, đèn 2 chai) và trời tối dần; nhận chi tiết Writer: ủng +30%, đèn 5 mét, hải đồ phát sáng mờ trong đêm, 九月十号 = 周四; 老周 muốn cho thử miễn phí | Theo games.md và outline 009–011 | Agent (Tác giả đọc lại sau)
+2026-10-23 | lượt 2 | Bắt đầu lượt 2 từ đoạn 001 theo cách prompt ngắn (phương hướng + số liệu); bản test 001–002 vào `chapters/`; lượt 1 (001–011 + brief, review, gộp) → `archive/luot-1/`; tạo sẵn `chapters/doan-003…012.md` trống | Test prompt ngắn: văn tốt lên rõ, lượt 1 diễn biến và nhân vật cứng do prompt | Tác giả

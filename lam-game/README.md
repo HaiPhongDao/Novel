@@ -16,20 +16,26 @@
 
 ## Trạng thái
 
+**Lượt 2** (Tác giả 23/10): viết lại từ đoạn 001 theo cách prompt ngắn (AGENT.md mục 4). Đoạn 001–002 là bản test prompt ngắn. Lượt 1 (001–011 đã chốt, brief chi tiết) → `archive/luot-1/` (chapters, briefs, reviews, gop).
+
+⚠️ `bible/`, `plot/`, `handoff/` vẫn theo lượt 1 — bản test đã đặt lại số và tên (《秋山古亭》, 陆志, 367.50元, tiền nhà 800元 trước ngày 5…). Cập nhật theo lượt 2 sau khi Tác giả chốt mạch chính.
+
+`chapters/doan-003…012.md` là file trống để dán chính văn.
+
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ bản 2 | ✅ bản 2 (S2); bản 1 → `archive/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
-| 002 | ✅ | ✅ bản 2 (S4, gemini-3.6-flash); bản 1 (3-flash) → `archive/` | ✅ ĐẠT | ✅ |
-| 003 | ✅ | ✅ (S4, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 004 | ✅ | ✅ (S5, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 005 | ✅ v3 | ✅ bản 3 (S7); bản 1, 2 → `archive/` | ✅ ĐẠT (bản 1, 2 VIẾT LẠI) | ✅ |
-| 006 | ✅ | ✅ (S7) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 007 | ✅ | ✅ (S8) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 008 | ✅ | ✅ (S8, mã 3.5-flash → 3.6) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 009 | ✅ | ✅ (S9) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 010 | ✅ | ✅ (S9) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 011 | ✅ | ✅ (S10) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
-| 012 | ✅ | ⏳ bản 1 cụt (stream đứt) → `archive/`; chờ hạn mức gemini-3.6-flash (20 lượt/ngày) | | |
+| 001 | ✅ | ✅ (test) | | |
+| 002 | ✅ | ✅ (test) | | |
+| 003 | ✅ | ⬜ file trống — chờ dán | | |
+| 004 |  | ⬜ file trống — chờ dán | | |
+| 005 |  | ⬜ file trống — chờ dán | | |
+| 006 |  | ⬜ file trống — chờ dán | | |
+| 007 |  | ⬜ file trống — chờ dán | | |
+| 008 |  | ⬜ file trống — chờ dán | | |
+| 009 |  | ⬜ file trống — chờ dán | | |
+| 010 |  | ⬜ file trống — chờ dán | | |
+| 011 |  | ⬜ file trống — chờ dán | | |
+| 012 |  | ⬜ file trống — chờ dán | | |
 
 ## Mục lục
 
