@@ -10,7 +10,7 @@
 
 ⚠️ `bible/` và `plot/` giữ nguyên bản Tác giả duyệt 22/10. Những gì lượt 1 thêm vào (Mok, đống sỏi 112, "Ko" từ Yeg, giao kèo thịt nướng, nhóm năm = bốn ngón + lòng bàn tay) **không** tự sang lượt 2 — chỉ vào canon khi lượt 2 viết ra và qua review. `handoff/canon-card.md` chỉ còn phần thiết lập cố định; state/story-so-far/voice-anchor dựng lại sau review đoạn 001.
 
-`chapters/doan-001.md`, `doan-002.md` là file trống để dán chính văn.
+`chapters/doan-002.md` là file trống để dán chính văn.
 
 ## Writer
 
@@ -21,7 +21,7 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | ✅ | ⬜ file trống — chờ dán | | |
+| 001 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) — chờ Tác giả 2 điểm canon | |
 | 002 | ✅ | ⬜ file trống — chờ dán | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

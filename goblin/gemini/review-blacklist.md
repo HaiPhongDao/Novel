@@ -15,3 +15,8 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này chỉ giữ 
 - **"这章"** lọt vào lời kể ("这章没有…", 003 và 004) — lời của người viết; sửa thành "这里".
 - Thiết lập về mắt goblin bị đọc lại thành câu giải thích ("哥布林的视网膜结构对强光极度敏感", "哥布林的夜视眼睛根本承受不住近距离的明火") — 003, 004.
 - Khuôn "跟…没有任何区别" lặp qua nhiều đoạn.
+
+## Ghi nhận qua review — lượt 2
+- Tên bối cảnh của truyện tham khảo: "魔物森林" (001). Thế giới của ta chưa đặt tên rừng.
+- Từ của người viết lọt vào lời kể: "整场" (001) — cùng loại với "这章" ở lượt 1.
+- Cài cắm bị lời kể gọi tên sớm: "硝酸盐结晶" trên vách hố ổ (001).

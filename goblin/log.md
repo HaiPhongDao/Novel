@@ -29,3 +29,4 @@
 2026-10-23 | dự án | Sau 6 đoạn SI v0: lời kể giải thích (thiết lập đọc lại, vào đầu nhân vật phụ, "对…来说") tăng dần, độ dài 1,2–1,9 lần. Đề xuất sửa SI trước đoạn 007 | Review 001–006 | Chờ Tác giả
 2026-10-23 | dự án | **Lượt 2: viết lại từ đoạn 001 theo prompt ngắn** (phương hướng + số liệu, Writer tự do — AGENT.md mục 4 bản 23/10). Lượt 1 (001–006) → `archive/luot-1/`; canon-card chỉ giữ thiết lập cố định. SI giữ v0 | Tác giả: "Viết lại từ đầu theo prompt đơn giản từ quy ước mới" | Tác giả
 2026-10-23 | doan-001–002 | Prompt lượt 2 không nhắc quê quán kiếp trước của Khoa (KN11; lượt 1 bị kéo sang TQ ba lần) và không kê luật goblin trừ con số đoạn cần | AGENT.md mục 4.1, 4.7 | Agent (ghi log)
+2026-10-23 | doan-001 | Review lượt 2: ĐẠT (sửa nhẹ), 2.328 chữ Hán. Sửa "六提高炉" → "六年高炉". Chờ Tác giả: (1) Khoa đạp con non béo ra chỗ sáng để Gorr chọn nó; (2) lời kể gọi tên "硝酸盐结晶" ở đoạn 1 | Writer tự thêm, chạm động cơ Khoa và cài cắm diêm tiêu | Chờ Tác giả
