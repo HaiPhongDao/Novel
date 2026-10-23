@@ -28,7 +28,7 @@
 | 002 | ✅ | ✅ (test) | | |
 | 003 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
 | 004 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
-| 005 | ✅ | ⬜ file trống — chờ dán | | |
+| 005 | ✅ bản 2 | ⬜ chờ bản 2 (bản 1 → `archive/`) | ❌ bản 1 VIẾT LẠI (thoại cứng do prompt) | |
 | 006 |  | ⬜ file trống — chờ dán | | |
 | 007 |  | ⬜ file trống — chờ dán | | |
 | 008 |  | ⬜ file trống — chờ dán | | |
