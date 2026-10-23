@@ -27,3 +27,7 @@
 - 规则脚本员: 3,000–4,000/tháng, đặt 空气墙 ở rìa 境 và trigger tuyến tham quan.
 - 《云海栈道》: 观光境 ra tuần trước, nóng được một tuần.
 - 深蓝潜入馆: sáu khoang hai hàng màu đen–xanh, đèn xanh trên nóc là có người; 老周 hay cầm cốc giữ nhiệt bằng gốm tử sa.
+
+**Thêm sau đoạn 002**
+- Trong 境: chụp ảnh bằng hai ngón tay khung trước mắt; 上浮 sớm bằng cách nắm tay phải giữ ba giây; đồng hồ đếm ngược thời gian khoang hiện giữa không trung.
+- 《千灯巷》: ngõ đá xanh, mái cong tường trắng, quầy hàng (糖画、馄饨、蒸糕、酒酿圆子 mời nếm); người bán rao một câu, ba mươi giây lặp lại; mọi vật cố định; cuối ngõ là cổng đá, 空气墙 và biển 「游览区域至此」. 真实度 38/40.
