@@ -53,3 +53,16 @@ K05: hạ từ trách nhiệm90ngày rộng sang đề nghị thử có ranh/gi�
 ### Cập nhật 014
 
 K05: ranh/quyền/ca thử được ghi phụ lục, chưa lãnh địa. K02: công3bạc chờ đủkỳ, tiền mặt không đổi. K03: Jack phía chủ giữkhóa/ghi xe, Mira vẫn phầnphà.
+
+
+### Rà tuyến ở mốc 015 — kế hoạch nối, chưa là sự kiện tương lai
+
+- K01: hiệu quả luyện đã lên việc thật ở chuyến xe; lượt tuần đường cần có phản hồi thao tác để quay lại luyện ở017, tránh chỉ bàn hợp đồng.
+- K02: quỹ35,7 sau014, côngthử3bạc tới hếtngày9 mới thu; phụviệc nếu nhận phải có dự toán và chi thật riêng. Không tự thu trước cảtuần.
+- K03: Mira vàJack có phần chuyênmôn/khóa, đội không kiêm tất cả. Oswin chỉ quay lại khi việc sửa cần, không gọi xuất hiện để điểm danh.
+- K04: chưa dùng bảng từ007; quay lại qua người đãtập/kỹnăng thật ở017, không dùng nhìnứngviên để xét trung thành.
+- K05: ký phụlục thử có giới hạn, chưa phongđất hoặc giaoquyềnđườngcông. Payoff tiếp theo là bàn giao/giữ tuyến thực tế, không thêm một hợpđồngrộng để giải quyết.
+
+### Cập nhật 015
+
+K02: dựchiMilo15đồng/3ngày, chưa chi/không phải gác mới. K04: đánhgiáMilo qua làmviệc/lờinói, khôngbảngtrunghthành. K05: xe cá hỏi quyền đội, phải giải quyết bằng ranh và bàn giao thực.

@@ -74,17 +74,23 @@ Tối ngày2 trả lời giờ đầu; sáng ngày3 Alden mang chủ chấp thu�
 
 Bram/Jory sắp giao ca, Rowan quan sát ngoài8. Một người vai rộng/tay chai nghềđá tới cổng tìmJory vàRowan. Rowan vừa bước ra xem, chưa nhận người hoặc trả tiền. Quỹ35,7.
 
+### Đoạn 015 — Milo thử phụ việc
+
+Milo23 từng làmđá, kể bãi ngập khiến mất việc, tới tìm việc. Bram/Jory đi giao ca đúnggiờ. Milo xếp ván có kinh nghiệm kê nhưng cần Dain sửa cách đặt. Nhận thử phụviệc khôngvũtrang ngày3–5, mỗi ngày3đồng công+2phụăn=5đồng trả cuối ngày, tổngdựchi15, chưa trả.
+
+Quỹ35,7,8gác khôngđổi; cộngMilo hiện10người gồmRowan, phụănMilo tínhriêng. Jack gọiRowan ra cổng vì xe cá muốn chen/cho đội khôngquyền giữ. Rowan vừa đi ra,016 nối.
+
 ---
 
-## 3. Trạng thái sau 014
+## 3. Trạng thái sau 015
 
-Sáng ngày3 ngay trước lượt tuần đầu. Phụ lục đã ký, chưa tiền mới. Người quenJory làmđá vừa tới cổng, đứng cạnh gốc liễu với túi vải và tay chai; Rowan vừa đi ra gặp. Chưa tên/nhận/lương. Bram/Jory đã chuẩn bị đi giao ca, không được vì gặp bạn mà bỏ lượt.
+Sángngày3 ở sân/cổng. Milo đang xếp ván dướiDain. Jack gọi gấp vì một xe cá khô ngoài cổng muốn vượt hàng và nói đội khôngquyền giữ; cầnRowan nhìn/xác nhận bàn giao. Rowan vừa quayra,016 nối. Bram/Jory đã tới tuyến/đầuca, không còn ngồi vớiMilo.
 
-Quỹ35,7bạc. Hợp đồngcũ24/30từngày1,12cũ nằmtrong24; dựtoán18chưa chi gộp. Thử đường RIÊNG từsángngày3 tới hếtngày9,3bạc trả cuối sau đủca/ghi bàn giao và không vi phạm nặng, chưa thu.84/90hoãn, không ký. Phần đường chỉ ranh tư/bangày giờđông, chiều kết trước khóa cổng/lúc tối, đêm phạmvi cũ. GiờHán raw là cách gọi tự thêm, không dựng lịchthếgiới; Dain giữ giờnghỉ người tuần. Không bảo chứng hàng/thuế/đất.
+Quân8gác=Dain/Bram+Toma/Jory+4mới; Rowan ngoài8. Bram+Joryđi đường, Dain+Toma+4mới=6ởbến. Milo23 là phụviệc KHÔNGVŨTRANG ngoài8, chưa chínhthức tuyển gác/giáo/giáp; hiện10người tínhcảRowan, dựtoánăn cũ9người khôngđổi. Thử3ngày ngày3–5, mỗi ngày3đồng công+2phụăn=5, trả cuối từngngày;3ngày15đồng dựchi chưa chi. Ngày3nếu làmđủcuối ngàytrả5; chưa dài hạn. Milo tựmuaăn bằngphụăn, sángcóbánh tựmang; không tựlấy suấtđội.
 
-8gác=Dain/Bram hai cựu+Toma/Jory/bốn mới, Rowan ngoài8. Bram+Jory tuầnđầu, Dain+Toma+4mới=6ởbến. Toma chưa giàkinhnghiệm dù được phụDain. Jack tên làm việc của老贾克, nhân viên chủbến giữcổng/chìa/ghi xe, ngoài8; Mira quản phàchuyênmôn,Alden quản hợpđồng,Oswinthợ ngoàiđội. Mộtphà, không lấy chữ驳船 thành phàthứhai. Rowan khôngthiếtquyềnđất/thuế.
+Tiềnmặt35,7bạc. Phụlục tuầnđườngđãký ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30ngày,12đãnhận nằmtrong24, cònhiệu lực;84/90hoãn khôngký. Dựtoántháng18 chưa trừgộp. Hai gác giữđường tư giờđông bangày,6ởbến, đêmphạmvi cũ/đủnghỉ. Jack nhân viênchủ giữchìa/ghi xe ngoàiđội, Mira quảnphà ngang chuyênmôn,Alden quản hợpđồng. Mộtphà; khôngquyềnđất/thuế/giữkhách vôcớ. Kho/lái/bốc dỡ và hàng cònphíachủ/khách, đội giữtrậttự/báosự cố, khôngbảochứnghàng.
 
-Toma长矛收势13/100积累0;随车换位5/100积累0. Khôngbảngđọc người/xácnhậntrungthành hoặc nghềthợ tự mở. Người quenJory cóthể thử việc hậu cần có lương/ăn tính rõ, chưa mặc định gác thứ9.015 phải hỏi việc thật, sức khỏe/tính nghe lệnh bằng hành động, không kiểm bằng bảng.
+Toma长矛收势13/100积累0;随车换位5/100积累0. Chưa cóbảngMilo, nghềthợ/ngựa chưa mở; khôngdùng bảngxétlòngngười. Bãiđá ngập là lờiMilo, chưa biếnthành thiên taiđang tới. Jack khôngtựkiêmquyền xétlỗi/thu phí.016 cần xem vì sao xe bịchặn và chỉ rõlốichờ/lốithoát, không biểu diễnquyền lực.
 
 ---
 
@@ -100,36 +106,33 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 14 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 15 (để nối mạch và giữ giọng)
 
-Dain在一旁凑过来看了一眼，指着其中一行字问道：
-“Alden管事，这上头写着‘引道进出由门栅记数人验放’——到了辰光，真正站在大门口管开锁、点车头数目的，到底是谁？Mira管事成天在跳板上盯着渡船，可分不出手来管大门。”
-“这个放心，东家早就安排好了。”
-Alden笑着摆了摆手：
-“东库里拨了个老杂役，叫老贾克，专管引道那扇铁皮木栅栏。钥匙在他腰上，过往商队的放行竹牌也由他收发。你们的人只要按时站在门旁，帮他镇住场子，别让后头的急脾气车夫抢道打架就行。”
-“那就没问题了。”
-Rowan提起炭笔，在副契下方稳稳签下了自己的名字。
-Alden也利落地副署画押，将一份抄件递给Rowan，另一份小心收好。
-自始至终，双方谁也没提先支取定金的事，账目上那三枚银币，必须等七天期满、差事办妥才算数。
-收好契约，哨所里顿时忙碌起来。
-Bram已经换好了行头，皮甲上的铜扣勒得紧实，腰间挂着宽刃短剑，手里提着一根削得光滑沉重的硬木哨棍。
-他一边检查着靴带，一边转头对旁边的Jory叮嘱：
-“待会儿出了门，你站靠外侧的碎石坡，眼睛放亮堂点。遇上运大木料或者酒桶的重车，先别让他们往斜坡上扎，等前面的空车退出来，再放他们进。”
-Jory嘴里嚼着一块干硬的麦饼，使劲点了点头，把皮护腕扎紧：
-“放心吧Bram大叔，那段路我熟得很，哪块石头容易打滑我都清楚。”
-两人正准备迈出哨所去门栅处交接，营区大门外忽然传来一阵脚步声。
-留守门栅的一名新兵快步跑了过来，站在门槛外向里张望，脸上带着几分犹疑：
-“队头！外头有人找。”
-屋里的几个人齐齐停下了动作。
-“找谁？”Rowan抬起头。
-“说是找Jory的，但又说想见领头的骑士老爷。”
-新兵挠了挠头，压低声音比划着：
-“是个生面孔，背着个破麻布口袋。个头不算顶高，但肩膀宽得吓人，两只手全是灰白色的老茧，指节粗得像铁榔头，就立在大门外头的柳树桩子边上等回话呢。”
-Jory一听，眼睛顿时亮了起来，手里的半块麦饼差点掉在地上：
-“少爷！肯定是他——昨天我跟您提过的那个采石场出来的老伙计，真赶在这个点找来了！”
-Rowan放下手中的巡查簿子，整了整领口的皮革搭扣，转过身来。
-“人在门外是吧？”
-他迈开脚步朝门外走去，神色沉静：
-“走，出去看看。”
+“先说清楚，试工期间你不是渡口的守卫，不发兵甲，不配长矛，也不准擅自插手护卫防务。”
+Rowan看着他的眼睛，语气平静而清晰：
+“这三天你只负责营区内的粗活杂务——搬抬木料、垫平土道、帮着清点修整营地杂物。工钱一天三枚铜子，外加两枚铜子的饭食补贴，每日黄昏交了差事，五枚铜子当场结算。”
+Milo喉结上下滚了滚，眼神顿时活泛起来。
+一天五枚铜子！
+虽然没有正规卫兵的体面，但在眼下这荒乱年月，只要肯出力气，三天就能稳稳拿到十五枚铜钱，而且还是天天结清，半点不拖欠。
+“要是做完了这三天，活计利索、守规矩，往后可以长留。”
+Rowan接着说道：
+“至于住处，营房里住满了卫兵，你暂时不能进去。杂物库房侧面有个堆干柴的披棚，里头干燥避风，晚上Dain会给你抱一捆干净麦秸。干一天有一天的钱，不干就结账走人。听明白了吗？”
+“听明白了！谢队长老爷！”
+Milo脸上露出抑制不住的喜色，深深地躬下身去：
+“您放心，木料泥水这些粗活全交给我，我绝不偷懒，也不给营里添乱！”
+对Rowan而言，这笔账算得很清楚。
+队里现有的三十五枚多银币是安身立命的老本，正规卫兵的伙食预算更是精确扣在九张嘴上。
+给Milo单独算两枚铜子的饭补，由他自己去渡口外的小摊买麦饼或者搭伙，既不打乱原本九人伙食的定量采购，又多了一个扎实的劳力。
+真要算起来，今天满打满算也就是预备着黄昏时支给他五枚铜子，根本伤不到账目筋骨。
+“行了，别光顾着谢。”
+Dain在后头招了招手，面无表情地吩咐道：
+“少爷既然定了规矩，你就先把西墙这摊杂木理顺当。把长木和短料分开放，底下全都垫上隔条，动作放稳点——”
+老兵话音未落，大营外头突然传来一阵急促的脚步声。
+紧接着，一个破锣般的苍老嗓门在木栅门外扯开了：
+“Rowan队长！Rowan队长在里头吗？我是Jack！”
+那看管大门锁钥的老杂役气喘吁吁地扶着门框，探进半个脑袋，手里还攥着两支沾着红漆的过道竹签，扯着嗓子大喊：
+“快出来瞧一眼！引道头一拨车马被你们的弟兄给压住了，可外头有个运干鱼的急脾气车夫非要硬冲，说你们没权留他！您得亲自到门前过个目、画个字啊！”
+阶前的Dain眉头猛地一皱。
+Rowan神色未变，只是转过身，抬手整了整腰间的剑柄，迈步朝着大门方向走去。
 
-(Đoạn 15 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 16 sẽ bắt đầu ngay sau chỗ này.)

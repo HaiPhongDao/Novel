@@ -1,0 +1,11 @@
+Viết đoạn015 khoảng1800–2200 chữ Trung, chỉ chính văn. Mở ngayRowan ra cổng sángngày3 gặp người làmđáJory giới thiệu.
+
+Dữ kiện:8gác=Dain/Bram hai cựu+Toma/Jory/bốn mới;Rowan ngoài8. Bram+Jory phải giao ca tuầnđầu bâygiờ, sáu còn lại ởbến, Rowan gần cổng. Jack (raw014老贾克, nay viếtJack) là người chủbến giữchìa/ghi xe ngoàiđội; Stonewake giữLatin. Mộtphà, Mira chuyênmôn ngangvai. Phụlục riêng đãký7ngày ngày3–9,3bạccuốikỳ, chưa thu; cũ24/30giữ nguyên,12đãnhận trong24. Quỹ35,7, dựtoán18tháng chưa chi. Toma thu giáo13,换位5,tíchlũy0 khôngđổi. Người mới chưa là gác và bảng không đọc được lòng người.
+
+Nhân vật phụ làmviệc để triển khai: tênMilo,23, bạncùngxómJory, từng bãiđá, vai rộng/taychai, túivải cũ. Đói việc nhưng có tựtrọng và chút kinh nghiệm xếp vật nặng; không biến anh thành cựu binh hoặc thiên tài mọi nghề. Trong túi có ít bánh khô mang cho buổi sáng, không buộc ai cấp ăn trước đã thỏa thuận.
+
+Chuyện xảyra: Rowan hỏi tên/việc cũ/lýdo rời bãi. Milo tự trảlời những gì biết, Jory muốn giúp bịBram gọi đi đúnggiờ tuần, không đứng bảo lãnh mọi điều về bạn. Đối thoại có câu hỏi thật từMilo về việc giữgiáo hay bốcđồ, chỗăn/ngủ và tiền, không phỏngvấn đọc bảngtiêu chí. Rowan nhận ra hiện cần người phụ chuyển vật tư sân, nhờDain giao một việc nhỏ bằng vật tư của đội, như xếp ván cũ sátmái nhà; giữ ở sân/cổng trong phạmvi Dain vẫn giữbến. Milo biết kê ván chứ không chỉ nhấc nặng; có một chỗ làm theo thói quen chưa nghe hếtlệnh, dừng sửa khi nhắc. Thểhiện bằng hànhđộng cụthể, không tìnhhuống tai nạn/sức mạnh siêunhiên.
+
+Sau khi xem,Rowan vàMilo thỏa thuận thử3ngày phụviệc KHÔNG VŨTRANG ngày3–5. Mỗi ngày3đồng công+2đồng phụăn=5đồng, trảcuối mỗi ngày đã làm; cả3ngày tốiđa15đồng chưa phải đãchi. Chưa cấp giáo/giáp/lươngtháng hay đếm gác thứ9; nếu ở lại qua hôm sẽ có chỗ trong khu phụ saukhi Dainchỉ. Giải thích hômnay đã thử cócông, không làm khônglương. Chưa trả tiền ở015, quỹ35,7, nghĩa vụcuốingày3nếu làmđủ là5đồng. Đội thường9miệngăn cộngMilo phụviệc thành10người hiệndiện, không ép khoản phụăn vào dựtoán9người cũ.
+
+Dừng giữa việc: Dain vừa giao Milo giữđầu ván/kê chođúng, có tiếngJack ngoài cổng gọi cầnRowan xácnhận đường giao ca tuầnđầu.016 nối Rowan xem bàn giao. Một cảnh cổng/sân gần nhau, không nhảy buổi/ngày. Tự do chi tiết, cáchMilo nói và lúngtúng, người cũđáp; giữ điểmnhìnRowan. Kết giữa tiếng gọi, tránh kếtluận bài học.

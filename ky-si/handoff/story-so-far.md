@@ -43,3 +43,9 @@ Chưa ký/thu. Quỹ35,7. Một số giờ trong thoại mâu thuẫn được g
 Tối ngày2 trả lời giờ đầu; sáng ngày3 Alden mang chủ chấp thuận. Ký phụ lục thử riêng ngày3–9, hai đợt ban ngày, hai gác đi và ít nhất sáu ở bến, đêm phạm vi cũ.3bạc chỉ cuối kỳ, cũ24/30 còn hiệu lực. Jack (raw老贾克) giữ chìa/ghi xe ngoài đội.
 
 Bram/Jory sắp giao ca, Rowan quan sát ngoài8. Một người vai rộng/tay chai nghềđá tới cổng tìmJory vàRowan. Rowan vừa bước ra xem, chưa nhận người hoặc trả tiền. Quỹ35,7.
+
+### Đoạn 015 — Milo thử phụ việc
+
+Milo23 từng làmđá, kể bãi ngập khiến mất việc, tới tìm việc. Bram/Jory đi giao ca đúnggiờ. Milo xếp ván có kinh nghiệm kê nhưng cần Dain sửa cách đặt. Nhận thử phụviệc khôngvũtrang ngày3–5, mỗi ngày3đồng công+2phụăn=5đồng trả cuối ngày, tổngdựchi15, chưa trả.
+
+Quỹ35,7,8gác khôngđổi; cộngMilo hiện10người gồmRowan, phụănMilo tínhriêng. Jack gọiRowan ra cổng vì xe cá muốn chen/cho đội khôngquyền giữ. Rowan vừa đi ra,016 nối.

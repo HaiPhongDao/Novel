@@ -61,3 +61,7 @@ Tối ngày2: đề nghị thử7ngày từ3–9,3bạc trả cuối kỳ, giữ
 ### Diễn biến làm việc 014
 
 Sángngày3: ký thử7ngày ngày3–9,3bạc cuối kỳ. Bram/Jory chuẩn bị tuầnđầu,6gác ở bến. Người quenJory tới xin gặp, chưa nhận.
+
+### Diễn biến làm việc 015
+
+Sángngày3: nhậnMilo thử phụviệc3ngày tới ngày5,5đồng/ngày trảcuốingày, chưa chi. Bram/Jory tới tuầnđầu. Jack gọi việc xe cá ởcổng.
