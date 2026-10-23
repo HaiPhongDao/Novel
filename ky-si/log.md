@@ -56,3 +56,5 @@
 2026-10-23 | làm liên tục theo quota | Tác giả: “Nah, tiếp tục làm đến khi hết quota đi”. Dừng lịch giờ để tránh hiểu sai, tiếp tục vòng Writer ngay trong lượt hiện tại tới giới hạn tài khoản; giữ checkpoint sau mỗi đoạn, không tự dùng lượt reset quota | Tác giả làm rõ phương thức tiếp tục |
 
 2026-10-23 | 011 | Giữ011: trở về đúng chiều ngày2; chỉ hẹn gặp người xin việc ngày3. Dự thảo84/90 đã gồm12 cũ, chưa ký/thu. Rà và loại câu đếm sai cục bộ khỏi canon, giữ8gác và35,7bạc. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
+
+2026-10-23 | 012 | Giữ012: cùng90ngày tăng12; Mira chỉ khóa và góc khuất. Dừng đã tối ngày2, mọi phạm vi chưa ký, quỹ35,7 và8gác. Bổ sung hồ sơ sau khi lệnh tạo spec lỗi; raw/brief đã có commit trước, không sửa lịch sử Git. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |

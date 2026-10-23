@@ -41,3 +41,7 @@ K02: chuyếnhộ tổngthu3,5; chi góiăn0,2 vàthưởng0,6; quỹtừ33 saup
 ### Cập nhật 011
 
 K02: quỹ35,7 không đổi; nguồn thu định kỳ phải xét cùng phạm vi. Dự thảo84/90 tăng12 so72/90, còn nhiều nghĩa vụ chưa đọc. K05: chưa đổi lính hiện có lấy việc giữ thêm đường/sân; ứng viên chỉ được gặp ngày3.
+
+### Cập nhật 012
+
+K03: Mira nêu giới hạn kiểm soát khóa/cửa. K05: thêm12/90 chưa bù trách nhiệm rộng; phạm vi/giờ còn bàn. K02: chưa dòng tiền mới.

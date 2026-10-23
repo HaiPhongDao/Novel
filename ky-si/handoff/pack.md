@@ -12,23 +12,19 @@ Sau đó chờ prompt của đoạn tiếp theo.
 
 ---
 
-## 1. Thẻ thiết lập làm việc sau đoạn 001
+## 1. Thẻ thiết lập hiện hành — sau 011
 
-Tác giả chọn bản 001 v02-02 để viết tiếp ngày 23/10/2026. Sự kiện dưới đây đã lên trang; phần tương lai trong bible/outline vẫn là dự kiến. Ghi chú biên tập được ghi riêng ở ghi-chu-noi-001-002.md.
+Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm việc đã được Agent review theo yêu cầu viết liên tục, chưa ghi Tác giả duyệt riêng. State/review ghi đính chính cục bộ và tình hình mới nhất; tương lai trong outline chưa là sự kiện.
 
-- Rowan, 22 tuổi, kỵ sĩ vừa giải ngũ, trực tiếp chỉ huy; xuyên tới bốn ngày; sẹo dưới cằm. Chỉ mình biết bảng.
-- Stonewake gần Greyford; Rowan giữ bến, Mira quản vận hành phà; Alden quản hợp đồng thay chủ bến, sẽ xuất hiện khi công việc cần.
-- Tám người gác = hai cựu binh (Dain 38 tuổi, sẹo má trái) + sáu người mới (Toma 19 tuổi, từng làm nông). Cộng Rowan là chín; người làm phà ngoài đội gác.
-- Bảng chỉ củng cố kỹ năng của đúng người đã luyện. Toma thu giáo 12 → 13/100, tích lũy 1 → 0; vẫn mệt. Hồ sơ không chứng minh lòng trung thành hoặc năng lực thực chiến.
-- Vốn 20 + tạm ứng 12 = tiền mặt 32 bạc; hợp đồng tổng 24 bạc/30 ngày. Dự toán 18 chưa chi thật. Phí phà thuộc sổ chủ bến.
-- Có một phà. Hẹn bốn xe, Mira thấy sáu tới; hai xe thêm phủ bạt. Hàng bên trong sẽ xác nhận bằng mở bạt. Lượt chở do Mira quyết định sau kiểm tra.
-- Mọi tên giữ Latin; kỹ năng 长矛收势, tích lũy 训练积累. Người gác gọi Rowan大人.
-
-## Dữ kiện làm việc ở bản thảo 002 — chưa có duyệt riêng của Tác giả
-
-- Hai nhóm bốn giữ đường/sân; sáu xe còn trên bãi; mở kiểm hai xe có dụng cụ và phụ tùng máy xay, giấy ghi Greyford.
-- Mira chọn riêng từng xe phụ tùng. Alden đề nghị công ghìm dây/giữ đường ngoài hợp đồng phòng vệ; Rowan chưa đáp, chưa chốt giá hay nhận tiền.
-- Cân nặng, thời gian, cách sửa phà và cách ghìm dây chưa xác nhận. Ghi chú review/state ưu tiên hơn lời ước lượng trong bản thảo.
+- Rowan22, kỵ sĩ vừa giải ngũ, trực tiếp chỉ huy; xuyên tới bốn ngày trước mở truyện; sẹo dưới cằm. Chưa có lãnh địa/quyền thu thuế. Chỉ mình biết bảng.
+- Stonewake gần Greyford, một phà chở xe. Mira30, tóc ngắn, quản vận hành chuyên môn; Alden51, ngón tay dính mực, thay chủ bến tư quản hợp đồng; Oswin42 thợ mộc theo việc. Họ ngoài đội gác.
+- Đội8: Dain38 (cựu binh, sẹo má trái), Bram (cựu binh thứ hai), Toma19 (từng làm nông), Jory và bốn người mới chưa tên. Hai cựu binh+sáu mới=8; Rowan ngoài8, tổng9miệng ăn. Người quen làm đá Jory chỉ được hẹn gặp ngày3, chưa tuyển/lương.
+- Bảng tên面板 chỉ Rowan thấy, không nhân cách. Chỉ củng cố kỹ năng đúng người/đúng kỹ năng sau luyện thực, một tích lũy đổi một thành thạo. Không chuyển điểm giữa người/kỹ năng, không tạo tiền/vật tư, không xóa mệt, không đọc lòng người/dò xa/ban kinh nghiệm thực chiến. Hồ sơ không chứng minh trung thành. Hỗ trợ thợ/ngựa chưa thử/chốt.
+- Toma长矛收势13/100,训练积累0 sau001;随车换位5/100,训练积累0 sau007. Cải thiện nhỏ trong thao tác, còn cần khẩu lệnh dưới sức ép. Không tự tăng khi chỉ kể tiến bộ.
+- 1bạc=100đồng. Vốn20+tạmứng12=32 mở đầu. Hợp đồng24/30ngày,12 nằm trong24. Dự toántháng18=lương9(Dain2+bảy người1)+ăn6+vật tư3; chi thật mới trừ tiền mặt. Tiền phà/đỗ thuyền thuộc sổ chủ bến.
+- Quỹ sau011=35,7bạc. Đãthu1công phà,3,5chuyến hộxe(1tạmứng nằm trong3cônggốc+0,5thêm); chi0,2ăn chuyến và0,6thưởng3người. Côngchuyến đãthu đủ. Sửa40đồng riêng chủ bến không trừRowan. Chưa phát lươngtháng hay trừdựtoán18gộp.
+- Cuối chiều ngày2, nhóm4(Rowan,Bram,Toma,Jory) đã vềStonewake trước tối; Dain+4mới giữ bến trong ngày. Alden mở dự thảo84bạc/90ngày từngày1,12cũ nằm trong84; chưa ký/thu thêm, hợp đồngcũ cònhiệulực. So cùng90ngày cũ72/mới84, tăng12cảkỳ. Dự thảo thêm đường dẫn thượng lưu/sân hàng, chưa quyền đất/thu phí.
+- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.
 
 ---
 
@@ -108,19 +104,25 @@ Rowan cho người quen Jory tới cổng bến ngày 3 để gặp mình/Dain, 
 
 Alden đưa dự thảo thay hợp đồng cũ bằng 90 ngày tính từ ngày 1, tổng 84 bạc đã gồm 12 tạm ứng, mở phạm vi sang đường dẫn thượng lưu và sân hàng ven sông. Chưa ký hoặc trả thêm. Chốt cuối: Alden chỉ mục ranh phòng vệ trên giấy, Rowan sắp đọc. Một câu Dain đếm sai đã bị review loại khỏi canon: luôn hai cựu binh+sáu mới=8 gác, Rowan ngoài đội.
 
+### Đoạn 012 — ranh trách nhiệm
+
+Rowan tính thêm12bạc cả90ngày, đọc nghĩa vụ bảo đảm hàng và gọi đêm. Dain nêu thiếu ngủ; ra sân, Mira chỉ góc khuất và khóa cửa do người bốc dỡ giữ. Rowan đề nghị ranh/giờ rõ, giữ trật tự thay bảo chứng hàng.
+
+Về nhà trực đã tối ngày2, Alden đánh dấu giấy, hỏi thực sự nhận thêm việc nào. Chưa ký/thu; quỹ35,7 và8gác giữ nguyên.
+
 ---
 
-## 3. Trạng thái sau 011
+## 3. Trạng thái sau 012
 
-Cuối chiều ngày 2 tại nhà trực Stonewake; nhóm đã về trước tối, tám gác tái hợp. Alden vừa mở dự thảo và chỉ phần ranh phòng vệ để Rowan đọc. 012 nối ngay đây. Ngày 3 người quen làm đá của Jory có thể tới cổng xin gặp, chưa có mặt/chưa nhận/chưa có lương.
+Tối ngày2, vừa từ sân về nhà trực Stonewake, đèn dầu sáng. Alden đánh dấu câu bảo đảm toàn vẹn/gọi là có và khóa cửa phụ, hỏi Rowan nhận được việc gì.013 nối ngay câu trả lời, không trở lại chiều hoặc ngày3.
 
-Quân số: Dain+Bram (hai cựu binh)+Toma+Jory+bốn mới chưa tên=8 gác; Rowan ngoài đội, tổng 9 miệng ăn thường xuyên. Câu 'Dain và tám lính mới' trong 011 là lỗi lời thoại đã review, không tăng quân. Lương 9 bạc/tháng: Dain2+bảy người1; thực phẩm6, vật tư3, dự toán18 chưa tự trừ. Chưa chốt chính sách cấp áo/giáp mới hay tuyển dự bị. Mira/Alden/Oswin/lái thuyền không thuộc đội.
+Quỹ35,7bạc không đổi; chuyến hộ đã thu đủ, chưa khoản mới phải thu. Hợp đồng cũ24/30 từngày1 có hiệu lực,12đã nhận nằm trong24. Dự thảo84/90 từngày1 đãgồm12cũ, chưa ký/thu thêm; cùng90ngày tăng12=4/30. Phạm vi/giờ Rowan đề nghị còn đang bàn. Dự toán18tháng chưa chi gộp: lương9(Dain2+bảyngười1),ăn6,vật tư3.
 
-Tiền mặt35,7 bạc; không thu chi trong011. Chuyến hộ đã thanh toán xong, tổngthu3,5, góiăn0,2, thưởng0,6. Không còn công chuyến chờ thu. Hợp đồng cũ24 bạc/30 ngày đang hiệu lực,12 đã nhận nằm trong tổng24. Dự thảo Alden: thay bằng84 bạc/90 ngày từngày1,12 cũ nằm trong84, chưa nhận thêm/chưa ký. So cùng90 ngày: cũ72, mới84, tăng12 cả kỳ (=4 cho30 ngày), chưa rõ các nghĩa vụ/đợt trả. Phạm vi đề nghị thêm đường vào thượng lưu và sân hàng ven sông; chưa có quyền thu phí hoặc sở hữu.
+8gác=Dain+Bram+Toma+Jory+4mới, Rowan ngoài8,9miệng ăn. QuenJory được tới cổng ngày3 xin gặp, chưa hiện/chưa nhận/lương. Mira/Alden/Oswin ngoài đội. Khi2gác đi đường phải giữ6ởbến, không giải quyết bằng lính chưa tuyển.
 
-Dain báo tình hình bến yên sau khi Rowan về. Hai thuyền hàng khách ghé không phải tăng số phà; Stonewake vẫn một phà. Chưa có chứng cứ nhóm tội phạm lớn. Toma:长矛收势13/100积累0;随车换位5/100积累0, chưa tăng mới.
+Mira báo góc khuất và khóa cửa phụ do hai đầu bốc dỡ giữ, chưa đổi khóa/giao quyền. Mất hàng là rủi ro giả định, chưa xác nhận nội gián. Lời Alden kể về tháng trước là lời kể, không băng lớn đã chứng minh. Lịch hai ca4trong thoại là tính sơ bộ, cần tính giờ nghỉ thật.
 
-012 đọc kỹ giấy, hỏi Dain/Mira về thực tế giữ ca/đường trước khi nhận; chưa tự ký. Điều khoản bất lợi phải là chuyện hợp lý của chủ bến muốn gộp rủi ro, không diễn thành Alden phản diện tự nhận lừa. Người xin việc chưa thành nguồn nhân lực giải quyết hợp đồng.
+Mộtphà; quyền kho/lái/bốc dỡ của chủ và người làm chuyên môn. Rowan chưa có đất/quyềnthuế. Toma长矛收势13/100积累0,随车换位5/100积累0, không tăng.013 dùng việc thực đàm phán giới hạn/thử, chưa tự tăng quân hoặc ký dài hạn.
 
 ---
 
@@ -136,22 +138,21 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-Rowan坐在木椅上，倒了一碗微温的水，“你算得没错。咱们手头虽然收进了这趟运费，结余有三十五枚银币七十枚铜钱，但这不是净落入口袋的利钱。月底八个人的饷银要发，日常的嚼谷更是一天都断不得。没有能稳定产出的长期防务差事，一个人都不能随便乱添。”
-Dain这才松了口气，点头道：“是这个理。真要是个好苗子，留着打打下手、当个预备役倒还行，但月俸绝不能一开始就定死。”
-两人正对着桌上的营防轮值簿细算着接下来的值班批次，外头门廊上忽然传来了一阵平稳而轻快的皮靴脚步声。
-“Rowan队长在里头吗？”
-门帘一挑，渡口掌柜跟前的账房Alden迈步走了进来。这位干瘦的中年文吏穿一身齐整的深灰布袍，手里小心翼翼地捧着一卷用麻绳系紧、封着暗红火漆的厚羊皮纸卷。
-Alden脸上带着几分客套而热切的笑意，进门便微微欠身：“队长回得可真准时。刚才在货运码头那边听船夫说，您带人亲自押着城里药行的大车去Greyford，连借道过街都办得滴水不漏，主家管事回来直夸您手下的人规矩严整呢。”
-“拿了雇主的钱，自然得把事办周全。”
-Rowan站起身来，目光落在他手中的羊皮卷上，“Alden先生这个时候特意过来，是渡口有什么文书要交代？”
-“不是交代，是咱们东家的一桩大诚意。”
-Alden走到粗木桌前，将那卷羊皮纸平平放好，用手轻轻按住，压低了嗓音，“东家这两天把您和弟兄们的行事全看在眼里，心里踏实得很。先前咱们签的那份三十天、二十四枚银币的短契，东家觉得太委屈您的队伍了，而且来回续签也麻烦。东家的意思是——不如直接换成一份长契。”
-Rowan眉梢微挑，神色平静：“怎么个长契法？”
-“自第一天进驻算起，一口气签足九十天，雇金总额给到整整八十四枚银币！”
-Alden比划着手势，眼神里闪着精明的光芒，“先前预付给您的那十二枚银币，自然直接算在这八十四枚的总数里头，后续分期兑付。不过，既然总额提到了这个份上，防务的范围嘛……东家希望除了眼下这片码头栈桥和主货栈，连带着渡口上游的那条入场引道，还有靠着河滩的那大片停放货车、堆杂石料的空置货场，全一并交由您的队伍来弹压看管。东家就想买个安心，找支能常驻立威的硬手队伍把场子彻底撑住。”
-说着，Alden用手指挑开封绳，将羊皮纸向Rowan的面前推了推，指向其中一段墨迹浓重的条款：
-“Rowan队长，您瞧瞧，这里就是新拟定的防务地界详目……”
+Rowan抬手划了一道线，“我的队伍接的是引道和货场的巡视弹压，防的是外贼劫掠、堵路生事、拔刀斗殴。我们要保证的是引道畅通、货场不起乱子，绝不给任何货主私车包揽‘折损赔付’。真要点验货物，得是东家自己的帐房先生过目入库，货栈偏门的钥匙若不交到卫兵手里，偏门夜里就必须上死锁，违规开门丢失的物件，由持锁的脚头自己担着。”
+Alden思忖着点了点头：“这倒在理，确实不能让卫兵替脚夫背黑锅……那夜里的巡查呢？”
+“第二，时限要定。”
+Rowan继续道，“白日从开渡到日落，引道设固定巡哨，保证车马不起冲突；到了夜间，货场落锁，我的弟兄只负责按时辰在外围定线巡视，查验门锁与火烛。至于什么‘随叫随应’，夜间非紧急遇袭或起火生乱，卫兵不起私哨，更不会半夜爬起来给迟到的车队当引路的向导。”
+Dain在后头听着，暗自松了一口气。把责任从“包赔货物”拉回到“维持治安”，又钉死了夜巡的时段，弟兄们的轮转就彻底活了，不至于被无休止的杂事拖垮。
+Mira单手叉着腰，看了一眼条理分明的Rowan，用手里的油布抹了把扳手，轻笑了一声：“Alden，我看这位年轻队长比你那糊涂账本清醒多了。要是渡口早按这规矩办，上个月那两帮赶车的也打不起群架来。”
+Alden苦笑了一声，擦了擦额头被风吹出来的冷汗。他原以为这位年轻骑士刚立了功，手头正缺进项，拿一份总额八十四枚银币的大契约压下来，对方多半会咬牙接了这盘杂活。
+没想到这位年轻人连一个铜子的虚数都没被晃花眼，三两句话就把责任、人手和时限拆得干干净净。
+一行人走回哨所木屋，天色已经完全暗了下来。
+桌上的油灯被重新挑亮，昏黄的光晕照在摊开的羊皮纸上。
+Alden从怀里掏出一根细炭条，在纸上那几处写着“保其完好”、“随叫随应”的粗墨条款下重重画了两道横线，又在货场偏门责任的地方添了个小小的记号。
+他抬起头，看向神色自若的Rowan，语气里少了几分商贾的机巧，多了几分不得不正视的谨慎：
+“Rowan队长，您划出来的这几条，全打在实处上。可东家多掏这整整十二枚银币，哪怕是摊在三个月里，也总归是想从原先的防务里多买出几分实惠来。若是真按您说的，去了包赔货损、去了随叫随应，那在这份新改的长契底下……您和您的弟兄，究竟能替渡口实打实接下哪几份硬差事？”
+Rowan右手按在腰间的佩剑圆柄上，指节在皮带扣上轻轻一敲，眼底浮起一丝笃定的神色。
 
-(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)

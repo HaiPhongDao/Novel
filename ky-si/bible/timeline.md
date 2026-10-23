@@ -49,3 +49,7 @@ Ngày2 sau gầntrưa: hoàn tất tới kho phụ theo thỏa thuận thêm50đ
 ### Diễn biến làm việc 011
 
 Chiều ngày2 trước tối: nhóm về Stonewake, nghe Dain báo ca. Hẹn ứng viên quen Jory tới ngày3, chưa tuyển. Alden đưa dự thảo84/90 thay24/30, bao gồm12 nhận trước; chưa ký/thu thêm.
+
+### Diễn biến làm việc 012
+
+Cuối ngày2: đọc giấy, nhìn sân, về nhà trực khi tối. Đánh dấu nghĩa vụ, chưa ký/thu thêm.
