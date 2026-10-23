@@ -36,3 +36,5 @@
 2026-10-23 | doan-003 | Review lượt 2: ĐẠT (sửa nhẹ), 3.513 chữ Hán. Câu "冷血杂食生物" — goblin máu lạnh là luật Writer tự đặt, không nhận; ghi blacklist | Review | Agent (ghi log)
 2026-10-23 | dự án | Từ đoạn 004 Agent tự chạy Writer qua Gemini API, model **gemini-3.6-flash** (3.8 không dùng được). Đoạn 004 tiếp session S2: nạp lại lịch sử chat = session-start.md + bản 003 vào handoff/gemini-session.json | "Đã có API key… bắt đầu tự viết bằng đoạn 4", "Chạy bằng gemini 3.6" | Tác giả
 2026-10-23 | doan-004 | Tách điểm dừng outline 004: dừng ở câu hỏi "vì sao phải hơ lửa" của Snik; Zag chặn đường chuyển sang 005. Snik tự trèo ra khỏi hố (ổ 19 = 16 trong hố + Khoa, Nub, Snik) | Giữ 2 cảnh/đoạn | Agent (ghi log)
+2026-10-23 | doan-004 | Review: ĐẠT (sửa nhẹ), 3.383 chữ Hán. Sửa chữ "影子公司" → "影子", "老老头" → "老头". Writer vào đầu Snik (do prompt ghi "Snik đói và chỉ muốn ăn") → prompt 005 thêm câu điểm nhìn | Review | Agent (ghi log)
+2026-10-23 | doan-005 | Điểm dừng outline 004 (Zag chặn đường) dời sang 005; hạ Zag sang 006. Zag + bốn con to xác ra khỏi hố (11 con còn trong hố) | Giữ 2 cảnh/đoạn | Agent (ghi log)

@@ -30,3 +30,9 @@
 - Bẫy số 4 (4字形陷阱): cột, thanh chống chéo, thanh mồi khắc ngàm bằng mảnh đá lửa; đè bằng phiến đá phiến xám đen; mồi sâu trắng. Bốn bẫy dọc đường mòn.
 - Tật của Khoa khi đau/bực: vẩy cổ tay, chà tay vào đùi, tặc lưỡi — Nub chép cả ba.
 
+**Đã lên trang ở đoạn 4**
+- Chỗ nhóm lửa bí mật: hố đất lõm sâu nửa mét dưới bờ đất sụt, khúc ngoặt thượng nguồn Suối Lạnh, kín gió và khuất tầm nhìn.
+- Cung khoan lửa (弓钻取火) của Khoa: cần cung cành dẻo, dây hai sợi vỏ trong cây liễu, que khoan gỗ cứng nửa thước, ván gỗ thông khô có lõm tròn và rãnh V, hòn đá lõm đè đầu que, nùi cỏ khô + mùn gỗ thông. Lửa lần đầu: đêm Ngày 4.
+- Snik: con non cùng ổ, gầy trơ sườn, đầu to, tai to nhất ổ, mắt vàng, móng dài, nhanh tay; tự leo khỏi hố. Hỏi "为什么".
+- Khoa nói tiếng goblin bằng câu cụt, từng từ.
+
