@@ -1,6 +1,6 @@
 # 姜禾 (Khương Hòa) — nữ chính
 
-> Chưa lên trang. Dự kiến xuất hiện đoạn 005–006.
+> Lên trang đoạn 005 (quán mì cạnh cổng đông 长庚, tối 九月四号). Bút 修补笔 màu bạc. Đã gửi vỏ ốc `shell_model_v1.mesh` tối 九月八号; chưa nói nhận làm cả game.
 
 - 22 tuổi, cùng khoá cùng lớp 造境系 với 许牧. Điểm 建模 cao nhất lớp; bài tốt nghiệp nhỏ nhưng từng chi tiết đều "đúng".
 - Ngoại hình: tóc ngắn ngang tai, hay vén ra sau tai; luôn có cây bút cảm ứng (修补笔) kẹp ở túi áo hoặc trên tay. *(đặc điểm khi ra mắt: tóc ngắn vén sau tai + cây bút)*
