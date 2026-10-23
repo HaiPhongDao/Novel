@@ -45,3 +45,7 @@ Ngày2: qua góchẹp, tới đúngkho; khách đềnghị sangkho phụ, đang 
 ### Diễn biến làm việc010
 
 Ngày2 sau gầntrưa: hoàn tất tới kho phụ theo thỏa thuận thêm50đồng, nhận2bạc50đồng. Trảthưởng3người tổng60đồng, quỹ35bạc70đồng. Chưa vềbến, chuẩn bịtrở lại trong cùng chiều.
+
+### Diễn biến làm việc 011
+
+Chiều ngày2 trước tối: nhóm về Stonewake, nghe Dain báo ca. Hẹn ứng viên quen Jory tới ngày3, chưa tuyển. Alden đưa dự thảo84/90 thay24/30, bao gồm12 nhận trước; chưa ký/thu thêm.

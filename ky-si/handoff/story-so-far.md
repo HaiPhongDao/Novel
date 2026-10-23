@@ -67,3 +67,9 @@ Tới đúngkho ngoàiGreyford, kiểm giấy/niêmphong. Người kho muốn sa
 Rowan/khách chốt thêm50đồng cho hộ xe quađường tới kho phụ, lái/bốc dỡ vẫn của khách. Chờ khexe, xin nhường rồi hộ xe qua, kho kýnhận và khách trả2 bạc50đồng. Tiền33,8→36,3; tổngthu chuyến3,5 đã gồm1nhậntrước.
 
 Ngay hiênkho cùng ngày2, Rowan trảthưởngBram,Toma,Jory20đồng/người tổng60, tiền còn35,7. Toma hỏi cách cầmgiáo;Rowan đáp theo việc vừa làm. Nhóm đứng dậy chuẩn bịvề trước tối; Jory vừa hỏi ngườiquenxóm từng làmđá tìmviệc cóthể tới xin theođội không. Chưa vềbến hoặc tuyểnngười,011 nốiRowan đáp.
+
+### Đoạn 011 — về bến và dự thảo dài hạn
+
+Rowan cho người quen Jory tới cổng bến ngày 3 để gặp mình/Dain, không hứa nhận hoặc trả công. Nhóm bốn về ngay chiều ngày 2 trước tối. Dain báo năm người giữ bến yên ổn; tám gác tái hợp. Tiền vẫn 35 bạc70 đồng, dự toán tháng 18 chưa phải chi thực.
+
+Alden đưa dự thảo thay hợp đồng cũ bằng 90 ngày tính từ ngày 1, tổng 84 bạc đã gồm 12 tạm ứng, mở phạm vi sang đường dẫn thượng lưu và sân hàng ven sông. Chưa ký hoặc trả thêm. Chốt cuối: Alden chỉ mục ranh phòng vệ trên giấy, Rowan sắp đọc. Một câu Dain đếm sai đã bị review loại khỏi canon: luôn hai cựu binh+sáu mới=8 gác, Rowan ngoài đội.

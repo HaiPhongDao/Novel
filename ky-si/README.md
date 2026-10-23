@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Đã viết tới [đoạn 010](chapters/doan-010.md), 2,608 chữ Hán; [review SỬA NHẸ](reviews/doan-010.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
+**Trạng thái 23/10/2026:** Đã viết tới [đoạn 011](chapters/doan-011.md), 2,454 chữ Hán; [review SỬA NHẸ](reviews/doan-011.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -19,7 +19,7 @@
 
 ## Vòng tiếp tục tự động
 
-Đã bật lượt tiếp tục mỗi giờ trong chính task này, tối đa hai đoạn mỗi lượt. Checkpoint: [progress.json](handoff/progress.json); lịch: [tu-dong-viet.json](handoff/tu-dong-viet.json). Công cụ ghép gói/lưu đoạn giảm thao tác lặp, Agent vẫn đọc review. Cấu hình và trạng thái Writer lấy từ checkpoint gần nhất; không chạy lại đoạn đã lưu.
+Lịch giờ đã tạm dừng sau khi Tác giả làm rõ: viết liên tục ngay tới giới hạn quota. Checkpoint: [progress.json](handoff/progress.json); lịch: [tu-dong-viet.json](handoff/tu-dong-viet.json). Công cụ ghép gói/lưu đoạn giảm thao tác lặp, Agent vẫn đọc review. Cấu hình và trạng thái Writer lấy từ checkpoint gần nhất; không chạy lại đoạn đã lưu.
 
 ## Writer
 
@@ -51,5 +51,6 @@
 | 008 | [Brief](briefs/doan-008.md) | [Chính văn](chapters/doan-008.md) | [SỬA NHẸ](reviews/doan-008.md) | Agent review |
 | 009 | [Brief](briefs/doan-009.md) | [Chính văn](chapters/doan-009.md) | [SỬA NHẸ](reviews/doan-009.md) | Agent review |
 | 010 | [Brief](briefs/doan-010.md) | [Chính văn](chapters/doan-010.md) | [SỬA NHẸ](reviews/doan-010.md) | Agent review |
+| 011 | [Brief](briefs/doan-011.md) | [Chính văn](chapters/doan-011.md) | [SỬA NHẸ](reviews/doan-011.md) | Agent review |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).

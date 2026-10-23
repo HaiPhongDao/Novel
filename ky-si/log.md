@@ -52,3 +52,7 @@
 2026-10-23 | tiếp tục tự động | Đã tạo heartbeat ACTIVE ti-p-t-c-vi-t-k-s trong chính task, mỗi giờ tối đa2đoạn từ checkpoint. Vẫn chạy Writer/review/commit/push; hết outline chuẩn bị kếhoạch kế tiếp, không tự chốt thayđổi lớn. Đã thử công cụ lưu và vòng Writer trước khi đặt lịch. | Thực hiện yêu cầu viết liên tục bằng công việc lặp thông minh |
 
 2026-10-23 | 010 | Giữ lượt02 ởkho ngày2: chốt50đồng phầnthêm, nhận2,5bạc, thưởng0,6, quỹ35,7. Côngchuyến đãxong; nhómchưa vềbến, Jory hỏi ngườiquenxinviệc. Lượt01 lỡ qua ngày3 bị loại; giữ đúng điều kiệnvề cùngngày. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
+
+2026-10-23 | làm liên tục theo quota | Tác giả: “Nah, tiếp tục làm đến khi hết quota đi”. Dừng lịch giờ để tránh hiểu sai, tiếp tục vòng Writer ngay trong lượt hiện tại tới giới hạn tài khoản; giữ checkpoint sau mỗi đoạn, không tự dùng lượt reset quota | Tác giả làm rõ phương thức tiếp tục |
+
+2026-10-23 | 011 | Giữ011: trở về đúng chiều ngày2; chỉ hẹn gặp người xin việc ngày3. Dự thảo84/90 đã gồm12 cũ, chưa ký/thu. Rà và loại câu đếm sai cục bộ khỏi canon, giữ8gác và35,7bạc. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |

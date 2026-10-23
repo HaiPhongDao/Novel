@@ -37,3 +37,7 @@ K01: lệnh cụthể giúpToma làmđược trong sứcép, chưa tựbiết ch
 ### Cập nhật010
 
 K02: chuyếnhộ tổngthu3,5; chi góiăn0,2 vàthưởng0,6; quỹtừ33 sauphà thành35,7. K05: làm thêm sauchốtphạmvi/giá. Người quenJory hỏi xinviệc chỉ là nguyệnvọng, chưatăngquân.
+
+### Cập nhật 011
+
+K02: quỹ35,7 không đổi; nguồn thu định kỳ phải xét cùng phạm vi. Dự thảo84/90 tăng12 so72/90, còn nhiều nghĩa vụ chưa đọc. K05: chưa đổi lính hiện có lấy việc giữ thêm đường/sân; ứng viên chỉ được gặp ngày3.

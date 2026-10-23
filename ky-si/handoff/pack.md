@@ -102,19 +102,25 @@ Rowan/khách chốt thêm50đồng cho hộ xe quađường tới kho phụ, lá
 
 Ngay hiênkho cùng ngày2, Rowan trảthưởngBram,Toma,Jory20đồng/người tổng60, tiền còn35,7. Toma hỏi cách cầmgiáo;Rowan đáp theo việc vừa làm. Nhóm đứng dậy chuẩn bịvề trước tối; Jory vừa hỏi ngườiquenxóm từng làmđá tìmviệc cóthể tới xin theođội không. Chưa vềbến hoặc tuyểnngười,011 nốiRowan đáp.
 
+### Đoạn 011 — về bến và dự thảo dài hạn
+
+Rowan cho người quen Jory tới cổng bến ngày 3 để gặp mình/Dain, không hứa nhận hoặc trả công. Nhóm bốn về ngay chiều ngày 2 trước tối. Dain báo năm người giữ bến yên ổn; tám gác tái hợp. Tiền vẫn 35 bạc70 đồng, dự toán tháng 18 chưa phải chi thực.
+
+Alden đưa dự thảo thay hợp đồng cũ bằng 90 ngày tính từ ngày 1, tổng 84 bạc đã gồm 12 tạm ứng, mở phạm vi sang đường dẫn thượng lưu và sân hàng ven sông. Chưa ký hoặc trả thêm. Chốt cuối: Alden chỉ mục ranh phòng vệ trên giấy, Rowan sắp đọc. Một câu Dain đếm sai đã bị review loại khỏi canon: luôn hai cựu binh+sáu mới=8 gác, Rowan ngoài đội.
+
 ---
 
-## 3. Trạng thái sau010
+## 3. Trạng thái sau 011
 
-Ngày2 sau gầntrưa tại hiên kho phụ ngoàiGreyford. Cônghộ và phần quađường đã hoàn tất, hàng/giấy kýnhận; nhóm4 vừa nhậnthưởng, chuẩn bịđi vềStonewake trong chiều ngày2 trước tối. Chưa vềbến, Dain chưa báo cáo gì mới. Jory đang hỏi ngườiquen cùngxóm từng làm ởbãiđá, nay thiếuviệc, cóthể tới xin theođội không.011 mởRowan đáp, tính việc/chi phí rồi đi về đúngngày.
+Cuối chiều ngày 2 tại nhà trực Stonewake; nhóm đã về trước tối, tám gác tái hợp. Alden vừa mở dự thảo và chỉ phần ranh phòng vệ để Rowan đọc. 012 nối ngay đây. Ngày 3 người quen làm đá của Jory có thể tới cổng xin gặp, chưa có mặt/chưa nhận/chưa có lương.
 
-Tiền mặt35 bạc70đồng =33,8+2,5-0,6. Cônggốc3 bạc gồm1nhậntrước+2còn lại đãtrả; phụphí0,5 đãtrả. Tổngthuchuyến3,5, góiăn0,2, thưởng3người tổng0,6→lãi tiền mặt2,7 so với33 sauviệcphà. Không còn khoản hộchuyến chờthu. Sửa40đồng riêngchủbến, tiềnphà1 đãnhận trước khônglặp. Hợpđồngphòngvệ24/30, đãnhận12 trong tổng24, dựtoántháng18 chưa tự trừgộp.
+Quân số: Dain+Bram (hai cựu binh)+Toma+Jory+bốn mới chưa tên=8 gác; Rowan ngoài đội, tổng 9 miệng ăn thường xuyên. Câu 'Dain và tám lính mới' trong 011 là lỗi lời thoại đã review, không tăng quân. Lương 9 bạc/tháng: Dain2+bảy người1; thực phẩm6, vật tư3, dự toán18 chưa tự trừ. Chưa chốt chính sách cấp áo/giáp mới hay tuyển dự bị. Mira/Alden/Oswin/lái thuyền không thuộc đội.
 
-Đi4:Rowan,Bram(cựubinh thứhai),Toma,Jory. Ởbến:Dain+4mới=5gác. Tổng8gác ngoàiRowan, chưa tuyểnthêm hoặc đổilương. Toma/Jory mới, Bram cókinhnghiệm hộxe; mỗi người vừa nhận20đồng thưởngriêng. Người quenJory chưa xuất hiện/chưa đượcnhận/lương.
+Tiền mặt35,7 bạc; không thu chi trong011. Chuyến hộ đã thanh toán xong, tổngthu3,5, góiăn0,2, thưởng0,6. Không còn công chuyến chờ thu. Hợp đồng cũ24 bạc/30 ngày đang hiệu lực,12 đã nhận nằm trong tổng24. Dự thảo Alden: thay bằng84 bạc/90 ngày từngày1,12 cũ nằm trong84, chưa nhận thêm/chưa ký. So cùng90 ngày: cũ72, mới84, tăng12 cả kỳ (=4 cho30 ngày), chưa rõ các nghĩa vụ/đợt trả. Phạm vi đề nghị thêm đường vào thượng lưu và sân hàng ven sông; chưa có quyền thu phí hoặc sở hữu.
 
-Toma随车换位5/100,积累0;长矛收势13/100,积累0. Không thêmđiểm/chức năng. Khách/người lái/người kho ngoàiquânsố. TênHánngười kho/địnhgiáthịtrường trong thoại không chốt thành thuậtngữ/giáthếgiới.
+Dain báo tình hình bến yên sau khi Rowan về. Hai thuyền hàng khách ghé không phải tăng số phà; Stonewake vẫn một phà. Chưa có chứng cứ nhóm tội phạm lớn. Toma:长矛收势13/100积累0;随车换位5/100积累0, chưa tăng mới.
 
-011 cầngiữ: đápJory trước khi đổi cảnh, vềbến cùng chiều ngày2, lúc đó mới ngheDain báo ca. Chỉ xem người xinviệc/nhu cầu và dựtoán, chưa tự tuyển. Đềnghị hợpđồng dài hơn có thể xuất hiện theooutline, chưa ký hoặc nhận tạmứng. Không lặp lỗi bản010lượt01 qua ngày3.
+012 đọc kỹ giấy, hỏi Dain/Mira về thực tế giữ ca/đường trước khi nhận; chưa tự ký. Điều khoản bất lợi phải là chuyện hợp lý của chủ bến muốn gộp rủi ro, không diễn thành Alden phản diện tự nhận lừa. Người xin việc chưa thành nguồn nhân lực giải quyết hợp đồng.
 
 ---
 
@@ -130,26 +136,22 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 10 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
 
-这钱是从全趟的三枚半银币收入里直接拨出来的额外奖赏，并不抵扣他们在Stonewake渡口按月领取的固定饷钱。
-长廊底下一下子安静了片刻。
-Bram咧嘴一笑，枯瘦的大手往长凳上一扫，毫不客气地把二十枚铜钱抄进怀里，铜币在掌心里发出一串清脆的撞击声。
-“还是跟着Rowan队长做事敞亮。”
-老兵嘿嘿笑了两声，语气透着一股老油条的熟络，“换成以前在公国的老行伍里，别说额外领赏，长官不找由头扣你两顿干粮就算祖上积德了。”
-Toma则是愣了愣，随后两眼放光，小心翼翼地把面前的铜钱一枚一枚捡起来，叠成整整齐齐的一小摞，捏在手里反复数了两遍。
-“二十文……”
-年轻农夫忍不住咧开嘴傻笑，“这要是带回村里，能称好几大包黑麦面，还能给家里扯两尺粗麻布……队长，刚才在大路上，我是不是走得太僵了？”
-“走得僵是小事，手里别慌就行。”
-Rowan看着他，顺势提点了一句，“矛尖竖起来的时候要稳，两臂用力架住。你在路口那会儿矛尖晃得跟钓竿似的，别说吓唬别人，车夫看着都怕你失手扎着他的马屁股。下回列阵，手肘夹紧腰眼，用身体带矛，别光用手腕硬撑。”
-Toma连连点头，脸颊微红，把那二十文钱小心翼翼地塞进贴身的布袋，还拍了拍胸口确认没有漏缝。
-坐在最边上的Jory同样捏着那把沉甸甸的铜钱。他的手指有些发硬，铜钱上的铜绿蹭在粗糙的指纹里，但他只是反复摩挲着，眼神有些游移，嘴唇动了几下，似乎在心底盘算着什么。
-Rowan把剩下的钱扎紧袋口，塞回内衬的皮暗兜里，系紧了革带。
-“歇得差不多了就动身。”
-Rowan站起身，拍了拍皮甲上的浮土，“营地那边Dain他们还在当值。今天天黑前必须赶回Stonewake渡口，路上不耽搁，回到营地再吃热麦粥。”
-Bram和Toma立刻抓起长矛站了起来。
-Jory也跟着站起身，但他没有立刻去拿靠在墙边的长矛。他站在长凳旁，两只手下意识地攥着那袋铜钱，喉结上下滚动了一下，似乎终于下定了决心。
-“那个……队长。”
-Jory抬起头看着Rowan，神色局促中带着几分急切，“我想跟您打听个事儿……就是我同村的一个发小，身板比我结实多了，以前在石场干重活的。这两天石料场停了工，他正到处托人找饭吃。要是咱们Stonewake渡口那边往后还要招弟兄……”
+Rowan坐在木椅上，倒了一碗微温的水，“你算得没错。咱们手头虽然收进了这趟运费，结余有三十五枚银币七十枚铜钱，但这不是净落入口袋的利钱。月底八个人的饷银要发，日常的嚼谷更是一天都断不得。没有能稳定产出的长期防务差事，一个人都不能随便乱添。”
+Dain这才松了口气，点头道：“是这个理。真要是个好苗子，留着打打下手、当个预备役倒还行，但月俸绝不能一开始就定死。”
+两人正对着桌上的营防轮值簿细算着接下来的值班批次，外头门廊上忽然传来了一阵平稳而轻快的皮靴脚步声。
+“Rowan队长在里头吗？”
+门帘一挑，渡口掌柜跟前的账房Alden迈步走了进来。这位干瘦的中年文吏穿一身齐整的深灰布袍，手里小心翼翼地捧着一卷用麻绳系紧、封着暗红火漆的厚羊皮纸卷。
+Alden脸上带着几分客套而热切的笑意，进门便微微欠身：“队长回得可真准时。刚才在货运码头那边听船夫说，您带人亲自押着城里药行的大车去Greyford，连借道过街都办得滴水不漏，主家管事回来直夸您手下的人规矩严整呢。”
+“拿了雇主的钱，自然得把事办周全。”
+Rowan站起身来，目光落在他手中的羊皮卷上，“Alden先生这个时候特意过来，是渡口有什么文书要交代？”
+“不是交代，是咱们东家的一桩大诚意。”
+Alden走到粗木桌前，将那卷羊皮纸平平放好，用手轻轻按住，压低了嗓音，“东家这两天把您和弟兄们的行事全看在眼里，心里踏实得很。先前咱们签的那份三十天、二十四枚银币的短契，东家觉得太委屈您的队伍了，而且来回续签也麻烦。东家的意思是——不如直接换成一份长契。”
+Rowan眉梢微挑，神色平静：“怎么个长契法？”
+“自第一天进驻算起，一口气签足九十天，雇金总额给到整整八十四枚银币！”
+Alden比划着手势，眼神里闪着精明的光芒，“先前预付给您的那十二枚银币，自然直接算在这八十四枚的总数里头，后续分期兑付。不过，既然总额提到了这个份上，防务的范围嘛……东家希望除了眼下这片码头栈桥和主货栈，连带着渡口上游的那条入场引道，还有靠着河滩的那大片停放货车、堆杂石料的空置货场，全一并交由您的队伍来弹压看管。东家就想买个安心，找支能常驻立威的硬手队伍把场子彻底撑住。”
+说着，Alden用手指挑开封绳，将羊皮纸向Rowan的面前推了推，指向其中一段墨迹浓重的条款：
+“Rowan队长，您瞧瞧，这里就是新拟定的防务地界详目……”
 
-(Đoạn 11 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)

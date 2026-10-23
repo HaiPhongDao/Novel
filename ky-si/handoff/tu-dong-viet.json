@@ -1,10 +1,11 @@
 {
   "automationId": "ti-p-t-c-vi-t-k-s",
   "kind": "heartbeat",
-  "status": "ACTIVE",
+  "status": "PAUSED",
   "cadence": "Mỗi giờ, trong chính task này",
   "maxSegmentsPerRun": 2,
   "checkpoint": "handoff/progress.json",
   "workflow": "gemini/ghep-goi.py + gemini/luu-doan.py; Agent review trước lưu",
-  "limits": "Theo outline hiện có; thay đổi lớn cần Tác giả quyết; không giả Writer nếu trình duyệt không truy cập được."
+  "limits": "Theo outline hiện có; thay đổi lớn cần Tác giả quyết; không giả Writer nếu trình duyệt không truy cập được.",
+  "reason": "Tác giả làm rõ: tiếp tục liên tục ngay đến giới hạn quota, không chờ lịch giờ."
 }
