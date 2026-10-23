@@ -106,21 +106,27 @@ Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Tha
 
 Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc/dặnhiệuvàlốigiaovậttư. Bram/Jory tuầnđầu,sáuởbến; đội8đếmđúng. DainđưakhiêncũBramráchdâychoRowanxem, chưa mua/sửa,quỹ34,65khôngđổi.
 
+### Đoạn 022
+
+Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0,cầnchủđộngdùngđiểm/kiểmtrực tiếprõ. ChiềutrảMilo5ngàyTHỨHAI,quỹ34,65→34,52. Milo hỏingày5hếtthửcònviệckhông,RowanchờđápDain.
+
 ---
 
-## 3. Trạng thái sau 021
+## 3. Trạng thái sau 022
 
-Sángngày4 sânnhàtrực, Bram/Jory đãđituầnđầu, Dain/Toma/bốn mới ởbến. Rowan vừacầmkhiênCŨcủaBram(mộttrong2khiênnhỏ), kéo nhẹdâyđeođãrách vàđangquyếtsửa/thay;Bramtạmđemkhiêncũcònlại.022nốikiểmđồ, chưa chi.
+Cuốichiềungày4, sauhaicađườngvềbến, đủ8gác. Milo vừanhận5đồngNGÀYTHỨHAI,hỏihếthômngày5cóđược ởlạilàm tiếp không; Rowan đangnhìnDainchờđáp.023nốicâutrảlờirồimới sangngày5trongđoạn.
 
-Milo ngàythửTHỨHAI,đãdọnphân/mùncưa,đượcchỉlốivật tưvàhiệuđểkhôngvướngcagác, chưađào tạoquân/hồsơbảng. Ngày4công/phụăn5đồngchưa trả; ngày3đãtrả. Quỹ34bạc65đồng=34,65.
+Tiền34bạc52đồng=34,52 sau8đồngthaydâykhiênvà5đồngMilo. Khiênvẫn2cũ. Toma长矛收势14/100积累0,sau13/1→14/0; cơchếphảilàchủđộng dùngđiểm,khôngtựtiêu bằngkhẩulệnh. Cầnmộtlượtkiểmsauđiểmtrực tiếpởđầu023,thấykháhơnchút vẫnđỏtay/mệt;khôngphátđiểm thêm.
 
-8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5NGÀYĐẦU ngày3, ngày4/5chưa trả, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
+8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5mỗi ngày3và4(tổng10), ngày5chưa trả, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
 Phụlục đườngRIÊNG ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30từngày1,12nhậntrong24;84/90hoãn chưa ký. Dựtoán18/tháng=lương9cho8gác+ăn6+vậttư3,chưa trừgộp. Sau020 đãtrả1bạcgóiăn9người ngày1–5, chưagói6–10;20đồnggóiănđường007đãtrảkhônglặp. 3bạcdựphòngvẫnlàtiềntrongquỹ chưa chi, lươngthángchưađếnhạn. Sốdưhiệnhành trongeventstate/progress.
 
 Đườngtưgiờđông banngày,trướctối về,đêmphạmvicũ; khôngđất/thuế/côngquyền/bảochứnghàng. Jackngườichủgiữkhóa/ghixe,Mira30tócngắn chuyênmônquảnMỘTphà ngangvai,Aldenquảnhợpđồng,Oswinthợtheoviệc, tấtcảngoài8gác. Người kho/bốcdỡtựquảnhàng/khóa/phàdotừngngườichuyênmôn.
 
-Toma长矛收势13/100积累0,随车换位5/100积累0. Jory随车换位4/100积累0 sau017 (luyện1,nền3→dùng1thành4), cònvấplờikhiồn/cầnBramnhắc. BảngchỉRowanthấy, đúngngười/kỹnăng/luyệnthực,1đổi1; khôngchữa mệt/đọc lòngngười/dòxa. Hỗtrợthợ/ngựachưa thử/chốt; Milo khônghồsơnghề tựđộng. Ngàysốlàthứtựởbến, chưachốtlịchtháng/mùa.
+Toma长矛收势14/100积累0,随车换位5/100积累0. Jory随车换位4/100积累0 sau017 (luyện1,nền3→dùng1thành4), cònvấplờikhiồn/cầnBramnhắc. BảngchỉRowanthấy, đúngngười/kỹnăng/luyệnthực,1đổi1; khôngchữa mệt/đọc lòngngười/dòxa. Hỗtrợthợ/ngựachưa thử/chốt; Milo khônghồsơnghề tựđộng. Ngàysốlàthứtựởbến, chưachốtlịchtháng/mùa.
+
+Ngày4đãtrả8đồngthaydâykhiêncũBram, vẫn2khiênnhỏ. Toma13/1→14/0ở022 phảihiểulàRowan chủđộngdùng1củngcốđúnghồsơ, khôngtựtiêuđiểmkhinóichỉdẫn; cầnkiểmthêm bằngđộngtác thực.
 
 ---
 
@@ -136,39 +142,37 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 21 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 22 (để nối mạch và giữ giọng)
 
-　　“门前中道是战备通道，披甲出营的人绝不绕行。
-　　你挑水送物，一律靠着东墙根走。”
-　　Milo连忙把水桶卸在泥地上，局促地用袖口擦了擦额头的冷汗：
-　　“是，大人！我……我走急了，没看着兵爷们出来。”
-　　他看了看廊下威严的Rowan，又看了看旁边按剑肃立的Bram，咽了口唾沫，大着胆子开口问了一句：
-　　“大人，我能不能……能不能学学营里吹哨的调子，还有兵爷们交接换岗的口令？
-　　我绝不敢肖想当兵打仗，就是怕自个儿耳朵木、脑子笨，下回端水搬料又踩在哨点上，挡了各位兵爷的正事。”
-　　站在一旁的Dain挑了挑眉，左脸的伤疤动了动，似乎对这小子的眼色有些意外。
-　　Rowan看了他片刻。
-　　一个杂役主动要求辨识营哨和路径规程，是为了不碍事、保住差事，这种务实的机敏远比自作主张有用。
-　　“可以。”
-　　Rowan点头：
-　　“稍后让Dain把两长一短的出巡哨、短促的三声急哨吹给你听。
-　　听到长哨，收工退到棚下；听到急哨，立刻躲进库房，不许在外头乱晃。
-　　现在去把南边道口备用的槽木理出来，垫木分大小码齐，堆在库门右侧三尺外。”
-　　“哎！我这就去！”
-　　Milo应得响亮，拎起扁担小跑着奔向杂物棚。
-　　Bram整了整肩带，带着Jory大步迈出辕门，踩着晨雾向道口巡去。
-　　院里的秩序逐渐归位。
-　　等新兵们各自归位擦拭矛头，Dain从器械库里快步走出来，手里提着一面覆皮的圆木盾。
-　　这是防卫队目前仅有的两面旧小圆盾之一，平时归老兵Bram使用。
-　　Dain走到Rowan跟前，将圆盾翻转过来，露出内侧的把手和皮带：
-　　“队长，您瞧这个。”
-　　Dain粗粝的手指勾起内侧的熟牛皮挽带。
-　　牛皮表面布满了干燥龟裂的细纹，其中靠近铆钉固定的受力处，皮革已经磨得泛白拉丝，撕裂开了一道足有半指宽的豁口，只剩几根干硬的筋线连着。
-　　“Bram刚才巡道前换了另一面，把这面留下了。”
-　　Dain指着那处裂口，沉声说道：
-　　“这带子糟得厉害。
-　　下午要是赶上道口有牲口惊车，或者遇上不讲理的脚夫硬冲，手肘猛一顶，这皮带立刻就得崩断。
-　　盾牌要是脱了手，前排连个挡头都没有。
-　　您给拿个主意，咱们是找镇上皮匠换条新牛皮带，还是自己找块废皮料铆几颗钉子凑合用？”
-　　Rowan伸手接过盾牌，指尖在那道开裂的挽带上用力掰了掰，干硬的皮层发出细微的断裂声……
+　　汗水顺着Toma的下巴滴在泥地上，手臂肌肉渐渐酸软，但随着Rowan几次及时的喝止与纠偏，他的动作终于开始找到节奏。
+　　一次真实的让道模拟完成，面板悄然闪过一道提示：
+　　【Toma：长矛收势 13/100，训练积累 1】
+　　Rowan看准他这一趟动作的连贯节点，适时开口点拨了后肘下沉的发力技巧。
+　　对应技能的指点随之生效：
+　　【Toma：长矛收势 14/100，训练积累 0】
+　　“行了，先停下揉揉膀子。”
+　　Rowan叫停了训练。
+　　Toma重重吐出一口粗气，撑着矛杆擦了把额头的汗水。
+　　他的双手被粗糙的木杆磨得通红，整个人喘得厉害，但刚才那一收一竖的动作，比起早晨时那种盲目的笨拙，显然多了一分章法与分寸。
+　　至于在巡道上的Jory，随车换位依旧停留在4/100，毫无变动。
+　　在一旁清扫碎木片的Milo则悄悄记住了卫兵换步的路线，往后走动送水时，总是贴着最外侧的屋檐走，绝不往长矛回转的死角里凑。
+　　……
+　　傍晚时分，夕阳将Stonewake渡口的泥泞道路染成一片暗红。
+　　最后一班Mira撑回的渡船靠上木桩，缆绳在铁环上系紧，Jack也合上了今天登记车马通行的厚账本。
+　　巡完私道最后一班的Bram和Jory迈着沉重的步子回到值班室，解下佩剑和巡道皮袋，坐在长凳上揉着酸痛的小腿。
+　　白班的交接已经完成，值守了一整天的新人们也各自散开休整。
+　　Milo干完手头所有的杂活，将扫帚整整齐齐地码在工具架旁，甚至学着Dain平时的规矩，把打水用的吊绳盘好挂在墙钉上，没有乱扔在地上。
+　　他拍了拍粗布裤子上的灰尘，走到值班室门口，有些局促地搓着手。
+　　Rowan从桌案后站起身，拿出钱袋。
+　　今天是第四天，也是Milo试用干活的第二天。
+　　三枚铜币工钱，加上两枚伙食补贴，一共五枚铜币。
+　　Rowan数出五枚略微泛着铜绿的硬币，放在Milo沾着泥灰的掌心。
+　　这笔支出落下，防卫队剩余的现钱变成了三十四枚银币五十二枚铜币。
+　　“多谢队长。”
+　　Milo把铜板收进怀里，小心地按了按胸口。
+　　但他没有立刻离开，而是站在门边犹豫了一下，抬起头小声问道：
+　　“队长……明天就是第五天了，我这三天试用期就算满了。
+　　您看……后天我是继续来队里听差，还是明晚结完钱，我就把铺盖收拾了走人？”
+　　Rowan没有立刻作答，而是转过视线，看了一眼正坐在门槛上拿抹布擦油灯的Dain……
 
-(Đoạn 22 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 23 sẽ bắt đầu ngay sau chỗ này.)

@@ -7,3 +7,6 @@
 - Sau dùng điểm: 长矛收势：13/100, 训练积累：0.
 - Lượt tập sau tiến bộ nhỏ; vẫn mệt, vụng, chưa có thực chiến.
 - Không biết bảng, không cảm thấy có người bấm điểm cho mình.
+
+
+Sau022:长矛收势14/100,tíchlũy0 (luyện13/1→chủđộngdùng1thành14/0). 随车换位5/100,tíchlũy0 khôngđổi. Tayđỏ/mệt vẫncòn,khôngchữatrầytay.023cầnkiểmđộngtác thật.

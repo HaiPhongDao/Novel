@@ -89,3 +89,7 @@ Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Tha
 ### Diễn biến làm việc 021
 
 Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc/dặnhiệuvàlốigiaovậttư. Bram/Jory tuầnđầu,sáuởbến; đội8đếmđúng. DainđưakhiêncũBramráchdâychoRowanxem, chưa mua/sửa,quỹ34,65khôngđổi.
+
+### Diễn biến làm việc 022
+
+Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0,cầnchủđộngdùngđiểm/kiểmtrực tiếprõ. ChiềutrảMilo5ngàyTHỨHAI,quỹ34,65→34,52. Milo hỏingày5hếtthửcònviệckhông,RowanchờđápDain.
