@@ -24,3 +24,5 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (006) Chữ hiện trong 《退潮》 ("【获得：…】") — trái thiết kế không giao diện; prompt ghi "trong 境 không có chữ hay bảng nào hiện lên".
 - (005 bản 1) Lời kể vào đầu 姜禾 khi prompt chỉ cho hiện qua lời và việc. Cách giữ: đặt điểm nhìn trong câu sự việc + cho cô một hành động kết phản ứng.
 - (007–008) Câu đúc kết sau mỗi nhịp: "这就是游戏机制的力量…", "游戏策划的核心技巧之一…".
+- (005 bản 1, 2) "一字一顿" + lời khích kiểu "你就打算…" khi MC thuyết phục — nhịp kịch lặp; soát và cân nhắc khi biên tập.
+- (005 bản 2) "全潜" — thuật ngữ trôi như "全真潜入".
