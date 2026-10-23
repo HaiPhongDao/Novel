@@ -27,8 +27,8 @@
 | 001 | ✅ | ✅ (test) | | |
 | 002 | ✅ | ✅ (test) | | |
 | 003 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
-| 004 | ✅ | ⬜ file trống — chờ dán | | |
-| 005 |  | ⬜ file trống — chờ dán | | |
+| 004 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
+| 005 | ✅ | ⬜ file trống — chờ dán | | |
 | 006 |  | ⬜ file trống — chờ dán | | |
 | 007 |  | ⬜ file trống — chờ dán | | |
 | 008 |  | ⬜ file trống — chờ dán | | |
