@@ -118,6 +118,10 @@ Dừng ở chỗ X. Mọi chi tiết còn lại do bạn quyết.
 8. **Chuỗi kỹ thuật cố định của bàn tay vàng** (câu khởi động, cách xưng) ghi nguyên văn — ngoại lệ của nguyên tắc 4.
 9. **Thêm câu chỉ khi đã hỏng đúng chỗ đó.** Đoạn trước sai một điểm (xưng hô, tư thế, điểm nhìn, giới hạn giác quan, mức bạo lực, người cần giữ bí mật bị vào đầu) → thêm đúng một câu vào câu sự việc của cảnh, không viết lại cả phần thiết lập.
 10. **Không dùng bước "tự kiểm sau khi viết"** — model không đọc lại văn của mình. Chuẩn văn nằm trong SI; khâu kiểm là review của Agent.
+11. **Cảnh hội thoại: cho mỗi người một mối bận tâm cụ thể, không cho kịch bản tranh luận** (Tác giả 23/10, lam-game 005). Prompt "cô thẳng thừng, kiệm lời, chê là làm ẩu; anh đưa ra lý do vì sao…" thành màn thuyết trình: cô diễn vẻ lạnh ở từng câu, anh nói một tràng triết lý "一字一顿". Cách viết:
+   - Không gắn nhãn tính cách (thẳng thừng, lạnh lùng, kiệm lời…) vào cảnh; ghi tình trạng thật của người đó lúc này (vừa tan ca 12 tiếng, chưa ăn, mai vào ca 8 giờ) — thái độ tự ra từ đó.
+   - Không giao trình tự "A chê → B phản bác bằng lý do X", không giao một ý tưởng để nhân vật trình bày. Ghi mỗi người muốn biết gì / cần gì / lo gì; họ hỏi những câu thực tế (bao lâu, làm bằng gì, ai trả tiền, được gì) và trả lời bằng việc, bằng con số, bằng thứ đưa ra xem.
+   - Cho cuộc nói chuyện có chỗ lạc đề tự nhiên (đồ ăn, việc làm, chuyện cũ chung) — đừng để mọi câu đều phục vụ mục tiêu của cảnh.
 
 ---
 
