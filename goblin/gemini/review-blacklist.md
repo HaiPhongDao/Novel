@@ -21,3 +21,4 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này chỉ giữ 
 - Từ của người viết lọt vào lời kể: "整场" (001) — cùng loại với "这章" ở lượt 1.
 - Cài cắm bị lời kể gọi tên sớm: "硝酸盐结晶" trên vách hố ổ (001).
 - Luật sinh học tự đặt: goblin "冷血", trời lạnh thì lờ đờ (003). Bible không có; không nhận.
+- Writer vào đầu nhân vật phụ (Snik, Zag, Mok…): Tác giả 23/10 chấp nhận — chỉ ghi, không bắt sửa.
