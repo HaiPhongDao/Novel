@@ -36,3 +36,9 @@
 - Snik: con non cùng ổ, gầy trơ sườn, đầu to, tai to nhất ổ, mắt vàng, móng dài, nhanh tay; tự leo khỏi hố. Hỏi "为什么".
 - Khoa nói tiếng goblin bằng câu cụt, từng từ.
 
+**Đã lên trang ở đoạn 5**
+- Giao kèo Snik: đứng chỗ cao canh đường, nghe động, có nguy thì kêu; đổi lấy thịt.
+- Khoa đeo một túi da rách bên hông.
+- Dốc đá vụn dưới cửa 蝙蝠洞: dốc dựng, đá phiến lỏng dễ trượt, lối đi hẹp; cách cửa hang hơn ba chục mét có một tảng đá lớn.
+- Zag: to nhất ổ, xương to, hàm bạnh, mắt vàng đỏ ngầu; quấn mảnh da sói rách, cầm gậy gỗ cứng có mấu to bằng hai ngón tay; leo khỏi hố từ Ngày 2; bốn con non to xác theo nó.
+

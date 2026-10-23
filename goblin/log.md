@@ -38,3 +38,5 @@
 2026-10-23 | doan-004 | Tách điểm dừng outline 004: dừng ở câu hỏi "vì sao phải hơ lửa" của Snik; Zag chặn đường chuyển sang 005. Snik tự trèo ra khỏi hố (ổ 19 = 16 trong hố + Khoa, Nub, Snik) | Giữ 2 cảnh/đoạn | Agent (ghi log)
 2026-10-23 | doan-004 | Review: ĐẠT (sửa nhẹ), 3.383 chữ Hán. Sửa chữ "影子公司" → "影子", "老老头" → "老头". Writer vào đầu Snik (do prompt ghi "Snik đói và chỉ muốn ăn") → prompt 005 thêm câu điểm nhìn | Review | Agent (ghi log)
 2026-10-23 | doan-005 | Điểm dừng outline 004 (Zag chặn đường) dời sang 005; hạ Zag sang 006. Zag + bốn con to xác ra khỏi hố (11 con còn trong hố) | Giữ 2 cảnh/đoạn | Agent (ghi log)
+2026-10-23 | doan-005 | Review: ĐẠT (sửa nhẹ), 2.091 chữ Hán. Sửa "冷溪（冷溪）", "蝙蝠洞（蝙蝠洞）" (chép định dạng prompt), "皱了沉眉". Vào đầu Snik/Zag lặp lại 004→005 dù prompt có câu điểm nhìn → đề xuất Tác giả thêm vào SI | Review | Agent (ghi log, đề xuất chờ Tác giả)
+2026-10-23 | doan-006 | Gọi lại Mok (Agent thêm ở lượt 1, đã có trong bible) làm con ở lại; nhóm năm = "con số lớn nhất goblin đếm được" (không dùng hình ảnh bàn tay — tay goblin bốn ngón) | Dàn ý "nhóm thành năm" | Agent (ghi log)

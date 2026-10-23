@@ -1,25 +1,24 @@
-## 3. Trạng thái hiện tại (hết đoạn 4)
+## 3. Trạng thái hiện tại (hết đoạn 5)
 
-**Thời điểm:** đêm Ngày 4, lạnh.
-**Có mặt:** hố đất lõm dưới bờ đất sụt, thượng nguồn Suối Lạnh. Đống lửa nhỏ do Khoa nhóm đang cháy. Khoa ngồi một bên; Nub cạnh anh, vừa ăn xong; Snik ngồi xổm bên kia đống lửa, vừa liếm sạch ngón tay và hỏi vì sao phải đem thịt hơ lửa.
+**Thời điểm:** rạng sáng Ngày 5, mặt trời chưa lên hẳn.
+**Có mặt:** lối đá vụn hẹp trên dốc dưới cửa 蝙蝠洞. Khoa đứng trên dốc, vừa lùi nửa bước, chân giẫm vỡ một phiến đá phiến lỏng; túi da bên hông có hai con chuột ~100 g. Nub sau lưng Khoa, chân run. Snik nép vào khe đá, tai dựng. Zag đứng chặn ngay trước mặt, tay phải cầm gậy, tay trái vừa vươn móng về phía túi chuột; bốn con to xác theo Zag đứng phía sau nó, chỗ cao hơn.
 
 **Nhân vật chính biết**
-- Khoa tự nhóm được lửa bằng cung khoan; ngoài Nub và Snik chưa ai biết.
-- Lửa duy nhất trong hang là đống than Yeg giữ.
-- Nub chép y hệt mọi động tác, kể cả khi vô nghĩa (khoan trên cành không có lõm).
-- Snik đói, nhanh, tự leo khỏi hố; nó hỏi "为什么".
-- Gorr ăn con non khi đội săn về tay trắng.
+- Khoa tự nhóm được lửa (cung khoan) ở hố đất bên Suối Lạnh; tro đã lấp. Ngoài Nub, Snik chưa ai thấy lửa; Zag vừa ngửi ra mùi khói và thịt nướng.
+- Giao kèo với Snik: canh đường, có nguy thì kêu, đổi lấy thịt.
+- Nub chép y hệt mọi động tác.
+- Goblin ngửi rất tốt; Yeg ngửi giỏi nhất hang.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Bộ lạc | 126 |
-| Ổ của Khoa | 19 = 16 trong hố + Khoa, Nub, Snik |
-| Thịt | con chuột ~100 g đã chia hết cho ba con; lòng chuột đè dưới đá làm mồi |
-| Bẫy | 3 cái còn dựng dọc đường mòn chuột đồng |
-| Khoa cần | ~200 g thịt/ngày |
+| Ổ của Khoa | 19 = 11 trong hố + Khoa, Nub, Snik + Zag và bốn con theo nó |
+| Thịt | 2 chuột ~200 g trong túi; đã ăn 1 chuột (chia ba) |
+| Bẫy | 4 cái bên Suối Lạnh, cần dựng lại |
+| Thế trận | 3 đối 5, Zag có gậy và đứng chỗ cao |
 
 **Tuyến đang mở**
-- Snik vừa hỏi vì sao nướng thịt; giao kèo canh gác chưa nói ra.
-- Lửa phải giấu khỏi hang.
+- Zag đòi hết thịt.
+- Mùi khói trên người Khoa.
 - Gorr sẽ còn xuống hố khi đội săn hỏng.

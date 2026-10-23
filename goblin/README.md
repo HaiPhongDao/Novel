@@ -25,6 +25,7 @@ Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin 
 | 002 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 003 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 004 | ✅ | ✅ (Agent, API 3.6-flash) | ⚠️ ĐẠT (sửa nhẹ) | |
-| 005 | ✅ | ⏳ Agent chạy (session S3) | | |
+| 005 | ✅ | ✅ (Agent, API 3.6-flash) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 006 | ✅ | ⏳ Agent chạy (session S3) | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
