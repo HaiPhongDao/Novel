@@ -9,3 +9,4 @@
 | S5 | 004, 005 bản 1 | `session-start.md` (stream) | 004 ĐẠT; 005 bản 1 VIẾT LẠI |
 | S6 | 005 bản 2 | `session-start.md` (stream) | VIẾT LẠI |
 | S7 | 005 bản 3, 006 | `session-start.md` (stream) | cả hai ĐẠT |
+| S8 | 007 → | `session-start.md` (stream) | 007 ĐẠT |

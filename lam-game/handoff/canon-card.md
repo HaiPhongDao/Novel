@@ -51,3 +51,6 @@
 **Thêm sau đoạn 006**
 - Bản thử 《退潮》: gần bờ vỏ ốc, xa hơn cua biết chạy ngang, xa nữa chai thuỷ tinh vùi nửa trong bùn; bùn xa bờ níu chân. Một con nước khoảng ba phút rưỡi. 许牧 xem góc nhìn người chơi trên laptop (造境台 bản sinh viên).
 - Vỏ ốc thật theo 姜禾: đường xoắn thu đều về một phía, mép miệng mỏng thấu sáng, mặt trong bóng như men sứ, vỏ ướt có cát mắc trong rãnh, cầm nhẹ vì rỗng.
+
+**Thêm sau đoạn 007**
+- 《退潮》 sau lần sửa đầu: sóng to và đổi thành tiếng ầm dồn dập khi nước sắp lên; đàn chim xám bay vụt lên; nước ở mắt cá lạnh buốt; con nước "试错潮" đầu mỗi lượt chỉ tới gối, mười giây rồi rút, không cuốn giỏ. Chòi gỗ là kho riêng, đồ giữ qua các lượt. Chai thuỷ tinh đựng mảnh hải đồ cũ, mở vùng bãi xa hơn.

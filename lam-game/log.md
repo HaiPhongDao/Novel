@@ -27,3 +27,4 @@
 2026-10-23 | doan-004 | Chốt; nhận: mô-đun nước 公共灾害模拟库, móc sắt nhỏ, con số 算力 0.2 / >3 giờ (Agent đặt); không nhận "收藏冰箱" (đồ cất ở chòi trên bờ) | Chi tiết phụ | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-005 | Chốt bản 3; bản 1 (微信, vào đầu 姜禾, hứa chia tiền 试映) và bản 2 (微信支付, sai số dư) → archive | Bài học: chỗ trả tiền/nhắn tin để ngỏ thì Writer điền 微信 — prompt phải ghi sẵn 短信 / 手机银行 | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-006 | Chốt; Agent đặt những chỗ sai của vỏ ốc tạm (theo 姜禾) và nội dung bản thử (ốc/cua/chai, con nước 3 phút rưỡi, xem trên laptop); 【获得…】 trái thiết kế không giao diện → sửa khi biên tập | Theo outline 006 | Agent (Tác giả đọc lại sau)
+2026-10-23 | doan-007 | Chốt; Agent đặt bốn thay đổi (sóng, chim, nước buốt, 试错潮); nhận chi tiết Writer: chòi giữ đồ qua lượt, chai đựng mảnh hải đồ mở vùng xa hơn ⏳ | Theo outline 007; hải đồ khớp "chai có giấy" trong games.md | Agent (Tác giả đọc lại sau)

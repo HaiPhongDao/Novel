@@ -66,6 +66,9 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Bản thử 《退潮》: gần bờ vỏ ốc, xa hơn cua biết chạy ngang, xa nữa chai thuỷ tinh vùi nửa trong bùn; bùn xa bờ níu chân. Một con nước khoảng ba phút rưỡi. 许牧 xem góc nhìn người chơi trên laptop (造境台 bản sinh viên).
 - Vỏ ốc thật theo 姜禾: đường xoắn thu đều về một phía, mép miệng mỏng thấu sáng, mặt trong bóng như men sứ, vỏ ướt có cát mắc trong rãnh, cầm nhẹ vì rỗng.
 
+**Thêm sau đoạn 007**
+- 《退潮》 sau lần sửa đầu: sóng to và đổi thành tiếng ầm dồn dập khi nước sắp lên; đàn chim xám bay vụt lên; nước ở mắt cá lạnh buốt; con nước "试错潮" đầu mỗi lượt chỉ tới gối, mười giây rồi rút, không cuốn giỏ. Chòi gỗ là kho riêng, đồ giữ qua các lượt. Chai thuỷ tinh đựng mảnh hải đồ cũ, mở vùng bãi xa hơn.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -80,8 +83,7 @@ Lần đầu linh hồn này 潜入 《千灯巷》 (真实度38): thật tới 
 Ở quầy 深蓝: khách 《云海栈道》 ra sau 17 phút. 老周 khoe sổ: góp 9,600元/tháng, tháng tám thu dưới 7,000元, 18 phút một lượt, không ai quay lại, sắp bán hai khoang. Khách quen duy nhất là 老李头 câu cá hai tiếng mỗi chiều ở 《静湖》. 许牧 hỏi 试映 và ngỏ ý mang một 境 tới; 老周 cười hỏi có phải 《晾衣街》 không.
 
 ### Đoạn 4 — Bãi bồi (Ngày 1, chiều → tối)
-许牧 đáp 老周: 《晾衣街》 thì chính anh còn chê, mang tới thì sẽ là thứ mới; 老周 khuyên đi nộp hồ sơ, tìm việc đàng hoàng. Tám giờ tối ở phòng thuê, anh tính sổ: 796元 sau tiền nhà, 17 ngày tới hạn nộp, 27 ngày tới khi thu 算力. 46 giờ chạy thế giới thật như 《千灯巷》 chưa tới 15 giờ người chơi; thế giới 灰模 (0.2 giờ mỗi giờ người chơi) thì khoảng 230 giờ. Anh gạt ba hướng — đánh chém (một mình không kịp), xây dựng (ngốn 算力), giải đố (chơi một lần là hết).
-Trong 素材库 miễn phí anh thấy 【公共灾害模拟库——水体与潮汐动态模块】 của mô phỏng chống lũ; kéo thông số mực nước, nghĩ ra thủy triều làm đồng hồ → 《退潮》: bãi bồi xám lúc chiều tà, giỏ tre và móc sắt nhỏ, càng xa đồ càng quý, nước lên chỉ báo bằng tín hiệu, nước tới thắt lưng thì bị cuốn về, mất cả giỏ. Bài toán thứ hai: thế giới xám sẽ bị chê → dồn cái thật vào món đồ sát mắt. Anh tự dựng một con ốc đỏ suốt nửa giờ, ra một cục "xi măng mốc". Anh mở danh bạ nhóm lớp 造境系, ngón tay dừng ở tên 姜禾.
+Tối Ngày 1: 46 giờ 算力 chạy thế giới thật chưa tới 15 giờ người chơi, thế giới 灰模 khoảng 230 giờ. Gạt ba hướng; từ mô-đun nước của mô phỏng chống lũ nghĩ ra 《退潮》. Dồn cái thật vào món đồ trong tay; tự dựng con ốc ra cục "xi măng mốc". Ngón tay dừng ở tên 姜禾.
 
 ### Đoạn 5 — Quán mì (đêm Ngày 1 → tối Ngày 2, 九月四号)
 许牧 nhắn 短信 cho 姜禾 (bốn năm cùng lớp, nói chưa tới mười câu); gần nửa đêm cô hẹn: chín giờ tối mai, quán mì bò cạnh cổng đông 长庚, cô tan ca. Ngày 2 anh dựng bản thô và quay video. 8 giờ 50 tối ở quán, anh trả hai bát mì bằng 手机银行 (30元 → còn 2,266元; sau tiền nhà còn 766元 cho 26 ngày).
@@ -91,24 +93,29 @@ Trong 素材库 miễn phí anh thấy 【公共灾害模拟库——水体与�
 Ở quán mì, 姜禾 chê vỏ ốc tạm từng chỗ: đường xoắn phải thu về một phía, mép miệng mỏng thấu sáng với lớp bóng như men sứ bên trong, vỏ vừa đào lên có màng nước và cát mắc trong rãnh, cầm phải nhẹ vì bên trong rỗng. Cô trả điện thoại, bảo mai ca sớm, rồi đi — không nói nhận hay không. Hai ngày sau cô không nhắn tin; 许牧 không giục.
 Hai ngày đó anh viết luật: bùn níu chân, móc va cát, sức chứa của giỏ, chòi cất đồ, thủy triều. Hai giờ chiều Ngày 4 (九月六号, còn bốn ngày tới tiền nhà), 老周 chê thế giới xám như bản vẽ thi công nhưng vẫn nằm vào khoang số bốn; 许牧 hứa nếu không vui thì quét quán một tuần. Trong bãi bồi, 老周 thấy móc sắt và giỏ có sức nặng, bùn lạnh thấm vào giày; ông đào được vỏ ốc "như cục xi măng", đuổi một con cua ra xa hai ba chục mét, rồi thấy nửa cái chai thuỷ tinh. 许牧 ngồi cạnh xem trên laptop, đếm giờ: phút 2:10 sóng đổi nhịp, gió lạnh đi; 2:45 nước tới mắt cá — 老周 chỉ chửi trời rồi cắm cúi đào. 2:50 nước tới gối; ba phút, nước tới thắt lưng, ông bị cuốn đi, cái giỏ (vỏ ốc, con cua, chai) tuột khỏi vai trôi trên nước xám.
 
+### Đoạn 7 — "这不是坑人么" (chiều Ngày 4)
+老周 上浮, mồ hôi trán, quát: "小许，你这不是坑人么！" 许牧 rót nước, hỏi từng thứ: sóng có đổi không (có, nhưng ai nghe tiếng nền), gió (lạnh, rụt cổ), ông có biết nước tới thắt lưng là mất giỏ không. 老周 so với máy mô phỏng bay: hỏng là đèn đỏ nháy, còi rít; ở đây không chữ đỏ, không đếm ngược. 许牧 nhận là mình thiết kế chưa rõ và sửa ngay: sóng to gấp rưỡi, đổi thành tiếng ầm dồn dập khi còn một phút; một đàn chim xám bay vụt lên; nước ở mắt cá lạnh buốt; con nước "试错潮" đầu mỗi lượt chỉ lên tới gối, mười giây rồi rút, không cuốn giỏ.
+Lần hai: chim bay, sóng ầm, nước buốt ở mắt cá, nước đẩy ở gối rồi rút — 老周 hiểu "潮水要来了". Ông đào vỏ ốc, lần mò ra cái chai; khi chim bay lần nữa ông bỏ luôn cái chai, chạy về, lao vào chòi gỗ trước khi nước tới thắt lưng; trong giỏ còn vỏ ốc và con cua. Ra khoang ông hớn hở: "比老子当年在模拟机里把飞机平稳降落还要爽！" Biết đồ trong chòi giữ lại cho lần sau, ông hỏi trong chai có gì — 许牧: mảnh hải đồ cũ, mở vùng bãi xa hơn. Ba rưỡi chiều, 老周 nằm lại vào khoang số bốn: "再给我开一次，就五分钟！"
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 006)
+## 3. Trạng thái hiện tại (hết đoạn 007)
 
-**Thời điểm:** Ngày 4 — 九月六号, khoảng hai giờ chiều.
-**Có mặt:** 老周 đang ở trong khoang số bốn của 深蓝, trong 境 vừa bị nước cuốn về bờ, mất giỏ ngay con nước đầu tiên. 许牧 ngồi ghế gấp cạnh khoang, nhìn góc nhìn của 老周 trên laptop. Quán vắng.
+**Thời điểm:** Ngày 4 — 九月六号, khoảng ba rưỡi chiều.
+**Có mặt:** 老周 vừa tự đóng nắp khoang số bốn, 潜入 lần thứ ba ("chỉ năm phút") để lấy cái chai. 许牧 ngồi ghế gấp cạnh khoang với laptop. Quán vắng.
 
 **许牧 biết**
-- Bản thử 《退潮》 chạy được: bùn, móc, giỏ, chòi gỗ cất đồ, thủy triều; con nước dài khoảng ba phút rưỡi; vỏ ốc vẫn là vỏ ốc xấu của anh. Trong 境 không có chữ hay bảng nào hiện lên: người chơi biết mình nhặt được gì bằng cách nhìn món đồ.
-- 老周 vừa: đào vỏ ốc, bắt con cua, đuổi ra xa đào cái chai; bỏ qua sóng đổi nhịp (2:10), gió lạnh, nước ở mắt cá (2:45); nước tới gối 2:50, tới thắt lưng ở phút ba.
-- 姜禾 đã chỉ ra vỏ ốc sai ở đâu (đường xoắn, mép miệng mỏng có lớp bóng, nước và cát trong rãnh, rỗng nên nhẹ); hai ngày nay cô không nhắn; cô chưa nhận lời.
+- Bản thử 《退潮》 sau khi sửa: sóng to và đổi nhịp rõ khi nước sắp lên, đàn chim xám bay vụt lên, nước ở mắt cá lạnh buốt, con nước "试错潮" đầu mỗi lượt chỉ tới gối rồi rút sau mười giây. Không có chữ hay bảng nào trong 境. Chòi gỗ trên bờ giữ đồ qua các lượt.
+- Cái chai thuỷ tinh đựng mảnh hải đồ cũ, mở vùng bãi xa hơn (anh vừa nói với 老周).
+- Lần hai 老周 về được chòi với vỏ ốc và con cua; ông đang muốn lấy cái chai.
+- 姜禾 đã chỉ ra vỏ ốc tạm sai ở đâu; từ tối Ngày 2 cô không nhắn; cô chưa nhận lời. Vỏ ốc trong 境 vẫn là vỏ ốc xấu của 许牧.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Số dư | 2,266元 |
 | Tiền nhà | 1,500元, hạn 九月十号 (còn 4 ngày) — trừ xong còn 766元 tới 九月三十号 |
-| 学生算力 | khoảng 45.5小时 (dựng và chạy thử dùng chừng nửa giờ), thu hồi 九月三十号. Thế giới xám: 0.2 giờ 算力 / giờ người chơi |
+| 学生算力 | khoảng 45小时, thu hồi 九月三十号. Thế giới xám: 0.2 giờ 算力 / giờ người chơi |
 | Hạn nộp chứng nhận 见习 | 九月二十号 (còn 14 ngày), lệ phí 600元 |
 
 **Tuyến đang mở**
@@ -177,37 +184,30 @@ Hai ngày đó anh viết luật: bùn níu chân, móc va cát, sức chứa c�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 6 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 7 (để nối mạch và giữ giọng)
 
-竹篓往下一沉，背带勒住肩膀的感觉清清楚楚。
-就在老周准备再刨一下的时候，前方五六米外的灰泥里，突然有个东西敏捷地横着窜了一下！
-老周眼睛瞬间亮了：“卧槽？这蟹还会跑？！”
-舱外，许牧坐在折叠凳上，静静地看着笔记本屏幕上的视角画面。
-屏幕里，老周正蹑手蹑脚地追着那只灰色的螃蟹往浅滩深处走去。
-老周的身影越走越远，不知不觉中已经距离干涸的海岸线有二三十米了。
-在那里，泥水的阻力明显变大，老周每走一步，腿都要从黏稠的泥里拔出来，速度慢了一大截。
-但他显然被吸引住了——因为在更远处的泥滩里，露出了半个灰色的玻璃瓶形状。
-许牧看了眼系统后台的时间计时。
-三分半钟的涨潮循环，已经到了两分十秒。
-远方的浪涛声突然发生了微弱的变化，从原本平缓的拍岸声，变成了频率略快的急促轰鸣。
-紧接着，迎面吹过来的风，温度骤降了大约两度。
-老周的镜头晃动了一下，显然他也感受到了风吹在脸上的刺骨凉意，但他只是缩了缩脖子，嘴里骂了一句“这破天气”，眼睛依然死死盯着那个半埋在泥里的玻璃瓶，弯下腰奋力地用铁钩去抠。
-两分四十五秒。
-冰凉的海水悄无声息地漫过了老周的脚踝。
-如果是职业玩家，此时警钟早已在脑海中狂响。
-但老周只是抬脚跺了跺，嘴里嘀咕了一声“这水怎么突然涨上来了”，依然舍不得放弃眼前那个快要抠出来的玻璃瓶。
-许牧看着屏幕，双手环抱在胸前，一言不发。
-作为策划，在这个时候绝对不能开口提醒。
-他要看的，就是玩家在没有任何系统UI干预的情况下，靠本能做出决策的过程，以及——决策失败后的代价。
-两分五十秒。
-老周终于把那个灰色的玻璃瓶抠了出来，脸上露出一丝喜色。
-可当他喜滋滋地准备转身时，海水已经猛地漫到了他的膝盖！
-浪潮的推力瞬间袭来，泥滩里的脚根本拔不出来，老周身子一个晃荡，差点栽倒在水里。
-“卧槽！这潮涨得怎么这么快？！”老周慌了，拔腿就想往岸边跑。
-但在水流阻力和泥滩吸力的双重作用下，他的移动速度慢得像龟爬。
-三分钟整。
-一股狂暴的暗流从侧方轰然拍来，深灰色的海水瞬间漫过了老周的腰际！
-老周整个人被浪头拍得失去了平衡，直接被卷进了急流之中。
-背上的竹篓受力脱落，那个装了水泥螺壳、灰色螃蟹和玻璃瓶的竹篓在灰色的浪花里剧烈晃动了几下，彻底脱离了他的身体，顺着海水向远处漂去。
+“那当然！那鸟一飞，那水冻得老子脚骨头发酸，再不跑那是傻子！”老周几步跨到柜台前，拿起水杯又猛灌了一口，眼睛亮得发光，“哎，小许，我那螃蟹和螺，扔在木屋里了，下回进去还在不在？”
+“在。”许牧说，“只要你不手动清空，木屋就是你的个人仓库，里面的东西一直留着。”
+老周眨了眨眼，好半天才回过神来，砸吧了一下嘴：“仓库……你是说，老子下次进去，还能接着攒？”
+“能攒。”许牧看着他，“周哥，试完了，感觉怎么样？”
+“怎么样？”老周摸了摸下巴上的胡茬，眼神里带着一股说不出的复杂，“说实话……刚开始死的时候想骂娘。但刚才把那竹篓扛进木屋的时候……卧槽，那感觉，比老子当年在模拟机里把飞机平稳降落还要爽！”
+他越说越兴奋，伸手在虚空中比画着：“主要是那潮水推着腿的感觉，还有那水冻得人发麻的冰冷感……太他妈真实了！小许，你这规则脚本改得可以啊！”
+许牧笑了笑，没有接这话。
+游戏策划的核心技巧之一，就是用感官和规则引导玩家做出决策。
+只要决策成功后的反馈足够强烈，哪怕过程再艰难，玩家也会把这种体验归结为“自己的智慧和反应”，从而获得极大的成就感。
+“行了，试也试过了。”许牧看了眼墙上的挂钟，下午三点半了，“周哥，要是没什么问题，我就先上去了，不耽误你开门营业。”
+他说着伸手去合笔记本电脑。
+“等等！”老周突然喊了一声，伸手一把按住了许牧的电脑盖子。
+许牧抬起头：“怎么了？”
+老周咽了口唾沫，眼神在四号舱和许牧电脑之间来回扫了两圈，脸上露出一个有些不好意思的笑：
+“那个……小许啊，你刚才说，那个玻璃瓶里……装的是啥来着？”
+“我不告诉你了么，是个旧时代的海图碎片，能解锁更远的滩涂区域。”许牧看着他。
+“海图碎片……”老周念叨了一句，眼神里的光越来越亮。
+他突然站起身，把老花镜往头顶上一推，一边往四号舱走，一边摆了摆手：
+“不行不行，刚才就差那么一点点！老子这次掌握规律了，鸟一飞我就去抠，绝对能抢在水漫上来之前把它掏出来！”
+许牧愣了一下：“周哥，你不上浮休息一会儿？这舱连续潜入对精神有负担。”
+“负担个屁，老子身体好着呢！”老周已经一屁股躺回了四号舱里，伸手去拉舱盖，“再给我开一次，就五分钟！我就进去把那个瓶子掏出来就出来！”
+话音未落，啪嗒一声，四号舱的舱盖被他自己狠狠地合上了。
+上面的绿灯再次闪烁起来。
 
-(Đoạn 7 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 8 sẽ bắt đầu ngay sau chỗ này.)
