@@ -53,3 +53,7 @@ Chiều ngày2 trước tối: nhóm về Stonewake, nghe Dain báo ca. Hẹn �
 ### Diễn biến làm việc 012
 
 Cuối ngày2: đọc giấy, nhìn sân, về nhà trực khi tối. Đánh dấu nghĩa vụ, chưa ký/thu thêm.
+
+### Diễn biến làm việc 013
+
+Tối ngày2: đề nghị thử7ngày từ3–9,3bạc trả cuối kỳ, giữ hợp đồngcũ. Alden còn phải hỏi chủ, chưa ký/thu.

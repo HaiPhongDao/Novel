@@ -79,3 +79,9 @@ Alden đưa dự thảo thay hợp đồng cũ bằng 90 ngày tính từ ngày 
 Rowan tính thêm12bạc cả90ngày, đọc nghĩa vụ bảo đảm hàng và gọi đêm. Dain nêu thiếu ngủ; ra sân, Mira chỉ góc khuất và khóa cửa do người bốc dỡ giữ. Rowan đề nghị ranh/giờ rõ, giữ trật tự thay bảo chứng hàng.
 
 Về nhà trực đã tối ngày2, Alden đánh dấu giấy, hỏi thực sự nhận thêm việc nào. Chưa ký/thu; quỹ35,7 và8gác giữ nguyên.
+
+### Đoạn 013 — đề nghị thử giữ đường
+
+Rowan hoãn84/90, giữ24/30 và đề nghị riêng bảy ngày từ sáng ngày3 tới hết ngày9, thêm3bạc trả sau đủ kỳ. Hai gác đi giờ đông, ít nhất sáu ở bến; đêm theo cũ. Chủ bến giữ người ghi xe/khóa, đội giữ trật tự trong ranh tư. Alden ghi mang hỏi chủ, hỏi giờ lượt đầu nếu được chấp thuận.
+
+Chưa ký/thu. Quỹ35,7. Một số giờ trong thoại mâu thuẫn được ghi review,014 cần chốt lịch ban ngày trước thực thi; hồi tưởng xe chiều về bến không phải sự kiện.

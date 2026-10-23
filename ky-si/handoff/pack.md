@@ -110,19 +110,25 @@ Rowan tính thêm12bạc cả90ngày, đọc nghĩa vụ bảo đảm hàng và 
 
 Về nhà trực đã tối ngày2, Alden đánh dấu giấy, hỏi thực sự nhận thêm việc nào. Chưa ký/thu; quỹ35,7 và8gác giữ nguyên.
 
+### Đoạn 013 — đề nghị thử giữ đường
+
+Rowan hoãn84/90, giữ24/30 và đề nghị riêng bảy ngày từ sáng ngày3 tới hết ngày9, thêm3bạc trả sau đủ kỳ. Hai gác đi giờ đông, ít nhất sáu ở bến; đêm theo cũ. Chủ bến giữ người ghi xe/khóa, đội giữ trật tự trong ranh tư. Alden ghi mang hỏi chủ, hỏi giờ lượt đầu nếu được chấp thuận.
+
+Chưa ký/thu. Quỹ35,7. Một số giờ trong thoại mâu thuẫn được ghi review,014 cần chốt lịch ban ngày trước thực thi; hồi tưởng xe chiều về bến không phải sự kiện.
+
 ---
 
-## 3. Trạng thái sau 012
+## 3. Trạng thái sau 013
 
-Tối ngày2, vừa từ sân về nhà trực Stonewake, đèn dầu sáng. Alden đánh dấu câu bảo đảm toàn vẹn/gọi là có và khóa cửa phụ, hỏi Rowan nhận được việc gì.013 nối ngay câu trả lời, không trở lại chiều hoặc ngày3.
+Tối ngày2 nhà trực, Alden ghi đề nghị mang hỏi chủ, chưa rời ngay; hỏi nếu chủ đồng ý đêmnay thì sángmai tuần đầu khởi lúc nào.014 đáp ngay rồi chuyển sang sángngày3 trong đoạn.
 
-Quỹ35,7bạc không đổi; chuyến hộ đã thu đủ, chưa khoản mới phải thu. Hợp đồng cũ24/30 từngày1 có hiệu lực,12đã nhận nằm trong24. Dự thảo84/90 từngày1 đãgồm12cũ, chưa ký/thu thêm; cùng90ngày tăng12=4/30. Phạm vi/giờ Rowan đề nghị còn đang bàn. Dự toán18tháng chưa chi gộp: lương9(Dain2+bảyngười1),ăn6,vật tư3.
+Quỹ35,7 không đổi; 8gác Dain/Bram hai cựu+Toma/Jory/bốn mới; Rowan ngoài8. Chưa nhận người quenJory, hẹn ngày3 tới cổng. Dự toán18tháng không chi gộp. Hợp đồngcũ24/30,12cũ đã nhận trong24, vẫn hiệu lực;84/90 đãgồm12cũ chỉ dự thảo hoãn, không tiền mới.
 
-8gác=Dain+Bram+Toma+Jory+4mới, Rowan ngoài8,9miệng ăn. QuenJory được tới cổng ngày3 xin gặp, chưa hiện/chưa nhận/lương. Mira/Alden/Oswin ngoài đội. Khi2gác đi đường phải giữ6ởbến, không giải quyết bằng lính chưa tuyển.
+Đề nghị thử riêng7ngày từ sángngày3 tới hếtngày9, thêm3bạc trả sau hoàn thành, chưa ký/thu và chưa ghi khoản phải thu. Hai gác đi đường vào giờ đông ban ngày, ít nhất6gác còn ở bến; đêm phạm vi cũ. Ranh đường tư chủbến, không thu phí/đất/quyềncông. Chủbến phụ trách ghi xe/khóa/kiểm hàng, đội trật tự, báo và xử lý sự cố theo quyền thực; không bảo chứng nguyên vẹn từng kiện hàng hoặc hứa không có sự cố.
 
-Mira báo góc khuất và khóa cửa phụ do hai đầu bốc dỡ giữ, chưa đổi khóa/giao quyền. Mất hàng là rủi ro giả định, chưa xác nhận nội gián. Lời Alden kể về tháng trước là lời kể, không băng lớn đã chứng minh. Lịch hai ca4trong thoại là tính sơ bộ, cần tính giờ nghỉ thật.
+Lịch giờ trong013 mới phác và mâu thuẫn (chiều từlặn1时辰 lấnđêm; người kể lặp nhầm1,5).014 phải làm rõ đápAlden: đầu buổi sáng trước chuyếnphà đầu khi đủsáng, buổi chiều xong trước khóa cổng/trời tối, Dain kiểm ca/nghỉ, không cố giữ số giờ sai. Trả công đủ ca đã thống nhất và xử lý/báo sự cố, không điều kiện tuyệt đối không có loạn. 12tạmứng cơ chế cũ, không canon hóa khấu từngngày.
 
-Mộtphà; quyền kho/lái/bốc dỡ của chủ và người làm chuyên môn. Rowan chưa có đất/quyềnthuế. Toma长矛收势13/100积累0,随车换位5/100积累0, không tăng.013 dùng việc thực đàm phán giới hạn/thử, chưa tự tăng quân hoặc ký dài hạn.
+Hồi tưởng xechiều013 sai: xe đã giao khoGreyford, nhóm4đibộ về chiều2, Alden không ởGreyford xem toànchuyến. Không thêm xe/phà. Toma长矛收势13/100积累0;随车换位5/100积累0. Khóa/cửa phụ còn phía bốc dỡ, chưa bàn giao; chưa nộigián xác nhận.
 
 ---
 
@@ -138,21 +144,21 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 13 (để nối mạch và giữ giọng)
 
-Rowan抬手划了一道线，“我的队伍接的是引道和货场的巡视弹压，防的是外贼劫掠、堵路生事、拔刀斗殴。我们要保证的是引道畅通、货场不起乱子，绝不给任何货主私车包揽‘折损赔付’。真要点验货物，得是东家自己的帐房先生过目入库，货栈偏门的钥匙若不交到卫兵手里，偏门夜里就必须上死锁，违规开门丢失的物件，由持锁的脚头自己担着。”
-Alden思忖着点了点头：“这倒在理，确实不能让卫兵替脚夫背黑锅……那夜里的巡查呢？”
-“第二，时限要定。”
-Rowan继续道，“白日从开渡到日落，引道设固定巡哨，保证车马不起冲突；到了夜间，货场落锁，我的弟兄只负责按时辰在外围定线巡视，查验门锁与火烛。至于什么‘随叫随应’，夜间非紧急遇袭或起火生乱，卫兵不起私哨，更不会半夜爬起来给迟到的车队当引路的向导。”
-Dain在后头听着，暗自松了一口气。把责任从“包赔货物”拉回到“维持治安”，又钉死了夜巡的时段，弟兄们的轮转就彻底活了，不至于被无休止的杂事拖垮。
-Mira单手叉着腰，看了一眼条理分明的Rowan，用手里的油布抹了把扳手，轻笑了一声：“Alden，我看这位年轻队长比你那糊涂账本清醒多了。要是渡口早按这规矩办，上个月那两帮赶车的也打不起群架来。”
-Alden苦笑了一声，擦了擦额头被风吹出来的冷汗。他原以为这位年轻骑士刚立了功，手头正缺进项，拿一份总额八十四枚银币的大契约压下来，对方多半会咬牙接了这盘杂活。
-没想到这位年轻人连一个铜子的虚数都没被晃花眼，三两句话就把责任、人手和时限拆得干干净净。
-一行人走回哨所木屋，天色已经完全暗了下来。
-桌上的油灯被重新挑亮，昏黄的光晕照在摊开的羊皮纸上。
-Alden从怀里掏出一根细炭条，在纸上那几处写着“保其完好”、“随叫随应”的粗墨条款下重重画了两道横线，又在货场偏门责任的地方添了个小小的记号。
-他抬起头，看向神色自若的Rowan，语气里少了几分商贾的机巧，多了几分不得不正视的谨慎：
-“Rowan队长，您划出来的这几条，全打在实处上。可东家多掏这整整十二枚银币，哪怕是摊在三个月里，也总归是想从原先的防务里多买出几分实惠来。若是真按您说的，去了包赔货损、去了随叫随应，那在这份新改的长契底下……您和您的弟兄，究竟能替渡口实打实接下哪几份硬差事？”
-Rowan右手按在腰间的佩剑圆柄上，指节在皮带扣上轻轻一敲，眼底浮起一丝笃定的神色。
+Rowan取过桌上的炭条，就着羊皮纸边角的空白处划出了两道竖杠，“白天派出的两名卫兵，专盯这两个最要紧的关口。早上从第一班驳船起锚前三刻钟开始，到引道第一波车流彻底理顺为止，巡查压阵一个半时辰；傍晚从落日开始，到渡口大门落锁为止，再巡查一个时辰。中间清闲的时段，卫兵撤回哨所休整，照旧参与码头的常规轮换。”
+他手里的炭条在纸上顿住，留下一个醒目的黑点。
+“但有两件事必须说明白。第一，引道巡路，只负责公私界桩以内的私家地界，公路上怎么堵、外来人怎么吵，只要没踩进渡口的引道门槛，我的卫兵绝不越权插手，更不会去替你们向过路客商收什么进场杂税；第二，引道大门上锁与登车造册，必须由东家自己派个得力的帐房跟着。每天进出多少辆大车、货物有无毁损，那是你们的人拿笔核对。卫兵手里握的是长矛，只管人不讲规矩，不管箱子里少没少半寸布。”
+一番话说完，屋里安静了片刻。
+Dain仔细核算了一下早晚两头的时辰，紧绷的肩膀微微松弛下来，点了点头。早晚各卡一个半时辰左右的硬差，中间能回营房喝口热水歇歇脚，人手虽然紧凑，但咬咬牙能够轮转得开，不至于把手底下的年轻新兵拖垮。
+Mira看了Rowan一眼，端起冷掉的茶水抿了一口，没再反驳。在码头这种鱼龙混杂的地方，把防人的刀和算账的笔分得这么利落的带兵人，她确实没见过几个。
+Alden盯着纸上被改动划记的几个条目，心里那点想要用长契套住整片杂务的念头彻底打消了。面前这位年轻骑士年纪虽轻，行事却像个打了十几年仗的老行伍，每一寸地界、每一个时辰、每一个银币的分量，都卡得极准，半点便宜也不肯虚让。
+但换个角度想，能把人手和防务算得这么扎实的队伍，真放到了乱哄哄的引道上，也确实比那些只会吹嘘的大话佣兵管用得多。
+“行。”
+Alden从袖子里抽出一卷空白的粗麻纸，就着桌上的墨水和细炭条，把Rowan刚才定下的条件逐字逐句记了下来。
+写完之后，他吹了吹未干的字迹，小心地折好收进怀里。
+“Rowan队长，您定下的这套规矩，听着确实是实打实的章程。不过我毕竟只是个当差办事的管事，这七天加三枚银币、只管治安不包货损的试行法子，我得连夜回禀东家，由东家亲自点头才作数。”
+Alden收好纸卷，抬起头看着Rowan，问出了最后一句关键的话：
+“要是今夜东家点了头、应下了这桩试行的差事——那明早引道巡查的第一趟差，你们打算几刻动身？”
 
-(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 14 sẽ bắt đầu ngay sau chỗ này.)

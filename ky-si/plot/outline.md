@@ -19,3 +19,19 @@
 | 013 | Dùng kết quả thật đàm phán lại | Đang bàn hướng giữ tuyến đường; chưa tự phong đất/tăng quân |
 
 001–005 cùng ngày đầu; thời điểm sau ghi khi lập brief. Ngày của phần sau chỉ ghi khi lập brief. Phí thêm, thiệt hại, thưởng, quân số sau 001 phải điền trước khi dùng.
+
+## Triển khai thường lệ tiếp theo — kế hoạch làm việc 23/10
+
+Theo yêu cầu viết liên tục đến khi chạm quota, Agent triển khai tiếp bài toán giữ bến/giữ đường trong premise hiện hành. Đây là kế hoạch làm việc, chưa phải sự kiện, chưa ghi Tác giả duyệt chi tiết. Giữ nguyên luật bảng, đội tám gác, chưa phong đất/thu thuế/chiến tranh hoặc twist lớn. Điều chỉnh nhịp thường lệ theo bản thực tế, ghi review và log.
+
+| Đoạn | Chuyện chính dự kiến | Điểm nối |
+|---|---|---|
+| 014 | Trả lời giờ tuần thử, chuyển trong đoạn sang sáng ngày3; chủ bến trả lời phương án thử có giới hạn | Chuẩn bị bàn giao tuyến, người xin việc tới cổng |
+| 015 | Gặp người quen Jory, xem việc biết làm và yêu cầu thực tế; chưa mặc định thành lính vì khỏe | Cần kiểm qua một việc cụ thể ở sân |
+| 016 | Bàn giao cổng/giờ tuần đầu, người mới làm việc dưới quan sát | Lệnh nghe hiểu chưa thành thao tác trong chỗ đông |
+| 017 | Luyện đúng vấn đề thấy ở lượt đầu, bảng chỉ hỗ trợ phần đã luyện | Thử lại trong ca có xe thật |
+| 018 | Giữ tuyến lúc hai nhóm xe tranh lối; phân người và phần việc, không tự quyền tịch thu/thuế | Một bên không chịu nhận lỗi vì điều kiện đường |
+| 019 | Giải quyết bằng người có quyền vận hành và hành động đội | Handover cho ca bến, xét cái đã làm/cái thiếu |
+| 020 | Cuối ngày3 đối chiếu ca nghỉ và việc thử người; khoản chi thật mới vào sổ | Điều chỉnh buổi tuần sau theo phản hồi |
+
+Đề nghị công thử đường ở013:7ngày (ngày3–9),3bạc trả sau hoàn thành, hợp đồng24/30 cũ vẫn riêng. Chỉ khi viết ra và hai bên chấp thuận mới thành nghĩa vụ. Người xin việc chưa tên/giá/lương: lập brief trước khi dùng, không cộng vào8gác hoặc cho bảng nghề thợ tự động.

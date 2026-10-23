@@ -1,9 +1,9 @@
 {
-  "latest": 12,
+  "latest": 13,
   "cash": 35.7,
   "receivables": [],
   "sessionUrl": "https://aistudio.google.com/prompts/1K7LnQzu_DsZReNTifdy7OHFfzEYriMSn",
-  "sessionSegments": 1,
+  "sessionSegments": 2,
   "decision": "SỬA NHẸ",
   "authorApproved": false
 }
