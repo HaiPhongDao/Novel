@@ -29,6 +29,7 @@
 | 009 | ✅ | ✅ (S9) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 | 010 | ✅ | ✅ (S9) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 | 011 | ✅ | ✅ (S10) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
+| 012 | ✅ | ⏳ bản 1 cụt (stream đứt) → `archive/`; chờ hạn mức gemini-3.6-flash (20 lượt/ngày) | | |
 
 ## Mục lục
 
