@@ -7,7 +7,7 @@ Bản: `chapters/doan-003.md` (Tác giả dán 23/10, chat mới, SI v2.1, gemin
 - ⚠️ "五年前的老湖景" — trái chính đoạn 001: 潜入舱 dân dụng mới có khoảng hai năm. Sửa khi biên tập (vd. 开业那年的老湖景).
 - ⚠️ "澜城大学" — đoạn 001 là "澜城高等造境学院". Sửa khi biên tập.
 - ⚠️ "九年主机游戏策划" — đoạn 001: dự án cuối là 二次元卡牌 (game điện thoại). Bỏ "主机".
-- ⚠️ Cổng engine: đoạn 001 ghi "72小时后正式停用" (đồng hồ đếm ngược tới lúc khoá); đoạn này viết thành "剩余时长…七十个小时" như giờ dùng còn lại. Lỗi do prompt ("còn khoảng 70 tiếng" mơ hồ). Prompt 004 ghi rõ: cổng khoá sau khoảng 68 tiếng.
+- ⚠️ Cổng engine: đoạn 001 ghi "72小时后正式停用" (đồng hồ đếm ngược tới lúc khoá); đoạn này viết thành "剩余时长…七十个小时" như giờ dùng còn lại. Lỗi do prompt ("còn khoảng 70 tiếng" mơ hồ). Prompt 004 ghi rõ: cổng khoá sau khoảng 60 tiếng (đủ 72 tiếng tính từ sáng ngày 1).
 - ⚠️ "这在地球上" — nhắc kiếp trước bằng "地球"; không phải quốc gia nhưng là câu giảng. Soát khi biên tập.
 
 ## Cốt truyện
