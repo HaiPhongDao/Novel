@@ -28,3 +28,5 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (005 bản 2) "全潜" — thuật ngữ trôi như "全真潜入".
 - (006) "人民币", "银行LPR" — tiền tệ / lãi suất của nước có thật; dùng "元", "银行同期利息".
 - (006) Thử ở nhà mà có cảm giác toàn thân — 潜入 cần khoang; trình mô phỏng ở nhà chỉ có hình, tiếng, lực tay cầm.
+- (005, 006, 008) 许牧 thuyết phục bằng cách khích (激将) — lặp thành công thức; prompt cho người khác tự quyết bằng lý do của họ.
+- (008) "虚拟头显" — 潜入舱 dùng miếng dán cảm ứng, không có kính đội đầu.

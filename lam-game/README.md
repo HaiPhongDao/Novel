@@ -31,8 +31,8 @@
 | 005 | ✅ bản 2 | ✅ bản 2 (bản 1 → `archive/`) | ✅ ĐẠT (bản 1 VIẾT LẠI) | |
 | 006 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
 | 007 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
-| 008 | ✅ | ⬜ file trống — chờ dán | | |
-| 009 |  | ⬜ file trống — chờ dán | | |
+| 008 | ✅ | ✅ | ✅ ĐẠT (lỗi nhẹ) | |
+| 009 | ✅ | ⬜ file trống — chờ dán | | |
 | 010 |  | ⬜ file trống — chờ dán | | |
 | 011 |  | ⬜ file trống — chờ dán | | |
 | 012 |  | ⬜ file trống — chờ dán | | |
