@@ -53,3 +53,8 @@
 - Giao kèo Ko–Yeg: Yeg giữ kín chuyện Ko có lửa (Ko nói nhặt từ cây sét đánh); Ko mang thịt nướng hoặc đá nóng cho Mẹ Ổ; ban ngày hai con già canh cửa không cản Ko.
 - Mẹ Ổ: ~10 ngày một ổ; lạnh hoặc đói thì không đẻ.
 
+**Đã lên trang ở đoạn 8**
+- Đăng chắn cá (鱼梁) ở vũng nước thượng nguồn 冷溪: kè đá chữ V ngược, khe rộng hai bàn tay; lờ hình nón đan cành liễu có hom ngược đặt ở khe. Cá nhỏ dài một ngón tay; cá to dài hai bàn tay tới một cẳng tay.
+- Con non lớn nhanh: Ngày 1 dài hai bàn tay, Ngày 9 cao ~0,5 m, ~Ngày 20 cao 0,9 m.
+- Cây khô cách đăng mười mét — chỗ canh của Snik.
+

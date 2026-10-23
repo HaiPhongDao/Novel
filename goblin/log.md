@@ -47,3 +47,6 @@
 2026-10-23 | dự án | Tác giả tự chạy Writer trên AI Studio (gemini-3.6-flash) thay cho API để tiết kiệm (~0,03 USD/đoạn) | "mỗi lần tôi tự tay copy sẽ tiết kiệm được 1000 đồng" | Tác giả
 2026-10-23 | doan-007 | Review: ĐẠT (sửa nhẹ), 2.242 chữ Hán. Sửa "十根指头" → "八根指头" (tay bốn ngón). Khoa tự xưng "Ko". Góc than nằm ngay miệng ngách Mẹ Ổ (theo 006–007) | Review | Agent (ghi log)
 2026-10-23 | doan-008 | Gom outline 007–008: Gorr tới lấy thịt của Mẹ Ổ (Yeg giữ lời) → nhảy tới ~Ngày 9, đăng chắn cá ở 冷溪, chia bước, Nub làm mẫu. Con non cao ~0,5 m ở Ngày 9 (cấp số tăng trưởng vì 006 vẫn để "两掌长") | Dàn ý | Agent (ghi log)
+2026-10-23 | quy trình | Session S4 viết tiếp quá 2 đoạn; Tác giả theo dõi và báo khi thấy giọng trượt (thay luật cứng 2 đoạn/session cho truyện này) | "chưa cần thay đổi session, tôi sẽ báo nếu thấy trượt" | Tác giả
+2026-10-23 | doan-008 | Review: ĐẠT (sửa nhẹ), 2.369 chữ Hán. Chính văn để Gorr đi về phía hố ổ mà không kể tiếp → Agent chốt: đêm Ngày 5 Gorr lấy con non thứ ba (bộ lạc 125, hố còn 10, ổ Khoa 18) | Giữ số chạy | Agent (ghi log)
+2026-10-23 | doan-009 | Gorr bắt gặp đăng → Khoa nộp cá (outline 007–008 "Gorr phát hiện → nộp cá"); cống nạp hằng ngày ~2/3 kg cá; Khoa giấu phần còn lại hong khói, đêm nào cũng mang cá nướng cho Mẹ Ổ; dừng đêm Ngày 11 Yeg kéo Khoa vào ngách Mẹ Ổ (mở đầu outline 010 — ổ mới) | Dàn ý | Agent (ghi log)
