@@ -19,7 +19,7 @@ Ngày 1 (九月三号), sau khi thấy 《千灯巷》 không có gì để làm
 Sau một dòng chuyển cảnh, đã là chín giờ tối Ngày 2 ở quán mì. Cả cảnh kể từ mắt 许牧: anh nhìn, nghe và đoán; 姜禾 chỉ có lời nói, nét mặt và việc làm — cô ăn, đặt đũa, vén tóc, hỏi lại. Anh tới trước và gọi hai bát mì bò; cô tới, ngồi xuống, ăn. 许牧 kể ý tưởng. 姜禾 nói thẳng rằng 灰模 là lười, và hỏi vì sao lại tìm cô. 许牧 trả lời bằng lý do của người thiết kế: chỉ một món, sát mắt, phải thật hơn mọi thứ cô từng sửa; anh nói vì sao một mình anh không làm được. Cô hỏi lại những câu của người làm nghề và hỏi anh trả cô bao nhiêu; 许牧 nói thật chuyện tiền của mình và nói thứ anh đưa ra được. Cô không trả lời chuyện đó, chỉ hỏi bản thô của anh đâu. Hai người nói với nhau trọn câu, người này đáp đúng cái người kia vừa nói.
 
 【Những điểm bắt buộc】
-- Ca mười hai tiếng của 姜禾 kết thúc lúc chín giờ tối; bát mì 15元, 许牧 trả cả hai bát (30元, số dư còn 2,266元).
+- Ca mười hai tiếng của 姜禾 kết thúc lúc chín giờ tối; bát mì 15元, 许牧 trả cả hai bát bằng 手机银行 (30元, số dư còn 2,266元; trừ tiền nhà 1,500元 thì còn 766元 tới cuối tháng).
 - 姜禾 chưa nhận lời trong đoạn này.
 - 许牧 trình bày bằng việc người chơi làm và cảm thấy; không nhắc tới trò chơi nào của kiếp trước.
 
