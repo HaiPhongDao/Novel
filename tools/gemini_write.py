@@ -134,7 +134,7 @@ def main():
     out = story / "chapters" / f"doan-{n}.md"
     if not brief.exists():
         raise SystemExit(f"Chưa có prompt {brief.relative_to(REPO)}")
-    if out.exists():
+    if out.exists() and out.read_text(encoding="utf-8").strip():
         raise SystemExit(f"Đã có {out.relative_to(REPO)} — chuyển bản cũ vào archive/ trước khi viết lại (thường kèm --moi).")
     si_path = story / a.si if a.si else tim_si(story)
 
@@ -143,7 +143,7 @@ def main():
     moi = a.moi or not ses or len(ses["doan"]) >= SO_DOAN_MOI_SESSION or ses.get("si") != si_path.name
 
     if moi:
-        truoc = sorted(story.glob("chapters/doan-*.md"))
+        truoc = sorted(s for s in story.glob("chapters/doan-*.md") if s.read_text(encoding="utf-8").strip())
         if truoc:
             so_cuoi = int(re.search(r"doan-(\d+)", truoc[-1].name).group(1))
             if so_cuoi != int(n) - 1:
