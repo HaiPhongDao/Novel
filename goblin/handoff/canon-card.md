@@ -63,3 +63,8 @@
 - Giàn hong khói ở hố đất thượng nguồn 冷溪: lửa âm ỉ ban ngày, cá xiên cành treo cách than nửa mét, phủ cành dương ướt và rêu.
 - Đêm nào Khoa cũng đưa Yeg một con cá nướng ấm cho Mẹ Ổ; Yeg nhai mớm.
 
+**Đã lên trang ở đoạn 10**
+- Trứng goblin: bầu dục cỡ quả dưa, vỏ da mềm nửa trong; Yeg vùi trong hố tro than ấm lót rêu; nở sau hai ngày. Lạnh thì chết trong vỏ.
+- Ổ mới: 34 trứng, đẻ đêm Ngày 11, nở chiều Ngày 13.
+- Trời lạnh dần, cá nước lạnh xuống chỗ sâu: đăng còn ~1 kg/ngày (trước ~3 kg).
+

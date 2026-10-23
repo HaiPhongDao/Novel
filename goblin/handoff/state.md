@@ -1,23 +1,25 @@
-## 3. Trạng thái hiện tại (hết đoạn 9)
+## 3. Trạng thái hiện tại (hết đoạn 10)
 
-**Thời điểm:** đêm Ngày 11 (tròn mười ngày từ khi ổ của Khoa nở).
-**Có mặt:** khe đá trên vách hang chính. Yeg nắm cổ chân Khoa kéo ra khỏi khe, gọi khẽ "Ko" — Mẹ Ổ bắt đầu động. Nub nằm cạnh Khoa trong khe. Gorr ngủ ở hang chính.
+**Thời điểm:** chạng vạng Ngày 13.
+**Có mặt:** hang chính 蝙蝠洞. Gorr ngồi trên tảng đá giữa hang, dao trong tay, trước mặt là ~1 kg cá gầy Khoa vừa đổ ra; Khoa đứng trên tảng đá trước mặt Gorr. Mắt độc của Gorr vừa ngẩng về phía ngách sâu, nơi 34 con non mới nở đang kêu trong hố ổ. Mười con non ổ trước ngồi trên mép hố. Nub, Snik, Zag, Mok ở gần. Yeg ở góc than cạnh ngách Mẹ Ổ.
 
 **Nhân vật chính biết**
-- Giao kèo với Yeg đang chạy: mỗi đêm một con cá nướng ấm cho Mẹ Ổ; Mẹ Ổ hết run.
-- Cống nạp ~2 kg cá/ngày cho Gorr; Gorr thôi nhòm hố ổ từ khi có cá.
-- Còn ~49 ngày tới tuyết; mùa đông ~100 ngày; năm ngoái chết 112.
+- Giao kèo với Yeg; Mẹ Ổ vừa đẻ 34 trứng nhờ cá nóng; Yeg mừng như được cứu.
+- Cống nạp cho Gorr đã quen 2 kg/ngày; hôm nay chỉ ~1 kg, không giữ lại gì.
+- Đăng sẽ ngày càng ít cá khi trời lạnh.
+- Kho cá hong khói giấu ở hố đất thượng nguồn 冷溪 — Gorr không biết.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Bộ lạc | 125 |
-| Hố ổ | 10 con non ổ của Khoa |
-| Nhóm năm | Khoa, Nub, Snik, Zag, Mok — cao ~0,5–0,6 m |
-| Đăng cá | ~3 kg/ngày: ~2 kg nộp Gorr, ~1 kg Khoa giữ (nhóm năm, Mẹ Ổ, hong khói) |
-| Bẫy chuột | 1–2 con/đêm |
-| Ngày tới tuyết | ~49 |
+| Bộ lạc | 159 = 125 + 34 con mới nở |
+| Hố ổ | 34 con mới nở (dài hai bàn tay); mười con non ổ trước đã ra mép hố |
+| Nhóm năm | cao ~0,5–0,6 m |
+| Đăng cá | ~1 kg/ngày và còn giảm |
+| Kho cá hong khói | ~2,5 kg (Gorr không biết) |
+| Ngày tới tuyết | ~47 |
 
 **Tuyến đang mở**
-- Mẹ Ổ sắp đẻ ổ mới.
-- Gorr ăn con non khi thiếu thịt; cống nạp cá là thứ giữ hắn khỏi hố.
+- Gorr đói, nhìn về hố ổ có 34 con mới nở.
+- Mười con non ổ trước cũng thèm lũ mới nở.
+- Cá giảm theo mùa — cần nguồn thức ăn khác trước tuyết.

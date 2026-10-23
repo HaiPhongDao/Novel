@@ -30,8 +30,8 @@ Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin 
 | 007 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 008 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 009 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
-| 010 | ✅ | ⬜ file trống — chờ dán (cùng chat S4) | | |
-| 011 | | ⬜ file trống | | |
+| 010 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 011 | ✅ | ⬜ file trống — chờ dán (cùng chat S4) | | |
 | 012 | | ⬜ file trống | | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
