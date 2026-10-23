@@ -43,3 +43,8 @@
 
 **Thêm sau đoạn 010**
 - 姜禾 nhận làm cua, chai, hải đồ và làm lại vỏ ốc (tối 九月九号). Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; chỉ làm sau ca.
+
+**Thêm sau đoạn 011**
+- 《退潮》: ba con nước một lượt, tối dần (chiều tà → hoàng hôn → tối hẳn); trời tối thì hải đồ trong chai phát sáng mờ, tiếng báo nước lên bị gió sóng lấn. Dụng cụ treo vách chòi, đổi bằng cách đặt đồ lên kệ gỗ bên dưới (kệ ủng có tám rãnh vừa đáy vỏ ốc): ủng = 8 vỏ ốc (nhanh 30%, không bị bùn hút giày), cào = 3 cua (đào một lần), đèn bão = 2 chai (sáng bán kính 5 mét).
+- Con cua của 姜禾 (`crab_model_v1.mesh`): 梭子蟹 xanh đen, chân cử động, càng kẹp được tay — đau ở mức 痛感上限 10% (mức trần theo quy định).
+- 九月十号 là 周四. Tiền nhà tháng chín đã đóng.

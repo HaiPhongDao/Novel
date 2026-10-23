@@ -31,3 +31,4 @@
 2026-10-23 | doan-008 | Chốt; nhận chi tiết Writer: giày cỏ, hải đồ hiện vệt đỏ trên bàn trong chòi, 老周 gom sáu mảnh; gọi bằng mã gemini-3.5-flash (Google trả modelVersion 3.6) vì 3.6-flash hết 20 lượt miễn phí/ngày | Chi tiết phụ; hạn mức | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-009 | Chốt; nhận chi tiết phụ: mũ cảm ứng mềm, tàu điện nửa tiếng, 小姜 / 周老板 | Chi tiết phụ | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-010 | Chốt; 姜禾 nhận làm (cua, chai, hải đồ, làm lại vỏ ốc) với ba điều kiện Writer đặt — nhận làm canon | Theo outline 009–011 ("cô đòi làm thêm") | Agent (Tác giả đọc lại sau)
+2026-10-23 | doan-011 | Chốt; Agent đặt giá đổi dụng cụ (ủng 8 ốc, cào 3 cua, đèn 2 chai) và trời tối dần; nhận chi tiết Writer: ủng +30%, đèn 5 mét, hải đồ phát sáng mờ trong đêm, 九月十号 = 周四; 老周 muốn cho thử miễn phí | Theo games.md và outline 009–011 | Agent (Tác giả đọc lại sau)
