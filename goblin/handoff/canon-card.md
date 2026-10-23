@@ -47,3 +47,9 @@
 - Nhóm năm: Khoa, Nub, Snik, Zag, Mok — năm là con số lớn nhất goblin đếm được. Lệnh của Khoa: làm việc, canh đường, khuân đá thì có thịt; bỏ chạy, cướp thì chết.
 - Máu goblin đỏ sẫm. Tay goblin bốn ngón.
 
+**Đã lên trang ở đoạn 7**
+- Goblin gọi Khoa là Ko (Khoa tự xưng với Yeg).
+- Góc than của Yeg nằm ngay miệng ngách Mẹ Ổ — Mẹ Ổ cách đống than vài mét. Sau đống than có khe đá cất sỏi đen: 112 viên, mỗi viên một con chết mùa đông năm ngoái.
+- Giao kèo Ko–Yeg: Yeg giữ kín chuyện Ko có lửa (Ko nói nhặt từ cây sét đánh); Ko mang thịt nướng hoặc đá nóng cho Mẹ Ổ; ban ngày hai con già canh cửa không cản Ko.
+- Mẹ Ổ: ~10 ngày một ổ; lạnh hoặc đói thì không đẻ.
+
