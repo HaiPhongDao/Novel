@@ -24,3 +24,4 @@
 2026-10-23 | doan-002 | Đổi Writer sang gemini-3.6-flash (3.8 quá tải); bản 1 (3-flash) → archive chưa review; bản 2 viết ở session S4 — SỬA NHẸ, chờ Tác giả đọc | Yêu cầu Tác giả | Tác giả (model) · Agent (review)
 2026-10-23 | doan-002 | Chốt bản 2 (Tác giả giao viết tiếp ~10 đoạn trong đêm); nhận làm canon: đồng hồ đếm ngược trong 境, NPC lặp ~30 giây, 《千灯巷》 真实度38 ⏳ | Chi tiết phụ của Writer, không ảnh hưởng arc | Agent (Tác giả đọc lại sau)
 2026-10-23 | doan-003 | Chốt; Agent đặt số sổ quán (9,600元 góp, tháng tám < 7,000元) và 《静湖》 + ông cụ câu cá; Writer thêm 老李头, quy định trừ điểm khi sự cố 试映 — nhận làm canon; "三年前" của 《静湖》 sai canon → sửa khi biên tập | Chi tiết phụ, không ảnh hưởng arc | Agent (Tác giả đọc lại sau)
+2026-10-23 | doan-004 | Chốt; nhận: mô-đun nước 公共灾害模拟库, móc sắt nhỏ, con số 算力 0.2 / >3 giờ (Agent đặt); không nhận "收藏冰箱" (đồ cất ở chòi trên bờ) | Chi tiết phụ | Agent (Tác giả đọc lại sau)

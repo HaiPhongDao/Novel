@@ -37,3 +37,8 @@
 - 老李头: ông cụ về hưu ở nhà số 2 bên cạnh, ba giờ chiều nào cũng tới ngồi hai tiếng trong 《静湖》.
 - 《静湖》: 模拟境 câu cá đời đầu (ra khoảng một năm trước), 真实度 dưới 30 — hồ nước, cây liễu, cần câu tre; cá cắn phao thì giật, được con diếc bằng bàn tay rồi thả lại.
 - 试映: không thu tiền riêng cho tác phẩm, không quảng cáo ra ngoài, khách trả tiền giờ khoang như thường; có sự cố an toàn thì 造境师 và chủ quán cùng bị trừ điểm.
+
+**Thêm sau đoạn 004**
+- 《退潮》 (tên tạm, game của 许牧): bãi bồi lúc chiều tà, toàn 灰模. Nước rút → đeo giỏ tre, cầm móc sắt nhỏ đi ra đào đồ trong bùn; càng xa càng quý, bùn càng níu chân. Nước lên không có đồng hồ: sóng xa đổi nhịp, gió đổi chiều lạnh đi, chim bay lên, nước lạnh liếm mắt cá. Nước tới thắt lưng → bị cuốn về bờ, mất cả giỏ. Về tới bờ với giỏ → đồ cất ở chòi trên bờ. Cái thật dồn vào món đồ trong tay.
+- 造境台 có mô-đun miễn phí 公共灾害模拟库——水体与潮汐动态模块 (gốc mô phỏng chống lũ cho cứu hộ): mực nước lên xuống theo thông số, có lực cản và độ lạnh.
+- 算力: thế giới 灰模 tốn khoảng 0.2 giờ 算力 cho mỗi giờ người chơi; 观光境 như 《千灯巷》 hơn 3 giờ.

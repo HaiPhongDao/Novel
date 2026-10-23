@@ -21,6 +21,7 @@
 | 001 | ✅ bản 2 | ✅ bản 2 (S2); bản 1 → `archive/` | ✅ ĐẠT (bản 1 VIẾT LẠI) | ✅ |
 | 002 | ✅ | ✅ bản 2 (S4, gemini-3.6-flash); bản 1 (3-flash) → `archive/` | ✅ ĐẠT | ✅ |
 | 003 | ✅ | ✅ (S4, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
+| 004 | ✅ | ✅ (S5, gemini-3.6-flash) | ✅ ĐẠT (lỗi nhẹ) | ✅ |
 
 ## Mục lục
 
