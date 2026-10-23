@@ -93,3 +93,7 @@ Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc
 ### Diễn biến làm việc 022
 
 Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0,cầnchủđộngdùngđiểm/kiểmtrực tiếprõ. ChiềutrảMilo5ngàyTHỨHAI,quỹ34,65→34,52. Milo hỏingày5hếtthửcònviệckhông,RowanchờđápDain.
+
+### Diễn biến làm việc 023
+
+Tối4đápMilo rồi chuyểncuối5: kiểmToma thu14đượctrựctiếpnhìnthấy, khônghếtmệt. TrảMilo5NGÀYTHỨBA,quỹ34,52→34,47;gia hạnphụviệc ngày6–9vẫn5/cuốingày,chưa trả20. Giấyđặtgóiăn9người6–10giá1bạcvừatới,chưa trả.

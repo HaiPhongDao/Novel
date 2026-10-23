@@ -20,51 +20,21 @@ Hộ qua lối an toàn, nhận đủ2bạc50đồng(cônggốc2còn lại+phụ
 
 Tại hiênkho sau gầntrưa ngày2, Jory hỏi người quen cùngxóm từng làmđá nay thiếuviệc có được tới xin theo không. Nhóm4sắp đi bộvề bến cùng chiều trước tối; chưa tuyển, chưa có tên/lương. Bản010lượt01 lỡ qua ngày3 bị loại; giữ010lượt02 đúng ngày2.
 
-### Đoạn 011 — về bến và dự thảo dài hạn
+### Đoạn 011–013 — về bến, đọc nghĩa vụ trước giá
 
-Rowan cho người quen Jory tới cổng bến ngày 3 để gặp mình/Dain, không hứa nhận hoặc trả công. Nhóm bốn về ngay chiều ngày 2 trước tối. Dain báo năm người giữ bến yên ổn; tám gác tái hợp. Tiền vẫn 35 bạc70 đồng, dự toán tháng 18 chưa phải chi thực.
+Nhóm4 về Stonewake chiều ngày2 trước tối, tám gác tái hợp. Rowan hẹn người quenJory tới ngày3, chưa nhận. Quỹ35,7 không đổi. Alden đưa dự thảo84/90 từ ngày1, đãgồm12cũ, thêm12 so72/90 nhưng gộp bảo chứnghàng/gọiđêm vàđường/sân rộng. Mira chỉkhóa cửa phụ/góckhuất khôngdo línhquản, Dain nêu thiếu giờnghỉ. Rowan hoãn dài hạn, giữ24/30cũ và đề nghị thử riêng7ngày3–9,3bạc cuối kỳ, hai gác tuần đườngtư giờđông banngày/ít nhất6ởbến, đêmphạmvi cũ. Giờ phác013 được làmrõ014 trước ký, khôngcoi câu giờsai làlịch cứng.
 
-Alden đưa dự thảo thay hợp đồng cũ bằng 90 ngày tính từ ngày 1, tổng 84 bạc đã gồm 12 tạm ứng, mở phạm vi sang đường dẫn thượng lưu và sân hàng ven sông. Chưa ký hoặc trả thêm. Chốt cuối: Alden chỉ mục ranh phòng vệ trên giấy, Rowan sắp đọc. Một câu Dain đếm sai đã bị review loại khỏi canon: luôn hai cựu binh+sáu mới=8 gác, Rowan ngoài đội.
+### Đoạn 014–017 — thử giữđường, Milo và lỗiJory
 
-### Đoạn 012 — ranh trách nhiệm
+Sángngày3 chủ chấp thuận/đãký phụlục riêng, chưa ứng3bạc. Jack nhânviênchủ giữkhóa/ghi xe ngoàiđội, Mira mộtphà. Milo23 tới, biết kêvậtliệu nhưng cần sửa; nhận phụviệc khôngvũtrang ngày3–5,công3+phụăn2=5đồng cuối mỗi ngày, chưa gác/lươngtháng. Bram/Jory đi tuần,6ởbến. Xe cáCarl cãi vì Jory chặn/hôquyềncông khôngchỉlốichờ; Rowan nhìnxeđối diện,Jackkiểm lượt/Miranhậnxe, giảiquyết lốithực, khôngthu/phạt. Lượt01601 sai tiền/quyềnlãnhchúa bị loại, giữ02.
 
-Rowan tính thêm12bạc cả90ngày, đọc nghĩa vụ bảo đảm hàng và gọi đêm. Dain nêu thiếu ngủ; ra sân, Mira chỉ góc khuất và khóa cửa do người bốc dỡ giữ. Rowan đề nghị ranh/giờ rõ, giữ trật tự thay bảo chứng hàng.
+Jory tái hiện, Bram nhận nhắcchậm; luyệnxe rỗng, cósai/nghỉ/thử hướngmới. HồsơJory随车换位3/100积累1→chủđộngdùng1thành4/100积累0. Bước chânkháhơnchút, lời cònvấpkhiồn/cầnBramnhắc, khôngthựcchiến. Toma khôngđổi ởđây; Milo khôngbảngnghề. Bram/Jory sauca đượcnghỉ, khôngkéo cảđội ra tuyến.
 
-Về nhà trực đã tối ngày2, Alden đánh dấu giấy, hỏi thực sự nhận thêm việc nào. Chưa ký/thu; quỹ35,7 và8gác giữ nguyên.
+### Đoạn 018–019 — chồng lịch kho/cổng và kết ngày3
 
-### Đoạn 013 — đề nghị thử giữ đường
+Hai xe thùnggỗGreyford/gánhngười chồnglối vì khođặt sọt/kiện chắn đườngphụ. Đội chừa lốingười/ngựa, ngườixe tựchènthùng,Jackghi giờtới/lýdo, ngườikho xácnhận vàcho nhâncôngmình dọn; Miraquyết từnglượt theo mộtphà. Rowan khôngtựmiễnphạtcủaxe, khôngđòithêmphí. 01801 lẫn tênmẫu/việcMilo bịloại, giữ02; SIv0.2.1 ẩn tênriêng vídụ từđây, giữ chuẩnthoại, hiệuquảchưa được coiđãchứngminh.
 
-Rowan hoãn84/90, giữ24/30 và đề nghị riêng bảy ngày từ sáng ngày3 tới hết ngày9, thêm3bạc trả sau đủ kỳ. Hai gác đi giờ đông, ít nhất sáu ở bến; đêm theo cũ. Chủ bến giữ người ghi xe/khóa, đội giữ trật tự trong ranh tư. Alden ghi mang hỏi chủ, hỏi giờ lượt đầu nếu được chấp thuận.
-
-Chưa ký/thu. Quỹ35,7. Một số giờ trong thoại mâu thuẫn được ghi review,014 cần chốt lịch ban ngày trước thực thi; hồi tưởng xe chiều về bến không phải sự kiện.
-
-### Đoạn 014 — phụ lục thử và người chờ cổng
-
-Tối ngày2 trả lời giờ đầu; sáng ngày3 Alden mang chủ chấp thuận. Ký phụ lục thử riêng ngày3–9, hai đợt ban ngày, hai gác đi và ít nhất sáu ở bến, đêm phạm vi cũ.3bạc chỉ cuối kỳ, cũ24/30 còn hiệu lực. Jack (raw老贾克) giữ chìa/ghi xe ngoài đội.
-
-Bram/Jory sắp giao ca, Rowan quan sát ngoài8. Một người vai rộng/tay chai nghềđá tới cổng tìmJory vàRowan. Rowan vừa bước ra xem, chưa nhận người hoặc trả tiền. Quỹ35,7.
-
-### Đoạn 015 — Milo thử phụ việc
-
-Milo23 từng làmđá, kể bãi ngập khiến mất việc, tới tìm việc. Bram/Jory đi giao ca đúnggiờ. Milo xếp ván có kinh nghiệm kê nhưng cần Dain sửa cách đặt. Nhận thử phụviệc khôngvũtrang ngày3–5, mỗi ngày3đồng công+2phụăn=5đồng trả cuối ngày, tổngdựchi15, chưa trả.
-
-Quỹ35,7,8gác khôngđổi; cộngMilo hiện10người gồmRowan, phụănMilo tínhriêng. Jack gọiRowan ra cổng vì xe cá muốn chen/cho đội khôngquyền giữ. Rowan vừa đi ra,016 nối.
-
-### Đoạn 016
-
-Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranhậnxe, khôngphạt/thu. Bram bảo vệvịtríJory, Rowan giải thíchlối thực. Hai mới thayBram/Jory sauđợtđông, Rowan hỏiJory táihiệncâu/vịtrí/giáo. Quỹ35,7, chưa trảMilo. Giữlượt02, loại01.
-
-### Đoạn 017
-
-Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhách, nghỉvàthửhướngmới. Jory随车换位3/100积累1→4/100积累0, bước kháhơn nhưngcònvấplời/khiồn cầnnhắc. Rowan/Bram/Jory tới mépcổng trongbến xemhai xe thùnggỗ tới, chưa thayca. Tiền35,7 khôngđổi.
-
-### Đoạn 018
-
-Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Giữkhoảng, ngườixe chènthùng, đỗxe/gánh tạm; Jackghi giờđến/lýdo, khôngxóaphạt. Bram/Jory vềnghỉ, haigácđươngca giữlối. Mira tới cầmphiếuGreyford, chờngườikho. Quỹ35,7. Giữ018lượt02/SIv0.2.1;01lẫnmẫu/việcMilo bịloại.
-
-### Đoạn 019
-
-Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlượtmộtphà, xe/gánhthông. Chuyểncuốichiềucùngngày3: cađườngvề đủ8, cònlỗigiaoca thiếuđiểm gỗkê. Rowan cầmsổcông/Milo chờtrả5, quỹ35,7. Câu 'thửngày3' củaDain làlỗilời: Milo hômnayNGÀYĐẦU, chưaqua ngày5.
+Cuốichiềucùngngày3 cađườngvề đủ8, cònlỗigiaoca chưađiểmđủgỗkê. Quỹvẫn35,7. Dain mộtcâu đếmMilo 'thửngày3' sai: thựcNGÀYĐẦU bắtđầu ở015; được đốichiếu/đínhchínhtrêntrang020, khôngđãquangày5. Các câuđếmsai/miêutảtócMira/sốthùng/giờHán/tảiước trongraw đãghi review, nguồnhiện hànhlàstate/canoncard, khônglặp thànhthếgiới mới.
 
 ### Đoạn 020
 
@@ -77,3 +47,7 @@ Tốingày3 phânviệcMilo hậu cần khôngthếgác; sángngày4 sửaviệc
 ### Đoạn 022
 
 Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0,cầnchủđộngdùngđiểm/kiểmtrực tiếprõ. ChiềutrảMilo5ngàyTHỨHAI,quỹ34,65→34,52. Milo hỏingày5hếtthửcònviệckhông,RowanchờđápDain.
+
+### Đoạn 023
+
+Tối4đápMilo rồi chuyểncuối5: kiểmToma thu14đượctrựctiếpnhìnthấy, khônghếtmệt. TrảMilo5NGÀYTHỨBA,quỹ34,52→34,47;gia hạnphụviệc ngày6–9vẫn5/cuốingày,chưa trả20. Giấyđặtgóiăn9người6–10giá1bạcvừatới,chưa trả.

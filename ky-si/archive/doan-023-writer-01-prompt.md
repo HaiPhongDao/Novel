@@ -1,0 +1,13 @@
+Viết đoạn023 khoảng1800–2200 chữ Trung,chỉchínhvăn. NốiMilo vừanhận5đồngngàyTHỨHAI vàhỏihếtngày5cònviệckhông,cuốichiềungày4nhàtrực.
+
+Đúngdữkiện:8gác=Dain/Bram2cựu+Toma/Jory/bốnmới,Rowan ngoài8. Milo23 phụviệc khôngvũtrang NGOÀI8, thửngày3–5,công3+phụăn2=5đồngcuốimỗingày;đãtrả5ngày3và5ngày4(tổng10),ngày5chưa trả. Quỹ34bạc52đồng sau8đồngdâykhiênvà5côngngày4;góiăn9người ngày1–5đãtrả1bạc,phầnsau5chưa mua.MộtphàMira chuyênmôn ngangvai,Jackchủbếngiữkhóa/ghixe;Rowanđộiđộc lậpđượcchủbếnkinhdoanhtưthuê. Côngthửđường3bạc ngày3–9chờcuối9,mớiđiđược2ngày,cũ24/30và12trong24cònhiệu lực.
+
+Toma长矛收势14/100积累0,随车换位5/100积累0;Jory换位4/100积累0. Bản022đãdùng1củngcốToma, khôngphảikhẩulệnh tựtiêuđiểm. Ngayđầucảnh cóthểchènRowan nhìnToma thu/manggiáo tránhngườiđi qua,nétthu gọnthêmchút nhưngtaycònđỏ/vẫncầnnghỉ;đó làkiểmTHỰC sauđiểm,khôngthêmđiểm/quétxa/bảngnghềMilo.
+
+RowantrảlờiMilođúngcâuđangchờ:ngàymai cứlàmđúnghẹn,cuốingàyRowan/Dainxemviệcvànhucầu rồi mớichốttiếp,khôngtreoanh bằnglờihứađỗnghayđòilàmkhôngcông.DaincóýkiếnriêngvềchỗMilođãhọcvàchỗcầnnhắc. Khônglấythânkhỏe gántrunghthành.
+
+Chuyểnmộtlầnsangcuốichiềungày5. Ngàylàmthứba đãđượcDainkiểm:đồgiaoca đượcsắptheocỡ/lốimở,nước/vậttưcóđúngchỗ;Milo biếthỏilạikhinghebịhai ngườigiaohaiviệc,khôngtựômhếtvàkhôngthànhngườilàmhoànhảo.Anhđứngchờnhậncông,chủđộnghỏingàytiếp.Ngườigácgiữnhịpcađường,6ởbếnkhi2ra,cónghỉđúng,khôngđượcMilođứngthay.
+
+TrảTHẬT5đồngngày5(thửNGÀYTHỨBA),quỹ3452-5=3447đồng=34bạc47đồng.Hết3ngày đãtrảtổng15đồng,khôngtrả15lạihômnay.Rowan/Daincònnhiềuvệsinh/vậttưquanhnhàtrực,thỏa thuậnMilo tiếpphụviệc KHÔNGVŨTRANG bốnngày6–9 đểtrùngkỳthửđường, vẫnmỗingày3công+2phụăn=5đồngcuốingày,tiềnsau6–9CHƯAtrả,dựchi20đồng;chưa nhậnlươngtháng/gác/vũkhí hoặcquyềnthửbảngthợ.Anhcóthểhỏithêmmộtđiềuvềgiờđến/nghỉ,đápnốitrọný.
+
+Dừnggiữaviệc:ngườinhàbếpgửigiấyđặtgóiănTIẾP9người ngày6–10,giá1bạc,Milo ngoàigóinhưtrước;Rowanvừanhậngiấy/chưatrả1bạcở023.024nốikiểm/trảlôtiếprồitómcáclượtlặpđếnsángngày9,đừngnhảyngàyởchỗcắtnày.Tựdođốiđáp/chitiếtđờisống,gầnRowan;hai cảnh,khôngđấttwist/cảmkíchthànhtrunghthànhtuyệtđối.
