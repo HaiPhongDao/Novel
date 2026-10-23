@@ -16,13 +16,13 @@
 
 **Nhân vật phụ**
 - 老周 (周海生), 45 tuổi, chủ 深蓝潜入馆. Đường chân tóc lùi tới đỉnh đầu, kính lão đẩy lên trán, cốc giữ nhiệt gốm tử sa, sổ ghi chép bìa da. Từng làm vận hành ở trung tâm mô phỏng huấn luyện bay mười mấy năm. Gọi 许牧 là 小许; 许牧 gọi 周哥.
-- 姜禾, 22 tuổi, cùng lớp 造境系, điểm 建模 cao nhất lớp. Tóc ngắn ngang tai vén sau tai, bút 修补笔 màu bạc ở túi áo. 修补员 hợp đồng tổ 扫描修补 của 长庚造境, ca 9 giờ sáng – 9 giờ tối. Thẳng, kiệm lời, chê đúng chỗ. Gọi 许牧 cả tên.
+- 姜禾, 22 tuổi, cùng lớp 造境系, điểm 建模 cao nhất lớp. Tóc ngắn ngang tai vén sau tai, bút 修补笔 màu bạc ở túi áo. 修补员 hợp đồng tổ 扫描修补 của 长庚造境, ca 9 giờ sáng – 9 giờ tối; từ 长庚 tới 深蓝 gần nửa tiếng tàu điện. Thẳng, kiệm lời, chê đúng chỗ. Gọi 许牧 cả tên, gọi 老周 là 周老板 (ông gọi cô 小姜). Từ tối 九月九号 cô làm mô hình cho 《退潮》 với điều kiện: đứng tên 主建模师; vật liệu, texture, lưới do cô quyết, 许牧 lo luật và tương tác; chỉ làm sau ca.
 - 老李头: ông cụ về hưu ở nhà số 2 bên cạnh, ba giờ chiều nào cũng tới 深蓝 ngồi hai tiếng trong 《静湖》.
 - 秦怀岳, 一级造境师, tác giả 《千灯巷》 (累计潜入 860万人次). Mọi người gọi 秦老师.
 
 **Địa danh**
 - 澜城 · 老城区 (phòng thuê của 许牧).
-- 深蓝潜入馆: góc phố dưới nhà, sáu khoang hai hàng, đèn xanh trên nóc là có người, 20元 nửa giờ, khách trả tiền ở quầy. Trả góp 9,600元/tháng; tháng tám thu dưới 7,000元; trung bình 18 phút một lượt; 老周 đã liên hệ người mua hai khoang bên trái.
+- 深蓝潜入馆: góc phố dưới nhà, sáu khoang hai hàng, đèn xanh trên nóc là có người, 20元 nửa giờ, khách trả tiền ở quầy, quá giờ thì đồng hồ khoang tính tiếp; khách được đưa mũ cảm ứng mềm. Trả góp 9,600元/tháng; tháng tám thu dưới 7,000元; trung bình 18 phút một lượt; 老周 đã liên hệ người mua hai khoang bên trái.
 - 长庚造境: xưởng lớn nhất 澜城. Quán mì bò cạnh cổng đông, 15元 một bát.
 
 **Các 境 đã lên trang**
@@ -32,19 +32,9 @@
 - 《晾衣街》: bài tốt nghiệp của 许牧 gốc, ba tháng — dây thép gỉ, ga trải giường ướt, rêu chân tường; 58 điểm, 真实度 21/40.
 
 **《退潮》 (tên tạm, game của 许牧)**
-- Bãi bồi lúc chiều tà, toàn 灰模. Người chơi đi giày cỏ, đeo giỏ tre, cầm móc sắt nhỏ, đào đồ trong bùn: gần bờ vỏ ốc, xa hơn cua chạy ngang, xa nữa chai thuỷ tinh đựng mảnh hải đồ cũ. Bùn xa bờ níu chân, có thể hút mất giày.
+- Bãi bồi toàn 灰模. Ba con nước một lượt, tối dần: chiều tà → hoàng hôn → tối hẳn; trời tối thì hải đồ trong chai phát sáng mờ, tiếng báo nước lên bị gió sóng lấn. Người chơi đi giày cỏ, đeo giỏ tre, cầm móc sắt nhỏ, đào đồ trong bùn: gần bờ vỏ ốc, xa hơn cua chạy ngang, xa nữa chai thuỷ tinh đựng mảnh hải đồ cũ. Bùn xa bờ níu chân, có thể hút mất giày.
 - Nước lên không có đồng hồ: sóng to và đổi thành tiếng ầm dồn dập, đàn chim xám bay vụt lên, gió lạnh đi, nước lạnh buốt ở mắt cá. Nước tới gối thì đi chậm; tới thắt lưng thì bị cuốn về bờ, mất cả giỏ. Con nước "试错潮" đầu mỗi lượt chỉ tới gối, mười giây rồi rút. Một con nước khoảng ba phút rưỡi.
-- Về chòi gỗ trên bờ với giỏ thì đồ được giữ qua các lượt. Hải đồ đặt lên bàn trong chòi hiện vệt đỏ chỉ ra vùng xa hơn.
+- Về chòi gỗ trên bờ với giỏ thì đồ được giữ qua các lượt. Hải đồ đặt lên bàn trong chòi hiện vệt đỏ chỉ ra vùng xa hơn. Dụng cụ treo vách chòi, đổi bằng cách đặt đồ lên kệ gỗ bên dưới: ủng = 8 vỏ ốc (nhanh 30%, không bị bùn hút giày), cào = 3 cua (đào một lần), đèn bão = 2 chai (sáng bán kính 5 mét).
 - Trong 境 không có chữ hay bảng nào hiện lên; người chơi biết mình nhặt được gì bằng cách nhìn món đồ.
+- Mô hình thật của 姜禾: vỏ ốc (đang làm lại), con cua 梭子蟹 xanh đen, chân cử động, càng kẹp được tay — đau ở mức 痛感上限 10% (mức trần theo quy định). Chai và hải đồ còn là khối xám.
 - Cái thật dồn vào món đồ trong tay, sát mắt. Vỏ ốc thật theo 姜禾: đường xoắn thu đều về một phía, mép miệng mỏng thấu sáng, mặt trong bóng như men sứ, vỏ ướt có cát mắc trong rãnh, cầm nhẹ vì rỗng.
-
-**Thêm sau đoạn 009**
-- 老周 gọi 姜禾 là 小姜; 姜禾 gọi ông 周老板. 深蓝 đưa khách mũ cảm ứng mềm khi vào khoang. Từ 长庚 tới 深蓝 đi tàu điện ngầm gần nửa tiếng.
-
-**Thêm sau đoạn 010**
-- 姜禾 nhận làm cua, chai, hải đồ và làm lại vỏ ốc (tối 九月九号). Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; chỉ làm sau ca.
-
-**Thêm sau đoạn 011**
-- 《退潮》: ba con nước một lượt, tối dần (chiều tà → hoàng hôn → tối hẳn); trời tối thì hải đồ trong chai phát sáng mờ, tiếng báo nước lên bị gió sóng lấn. Dụng cụ treo vách chòi, đổi bằng cách đặt đồ lên kệ gỗ bên dưới (kệ ủng có tám rãnh vừa đáy vỏ ốc): ủng = 8 vỏ ốc (nhanh 30%, không bị bùn hút giày), cào = 3 cua (đào một lần), đèn bão = 2 chai (sáng bán kính 5 mét).
-- Con cua của 姜禾 (`crab_model_v1.mesh`): 梭子蟹 xanh đen, chân cử động, càng kẹp được tay — đau ở mức 痛感上限 10% (mức trần theo quy định).
-- 九月十号 là 周四. Tiền nhà tháng chín đã đóng.
