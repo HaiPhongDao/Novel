@@ -30,3 +30,4 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này giữ lỗi 
 - (006) Thử ở nhà mà có cảm giác toàn thân — 潜入 cần khoang; trình mô phỏng ở nhà chỉ có hình, tiếng, lực tay cầm.
 - (005, 006, 008) 许牧 thuyết phục bằng cách khích (激将) — lặp thành công thức; prompt cho người khác tự quyết bằng lý do của họ.
 - (008) "虚拟头显" — 潜入舱 dùng miếng dán cảm ứng, không có kính đội đầu.
+- (009) "五菱之光" (xe), "淠河" (sông) — tên thật lọt vào so sánh và hồi ức của nhân vật phụ.
