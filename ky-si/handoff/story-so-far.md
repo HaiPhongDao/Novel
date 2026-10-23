@@ -49,3 +49,7 @@ Bram/Jory sắp giao ca, Rowan quan sát ngoài8. Một người vai rộng/tay 
 Milo23 từng làmđá, kể bãi ngập khiến mất việc, tới tìm việc. Bram/Jory đi giao ca đúnggiờ. Milo xếp ván có kinh nghiệm kê nhưng cần Dain sửa cách đặt. Nhận thử phụviệc khôngvũtrang ngày3–5, mỗi ngày3đồng công+2phụăn=5đồng trả cuối ngày, tổngdựchi15, chưa trả.
 
 Quỹ35,7,8gác khôngđổi; cộngMilo hiện10người gồmRowan, phụănMilo tínhriêng. Jack gọiRowan ra cổng vì xe cá muốn chen/cho đội khôngquyền giữ. Rowan vừa đi ra,016 nối.
+
+### Đoạn 016
+
+Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranhậnxe, khôngphạt/thu. Bram bảo vệvịtríJory, Rowan giải thíchlối thực. Hai mới thayBram/Jory sauđợtđông, Rowan hỏiJory táihiệncâu/vịtrí/giáo. Quỹ35,7, chưa trảMilo. Giữlượt02, loại01.

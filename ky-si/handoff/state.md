@@ -1,9 +1,11 @@
-## 3. Trạng thái sau 015
+## 3. Trạng thái sau 016
 
-Sángngày3 ở sân/cổng. Milo đang xếp ván dướiDain. Jack gọi gấp vì một xe cá khô ngoài cổng muốn vượt hàng và nói đội khôngquyền giữ; cầnRowan nhìn/xác nhận bàn giao. Rowan vừa quayra,016 nối. Bram/Jory đã tới tuyến/đầuca, không còn ngồi vớiMilo.
+Sángngày3, đầuđợtđông đãqua. Xe cá củaCarl đã nhận lượt/phà sau khi xe rỗngra; không tiền hoặc phạt. Bram/Jory giao ca cho2gácmới rồi vào sân; sáu ởbến gồm họ, Dain/Toma/2mới, hai mới khác giữtuyến. Dain ởcổng quản bà giao, không đi tuầnthứba. Rowan vừa yêu cầuJory tái hiện câu/đứng/chĩa giáo lúcchặnxe,017 nối ngay.
 
-Quân8gác=Dain/Bram+Toma/Jory+4mới; Rowan ngoài8. Bram+Joryđi đường, Dain+Toma+4mới=6ởbến. Milo23 là phụviệc KHÔNGVŨTRANG ngoài8, chưa chínhthức tuyển gác/giáo/giáp; hiện10người tínhcảRowan, dựtoánăn cũ9người khôngđổi. Thử3ngày ngày3–5, mỗi ngày3đồng công+2phụăn=5, trả cuối từngngày;3ngày15đồng dựchi chưa chi. Ngày3nếu làmđủcuối ngàytrả5; chưa dài hạn. Milo tựmuaăn bằngphụăn, sángcóbánh tựmang; không tựlấy suấtđội.
+Quỹ35bạc70đồng=35,7, chưa trảMilo5đồngcuốingày3. Jory đãlỡ nói quyềncông khi căngthẳng, đó không quyền thật; cần sửa. Carl tênphụ của ngườiláixe, khôngnhânvậtđốiđịchđãchốt. Mộtphà, khôngcanonhóa大木筏/tải2nghìn斤 thành phươngtiện/địnhmức.
 
-Tiềnmặt35,7bạc. Phụlục tuầnđườngđãký ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30ngày,12đãnhận nằmtrong24, cònhiệu lực;84/90hoãn khôngký. Dựtoántháng18 chưa trừgộp. Hai gác giữđường tư giờđông bangày,6ởbến, đêmphạmvi cũ/đủnghỉ. Jack nhân viênchủ giữchìa/ghi xe ngoàiđội, Mira quảnphà ngang chuyênmôn,Alden quản hợpđồng. Mộtphà; khôngquyềnđất/thuế/giữkhách vôcớ. Kho/lái/bốc dỡ và hàng cònphíachủ/khách, đội giữtrậttự/báosự cố, khôngbảochứnghàng.
+Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
 
-Toma长矛收势13/100积累0;随车换位5/100积累0. Chưa cóbảngMilo, nghềthợ/ngựa chưa mở; khôngdùng bảngxétlòngngười. Bãiđá ngập là lờiMilo, chưa biếnthành thiên taiđang tới. Jack khôngtựkiêmquyền xétlỗi/thu phí.016 cần xem vì sao xe bịchặn và chỉ rõlốichờ/lốithoát, không biểu diễnquyền lực.
+Phụlục đường RIÊNG ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30 từngày1,12đãnhận nằmtrong24, cònhiệu lực;84/90hoãn/chưa ký. Dựtoántháng18 chưa chi gộp. Đường tư chỉ giờđông banngày, chiều vềtrước tối, đêmtheocũ; không quyềnđất/thuế/bảo chứnghàng. Jack người chủgiữkhóa/ghi xe ngoài8; Mira quảnmộtphà ngangchuyênmôn,Alden quảnhợpđồng,Oswin thợtheoviệc.
+
+Toma长矛收势13/100积累0,随车换位5/100积累0. Bảng chỉRowan thấy, đúngngười/kỹnăng/luyệnthực,1đổi1 khôngchữa mệt/đọc lòngngười/dòxa. Nghềthợ/ngựa chưa thử/chốt. Lờikể bãiđá ngập củaMilo/việcthángtrước củaAlden không tự là biếncố đãkiểm.

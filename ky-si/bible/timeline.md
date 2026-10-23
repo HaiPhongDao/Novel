@@ -65,3 +65,7 @@ Sángngày3: ký thử7ngày ngày3–9,3bạc cuối kỳ. Bram/Jory chuẩn b�
 ### Diễn biến làm việc 015
 
 Sángngày3: nhậnMilo thử phụviệc3ngày tới ngày5,5đồng/ngày trảcuốingày, chưa chi. Bram/Jory tới tuầnđầu. Jack gọi việc xe cá ởcổng.
+
+### Diễn biến làm việc 016
+
+Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranhậnxe, khôngphạt/thu. Bram bảo vệvịtríJory, Rowan giải thíchlối thực. Hai mới thayBram/Jory sauđợtđông, Rowan hỏiJory táihiệncâu/vịtrí/giáo. Quỹ35,7, chưa trảMilo. Giữlượt02, loại01.

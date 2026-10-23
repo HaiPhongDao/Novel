@@ -1,11 +1,11 @@
 {
-  "latest": 15,
+  "latest": 16,
   "cash": 35.7,
   "receivables": [
     "Phụ lục tuần đường3bạc, ngày3–9; trả đủ kỳ/ca, chưa thu."
   ],
-  "sessionUrl": "https://aistudio.google.com/prompts/1OTkus7YwsPCHVuMZWCoNuRRo-bSrcA5I",
-  "sessionSegments": 2,
-  "decision": "ĐẠT",
+  "sessionUrl": "https://aistudio.google.com/prompts/1a-W9sJgXGj5C3MYhoEDSCR7qk55nWbjF",
+  "sessionSegments": 1,
+  "decision": "SỬA NHẸ",
   "authorApproved": false
 }
