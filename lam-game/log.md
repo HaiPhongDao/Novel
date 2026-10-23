@@ -19,3 +19,4 @@
 2026-10-23 | gemini | SI v2.1: bỏ dòng PART 3 "Character entrances: name + identity + physical feature" | Yêu cầu của Tác giả | Tác giả
 2026-10-23 | doan-001 | Chốt bản 2; nhận làm canon: 王阿姨, 《云海栈道》, 规则脚本员 3,000–4,000, 《晾衣街》 ba tháng, hơn hai nghìn đèn lồng; "复游率" gieo cho đoạn 003 | Tác giả: tạm ổn, đoạn đầu chưa đúng ý | Tác giả
 2026-10-23 | doan-002 | Prompt: lần đầu linh hồn 潜入; 《千灯巷》 thật nhưng không có gì để làm; câu "tiếp theo chơi gì" đặt vào miệng một cậu bé; 空气墙 cuối ngõ; 上浮 sớm ở phút 12 | Theo outline đoạn 002; nguyên tắc 7 (việc, không ý nghĩa) | Agent
+2026-10-23 | doan-001 | Chạy thử lại 001 qua Gemini API (SI v2.1, session riêng) → archive/doan-001-thu-api-20261023-0418.md; giữ bản 2 đã chốt | Bản thử vẫn giảng "在这个世界", kết bằng 【载入中】 — xem reviews/doan-001.md | Agent (chờ Tác giả đọc)

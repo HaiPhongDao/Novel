@@ -22,6 +22,19 @@
 - ⚠️ "鼻腔里钻进来一股…怪味" — mẫu mùi "chui vào mũi" của blacklist chung.
 - ✅ Dừng giữa mạch: "躺平别乱动啊！半小时一到自动上浮——".
 
+## Bản thử API (SI v2.1 + prompt v2, session riêng, 23/10) — `archive/doan-001-thu-api-20261023-0418.md`
+
+Chạy thử theo yêu cầu Tác giả để xem SI v2.1 qua Gemini API (gemini-3-flash-preview, thinking high, chỉ gửi prompt). Không thay bản 2 đã chốt. 1,975 chữ Hán.
+
+**Kết luận: không hơn bản 2 — giữ bản 2.**
+- ✅ Đủ con số và lời phê nguyên văn; kiếp trước đúng ba điều; không quốc gia, không tên game có thật; tính sổ tiền/ngày đúng (816 → khoảng 30 ngày).
+- ❌ Lời kể giảng thế giới hai lần bằng "在这个世界，…" (算力, 潜入舱) — lỗi bản 2 vẫn còn dưới SI v2.1.
+- ❌ Kết bằng 【载入中……】 — bảng 【】 (ranh giới kim thủ chỉ) và vượt quá chỗ dừng.
+- ⚠️ Tin trên điện thoại lại xếp "第一条…第二条…" (lỗi bản 1).
+- ⚠️ Thuật ngữ trôi: "全潜入技术".
+- ⚠️ Cảnh quán: 许牧 không hỏi sao quán vắng, 老周 tự than; lời kể khen giá "简直是慈善" nhưng 老周 lại nói quán "给有钱人消遣" — tự mâu thuẫn.
+- ⚠️ Mảng ký ức về những đêm làm 《晾衣街》 chỉ có một câu.
+
 ## Bản 1 — `archive/doan-001-v1.md` (prompt `archive/doan-001-brief-v1.md`)
 
 **VIẾT LẠI** (Tác giả: thoại chưa tự nhiên, thiếu cảm giác ở trong đầu nhân vật). Chi tiết: commit b276e22 — lời kể đứng ngoài, thông tin xếp "第一条…第二条…", thoại "như anh đã biết", MC đáp cụt; lỗi canon 九寨沟, 微信, 国际会展中心. Nguyên nhân phía Agent: anchor mục 3 của SI v1 là đoạn đọc hợp đồng; PART 2 "cảm xúc chỉ qua tay chân"; anchor thoại trịnh trọng; prompt v1 xếp dữ kiện liền nhau.
