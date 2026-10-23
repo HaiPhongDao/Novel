@@ -39,9 +39,14 @@ Novel/
 ├── chung/                    # Tài liệu chung
 │   ├── quy-trinh-ban-giao.md     # Gói bàn giao & chuyển session Writer (mục 5c)
 │   ├── ai-studio.md              # Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome
-│   └── review-blacklist.md       # Lỗi văn chung để soát khi review
+│   ├── review-blacklist.md       # Lỗi văn chung để soát khi review
+│   ├── mo-xe-truyen.md           # Mổ xẻ truyện top để học cơ chế (拆书)
+│   ├── xay-dung-truyen.md        # Hợp đồng độc giả, quỹ kết cục, neo arc, nhịp đoạn, chỗ dừng
+│   ├── giu-nhat-quan.md          # Ba tầng biết, thẻ state gọn, chống quên, soát nhất quán
+│   └── tham-khao-ngoai.md        # Repo ngoài đã tham khảo: lấy gì, không lấy gì
+├── mo-xe/<ten-truyen-mau>/   # Phân tích truyện mẫu (không commit toàn văn)
 ├── writer/SI-template        # SI mẫu dùng chung (Tác giả soạn) — mỗi truyện điền ô [[...]] thành SI riêng
-├── tools/                    # build_pack.py, chot_doan.py, set_clip.ps1, save_clip.ps1, ollama_write.py
+├── tools/                    # build_pack.py, chot_doan.py, ra_soat.py, set_clip.ps1, save_clip.ps1, ollama_write.py
 ├── _mau-truyen/              # Khung để chép khi mở truyện mới (mục 11)
 └── <ten-truyen>/
     ├── README.md                 # Tóm tắt, SI đang dùng, bảng trạng thái từng đoạn
@@ -78,7 +83,7 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
      Agent+Tác giả       Agent          Gemini              Agent         Gemini            Agent (+Tác giả duyệt)
 ```
 
-1. **Lập kế hoạch** — Agent đối chiếu `plot/outline.md`, `plot/threads.md`, `bible/timeline.md`; xác định mục tiêu đoạn. Thay đổi so với dàn ý → hỏi Tác giả.
+1. **Lập kế hoạch** — Agent đối chiếu `plot/outline.md`, `plot/threads.md`, `bible/timeline.md`; xác định mục tiêu đoạn: đẩy mâu thuẫn arc tới đâu (neo arc), đổi trạng thái nào, dừng ở việc dở nào ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 4–7). Thay đổi so với dàn ý → hỏi Tác giả.
 2. **Prompt** — Agent viết `briefs/doan-XXX.md` theo mẫu ở mục 4. Prompt phải tự đủ: Gemini không cần đọc thêm gì ngoài prompt.
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
 4. **Review** — Agent kiểm tra theo checklist ở mục 5, ghi kết quả vào `reviews/doan-XXX.md`.
@@ -145,12 +150,15 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 - [ ] Không mâu thuẫn `bible/world.md`, `bible/timeline.md`
 - [ ] Tính cách, động cơ, giọng thoại nhân vật đúng hồ sơ
 - [ ] Xưng hô, tên riêng, thuật ngữ đúng `bible/glossary.md`
-- [ ] Nhân vật không biết điều họ chưa được biết
+- [ ] Nhân vật không biết điều họ chưa được biết (nghe nói / đoán / đã kiểm chứng — [`chung/giu-nhat-quan.md`](chung/giu-nhat-quan.md) mục 2)
+- [ ] Thương tích, đồ vật, thời gian trôi khớp đoạn trước (mục 6 cùng file)
 
 **Cốt truyện**
 - [ ] Đủ các điểm bắt buộc trong prompt; diễn biến đúng hướng
 - [ ] Cài cắm/payoff được thực hiện đúng
 - [ ] Không mở tuyến truyện mới ngoài kế hoạch (nếu có → ghi đề xuất, không tự chấp nhận)
+- [ ] Đoạn đổi ít nhất một trạng thái; không đóng sớm mâu thuẫn lõi của arc, không tiêu con bài cuối chưa tới lượt
+- [ ] Hợp đồng độc giả: MC giữ quyền nhân quả và quyết toán ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 1)
 
 **Văn phong**
 - [ ] Đúng system instruction của truyện; soát theo `chung/review-blacklist.md` + `<ten-truyen>/gemini/review-blacklist.md`
@@ -210,7 +218,7 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
   ```
   | ID | Tuyến/Chi tiết cài | Cài ở | Dự kiến payoff | Trạng thái |
   ```
-  Mỗi 5 đoạn, Agent rà soát: tuyến nào treo quá lâu, cài cắm nào bị quên.
+  Mỗi 5 đoạn, Agent rà soát: tuyến nào treo quá lâu, cài cắm nào bị quên, nhân vật nào vắng lâu — chạy `python tools/ra_soat.py <ten-truyen>` rồi xử lý từng dòng theo [`chung/giu-nhat-quan.md`](chung/giu-nhat-quan.md) mục 4; hỏi thêm bốn câu hợp đồng độc giả và hai câu tiêu quá tay ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 1, 3).
 
 ---
 
@@ -249,11 +257,12 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 ## 11. Khởi động dự án (khi bible còn trống)
 
 Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); SI của truyện điền từ `writer/SI-template`. Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
-1. `bible/overview.md` — logline 1 câu, premise 1 đoạn, thể loại, chủ đề, đối tượng độc giả.
+0. (Nên làm) Mổ xẻ 1–2 truyện top cùng thể loại theo [`chung/mo-xe-truyen.md`](chung/mo-xe-truyen.md); chỉ mang sang kỹ thuật.
+1. `bible/overview.md` — logline 1 câu, premise 1 đoạn, thể loại, chủ đề, đối tượng độc giả, **hợp đồng độc giả**, **quỹ kết cục và bậc thang** ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 1, 3).
 2. `bible/glossary.md` — tên riêng và xưng hô bằng tiếng Trung (văn phong đã có system instruction của Gemini).
 3. `bible/characters/` — nhân vật chính, phản diện, 3–5 nhân vật phụ quan trọng.
 4. `bible/world.md` — bối cảnh và các luật không được phá.
-5. `plot/arcs.md` → `plot/outline.md` — dàn ý toàn truyện.
+5. `plot/arcs.md` (kèm neo arc) → `plot/outline.md` — dàn ý toàn truyện.
 6. Prompt đoạn 1 → bắt đầu vòng lặp ở mục 3.
 
 ## 12. Ghi và chia sẻ bài học giữa các truyện

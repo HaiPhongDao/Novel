@@ -23,6 +23,10 @@ Bản tổng hợp ngày 23/10/2026 từ Lãnh Chúa Chip, Goblin, Mô phỏng v
 | KN13 | **Thử có lưu dấu và kết luận đúng mức.** Lưu nguyên bản, SI, prompt, model/cấu hình, session và review. Giữ cùng prompt khi muốn xem riêng tác dụng SI; nếu đổi cả hai, ghi rõ. Độ dài, tỉ lệ thoại hoặc số từ lặp là tín hiệu, không tự là kết luận chất lượng. | Test B/C; Mô phỏng; Kỵ sĩ v02-01/v02-02 |
 | KN14 | **Bàn giao là bộ nhớ đã kiểm.** Theo quy trình hiện tại, tối đa hai đoạn/session; đoạn hỏng thử lại ở session mới, giữ nguyên bản cũ. Gói cần luật, tóm tắt, state, mẫu giọng đã duyệt và đuôi đoạn trước. Chi tiết dự kiến hoặc Writer tự thêm chưa duyệt không ghi như sự kiện canon. | Lãnh Chúa Chip; quy trình bàn giao; Kỵ sĩ |
 
+## Đề xuất từ nguồn ngoài — chưa thử
+
+Phương pháp mổ xẻ truyện top, xây dựng truyện dài và giữ nhất quán chuyển thể từ repo ngoài: [mo-xe-truyen.md](mo-xe-truyen.md), [xay-dung-truyen.md](xay-dung-truyen.md), [giu-nhat-quan.md](giu-nhat-quan.md); nguồn ở [tham-khao-ngoai.md](tham-khao-ngoai.md). Chưa phải KN: khi dùng thử trong brief/review và có kết quả, ghi thành dòng KN mới kèm nguồn.
+
 ## Những điều chỉ áp dụng theo truyện
 
 | Truyện | Cách áp dụng đúng | Không nâng thành quy tắc chung |
