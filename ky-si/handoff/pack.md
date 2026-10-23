@@ -12,21 +12,19 @@ Sau đó chờ prompt của đoạn tiếp theo.
 
 ---
 
-## 1. Thẻ thiết lập hiện hành — sau 017
+## 1. Thẻ hiện hành sau 023
 
-Tác giả chọn001v02-02 để viết tiếp. Các đoạn sau là bản làm việc đã được Agent review theo yêu cầu viết liên tục, chưa ghi Tác giả duyệt riêng. State/review ghi đính chính cục bộ và tình hình mới nhất; tương lai trong outline chưa là sự kiện.
+Tác giả chọn001v02-02 để viết tiếp. Các đoạn002–023 là bản làm việc Agent đọc/review theo yêu cầu viết liên tục, chưa gán Tác giả duyệt riêng. Tương lai trong outline chỉ là kế hoạch. State/review ưu tiên khi giải thích câu lỗi cục bộ trong raw.
 
-- Rowan22, kỵ sĩ vừa giải ngũ, trực tiếp chỉ huy; xuyên tới bốn ngày trước mở truyện; sẹo dưới cằm. Chưa có lãnh địa/quyền thu thuế. Chỉ mình biết bảng.
-- Stonewake gần Greyford, một phà chở xe. Mira30, tóc ngắn, quản vận hành chuyên môn; Alden51, ngón tay dính mực, thay chủ bến tư quản hợp đồng; Oswin42 thợ mộc theo việc. Họ ngoài đội gác.
-- Đội8: Dain38 (cựu binh, sẹo má trái), Bram (cựu binh thứ hai), Toma19 (từng làm nông), Jory và bốn người mới chưa tên. Hai cựu binh+sáu mới=8; Rowan ngoài8, tổng9miệng ăn. Milo được nhận thử phụviệc sau015, không cộng vào8gác.
-- Bảng tên面板 chỉ Rowan thấy, không nhân cách. Chỉ củng cố kỹ năng đúng người/đúng kỹ năng sau luyện thực, một tích lũy đổi một thành thạo. Không chuyển điểm giữa người/kỹ năng, không tạo tiền/vật tư, không xóa mệt, không đọc lòng người/dò xa/ban kinh nghiệm thực chiến. Hồ sơ không chứng minh trung thành. Hỗ trợ thợ/ngựa chưa thử/chốt.
-- Toma长矛收势13/100,训练积累0 sau001;随车换位5/100,训练积累0 sau007. Cải thiện nhỏ trong thao tác, còn cần khẩu lệnh dưới sức ép. Không tự tăng khi chỉ kể tiến bộ.
-- 1bạc=100đồng. Vốn20+tạmứng12=32 mở đầu. Hợp đồng24/30ngày,12 nằm trong24. Dự toántháng18=lương9(Dain2+bảy người1)+ăn6+vật tư3; chi thật mới trừ tiền mặt. Tiền phà/đỗ thuyền thuộc sổ chủ bến.
-- Quỹ sau011=35,7bạc. Đãthu1công phà,3,5chuyến hộxe(1tạmứng nằm trong3cônggốc+0,5thêm); chi0,2ăn chuyến và0,6thưởng3người. Côngchuyến đãthu đủ. Sửa40đồng riêng chủ bến không trừRowan. Chưa phát lươngtháng hay trừdựtoán18gộp.
-- Sau015 sángngày3: phụlục thử đường đãký riêng7ngày ngày3–9, công3bạc trảcuốiđủkỳ/ca; cũ24/30vẫn hiệu lực.84/90hoãn/chưa ký. Hai gác tuầnđường tư giờđông bangày,ít nhất6ởbến; đêmphạmvi cũ. Jack nhânviênchủ giữcổng/chìa/ghi xe, ngoài8gác. Không bảo chứng từng kiện hàng/thuế/đất.
-- Milo23, bạncùngxómJory từng làmđá, phụviệc khôngvũtrang thửngày3–5, công3+phụăn2=5đồng/cuốingàyđãlàm, tổngdựchi15đồng. Sau015 chưa trả. Ngoài8gác/ngân sáchăn9người cũ, chưa giáo/giáp/lươngtháng/hồsơ bảngnghềthợ. QuenJory khôngcòn là người chưa xuất hiện; lời ngậpbãi là chuyện anh kể, chưa xácnhận rộng.
-- Sau017 Jory luyện随车换位 có thửthách, hồsơriêng3/100,tíchlũy1→dùng1thành4/100,tíchlũy0. Bước chân tốt thêmchút, khiồn lời vẫnvấp/cầnBramnhắc. ĐiểmToma khôngđổi, khônghồsơthợMilo.
-- Tên giữ Latin. Review không biến các ước lượng tải trọng/giá bán/việc lính cũ kể trong thoại thành thiết lập cứng. Lỗi câu Dain011 'tôi và tám lính mới' không tăng quân; số đúng luôn8gác. Tôn trọng phần việc Mira và người lái/bốc dỡ, giao tiếp đủ ý theo SIv0.2.1 (chuẩn thoại v0.2, ví dụ đã ẩn tên).
+- Rowan22, kỵ sĩ vừa giải ngũ, chỉ huy thực, sẹo dưới cằm, xuyên tới bốn ngày trước mở truyện. Kỵ sĩ độc lập nhận việc từ chủ kinh doanh bến tư, chưa đất/thuế/quyền công.
+- Stonewake gầnGreyford, MỘTphà doMira30tócngắn quản chuyênmôn ngangvaiRowan. Alden51ngón tay mực thay chủquản hợpđồng;Jack nhânviên chủgiữkhóa/ghi xe, khôngký thayAlden. Oswin42thợ mộc theo việc. Tất cả ngoài8gác.
+- 8gác=Dain38sẹomátrái/Bram(HAIcựubinh)+Toma19từnglàmnông/Jory/bốnmớichưatên(SÁUmới). Rowan ngoài8, tổng9miệng ăn thường xuyên. Khi2gác tuần đường, ít nhất6ởbến, giữca/nghỉ thật, không mọi người rađường vì có sựviệc.
+- Milo23bạncùngxómJory, vai rộng/taychai, từng làmđá; nói mấtviệc vìbãingập, chưa kiểm độc lập. Phụviệc khôngvũtrang ngoài8; thửngày3–5đãxong/đãtrảtổng15(5mỗingày=3công+2phụăn). Gia hạnphụviệc ngày6–9vẫn5/cuốimỗingày,dựchi20chưa trảsau023. Tựmuaăn/ngủ riêng, khôngphầnăn9người, khônglươngtháng/giáo/giáp/hồsơthợ tựmở. Tổngtiềnđãnhận khôngphải sốcònnguyên sauănngủ.
+- 1bạc=100đồng. Hợp đồngcũ24/30từngày1cònhiệu lực,12đãnhận nằmtrong24. Dựtoántháng18=lương9(Dain2+bảyngười1)+ăn6+vậttư3,chithật mới trừ. Phíphà/sửabến40đồng đi sổ chủriêng.
+- Sau023quỹ34bạc47đồng. Đãchi1bạcgóiăn9người ngày1–5;Milo15đồngcho3ngày;8đồngdâykhiêncũBram. Chuyếnhộ trướcđãthu đủ3,5gồm1ứng trong3gốc+0,5thêm,ănđường0,2/thưởng0,6đãchi từtrước,khônglặp. Góiăn6–10giá1bạc vừađưagiấy,chưatrả. Lươngtháng/dựphòng3chưa trừgộp. Sốdư mới nhất theo progress/state.
+- Phụlụcđường014doAlden kýthaychủ: RIÊNG7ngày3–9,công3bạc cuốingày9đủca/kỳ,chưa thu sau023. Ranh đườngtư/ca giờđông banngày/đêmtheocũ, khôngbảo chứng hàng haygọiđêm tùytiện. Dự thảo84/90đãgồm12cũ bịhoãn,chưa ký/thu.
+- 面板chỉRowanthấy, khôngnhâncách; luyện đúngngười/đúngkỹnăng cóthửthách mới tíchlũy, mộtđổi mộtthành thạo. CHỦĐỘNGdùngđiểm, khôngtựtiêu vìnóichỉdẫn. Toma长矛收势14/100积累0,随车换位5/100积累0. Jory随车换位4/100积累0. Kiểm qua độngtác thật tiếnnhỏ, vẫnđỏtay/mệt/lờivấp/cầnnhắc. Khôngcấp trung thành/thựcchiến/chữamệt/đọclòngngười/dòxa hoặc nghềchưa học. Hỗtrợthợ/ngựa chưa thử/chốt.
+- TênLatin, SIv0.2.1 giữ chuẩnthoại v0.2 và ẩn tênmẫu. Khôngcopyđịadanh/lãnhchúa trongvídụ; lờiước tải/giá/giờHán/mùa/câulỗi quân số khôngtựthành canon. Ngày1–9 làthứtựởbến, chưa lịchtháng/mùa cốđịnh.
 
 ---
 
@@ -84,13 +82,17 @@ Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0
 
 Tối4đápMilo rồi chuyểncuối5: kiểmToma thu14đượctrựctiếpnhìnthấy, khônghếtmệt. TrảMilo5NGÀYTHỨBA,quỹ34,52→34,47;gia hạnphụviệc ngày6–9vẫn5/cuốingày,chưa trả20. Giấyđặtgóiăn9người6–10giá1bạcvừatới,chưa trả.
 
+### Đoạn 024
+
+Tối5trả1bạcgóiăn9người6–10; qua6–8Milođãtrả5mỗiđêm/tổng15, quỹ34,47→33,32. Sáng9cagác2ra/6ở, Toma/Jorydùnglối/khẩulệnhđãluyệnkhôngtăngđiểm;Aldenhỏiaiđối chiếucuốiNGÀY. Chưa thu3bạctuần/trảMilo5ngày9.
+
 ---
 
-## 3. Trạng thái sau 023
+## 3. Trạng thái sau 024
 
-Tốingày5nhàtrực, Rowan vừacầmgiấyđặtgóiăn9người TIẾP ngày6–10giá1bạc,chưa trả. Quỹ34bạc47đồng=34,47 sau5đồngMilo ngàyTHỨBA. Đãxong3ngàythửMilo/đãtrảtổng15;gia hạnphụviệc ngày6–9vẫncông3+phụăn2=5/ngàycuốingày,cả4ngàychưa trả.024nối giấyăntrảtrướclôtiếpngaytốingày5,rồitómcácngày6–8và chuyểnmộtlần tớisáng9.
+SÁNGNGÀY9,cổngStonewake. Alden vừađếnvớibìasổphụlục,hỏiCUỐINGÀYhômnayaiđối chiếubàn giao đủ7ngày/chữký.025nốitrảlờirồimớichuyểnchiềungày9đãxongca đểnghiệmthu/thu3bạc. Chưa kýđãđủkỳbuổisáng.
 
-Tomađãkiểmthực thu14giữgọnkhitránhngười,còntayđỏ/mệt,khôngtăngmới. HợpđồngđườngdoAldenkýthaychủ014,Jackkhôngký. 15Milo làtổngthu,khôngxácnhậnpocketnet;độigác8khôngđổi. Côngđường3bạccuối9chưa thu.
+Quỹ33bạc32đồng=33,32 sau1bạcgóiăn9người6–10vàMilo15cho6/7/8đãtrả5mỗiđêm. Milo ngày9còn5chưa trả,3bạcđườngchưa thu. Toma/Joryhaiđường,Dain/Bram+bốnmới6ởbến,Rowanquansátngoài8. Kỹnăng14/5/4khôngđổi. MộtphàchởxeMiraquyếtlượt,khôngcanonhầmtàu/raft/kiểmthuế hoặcMilođibốcdỡchủbến.
 
 8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5mỗi ngày3/4/5(tổng15), đãxong3ngàythử, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
@@ -103,6 +105,8 @@ Toma长矛收势14/100积累0,随车换位5/100积累0. Jory随车换位4/100积
 Ngày4đãtrả8đồngthaydâykhiêncũBram, vẫn2khiênnhỏ. Toma13/1→14/0ở022 phảihiểulàRowan chủđộngdùng1củngcốđúnghồsơ, khôngtựtiêuđiểmkhinóichỉdẫn; cầnkiểmthêm bằngđộngtác thực.
 
 Sau023đãthỏa thuậnMilo tiếpphụviệc4ngày6–9,5đồng/ngàycuốingày nhưcũ,dựchi20chưa trả;khônggácthứ9/dài hạn. 15đồnglàTỔNGĐÃNHẬN banày3–5,khôngcoilàtiếttiệm/cònnguyênsauănngủ. Phụlụcđường014doAldenkýthaychủ,Jackchỉgiữcổng/ghi xe/phiếugiaoca.
+
+Sau024: tốingày5đãtrả1bạc góiăn9người ngày6–10, tổnghai lôđãtrả2bạcngày1–10. Milo ngày6/7/8đãnhận5mỗingày(tổng15thêm), tổngđãtrảchoMilo3–8là30đồng; ngày9còn5chưa trả. Sángngày9quỹ33,32, chưa thu3bạcđường vàchưađủngày9đểnghiệmthu. Khôngcanonkỹthuậthầmtàu/raft/kiểmthuế;chỉmộtphàchởxe,Miraquyếtlượtvàtải,độituầnđườngtưkhônghảiquan.
 
 ---
 
@@ -118,38 +122,31 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 23 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 24 (để nối mạch và giữ giọng)
 
-　　从明天第六天到第九天，还有四天时间。
-　　这四天里，防卫队继续用你干杂活。”
-　　听到这里，Milo脸上刚露出一丝喜色，Rowan的声音便再度严肃地沉了下来：
-　　“条件跟之前一样，不改规矩。
-　　每天三文工钱、两文伙食补贴，每天干完活在傍晚结清五文，做一天算一天。
-　　你依旧是不带兵器的杂工，不计入防卫队正规卫兵编制，不配发武器，更不能替卫兵上哨站岗。
-　　这四天干得好，等第九天私道试行彻底结账，咱们再谈往后的长工还是短工；要是这四天里耍滑偷懒、误了队里的正事，我随时结当天的钱让你走人。
-　　这活，你接不接？”
-　　四天就是足足二十枚铜板！
-　　在渡口扛大包也未必能天天拿到现钱，更别说防卫队给钱干脆，从不克扣一文半文。
-　　“接！我接！”
-　　Milo激动得使劲点头，随后有些急切地追问了一句：
-　　“队长，那每天的时辰怎么定？我早上什么时候到，晚上什么时候能回？”
-　　Rowan交代道：
-　　“早晨晨雾散开、道口抬起第一道栏杆前，你必须站在值班室门口把水缸挑满。
-　　傍晚最后一班巡道回营、大门落锁，你把院子工具收好，领完铜板再走。
-　　午间队里换岗吃干粮，你有一刻钟时间自己嚼饭歇脚，别误了下午的杂差。”
-　　“全听队长的！我肯定天不亮就出门，绝不耽搁开门挑水！”
-　　Milo连声应下，紧紧攥着那五枚铜币，脸上的疲惫一扫而空，脚步轻快地退出了值班室。
-　　随着Milo离开，门外的木板道上传来一阵略显粗重的布鞋踩踏声。
-　　一名围着白布油裙的伙房妇人手里捏着一张泛黄的粗纸条，探头探脑地跨过门槛，朝着屋内张望：
-　　“Rowan队长在里头么？”
-　　Rowan抬起头：“在，什么事？”
-　　“后厨管事让我送单子过来。”
-　　妇人走上前，把手里的纸条递向桌案，嘴里利索地念叨着：
-　　“你们队上前头包的五天饭食，到今天晚饭就算彻底到期了。
-　　明天是第六天，管事让我问问后头五天的伙食续不续。
-　　照着老规矩，队里九个人，每天两餐麦饼加菜汤，后五天一共收一枚银币。”
-　　那张粗糙的伙食单子平铺在桌角，上面用木炭歪歪扭扭地画着代表第六天到第十天的划痕。
-　　正如先前那轮一样，杂工Milo自己拿着每日两文的伙食钱去外头买黑面包，这份伙食单里自然没有算他的份。
-　　Rowan伸手拿起那张还带着灶火油烟气的粗纸条，低头扫了一眼上面的字迹，手指在桌面上轻轻敲了敲，尚未去取钱袋里的银币……
+　　“知道了，下回我先报车重！”
+　　两人相互递了个眼神，手里的活计没停，嘴上的口令虽然还稍显生硬，但比起头几天只知道扯着嗓子瞎喊，已经懂得拿脚步和站位去引导人流了。
+　　不远处的驳船栈桥边，三十来岁、留着利落短发的管事女工Mira正弯腰解开一条专运大驳船的粗麻缆。
+　　新兵们清点完两辆运送碎石的大车，没有自作主张开闸放行，而是快步跑上栈桥边缘，隔着几步远停下，规规矩矩地冲Mira抱拳询问：
+　　“Mira管事，这趟是先装这两车碎石，还是让外头那批空筐的羊皮筏先过？”
+　　Mira直起腰，抬手把被风吹散的短发别到耳后，目光在石料车沉重的车轴上打了个转，干脆利落地一扬下巴：
+　　“石料重，吃水深，趁着晨潮高先装进底舱压仓！
+　　羊皮筏让他们在北滩浅水里泡着，等下趟空船靠岸再倒腾！”
+　　“明白，先装石料！”
+　　新兵得了准话，立刻转身打手势，指挥石料车平稳上渡，半点没去擅作主张动货物的规矩，也没跟船工起争执。
+　　Rowan站在高处看得清楚，微微点了点头。
+　　练兵不是指望这群农家子弟一夕之间变成以一当百的猛将，而是在这乱糟糟的渡口货场上，知道自己守的是哪根桩子，听谁的话，手里的家伙该朝哪里摆。
+　　眼下这六个人在渡口撑得住场面，私道那边两个人盯得紧，这套架势就算立住了。
+　　货栈后院的空地上，杂工Milo正吃力地抱着两捆用油布裹好的盐块，小步快跑地穿过泥地，码放在背风的干燥木架上。
+　　他身上没挂武器，也不往卫兵站立的木栅栏边乱凑，干完一趟就拿着扫帚清理掉落的麦壳，完全恪守着雇工本分。
+　　晨光越过河堤，将渡口的薄雾一点点撕碎。
+　　正当新一轮的车队准备在私道门卡前验货时，渡口主道的木门外传来了急促的脚步声。
+　　文吏Alden手里夹着一本厚厚的硬皮附录账册，领口微敞，大步迈过了外侧的拦马桩。
+　　他一眼瞧见立在高台阶前的Rowan，加快步子迎了上来，脸上挂着平日里那副精明中带着客气的笑容：
+　　“Rowan队长！”
+　　Alden在石阶下站定，拍了拍腋下夹着的账册封皮，声音压得不高不低，刚好能穿过嘈杂的风声：
+　　“今天这第九天一过，私道试行的整整七天就算彻底满了。
+　　等到傍晚最后一班车清关交班，咱们这账也该结了。
+　　队长您看，今天下值的时候，是由您亲自跟我核对这七天的出车底册与交接木签，还是队里指定哪位弟兄一同签字画押？”
 
-(Đoạn 24 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 25 sẽ bắt đầu ngay sau chỗ này.)

@@ -1,8 +1,8 @@
-## 3. Trạng thái sau 023
+## 3. Trạng thái sau 024
 
-Tốingày5nhàtrực, Rowan vừacầmgiấyđặtgóiăn9người TIẾP ngày6–10giá1bạc,chưa trả. Quỹ34bạc47đồng=34,47 sau5đồngMilo ngàyTHỨBA. Đãxong3ngàythửMilo/đãtrảtổng15;gia hạnphụviệc ngày6–9vẫncông3+phụăn2=5/ngàycuốingày,cả4ngàychưa trả.024nối giấyăntrảtrướclôtiếpngaytốingày5,rồitómcácngày6–8và chuyểnmộtlần tớisáng9.
+SÁNGNGÀY9,cổngStonewake. Alden vừađếnvớibìasổphụlục,hỏiCUỐINGÀYhômnayaiđối chiếubàn giao đủ7ngày/chữký.025nốitrảlờirồimớichuyểnchiềungày9đãxongca đểnghiệmthu/thu3bạc. Chưa kýđãđủkỳbuổisáng.
 
-Tomađãkiểmthực thu14giữgọnkhitránhngười,còntayđỏ/mệt,khôngtăngmới. HợpđồngđườngdoAldenkýthaychủ014,Jackkhôngký. 15Milo làtổngthu,khôngxácnhậnpocketnet;độigác8khôngđổi. Côngđường3bạccuối9chưa thu.
+Quỹ33bạc32đồng=33,32 sau1bạcgóiăn9người6–10vàMilo15cho6/7/8đãtrả5mỗiđêm. Milo ngày9còn5chưa trả,3bạcđườngchưa thu. Toma/Joryhaiđường,Dain/Bram+bốnmới6ởbến,Rowanquansátngoài8. Kỹnăng14/5/4khôngđổi. MộtphàchởxeMiraquyếtlượt,khôngcanonhầmtàu/raft/kiểmthuế hoặcMilođibốcdỡchủbến.
 
 8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5mỗi ngày3/4/5(tổng15), đãxong3ngàythử, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
@@ -15,3 +15,5 @@ Toma长矛收势14/100积累0,随车换位5/100积累0. Jory随车换位4/100积
 Ngày4đãtrả8đồngthaydâykhiêncũBram, vẫn2khiênnhỏ. Toma13/1→14/0ở022 phảihiểulàRowan chủđộngdùng1củngcốđúnghồsơ, khôngtựtiêuđiểmkhinóichỉdẫn; cầnkiểmthêm bằngđộngtác thực.
 
 Sau023đãthỏa thuậnMilo tiếpphụviệc4ngày6–9,5đồng/ngàycuốingày nhưcũ,dựchi20chưa trả;khônggácthứ9/dài hạn. 15đồnglàTỔNGĐÃNHẬN banày3–5,khôngcoilàtiếttiệm/cònnguyênsauănngủ. Phụlụcđường014doAldenkýthaychủ,Jackchỉgiữcổng/ghi xe/phiếugiaoca.
+
+Sau024: tốingày5đãtrả1bạc góiăn9người ngày6–10, tổnghai lôđãtrả2bạcngày1–10. Milo ngày6/7/8đãnhận5mỗingày(tổng15thêm), tổngđãtrảchoMilo3–8là30đồng; ngày9còn5chưa trả. Sángngày9quỹ33,32, chưa thu3bạcđường vàchưađủngày9đểnghiệmthu. Khôngcanonkỹthuậthầmtàu/raft/kiểmthuế;chỉmộtphàchởxe,Miraquyếtlượtvàtải,độituầnđườngtưkhônghảiquan.

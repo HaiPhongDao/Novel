@@ -2,42 +2,40 @@
 
 Đọc đuôi chính văn và brief tự đủ, rồi viết đoạn tiếp theo. Những sự thật và trạng thái cần dùng nằm trong brief. Giữ giọng SI hiện hành.
 
-## Nguyên văn cuối doan-021
+## Nguyên văn cuối doan-023
 
-　　这是防卫队目前仅有的两面旧小圆盾之一，平时归老兵Bram使用。
+　　一名围着白布油裙的伙房妇人手里捏着一张泛黄的粗纸条，探头探脑地跨过门槛，朝着屋内张望：
 
-　　Dain走到Rowan跟前，将圆盾翻转过来，露出内侧的把手和皮带：
+　　“Rowan队长在里头么？”
 
-　　“队长，您瞧这个。”
+　　Rowan抬起头：“在，什么事？”
 
-　　Dain粗粝的手指勾起内侧的熟牛皮挽带。
+　　“后厨管事让我送单子过来。”
 
-　　牛皮表面布满了干燥龟裂的细纹，其中靠近铆钉固定的受力处，皮革已经磨得泛白拉丝，撕裂开了一道足有半指宽的豁口，只剩几根干硬的筋线连着。
+　　妇人走上前，把手里的纸条递向桌案，嘴里利索地念叨着：
 
-　　“Bram刚才巡道前换了另一面，把这面留下了。”
+　　“你们队上前头包的五天饭食，到今天晚饭就算彻底到期了。
 
-　　Dain指着那处裂口，沉声说道：
+　　明天是第六天，管事让我问问后头五天的伙食续不续。
 
-　　“这带子糟得厉害。
+　　照着老规矩，队里九个人，每天两餐麦饼加菜汤，后五天一共收一枚银币。”
 
-　　下午要是赶上道口有牲口惊车，或者遇上不讲理的脚夫硬冲，手肘猛一顶，这皮带立刻就得崩断。
+　　那张粗糙的伙食单子平铺在桌角，上面用木炭歪歪扭扭地画着代表第六天到第十天的划痕。
 
-　　盾牌要是脱了手，前排连个挡头都没有。
+　　正如先前那轮一样，杂工Milo自己拿着每日两文的伙食钱去外头买黑面包，这份伙食单里自然没有算他的份。
 
-　　您给拿个主意，咱们是找镇上皮匠换条新牛皮带，还是自己找块废皮料铆几颗钉子凑合用？”
-
-　　Rowan伸手接过盾牌，指尖在那道开裂的挽带上用力掰了掰，干硬的皮层发出细微的断裂声……
+　　Rowan伸手拿起那张还带着灶火油烟气的粗纸条，低头扫了一眼上面的字迹，手指在桌面上轻轻敲了敲，尚未去取钱袋里的银币……
 
 ## Brief đoạn tiếp theo
 
-Viết đoạn022 khoảng1800–2200 chữ Trung,chỉchínhvăn. MởRowan cầmkhiêncũcủaBram,kéodâyđãrách,sángngày4nhàtrực.
+Viết đoạn024 khoảng1800–2200 chữ Trung,chỉchínhvăn. MởRowan vừa nhận giấyđặt góiănTIẾP, tốingày5saukhitrảMilo5ngàycuốithử vàgia hạnphụviệc4ngày6–9. Milo ngoài8gác,khôngvũtrang,vẫncông3+phụăn2=5đồngcuốimỗingày;ngày3/4/5đãtrảtổng15,ngày6–9chưa trả. Quỹ34bạc47đồng=3447đồng.
 
-Rowan22kỵsĩđộc lậpchỉhuy8gác do chủbếnkinhdoanhtưthuê. Dain/Bram hai cựu,Toma/Jory+bốnkhác làsáumới. Bram/Joryđituầnđầu,Dain/Toma/bốnmớiởbến,Rowan ngoài8. ChỉHAIkhiênnhỏcũ:Bramđemchiếc cònnguyên,chiếc trongtayRowan cầnthaydây. Milo23thửphụviệc KHÔNGVŨTRANG ngoài8ngày3–5,3công+2phụăn=5đồngcuốingày;đãtrảngày3,ngày4chưa. Góiăn9người ngày1–5đãtrả1bạc;quỹ34bạc65đồng. Thửđường3bạcchờcuối9,chưa thu; cũ24/30và12trong24giữhiệu lực. MộtphàMira,Jackkhóa/ghixe,đườngtưcóca/nghỉ.
+Támgác=Dain/Bram2cựu+Toma/Jory/bốnkhác6mới,Rowan ngoài8.Mira30tócngắnquảnMỘTphà ngangchuyênmôn,Jackngườichủgiữkhóa/ghixe. Rowan kỵsĩđộc lậpchỉhuyđội đượcchủbếnkinhdoanhtưthuê,đườngtư/ca bangày2đi,tốithiểu6ởbến,cónghỉ. Cũ24/30từngày1,12đãnhậntrong24;thửđườngriêngngày3–9đủ7ngày,3bạccuốingày9 mới thu,chưa nhận. Toma长矛收势14/100/积累0,随车换位5/100/积累0,Jory换位4/100/积累0,giữsốkhôngtựtăng. Milo khôngbảngnghề.
 
-Chuyệnxảyra: Rowan xem phầnđứt khôngphảichỗđểchắpđỡrồibắtngườigác chịu. Thợđồda tại dãyquầybến đượcgọiđếncổng, báo vàthaymột dâyđeo phùhợp,trảTHẬT8đồng saukhithay/kiểm. Khiênvẫnchiếccũ,thợngoài8,khôngOswinbỗngthànhnghềda. Quỹ3465-8=3457đồng=34bạc57đồng,khoảnvậttưthực,từdựphòng3bạc chưa từngtrừgộp. Chođốithoạithựcdụngvềđồcũ/côngsửa,chứkhônggiảngngânquỹ.
+Chuyệnxảyra: giấyăn làgói9người ngày6–10,giá1bạc,khônggộpMilo. Rowan hỏi nhận/lưuđồthếnào,trảTHẬT100đồng=1bạc ngaytốingày5đểngày6cấp,khônglàcôngnợcũngày1–5đãthanh toán. Quỹ3447-100=3347đồng=33bạc47đồng. Khôngnhắc18dựtoánnhưmónđãchi hoặctrảlạitiềnđường0,2.
 
-Khiđồđãổn,RowanchoToma tập长矛收势 trongsân,sáungườivẫnởbến/Dainquảnca,Bram/Joryđanglượtđầu. Toma khôngphảicựu binh;thu giáohiện13/100,随车换位5/100,mỗikỹnăngtíchlũy0. Cóbàiđúngtầm: thugiáokhingườicầmđồđiqua,đổi hướnhiệu vàgiữđầu giáo khỏiđụngngườiphụ;ngườitậpchậm/cósai/dừngsửa/nghỉ,cảkhiênvừa sửa cóthểchỉđặtcạnhđểkiểmchứkhôngépđổi thànhkỹnăngmới. Luyệncóthửthách thật mới cho长矛收势13/100/训练积累1. Rowan dùngđúng1cùngkỹnăngToma→14/100/积累0,kiểm lượtsaukháhơnCHÚTchứkhôngthiệnchiến/chữatrầytay/hếtmệt. Jory换位4/100积累0khôngđổi;Milo biếtlốiđiđúngthờigian chứkhôngmởbảngnghề/thànhgác.
+Sau đóchuyển MỘTLẦN sangsángngày9,bằngđoạnkểgọncácngày6–8lặpca:giờgiacóđếmđồ/đườngphụđượcbáotrước,họcquaphảnứng,khôngkể3bảncổngkẹtgiốngnhau.Milo mỗiđêmngày6,7,8đãlàmđủvàTHỰCNHẬN5đồng/ngày,tổng15đồng(đãba lầnhàngngày,chứkhôngtrảgộpchậm),quỹ3347-15=3332đồng=33bạc32đồng.Đếnsáng9chưatrảMilo5ngày9/chưathu3bạcđường,hai khoảncònđếncuốingày,đừngcộngtrước.
 
-Chuyểnmộtlầnsangcuốichiềungày4saucađường,ngườivềbến/nghỉđúngca. TrảMilo5đồng công/phụănNGÀYTHỨHAI,khôngcả3ngày. Quỹ3457-5=3452đồng=34bạc52đồng. Anhcóthểtựxemnứtdây/chỗđặtđồhômnayhọctừaiđó,khônggiỏiđồngloạt. DừngkhiMilo nhận5đồng vàhỏingàymainếuhếtba ngàythửthìcótiếptụccònviệc hayphảithuđồđi,RowanvừanhìnDainđểđáp;023nối trảlờirồiquangày5trongđoạn.
+Sángngày9choToma/Joryđiđợtđầusauđãnghỉđúng,Dain/Bram+bốnngườimới=6ởbến,Rowan điquan sátngoài8.Mộtviệcthậtvừasức cho thấycáchđãluyệnđượcdùng: gió/tiếngbến khiếnngườigánhnghethiếucâu,mộtgác chỉchỗchờvàlốixera bằngcảvịtrí lẫn lời,tránhchặnchỉhô. Hai mới cònphải nhìnnhau/nhắcnhaucâucònthiếu, hỏiMira khiquyếtlượtphà;khôngđộtngộtthắngbăngcướp/tựquyềnvềhàng. Rowan nhìnthấythayđổiquahànhđộng,khônggiảngđạophẩmchất. Milo ởsân giaovậttư đúngchỗ,theoviệcđãnhận,khôngthếgác.
 
-Tựdochitiết/đốiđáp trọný,gầnRowan,2cảnhsángsân–chiềunhàtrực. Luyệntập/đời sốngđứngtrướccon số,tiềnđầu3465đồng,kết3452đồng nhưtrên. Ngày4làthứtựởbến,khôngcầntháng/mùa/địađiểmmới.
+Dừngbuổisáng9khiAldenđếncổng,mangbìasổphụlụcvàhỏi cuốiNGÀYhômnayai cùngxácnhậnđủkỳ/phiếugiaoca. Chưa thanh toán/kýđãđủ7ngàyvàosáng9;025nốitrảlờirồinghiệmthu/thutiềnchiềusaukhicađãxong. Tựdocáchđờisống/đốiđáptrọný,gầnRowan,2cảnh tốingày5–sáng9,giữngày/tiềnđúng.

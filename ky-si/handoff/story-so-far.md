@@ -51,3 +51,7 @@ Ngày4: thaydâykhiêncũBram trả8đồng; Toma luyện长矛收势13/1→14/0
 ### Đoạn 023
 
 Tối4đápMilo rồi chuyểncuối5: kiểmToma thu14đượctrựctiếpnhìnthấy, khônghếtmệt. TrảMilo5NGÀYTHỨBA,quỹ34,52→34,47;gia hạnphụviệc ngày6–9vẫn5/cuốingày,chưa trả20. Giấyđặtgóiăn9người6–10giá1bạcvừatới,chưa trả.
+
+### Đoạn 024
+
+Tối5trả1bạcgóiăn9người6–10; qua6–8Milođãtrả5mỗiđêm/tổng15, quỹ34,47→33,32. Sáng9cagác2ra/6ở, Toma/Jorydùnglối/khẩulệnhđãluyệnkhôngtăngđiểm;Aldenhỏiaiđối chiếucuốiNGÀY. Chưa thu3bạctuần/trảMilo5ngày9.

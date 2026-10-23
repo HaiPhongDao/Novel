@@ -1,6 +1,6 @@
 # Kỵ sĩ (tên làm việc)
 
-**Trạng thái 23/10/2026:** Đã viết tới [đoạn 023](chapters/doan-023.md), 2,104 chữ Hán; [review SỬA NHẸ](reviews/doan-023.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
+**Trạng thái 23/10/2026:** Đã viết tới [đoạn 024](chapters/doan-024.md), 2,207 chữ Hán; [review SỬA NHẸ](reviews/doan-024.md). Agent đang viết tiếp theo yêu cầu; chưa ghi Tác giả duyệt từng bản mới.
 
 **Hướng đề xuất:** Kỵ sĩ vừa giải ngũ nhận giữ bến phà, dùng bảng luyện tập tổ chức tám người gác thành đội quân đầu tiên. Phát triển từ giữ bến → giữ đường → giữ đất.
 
@@ -64,5 +64,6 @@ Lịch giờ đã tạm dừng sau khi Tác giả làm rõ: viết liên tục n
 | 021 | [Brief](briefs/doan-021.md) | [Chính văn](chapters/doan-021.md) | [ĐẠT](reviews/doan-021.md) | Agent review |
 | 022 | [Brief](briefs/doan-022.md) | [Chính văn](chapters/doan-022.md) | [SỬA NHẸ](reviews/doan-022.md) | Agent review |
 | 023 | [Brief](briefs/doan-023.md) | [Chính văn](chapters/doan-023.md) | [SỬA NHẸ](reviews/doan-023.md) | Agent review |
+| 024 | [Brief](briefs/doan-024.md) | [Chính văn](chapters/doan-024.md) | [SỬA NHẸ](reviews/doan-024.md) | Agent review |
 
 Luật chung: [AGENT.md](../AGENT.md). Trạng thái làm việc ở [handoff/state.md](handoff/state.md), quyết định và trạng thái duyệt ở [log.md](log.md).
