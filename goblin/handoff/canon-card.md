@@ -12,9 +12,9 @@
 - Nub — con non cùng ổ, gầy bé, chép y hệt từng động tác của Khoa, cả động tác thừa.
 
 **Địa danh**
-- Hang Dơi (蝙蝠洞): hang đá vôi; ngách ngoài để ngủ, ngách sâu là hố ổ (巢坑) và chỗ Mẹ Ổ; nền phủ phân dơi (蝙蝠粪) dày, khai nồng.
-- Suối Lạnh (冷溪): suối nhỏ chân đồi, nhiều cá nhỏ.
-- Đầm Rêu Đỏ (红苔沼): đầm than bùn phía nam, nước váng gỉ đỏ.
+- 蝙蝠洞 (Hang Dơi): hang đá vôi; ngách ngoài để ngủ, ngách sâu là hố ổ (巢坑) và chỗ Mẹ Ổ; nền phủ phân dơi (蝙蝠粪) dày, khai nồng.
+- 冷溪 (Suối Lạnh): suối nhỏ chân đồi, nhiều cá nhỏ.
+- 红苔沼 (Đầm Rêu Đỏ): đầm than bùn phía nam, nước váng gỉ đỏ.
 
 **Đã lên trang ở đoạn 1–2**
 - Hố ổ: sâu ~2 m, rộng ~2 m, vách đá ướt trơn, nền phân dơi lẫn vỏ trứng; trần hang cao hơn chục mét, dơi treo kín.
@@ -26,7 +26,7 @@
 
 **Đã lên trang ở đoạn 3**
 - Cửa hang có hai con già canh, hay ngủ gật bên măng đá.
-- Suối Lạnh (冷溪): rộng 2–3 m, nước trong lạnh buốt, bãi đá đen, cá nhỏ dài một ngón tay; bờ có lớp than bùn, bãi cỏ và đường mòn chuột đồng.
+- 冷溪 (Suối Lạnh): rộng 2–3 m, nước trong lạnh buốt, bãi đá đen, cá nhỏ dài một ngón tay; bờ có lớp than bùn, bãi cỏ và đường mòn chuột đồng.
 - Bẫy số 4 (4字形陷阱): cột, thanh chống chéo, thanh mồi khắc ngàm bằng mảnh đá lửa; đè bằng phiến đá phiến xám đen; mồi sâu trắng. Bốn bẫy dọc đường mòn.
 - Tật của Khoa khi đau/bực: vẩy cổ tay, chà tay vào đùi, tặc lưỡi — Nub chép cả ba.
 
@@ -41,4 +41,9 @@
 - Khoa đeo một túi da rách bên hông.
 - Dốc đá vụn dưới cửa 蝙蝠洞: dốc dựng, đá phiến lỏng dễ trượt, lối đi hẹp; cách cửa hang hơn ba chục mét có một tảng đá lớn.
 - Zag: to nhất ổ, xương to, hàm bạnh, mắt vàng đỏ ngầu; quấn mảnh da sói rách, cầm gậy gỗ cứng có mấu to bằng hai ngón tay; leo khỏi hố từ Ngày 2; bốn con non to xác theo nó.
+
+**Đã lên trang ở đoạn 6**
+- Mok: con non cùng ổ, béo nhất, bụng tròn như quả bầu, chậm, ai có thịt thì theo.
+- Nhóm năm: Khoa, Nub, Snik, Zag, Mok — năm là con số lớn nhất goblin đếm được. Lệnh của Khoa: làm việc, canh đường, khuân đá thì có thịt; bỏ chạy, cướp thì chết.
+- Máu goblin đỏ sẫm. Tay goblin bốn ngón.
 
