@@ -1,12 +1,13 @@
-## 3. Trạng thái hiện tại (hết đoạn 009)
+## 3. Trạng thái hiện tại (hết đoạn 010)
 
-**Thời điểm:** Ngày 7 — 九月九号, khoảng mười giờ tối.
-**Có mặt:** 姜禾 vừa nằm vào khoang số bốn của 深蓝, nắp đã khép, đang 潜入 《退潮》. 许牧 ngồi ghế gấp cạnh khoang, laptop trên đầu gối, mở góc nhìn của cô. 老周 ở quầy. Quán không còn khách.
+**Thời điểm:** Ngày 7 — 九月九号, quá mười một giờ đêm.
+**Có mặt:** 深蓝潜入馆, không còn khách. 姜禾 ngồi ghế nhựa trước laptop của 许牧, bút 修补笔 trong tay, đang làm lại vỏ ốc. 许牧 ngồi ghế gấp bên cạnh, cốc trà nguội. 老周 ở quầy với cốc tử sa.
 
 **许牧 biết**
-- 《退潮》 bản thử: bãi xám chiều tà, giày cỏ, giỏ tre, móc sắt nhỏ; vỏ ốc gần bờ (của 姜禾 — thứ duy nhất có màu và vân), cua chạy ngang và chai đựng hải đồ ở xa (vẫn là khối xám). Tín hiệu: sóng ầm, chim bay, nước buốt; con nước đầu chỉ tới gối. Chòi giữ đồ. Không có chữ hay bảng nào trong 境.
-- 老周 cầm vỏ ốc đứng ngây gần hai phút; muốn cua và chai cũng thật như thế.
-- 姜禾 tới thử chính thứ cô làm; cô chưa nói nhận làm cả game.
+- 姜禾 đã nhận: làm cua, chai, hải đồ và làm lại vỏ ốc. Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; không hứa tiến độ, chỉ làm sau ca 12 tiếng (9 giờ sáng – 9 giờ tối).
+- Lỗi cô chỉ ra: vỏ ốc phản xạ cao ~5%, chỗ tối trong miệng ốc quá sáng; cua và chai xám làm vỏ ốc lạc lõng.
+- 《退潮》 bản thử: bãi xám chiều tà, giày cỏ, giỏ, móc; ốc / cua / chai đựng hải đồ; sóng ầm, chim bay, nước buốt; con nước đầu tới gối; chòi giữ đồ, hải đồ hiện vệt đỏ. Chưa có dụng cụ, chưa có trời tối dần.
+- Quyền lợi 见习: lên 境市, nhận 算力 hằng tháng của hội, dùng rộng 素材库 — không có tiền trợ cấp.
 
 **Con số đang chạy**
 | Mục | Giá trị |
@@ -17,6 +18,5 @@
 | Hạn nộp chứng nhận 见习 | 九月二十号 (còn 11 ngày), lệ phí 600元 |
 
 **Tuyến đang mở**
-- 姜禾 nhận làm tiếp hay không.
 - 老周 nghiện bản thử; chưa bàn 试映 cho khách.
 - Tiền nhà mai; hạn nộp 二十号; 算力 hết 三十号.

@@ -40,3 +40,6 @@
 
 **Thêm sau đoạn 009**
 - 老周 gọi 姜禾 là 小姜; 姜禾 gọi ông 周老板. 深蓝 đưa khách mũ cảm ứng mềm khi vào khoang. Từ 长庚 tới 深蓝 đi tàu điện ngầm gần nửa tiếng.
+
+**Thêm sau đoạn 010**
+- 姜禾 nhận làm cua, chai, hải đồ và làm lại vỏ ốc (tối 九月九号). Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; chỉ làm sau ca.

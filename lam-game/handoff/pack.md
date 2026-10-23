@@ -55,6 +55,9 @@ Sau đó chờ prompt của đoạn tiếp theo.
 **Thêm sau đoạn 009**
 - 老周 gọi 姜禾 là 小姜; 姜禾 gọi ông 周老板. 深蓝 đưa khách mũ cảm ứng mềm khi vào khoang. Từ 长庚 tới 深蓝 đi tàu điện ngầm gần nửa tiếng.
 
+**Thêm sau đoạn 010**
+- 姜禾 nhận làm cua, chai, hải đồ và làm lại vỏ ốc (tối 九月九号). Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; chỉ làm sau ca.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -78,8 +81,7 @@ Tối Ngày 2 ở quán mì cạnh cổng đông 长庚: 姜禾 (修补员, ca 9
 姜禾 chê vỏ ốc tạm từng chỗ rồi đi, không hứa gì. Hai ngày viết luật. Chiều Ngày 4, 老周 chơi thử ở khoang số bốn: đào ốc, bắt cua, ra xa đào chai, bỏ qua tín hiệu nhỏ; phút ba nước tới thắt lưng, mất giỏ.
 
 ### Đoạn 7 — "这不是坑人么" (chiều Ngày 4)
-老周 上浮, mồ hôi trán, quát: "小许，你这不是坑人么！" 许牧 rót nước, hỏi từng thứ: sóng có đổi không (có, nhưng ai nghe tiếng nền), gió (lạnh, rụt cổ), ông có biết nước tới thắt lưng là mất giỏ không. 老周 so với máy mô phỏng bay: hỏng là đèn đỏ nháy, còi rít; ở đây không chữ đỏ, không đếm ngược. 许牧 nhận là mình thiết kế chưa rõ và sửa ngay: sóng to gấp rưỡi, đổi thành tiếng ầm dồn dập khi còn một phút; một đàn chim xám bay vụt lên; nước ở mắt cá lạnh buốt; con nước "试错潮" đầu mỗi lượt chỉ lên tới gối, mười giây rồi rút, không cuốn giỏ.
-Lần hai: chim bay, sóng ầm, nước buốt ở mắt cá, nước đẩy ở gối rồi rút — 老周 hiểu "潮水要来了". Ông đào vỏ ốc, lần mò ra cái chai; khi chim bay lần nữa ông bỏ luôn cái chai, chạy về, lao vào chòi gỗ trước khi nước tới thắt lưng; trong giỏ còn vỏ ốc và con cua. Ra khoang ông hớn hở: "比老子当年在模拟机里把飞机平稳降落还要爽！" Biết đồ trong chòi giữ lại cho lần sau, ông hỏi trong chai có gì — 许牧: mảnh hải đồ cũ, mở vùng bãi xa hơn. Ba rưỡi chiều, 老周 nằm lại vào khoang số bốn: "再给我开一次，就五分钟！"
+老周 上浮, quát "坑人". 许牧 hỏi ông nghe/thấy gì, rồi sửa: sóng ầm, đàn chim xám bay lên, nước buốt ở mắt cá, con nước "试错潮" đầu mỗi lượt chỉ tới gối. Lần hai 老周 bỏ cái chai, chạy về chòi kịp; chòi giữ đồ qua các lượt; chai đựng mảnh hải đồ. Ông nằm lại: "就五分钟！"
 
 ### Đoạn 8 — Bốn mươi phút (chiều Ngày 4 → tối Ngày 6, 九月八号)
 "Năm phút" trôi qua. 老李头 tới đánh 《静湖》 hai tiếng, 许牧 trông quầy, ghi vào sổ bìa da của 老周. Trên laptop, 老周 đã thuộc luật: chim bay thì lùi nửa bước, sóng ầm thì rút chân. Đồng hồ khoang dừng ở 40:12. 老周 ra ướt đẫm mồ hôi, kể: lượt đầu bùn hút mất một chiếc giày cỏ, phải chạy về tay không; lượt sau đi chân trần, móc được cái chai ngay trước khi nước tới gối; trong chai là hải đồ cũ, đặt lên bàn trong chòi thì hiện một vệt đỏ chỉ ra vùng xa. 许牧 ghi sổ: thời gian, số lần thua, đồ mang về, câu đầu tiên khi ra ("快快快！小许，给我倒杯水！"). Hỏi có chán không, 老周 bảo không đẹp bằng 《千灯巷》, "但那玻璃瓶是我…亲手从泥里抠出来的。拿回木屋的时候，心里踏实。"
@@ -89,17 +91,22 @@ Hai ngày sau, 9 giờ 15 tối 九月八号, quán vắng; hai ngày nay hễ r
 Trong bãi bồi chỉ có xám, trắng, đen, vỏ ốc của 姜禾 là thứ duy nhất có màu và vân: đường xoắn thu vào, mép mỏng thấu sáng như sứ, cát mắc trong miệng ốc, cầm nhẹ vì rỗng, mùi tanh mặn. 许牧 so với "cục xi măng" của mình; anh để vỏ ốc lên bàn trong chòi rồi 上浮. 老周 cởi giày chui vào ngay: móc vỏ ốc lên, đưa sát mắt, đứng ngây gần hai phút tới khi sóng ầm mới chạy về. Ra khoang, chân trần: "那小东西简直跟发光似的！握在手里，特真！" — rồi bảo cua và chai mà cũng thế thì "咱这境绝对要爆".
 许牧 nhắn 姜禾, không cảm ơn khách sáo: mô hình đã nạp, 老周 nhìn hai phút không rời mắt, có rảnh thì tới 深蓝 thử. Cô đáp: "明天晚班后。" 9 giờ 50 tối 九月九号, quán không còn khách; 姜禾 tới sau gần nửa tiếng tàu điện, đồng phục xanh than, mắt thâm. 老周 mời mì gói; cô cảm ơn từ chối rồi hỏi thẳng "许牧。境在哪儿？". 许牧 đưa mũ cảm ứng, bảo bản này không có hướng dẫn gì. Cô nằm vào khoang số bốn; nắp khép, 许牧 ngồi ghế gấp mở góc nhìn của cô trên laptop.
 
+### Đoạn 10 — 姜禾 vào bãi (tối Ngày 7, 九月九号)
+Trong bãi, 姜禾 thấy toàn khối xám, "真是够懒的". Cô đi thẳng tới vũng bùn, móc vỏ ốc của mình lên — đặt giữa nền xám, nó không giống vật tự nhiên mà như "垃圾堆里扔了一颗精雕细琢的宝石", độ bóng cô đặt thành phô. Sóng ầm, chim bay, nước buốt mắt cá: cô chạy về chòi, để vỏ ốc lên bàn, 上浮.
+Ra khoang cô chỉ nói lỗi: phản xạ cao ít nhất 5%, độ ướt giả, chỗ tối trong miệng ốc sáng như gắn đèn; còn cua thì như cái xẻng sắt, chai như cột xi măng, sờ vào như nhựa cứng — "在烂泥塘里扔了颗玻璃珠子…反而显得泥塘更刺眼". 老周 cãi, bị cô cắt: "那是周老板你没看过好的。" Hỏi bao giờ thay cua và chai, 许牧 nói không có tiền, chờ có chứng nhận. Cô: "螃蟹、玻璃瓶，还有那张海图。我来做。" — và làm lại vỏ ốc. Ba điều kiện: đứng tên 主建模师; vật liệu, texture, lưới là việc của cô, 许牧 chỉ lo luật và tương tác; không hứa tiến độ, chỉ làm sau ca 12 tiếng. 许牧: "成交。" Cô kéo laptop của anh về, rút bút 修补笔, mở `shell_model_v1.mesh`. 老周 thì thầm cô này cứng tính; 许牧: "脾气大的美术，做出来的东西才顶。" Đồng hồ nhựa trên tường quá mười một giờ.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 009)
+## 3. Trạng thái hiện tại (hết đoạn 010)
 
-**Thời điểm:** Ngày 7 — 九月九号, khoảng mười giờ tối.
-**Có mặt:** 姜禾 vừa nằm vào khoang số bốn của 深蓝, nắp đã khép, đang 潜入 《退潮》. 许牧 ngồi ghế gấp cạnh khoang, laptop trên đầu gối, mở góc nhìn của cô. 老周 ở quầy. Quán không còn khách.
+**Thời điểm:** Ngày 7 — 九月九号, quá mười một giờ đêm.
+**Có mặt:** 深蓝潜入馆, không còn khách. 姜禾 ngồi ghế nhựa trước laptop của 许牧, bút 修补笔 trong tay, đang làm lại vỏ ốc. 许牧 ngồi ghế gấp bên cạnh, cốc trà nguội. 老周 ở quầy với cốc tử sa.
 
 **许牧 biết**
-- 《退潮》 bản thử: bãi xám chiều tà, giày cỏ, giỏ tre, móc sắt nhỏ; vỏ ốc gần bờ (của 姜禾 — thứ duy nhất có màu và vân), cua chạy ngang và chai đựng hải đồ ở xa (vẫn là khối xám). Tín hiệu: sóng ầm, chim bay, nước buốt; con nước đầu chỉ tới gối. Chòi giữ đồ. Không có chữ hay bảng nào trong 境.
-- 老周 cầm vỏ ốc đứng ngây gần hai phút; muốn cua và chai cũng thật như thế.
-- 姜禾 tới thử chính thứ cô làm; cô chưa nói nhận làm cả game.
+- 姜禾 đã nhận: làm cua, chai, hải đồ và làm lại vỏ ốc. Điều kiện: đứng tên 主建模师; vật liệu/texture/lưới do cô quyết, 许牧 lo luật và tương tác; không hứa tiến độ, chỉ làm sau ca 12 tiếng (9 giờ sáng – 9 giờ tối).
+- Lỗi cô chỉ ra: vỏ ốc phản xạ cao ~5%, chỗ tối trong miệng ốc quá sáng; cua và chai xám làm vỏ ốc lạc lõng.
+- 《退潮》 bản thử: bãi xám chiều tà, giày cỏ, giỏ, móc; ốc / cua / chai đựng hải đồ; sóng ầm, chim bay, nước buốt; con nước đầu tới gối; chòi giữ đồ, hải đồ hiện vệt đỏ. Chưa có dụng cụ, chưa có trời tối dần.
+- Quyền lợi 见习: lên 境市, nhận 算力 hằng tháng của hội, dùng rộng 素材库 — không có tiền trợ cấp.
 
 **Con số đang chạy**
 | Mục | Giá trị |
@@ -110,7 +117,6 @@ Trong bãi bồi chỉ có xám, trắng, đen, vỏ ốc của 姜禾 là thứ
 | Hạn nộp chứng nhận 见习 | 九月二十号 (còn 11 ngày), lệ phí 600元 |
 
 **Tuyến đang mở**
-- 姜禾 nhận làm tiếp hay không.
 - 老周 nghiện bản thử; chưa bàn 试映 cho khách.
 - Tiền nhà mai; hạn nộp 二十号; 算力 hết 三十号.
 
@@ -182,38 +188,44 @@ Trong bãi bồi chỉ có xám, trắng, đen, vỏ ốc của 姜禾 là thứ
 
 他停顿了一下，嘿嘿笑了一声：“拿回木屋的时候，心里踏实。”
 
+**Đoạn 010 — 姜禾 chê**
+
+“反射率调高了至少百分之五。”
+
+她开口第一句话，没有半点客气：“湿润感太假，夕阳漫反射跟周围灰模的色温完全对不上。壳口暗部的自发光微调太突兀，就像是在螺壳里装了个发光二极管。”
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 9 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 10 (để nối mạch và giữ giọng)
 
-他在编辑栏里敲下一行字：
-【模型挂进去了。老周刚才挖出来盯了足足两分钟，拔不出来眼。有空来深蓝亲自试一把？】
-等了大概五分钟，手机亮起，收到一条简短的回复：
-【明天晚班后。】
-【行，等你。】
-……
-九月九号，晚上九点五十。
-深蓝潜入馆里的灯光有些昏暗。这个点早已没有别的客人，只有柜台上的老式风扇在“嗡嗡”地转着，吹出带点潮气的风。
-老周坐在柜台后，正用那块脏兮兮的抹布反复擦着玻璃杯，时不时抬头看一眼门口。
-“小许，小姜说几点来着？这都快十点了，不会不来吧？”
-“她九点下班，从长庚坐地铁过来要小半个钟头。”许牧靠在折叠椅上，手里把玩着一只黑色的水笔，“急什么。”
-话音刚落，门外挂着的塑料风铃清脆地响了一声。
-一道纤细的身影推门走了进来。
-姜禾穿着长庚造境那套藏青色的修补员工作服，耳边的短发有些凌乱地塞在耳后，胸口口袋里依然插着那支银色的修补笔。
-十二个小时的高强度扫描修补工作让她眼底泛着一层淡淡的青色，神情有些疲倦，但整个人依然显得利落干脆。
-“哟！小姜来了！”老周立刻放下杯子，笑容满面地迎了上去，“快请进快请进！饿不饿？我这儿还有刚泡好的方便面……”
-姜禾礼貌地冲老周微微颔首：“周老板，不用了，谢谢。”
-她的视线直接绕过老周，落在了许牧身上。
-“许牧。”姜禾开门见山，“境在哪儿？”
-“这边。”许牧站起身，领着她走到四号潜入舱旁。
-姜禾站在四号舱前，打量了一下这台有些年头的民用潜入舱。舱体边缘有些磨损的漆面，但内部被老周擦得挺干净。
-“底层逻辑和基础交互没变，就是你昨天看到的框架。”许牧拉开舱盖，顺手把头戴式感应软帽递给她，“试映版本，没有任何界面引导，全靠你自己摸索。”
-姜禾接过帽带，利落地套在头上，跨步躺进了四号舱内。
-“让我看看，你这所谓的‘不靠画面靠感受’，到底是个什么东西。”姜禾双手放在身侧，语气平淡，但眼神里带着一丝独属于技术人员的挑剔。
-“放轻松，就当去海边散个步。”许牧笑了笑。
-舱盖缓缓降下，“咔哒”一声闭锁。
-顶部的指示灯由黄转绿，开始发出细微的蜂鸣声。
-许牧拉过旁边的一张塑料折叠凳坐下，顺手将笔记本电脑放在膝盖上，熟练地点开管理后台，调出了姜禾的实时第一视角。
-画面微微晃动了一下，昏暗潮湿的灰褐色滩涂在屏幕上徐徐展开。
+老周被噎得翻了个白眼，摸了摸肚子，端起自己的紫砂保温杯，咕嘟咕嘟喝水去了。
+姜禾重新看向许牧：“螃蟹和玻璃瓶，你打算什么时候换？”
+“暂时换不了。”许牧耸了耸肩，摊手道，“账上没钱。打算等造境师协会的见习认证拿下来，领了补贴再考虑。”
+“等你领到补贴，这个境早就被别的垃圾淹没了。”
+姜禾看着他：“造境师协会那帮审核员，最看重整体沉浸感。你这半成品拿去审核，真实度能给到三十五就算他们眼瞎。”
+“那你有什么建议？”许牧笑问道。
+姜禾静静地看了他三秒钟。
+“螃蟹、玻璃瓶，还有那张海图。”她伸出根细白的手指，在四号舱的边缘轻轻敲了敲，“我来做。”
+“外加把那个螺壳的模型重构一遍。”
+许牧眼睛微眯：“条件呢？”
+“第一，模型版权按我们上次说的，我保留独立署名权，主建模师的位置必须是我的。”
+“第二，怎么做听我的。你给规则和交互，具体的材质、贴图、布线，你不能干涉。”
+“第三，我不保证进度。我在长庚每天要干十二个小时，只能用下班时间搞。”
+姜禾一口气说完，眼神定定地看着许牧，没有半点商量的余地。
+许牧在心里迅速算了一笔账。
+一个顶尖的专业建模师，白给你干活，只要个署名权和未来的收益分成，甚至还自带干劲要把整个境的细节给顶起来。
+这要是在前世的开发组里，简直就是天上掉下来的神级主美。
+至于明天那一千五百块钱的房租？
+那是明天的烦恼。
+“成交。”许牧吐出两个字。
+姜禾连一句废话都懒得再说。
+她直接伸手拉过许牧放在桌面上的笔记本电脑，顺手从工作服胸口的口袋里拔出了那支银色的修补笔。
+“笔记本借我用用，渲染器调出来。”
+她拉过塑料圆凳坐下，细长的手指在键盘上飞快地卸载、重载，直接打开了 `shell_model_v1.mesh` 的底稿文件。
+老周凑到许牧旁边，压低声音嘀咕：“小许，这小姑娘脾气挺硬啊，以后你们要是吵起来，你抗得住不？”
+“能干活就行。”许牧靠在折叠椅上，顺手拿过老周放在柜台上的茶壶，给自己倒了一杯冷茶，“脾气大的美术，做出来的东西才顶。”
+老式风扇在头顶发出沙哑的“嗡嗡”声。
+墙上挂着的塑料圆钟，指针悄无声息地滑过了十一点。
+深蓝潜入馆昏暗的灯光下，姜禾微微低着头，银色修补笔的微光落在她紧蹙的眉间，冷绿色的模型网格在电脑屏幕上快速重构起来。
 
-(Đoạn 10 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 11 sẽ bắt đầu ngay sau chỗ này.)
