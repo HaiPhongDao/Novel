@@ -56,6 +56,32 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 - Nhóm năm: Khoa, Nub, Snik, Zag, Mok — năm là con số lớn nhất goblin đếm được. Lệnh của Khoa: làm việc, canh đường, khuân đá thì có thịt; bỏ chạy, cướp thì chết.
 - Máu goblin đỏ sẫm. Tay goblin bốn ngón.
 
+**Đã lên trang ở đoạn 7**
+- Goblin gọi Khoa là Ko (Khoa tự xưng với Yeg).
+- Góc than của Yeg nằm ngay miệng ngách Mẹ Ổ — Mẹ Ổ cách đống than vài mét. Sau đống than có khe đá cất sỏi đen: 112 viên, mỗi viên một con chết mùa đông năm ngoái.
+- Giao kèo Ko–Yeg: Yeg giữ kín chuyện Ko có lửa (Ko nói nhặt từ cây sét đánh); Ko mang thịt nướng hoặc đá nóng cho Mẹ Ổ; ban ngày hai con già canh cửa không cản Ko.
+- Mẹ Ổ: ~10 ngày một ổ; lạnh hoặc đói thì không đẻ.
+
+**Đã lên trang ở đoạn 8**
+- Đăng chắn cá (鱼梁) ở vũng nước thượng nguồn 冷溪: kè đá chữ V ngược, khe rộng hai bàn tay; lờ hình nón đan cành liễu có hom ngược đặt ở khe. Cá nhỏ dài một ngón tay; cá to dài hai bàn tay tới một cẳng tay.
+- Con non lớn nhanh: Ngày 1 dài hai bàn tay, Ngày 9 cao ~0,5 m, ~Ngày 20 cao 0,9 m.
+- Cây khô cách đăng mười mét — chỗ canh của Snik.
+
+**Đã lên trang ở đoạn 9**
+- Cống nạp: chiều nào nhóm Khoa cũng mang ~2 kg cá (hai ba con to nhất) về tảng đá giữa hang cho Gorr; Gorr: "每天……送！" "不送……吃了你。" Má Khoa có vết dao Gorr rạch.
+- Giàn hong khói ở hố đất thượng nguồn 冷溪: lửa âm ỉ ban ngày, cá xiên cành treo cách than nửa mét, phủ cành dương ướt và rêu.
+- Đêm nào Khoa cũng đưa Yeg một con cá nướng ấm cho Mẹ Ổ; Yeg nhai mớm.
+
+**Đã lên trang ở đoạn 10**
+- Trứng goblin: bầu dục cỡ quả dưa, vỏ da mềm nửa trong; Yeg vùi trong hố tro than ấm lót rêu; nở sau hai ngày. Lạnh thì chết trong vỏ.
+- Ổ mới: 34 trứng, đẻ đêm Ngày 11, nở chiều Ngày 13.
+- Trời lạnh dần, cá nước lạnh xuống chỗ sâu: đăng còn ~1 kg/ngày (trước ~3 kg).
+
+**Đã lên trang ở đoạn 11**
+- Gorr biết tên Ko; lời Gorr: mai không có cá to thì ăn Ko.
+- Khoa nói với Gorr: chỉ Ko dụ được cá to ra khỏi khe đá khi nước lạnh.
+- Yeg có một cây gậy gỗ khô; gõ vào vách khi nói trước cả hang. Yeg nói trước mặt Gorr: con non là lương cho mùa lạnh.
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -67,40 +93,55 @@ Khoa (kiếp trước kỹ sư lò cao rồi giáo viên Hoá, mê đi rừng, c
 Gorr lấy con non thứ hai (126; ổ 19). Sáng Ngày 4 Khoa và Nub lẻn qua hai con già canh cửa ngủ gật, xuống Suối Lạnh làm bẫy số 4; hỏng bốn lần, lần năm đứng. Nub chép cả bẫy lẫn tật của Khoa (vẩy cổ tay, chà tay vào đùi, tặc lưỡi). Bốn bẫy dọc đường mòn chuột đồng; chạng vạng được con chuột ~100 g; Khoa cần lửa.
 
 ### Đoạn 4 — đêm Ngày 4
-Khoa không về hang. Trong một hố đất lõm sâu nửa mét dưới bờ đất sụt ở khúc ngoặt thượng nguồn Suối Lạnh, anh làm cung khoan lửa: cần cung cành dẻo, dây hai sợi xoắn từ vỏ trong cây liễu, que khoan gỗ cứng, ván gỗ thông khô có lõm và rãnh V, nùi cỏ khô với mùn gỗ thông, hòn đá lõm đè đầu que. Nub làm một cây cung y hệt và hì hục khoan trên một cành không lõm không rãnh, gầm theo cả tiếng gầm của Khoa. Ba phút kéo, tay rách lại, than hồng, thổi — lửa: ngọn lửa đầu tiên không đến từ đống than của Yeg. Khoa mổ chuột, giữ lòng đè dưới đá làm mồi bẫy, xiên que nướng. Snik — con non cùng ổ, gầy trơ sườn, tai to nhất ổ, mắt vàng, nhanh tay, tự leo khỏi hố — lao từ trên bờ xuống giật hơn nửa con chuột rồi chạy. Khoa không đuổi; giơ nửa thịt nướng lên gọi bằng tiếng goblin: "回来。" "肉……熟的……好吃。" "不过来……吃生肉……肚痛……死。" Snik quay lại, ngồi bên kia đống lửa, đưa nửa thịt sống cho Khoa nướng; ba con chia hết 100 g. Khoa tính: anh cần một đôi tai canh chừng khi làm việc. Snik liếm sạch ngón tay, chỉ lửa rồi chỉ thịt: "为什么……肉……放火上？" "肉……为什么要……烧？"
+Ở hố đất dưới bờ đất sụt thượng nguồn 冷溪, Khoa làm cung khoan lửa (dây vỏ liễu, que gỗ cứng, ván thông có rãnh V); Nub chép cả cây cung, khoan trên cành không lõm. Có lửa — ngọn lửa đầu tiên không đến từ than của Yeg; Khoa nướng chuột. Snik (tai to nhất ổ, nhanh tay) giật hơn nửa con rồi chạy; Khoa gọi lại bằng câu cụt, nướng chín cho cả ba. Snik hỏi vì sao phải hơ lửa.
 
 ### Đoạn 5 — đêm Ngày 4 → rạng sáng Ngày 5
-Khoa trả lời Snik bằng câu cụt và động tác ("生肉……肚里……有虫。" "熟肉……不肚痛。" "长肉……力气大。"); Nub chép cả cú gập người kêu đau, bị vỗ đầu. Giao kèo: Snik đứng chỗ cao canh đường, nghe động, có nguy thì kêu; nghe lời thì có thịt — Snik nhắc lại "看路！……叫！……给肉！". Gần sáng Khoa lấy bùn sỏi lấp tro, giẫm chặt (sợ Yeg ngửi ra khói, sợ Gorr biết anh làm ra lửa). Ba bẫy: một sập hụt, hai được hai chuột ~100 g; Khoa buộc chân, nhét vào túi da bên hông, không dám nhóm lửa khi trời sáng. Về tới dốc đá vụn dưới cửa 蝙蝠洞, Khoa tính: ổ 19 — 11 còn trong hố, 8 đã ra (ba con của anh; Zag và bốn con theo nó). Zag — to nhất ổ, hàm bạnh, quấn mảnh da sói, cầm gậy gỗ cứng có mấu — từ tảng đá nhảy xuống chặn lối đá vụn hẹp, dí mặt sát ngực Khoa ngửi ra mùi khói gỗ thông và mỡ nướng: "熟的……肉香！" "拿来！" "全部……给我！" Zag vươn móng chộp túi chuột; Khoa lùi nửa bước, giẫm vỡ một phiến đá phiến lỏng, đứng vững trên dốc.
+Khoa giải thích cho Snik bằng câu cụt (thịt sống có giun, thịt chín thì khoẻ); giao kèo: Snik đứng chỗ cao canh đường, có nguy thì kêu, đổi lấy thịt. Gần sáng lấp lửa; ba bẫy được hai chuột (200 g), cất túi da. Dưới cửa 蝙蝠洞, Zag (to nhất ổ, da sói, gậy có mấu) cùng bốn con chặn lối đá vụn, ngửi ra mùi thịt nướng, đòi hết; Khoa lùi nửa bước trên phiến đá lỏng.
 
 ### Đoạn 6 — rạng sáng → đêm Ngày 5
-Khoa đá phiến đá lỏng vào chân Zag, Snik luồn qua giật đuôi tấm da sói, Zag văng gậy, lăn bảy tám mét xuống dốc; Nub đạp theo một hòn đá. Khoa giẫm lưng Zag, kề mảnh đá lửa vào gốc tai — không giết: ném cho Zag một con chuột, hẹn chạng vạng ra suối ăn thịt nướng. Ba con theo Zag chạy về hang; Mok (béo, bụng như quả bầu, chậm) ở lại: "肉……肉！……我也……去！" Chạng vạng hai bẫy được hai chuột; với con Khoa giữ là 300 g. Năm con — Khoa, Nub, Snik, Zag, Mok — quanh lửa trong hố đất; năm là con số lớn nhất goblin đếm được. Zag nuốt miếng thịt nướng đầu tiên mà chảy nước mắt. Khoa: "干活……看路……搬石头……给肉。" "跑……抢……死。" Lấp lửa, về hang qua hai con già canh ngủ gật. Ngang đống than, Yeg đang cầm khúc xương dính máu đút cho Mẹ Ổ; lão ngừng tay, quay mặt mù về phía Khoa, khịt mũi hai cái.
+Khoa hạ Zag bằng phiến đá lỏng trên dốc (Snik giật đuôi da, Nub đạp đá), không giết, cho Zag một con chuột và hẹn ăn thịt nướng. Ba con theo Zag chạy; Mok (béo, chậm) ở lại. Chạng vạng năm con — Khoa, Nub, Snik, Zag, Mok — ăn 300 g chuột nướng; Khoa: làm việc thì có thịt, bỏ chạy, cướp thì chết. Đêm về hang, Yeg ngửi ra mùi khói trên người Khoa.
+
+### Đoạn 7 — đêm Ngày 5
+Yeg gọi Khoa ngồi bên đống than, ngửi ra lửa lạ; Khoa nói dối nhặt từ cây sét đánh. Khoa xưng "Ko". Đống sỏi sau đống than: 112 con chết mùa đông năm ngoái; 55 ngày tới tuyết; mùa đông ~100 ngày; Khoa tính ~6 tấn thịt. Giao kèo: Yeg giữ kín lửa, Ko mang thứ nóng cho Mẹ Ổ, ban ngày ra vào tự do. Gorr tới.
+
+### Đoạn 8 — đêm Ngày 5 → sáng Ngày 9
+Yeg trát bùn lên Khoa, giấu anh sau thân Mẹ Ổ; Gorr về đói, ăn khúc xương để dành cho Mẹ Ổ, đá tung than, rồi lấy con non thứ ba (125, hố còn 10). Ngày 9 con non cao ~0,5 m. Khoa đắp đăng chắn cá (鱼梁) ở thượng nguồn 冷溪, lờ đan cành liễu; Nub chép cả tật của Khoa. Cá to đầu tiên vào lờ thì Snik báo động: nhiều con lớn đang tới.
+
+### Đoạn 9 — sáng Ngày 9 → đêm Ngày 11
+Gorr dẫn đội săn mười con về tay không, bắt gặp đăng; định chém lờ thì Khoa lội ra rút lờ dâng lên: "给Gorr。" "石头……抓鱼。" "天天……抓鱼。" Gorr bóp đầu cá ăn sống, ném đuôi cho đội săn; giữ đăng: "每天……送！" "不送……吃了你。" — mũi dao rạch má Khoa một đường. Những ngày sau đăng ~3 kg cá/ngày: chiều nào Zag và Mok cũng khiêng ~2 kg về tảng đá giữa hang cho Gorr, Gorr thôi nhòm hố ổ. ~1 kg Khoa giữ: hong khói bằng lửa âm ỉ ở hố đất thượng nguồn; nhóm năm mỗi bữa một miếng cá chín, lớn trông thấy. Đêm nào Khoa cũng đưa Yeg một con cá nướng còn ấm ("吃……热的。"); Yeg nhai mớm cho Mẹ Ổ; Mẹ Ổ hết run, vết cước lên da non. Đêm Ngày 11 — tròn mười ngày từ khi ổ của Khoa nở — Yeg thò tay vào khe đá nắm cổ chân Khoa kéo ra: "Ko……快来。" "巢母……动了。"
+
+### Đoạn 10 — đêm Ngày 11 → chiều Ngày 13
+Trong ngách, Mẹ Ổ rặn gần hai tiếng; trứng bầu dục cỡ quả dưa, vỏ da mềm nửa trong. Yeg mò đỡ, áp môi thử ấm, vùi vào hố tro than lót rêu khô; Yeg không đếm quá năm, hỏi Khoa: "多少……？" — "三十四。" (ổ của Khoa 21). Yeg: "冻着……死在壳里。" Khoa tính: hai ngày nữa thêm 34 miệng; còn ~50 ngày tới tuyết. Chiều Ngày 13 trời lạnh hẳn, lá vàng rụng; cá nước lạnh xuống chỗ sâu, đăng chỉ được ~1 kg cá gầy. Khoa đổ hết vào túi, không giữ gam nào. Về hang: 34 trứng đã nở, con non mới kêu chí chóe trong hố; mười con non ổ trước (cao ~0,5 m) ngồi trên mép đá nhìn xuống chúng thèm thuồng. Gorr ngồi trên tảng đá giữa hang mài dao vào da đùi, đói từ trưa. Khoa đổ đống cá ra mặt đá — chưa bằng một phần ba hôm qua. Gorr rạch dao lên đá tóe lửa; tiếng một con non mới khóc vọng ra — Gorr ngẩng mắt độc về phía ngách sâu.
+
+### Đoạn 11 — chạng vạng → đêm Ngày 13
+Gorr hất đống cá, kéo dao đi về lối xuống hố ổ; vài con săn định theo kiếm phần thừa. Khoa bước ngang chắn giữa lối, dao Gorr kề đầu. Khoa nói câu cụt: "深坑……不能进。" "鱼梁……冻了。" "只有我……能把鱼引出来。" "砸死我……谁给你抓鱼？" "明天……有大鱼。" — rồi rút miếng cá hong khói cỡ bàn tay trong túi da đưa Gorr; Gorr nuốt chửng. Yeg gõ gậy vào vách: "Gorr……小崽子……是冷天的储备。" "现在吃了……冷天……吃什么？" "吃你自己的手？" Gorr vỗ mặt dao vào má trái Khoa: "Ko……" "明天……大鱼。" "没有大鱼……先吃你。", rồi về nhặt cá dưới đất ăn. Đêm trong khe đá, Nub tự tát má chép cú vỗ dao ("行了……别学了。"). Khoa đếm: cá khô còn ~2,5 kg; đăng còn 1 kg/ngày, đóng băng thì hết; 159 miệng; 47 ngày tới tuyết, đông 100 ngày; Gorr còn sống thì sẽ ăn hết tương lai của bộ lạc. Gorr phải chết.
 
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 6)
+## 3. Trạng thái hiện tại (hết đoạn 11)
 
-**Thời điểm:** đêm Ngày 5.
-**Có mặt:** hang chính của 蝙蝠洞, cạnh đống than của Yeg. Năm con non (Khoa đi đầu, Nub, Snik, Zag, Mok) vừa lén đi ngang đống than; Yeg ngồi xổm bên than, tay cầm khúc xương dính máu vừa định đút cho Mẹ Ổ, đã ngừng tay, quay mặt mù về phía Khoa, khịt mũi hai cái. Gorr đang ở hang chính.
+**Thời điểm:** đêm Ngày 13.
+**Có mặt:** khe đá trên vách hang chính. Khoa ngồi tựa lưng vào vách, người còn run; má trái rát vì bị Gorr vỗ dao. Nub nép trong góc khe. Gorr đã về tảng đá giữa hang. Yeg ở góc than cạnh ngách Mẹ Ổ.
 
 **Nhân vật chính biết**
-- Khoa tự nhóm lửa bằng cung khoan ở hố đất bên 冷溪; lửa đã lấp. Nub, Snik, Zag, Mok đã thấy và ăn thịt nướng.
-- Trên người Khoa còn mùi khói gỗ thông và mỡ nướng; Yeg ngửi giỏi nhất hang.
-- Gorr ăn con non khi đội săn về tay trắng.
-- Yeg giữ đống than không tắt, chăm Mẹ Ổ.
+- Đã hứa với Gorr: mai có cá to; không có thì Gorr ăn Ko. Đã nói dối rằng chỉ Ko dụ được cá ra khỏi khe đá.
+- Yeg vừa đứng về phía hố ổ trước mặt cả hang (con non là lương cho mùa lạnh).
+- Đăng chỉ còn ~1 kg/ngày, đóng băng thì hết.
+- Gorr phải chết — mới là ý định trong đầu Khoa, chưa nói với ai.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Bộ lạc | 126 |
-| Ổ của Khoa | 19 = 11 trong hố + nhóm năm + ba con từng theo Zag (đã chạy về hang) |
-| Thịt | hết (300 g đã chia cho năm con tối nay) |
-| Bẫy | 4 cái bên 冷溪, đặt lại |
-| Ngày tới tuyết | còn chừng 55 ngày (Khoa chưa biết con số này) |
+| Bộ lạc | 159 (~70 trưởng thành, 37 con choai/già, 10 + nhóm năm + 3 con non ổ Khoa, 34 con mới nở) |
+| Kho cá hong khói | ~2,5 kg, ở hố đất thượng nguồn 冷溪 |
+| Đăng cá | ~1 kg/ngày, còn giảm |
+| Gorr cần | ~2 kg cá to mỗi chiều |
+| Ngày tới tuyết | ~47; đông ~100 ngày |
 
 **Tuyến đang mở**
-- Yeg ngửi ra mùi khói trên người Khoa.
-- Lửa và thịt nướng phải giấu khỏi Gorr.
-- Gorr sẽ còn xuống hố khi đội săn hỏng.
+- Chiều Ngày 14 phải có cá to cho Gorr.
+- Mười con non ổ trước thèm lũ mới nở.
+- Gorr phải chết.
 
 ---
 
@@ -146,61 +187,55 @@ Khoa中途右脚打滑，身子一歪，本能地甩了甩尾椎骨那截没发�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 6 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
 
-Khoa、Nub、Snik、Zag、Mok。
-整整五个。
-哥布林能数的最大数字，就是五。
-超过五是无穷大，但“五”是一个确确实实的实体——它代表着一个真正能凑在一起做大事的集体。
-Khoa将烤得金黄流油的鼠肉撕开。
-三只田鼠，分成小块，每一只小绿皮都分到了厚厚的一块。
-Zag颤抖着双手接过那块冒着热气的熟肉。
-它学着Khoa的样子，试探性地咬了一大口。
-下一秒，这个体型最大、平日里最凶狠的幼崽，双眼猛地张大，喉咙里发出了一声极其古怪的哽咽声。
-滚烫的油脂在嘴里爆开，没有生肉的腥臭，没有泥沙的沙砾感，只有一种无法言喻的、香到头皮发麻的温热！
-它连嚼都没嚼几下，直接囫囵吞了下去，烫得食道发疼，眼中甚至冒出了眼泪。
-旁边的胖子Mok更是吃得满脸黑油，连树皮签子都抠进嘴里舔得干干净净。
-“听话……有肉。”
-Khoa一边嚼着肉，一边冷冷地看着Zag和Mok。
-他张开手掌，在Zag面前晃了晃。
-“干活……看路……搬石头……给肉。”
-“跑……抢……死。”
-Zag狠狠地点着头，那对粗壮的耳朵甩得飞快。
-这一刻，在这个粗鲁怪胎的脑子里，某种被动接受的秩序被建立了起来——只要听这个叫Ko的小东西的话，就有这种神仙一样的熟肉吃。
-300克熟肉被五个极度饥饿的胃袋瓜分得干干净净。
-夜幕彻底降临。
-冷风吹过树林，发出沙沙的响声。
-Khoa熟练地将火堆用泥土死死埋灭，不留一点火星。
-五只小绿皮在黑夜中排成一列，像一串幽灵一样，顺着碎石坡摸回了蝙蝠洞。
-洞口那两只负责看守的老哥布林依然靠在石笋旁打瞌睡，对这五个进出的幼崽毫无察觉。
-穿过窄小的外洞，空气重新变得潮湿、闷热，充斥着浓烈的蝙蝠粪臭味。
-要回到他们的巢坑，必须经过洞穴中央的那片空地。
-空地旁边的阴暗石壁下，那一堆永不熄灭的木炭堆正散发着微弱的红光。
-老巫祝Yeg正蹲在炭堆旁，手里拿着一根带血的骨头，笨拙地往最深处的肉块怪物——巢母嘴里塞着什么。
-就在这五只小绿皮蹑手蹑脚地从炭堆边缘溜过时。
-那个满脸脓包、双眼蒙着白膜的老家伙，动作突然停了下来。
-Yeg那只骨瘦如柴的耳朵猛地转动了一下。
-他缓缓转过那张可怕的、失明的瞎脸，死死对准了走在最前面的Khoa。
-干瘪的鼻翼急促地抽动着。
-“……吸……吸……”
-老巫祝向着Khoa的方向，用力地抽了两下鼻子。
+Nub像一团受惊的烂肉一样缩在角落里，看到Khoa进来，小家伙浑身哆嗦着扑上来，学着Khoa刚才在石台上被刀拍脸的动作，用自己的爪子在脸颊上神经质地狠拍了两下，喉咙里发出惊恐的抽泣。
+“行了……别学了。”
+Khoa没好气地拍开Nub的爪子，把自己整个后背砸在坚硬冰冷的石壁上，大口大口地喘息。
+直到此时，他才发现自己贴身的兽皮已经被冷汗浸透，整条左臂因为极度的应激反应而止不住地痉挛。
+差一点。
+就差那么半毫米，那把破铁刀就能把他的脑壳当场劈开。
+绝对力量的差距，不是靠几句现代逻辑就能完全抹平的。
+Khoa闭上眼睛，深深吸了一口岩缝里干燥的泥土气息，强迫自己像前世在工厂车间对账一样，把脑子里的所有筹码和负债一笔一笔地拉出来清算。
+筹码：
+冷溪上游那个隐蔽地凹里，木架上挂着的熏鱼干，在刚才消耗了一块之后，还剩下大约两点五公斤。
+这是五只小绿皮和贿赂Yeg的绝对救命粮，一克都不能再乱动。
+冷溪里的石梁鱼梁，因为水温暴跌，日产量已经从三公斤滑落到了一公斤，而且随着深冬临近，结冰期一到，产量还会进一步归零。
+负债：
+深坑里上一批剩下的十只幼崽，现在身高达到了半米，胃口大开；
+刚刚破壳的三十四只肉虫，两天之内就会满地乱爬，开始抢夺一切能吃的东西；
+加上外洞里那些体质衰退的成年体，整个蝙蝠洞的人口规模，被硬生生推到了一百五十九只！
+一百五十九张嘴。
+距离山林里的第一场大雪，按照老巫祝之前摆在石缝里的石头推算，满打满算，只剩下四十七天。
+四十七天后，等待这一百五十九只绿皮的，是长达整整一百天的严冬极夜。
+而Gorr，这个身高一米二、握着全族唯一一把金属兵器的寄生虫，不仅没有半点带领部族储备过冬物资的脑子，反而在加速吃空整个部族的未来。
+今天能用一块熏鱼干和虚无缥缈的承诺骗过他，明天呢？
+后天呢？
+石梁的鱼总有彻底绝收的那一天。
+到了那天，Gorr依然会提起他的破铁刀，砍碎石缝，把所有幼崽连同他Khoa一起扔进胃袋里。
+黑暗中，Khoa缓缓睁开了眼。
+那双深绿色的眼眸里，没有幼崽应有的混沌与野蛮，只有高炉工程师在面对报废废料时，那种彻骨的冰冷与决绝。
+要活过这个冬天。
+只靠抓几条烂鱼是不可能的。
+必须把整个山洞、所有的劳动力、所有的物资分配权，全部抓在自己手里。
+而在这一切发生之前。
+Gorr必须死。
 
-(Đoạn 7 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-<!-- Lượt 2, đoạn 007 — session mới S4 (tools/gemini_write.py tự ghép handoff/session-start.md). -->
+<!-- Lượt 2, đoạn 012. Session S4 (cùng chat với 007–011) — hoặc session mới nếu Tác giả thấy đã trượt. -->
 
-Viết đoạn thứ 7, khoảng 2000 chữ, bằng tiếng Trung.
+Viết đoạn thứ 12, khoảng 2000 chữ, bằng tiếng Trung.
 
-Nối thẳng từ lúc Yeg khịt mũi về phía Khoa. Yeg gọi Khoa lại ngồi bên đống than; bốn con kia về chỗ nấp. Yeg già, mù, đêm nào cũng ngồi một mình bên đống than và cái ổ đang lạnh dần của Mẹ Ổ; lão muốn biết mùi khói lạ này từ đâu ra, và lão lo cho Mẹ Ổ. Khoa muốn giữ kín chuyện lửa khỏi Gorr, và cần biết mùa đông ở hang này ra sao. Yeg hỏi tên, và gọi Khoa là Ko. Trong khe đá sau lưng Yeg có một đống sỏi, mỗi viên một con chết mùa đông năm ngoái; Khoa đếm. Hai bên đổi cho nhau thứ mỗi bên cần. Cả đoạn kể từ mắt Khoa; Yeg chỉ có lời nói và việc làm.
+Nối thẳng từ đêm đó trong khe đá. Sáng Ngày 14 Khoa dẫn nhóm năm ra 冷溪. Anh cần cá to cho buổi chiều, mà cá to giờ nằm dưới các vũng sâu sát chân bờ đá. Anh còn cần vũ khí cho một việc mà nhóm của anh chưa được biết: ở hố đất bên suối, anh vót một cây giáo gỗ, hơ đầu giáo trên lửa cho khô cứng, Nub làm theo, rồi cả nhóm làm theo Nub. Chiều đó nhóm khiêng cá về tảng đá giữa hang. Đêm xuống, Khoa đi tới đống than của Yeg.
 
 Số liệu:
-- Đống sỏi: 112 viên. Bộ lạc bây giờ 126.
-- Tuyết đầu mùa còn chừng 55 ngày; mùa đông kéo dài chừng 100 ngày.
-- Một con trưởng thành ăn chừng nửa ký thịt một ngày.
-- Mẹ Ổ đẻ một ổ chừng 10 ngày một lần; lạnh và đói thì ngừng đẻ. Ổ của Khoa nở cách đây năm ngày.
+- Vũng sâu sát bờ đá nước ngang ngực con non; mỗi con cá to nặng chừng nửa ký.
+- Gorr đòi 2 kg cá to mỗi chiều.
+- Nhóm năm cao chừng 0,6 m; cây giáo dài chừng 1 m.
 
-Dừng ở chỗ tiếng dao của Gorr cạ vào đá ở lối vào góc than. Mọi chi tiết còn lại do bạn quyết.
+Dừng ở chỗ Khoa ngồi xuống bên đống than, chưa kịp nói gì thì Yeg đã hỏi Ko muốn gì. Mọi chi tiết còn lại do bạn quyết.
