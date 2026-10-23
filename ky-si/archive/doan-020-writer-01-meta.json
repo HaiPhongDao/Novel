@@ -1,0 +1,24 @@
+{
+  "model": "Gemini 3.8 Flash",
+  "thinking": "High",
+  "googleSearchGrounding": false,
+  "sessionUrl": "https://aistudio.google.com/prompts/1yWzWxMpSZGaQwnEHS0CqdpbIQJnhRwe9",
+  "sessionSegment": 1,
+  "status": "agent_reviewed_SỬA NHẸ",
+  "authorApproved": false,
+  "proseCharacters": 3700,
+  "hanCharacters": 2619,
+  "fileSha256": "f3a79992103866c06cb0608ad90b3b94dc3472f781b3481ce9ec3d4ae8e8255a",
+  "promptCharacters": 2794,
+  "systemInstructionCharacters": 5217,
+  "retrieval": "Rendered DOM prose; saved verbatim; byte equality checked.",
+  "ledger": {
+    "before": 35.7,
+    "after": 34.65,
+    "receipts": [],
+    "expenses": [
+      0.05,
+      1
+    ]
+  }
+}

@@ -81,3 +81,7 @@ Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Gi
 ### Diễn biến làm việc 019
 
 Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlượtmộtphà, xe/gánhthông. Chuyểncuốichiềucùngngày3: cađườngvề đủ8, cònlỗigiaoca thiếuđiểm gỗkê. Rowan cầmsổcông/Milo chờtrả5, quỹ35,7. Câu 'thửngày3' củaDain làlỗilời: Milo hômnayNGÀYĐẦU, chưaqua ngày5.
+
+### Diễn biến làm việc 020
+
+Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Thanh toán1bạcgóiăn9người ngày1–5 (phầnđãcấp+4–5đặt), quỹ35,7→34,65.3bạcđườngcuối9chưa thu, lương/vậttưdựtoánchưachi. DainhỏiMilođỡca,Rowanđangnóikhôngthểthếgácthực;021nối.

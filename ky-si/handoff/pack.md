@@ -98,19 +98,27 @@ Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Gi
 
 Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlượtmộtphà, xe/gánhthông. Chuyểncuốichiềucùngngày3: cađườngvề đủ8, cònlỗigiaoca thiếuđiểm gỗkê. Rowan cầmsổcông/Milo chờtrả5, quỹ35,7. Câu 'thửngày3' củaDain làlỗilời: Milo hômnayNGÀYĐẦU, chưaqua ngày5.
 
+### Đoạn 020
+
+Tốingày3: đínhchínhMilo mớiNGÀYĐẦU, trả5đồngcông/phụăn. Thanh toán1bạcgóiăn9người ngày1–5 (phầnđãcấp+4–5đặt), quỹ35,7→34,65.3bạcđườngcuối9chưa thu, lương/vậttưdựtoánchưachi. DainhỏiMilođỡca,Rowanđangnóikhôngthểthếgácthực;021nối.
+
 ---
 
-## 3. Trạng thái sau 019
+## 3. Trạng thái sau 020
 
-Cuốichiều/tốiNGÀY3nhàtrực, Rowan vừa cầmsổDain/giấycôngnhàbếp. Sángđãgiảiquyết xethùng/lốigánh, chiềuBram/Joryđinghỉđúngca vàvềbến, đủ8gác. Dainbáo thiếuđiểmgỗkê trongbàngiao; chưa cóthu/chi. Quỹ35bạc70đồng, Milo5đồnghômnay chờtrả.
+Tốingày3 nhàtrực. Rowanvừabắtcâu: Milo khôngvũtrang/chưađượcđào tạonênkhôngthếchỗgácthực. Dainhỏi dùngphụviệcngàymaiđỡvấtvả,021nốicâuRowanrồichuyểnngày4trongđoạn.
 
-Milo BẮTĐẦUTHỬ SÁNGNGÀY3 ở015, hômnayNGÀYĐẦU, cònngày4và5. CâuDain019 '试用第三天' làlỗi đếm tronglời, khôngcóthêm2ngàytrôi;020 xácnhận cộtngày3bếnvới ngàyđầuMilo rồi trảđúng5. Chưa thuê dài hạn/đủ3ngày. Mộtphà, xe2chờđợiquaylại mới lên; chưa canonhóa số16thùng/ướcchồngtải. 020sẽ đối chiếuMilo vàgiấyăn, khôngtrừ18dựtoán.
+QuỹTHỰC34bạc65đồng=34,65 sautrảMilo5đồngngày3và1bạcgóiăn9người ngày1–5. CôngMilo ngày4/5chưa trả,3bạcđườngcuối9chưa thu. Góiănngày6trởđichưa mua; vật tư3vẫndựphòngtrong34,65,lươngtháng9cho8gácchưađếnhạn.
 
-Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
+Milo mớiNGÀYĐẦU thử,đãđốichiếucộtngày3vớingàyđầu trong020. NhãnToma/Jorycựu và9gáctrong020làlỗinhãncủangườikể, chỉDain/Bramcựu+sáumới=8,Rowanngoài8. Chưalịchthánghoặcmùachốt,giữthứtựngàyởbến. Jackkhôngtựthànhgiánđiệp.
 
-Phụlục đường RIÊNG ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30 từngày1,12đãnhận nằmtrong24, cònhiệu lực;84/90hoãn/chưa ký. Dựtoántháng18 chưa chi gộp. Đường tư chỉ giờđông banngày, chiều vềtrước tối, đêmtheocũ; không quyềnđất/thuế/bảo chứnghàng. Jack người chủgiữkhóa/ghi xe ngoài8; Mira quảnmộtphà ngangchuyênmôn,Alden quảnhợpđồng,Oswin thợtheoviệc.
+8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5NGÀYĐẦU ngày3, ngày4/5chưa trả, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
 
-Toma长矛收势13/100积累0,随车换位5/100积累0. Bảng chỉRowan thấy, đúngngười/kỹnăng/luyệnthực,1đổi1 khôngchữa mệt/đọc lòngngười/dòxa. Nghềthợ/ngựa chưa thử/chốt. Lờikể bãiđá ngập củaMilo/việcthángtrước củaAlden không tự là biếncố đãkiểm.
+Phụlục đườngRIÊNG ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30từngày1,12nhậntrong24;84/90hoãn chưa ký. Dựtoán18/tháng=lương9cho8gác+ăn6+vậttư3,chưa trừgộp. Sau020 đãtrả1bạcgóiăn9người ngày1–5, chưagói6–10;20đồnggóiănđường007đãtrảkhônglặp. 3bạcdựphòngvẫnlàtiềntrongquỹ chưa chi, lươngthángchưađếnhạn. Sốdưhiệnhành trongeventstate/progress.
+
+Đườngtưgiờđông banngày,trướctối về,đêmphạmvicũ; khôngđất/thuế/côngquyền/bảochứnghàng. Jackngườichủgiữkhóa/ghixe,Mira30tócngắn chuyênmônquảnMỘTphà ngangvai,Aldenquảnhợpđồng,Oswinthợtheoviệc, tấtcảngoài8gác. Người kho/bốcdỡtựquảnhàng/khóa/phàdotừngngườichuyênmôn.
+
+Toma长矛收势13/100积累0,随车换位5/100积累0. Jory随车换位4/100积累0 sau017 (luyện1,nền3→dùng1thành4), cònvấplờikhiồn/cầnBramnhắc. BảngchỉRowanthấy, đúngngười/kỹnăng/luyệnthực,1đổi1; khôngchữa mệt/đọc lòngngười/dòxa. Hỗtrợthợ/ngựachưa thử/chốt; Milo khônghồsơnghề tựđộng. Ngàysốlàthứtựởbến, chưachốtlịchtháng/mùa.
 
 ---
 
@@ -126,40 +134,39 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 19 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 20 (để nối mạch và giữ giọng)
 
-　　他朝Jack和Mira躬了躬身，又向维持秩序的守卫抱了抱拳，这才跳上车辕，扬起皮鞭打了个响亮的空哨：
-　　“驾！”
-　　大车隆隆转动，稳稳顺着坡道朝下面的趸船行去。
-　　后方便道上的空筐很快被杂工搬开了一道口子，候在道边的脚夫们也纷纷挑起扁担，顺着侧边小径鱼贯而入，不再往车道里挤。
-　　门前的狭窄道口重新恢复了通畅。
-　　……
-　　江面上的白雾随着午后日头的升高散了个干净，到了傍晚，天边泛起一层带铜红色的晚霞。
-　　晚秋的河风渐渐带上了寒意。
-　　白日里出巡私路的下午班守卫在日落前赶回了渡口。
-　　Bram和Jory在中午吃过饭又睡足了一个时辰，下午轮换到外线巡查时步子沉稳了许多。
-　　两人提着长矛迈进辕门时，身上虽然沾了些泥点，但精神头比早起训练时长进不少。
-　　随着巡路二人归队，渡口防区内的八名守卫全部到齐。
-　　天色渐暗，辕门前的木栅栏开始合拢，沉重的落锁声在江风中回荡。
-　　营房旁的值班木屋内，油灯刚刚被点亮，散发出一股淡淡的动物油脂味。
-　　Dain推门走了进来。
-　　这位老兵将腰带上的短剑解下放在架子上，走到桌前拉开木椅坐下。
-　　Rowan正坐在桌案后，手边摊着值勤排班的硬木板。
-　　“巡路的回来了，门也锁妥了。”
-　　Dain拿起桌上的陶壶倒了半碗凉水，一口灌下，抹了抹胡茬上的水渍：
-　　“今天外头私道没什么生人闹事，几家老客的货车走得还算顺当。
-　　不过下午交接时出了点小岔子。
-　　换岗的两个新兵光顾着回营房喝水，没把道口防滚的备用木楔当面点清，落了一个在沟边的蒿草堆里，还是Bram眼尖给捡回来的。
-　　明天早操，我得把交接清点器具的规矩再给他们拧一遍。”
-　　Rowan点了点头：“该拧就拧。道口用的东西一件都不能少，今天丢个木楔，明天可能就落了拦道绳。”
-　　实打实做事，有一处不到位就改一处，没必要虚言夸奖。
-　　Dain从怀里掏出一张折叠整齐的糙纸，放在了桌案正中：
-　　“这是今天营地里的杂支底子，还有换岗签条。”
-　　他指了指门外空地，低声补充道：
-　　“Milo那半大伙子，今天试用第三天，干得挺勤快。
-　　院里的马粪铲得干干净净，辕门边的碎石也铺平了，伙房的水缸挑满了三大缸，没偷懒。
-　　按先前的说法，试用这三天每天工钱三枚铜板，加上两枚伙食贴，一共是五文。
-　　后头伙房的掌勺婆子把签了工时的木签子送过来了，问晚饭前能不能结。”
-　　Rowan目光下移，伸手拿起了Dain放在桌上的记工糙纸与那根细木签。
+　　Rowan没犹豫，从木匣底部摸出一枚打磨得光润平整的银币，放在了账单正上方。
+　　“九人份五日例粮，初一至初五，验收结清。”
+　　Rowan在单据末尾签上自己的名字，又盖上了代表防卫队私章的小木戳。
+　　婆子一把抓过银币，在粗布围裙上用力蹭了蹭，又放在嘴边咬了一下，顿时满脸堆笑：
+　　“得嘞！大人爽快！后厨那边炖了热滚滚的咸豆汤，待会儿换岗下来的兄弟们管够喝！”
+　　婆子收了单子，脚步轻快地退了出去。
+　　值房里重新安静下来，只有油灯芯子偶尔爆裂出的噼啪声。
+　　Rowan拿起炭笔，在账目底册上再次落下一记：
+　　实付初一至初五例粮批银，一枚银币。
+　　公账箱底的现银再次变动。
+　　扣掉这一枚银币，防卫队手头能调用的活钱，变成了34枚银币、65枚铜板。
+　　九名守卫到月底才结算月薪，眼下还不到发饷的日子；
+　　巡道试跑的那3枚银币补贴，必须等初九那天满打满算跑足七天才能找主家结算，算不得手里的落袋钱；
+　　至于备用物资那一块，虽然压着3枚银币的预算额度，但不到器械折损或添置急件的时候，绝不能当成活钱乱动。
+　　实打实的家底，就眼前这些。
+　　Dain把敞开的窗板拉上一半，挡住了晚春顺着河面刮过来的湿冷夜风。
+　　“这一枚银币花得值当。”
+　　老兵转过身来，在长凳上坐下，声音压得不高：
+　　“那帮新卒子以前在庄子上啃草根麦皮，如今顿顿有干面包泡豆汤，嘴里嚼着咸味，巡道的时候腿肚子都不打飘了。
+　　今天两趟道口跑下来，没一个喊苦落队的。”
+　　“肚子吃不饱，手里的矛就握不稳。”
+　　Rowan收好账册，把木匣重新落了铜锁：
+　　“口粮不能省，但也容不得浪费。
+　　后厨领来的干粮必须锁在防潮架上，这几天沿河雾气重，要是发了霉，吃坏了肚子，巡道班次立刻就得塌。”
+　　“这您放心，我和Bram盯着呢。”
+　　Dain咧嘴笑笑，随即神色微微收拢，粗大的指节在膝盖上轻轻敲打：
+　　“不过队长，说明天的活计。
+　　明天是初四，Milo这半大伙子要是照着吩咐，上午把辕门那几块烂槽木修补好、杂活理顺了，后晌咱们巡道换岗的时候，这人你打算怎么用？
+　　八个弟兄轮着跑两趟道口，腿脚磨得生疼。
+　　要是能把这无甲杂役派上去顶个闲差，队里的正经守卫兴许能多喘两口气，轮换着歇上一阵。”
+　　Rowan将合拢的账册推到桌案一角，目光落在墙上挂着的道口巡查路线上：
+　　“他手里没兵器，也没受过阵列操练，巡道站桩的实缺绝不能让他顶……”
 
-(Đoạn 20 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 21 sẽ bắt đầu ngay sau chỗ này.)
