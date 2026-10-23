@@ -77,3 +77,7 @@ Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhá
 ### Diễn biến làm việc 018
 
 Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Giữkhoảng, ngườixe chènthùng, đỗxe/gánh tạm; Jackghi giờđến/lýdo, khôngxóaphạt. Bram/Jory vềnghỉ, haigácđươngca giữlối. Mira tới cầmphiếuGreyford, chờngườikho. Quỹ35,7. Giữ018lượt02/SIv0.2.1;01lẫnmẫu/việcMilo bịloại.
+
+### Diễn biến làm việc 019
+
+Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlượtmộtphà, xe/gánhthông. Chuyểncuốichiềucùngngày3: cađườngvề đủ8, cònlỗigiaoca thiếuđiểm gỗkê. Rowan cầmsổcông/Milo chờtrả5, quỹ35,7. Câu 'thửngày3' củaDain làlỗilời: Milo hômnayNGÀYĐẦU, chưaqua ngày5.

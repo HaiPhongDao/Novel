@@ -35,3 +35,18 @@ Theo yêu cầu viết liên tục đến khi chạm quota, Agent triển khai t
 | 020 | Cuối ngày3 đối chiếu ca nghỉ và việc thử người; khoản chi thật mới vào sổ | Điều chỉnh buổi tuần sau theo phản hồi |
 
 Đề nghị công thử đường ở013:7ngày (ngày3–9),3bạc trả sau hoàn thành, hợp đồng24/30 cũ vẫn riêng. Chỉ khi viết ra và hai bên chấp thuận mới thành nghĩa vụ. Người xin việc chưa tên/giá/lương: lập brief trước khi dùng, không cộng vào8gác hoặc cho bảng nghề thợ tự động.
+
+### Nối thử việc đến hết kỳ — kế hoạch thường lệ, chưa là sự kiện
+
+Sau020 giữ nhịp qua những ngày có việc mới; phần lặp theo ca tóm tắt có số/ngày rõ, không kéo bảy ngày thành vô hạn cảnh xe mắc cổng. Trước mỗi giao dịch điền tiền đầu/thu/chi và điều kiện trả. Chưa nâng quyền đất/đường công hoặc đổi luật bảng.
+
+| Đoạn | Dự kiến triển khai | Điểm nối |
+|---|---|---|
+| 021 | Trả lời vấn đề ngày đầu, sang ngày4; điều chỉnh ca và chia phầnviệc thật | Milo hỏi mình có được chỉ bài cơ bản để khỏi cản người gác |
+| 022 | Tập nhiệm vụ phụ đúng giới hạn, kiểmkê vật tư cần sửa, thay đồ phải trả nguồn rõ | Một món đồ chưa đủ tốt để chốt nhận việc dài |
+| 023 | Qua ngày5 kết thử phụviệc, nhìn kết quả/giới hạn trước nói ở lại | Điều kiện tiếp tục việc có trả công, không tự thành lính |
+| 024 | Chuyển qua phần lặp đã kiểm tới ngày9, thấy một kết quả lộ bằng việc thật | Alden chuẩn bị đối chiếu kỳ tuần đường |
+| 025 | Kiểm giờ/việc/sự cố, hoàn tất và nhận đúng3bạc nếu đủkỳ | Có căn cứ nói phạm vi tiếp, chưa lãnhđịa |
+| 026 | Xét đủ người/chi/giờnghỉ trước đề nghị dài hơn; người cũ có tiếng nói | Đang thương lượng nhiệm vụ trong ranh tư |
+
+Chi tiết, số tiền và phạm vi ở từng brief mới quyết trướckhi viết; bảng này không tự cấp tiền/nhânlực hay thayduyệt củaTácgiả. Tiếp tục theo yêu cầu tới giới hạnquota, không tự coi026là chỗdừng bắtbuộc.

@@ -94,13 +94,17 @@ Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhá
 
 Ngày3sáng: haixethùng/nhómgánh chồnglối vìkho chắnđườngphụ. Giữkhoảng, ngườixe chènthùng, đỗxe/gánh tạm; Jackghi giờđến/lýdo, khôngxóaphạt. Bram/Jory vềnghỉ, haigácđươngca giữlối. Mira tới cầmphiếuGreyford, chờngườikho. Quỹ35,7. Giữ018lượt02/SIv0.2.1;01lẫnmẫu/việcMilo bịloại.
 
+### Đoạn 019
+
+Sángngày3: ngườikho nhậnlốiphụbịchặn vàchodọn, Miraquyếtlượtmộtphà, xe/gánhthông. Chuyểncuốichiềucùngngày3: cađườngvề đủ8, cònlỗigiaoca thiếuđiểm gỗkê. Rowan cầmsổcông/Milo chờtrả5, quỹ35,7. Câu 'thửngày3' củaDain làlỗilời: Milo hômnayNGÀYĐẦU, chưaqua ngày5.
+
 ---
 
-## 3. Trạng thái sau 018
+## 3. Trạng thái sau 019
 
-Sángngày3 cổng/sânStonewake. Hai xe thùnggỗ từGreyford, nhómgánh bịlốiphụkho chắn bằngsọt/kiện, chồngtuyến. Nhómđãđặtgánhra mép, xeđầu đỗgầncổng, xesau chờngoài; ngườixe tựchènthùng. Jack ghigiờtới/lýdochậm trênphiếu, khôngbảolãnhxeđượcmiễnphạt. Ngườikho đãđượcnhờra. Mira tócNGẮN vừatới vàcầmphiếugiao đểxem,019 nốiđọcgiấy. Chữđuôingựatrong018 làlỗitả,khôngđổiMira.
+Cuốichiều/tốiNGÀY3nhàtrực, Rowan vừa cầmsổDain/giấycôngnhàbếp. Sángđãgiảiquyết xethùng/lốigánh, chiềuBram/Joryđinghỉđúngca vàvềbến, đủ8gác. Dainbáo thiếuđiểmgỗkê trongbàngiao; chưa cóthu/chi. Quỹ35bạc70đồng, Milo5đồnghômnay chờtrả.
 
-Bram/Jory đãđượcvềăn/nghỉ trongbến, hai gácmớiđươngca ởlối;Rowan ngoài8giải quyết. Milo vẫnviệc sânDain như015, khôngđược đi bốc dỡhàngchủbến. Quỹ35bạc70đồng=35,7,chưa trảMilo5đồng/thu3bạctuần.
+Milo BẮTĐẦUTHỬ SÁNGNGÀY3 ở015, hômnayNGÀYĐẦU, cònngày4và5. CâuDain019 '试用第三天' làlỗi đếm tronglời, khôngcóthêm2ngàytrôi;020 xácnhận cộtngày3bếnvới ngàyđầuMilo rồi trảđúng5. Chưa thuê dài hạn/đủ3ngày. Mộtphà, xe2chờđợiquaylại mới lên; chưa canonhóa số16thùng/ướcchồngtải. 020sẽ đối chiếuMilo vàgiấyăn, khôngtrừ18dựtoán.
 
 Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
 
@@ -122,35 +126,40 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 18 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 19 (để nối mạch và giữ giọng)
 
-　　“这车夫是辰时四刻到的辕门前，这一点你我看得清楚，两个守卫也能作证。”
-　　Rowan神色如常，有条不紊地说道：
-　　“他按时到了渡口，堵在门外是因为仓房便道被杂物占了，挑担的人冲乱了引道。
-　　车行的规矩是防车夫偷懒磨蹭，不是防我们渡口自家的道口堵塞。
-　　你在单子上记明他抵达辕门的时间和缘由，他拿回去交差，车行认不认是他们的事，但至少渡口没有平白扣他时间的由头。
-　　我们免不了车行的误工钱，可也不能把仓房堵路的错，全扣在一个赶车人的脚钱上。”
-　　车把式听到这番话，眼睛一下子亮了，连连向Rowan躬身：
-　　“这位长官明理！这位长官明理！只要有渡口的验时戳，回了车行账房就扣不得我这三枚铜板！”
-　　Jack抓了抓头皮，看着Rowan坚定的眼神，心想反正这也不用自己掏钱，还能卖这位新来的骑士一个面子，便哼了一声：
-　　“拿来吧！算你运气好，碰上Rowan队长说话！”
-　　他接过单子，在旁边的木桩上摊开，沾了墨水飞快地写下时刻，按上了木戳。
-　　Rowan看着Jack落笔，接着说道：
-　　“Jack，光记个时刻解不了根本。
-　　打发个腿脚快的零工去后面仓房，把管库的或者码头排班的管事请一个过来。
-　　便道被空筐堵住，仓房和车行的活计撞在一起，门前能让一次，等会儿要是再来三辆运货的大车，两头全得卡死。
-　　这事情得当面把道路的权责划清楚，该搬走的空筐，半个刻钟内必须挪开。”
-　　Jack把凭条还给车夫，听到这话也是叹了口气：
-　　“您说的在理，那帮管库的就知道图自己省事，空筐往便道上一堆，害得我们道口擦屁股。我这就让人去叫！”
-　　正说着，门内连接趸船的下坡木栈道上，忽然传来了急促清脆的皮靴声。
-　　那脚步踩在铺着防滑麻绳的木板上，节奏极快。
-　　只见Mira快步从斜坡下走了上来。
-　　她今天依然扎着干练的马尾，身上的皮甲短坎肩沾着点点江水潮气，两只袖口高高挽起，露出结实白皙的小臂。
-　　她刚走到道口平地，就擦了一把额角被江风吹乱的碎发，眉心微蹙，目光扫过停在门边的运桶大车，清亮的声音直接落了过来：
-　　“怎么回事？下头驳船的空泊位都腾出来两刻钟了，水手连缆绳都备好了，大车怎么全卡在门前不下去？”
-　　她目光一转，落在车夫手里的羊皮纸上：
-　　“拿的是哪一家的交接单？”
-　　车把式赶紧把手里刚刚按了戳的单子往前一递：
-　　“管事小姐，是Greyford车行送来的硬木酒桶凭条！”
+　　他朝Jack和Mira躬了躬身，又向维持秩序的守卫抱了抱拳，这才跳上车辕，扬起皮鞭打了个响亮的空哨：
+　　“驾！”
+　　大车隆隆转动，稳稳顺着坡道朝下面的趸船行去。
+　　后方便道上的空筐很快被杂工搬开了一道口子，候在道边的脚夫们也纷纷挑起扁担，顺着侧边小径鱼贯而入，不再往车道里挤。
+　　门前的狭窄道口重新恢复了通畅。
+　　……
+　　江面上的白雾随着午后日头的升高散了个干净，到了傍晚，天边泛起一层带铜红色的晚霞。
+　　晚秋的河风渐渐带上了寒意。
+　　白日里出巡私路的下午班守卫在日落前赶回了渡口。
+　　Bram和Jory在中午吃过饭又睡足了一个时辰，下午轮换到外线巡查时步子沉稳了许多。
+　　两人提着长矛迈进辕门时，身上虽然沾了些泥点，但精神头比早起训练时长进不少。
+　　随着巡路二人归队，渡口防区内的八名守卫全部到齐。
+　　天色渐暗，辕门前的木栅栏开始合拢，沉重的落锁声在江风中回荡。
+　　营房旁的值班木屋内，油灯刚刚被点亮，散发出一股淡淡的动物油脂味。
+　　Dain推门走了进来。
+　　这位老兵将腰带上的短剑解下放在架子上，走到桌前拉开木椅坐下。
+　　Rowan正坐在桌案后，手边摊着值勤排班的硬木板。
+　　“巡路的回来了，门也锁妥了。”
+　　Dain拿起桌上的陶壶倒了半碗凉水，一口灌下，抹了抹胡茬上的水渍：
+　　“今天外头私道没什么生人闹事，几家老客的货车走得还算顺当。
+　　不过下午交接时出了点小岔子。
+　　换岗的两个新兵光顾着回营房喝水，没把道口防滚的备用木楔当面点清，落了一个在沟边的蒿草堆里，还是Bram眼尖给捡回来的。
+　　明天早操，我得把交接清点器具的规矩再给他们拧一遍。”
+　　Rowan点了点头：“该拧就拧。道口用的东西一件都不能少，今天丢个木楔，明天可能就落了拦道绳。”
+　　实打实做事，有一处不到位就改一处，没必要虚言夸奖。
+　　Dain从怀里掏出一张折叠整齐的糙纸，放在了桌案正中：
+　　“这是今天营地里的杂支底子，还有换岗签条。”
+　　他指了指门外空地，低声补充道：
+　　“Milo那半大伙子，今天试用第三天，干得挺勤快。
+　　院里的马粪铲得干干净净，辕门边的碎石也铺平了，伙房的水缸挑满了三大缸，没偷懒。
+　　按先前的说法，试用这三天每天工钱三枚铜板，加上两枚伙食贴，一共是五文。
+　　后头伙房的掌勺婆子把签了工时的木签子送过来了，问晚饭前能不能结。”
+　　Rowan目光下移，伸手拿起了Dain放在桌上的记工糙纸与那根细木签。
 
-(Đoạn 19 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 20 sẽ bắt đầu ngay sau chỗ này.)

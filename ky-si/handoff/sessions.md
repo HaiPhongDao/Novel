@@ -31,3 +31,4 @@ Bốn session thử 001 ngày 23/10/2026. Tác giả chọn v02-02 để viết 
 | [016 lượt01 loại](https://aistudio.google.com/prompts/1SXroF5vYnEP_M-K3q60WsqQhm3WITMBU) | 016 | bản sai tiền/quyền | archive, không canon |
 | [018 lượt01 loại](https://aistudio.google.com/prompts/138mn8tvIqz3iWnaJfgznxMIUPjCFXo4y) | 018 | lẫn tên SI/phần việcMilo | archive, dùng SIv0.2.1 từlượt02 |
 | [018 lượt 02](https://aistudio.google.com/prompts/1Uw5IIPb6jsM8CSuaqrNA7O9A9sOFJV27) | 018 | 2614 ký tự | SỬA NHẸ; đoạn 1/2 của session |
+| [019 lượt 01](https://aistudio.google.com/prompts/1Uw5IIPb6jsM8CSuaqrNA7O9A9sOFJV27) | 019 | 2147 ký tự | SỬA NHẸ; đoạn 2/2 của session |
