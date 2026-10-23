@@ -41,3 +41,8 @@ python tools/gemini_write.py lam-game 2 --push
 - Ở gói miễn phí, Google có thể dùng nội dung gửi qua API để cải thiện sản phẩm.
 - Lịch sử chat nằm ở `<truyện>/handoff/gemini-session.json`, không commit (`.gitignore`). Đổi máy thì đoạn kế tiếp tự mở session mới bằng gói bàn giao.
 - SI lấy theo dòng "SI đang dùng: `gemini/...`" trong README của truyện. Đổi SI giữa chừng → script tự mở session mới.
+
+## Chạy trên Claude Code cloud (chỉ dùng điện thoại)
+
+Agent chạy script trong session cloud; key cất ở **Network secret** của môi trường, không vào máy, không vào chat:
+claude.ai/code → môi trường (vd. Novel) → Add secret → Secret type: header tuỳ chỉnh (không phải Bearer) · Allowed websites `generativelanguage.googleapis.com` · Path prefixes trống · Custom header `x-goog-api-key`, Prefix trống, giá trị = key. Lưu rồi mở **session mới**. Script không cần `GEMINI_API_KEY` — proxy tự gắn header.

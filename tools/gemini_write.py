@@ -4,7 +4,10 @@
 Dùng:  python tools/gemini_write.py <thu-muc-truyen> <so-doan> [--moi] [--push]
        python tools/gemini_write.py --models          (liệt kê mã model key của bạn dùng được)
 
-Cần:   biến môi trường GEMINI_API_KEY (tạo ở AI Studio → Get API key).
+Cần:   key Gemini (AI Studio → Get API key), theo một trong hai cách:
+       - biến môi trường GEMINI_API_KEY (máy riêng);
+       - Network secret của môi trường Claude Code cloud: header x-goog-api-key cho generativelanguage.googleapis.com
+         (proxy tự gắn key, script không thấy key — để trống GEMINI_API_KEY).
        Mã model: --model, hoặc biến GEMINI_MODEL, mặc định MODEL_MAC_DINH bên dưới.
 
 Session (giống chat AI Studio, tối đa 2 đoạn — chung/quy-trinh-ban-giao.md):
@@ -41,7 +44,7 @@ def goi_api(method, path, key, body=None, timeout=900):
     req = urllib.request.Request(
         f"{API}/{path}", method=method,
         data=json.dumps(body).encode("utf-8") if body is not None else None,
-        headers={"Content-Type": "application/json", "x-goog-api-key": key})
+        headers={"Content-Type": "application/json", **({"x-goog-api-key": key} if key else {})})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return json.loads(r.read().decode("utf-8"))
@@ -49,6 +52,9 @@ def goi_api(method, path, key, body=None, timeout=900):
         loi = e.read().decode("utf-8", "replace")
         if e.code == 429:
             raise SystemExit(f"429 — hết hạn mức của key (theo phút hoặc theo ngày). Đợi rồi chạy lại.\n{loi}")
+        if e.code in (401, 403) and not key:
+            raise SystemExit(f"{e.code} — không có key: chưa đặt GEMINI_API_KEY, và Network secret (header x-goog-api-key "
+                             f"cho generativelanguage.googleapis.com) chưa có hoặc chưa nạp — mở session mới sau khi lưu.\n{loi}")
         if e.code == 404:
             raise SystemExit(f"404 — sai mã model? Chạy --models để xem mã đúng.\n{loi}")
         raise SystemExit(f"Lỗi API {e.code}:\n{loi}")
@@ -89,8 +95,6 @@ def main():
     a = ap.parse_args()
 
     key = os.environ.get("GEMINI_API_KEY", "")
-    if not key and not a.thu:
-        raise SystemExit("Chưa có GEMINI_API_KEY. PowerShell: setx GEMINI_API_KEY \"<key>\" rồi mở cửa sổ mới.")
     if a.models:
         return liet_ke_model(key)
     if not (a.story and a.doan):
