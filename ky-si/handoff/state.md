@@ -1,8 +1,8 @@
-## 3. Trạng thái sau 016
+## 3. Trạng thái sau 017
 
-Sángngày3, đầuđợtđông đãqua. Xe cá củaCarl đã nhận lượt/phà sau khi xe rỗngra; không tiền hoặc phạt. Bram/Jory giao ca cho2gácmới rồi vào sân; sáu ởbến gồm họ, Dain/Toma/2mới, hai mới khác giữtuyến. Dain ởcổng quản bà giao, không đi tuầnthứba. Rowan vừa yêu cầuJory tái hiện câu/đứng/chĩa giáo lúcchặnxe,017 nối ngay.
+Sángngày3, cùngbuổi sau luyện. Rowan/Bram/Jory vừađến mépcổng TRONG bến đểquan sát hai gácđangtuần nhận hai xe thùnggỗ+ngườigánhđi sau; chưa ra thayca. Toma đẩyxe rỗng vềJack ởcổng theo lệnh, không tự đưa tới phà/rời vịtrí cảbuổi; Dain quản người ởbến. Milo vẫnxếpván khôngvũtrang.
 
-Quỹ35bạc70đồng=35,7, chưa trảMilo5đồngcuốingày3. Jory đãlỡ nói quyềncông khi căngthẳng, đó không quyền thật; cần sửa. Carl tênphụ của ngườiláixe, khôngnhânvậtđốiđịchđãchốt. Mộtphà, khôngcanonhóa大木筏/tải2nghìn斤 thành phươngtiện/địnhmức.
+Jory随车换位 đãluyện nền3/tíchlũy1, dùng1→4/100积累0, kiểm thấybướcchân khá hơn nhưng nói cònvấp/ngheBram nhắc khiồn. Toma khôngđổi. Quỹ35bạc70đồng=35,7, chưa trả5đồngMilo ngày3/thu3bạctuần.018 nối lượt xe thật, Rowan quan sáttrongquyền, hai línhvừa xongca đượcnghỉ/khôngbịdùnglại vôhạn.
 
 Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
 

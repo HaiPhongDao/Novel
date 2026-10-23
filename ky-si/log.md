@@ -69,3 +69,5 @@
 2026-10-23 | 015 | Giữ015: Milo23 thử phụviệc ngày3–5,5đồng/ngày gồm3công+2phụăn, trảcuối ngày; dựchi15, chưa trả. Đội8gác/quỹ35,7, ngoàiđội thêm1phụ. Jack gọi xe cá muốn vượt cổng. | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
 
 2026-10-23 | 016 | Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranhậnxe, khôngphạt/thu. Bram bảo vệvịtríJory, Rowan giải thíchlối thực. Hai mới thayBram/Jory sauđợtđông, Rowan hỏiJory táihiệncâu/vịtrí/giáo. Quỹ35,7, chưa trảMilo. Giữlượt02, loại01. | SỬA NHẸ | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |
+
+2026-10-23 | 017 | Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhách, nghỉvàthửhướngmới. Jory随车换位3/100积累1→4/100积累0, bước kháhơn nhưngcònvấplời/khiồn cầnnhắc. Rowan/Bram/Jory tới mépcổng trongbến xemhai xe thùnggỗ tới, chưa thayca. Tiền35,7 khôngđổi. | ĐẠT | Yêu cầu tiếp tục liên tục của Tác giả; Agent review, không gán duyệt riêng |

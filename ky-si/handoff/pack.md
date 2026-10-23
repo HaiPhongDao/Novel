@@ -85,13 +85,17 @@ Quỹ35,7,8gác khôngđổi; cộngMilo hiện10người gồmRowan, phụănMi
 
 Ngày3 sáng: xe cáCarl chờ lối cho xe rỗngra, Jackkiểm lượt/Miranhậnxe, khôngphạt/thu. Bram bảo vệvịtríJory, Rowan giải thíchlối thực. Hai mới thayBram/Jory sauđợtđông, Rowan hỏiJory táihiệncâu/vịtrí/giáo. Quỹ35,7, chưa trảMilo. Giữlượt02, loại01.
 
+### Đoạn 017
+
+Sángngày3: sửaJory mượnquyềncông, tập với xe rỗng/Bramđóngkhách, nghỉvàthửhướngmới. Jory随车换位3/100积累1→4/100积累0, bước kháhơn nhưngcònvấplời/khiồn cầnnhắc. Rowan/Bram/Jory tới mépcổng trongbến xemhai xe thùnggỗ tới, chưa thayca. Tiền35,7 khôngđổi.
+
 ---
 
-## 3. Trạng thái sau 016
+## 3. Trạng thái sau 017
 
-Sángngày3, đầuđợtđông đãqua. Xe cá củaCarl đã nhận lượt/phà sau khi xe rỗngra; không tiền hoặc phạt. Bram/Jory giao ca cho2gácmới rồi vào sân; sáu ởbến gồm họ, Dain/Toma/2mới, hai mới khác giữtuyến. Dain ởcổng quản bà giao, không đi tuầnthứba. Rowan vừa yêu cầuJory tái hiện câu/đứng/chĩa giáo lúcchặnxe,017 nối ngay.
+Sángngày3, cùngbuổi sau luyện. Rowan/Bram/Jory vừađến mépcổng TRONG bến đểquan sát hai gácđangtuần nhận hai xe thùnggỗ+ngườigánhđi sau; chưa ra thayca. Toma đẩyxe rỗng vềJack ởcổng theo lệnh, không tự đưa tới phà/rời vịtrí cảbuổi; Dain quản người ởbến. Milo vẫnxếpván khôngvũtrang.
 
-Quỹ35bạc70đồng=35,7, chưa trảMilo5đồngcuốingày3. Jory đãlỡ nói quyềncông khi căngthẳng, đó không quyền thật; cần sửa. Carl tênphụ của ngườiláixe, khôngnhânvậtđốiđịchđãchốt. Mộtphà, khôngcanonhóa大木筏/tải2nghìn斤 thành phươngtiện/địnhmức.
+Jory随车换位 đãluyện nền3/tíchlũy1, dùng1→4/100积累0, kiểm thấybướcchân khá hơn nhưng nói cònvấp/ngheBram nhắc khiồn. Toma khôngđổi. Quỹ35bạc70đồng=35,7, chưa trả5đồngMilo ngày3/thu3bạctuần.018 nối lượt xe thật, Rowan quan sáttrongquyền, hai línhvừa xongca đượcnghỉ/khôngbịdùnglại vôhạn.
 
 Quân8gác=Dain/Bram hai cựu binh+Toma/Jory+bốn mới; Rowan ngoài8,9miệng ăn thường xuyên. Hai tuầnđường thì sáu ởbến, cần giờnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thửngày3–5, công3+phụăn2=5đồng/cuốimỗingày đãlàm; tổng3ngày15đồng dựchi, chưa dài hạn. Anh tựmuaăn bằng phụăn, không lấy ngân sách9người cũ.
 
@@ -113,29 +117,39 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 16 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 17 (để nối mạch và giữ giọng)
 
-　　“行了老Carl！轮到你了，顺着中间慢点溜，下头水手接着呢！”
-　　老Carl接过牌子，看了Rowan一眼，抬了抬手里的鞭子算是打了个招呼，再没多放一个屁，吆喝着骡子顺畅地拐进了下坡道。
-　　……
-　　晨雾被逐渐升起的日光撕开，渡口迎来了早间的第一波人流车马。
-　　挑担的鱼贩、推独轮车的脚夫、装运蔬菜的驴队陆陆续续涌上来。有了刚才的先例，过道口虽说嘈杂，但两边的界线分得极清。哪辆车进候道，哪辆车领牌下坡，在Jack的竹签和卫兵的指引下，有条不紊地顺着引道分流。
-　　约莫忙活了一个沙漏的时辰，下坡的第一批车马尽数登了渡船，大木筏慢悠悠地顺着缆绳滑向对岸，引道总算暂时空了下来。
-　　道口的早班巡视告一段落。
-　　按营里的轮换规矩，门外巡道的人手绝不能长期滞留。大营后方的Dain算准了时间，带着另两名换班的新兵走到门前交接。Dain面色严肃地把守着辕门，始终卡死“两人在外巡管、六人在内操备”的底线，绝不多放一人在外面闲逛。
-　　换下岗的Bram提着长矛，带着Jory穿过木栅门，回到了营区前庭的空地上。
-　　Jory脸上的潮红还没完全褪去，鼻尖上渗着细密的汗珠，腰板虽然挺着，但脚步显得有些发僵。
-　　在西墙根下，被雇来做杂工的Milo正埋头搬运着长木料。
-　　这年轻人按照Dain先前的训示，拿细草绳系着短料，底下整整齐齐地垫着木隔条，手脚放得极轻，连半点声响都不敢多砸出来，更不敢往这边的卫兵身上多瞄一眼。
-　　Rowan站在辕门内侧的空地上，目光落在了迎面走来的两人身上。
-　　Bram神色如常，走上前来向Rowan行了个简短的抚胸礼，退到了半步之外。
-　　Jory则下意识地避开了Rowan的视线，垂着头，双手握着矛杆，指节因用力而微微泛青，站在那儿像是一根僵硬的木桩。
-　　晨风吹拂着营房顶上的干草，四周一时间只剩下远处河滩传来的水浪拍击声。
-　　Rowan看着这名年轻的卫兵，开口的声音平稳，没有任何斥责的意味，却带着一股直接剥开皮肉的审视：
-　　“刚才那辆骡车往你跟前撞的时候，你嘴里喊的第一句话是什么？”
-　　Jory身子猛地一震，嘴唇动了动，没能立刻发出声音。
-　　“不用看Bram，也不用看Dain。”
-　　Rowan盯着他的眼睛，语气不紧不慢：
-　　“把你刚才的原话，还有你当时两只脚是怎么站的、手里的矛是怎么端着的，原原本本给我复出来。”
+　　随着刚才几次扎实的纠错与对抗，界面上跳出了清晰的反馈：
+　　【卫兵：Jory】
+　　【随车换位：3/100】
+　　【训练积累：1】
+　　Rowan没有丝毫迟疑，心念微动，直接将这一份刚刚成型的积累点数填入了技能之中。
+　　界面的细微字迹随之变换：
+　　【随车换位：4/100】
+　　【训练积累：0】
+　　点数落下的一瞬，Jory的眼神并没突然变得精明狡黠，脸上也看不出什么顿悟的神采。他只是站在泥地上甩了甩有些发酸的胳膊，整个人看起来依旧是个刚摸透点门道的新兵。
+　　“换个方向，再走一遍。”Rowan说道。
+　　Toma调转车头，推着板车从另一侧压了上来。
+　　这一回，当板车逼近的瞬间，Jory的右脚下意识地往斜后方滑开，动作比前几次明显轻捷顺畅了些许，没再出现拖泥带水的停顿。他的身体稳稳落在了侧翼安全线以内，左手抬起引路。
+　　“坡下……坡下有空车上来！”
+　　但在开口说话时，Jory依然有些结巴，舌头在嘴里打了下绊子。
+　　Bram在一旁故意用脚跺了跺地面，大声嚷嚷了一声，Jory的眼神立刻又飘了一下，直到Bram在旁边低声咳了一声，他才猛地回过神，把后半句补齐：
+　　“车往石堆靠！”
+　　身体的避让反应确实扎实了一点，但在嘈杂和叫骂的环境下，这年轻卫兵依旧需要老兵在旁边提点，离独当一面还差得很远。
+　　“队长！”
+　　还没等Jory把气喘匀，辕门外突然传来一声急促的呼喊。
+　　负责在外头巡道的另一名新兵一路小跑进来，神色有些慌张：
+　　“道口外头又来大车了！这次拉的是两车木桶，后头还跟着挑筐的脚夫！Jack大叔在道口喊，说这辆推车得赶紧送去趸船，下头水手要起大件！”
+　　Rowan神色未变，转头对Toma吩咐：
+　　“把车推还给Jack。”
+　　“是！”Toma立刻推着板车朝辕门跑去。
+　　Rowan看了一眼满头大汗的Jory，又看了看站在一旁的Bram：
+　　“把矛带上，水壶放下。跟我去门边站着。”
+　　Jory连忙抓起矛杆，有些紧张地问道：“队长，我们去替他们接车吗？”
+　　“不替。”
+　　Rowan迈步朝木栅门走去，脚下的皮靴踩在泥石路面上沉稳有力：
+　　“外头有轮班的人守着。去门边看，看他们怎么接这批运桶车，看底下的窄坡是怎么走空的。”
+　　三人走到辕门的木桩边缘停住脚步。
+　　门外引道上，新的一批车马已经逼近了道口，赶车汉子的吆喝声和滚滚的车轮声再次在河风中响了起来。
 
-(Đoạn 17 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 18 sẽ bắt đầu ngay sau chỗ này.)
