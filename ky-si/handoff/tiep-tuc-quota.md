@@ -4,7 +4,7 @@ Tácgiả yêu cầu tiếp tục NGAY đến khi hếtquota, không đợi mỗ
 
 Mỗi đoạn: Writer→đọc đủ raw→review thực→lưu raw/prompt/SI/hash/state/summary→commit/push ky-si. Lỗi số/thẩmquyền trọngyếu làm phiên mới; một câu đếm nhầm cục bộ có thể giữ cùngreview/state, không sửa raw. Tối đa2đoạn/session. SI hiệnv0.2.1 5217ký tự, High/Groundingoff, chỉ ẩn tênmẫu sau01801nhiễu, không đổi chuẩnthoại.
 
-Hiện đãpush023,024đangWriterchưađọc/lưu. Phiên24–25, sau025 mởmới026. Xemprogress/state để lấy mốc mới hơn dòng này.
+Đã lưu025 (chuẩn bịpush),026briefđãcó/chưa chạy. Phiên24–25đãđủ2,026phảimởmới. Xemprogress/state làmnguồn mới nhất.
 
 Kếhoạch tiền/chuyểnngày (CHƯA làsựkiện, chỉlậpbrieftrước dùng):
 - 020cuốingày3: trảMilo5đồng ngàyĐẦU, trảgóiăn9người ngày1–5 giá1bạc, tiền35,7→34,65. Milo hômnaykhởiđầuthử, câuDain019nói thửngày3làlỗilời, khôngqua thêm2ngày.
@@ -16,3 +16,5 @@ Kếhoạch tiền/chuyểnngày (CHƯA làsựkiện, chỉlậpbrieftrước d
 - Sau đóthươnglượng phầnđườngriêngtới hếtngày30(trùnghạncũ), cóthể21ngày ngày10–30 giá9bạc/tạmứng3còn6, chưalàcanon. Khôngđất/quyềncông/twistlớn.
 
 Viết tiếpthườnglệ theooutline, khôngtựdừngở020/026vìlàmộtmốc. Đãràtuyến ở015, ràlại020/025, ưu tiênviệc thật/huấnluyện/đời sống thayvìliêntụcbàn hợpđồng. Kiểmquota địnhkỳqua get_usage_limits; gầncuốilưutrạngthái/UI đểcóthểtiếp, khôngtiêuquota chỉđểbáo cáo dài.
+
+Kếhoạch026đãđổithànhphươngán21ngày ngày10–30giá7bạc50,ứng2bạc50nằmtrongtổng,còn5cuốingày30;chưađượcký/thuở025. Bỏgiảđịnh9/ứng3trongphầnphác cũkhinghĩtớibrief026–027.

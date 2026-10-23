@@ -55,3 +55,7 @@ Tối4đápMilo rồi chuyểncuối5: kiểmToma thu14đượctrựctiếpnhìn
 ### Đoạn 024
 
 Tối5trả1bạcgóiăn9người6–10; qua6–8Milođãtrả5mỗiđêm/tổng15, quỹ34,47→33,32. Sáng9cagác2ra/6ở, Toma/Jorydùnglối/khẩulệnhđãluyệnkhôngtăngđiểm;Aldenhỏiaiđối chiếucuốiNGÀY. Chưa thu3bạctuần/trảMilo5ngày9.
+
+### Đoạn 025
+
+Cuốingày9nghiệmthuđủ7ngày3–9,AldenTHỰCTRẢ3bạc;trảMilo5ngày9,kếtquỹ33,32+3-0,05=36,27. Milođãnhậntổng35cho7ngàyphụviệcvàhếtkỳ,chưađượcnhậnthêm. Aldenhỏi phầnđườngriêng ngày10–30=21ngày,chưa ký/thu thêm.

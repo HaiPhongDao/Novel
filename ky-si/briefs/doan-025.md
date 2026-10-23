@@ -1,0 +1,13 @@
+Viết đoạn025 khoảng1800–2200 chữ Trung,chỉchínhvăn. NốiAldenhỏi cuốiNGÀY9ai cùngđối chiếubàn giao,Rowanđứngcổng sáng9.
+
+Sựthật: quỹ33bạc32đồng=3332đồng. PhụlụcRIÊNGđườngtư từsáng3đếnhết9đủ7ngày,công3bạc,trảsaucaCUỐINGÀY9,chưathu buổisáng. Aldenđại diệnchủkinhdoanhtưkýphụlục014,Jackngườichủgiữkhóa/ghixe/chỉxácnhậnbàngiao. Cũ24/30từngày1vẫnhiệu lực,12đãnhậntrong24,12cònđếncuốikỳ30chưa trả;84/90hoãnkhôngký. Đội8gác=Dain/Bram2cựu+Toma/Jory/bốnmới6mới,Rowanngoài8;2đườngthì6ởbếnvàđủnghỉ. Mộtphàchởxe/sànxe,Mira30tócngắnquyếtlượt/tải ngangchuyênmôn;khôngcần miêutảtàuhaychấtđáởcảnhnày. Độigiữtrậttự/lốitư,khônghảiquan/thuế/bảochứnghàng.
+
+Milo23phụviệc KHÔNGVŨTRANG ngoài8,thửngày3–5/gia hạn6–9,mỗingày3công+2phụăn=5đồngcuốingày. Ngày3–8đãtrảtổng30đồng,NGÀY9còn5chưa trả. Góiăn9người1–5và6–10đãtrả2bạctổng,Milo ngoài phầnăn. Toma thu14/换位5,Jory随车换位4,tíchlũy0;đoạnnày khôngdùngbảng.
+
+Rowan đápngắntrọný buổisáng:cuốingàymìnhvàDainđối chiếu,Jackphíachủghicổng/ca,Aldenthaychủthanhtoán,phầntàucủaMira nếucầnthìhỏiđúngviệc. Ca9vẫnphảilàmđủ,khôngcócảnhkýđãxonglúcchưaxong.
+
+ChuyểnMỘTLẦNcuốichiềungày9saucađườngđãvề,trướccửatrực. Người đangca mới cóthểđiđếm/chốt,ngườinghỉkhôngbịgọiđủ8đểlàmnhânchứng. Dainđemphiếugiaoca,Jackđối chiếugiờđến/lốingười/khođãxửlý,chỉnêumộtvídụcụthểtừnggâychồnglịch. Aldencóthểhỏichỗbếntắcngày3vàthiếugỗkê,Rowan/Dainnóicáchđãxửlý/phầntráchnhiệmkho,cáiđúngvàcáichưatrọn,chứkhôngphủnhậnmọivướngmắc. Đủca/nghĩavụđãlàm,AldentrảTHẬT3bạc,cókýnhận,khôngbiếnthànhhứatrả/cộng12cũ/thu30ngày. Quỹ3332+300=3632đồng=36bạc32.
+
+Milo cũngđãlàmđủngày9 trongPHẦNVIỆCSÂNĐỘI(khôngbốc dỡhàngkhách):trảđúng5đồng cuốiNGÀYTHỨBẢYđilàm,tổng3–9đãtrả35đồnggồmphụăn,khôngphải35trongtúichưatiêu. Quỹ3632-5=3627đồng=36bạc27đồng. Kỳgia hạnMilo6–9đãhết,chưa nhậnlính/giátháng haytựgiárengày10trởđi.
+
+Giữnhịpđờisống/đốiđáptựnhiên,khôngcảtrangđọcsổ. KếtgiữaAldenđãtrảtiềnrồihỏi nếugiữriêngphầnđườngtừngày10đếnngày30(trùnghạncũ,21ngày)thìRowancầnnhữnggì,RowanvừanhìnDain đểđáp.026nốithươnglượng,025CHƯAký/nhậnthêmkhoảnnàongoài3bạcvàchi5nhưtrên. Tựdocáchđốiđáp,2cảnhsáng–chiều,gầnRowan,khôngquangày10ởchỗcắt.

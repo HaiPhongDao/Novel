@@ -1,0 +1,9 @@
+Viết đoạn026 khoảng1800–2200 chữ Trung,chỉchínhvăn. NốiAlden vừa hỏi giữRIÊNGphầnđường ngày10–30 thìRowancầnnhữnggì, cuốichiềungày9 sauđãthanhtoán3bạcthửvàtrảMilo5ngày9. Quỹ36bạc27đồng,đoạn026 KHÔNGthu/chi.
+
+Rowanđộc lậpchỉhuy8gác do chủbếnkinhdoanhtưthuê,hai cựuDain/Bram+sáumớiToma/Jory/bốnmới;Rowanngoài8. Hai đườngtư/sáuởbến,cónghỉ,khôngđất/thuế/quyềncông/bảochứnghàng. MộtphàMira chuyênmôn ngangvai;Jackkhóa/ghixe,Aldenhợpđồng. Milo23phụviệc ngoài8khôngvũtrang,ngày3–9đãđilàm/đãtrả5mỗingày,tổng35đồnggồmphụăn,khôngnguyên35cònpocket. HạnMilođếnhết9,chưađổi thànhlính/dàihạn/giaothêmngày10. Góiăn9người1–10đãthanh toán2bạc,khôngMilo;ngoài ra khôngchi mới. Toma thu14/换位5,Jory随车换位4,tíchlũy0,khôngdùngbảng.
+
+Chuyệnxảyra:Rowan/Dain trảlờiAldenbằngkếtquảthậtvànhữngchỗcầnchủbếnphốihợp. Giữlốiphụ/phiếugiaoca/giờđông/khóasânđúngphầntừngngười,độikhôngômhàng/vôhạnđêm. Aldennghenhưngcũngđòikỳdàihơncógiáhợplývàbáocáogiờdồnxe,khôngthànhkẻnguphảigậtmọiđiều. Dain cótiếngnóivềnghỉ/canhđểquângiữđượcviệc,Rowan cóthểnhượngmộtyêucầuthựcdụngchẳnghạnđầumối báođổi giờchocagác.
+
+Phươngánlàmviệccuốiđoạn, CHƯAKÝ/chưatrả:phụlụcđườngtư ngày10–30=21ngày,tổng7BẠC50ĐỒNG=750đồng,giátrungvìlịchcốđịnh/nghĩavụhẹpđãkiểm,khôngnhận84/90cũ. Trong750,tạmứngkhiKÝ250đồng=2bạc50,còn500đồng=5bạcđủkỳngày30;250nằmtrong750khôngcộngthêm. Hợp đồngbếncũ24/30vẫngiữnguyên,12đãnhậntrong24,còn12đếnhạn30 làkhoảnRIÊNG; tổngcònchờngày30nếucảhaicôngđủsẽlà17bạc,chưa thuhômnay. Đừngđọcphéptínhthànhbàithuyếtgiảng,con sốchỉkhiđềnghị/hỏirõkỳtrả.
+
+Alden phải manggiấyhỏi chủ,lịchvẫnđểngỏ chođếngiấyđượcdấu,trướcđókhôngtựđếm2,5bạclàtiềnmới. Sauôngđi,cùngtốingày9:Rowan/Dainđứngcửanhàtrực,nhìnMilo thuđồngàylàmcuối.Anhđượcphépchọntiếpnếucần,chưa bịgiữlạibằnglờihứa. Milo hỏimai cócầnghékhông,nếuchưacógiấychủthìchờởđâu;Rowanbắtđầuđáp,dừnggiữacâuchờ027nốirồichuyểnsángngày10trongđoạn. Khôngtuyểnngườigácthứ9/quyềnđất haykýnhận tiềnở026. Tựdođốiđápđủý/đờisống,gầnRowan,2cảnhbànviệc–cửanhàtrực,cùngtối9.

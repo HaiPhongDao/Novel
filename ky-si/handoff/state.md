@@ -1,19 +1,15 @@
-## 3. Trạng thái sau 024
+## 3. Trạng thái sau 025
 
-SÁNGNGÀY9,cổngStonewake. Alden vừađếnvớibìasổphụlục,hỏiCUỐINGÀYhômnayaiđối chiếubàn giao đủ7ngày/chữký.025nốitrảlờirồimớichuyểnchiềungày9đãxongca đểnghiệmthu/thu3bạc. Chưa kýđãđủkỳbuổisáng.
+Tốingày9cửanhàtrực, Alden đãtrả3bạc/cuốikỳthử,Rowan đãtrảMilo5ngày9. Quỹ36bạc27đồng=36,27. Đủ7ngàyđườngđãkết,khôngcònphí3chờthu;Milođãlàm/nhậntổng35ngày3–9,hạnphụviệchết,chưanhậnngày10.
 
-Quỹ33bạc32đồng=33,32 sau1bạcgóiăn9người6–10vàMilo15cho6/7/8đãtrả5mỗiđêm. Milo ngày9còn5chưa trả,3bạcđườngchưa thu. Toma/Joryhaiđường,Dain/Bram+bốnmới6ởbến,Rowanquansátngoài8. Kỹnăng14/5/4khôngđổi. MộtphàchởxeMiraquyếtlượt,khôngcanonhầmtàu/raft/kiểmthuế hoặcMilođibốcdỡchủbến.
+Alden vừahỏi giữriêngphầnđường ngày10–30=21ngày thìRowancầnđiềukiệnnào,Rowan đangnhìnDainđểđáp.026nốiđàm phán,cùngtối9,khôngchữký/tiềnsauđượcnhậntrước. 12bạcphầnbếncũcuốikỳ30vẫnchưađếnhạn.
 
-8gác=Dain/Bram hai cựu binh+Toma/Jory/bốn mới; Rowan ngoài8,9miệng ăn thườngxuyên. Khi2gác tuầnđường, ít nhất6ởbến, cầnnghỉ thật. Milo23 phụviệc khôngvũtrang ngoài8, thử ngày3–5, công3+phụăn2=5đồngcuốingàyđãlàm. Đãtrả5mỗi ngày3/4/5(tổng15), đãxong3ngàythử, chưa dài hạn; tựmuaăn/ngủ ngoài, khôngphầnăn9người cũ.
+8gác=Dain/Bram hai cựu+Toma/Jory/bốnkhác sáumới,Rowanngoài8,9miệngăn thườngxuyên. Khi2đườngthìít nhất6ởbến,cónghỉthật. Rowanđộc lậpnhậnviệcchủbếnkinhdoanhtư,khôngquyềncông/đất/thuế/bảochứnghàng. Mira30tócngắnquảnMỘTphàchởxe chuyênmônngangvai,Jackchủbếngiữkhóa/ghixe,Aldenquảnhợpđồngthaychủ,Oswinthợtheoviệc;họngoài8gác.
 
-Phụlục đườngRIÊNG ngày3–9,3bạc cuốiđủkỳ/ca, chưa thu. Cũ24/30từngày1,12nhậntrong24;84/90hoãn chưa ký. Dựtoán18/tháng=lương9cho8gác+ăn6+vậttư3,chưa trừgộp. Sau020 đãtrả1bạcgóiăn9người ngày1–5, chưagói6–10;20đồnggóiănđường007đãtrảkhônglặp. 3bạcdựphòngvẫnlàtiềntrongquỹ chưa chi, lươngthángchưađếnhạn. Sốdưhiệnhành trongeventstate/progress.
+Sau025đãNGHIỆMTHUđủ7ngày3–9cuốingày9/THUNHẬN3bạcđường,khôngcònphíthửchờthu. Hợp đồngbếncũ24/30từngày1vẫnhiệu lực,12đãnhậntrong24,còn12chỉcuốikỳ30đủnghĩavụ mới nhận,chưa thu.84/90hoãnkhôngký. Phầnsauđường10–30mớiđượchỏi,chưa ký/ứngtiền. Lươngtháng9cho8gác chưađếnhạn;vậttư3dựphòngchưatrừgộp,8đồngthaydâykhiênBramđãchi;vẫn2khiêncũ.
 
-Đườngtưgiờđông banngày,trướctối về,đêmphạmvicũ; khôngđất/thuế/côngquyền/bảochứnghàng. Jackngườichủgiữkhóa/ghixe,Mira30tócngắn chuyênmônquảnMỘTphà ngangvai,Aldenquảnhợpđồng,Oswinthợtheoviệc, tấtcảngoài8gác. Người kho/bốcdỡtựquảnhàng/khóa/phàdotừngngườichuyênmôn.
+Milo23ngoài8,phụviệcKHÔNGVŨTRANG;ngày3–9đãlàm/đãtrả5mỗingày(3công+2phụăn),tổng35đồnglàGROSSđãnhậnkhôngpocketcònnguyên. Hạnphụviệcđếnhết9,CHƯAchốtngày10/dàihạn/lính/giáo/giáp. Tựmuaăn/ngủriêng,khôngsuất9người. Góiăn9người ngày1–5và6–10đãtrả2bạctổng,ngày10vẫncònsuất,11trởđichưamua.
 
-Toma长矛收势14/100积累0,随车换位5/100积累0. Jory随车换位4/100积累0 sau017 (luyện1,nền3→dùng1thành4), cònvấplờikhiồn/cầnBramnhắc. BảngchỉRowanthấy, đúngngười/kỹnăng/luyệnthực,1đổi1; khôngchữa mệt/đọc lòngngười/dòxa. Hỗtrợthợ/ngựachưa thử/chốt; Milo khônghồsơnghề tựđộng. Ngàysốlàthứtựởbến, chưachốtlịchtháng/mùa.
+Tiềnmặtcuối025=36bạc27đồng=36,27. Vốn20+12ứng32;thu thêm1phà+3,5chuyếnhộ+3đường=7,5;chi0,2góiănđường+0,6thưởng+0,35Milo+2ăn+0,08dây=3,23;32+7,5-3,23=36,27. Khônglặp20đồngchuyếnđường/phíthửhoặc12ứngcũ.
 
-Ngày4đãtrả8đồngthaydâykhiêncũBram, vẫn2khiênnhỏ. Toma13/1→14/0ở022 phảihiểulàRowan chủđộngdùng1củngcốđúnghồsơ, khôngtựtiêuđiểmkhinóichỉdẫn; cầnkiểmthêm bằngđộngtác thực.
-
-Sau023đãthỏa thuậnMilo tiếpphụviệc4ngày6–9,5đồng/ngàycuốingày nhưcũ,dựchi20chưa trả;khônggácthứ9/dài hạn. 15đồnglàTỔNGĐÃNHẬN banày3–5,khôngcoilàtiếttiệm/cònnguyênsauănngủ. Phụlụcđường014doAldenkýthaychủ,Jackchỉgiữcổng/ghi xe/phiếugiaoca.
-
-Sau024: tốingày5đãtrả1bạc góiăn9người ngày6–10, tổnghai lôđãtrả2bạcngày1–10. Milo ngày6/7/8đãnhận5mỗingày(tổng15thêm), tổngđãtrảchoMilo3–8là30đồng; ngày9còn5chưa trả. Sángngày9quỹ33,32, chưa thu3bạcđường vàchưađủngày9đểnghiệmthu. Khôngcanonkỹthuậthầmtàu/raft/kiểmthuế;chỉmộtphàchởxe,Miraquyếtlượtvàtải,độituầnđườngtưkhônghảiquan.
+Toma长矛收势14/100积累0,随车换位5/100积累0;Jory随车换位4/100积累0. BảngchỉRowanthấy,đúngngười/kỹnăng/luyệnthực,CHỦĐỘNG1đổi1khôngtựtiêu bằnglờinói. Độngtácđãkiểm tiếnnhỏ,vẫnmệt/đỏtay/lờivấp,cầnnhắc. KhôngbảngMilo/nghềthợ/ngựatựmở,khôngđọclòngngười/dòxa/chữamệt. Ngàythứtựởbến,chưalịchtháng/mùacốđịnh.

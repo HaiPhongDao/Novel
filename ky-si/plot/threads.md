@@ -74,3 +74,8 @@ K02: dựchiMilo15đồng/3ngày, chưa chi/không phải gác mới. K04: đán
 - K03: Miraquyếtphà/ngườikhotựdọnlối/Jackghi giờđến ở018–019; đội giữtrậttự thay ôm tấtcả.
 - K04: Jory3→4đúnghồsơ sau luyện, khôngđọclòngngườiMilo hoặc tựhọcnghềthợ.
 - K05: phạmviđườngtư/ca cógiờnghỉ đãthànhviệcthử thật, chưa tựmởđườngcông/đất/quyềnthuế.
+
+
+### Rà tuyến025 — đã lên trang
+
+K01/K04: Toma14/5,Jory4sau luyện/kiểm riêng, khôngbảngMilo/trungthành. K02: đãthu3côngthửsauca9,trảMilo5cuối9,quỹ36,27;đối chiếu ledger003–025liềnmạch theo đúnghashchínhvăn giữ. K03: Mira/Jack/kho vẫnphầnviệcriêng. K05: kết7ngày3–9,chưaquyềnđườngcông/đất;đềnghịphầnđường10–30mớihỏi,chưaký. Ngoài8gác,Milođãhếtkỳphụviệc,chưatựgia hạn từ10.
