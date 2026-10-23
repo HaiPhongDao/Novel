@@ -1,8 +1,8 @@
-## 3. Trạng thái sau 025
+## 3. Trạng thái sau 026
 
-Tốingày9cửanhàtrực, Alden đãtrả3bạc/cuốikỳthử,Rowan đãtrảMilo5ngày9. Quỹ36bạc27đồng=36,27. Đủ7ngàyđườngđãkết,khôngcònphí3chờthu;Milođãlàm/nhậntổng35ngày3–9,hạnphụviệchết,chưanhậnngày10.
+TỐINGÀY9,Milo hỏimai cótớikhông/nếuchưa cógiấychủthìchờởđâu;Rowanđangbắtđầuđáp,027nốitrọnýrồimớichuyểnsángngày10. Quỹ36bạc27đồng khôngthu/chiở026.
 
-Alden vừahỏi giữriêngphầnđường ngày10–30=21ngày thìRowancầnđiềukiệnnào,Rowan đangnhìnDainđểđáp.026nốiđàm phán,cùngtối9,khôngchữký/tiềnsauđượcnhậntrước. 12bạcphầnbếncũcuốikỳ30vẫnchưađếnhạn.
+AldenđãmangPHƯƠNGÁNđườngtư ngày10–30=21ngày đi hỏi chủ: tổng7bạc50,ứng2bạc50khiký(cótrongtổng),còn5cuối30. Cũ24/30còn12cuối30riêng,tổng17cuối30nếunghĩavụđủ,chưađếnhạn. Chưaký/nhậnứng/chốtMilo10trởđi.
 
 8gác=Dain/Bram hai cựu+Toma/Jory/bốnkhác sáumới,Rowanngoài8,9miệngăn thườngxuyên. Khi2đườngthìít nhất6ởbến,cónghỉthật. Rowanđộc lậpnhậnviệcchủbếnkinhdoanhtư,khôngquyềncông/đất/thuế/bảochứnghàng. Mira30tócngắnquảnMỘTphàchởxe chuyênmônngangvai,Jackchủbếngiữkhóa/ghixe,Aldenquảnhợpđồngthaychủ,Oswinthợtheoviệc;họngoài8gác.
 

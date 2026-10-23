@@ -90,13 +90,17 @@ Tối5trả1bạcgóiăn9người6–10; qua6–8Milođãtrả5mỗiđêm/tổng
 
 Cuốingày9nghiệmthuđủ7ngày3–9,AldenTHỰCTRẢ3bạc;trảMilo5ngày9,kếtquỹ33,32+3-0,05=36,27. Milođãnhậntổng35cho7ngàyphụviệcvàhếtkỳ,chưađượcnhậnthêm. Aldenhỏi phầnđườngriêng ngày10–30=21ngày,chưa ký/thu thêm.
 
+### Đoạn 026
+
+Tốingày9thươnglượngphươngánđườngtư10–30(21ngày)tổng7,5bạc,ứng2,5trongtổng/còn5cuối30. Aldenphảihỏichủ,chưaký/thu;quỹ36,27. Milođãhếtkỳhỏimaicóviệc không,Rowanchuẩnbịđáp.
+
 ---
 
-## 3. Trạng thái sau 025
+## 3. Trạng thái sau 026
 
-Tốingày9cửanhàtrực, Alden đãtrả3bạc/cuốikỳthử,Rowan đãtrảMilo5ngày9. Quỹ36bạc27đồng=36,27. Đủ7ngàyđườngđãkết,khôngcònphí3chờthu;Milođãlàm/nhậntổng35ngày3–9,hạnphụviệchết,chưanhậnngày10.
+TỐINGÀY9,Milo hỏimai cótớikhông/nếuchưa cógiấychủthìchờởđâu;Rowanđangbắtđầuđáp,027nốitrọnýrồimớichuyểnsángngày10. Quỹ36bạc27đồng khôngthu/chiở026.
 
-Alden vừahỏi giữriêngphầnđường ngày10–30=21ngày thìRowancầnđiềukiệnnào,Rowan đangnhìnDainđểđáp.026nốiđàm phán,cùngtối9,khôngchữký/tiềnsauđượcnhậntrước. 12bạcphầnbếncũcuốikỳ30vẫnchưađếnhạn.
+AldenđãmangPHƯƠNGÁNđườngtư ngày10–30=21ngày đi hỏi chủ: tổng7bạc50,ứng2bạc50khiký(cótrongtổng),còn5cuối30. Cũ24/30còn12cuối30riêng,tổng17cuối30nếunghĩavụđủ,chưađếnhạn. Chưaký/nhậnứng/chốtMilo10trởđi.
 
 8gác=Dain/Bram hai cựu+Toma/Jory/bốnkhác sáumới,Rowanngoài8,9miệngăn thườngxuyên. Khi2đườngthìít nhất6ởbến,cónghỉthật. Rowanđộc lậpnhậnviệcchủbếnkinhdoanhtư,khôngquyềncông/đất/thuế/bảochứnghàng. Mira30tócngắnquảnMỘTphàchởxe chuyênmônngangvai,Jackchủbếngiữkhóa/ghixe,Aldenquảnhợpđồngthaychủ,Oswinthợtheoviệc;họngoài8gác.
 
@@ -122,35 +126,37 @@ Dain听完，倒没像在老军营里那样直接抽皮带，而是把长矛收�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 25 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 26 (để nối mạch và giữ giọng)
 
-　　原本账上的结余是三十三枚银币三十二文，如今添上这三百文足色的三枚银币，整支小队的公账总数升到了三十六枚银币又三十二文。
-　　至于主合同三十天里剩下的十二枚银币，那是最后大交班时才算的尾款，谁也没在这时候多嘴提上一句。
-　　公账核完，院子里传来了扫帚扫过落叶的刷刷声。
-　　Rowan收好凭条，站在木廊边朝院角招了招手：
-　　“Milo，过来一下。”
-　　在柴棚边把最后几个装油膏的陶罐码正的Milo连忙放下扫帚，在粗麻裤子上擦了擦手上的灰，快步小跑着来到廊檐下，神情拘谨地站定：
-　　“队长，您叫我？”
-　　Rowan伸手解开搭扣，从钱袋里数出五文铜钱，放在掌心里递过去：
-　　“这是你今天第九天的份，三文工钱，两文伙食贴补，拿好。”
-　　Milo两只手捧着接过来，小心翼翼地把铜钱一枚枚拢在掌心数了一遍，脸上满是实打实的欢喜：
-　　“谢队长！数正好！”
-　　这七天里，从第三天试工一直到今天第九天做满，Milo手脚勤快地干满了整整七天。
-　　算上今天这五文，Rowan每天傍晚当场结清，前后一共实打实发出去了三十五文钱。
-　　这三十五文钱里大半早被这半大小子换成了填肚子的黑面包和菜饼子吞下了肚，手里并没有积压多少闲钱。
-　　队里公账扣除这刚给出去的五文钱，数字精确地停在了三十六枚银币二十七文。
-　　而随着第九天的天色全黑，Milo原本从第六天续到第九天的试用帮工期，到这一刻也就算正式到头了。
-　　Rowan没有在这个当口开口收他当正式卫兵，既没许诺长包的月钱，也没定下第十天往后的工价，只是点了点头让他退下去歇息。
-　　Milo把铜钱揣进贴身内袋，脚步轻快地退回了后院。
-　　木廊檐下，油灯的灯芯噼啪爆了个灯花。
-　　原本准备收起文书的Alden并未立刻挪步，他把硬皮册子在掌心里轻轻拍了拍，侧过身子，看着站在台阶上沉稳如常的Rowan。
-　　“Rowan队长，先别急着回屋。”
-　　Alden眼角挂着精明的笑意，语气比刚才对账时热络了三分：
-　　“这七天试行，东家看在眼里，心里是满意的。
-　　主合同原本签的是三十天，今天第九天过了，后头刚好还剩下整整二十一天。
-　　东家的意思是，若是从明天第十天开始，把这条私道押运的活儿顺着主合同一直包到第三十天期满，中间不再折腾换人……
-　　这二十一天的时间，你这边打算开什么条件？”
-　　夜风吹动廊下的油灯，光影在粗糙的木柱上微微摇晃。
-　　Rowan没有立刻张口，目光微微侧转，落在了身旁刚端起粗陶水碗的Dain脸上。
+　　12枚归主约，5枚归副约，账目清清爽爽，谁也不占谁的便宜。”
+　　Alden深吸了一口气，合上了手里的硬皮册子。
+　　“Rowan队长是个痛快人，这个开法公道，既顾了弟兄们的力气，也没让账房在东家面前作难。”
+　　Alden把册子夹在肋下，后退了半步，精明中透着守职的严谨：
+　　“不过这事关乎大笔银钱支取，我今晚得先把副约条文誊清，明早递到东家桌案前。
+　　等东家看过了，盖上私印，咱们白纸黑字按手印换文书。
+　　在那之前，这2枚半银币的备用钱，我账房上一文都不能擅动。”
+　　“按规矩办。”Rowan点了点头。
+　　“好，那就这么说定了，明早见真章。”
+　　Alden微微躬身致意，提着灯笼走下台阶，身影很快融入了通往账房的小径夜色中。
+　　……
+　　夜色沉凉，渡口的江风吹过木廊，带来一股湿冷的泥腥味。
+　　Rowan和Dain并肩穿过后院，走到了卫队值班房的门前。
+　　木门敞着半扇，里头透出昏黄的油灯光亮，隐约能听到屋里Bram在低声叮嘱换岗守夜的细节，还有新兵擦拭皮甲搭扣的轻微摩擦声。
+　　门外的土坪角落里，Milo正蹲在地上收拾自己的家伙什。
+　　一把磨秃了边的竹扫帚，一只补过两道麻绳的木水桶，还有几块洗得发白的擦布。
+　　第九天做完了。
+　　从第三天接下杂役算起，整整干了七天，今天晚饭后刚领到了第九天的5文散钱。
+　　他身上穿着件打满粗布补丁的外套，手脚麻利地把水桶绑紧，腰间贴身口袋里装着零散铜钱，分量沉甸甸的，但每挪动一步都小心翼翼，生怕弄出半点声响。
+　　听到脚步声，Milo猛地直起腰，双手在粗布裤缝上使劲擦了擦，有些局促地垂下头：“队长，Dain老哥。”
+　　他知道自己的短工期就截止到今晚。
+　　没有入队的名分，没有佩刀，更没有长期的保证，甚至连明天第十天能不能继续进这个院子，都还没人给过准话。
+　　Dain站在一旁，双手抱胸，平静地打量着这个老实规矩的年轻人。
+　　Milo咽了口唾沫，大着胆子抬起头，眼神里带着几分忐忑与期盼：
+　　“队长……我刚才听廊下Alden管事说起副约的事。
+　　若是明早东家那边还没盖印落定，我……我明天清早还用不用往后院来？
+　　要是主家文书没下来，我该在哪儿候着听吩咐？”
+　　夜风吹动屋檐下的草帘，Rowan停下脚步，目光落在他那双满是干裂泥印的粗糙手背上。
+　　“明天清早……”
+　　Rowan话音微微一顿，抬眼看向漆黑的渡口方向。
 
-(Đoạn 26 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 27 sẽ bắt đầu ngay sau chỗ này.)

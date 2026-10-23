@@ -59,3 +59,7 @@ Tối5trả1bạcgóiăn9người6–10; qua6–8Milođãtrả5mỗiđêm/tổng
 ### Đoạn 025
 
 Cuốingày9nghiệmthuđủ7ngày3–9,AldenTHỰCTRẢ3bạc;trảMilo5ngày9,kếtquỹ33,32+3-0,05=36,27. Milođãnhậntổng35cho7ngàyphụviệcvàhếtkỳ,chưađượcnhậnthêm. Aldenhỏi phầnđườngriêng ngày10–30=21ngày,chưa ký/thu thêm.
+
+### Đoạn 026
+
+Tốingày9thươnglượngphươngánđườngtư10–30(21ngày)tổng7,5bạc,ứng2,5trongtổng/còn5cuối30. Aldenphảihỏichủ,chưaký/thu;quỹ36,27. Milođãhếtkỳhỏimaicóviệc không,Rowanchuẩnbịđáp.
