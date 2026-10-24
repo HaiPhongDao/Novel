@@ -76,3 +76,7 @@
 - Giáo gỗ (đoạn 012): cành gỗ cứng dài ~1 m, vót nhọn bằng mảnh đá lửa, hơ đầu trên than cho cứng thành vỏ than. Nhóm năm mỗi con một cây, giấu dưới bùn và lá khô ở hố đất thượng nguồn 冷溪.
 - Cá to mùa lạnh (đoạn 012): chen trong hốc vũng sâu sát vách đá bị nước khoét (nước ngang ngực con non), ~0,5 kg, dài ~40 cm, Writer gọi "冷水黑斑鱼". Đâm bằng giáo: một con khuấy hốc, một con đâm, hai con chặn cửa vũng.
 - Gorr khen: "Ko……很好！" "明天……还要！" (đoạn 012).
+
+- Yeg đứng về phía Ko (đoạn 013): Yeg ấn vào tay Khoa một viên sỏi đen trong đống 112: "活下来……把Gorr的刀……拿来给我。" "拿不来……这颗石头……就是你的。" Lúc Gorr chết, Yeg sẽ gõ gậy nói Ko là thủ lĩnh.
+- Dây ném đá (投石索, đoạn 013): vỏ trong cây liễu bện ba sợi ~1 m, túi đựng đá ở giữa, một đầu vòng xỏ ngón giữa; đá cuội cỡ quả trứng. Nhóm năm mỗi con một sợi, giấu ở hố đất.
+- Lối đá từ tảng đá giữa hang xuống hố ổ (đoạn 013): chỗ hẹp nhất giữa hai mỏm đá ~45 cm; Gorr phải nghiêng vai mới lách qua.

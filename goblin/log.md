@@ -60,3 +60,5 @@
 2026-10-24 | dự án | Agent tự chạy Writer trên AI Studio bằng `tools/aistudio_run.py` + extension Edge `tools/aistudio-ext` (không bấm tay qua Claude in Chrome) | Tác giả: chạy thử 5 đoạn để so token | Tác giả
 2026-10-24 | dự án | Writer đổi sang **gemini-3.8-flash** (thinking High) từ đoạn 012; gemini-3.6-flash trên AI Studio free bật hộp thoại nâng cấp gói | "chạy 3.8 flash ấy" | Tác giả
 2026-10-24 | doan-012 | Mở session S5 (khuyến nghị ở review 011). Review: ĐẠT (sửa nhẹ), 3.493 chữ Hán. Sửa "两条大鱼被重重扔" → "四条". Nhận canon: giáo gỗ hơ lửa ~1 m giấu ở hố đất; cá to trong hốc vũng sâu (~0,5 kg/con, "冷水黑斑鱼") | Review | Agent (ghi log)
+2026-10-24 | doan-013 | Outline 011–012 "Yeg chọn phe" + chuẩn bị (dây ném đá, ngách hẹp). Dừng ở Khoa đo ngách | Dàn ý | Agent (ghi log)
+2026-10-24 | doan-013 | Review: ĐẠT (sửa nhẹ), 2.046 chữ Hán. Sửa số ngày tới tuyết sáng Ngày 15: 46 → 45. Nhận canon: Yeg đưa viên sỏi đen, đòi con dao của Gorr; dây ném đá vỏ liễu; ngách hẹp ~45 cm | Review | Agent (ghi log)
