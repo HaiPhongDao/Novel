@@ -87,3 +87,8 @@
 - Ko là thủ lĩnh (đoạn 015): Yeg gõ gậy: "Gorr……死了！" "祖灵……看着呢。" "Ko……杀死了Gorr，Ko……是新的头领！" Khoa đưa con dao sắt cho Yeg ("刀……给你。") — dao giờ ở chỗ Yeg.
 - Lời Khoa cấm ăn xác Gorr: "不准吃。" "Gorr的肉……臭！吃了……烂脑子，死！" Kho cá (~4,4 kg) chia hết cho cả hang; kho về 0.
 - Mộ Gorr: hố ~0,5 m ở sườn đá vụn dưới cửa 蝙蝠洞, xa 冷溪 và bãi săn. Zag gãy hai xương sườn.
+
+- Nhóm năm của đám trưởng thành (đoạn 016): Khoa giơ bốn ngón, mượn một ngón tay kia: "五只，一组！" Làm thì cả nhóm ăn, trốn việc thì Yeg giơ dao ("刀，割断它的脖子。"). Mười con săn của Gorr = hai nhóm.
+- Con săn tai cụt: dẫn đội săn cũ của Gorr, cầm gậy gỗ cứng cắm đá vụn; tự đếm được tới năm.
+- Mộ Gorr: phiến đá đen lớn đè lên, đá vụn phủ kín.
+- Lời Khoa với Snik về ăn đồng loại: "吃了同类……烂脑子。"

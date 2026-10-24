@@ -66,3 +66,5 @@
 2026-10-24 | doan-014 | Review: ĐẠT (sửa nhẹ), 2.852 chữ Hán. Gorr chết; Zag lõm ngực (còn sống), Nub trầy vai. Bộ lạc 158 | Review | Agent (ghi log)
 2026-10-24 | doan-015 | Outline 011–012 phần cuối "Gorr chết; Khoa không ăn xác, chôn ngoài hang" (T07). Dừng ở câu hỏi "vì sao không ăn" của Snik (T03) | Dàn ý | Agent (ghi log)
 2026-10-24 | doan-015 | Review: ĐẠT (sửa nhẹ), 2.141 chữ Hán. Bỏ "带着盐分" (chưa có muối). Không nhận luật "goblin mười ngày tự lành xương". Writer cho cả kho cá (~4,4 kg) chia cho 158 miệng → kho về 0 — nhận | Review | Agent (ghi log)
+2026-10-24 | doan-016 | Mở session S7. Outline 013–014 "tổ chức: nhóm năm + trưởng năm" dời sớm vì kho về 0 ở 015; mười con săn là phép thử | Dàn ý | Agent (ghi log)
+2026-10-24 | doan-016 | Review: ĐẠT (sửa nhẹ), 2.565 chữ Hán. Bỏ "抽尾巴" (goblin không có đuôi). Khoa nói câu trọn với goblin — trượt giọng ở đầu S7 → prompt 017 thêm một câu: Khoa nói với goblin bằng từ cụt | Review | Agent (ghi log)

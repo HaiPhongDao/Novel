@@ -102,6 +102,11 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Lời Khoa cấm ăn xác Gorr: "不准吃。" "Gorr的肉……臭！吃了……烂脑子，死！" Kho cá (~4,4 kg) chia hết cho cả hang; kho về 0.
 - Mộ Gorr: hố ~0,5 m ở sườn đá vụn dưới cửa 蝙蝠洞, xa 冷溪 và bãi săn. Zag gãy hai xương sườn.
 
+- Nhóm năm của đám trưởng thành (đoạn 016): Khoa giơ bốn ngón, mượn một ngón tay kia: "五只，一组！" Làm thì cả nhóm ăn, trốn việc thì Yeg giơ dao ("刀，割断它的脖子。"). Mười con săn của Gorr = hai nhóm.
+- Con săn tai cụt: dẫn đội săn cũ của Gorr, cầm gậy gỗ cứng cắm đá vụn; tự đếm được tới năm.
+- Mộ Gorr: phiến đá đen lớn đè lên, đá vụn phủ kín.
+- Lời Khoa với Snik về ăn đồng loại: "吃了同类……烂脑子。"
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -140,7 +145,7 @@ Gorr hất cá, đi về hố ổ; Khoa chắn lối, nói dối chỉ Ko dụ �
 Khoa vót giáo gỗ ~1 m hơ lửa, nhóm năm làm theo Nub; đâm được cá to (~0,5 kg/con) trong hốc vũng sâu sát vách đá; giáo giấu ở hố đất. Gorr được 2 kg: "Ko……很好！" "明天……还要！" Đêm Khoa tới góc than; Yeg hỏi Ko muốn gì.
 
 ### Đoạn 13 — đêm Ngày 14 → chiều Ngày 15
-Khoa đưa miếng cá ấm; Yeg nhai mớm cho Mẹ Ổ rồi mới bảo "Ko……说。" Khoa: "Gorr……必须死。" Yeg sờ đống sỏi đen 112 viên, hỏi 46 ngày tới tuyết, Gorr chết thì ai cho 159 miệng ăn, mười con săn sẽ giành dao. Khoa vẽ đăng lên đất: Ko bắt cá, trữ thịt; xin Yeg lúc Gorr chết thì gõ gậy nói Ko là thủ lĩnh. Yeg lấy một viên sỏi đen cạnh sắc ấn vào tay Khoa: "活下来……把Gorr的刀……拿来给我。" "拿不来……这颗石头……就是你的。" Ngày 15: vũng sâu được ~2 kg cho Gorr; Khoa bện dây ném đá từ vỏ liễu, ném trúng thân cây 30 m; Nub chép cả cú vẩy tay — năm sợi. Chiều Gorr ăn cá không nhìn Khoa; Khoa vào lối đá xuống hố ổ, đo chỗ hẹp nhất giữa hai mỏm đá ~45 cm — Gorr phải nghiêng vai mới lách qua.
+Yeg nghe Khoa nói Gorr phải chết, hỏi ai nuôi 159 miệng; ấn vào tay Khoa một viên sỏi đen: "活下来……把Gorr的刀……拿来给我。" Ngày 15 Khoa bện dây ném đá vỏ liễu (năm sợi), đo chỗ hẹp nhất lối xuống hố ổ ~45 cm.
 
 ### Đoạn 14 — chiều Ngày 15 → chiều Ngày 16
 Đêm Ngày 15 năm cây giáo được giấu vào đống đá vụn trong lối xuống hố ổ; dây ném đá quấn hông, trát phân dơi. Chiều Ngày 16 Khoa chỉ cho mang về ~1 kg cá (bốn con béo để lên giàn hong khói). Gorr ăn xong gầm "没了……？！", cầm dao đi về lối xuống hố ổ. Khoa chạy trước làm mồi ("里面……有肉！"); Gorr nghiêng vai lách vào chỗ 45 cm. Snik trên gờ đá ném đá vỡ thái dương; dao Gorr vướng trần đá; Khoa đâm giáo xuyên má, Nub chép cú đâm vào hàm dưới; Gorr đạp ngược làm Zag lõm ngực (còn sống), Mok bỏ giáo. Snik ném vỡ cổ tay, dao rơi; Khoa chui dưới tầm dao, đâm cọc gỗ vào động mạch cổ. Gorr chết kẹt giữa hai mỏm đá. Khoa cầm dao bước ra hang chính; cả hang im; Yeg ngửi ra máu, giơ gậy lên.
@@ -148,32 +153,35 @@ Khoa đưa miếng cá ấm; Yeg nhai mớm cho Mẹ Ổ rồi mới bảo "Ko�
 ### Đoạn 15 — chiều Ngày 16 → rạng sáng Ngày 17
 Yeg gõ gậy: "Gorr……死了！" "Ko……是新的头领！" Khoa ném con dao xuống chỗ Yeg ("刀……给你。"); Yeg ôm dao. Mùi máu bay ra, mười con săn và vài chục con trưởng thành lao về lối hẹp đòi ăn xác; Khoa cầm nửa cây giáo chắn lối, Snik ném đá cảnh cáo; Khoa: "Gorr的肉……臭！吃了……烂脑子，死！" "想吃肉……跟我来！" Mok, Nub mang về cả kho (~2,4 kg cá khô + ~2 kg cá hong) đổ lên tảng đá: "分了！" — mỗi miệng chưa tới 30 g; kho về 0. Zag gãy hai xương sườn. Rạng sáng Ngày 17 nhóm năm kéo xác Gorr ra sườn đá vụn dưới hang, đào hố ~0,5 m; đắp được nửa thì Snik hỏi: "Ko……为什么……不吃？"
 
+### Đoạn 16 — rạng sáng → sáng Ngày 17
+Khoa trả lời Snik: ăn đồng loại thì "烂脑子", phát điên, đau chết; hôm nay ăn Gorr thì mai bị ăn. Snik sợ, đạp đá lấp hố; phiến đá đen lớn đè lên mộ. Về hang: 158 con đói, kho hết. Yeg ôm dao trên tảng đá giữa hang, gõ gậy; Khoa đứng lên chỗ của Gorr. Con săn tai cụt dẫn mười con: "肉呢？！" Khoa: kho không có, suối có; ai nằm kêu thì không được chia. Khoa giơ bốn ngón, mượn một ngón tay kia: "五只，一组！" — mười con săn thành hai nhóm (con tai cụt dẫn một nhóm), ~69 con trưởng thành thành ~14 nhóm năm; làm thì cả nhóm ăn, trốn việc thì Yeg giơ dao. Zag (gãy sườn) ở lại trông lửa và con non. Ở vũng sâu bên 冷溪 Nub xuống nước làm mẫu; nhóm trưởng thành đầu tiên lội xuống ngang hông, chép cả cú run và vẩy tay của Nub, giơ giáo chờ Nub đâm trước.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 15)
+## 3. Trạng thái hiện tại (hết đoạn 16)
 
-**Thời điểm:** rạng sáng Ngày 17, trời chưa sáng hẳn.
-**Có mặt:** sườn đá vụn dưới cửa 蝙蝠洞 (xa 冷溪, xa bãi săn). Nhóm năm bên hố chôn Gorr, đất đá mới lấp được một nửa, còn lộ một khúc đùi. Khoa người đầy máu khô và bùn. Snik ngồi trên tảng đá canh, vừa hỏi vì sao không ăn. Zag gãy hai xương sườn, thở khó; Nub trầy vai. Trong hang cả bộ lạc đang ngủ; hai con già canh cửa ngủ gật.
+**Thời điểm:** sáng Ngày 17.
+**Có mặt:** vũng sâu sát vách đá ở 冷溪. Nub đứng trong nước, cúi sát vách, giáo giơ lên. Nhóm trưởng thành đầu tiên (năm con) lội xuống ngang hông sau lưng Nub, giáo giơ lên, chờ Nub đâm trước. Khoa trên bờ. Mười con săn (hai nhóm, con tai cụt dẫn một nhóm) đứng trên chỗ cao khoanh tay chờ Khoa hỏng việc. Sáu chục con trưởng thành khác co ro trên bờ. Snik, Mok dẫn đường. Zag (gãy hai xương sườn) ở lại hang trông lửa và con non; Yeg giữ dao trong hang.
 
 **Nhân vật chính biết**
-- Ko là thủ lĩnh mới — Yeg đã gõ gậy tuyên bố trước cả hang. Con dao sắt ở chỗ Yeg (giữ lời với Yeg).
-- Mười con săn và đám trưởng thành chịu dừng tay vì cá, chưa phục.
-- Kho cá đã hết sạch — cả kho chia cho 158 miệng đêm qua.
-- Cá to chỉ còn ở hốc vũng sâu sát vách đá ở 冷溪; năm con đâm một buổi được ~2 kg.
+- Ko là thủ lĩnh do Yeg tuyên bố; mười con săn chưa phục — hôm nay không có thịt thì chúng sẽ đập đầu Ko.
+- Kho thức ăn hết sạch.
+- Luật mới: nhóm năm cùng làm thì cùng ăn; trốn việc thì Yeg giơ dao.
+- Khoa nói với goblin bằng từ cụt, vài chữ một hơi.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Bộ lạc | 158: ~69 trưởng thành (đội săn mười con), 37 con choai/già, 10 + nhóm năm + 3 con non ổ Khoa, 34 con mới nở |
+| Bộ lạc | 158: ~69 trưởng thành (~14 nhóm năm; đội săn mười con = hai nhóm), 37 con choai/già, 10 + nhóm năm + 3 con non ổ Khoa, 34 con mới nở |
 | Kho thức ăn | 0 |
-| Vũng sâu | năm con đâm một buổi ~2 kg cá to |
-| Vũ khí | nhóm năm: giáo gỗ hơ lửa (một cây gãy), năm dây ném đá |
-| Ngày tới tuyết | ~43; đông ~100 ngày; cả đông cần vài tấn thức ăn |
+| Vũng sâu | năm con đâm một buổi ~2 kg cá to (~0,5 kg/con) |
+| Giáo gỗ hơ lửa | bốn cây (một cây gãy ở 014) |
+| Ngày tới tuyết | ~43; đông ~100 ngày |
 
 **Tuyến đang mở**
-- Snik hỏi vì sao không ăn — Khoa chưa trả lời.
-- 158 miệng thức dậy sẽ đói; Ko phải cho chúng ăn.
-- Mười con săn của Gorr chưa phục.
+- Nub sắp đâm con cá đầu tiên trước mặt nhóm trưởng thành.
+- Mười con săn và con tai cụt đang chờ.
+- Một vũng sâu không đủ cá cho 158 miệng.
 
 ---
 
@@ -219,42 +227,46 @@ Khoa中途右脚打滑，身子一歪，本能地甩了甩尾椎骨那截没发�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 15 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 16 (để nối mạch và giữ giọng)
 
-几十只老弱幼崽蹲在地上，连掉在蝙蝠粪里的鱼鳞都用舌头舔得干干净净。
-原本一触即发的惨烈暴动，硬生生被这几公斤鱼肉按熄了下去。
-Khoa冷眼看着这一幕，胃里却一阵阵发紧。
-粮仓空了。
-辛苦攒了半个月的储备粮，为了压住局势，一顿就吃了个精光。
-距离第一场大雪，大概还有四十三天。
-这四十三天里，他得带着这一百五十八张只会张嘴要肉的破嘴，在冰封的大地上刨出至少几吨的食物。
-“呼……”
-Khoa吐出一口浊气，转身走回通道深处。
-通道里，Zag靠在石壁上，嘴唇发白，胸膛剧烈起伏着，每一次呼吸都带出一阵带血的咳嗽。
-Nub正小心翼翼地托着他的肩膀，笨拙地学着以前Khoa检查伤口的样子，用爪子轻轻按压Zag塌陷的肋骨。
-“死不了。”
-Khoa走上前摸了摸，断了两根肋骨，没伤到肺叶。
-哥布林这种怪胎生物的恢复力惊人，只要有口吃的，躺上十来天骨头就能自己长歪着愈合。
-“走。”
-Khoa拍了拍Nub的脑袋。
-“趁天没亮……把那坨烂肉拖出去。”
-第十七天，天光未亮，荒原上刮着刺骨的阴风。
-洞口守门的老哥布林还在打呼噜，主洞穴里的族人们抱着肚子沉沉睡去。
-五个矮小的身影，用树皮绳子套住Gorr那具冰冷僵硬的尸体，一点一点从狭窄的岩缝里往外拽。
-Mok在前面拼命拉，Nub在后面托着断了肋骨的Zag，Khoa和Snik在两边推。
-六十多公斤的死肉沉得像块巨石，在碎石路上拖出一条长长的黑红色血痕。
-他们把尸体一直拖到了蝙蝠洞下方荒凉的碎石斜坡上。
-这里远离冷溪，也远离平时的猎场，到处都是风化的灰色页岩。
-Khoa找了处避风的土凹，拔出腰间的尖石片，一下一下往冻硬的泥土里刨。
- Nub立刻跟着学，抓起两块扁平的石头疯狂刨土。
-足足挖了一个时辰，才刨出一个半米深、勉强能把Gorr塞进去的土坑。
-合力将那具面目全非的庞大尸体推进坑里后，几只小绿皮开始往里面推碎石和泥土。
-冰冷的碎石哗啦啦落下，逐渐掩盖住Gorr身上那张破烂的狼皮。
-土坑填到一半的时候。
-一直蹲在旁边石头上放哨的Snik终于忍不住了。
-他那双巨大的招风耳在寒风中抽动着，黄豆大的眼睛直勾勾地盯着坑里那截露出来的肥硕大腿，喉结狠狠上下滑动了一下。
-这只聪明的幼崽转过头，看着满脸污血和泥土的Khoa，满脸困惑地憋出了一句：
-“Ko……”
-“为什么……不吃？”
+断耳猎手带一组，另一个稍微强壮的带一组，剩下的普通成年哥布林也被拆成了十几个五人小队。
+它们不知道什么叫组织架构，但“五”这个数字，正好是它们理解能力的极限。
+Zag因为肋骨断裂，被留在了洞里看守幼崽和火种。
+带路的重任落在了Nub、Snik和Mok身上。
+半个时辰后。
+冷溪上游，深潭边。
+凛冽的寒风吹得水面泛起一阵阵冰冷的白沫，深潭旁的岩壁下方，幽深的水色发黑。
+距离入冬的大雪还有四十三天。
+水温已经低到了刺骨的程度。
+六十多只成年哥布林乱哄哄地缩在岸边的枯草丛里，冻得直打哆嗦。
+十只狩猎队的强壮战士抱胸站在最前面的高处，冷眼旁观，眼神里满是不信任与挑衅。
+它们在等。
+等这个新头领露出破绽。
+如果今天弄不到肉，这群饿疯了的野兽绝对会用手里的石棒砸碎Khoa的脑袋。
+Khoa神色淡然，从枯草堆里拽出昨天藏好的淬火木矛。
+矛头被炭火烧焦硬化过，泛着坚硬的黑色光泽。
+他把两根木矛递给Nub，又顺手塞给断耳小队一根。
+“看着。”
+Khoa只说了两个字。
+Nub心领神会。
+这只瘦小的幼崽深吸了一口气，光着脚丫踩进了刺骨冰冷的溪水里。
+冻得它猛地打了个摆子，手腕狠狠甩了两甩。
+但它手里的木矛握得极稳。
+岸上的断耳猎手瞪大了眼睛，嘴里发出一声意义不明的嗤笑。
+然而下一秒，它的嗤笑就僵在了脸上。
+Nub动作熟练地弯下腰，将半个身子贴在被流水冲刷掏空的岩壁下方，眼睛死死锁定着水底那片昏暗的阴影。
+第一组的五只成年哥布林被Khoa一脚一个踹进了齐腰深的冰水里。
+冰冷的溪水瞬间漫过大腿。
+五只绿皮壮汉冻得牙齿咯咯作响，浑身青筋暴起，嘴里不停骂骂咧咧。
+但在看到Nub那专注至极的姿势时，这五只成年哥布林眼底的野性本能骤然被勾动了。
+低智商，却拥有可怕的复刻本能。
+五只成年绿皮同时学着Nub的样子，极其别扭地弯下腰，身子贴紧湿滑的冰冷岩壁。
+甚至连Nub刚才冻得打摆子、甩手腕的两个多余动作，都被这五只成年哥布林分毫不差地照搬了一遍。
+哗啦——
+五根削尖的木矛在冰冷的空气中齐刷刷举起。
+水底下，几道足有半米长、背部带着黑斑的粗壮鱼影，正缓缓从岩缝深处游出。
+五只成年哥布林屏住呼吸，肌肉紧绷，手中的尖矛死死对准水面。
+它们僵在原地，一动不动。
+全都在死死盯着最前方的Nub，等待着那柄率先刺下的木矛。
 
-(Đoạn 16 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 17 sẽ bắt đầu ngay sau chỗ này.)
