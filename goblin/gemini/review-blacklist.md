@@ -22,3 +22,5 @@ Soát cùng danh sách chung `chung/review-blacklist.md`. File này chỉ giữ 
 - Cài cắm bị lời kể gọi tên sớm: "硝酸盐结晶" trên vách hố ổ (001).
 - Luật sinh học tự đặt: goblin "冷血", trời lạnh thì lờ đờ (003). Bible không có; không nhận.
 - Writer vào đầu nhân vật phụ (Snik, Zag, Mok…): Tác giả 23/10 chấp nhận — chỉ ghi, không bắt sửa.
+- Giọng Yeg bị so với đá/giấy nhám mài nhau: "沙哑得像两块磨损的石片在摩擦" (012), "声音像砂纸磨过骨头" (013), "像两块粗糙的砂纸在互相摩擦" (015) — lặp qua session.
+- Muối: bộ lạc chưa có muối, Writer vẫn viết "咸香" (011), "带着盐分" (015).

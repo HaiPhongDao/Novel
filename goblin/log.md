@@ -64,3 +64,5 @@
 2026-10-24 | doan-013 | Review: ĐẠT (sửa nhẹ), 2.046 chữ Hán. Sửa số ngày tới tuyết sáng Ngày 15: 46 → 45. Nhận canon: Yeg đưa viên sỏi đen, đòi con dao của Gorr; dây ném đá vỏ liễu; ngách hẹp ~45 cm | Review | Agent (ghi log)
 2026-10-24 | doan-014 | Mở session S6 (2 đoạn/session). Outline 011–012 "lật đổ Gorr, Gorr chết" (Tác giả duyệt 22/10): Khoa cắt cống còn ~1 kg để Gorr tự đi vào ngách hẹp | Dàn ý | Agent (ghi log)
 2026-10-24 | doan-014 | Review: ĐẠT (sửa nhẹ), 2.852 chữ Hán. Gorr chết; Zag lõm ngực (còn sống), Nub trầy vai. Bộ lạc 158 | Review | Agent (ghi log)
+2026-10-24 | doan-015 | Outline 011–012 phần cuối "Gorr chết; Khoa không ăn xác, chôn ngoài hang" (T07). Dừng ở câu hỏi "vì sao không ăn" của Snik (T03) | Dàn ý | Agent (ghi log)
+2026-10-24 | doan-015 | Review: ĐẠT (sửa nhẹ), 2.141 chữ Hán. Bỏ "带着盐分" (chưa có muối). Không nhận luật "goblin mười ngày tự lành xương". Writer cho cả kho cá (~4,4 kg) chia cho 158 miệng → kho về 0 — nhận | Review | Agent (ghi log)

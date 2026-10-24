@@ -83,3 +83,7 @@
 
 - Gorr chết (đoạn 014, chiều Ngày 16) trong chỗ hẹp nhất của lối xuống hố ổ: Snik ném đá từ gờ đá (thái dương, cổ tay), Khoa đâm giáo và cọc gỗ ngắn vào động mạch cổ; Nub đâm hàm dưới. Zag bị Gorr đạp lõm ngực; Nub trầy vai.
 - Con dao sắt của Gorr: lưỡi ~40 cm, mẻ nhiều chỗ, gỉ.
+
+- Ko là thủ lĩnh (đoạn 015): Yeg gõ gậy: "Gorr……死了！" "祖灵……看着呢。" "Ko……杀死了Gorr，Ko……是新的头领！" Khoa đưa con dao sắt cho Yeg ("刀……给你。") — dao giờ ở chỗ Yeg.
+- Lời Khoa cấm ăn xác Gorr: "不准吃。" "Gorr的肉……臭！吃了……烂脑子，死！" Kho cá (~4,4 kg) chia hết cho cả hang; kho về 0.
+- Mộ Gorr: hố ~0,5 m ở sườn đá vụn dưới cửa 蝙蝠洞, xa 冷溪 và bãi săn. Zag gãy hai xương sườn.
