@@ -77,17 +77,28 @@ async function runJob(job) {
     await post('/result', { id: job.id, ok: true, account: info.account, ...out });
   } catch (e) {
     await post('/result', { id: job.id, ok: false, kind: e.kind || 'error', error: String(e.message || e) });
+  } finally {
+    await closeTab();
   }
 }
 
-// Một tab riêng cho việc này (mở nền, không chiếm tab đang dùng), nhớ id trong storage.session.
+// Xong việc thì gỡ debugger và đóng tab làm việc; chat đã tự lưu trên AI Studio, lần sau mở lại theo URL.
+async function closeTab() {
+  const { tabId } = await chrome.storage.local.get('tabId');
+  if (!tabId) return;
+  await chrome.debugger.detach({ tabId }).catch(() => {});
+  await chrome.tabs.remove(tabId).catch(() => {});
+  await chrome.storage.local.remove('tabId');
+}
+
+// Một tab riêng cho việc này (mở nền, không chiếm tab đang dùng), đóng khi xong việc.
 async function openTab(url) {
-  let { tabId } = await chrome.storage.session.get('tabId');
+  let { tabId } = await chrome.storage.local.get('tabId');  // storage.local: còn nhớ sau khi extension reload
   const old = tabId && await chrome.tabs.get(tabId).catch(() => null);
   if (old) await chrome.tabs.update(tabId, { url });
   else {
     tabId = (await chrome.tabs.create({ url, active: false })).id;
-    await chrome.storage.session.set({ tabId });
+    await chrome.storage.local.set({ tabId });
   }
   await sleep(1000);
   const end = Date.now() + 60000;
