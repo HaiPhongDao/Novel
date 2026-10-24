@@ -32,10 +32,6 @@ Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin 
 | 009 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 010 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) | |
 | 011 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) — dấu hiệu trượt nhẹ | |
-| 012 | ✅ | ⬜ file trống — chờ dán | | |
-| 013 | | ⬜ file trống | | |
-| 014 | | ⬜ file trống | | |
-| 015 | | ⬜ file trống | | |
-| 016 | | ⬜ file trống | | |
+| 012 | ✅ | ✅ (Agent, AI Studio gemini-3.8-flash qua aistudio_run.py) | ⚠️ ĐẠT (sửa nhẹ) — dài ~1,7 lần | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".

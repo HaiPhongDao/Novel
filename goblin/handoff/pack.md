@@ -87,6 +87,10 @@ Sau đó chờ prompt của đoạn tiếp theo.
 - Khoa nói với Gorr: chỉ Ko dụ được cá to ra khỏi khe đá khi nước lạnh.
 - Yeg có một cây gậy gỗ khô; gõ vào vách khi nói trước cả hang. Yeg nói trước mặt Gorr: con non là lương cho mùa lạnh.
 
+- Giáo gỗ (đoạn 012): cành gỗ cứng dài ~1 m, vót nhọn bằng mảnh đá lửa, hơ đầu trên than cho cứng thành vỏ than. Nhóm năm mỗi con một cây, giấu dưới bùn và lá khô ở hố đất thượng nguồn 冷溪.
+- Cá to mùa lạnh (đoạn 012): chen trong hốc vũng sâu sát vách đá bị nước khoét (nước ngang ngực con non), ~0,5 kg, dài ~40 cm, Writer gọi "冷水黑斑鱼". Đâm bằng giáo: một con khuấy hốc, một con đâm, hai con chặn cửa vũng.
+- Gorr khen: "Ko……很好！" "明天……还要！" (đoạn 012).
+
 ---
 
 ## 2. Tóm tắt những gì đã viết
@@ -113,7 +117,7 @@ Yeg gọi Khoa ngồi bên đống than, ngửi ra lửa lạ; Khoa nói dối n
 Yeg trát bùn lên Khoa, giấu anh sau thân Mẹ Ổ; Gorr về đói, ăn khúc xương để dành cho Mẹ Ổ, đá tung than, rồi lấy con non thứ ba (125, hố còn 10). Ngày 9 con non cao ~0,5 m. Khoa đắp đăng chắn cá (鱼梁) ở thượng nguồn 冷溪, lờ đan cành liễu; Nub chép cả tật của Khoa. Cá to đầu tiên vào lờ thì Snik báo động: nhiều con lớn đang tới.
 
 ### Đoạn 9 — sáng Ngày 9 → đêm Ngày 11
-Gorr dẫn đội săn mười con về tay không, bắt gặp đăng; định chém lờ thì Khoa lội ra rút lờ dâng lên: "给Gorr。" "石头……抓鱼。" "天天……抓鱼。" Gorr bóp đầu cá ăn sống, ném đuôi cho đội săn; giữ đăng: "每天……送！" "不送……吃了你。" — mũi dao rạch má Khoa một đường. Những ngày sau đăng ~3 kg cá/ngày: chiều nào Zag và Mok cũng khiêng ~2 kg về tảng đá giữa hang cho Gorr, Gorr thôi nhòm hố ổ. ~1 kg Khoa giữ: hong khói bằng lửa âm ỉ ở hố đất thượng nguồn; nhóm năm mỗi bữa một miếng cá chín, lớn trông thấy. Đêm nào Khoa cũng đưa Yeg một con cá nướng còn ấm ("吃……热的。"); Yeg nhai mớm cho Mẹ Ổ; Mẹ Ổ hết run, vết cước lên da non. Đêm Ngày 11 — tròn mười ngày từ khi ổ của Khoa nở — Yeg thò tay vào khe đá nắm cổ chân Khoa kéo ra: "Ko……快来。" "巢母……动了。"
+Gorr bắt gặp đăng; Khoa dâng cá, Gorr giữ đăng và đòi cống mỗi chiều ("每天……送！" "不送……吃了你。"), rạch má Khoa. ~3 kg cá/ngày: ~2 kg cho Gorr, ~1 kg Khoa hong khói giấu ở hố đất; đêm nào cũng mang cá nướng cho Yeg mớm Mẹ Ổ. Đêm Ngày 11 Yeg kéo Khoa vào ngách: Mẹ Ổ sắp đẻ.
 
 ### Đoạn 10 — đêm Ngày 11 → chiều Ngày 13
 Trong ngách, Mẹ Ổ rặn gần hai tiếng; trứng bầu dục cỡ quả dưa, vỏ da mềm nửa trong. Yeg mò đỡ, áp môi thử ấm, vùi vào hố tro than lót rêu khô; Yeg không đếm quá năm, hỏi Khoa: "多少……？" — "三十四。" (ổ của Khoa 21). Yeg: "冻着……死在壳里。" Khoa tính: hai ngày nữa thêm 34 miệng; còn ~50 ngày tới tuyết. Chiều Ngày 13 trời lạnh hẳn, lá vàng rụng; cá nước lạnh xuống chỗ sâu, đăng chỉ được ~1 kg cá gầy. Khoa đổ hết vào túi, không giữ gam nào. Về hang: 34 trứng đã nở, con non mới kêu chí chóe trong hố; mười con non ổ trước (cao ~0,5 m) ngồi trên mép đá nhìn xuống chúng thèm thuồng. Gorr ngồi trên tảng đá giữa hang mài dao vào da đùi, đói từ trưa. Khoa đổ đống cá ra mặt đá — chưa bằng một phần ba hôm qua. Gorr rạch dao lên đá tóe lửa; tiếng một con non mới khóc vọng ra — Gorr ngẩng mắt độc về phía ngách sâu.
@@ -121,32 +125,37 @@ Trong ngách, Mẹ Ổ rặn gần hai tiếng; trứng bầu dục cỡ quả d
 ### Đoạn 11 — chạng vạng → đêm Ngày 13
 Gorr hất đống cá, kéo dao đi về lối xuống hố ổ; vài con săn định theo kiếm phần thừa. Khoa bước ngang chắn giữa lối, dao Gorr kề đầu. Khoa nói câu cụt: "深坑……不能进。" "鱼梁……冻了。" "只有我……能把鱼引出来。" "砸死我……谁给你抓鱼？" "明天……有大鱼。" — rồi rút miếng cá hong khói cỡ bàn tay trong túi da đưa Gorr; Gorr nuốt chửng. Yeg gõ gậy vào vách: "Gorr……小崽子……是冷天的储备。" "现在吃了……冷天……吃什么？" "吃你自己的手？" Gorr vỗ mặt dao vào má trái Khoa: "Ko……" "明天……大鱼。" "没有大鱼……先吃你。", rồi về nhặt cá dưới đất ăn. Đêm trong khe đá, Nub tự tát má chép cú vỗ dao ("行了……别学了。"). Khoa đếm: cá khô còn ~2,5 kg; đăng còn 1 kg/ngày, đóng băng thì hết; 159 miệng; 47 ngày tới tuyết, đông 100 ngày; Gorr còn sống thì sẽ ăn hết tương lai của bộ lạc. Gorr phải chết.
 
+### Đoạn 12 — đêm Ngày 13 → đêm Ngày 14
+Đêm trong khe đá Khoa tính: Gorr 1,2 m có dao, nhóm năm ~0,6 m — phải có vũ khí và đồng bọn. Sáng Ngày 14 lờ chỉ có hai con cá nhỏ; cá to (~0,5 kg) chen trong hốc vũng sâu sát vách đá, nước ngang ngực con non. Ở hố đất thượng nguồn Khoa vót giáo gỗ ~1 m bằng mảnh đá lửa, hơ đầu giáo trên than cho cứng; Nub làm theo y hệt (cả tiếng "啧"), cả nhóm làm theo Nub — năm cây giáo. Nub khuấy hốc, Khoa đâm; được 4 con to (~2 kg) và 3 con nhỏ nướng ăn ngay. Giáo giấu dưới bùn ở hố đất. Chiều đội săn lại tay không, Gorr cầm dao định xuống hố ổ thì Zag–Mok khiêng cá vào; Gorr ăn, vỗ vai Khoa: "Ko……很好！" "明天……还要！" Đêm Khoa mang cá chín tới góc than; Yeg hỏi trước: "Ko……你……想要什么？"
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 11)
+## 3. Trạng thái hiện tại (hết đoạn 12)
 
-**Thời điểm:** đêm Ngày 13.
-**Có mặt:** khe đá trên vách hang chính. Khoa ngồi tựa lưng vào vách, người còn run; má trái rát vì bị Gorr vỗ dao. Nub nép trong góc khe. Gorr đã về tảng đá giữa hang. Yeg ở góc than cạnh ngách Mẹ Ổ.
+**Thời điểm:** đêm Ngày 14.
+**Có mặt:** góc than của Yeg ở miệng ngách Mẹ Ổ. Khoa vừa ngồi xuống bên đống than, trong người còn miếng cá chín ấm chưa kịp đưa. Yeg đã hỏi Ko muốn gì. Mẹ Ổ thở nặng trong hõm cách đống than vài mét. Gorr ngủ trên tảng đá giữa hang sau bữa cá.
 
 **Nhân vật chính biết**
-- Đã hứa với Gorr: mai có cá to; không có thì Gorr ăn Ko. Đã nói dối rằng chỉ Ko dụ được cá ra khỏi khe đá.
-- Yeg vừa đứng về phía hố ổ trước mặt cả hang (con non là lương cho mùa lạnh).
-- Đăng chỉ còn ~1 kg/ngày, đóng băng thì hết.
-- Gorr phải chết — mới là ý định trong đầu Khoa, chưa nói với ai.
+- Gorr phải chết — trong nhóm năm chưa ai biết; Yeg chưa nghe.
+- Năm cây giáo gỗ hơ lửa (~1 m) giấu dưới bùn ở hố đất thượng nguồn 冷溪.
+- Cá to giờ chỉ còn ở hốc vũng sâu sát vách đá; đâm bằng giáo được. Lờ gần như hết cá.
+- Gorr hôm nay được đủ 2 kg; mai lại đòi ("明天……还要！").
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Bộ lạc | 159 (~70 trưởng thành, 37 con choai/già, 10 + nhóm năm + 3 con non ổ Khoa, 34 con mới nở) |
-| Kho cá hong khói | ~2,5 kg, ở hố đất thượng nguồn 冷溪 |
-| Đăng cá | ~1 kg/ngày, còn giảm |
+| Kho cá hong khói | ~2,4 kg, ở hố đất thượng nguồn 冷溪 |
+| Đăng cá | gần như không còn |
+| Vũng sâu | một buổi sáng năm con đâm được ~2 kg cá to (~0,5 kg/con) |
 | Gorr cần | ~2 kg cá to mỗi chiều |
-| Ngày tới tuyết | ~47; đông ~100 ngày |
+| Nhóm năm | cao ~0,6 m; Gorr 1,2 m, dao sắt duy nhất |
+| Ngày tới tuyết | ~46; đông ~100 ngày |
 
 **Tuyến đang mở**
-- Chiều Ngày 14 phải có cá to cho Gorr.
+- Khoa sắp trả lời Yeg.
+- Chiều Ngày 15 lại phải có 2 kg cá to cho Gorr.
 - Mười con non ổ trước thèm lũ mới nở.
-- Gorr phải chết.
 
 ---
 
@@ -192,38 +201,45 @@ Khoa中途右脚打滑，身子一歪，本能地甩了甩尾椎骨那截没发�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-Nub像一团受惊的烂肉一样缩在角落里，看到Khoa进来，小家伙浑身哆嗦着扑上来，学着Khoa刚才在石台上被刀拍脸的动作，用自己的爪子在脸颊上神经质地狠拍了两下，喉咙里发出惊恐的抽泣。
-“行了……别学了。”
-Khoa没好气地拍开Nub的爪子，把自己整个后背砸在坚硬冰冷的石壁上，大口大口地喘息。
-直到此时，他才发现自己贴身的兽皮已经被冷汗浸透，整条左臂因为极度的应激反应而止不住地痉挛。
-差一点。
-就差那么半毫米，那把破铁刀就能把他的脑壳当场劈开。
-绝对力量的差距，不是靠几句现代逻辑就能完全抹平的。
-Khoa闭上眼睛，深深吸了一口岩缝里干燥的泥土气息，强迫自己像前世在工厂车间对账一样，把脑子里的所有筹码和负债一笔一笔地拉出来清算。
-筹码：
-冷溪上游那个隐蔽地凹里，木架上挂着的熏鱼干，在刚才消耗了一块之后，还剩下大约两点五公斤。
-这是五只小绿皮和贿赂Yeg的绝对救命粮，一克都不能再乱动。
-冷溪里的石梁鱼梁，因为水温暴跌，日产量已经从三公斤滑落到了一公斤，而且随着深冬临近，结冰期一到，产量还会进一步归零。
-负债：
-深坑里上一批剩下的十只幼崽，现在身高达到了半米，胃口大开；
-刚刚破壳的三十四只肉虫，两天之内就会满地乱爬，开始抢夺一切能吃的东西；
-加上外洞里那些体质衰退的成年体，整个蝙蝠洞的人口规模，被硬生生推到了一百五十九只！
-一百五十九张嘴。
-距离山林里的第一场大雪，按照老巫祝之前摆在石缝里的石头推算，满打满算，只剩下四十七天。
-四十七天后，等待这一百五十九只绿皮的，是长达整整一百天的严冬极夜。
-而Gorr，这个身高一米二、握着全族唯一一把金属兵器的寄生虫，不仅没有半点带领部族储备过冬物资的脑子，反而在加速吃空整个部族的未来。
-今天能用一块熏鱼干和虚无缥缈的承诺骗过他，明天呢？
-后天呢？
-石梁的鱼总有彻底绝收的那一天。
-到了那天，Gorr依然会提起他的破铁刀，砍碎石缝，把所有幼崽连同他Khoa一起扔进胃袋里。
-黑暗中，Khoa缓缓睁开了眼。
-那双深绿色的眼眸里，没有幼崽应有的混沌与野蛮，只有高炉工程师在面对报废废料时，那种彻骨的冰冷与决绝。
-要活过这个冬天。
-只靠抓几条烂鱼是不可能的。
-必须把整个山洞、所有的劳动力、所有的物资分配权，全部抓在自己手里。
-而在这一切发生之前。
-Gorr必须死。
+木棍中间，挂着四条沉甸甸、圆滚滚的大鱼，鱼鳞在幽暗的洞穴里泛着微弱的银光。
+啪嗒！
+四条大鱼被重重扔在了大石台下方，溅起一小蓬干燥的蝙蝠粪灰尘。
+整整两公斤肉！
+洞穴里瞬间死寂一片。
+所有饥饿的目光，在这一刻死死钉在那四条大鱼身上，咽口水的声音此起彼伏。
+Gorr的动作僵住了。
+他盯着地上的大鱼，独眼猛地瞪大，眼底闪过一丝不可思议的错愕。
+这么冷的天，这个小崽子居然真的弄来了大鱼！
+Khoa从Zag身后走出来，脸上带着未干的污泥，神色平静地看着石台上的暴君。
+“Gorr。”
+“大鱼……带来了。”
+Khoa声音沙哑，伸出三根手指，指了指石台上的鱼。
+Gorr从石台上跳了下来，一把抓起最肥的一条，连内脏都顾不上清理，张开长满黄板牙的巨口，狠狠一口咬掉了半个鱼头！
+黏稠的鲜血和脑浆从他嘴角溢出。
+Gorr咀嚼着坚硬的鱼骨，喉咙里发出野兽般满意的呼噜声。
+他一边大嚼，一边用那只沾满鱼血的大手，重重拍了拍Khoa的肩膀，力道大得差点把Khoa拍倒在地上。
+“Ko……很好！”
+“明天……还要！”
+丢下这句话，Gorr拎着剩下的鱼，大步走回石台上，独自撕扯吞咽起来。
+那些跃跃欲试的成年体见状，只能咽着口水缩回了阴影里。
+深坑里的幼崽，又保住了一天。
+夜幕彻底笼罩了蝙蝠洞。
+凛冽的寒风在洞口呼啸，带走洞穴里仅存的一点暖意。
+主洞里的哥布林们大多挤在一起取暖，鼾声与梦呓交织成一片低沉的噪音。
+Khoa从岩缝里滑了下来。
+他怀里揣着一小块温热的熟鱼肉，避开地面上乱七八糟的杂物，悄无声息地向洞穴最深处的阴影走去。
+空气里的腥臊味越来越浓，混杂着某种腐败与生命交织的气息。
+转过狭窄的石角，眼前出现了微弱的橘红色火光。
+盲眼巫祝Yeg坐在石堆边，骨瘦如柴的身体缩在灰黑色的破兽皮里，手中捏着那根烧得焦黑的木棍。
+在距离火堆两米远的凹坑里，那座如同肉山般庞大的巢母正发出沉重而缓慢的呼吸声。
+Khoa走到炭火旁，没有发出任何多余的声响，缓缓盘腿坐了下来。
+还没等他掏出怀里的熟肉，也没等他张口说话。
+对面的瞎子老巫祝却微微动了动耳朵，残破的鼻翼抽动了一下，那张满是白翳与烂疮的干瘪脸庞，缓缓转向了Khoa的方向。
+炭火的余烬映在Yeg毫无光彩的死鱼眼里。
+老巫祝干瘪的嘴唇动了动，声音沙哑得像两块磨损的石片在摩擦：
+“Ko……”
+“你……想要什么？”
 
-(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)

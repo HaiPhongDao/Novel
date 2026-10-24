@@ -73,3 +73,6 @@
 - Khoa nói với Gorr: chỉ Ko dụ được cá to ra khỏi khe đá khi nước lạnh.
 - Yeg có một cây gậy gỗ khô; gõ vào vách khi nói trước cả hang. Yeg nói trước mặt Gorr: con non là lương cho mùa lạnh.
 
+- Giáo gỗ (đoạn 012): cành gỗ cứng dài ~1 m, vót nhọn bằng mảnh đá lửa, hơ đầu trên than cho cứng thành vỏ than. Nhóm năm mỗi con một cây, giấu dưới bùn và lá khô ở hố đất thượng nguồn 冷溪.
+- Cá to mùa lạnh (đoạn 012): chen trong hốc vũng sâu sát vách đá bị nước khoét (nước ngang ngực con non), ~0,5 kg, dài ~40 cm, Writer gọi "冷水黑斑鱼". Đâm bằng giáo: một con khuấy hốc, một con đâm, hai con chặn cửa vũng.
+- Gorr khen: "Ko……很好！" "明天……还要！" (đoạn 012).
