@@ -1,7 +1,7 @@
 """Gửi một tin nhắn tới Gemini trong Google AI Studio qua Edge đang mở sẵn (CDP), lưu câu trả lời ra file.
 
-Edge phải chạy bằng profile riêng có cổng debug: toolsedge_debug.cmd
-(lần đầu: toolsedge_debug.cmd -Login, đăng nhập 3 tài khoản Google rồi đóng Edge).
+Edge phải chạy bằng profile riêng có cổng debug: tools/edge_debug.cmd
+(lần đầu: tools/edge_debug.cmd -Login, đăng nhập 3 tài khoản Google rồi đóng Edge).
 
 Dùng:
     # mở session mới (SI + session-start), tự đổi tài khoản /u/0 → /u/1 → /u/2 khi hết quota
@@ -230,7 +230,7 @@ def main():
         try:
             browser = pw.chromium.connect_over_cdp(f"http://127.0.0.1:{args.port}")
         except Exception as e:  # noqa: BLE001
-            log(f"không nối được Edge ở cổng {args.port} — chạy tools\edge_debug.cmd trước ({e})")
+            log(f"không nối được Edge ở cổng {args.port} — chạy tools/edge_debug.cmd trước ({e})")
             return 2
         page = get_page(browser)
         page.set_default_timeout(30_000)
