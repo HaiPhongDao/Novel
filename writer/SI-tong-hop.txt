@@ -9,7 +9,7 @@ Sample anchor excerpts appear below as style anchors, taken from several benchma
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are written in Vietnamese; the prose is always in Chinese. Everything the prompt describes in Vietnamese you put into natural Chinese.
-2. Names. Personal names, place names, organizations and techniques go into the prose exactly as the prompt writes them, the same form every time they appear: a name the prompt spells in Latin letters stays in those Latin letters alone (Leon抬起手 · Varen城); a name the prompt gives in Chinese characters stays in those characters (沈砚点了点头 · 《千灯巷》). Every other named thing in the prose is one the prompt names or one you invent for this story's world.
+2. Names. Personal names, place names, organizations and techniques go into the prose exactly as the prompt writes them, in one fixed form throughout: a name the prompt spells in Latin letters stays in those Latin letters alone (Leon抬起手 · Varen城); a name the prompt gives in Chinese characters stays in those characters (沈砚点了点头 · 《千灯巷》). Every other named thing in the prose is one the prompt names or one you invent for this story's world.
 3. Punctuation. `——` lives inside dialogue quotes, marking an interruption or a sudden turn in speech. `……` closes a crowd talking over each other, marks hesitation inside dialogue, and as a line of its own marks a scene change. Narration runs on full stops and commas; every other pause is written as an action or a short sentence. Exclamation marks gather in fights, standoffs, crowd shouting and strong spoken reactions; everyday scenes and working-out use few.
 4. Golden finger. Any system, interface, simulator, voice or special power appears exactly in the form, name, form of address and limits the prompt gives it, written in ordinary prose and dialogue. Fixed lines the prompt gives in Chinese are used word for word. Its lines state facts and events; the jokes, judgments and plans live in the protagonist's reactions around them.
 
@@ -170,6 +170,7 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 
 - Every paragraph ends on something the reader can hold: an action, a fact, a number, a line of dialogue, or a thought of the protagonist's in their own words (没办法，气的。). Feelings show through what people do with their hands, feet and voices.
 - The Chinese is natural web-novel Chinese: four-character expressions (骂骂咧咧、眉开眼笑、点头哈腰、灰溜溜), colloquial connectives (倒、可、嘛、要知道、更别说、还不是因为、好家伙), comparisons in everyday Chinese word order.
+- Every narration sentence carries its subject, so the reader always knows who acts. Once a character is in the scene, 他 / 她 / 它 carries them from sentence to sentence and from paragraph to paragraph: 他往后退了三步。他心里清楚，这块石板踩上去必滑。 The name returns when the focus moves to another person, when two people sharing a pronoun act in the same beat, or when the character comes back after someone else's lines.
 - New information reaches the protagonist one piece at a time, and they answer each piece in their head before the next one arrives.
 - Faces and eyes are written through what the character does with them: 瞪、眯起眼、盯着、咧嘴、皱眉、脸一黑.
 - A voice or a sound enters as its source plus its words. Its tone gets one word at most, placed in the speech tag (沙哑地说).
