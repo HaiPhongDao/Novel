@@ -9,3 +9,4 @@ Lượt 1: `../archive/luot-1/handoff/sessions.md`.
 | S3 | 005, 006 (cả hai ĐẠT sửa nhẹ) | `handoff/session-start.md` (gói tới 004 + prompt 005), API gemini-3.6-flash | |
 | S4 | 007–011 (đều ĐẠT sửa nhẹ; 011 có dấu hiệu trượt nhẹ) — Tác giả giữ session tới khi thấy trượt | `handoff/session-start.md` (gói tới 006 + prompt 007), AI Studio gemini-3.6-flash | |
 | S5 | 012, 013 (cả hai ĐẠT sửa nhẹ) | `handoff/session-start.md` (gói tới 011 + prompt 012), AI Studio **gemini-3.8-flash** thinking High, Agent chạy qua `tools/aistudio_run.py` | Đổi model theo Tác giả 24/10 |
+| S6 | 014 (ĐẠT sửa nhẹ) | `handoff/session-start.md` (gói tới 013 + prompt 014), AI Studio gemini-3.8-flash thinking High, Agent chạy qua `tools/aistudio_run.py` | |

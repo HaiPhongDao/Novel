@@ -62,3 +62,5 @@
 2026-10-24 | doan-012 | Mở session S5 (khuyến nghị ở review 011). Review: ĐẠT (sửa nhẹ), 3.493 chữ Hán. Sửa "两条大鱼被重重扔" → "四条". Nhận canon: giáo gỗ hơ lửa ~1 m giấu ở hố đất; cá to trong hốc vũng sâu (~0,5 kg/con, "冷水黑斑鱼") | Review | Agent (ghi log)
 2026-10-24 | doan-013 | Outline 011–012 "Yeg chọn phe" + chuẩn bị (dây ném đá, ngách hẹp). Dừng ở Khoa đo ngách | Dàn ý | Agent (ghi log)
 2026-10-24 | doan-013 | Review: ĐẠT (sửa nhẹ), 2.046 chữ Hán. Sửa số ngày tới tuyết sáng Ngày 15: 46 → 45. Nhận canon: Yeg đưa viên sỏi đen, đòi con dao của Gorr; dây ném đá vỏ liễu; ngách hẹp ~45 cm | Review | Agent (ghi log)
+2026-10-24 | doan-014 | Mở session S6 (2 đoạn/session). Outline 011–012 "lật đổ Gorr, Gorr chết" (Tác giả duyệt 22/10): Khoa cắt cống còn ~1 kg để Gorr tự đi vào ngách hẹp | Dàn ý | Agent (ghi log)
+2026-10-24 | doan-014 | Review: ĐẠT (sửa nhẹ), 2.852 chữ Hán. Gorr chết; Zag lõm ngực (còn sống), Nub trầy vai. Bộ lạc 158 | Review | Agent (ghi log)

@@ -80,3 +80,6 @@
 - Yeg đứng về phía Ko (đoạn 013): Yeg ấn vào tay Khoa một viên sỏi đen trong đống 112: "活下来……把Gorr的刀……拿来给我。" "拿不来……这颗石头……就是你的。" Lúc Gorr chết, Yeg sẽ gõ gậy nói Ko là thủ lĩnh.
 - Dây ném đá (投石索, đoạn 013): vỏ trong cây liễu bện ba sợi ~1 m, túi đựng đá ở giữa, một đầu vòng xỏ ngón giữa; đá cuội cỡ quả trứng. Nhóm năm mỗi con một sợi, giấu ở hố đất.
 - Lối đá từ tảng đá giữa hang xuống hố ổ (đoạn 013): chỗ hẹp nhất giữa hai mỏm đá ~45 cm; Gorr phải nghiêng vai mới lách qua.
+
+- Gorr chết (đoạn 014, chiều Ngày 16) trong chỗ hẹp nhất của lối xuống hố ổ: Snik ném đá từ gờ đá (thái dương, cổ tay), Khoa đâm giáo và cọc gỗ ngắn vào động mạch cổ; Nub đâm hàm dưới. Zag bị Gorr đạp lõm ngực; Nub trầy vai.
+- Con dao sắt của Gorr: lưỡi ~40 cm, mẻ nhiều chỗ, gỉ.

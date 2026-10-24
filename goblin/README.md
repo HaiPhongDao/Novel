@@ -34,5 +34,6 @@ Từ đoạn 004 Agent tự chạy Writer: `python tools/gemini_write.py goblin 
 | 011 | ✅ | ✅ (Tác giả chạy) | ⚠️ ĐẠT (sửa nhẹ) — dấu hiệu trượt nhẹ | |
 | 012 | ✅ | ✅ (Agent, AI Studio gemini-3.8-flash qua aistudio_run.py) | ⚠️ ĐẠT (sửa nhẹ) — dài ~1,7 lần | |
 | 013 | ✅ | ✅ (Agent, AI Studio gemini-3.8-flash qua aistudio_run.py) | ⚠️ ĐẠT (sửa nhẹ) | |
+| 014 | ✅ | ✅ (Agent, AI Studio gemini-3.8-flash qua aistudio_run.py) | ⚠️ ĐẠT (sửa nhẹ) — Gorr chết | |
 
 Cách chạy một đoạn: `../README.md` mục "Một vòng đoạn".
