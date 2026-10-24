@@ -56,16 +56,22 @@
   async function setModel(model) {
     if (hasId($('button.model-selector-card'), model)) return;
     $('button.model-selector-card').click();
-    const row = await waitFor(() => [...document.querySelectorAll('ms-model-carousel-row')].find(r => hasId(r, model)),
-      10000, `model ${model}`);
+    const find = () => [...document.querySelectorAll('ms-model-carousel-row')].find(r => hasId(r, model));
+    await waitFor(() => $('ms-model-carousel-row'), 10000, 'danh sách model');
+    if (!find()) {  // mặc định chỉ hiện "Featured"; model cũ hơn nằm trong "All"
+      [...document.querySelectorAll('button, [role=tab]')].find(b => b.innerText.trim() === 'All')?.click();
+    }
+    const row = await waitFor(find, 10000, `model ${model}`);
     row.querySelector('button.content-button').click();
     await sleep(1000);
-    closePanel();
+    if ($('ms-model-carousel-row')) closePanel();
     await sleep(300);
+    await openRunSettings();  // ở tab hẹp, "Close panel" có thể đóng luôn bảng Run settings
     if (!hasId($('button.model-selector-card'), model)) throw new Error(`không chọn được model ${model}`);
   }
 
   async function setThinking(level) {
+    await openRunSettings();
     const sel = $('mat-select[aria-label="Thinking Level"]');
     if (!sel || sel.innerText.trim() === level) return;
     sel.click();
@@ -77,6 +83,7 @@
   }
 
   async function setSi(si) {
+    await openRunSettings();
     $('button.system-instructions-card').click();
     const box = await waitFor(() => $('textarea[aria-label="System instructions"]'), 10000, 'ô System instructions');
     setText(box, si);
@@ -84,6 +91,7 @@
     if (box.value.length !== si.length) throw new Error('SI dán không đủ');
     closePanel();
     await sleep(300);
+    await openRunSettings();
   }
 
   // Bản markdown qua nút "Copy as markdown", chặn writeText để không đụng clipboard của máy.
@@ -179,9 +187,22 @@
         if (running() || document.querySelectorAll('ms-chat-turn').length > n) return { started: true };
         const e = pageError();
         if (QUOTA.test(e)) return { error: e, kind: 'quota' };
+        // Hộp thoại mời nâng cấp gói = tài khoản này hết lượt (hoặc không có lượt) cho model này.
+        const up = [...document.querySelectorAll('mat-dialog-container, .cdk-overlay-pane')].filter(visible)
+          .find(d => /Go further with AI Studio|ways to upgrade|plan limits/i.test(d.innerText));
+        if (up) {
+          up.querySelector('button[aria-label*="lose" i], button')?.click();
+          return { error: `hộp thoại nâng cấp: ${up.innerText.trim().replace(/\s+/g, ' ').slice(0, 120)}`, kind: 'quota' };
+        }
         await sleep(500);
       }
-      throw new Error(`bấm Run nhưng không chạy: ${pageError() || 'không rõ lý do'}`);
+      const b = $(RUN);
+      const dialogs = [...document.querySelectorAll('mat-dialog-container, .cdk-overlay-pane')].filter(visible)
+        .map(d => d.innerText.trim().replace(/\s+/g, ' ').slice(0, 200)).filter(Boolean);
+      throw new Error(`bấm Run nhưng không chạy: ${pageError() || 'không rõ lý do'} [nút "${b?.innerText.trim()
+        .replace(/\s+/g, ' ')}" disabled=${b?.disabled} aria-disabled=${b?.getAttribute('aria-disabled')} | `
+        + `ô prompt ${$(PROMPT)?.value.length} | lượt ${document.querySelectorAll('ms-chat-turn').length} | `
+        + `hộp thoại: ${dialogs.join(' // ') || 'không'}]`);
     },
 
     async status() {
