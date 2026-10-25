@@ -2,14 +2,14 @@
 
 - Brief: `briefs/chuong-001.md` · SI: `gemini/si-dan-gemini.txt` v2 · chạy `--new`, 125s
 - Bản A (nguyên): `chapters/chuong-001-a.md` — 2.786 字
-- Bản B (10 chỗ sửa tay + cắt 123 字): `chapters/chuong-001-b.md` — 2.663 字
+- Bản B (13 chỗ sửa tay + cắt 139 字): `chapters/chuong-001-b.md` — 2.647 字
 - Thinking: `archive/thinking-001a.md`
 
 ## 1. Bảng số
 
 | chỉ số | mẫu (886 ch) | mẫu ch1 | A | B |
 |---|---|---|---|---|
-| 字 | 2.122 (trung vị) | 2.273 | 2.786 | **2.663** |
+| 字 | 2.122 (trung vị) | 2.273 | 2.786 | **2.647** |
 | chữ / câu | 23,9 | 28,4 | 20,0 | **21,3** |
 | lượt thoại | 20 | 14 | 47 | 47 |
 | chữ / lượt | 22,4 | 29,6 | 20,2 | 19,9 |
@@ -30,6 +30,9 @@
 | so sánh người kể | `卡尔的声音冷得像结了冰渣` | `卡尔报完，抬起眼看过来` |
 | nhãn ngữ điệu | `阿德里安平静地说道` (×1), `语气没有半点起伏` (×1), `冷冷地开口…声音像深冬磨石般干涩` (×1) | bỏ nhãn, giữ động tác (`手里的银刀没有放下`) |
 | phủ định lặp | câu mặc cả `语气没有半点起伏，“行就放人，不行…` | bỏ vế `没有半点起伏` |
+
+Ba chỗ nữa **`soat_van.py` không bắt** (đã grep tay, ghi thành KN30): `目光如鹰隼般锐利` → bỏ vế so sánh;
+`四指粗糙如铁钩` → `指节粗大`; `阿德里安平静地命令道` → `命令道`. Tổng cộng 13 chỗ.
 
 Nhận xét: **hai tật này sống sót qua hai lần chạy liên tiếp** (test 01 sạch, ch1 bẩn) — tức chúng là
 biến thiên của lần chạy chứ không phải lỗi SI. Sửa tay 10 chỗ rẻ hơn một vòng SI mới.
