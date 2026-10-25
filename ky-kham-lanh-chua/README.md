@@ -18,6 +18,7 @@ thử một cảnh của bộ mẫu để so.
 | `briefs/test-mau-01.md` | prompt test 01: chỉ có sự việc, không dặn cách viết |
 | `chapters/test-01.md` | bản ra: 2.645 字, 155s |
 | `reviews/test-mau-01.md` | bảng số + đọc bốn câu hỏi + 4 sửa cho SI v2 |
+| `reviews/so-sanh-test-01.md` | **so nguyên văn ↔ bản SI từng đoạn** (mở cảnh, ra lệnh, cung thủ chậm, bảng exp, kết cảnh) |
 | `archive/thinking-test-01.md` | thinking của lần chạy (đọc khi SI bị hiểu sai) |
 
 ## Trạng thái
