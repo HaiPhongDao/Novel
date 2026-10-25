@@ -26,6 +26,27 @@ Mở session: dán `handoff/session-start.md`. Đoạn thứ 2 trong cùng sessi
 - `navigator.clipboard.writeText` bị treo. Cách chạy được: JS gán văn bản vào một `<textarea>` ẩn, `focus()` + `select()`, rồi gửi phím thật `ctrl+c` bằng công cụ trình duyệt.
 - `powershell -ExecutionPolicy Bypass -File tools/save_clip.ps1 <truyện>/chapters/doan-XXX.md "<ghi chú session>" -ExpectLen <độ dài>` — từ chối lưu nếu clipboard bị thứ khác ghi đè. Đối số `-ExpectHead` không dùng được với chữ bắt đầu bằng ngoặc kép cong (PowerShell vỡ chuỗi).
 
+## Đọc phần thinking của Gemini (thêm 25/10)
+
+`aistudio_run.py --think-out <file>` lưu phần suy nghĩ của model cho lần chạy đó (extension mở khối
+`ms-thought-chunk` rồi đọc). Dùng khi cần biết model **hiểu sai chỗ nào** trong SI, thay vì đoán từ văn.
+
+Ba thứ đọc được ở lần chạy đầu (SI v8, bản M):
+
+1. **Luật nhịp bị đọc thành luật đếm.** Thinking nhắc "one-beat-per-paragraph" 7 lần và "each paragraph
+   contains a single sentence" 3 lần — model tự kiểm tuân thủ và viết đoạn một câu hàng loạt. Vì thế câu
+   cụt và nhịp gãy không chỉ do model, mà do luật viết dạng đếm được.
+2. **Lẫn tên nhân vật.** Thinking gọi MC là "Errick" 3 lần và tưởng cảnh ở "Flint Guild" — do Emeric và
+   Verrick gần âm, và prompt đưa Verrick vào muộn.
+3. **Đua đủ chữ.** Thinking có "aiming to reach the character count" và hai lần "Expanding the Scene" —
+   model kéo dài cảnh để khớp con số trong prompt, sinh đoạn đệm.
+
+Cách sửa (SI v9 + prompt v8): bỏ con số khỏi luật nhịp, đổi thành "một beat một đoạn: một câu, hoặc hai
+khi câu sau mang kết quả, ba khi là một cuộc trao đổi"; đổi đích độ dài thành **khoảng 1400–1800**; và
+prompt liệt kê nhân vật kèm vai (Emeric là người viết, Verrick chỉ được nhắc, không có mặt).
+
+Lần chạy lại: thinking chỉ còn 1 lần "single sentence", 0 lần "one-beat-per-paragraph"; bản N ra 1.599 字.
+
 ## Sau khi lưu
 
 Review (AGENT.md mục 5) → đạt thì `tools/chot_doan.py` (ghi sổ + commit + push); hỏng thì `archive/` + sửa prompt + `build_pack.py --prompt` + chat mới. Đóng tab Chrome khi xong đợt.
