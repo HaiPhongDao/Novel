@@ -1,24 +1,23 @@
-# Review chương 1 — 全民副本
+# Review chương 1 — 全民副本 (bản B: 赋形)
 
-## Đối chiếu với bài mẫu (vo-dich/全球游戏：我开挂无敌)
+## Cái đã sửa được
+Bản A có chỗ vô lý: người 21 tuổi đấm xuyên tường bê tông. Bản B bỏ hẳn chuyện đó bằng luật **赋形** — vào
+phó bản thì không còn hình người, sức mạnh phải mọc ra bằng 进化点.
 
-| dấu hiệu của mẫu | bản A có? | số đo |
-|---|---|---|
-| đoạn cực ngắn, có đoạn một cụm | có | 139 đoạn / 2.086 字 → **15 chữ/đoạn**, 48 đoạn ≤10 chữ |
-| dòng hệ thống 【】 đứng riêng, xếp chồng | có | **32 dòng** |
-| con số leo thang trong một chương | có | 10 → 0 → 1.000 → 0 → 12.400 |
-| vòng tiêu → ×100 → mạnh hơn | có | thuốc 10 点 → 1.000 点; 裂石拳 → 100 quyển → 满级 |
-| địch ngơ ngác / 旁观者 hét | có | 王胖子 hét 6 lần; một đoạn vào đầu 血尸 |
-| MC một câu tỉnh bơ | có | “太慢了。” · “这才刚回本。” · “少见多怪。” |
-| hook cuối chương | có | boss 血月屠夫 + 【首杀奖励：S级宝箱】 |
+- Hình được gán: **盲眼蝾螈 F级幼体, 9.6 cm, 11 g, 力量 0.1** — cụ thể tới mức người đọc tin.
+- 王胖子 thành **con thỏ**, và nỗi sợ của nó được viết bằng tiếng thú (“吱——？！”).
+- 再生 +100: đuôi bị cắn đứt mọc lại trong một nhịp thở.
+- 酸腺 +100: phun axit làm tan xác con 巨蚺 ba mét — 爽点 đến từ **cơ thể**, không từ nắm đấm.
+- Số nhảy: 10 → (返还) 100 cấp → 1.000 → **12.400**.
+- Một đoạn vào đầu con 巨蚺 (“这小泥鳅甚至不配塞牙缝”) — đúng kiểu mẫu.
+- Hook: 王胖子 bị 铁羽巨鹰 tha lên trời + 【队友濒死警告】 + 三阶领主 披甲巨鳄.
 
 ## Lỗi
-1. **Dài quá**: 2.086 字, prompt xin 1.500–1.750 (+19%). Với thể loại này 2.000 字 là bình thường, nên sửa
-   ngưỡng chứ không sửa văn: đặt 1.900–2.200.
-2. Hai chỗ so sánh của người kể: “宛若平地惊雷”, “语气平静得像是在菜市场挑白菜”. Trong 爽文 chấp nhận được,
-   nhưng nếu lặp ở chương sau thì cắt.
-3. “防空警报凄厉地撕扯着天空” — động từ hơi quá; mẫu dùng “轰！” rồi vào việc.
+1. **Dài quá: 2.819 字** (ngưỡng 1.900–2.200, +28%). Chỗ dôi ra là tả: “粉白色的半透明皮肤薄如蝉翼”,
+   “惨白森冷的倒钩毒牙”, “浓稠如墨的惨绿色酸液”.
+2. **Tính từ ken dày**, trái với luật của SI. Sửa bằng cách cắt, không thêm luật.
+3. Hai câu so sánh của người kể: “快若疾雷”, “宛如重炮轰出的高压水枪”.
 
 ## Kết luận
-Bản A dùng được làm bản chuẩn chương 1. Chương 2 viết theo đúng khung: 赵天成 vào cướp boss → MC tiêu
-12.400 点 mua 疾风步 → 满级 → một quyền giết boss → mở hộp S → 打脸 → 首杀 全服.
+Luật 赋形 giải quyết đúng chỗ vô lý anh chỉ ra. Cần một lượt biên tập cắt ~600–700 字 tả và giữ nguyên toàn
+bộ nhịp số; nếu cắt tay xong thì đây là bản chuẩn chương 1.
