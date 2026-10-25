@@ -14,6 +14,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`lam-game/`](lam-game/README.md) | Chỉ Là Game, Cần Gì Thật — người làm 游戏策划 xuyên vào sinh viên vừa tốt nghiệp ở thế giới game full-dive tôn sùng độ chân thực; không kim thủ chỉ | Bible + dàn ý arc 1 + prompt đoạn 001 |
 | [`goblin/`](goblin/README.md) | Goblin Khai Hoá — thầy giáo hoá từng làm kỹ sư lò cao xuyên vào con goblin còi vừa nở, ở cái hang mà tù trưởng ăn con non khi đói | Lượt 2 (prompt ngắn): prompt đoạn 001–002 |
 | [`lanh-chua-khoa-hoc/`](lanh-chua-khoa-hoc/README.md) | Lãnh Chúa Khoa Học — CEO ngành sản xuất chính xác xuyên vào lãnh chúa trẻ vùng mỏ đá xỉ, đúng lúc phép thuật thành ngành công nghiệp; không hệ thống, không tự tay làm được nghề | Mới mở: 3 phương án tiền đề + bible nháp (overview, world, 5 nhân vật, arc 1) chờ Tác giả duyệt |
+| [`ky-kham-lanh-chua/`](ky-kham-lanh-chua/README.md) | 骑砍领主：铁脊要塞 — con thứ nam tước biên bắc, 500 nông nô và một pháo đài sắp thất thủ trong ba mươi ngày; bảng 骑砍 trong đầu, cày là có | Pha đo giọng: phân tích mẫu 886 chương + SI v1 (7 anchor) + test 01 trên cảnh ch8; tiền đề chờ chốt |
 
 ## Cấu trúc
 
