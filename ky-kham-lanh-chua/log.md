@@ -85,3 +85,11 @@ mục 4 của skill. | Số lượt do phạm vi thời gian + số người có
 (腿伤 của 卡尔), MC tính thành tiếng, lệnh dạng 吧/去/给我. Sửa tay: 老爷 → 少爷 ×3; `经验加80` ×3 mâu thuẫn
 bảng 0/2000 → đổi sang điểm đơn vị (`队伍经验加9`); ghi luật exp + track 4阶 /2000 vào glossary. | 21,1 字/câu
 khớp mẫu 21,2 | Agent
+
+2026-10-26 | SI v9 + đoạn 001-f (viết lại từ đầu) | Tác giả: thêm giới hạn 2.000 字 vào prompt, tên riêng
+bằng chữ Latin, viết lại từ đoạn 1, duyệt mới đi tiếp. SI v9: FIXED CONVENTIONS 2 đổi sang tên Latin
+(Adrian · Karl · Gerry · Cole · Iron Ridge · Vilan · House Losa), bảng in cả tên Latin; câu về độ dài trong SI
+nhường cho con số ghi trong prompt. Bản F: 1.746 字, 10 lượt, 26,0 字/lượt, 0 tật (sau 1 sửa tay), số khớp
+toàn bộ. Writer tự làm: Gerry tự nêu giá bằng luật, MC xếp từng đồng vàng lên nắp thùng, câu chốt là câu hỏi
+của Karl. | Lệch dàn ý: Karl thành hầu 16 tuổi (đã sửa), Cole 6 năm (đã sửa), **前任长官 đã bỏ chạy** → phải đổi
+nội dung đoạn 002–003: thành rỗng + 40 lão binh bị bỏ lại | Agent

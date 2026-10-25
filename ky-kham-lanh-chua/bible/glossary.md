@@ -1,4 +1,4 @@
-# Glossary — 骑砍领主：铁脊要塞 (v0, chờ chốt cùng bible)
+# Glossary — 骑砍领主：Iron Ridge (v0, chờ chốt cùng bible)
 
 Mọi dòng dưới đây là **đề xuất** lấy từ cách bộ mẫu dùng, chưa phải canon. Chốt xong thì mọi brief chép
 nguyên văn từ đây, không tự đặt lại.
@@ -23,7 +23,7 @@ mốc đầu tiên của bậc mới KHÔNG làm mất số dư cũ — mọi d�
 ## 2. Bậc lính (兵种)
 
 一阶农奴 → 二阶民兵 → 三阶步兵 / 三阶弓箭手 → 四阶熟练步兵 / 四阶熟练射手 → 五阶以上 là quân vương quốc.
-Viết `二阶.500法兰克民兵（495/500）` → đổi sang tên truyện: `二阶.500维兰民兵（495/500）`.
+Viết `二阶.500法兰克民兵（495/500）` → đổi sang tên truyện: `二阶.500Vilan 民兵（495/500）`.
 
 ## 3. Tước vị và xưng hô
 
@@ -48,5 +48,5 @@ Viết `二阶.500法兰克民兵（495/500）` → đổi sang tên truyện: `
 
 ## 5. Tên riêng (đổi cùng lúc với bible)
 
-阿德里安 (MC) · 卡尔 (phó quan) · 洛伦 (kỵ sĩ trẻ) · 洛萨家族 (nhà MC) · 维兰王国 · 铁脊要塞 (nơi đóng quân) ·
-巴罗尔城 (tiền tuyến) · 兽人王庭 (địch lớn) · 豺狼人 (địch trước mắt).
+Adrian (MC) · Karl (phó quan) · 洛伦 (kỵ sĩ trẻ) · House Losa (nhà MC) · Vilan · Iron Ridge (nơi đóng quân) ·
+Barol (tiền tuyến) · 兽人王庭 (địch lớn) · 豺狼人 (địch trước mắt).

@@ -1,12 +1,11 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v7, 26/10/2026.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v9, 26/10/2026.
 7 anchor chép nguyên văn từ `mau-tham-khao.txt`, có script kiểm khớp nguồn.
 
-v2: 4 dòng PART 2 (sổ riêng; tự gọi 少爷; câu chửi đứng trần; mở cảnh bằng tiếng). v3: 2 dòng luật thoại
-(nội dung + đáp chủ đề ngoài việc). v4: bỏ trần độ dài, đơn vị là ĐOẠN. v5: lệnh phải có hình dạng lời nói.
-v6: sàn độ dài câu (~23 字/câu).
-**v7 (26/10, sau khi Tác giả nói "thoại của MC luôn làm tôi khó chịu"):** 3 dòng về QUYỀN LỰC TRONG THOẠI —
-hắn chỉ ra lệnh khi đã trả giá mua quyền (tiền, người, bằng chứng), người không nợ hắn thì phải mua/nhờ/hỏi/
-nịnh; mỗi cảnh một câu hỏi thật + một lượt ngoài việc; mỗi đoạn tối đa một câu ngầu và không đặt ở cuối đoạn.
+v2: 4 dòng PART 2. v3: 2 dòng luật thoại. v4: đơn vị là ĐOẠN. v5: lệnh có hình dạng lời nói. v6: sàn ~23 字/câu.
+v7: quyền lực trong thoại + câu hỏi thật + lượt ngoài việc + tối đa một câu ngầu. v8: số 字 ghi trong prompt
+thắng luật "không chỉ tiêu" của SI.
+**v9 (26/10): tên riêng bằng chữ Latin trong chính văn** — Adrian · Karl · Gerry · Cole · Iron Ridge ·
+Vilan · House Losa; danh từ chung và chức tước giữ chữ Hán (少爷 · 大人 · 豺狼人); bảng in cả tên Latin.
 
 ===== BẮT ĐẦU SI =====
 
@@ -23,7 +22,7 @@ Sample anchor excerpts appear below as style anchors. They demonstrate TECHNIQUE
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are written in Vietnamese; the prose is always in Chinese.
-2. Names. Personal and place names go into the prose in the spelling the prompt gives, and that spelling alone is the name every time it appears: 阿德里安 · 洛伦 · 卡尔 · 铁脊要塞 · 维兰王国. Chinese words the prompt already gives are used as given: 洛萨家族 · 兽人王庭 · 豺狼人.
+2. Names. Personal and place names stay in Latin letters inside the Chinese prose, spelled exactly as the prompt gives them, every single time: Adrian 抬起手 · Karl 点了点头 · Iron Ridge 的东墙 · House Losa 的马车. Titles and common nouns stay Chinese: 少爷 · 大人 · 爵士 · 豺狼人 · 兽人王庭. The panel prints the Latin name as well: 【宿主：Adrian（3阶青铜骑士 481/500）（男爵次子）】.
 3. Punctuation. `——` lives inside dialogue quotes, marking an interruption or a sudden turn in speech. `……` closes a crowd talking over each other and marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene. Exclamation marks are dense in orders, fights and standoffs, sparse in talk about money and grain.
 
 PART 1 — STYLE
@@ -148,7 +147,7 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - A gain is paid for in the same scene: swings, marches, grain bought with his own coin, a hand that will not close the next morning.
 - The men are the ledgers: how many, what grade, how many days of food, how many will run. Numbers between two sides are compared out loud before a fight.
 - After a noble-sounding line or a public gesture, the narrator gives one line of what the protagonist is actually counting: heads, experience, days of grain, the road out. One such line to a scene, and it is the narrator talking, not a confession.
-- In his own head he uses the household's title for himself, the way the servants say it: 他阿德里安少爷. Once a chapter at most, where it stings.
+- In his own head he uses the household's title for himself, the way the servants say it: 他Adrian少爷. Once a chapter at most, where it stings.
 - A curse or a private thought stands bare on its own line and takes no quotation marks: it belongs to his head, not to the room.
 - A scene opens on a sound, a smell or a line already in progress. The reason for it arrives after the reaction.
 - Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
@@ -176,7 +175,7 @@ LENGTH
 
 - Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences.
 - The average sentence sits near twenty-three characters. A run of sentences under fifteen characters reads as a list of stage directions, not as prose; merge them.
-- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number. This governs the segment only — the sentences keep their own length.
+- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number. This governs the segment only — the sentences keep their own length — and a number given in the segment prompt wins over it.
 - A speech turn is a complete sentence: who speaks, what he wants done, to whom, and the number that goes with it.
 - End on a bigger number, a bigger enemy, or a man walking in with news.
 
@@ -192,9 +191,9 @@ PART 4 — GOLDEN FINGER
 
 The panel is a soldier's ledger the protagonist can read. It prints what is true at that moment and nothing else: himself with rank, grade and progress; his officers; his skills with a grade and progress; his troops by grade and headcount with progress; morale; the ceiling on how many men he can hold.
 
-【宿主：阿德里安（3阶青铜骑士 489/500）（男爵次子）】
+【宿主：Adrian（3阶青铜骑士 489/500）（男爵次子）】
 【技能：精通.骑士八技（494/500）· 未入门.燃血（96/100）】
-【士兵：二阶.500 维兰民兵（495/500）】
+【士兵：二阶.500 Vilan 民兵（495/500）】
 【士气：69/100】
 【人数上限：500】
 

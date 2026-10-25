@@ -235,3 +235,33 @@ về 23,4 字 (mẫu 24,5) — lần đầu tiên cả hai trục khớp mẫu c
 004 chỉ có bốn người nói; muốn dày như mẫu thì phải đưa thêm người vào cảnh (lính gác, đầu đàn nông nô, lính
 trên tường), không phải thêm chỉ dẫn thoại.
 
+## 12. Viết lại từ đoạn 001 theo luật mới (prompt ngắn + 2.000 字 + tên Latin) — bản F
+
+Luật mới: giới hạn ~2.000 字 **ghi trong prompt**; tên riêng **chữ Latin** trong chính văn (SI v9, FIXED
+CONVENTIONS 2 viết lại); prompt theo mẫu `_mau-prompt-ngan.md` (không beat, không chỉ định lượt thoại).
+
+Bản F: **1.746 字 · 10 lượt thoại · 26,0 字/lượt · câu dài trung bình 26,7 字** · 0 phủ định · 0 `实` ·
+0 nhãn ngữ điệu · 0 so sánh người kể (sau khi sửa 1 câu). Số khớp toàn bộ: 512→500, 30→24→6, 13×800 =
+10.400 斤, 1.000 斤/ngày = 10 ngày, 1.440 铜币 = 720 斤 = chưa đủ một ngày, 24 把 rìu.
+
+**Writer tự làm được (không có trong prompt):** Gerry tự nêu giá và tự lý sự bằng luật trang viên
+(`一个壮年奴隶在边境集市能卖两个金币…赎买死囚也得照价补足损失`); MC trả tiền bằng cách **xếp từng đồng lên
+nắp thùng yến mạch** thay vì đưa túi; MC tránh cúi đầu nhận ơn (`被Adrian侧身避让开来`); và câu chốt là câu
+hỏi của Karl (`“少爷，您要买斧头？”`).
+
+**Bốn chỗ lệch dàn ý — đúng loại lệch Tác giả đã cảnh báo:**
+
+| lệch | xử lý |
+|---|---|
+| Karl bị viết thành **cậu hầu 16 tuổi** (canon: 34 tuổi, cựu lính biên phòng, tay trái bốn ngón) | sửa tay trong bản F; prompt sau **phải có một dòng thân phận cho từng nhân vật có mặt** |
+| Cole "sáu năm" chăn ngựa (canon: tám năm) | sửa tay |
+| **前任长官 đã bỏ chạy, thành không có người chỉ huy** | **đổi dàn ý đoạn 002**: không còn cảnh mặc cả với 代守; thay bằng thành rỗng + 40 lão binh bị bỏ lại, và MC phải quyết định có nuôi họ hay không |
+| 1.746 字, thiếu 254 字 so với mốc 2.000 | prompt sau ghi "2.000 字, không dưới 1.900" thay vì "khoảng" |
+
+**Đề xuất nội dung 002–003 sau khi lệch (chờ Tác giả duyệt):**
+- **002**: vào thành rỗng. 40 lão binh tàn phế bị chủ cũ bỏ lại, không lương, không lương thực, đang tính
+  cướp đoàn xe của Adrian. Hắn phải chọn: đuổi họ đi (mất 40 người biết tường), hay nuôi họ bằng 3.400 斤
+  còn lại (mất hai ngày lương). Đêm: 43 火头.
+- **003**: ngày đầu chặt 120 根 cọc cho khẩu độ 60 步; 9 豺狼人 mò tới; trận đầu; 41 người lên 二阶; và cái
+  giá: treo một kẻ bỏ chạy trước 492 người.
+
