@@ -46,3 +46,8 @@ dài bao nhiêu cũng được miễn là nó không trượt ngữ cảnh, văn
 briefs/chapters/reviews sang `doan-001*`; SI v4 bỏ trần 2.000–2.200 字 và bỏ "about 2,100 characters" ở PART 3,
 thay bằng luật "đoạn dài theo số beat, không có chỉ tiêu 字"; số 字 rời khỏi bảng tiêu chí review. Đoạn 001 giữ
 nguyên 3.108 字, không tách. | Chương chỉ ghép ở khâu biên tập | Tác giả
+
+2026-10-26 | đoạn 001 vòng 3 | Tác giả đọc bản C: "MC vẫn là 起来 thay vì 起来吧/站起来吧". Nguyên nhân: vòng 2
+mới sửa nội dung lượt thoại (thêm lý do, con số), chưa sửa hình dạng — lệnh vẫn là động từ trần. Sửa 15 lượt
+sang dạng nói (吧/去/给我 + 你), đổi cả lý lẽ biện hộ cho 科尔 (养了八年马, muốn chạy thì đã chạy). SI v5 thêm
+luật "spoken shape". Bản D: 3.155 字 · 50 lượt · 34,0 字/lượt · 0 tật. | KN31 | Agent

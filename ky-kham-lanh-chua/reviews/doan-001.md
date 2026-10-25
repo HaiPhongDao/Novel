@@ -96,3 +96,27 @@ Tức mỗi lượt đã dày gấp rưỡi, nhưng chương dài thêm 461 字.
 Đoạn dài bao nhiêu cũng được, miễn không trượt ngữ cảnh và văn phong ⇒ **3.108 字 không phải lỗi**, và số 字
 bị bỏ khỏi bảng tiêu chí từ đây. Cái còn phải theo dõi là lượt thoại (50 so với 20 của mẫu) — nhưng đó là
 tính chất của đoạn có ba cảnh, không phải tật.
+
+## 7. Vòng 3 — Tác giả đọc bản C: "MC vẫn là 起来 thay vì 起来吧/站起来吧"
+
+Vòng 2 mới sửa **nội dung** lượt thoại, chưa sửa **hình dạng lời nói**. Lệnh thoại của MC vẫn là động từ
+trần: `起来。` `站第一排。` `开个价。` `不买粮。` — đó là chỉ dẫn sân khấu, không phải câu nói. Tiếng Trung
+nói ra cần trợ từ và người nhận (吧 / 去 / 着 / 给我 + 你).
+
+| bản C | bản D |
+|---|---|
+| `“起来。”…“回队伍里去，站第一排。让后面的人看清楚…”` | `“起来吧。”…“回队伍里去，站到第一排去。让后面的人都看清楚…”` |
+| `“开个价。”` | `“你开个价吧。”` |
+| `“那就写清楚。”…“写进我的名册。”` | `“那就写清楚吧。”…“写进我的名册里去。”` |
+| `“不买粮。”` | `“粮不买了。”` |
+| `“不分。”…“路上砍。”` | `“不用分。”…“路上砍。”` |
+| `“行。”…“麦子今天就卸到车上，你自己派人去。”` | `“行啊。”…“麦子今天就卸到车上去，你派个人跟着。”` |
+| `“拿这六枚金币去镇上的铁匠铺，全买…”` | `“把这六枚金币拿去镇上的铁匠铺，全换成…”` |
+| `“你要是不认这个账，我现在就去书房…”` | `“你要是连这个账都不认，那咱们就去书房…”` |
+| `“科尔年纪大了，腿脚不利索…”` (biện hộ bằng tuổi tác — không phải lý lẽ) | `“科尔替我母亲养了八年马。他要是想跑，八年前就跑了。”` |
+
+Số bản D: **3.155 字 · 50 lượt · 34,0 字/lượt · 0 tật** (tool + grep tay). Lượt dưới 12 chữ còn đúng ba, và
+cả ba đều là câu đủ nghĩa: `“二少爷……”` (bị cắt lời), `“那今年就不用给我留门了。”`, `“木矛挡不住兽人。”`.
+
+Bài học (đã vào SI v5 + KN31): **nội dung một lượt và hình dạng một lượt là hai lỗi khác nhau.** Thêm lý do và
+con số vào lượt thoại không làm nó thôi giống khẩu lệnh; phải thêm trợ từ và người nhận.

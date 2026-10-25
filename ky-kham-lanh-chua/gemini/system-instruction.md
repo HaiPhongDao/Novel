@@ -1,12 +1,11 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v4, 26/10/2026.
-Dựng từ `writer/SI-template` v3 + khối BANS/LENGTH của `si-khung.md`. 7 anchor chép nguyên văn từ
-`mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19) — có script kiểm khớp nguồn.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v5, 26/10/2026.
+7 anchor chép nguyên văn từ `mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19), có script kiểm khớp nguồn.
 
-v2: PART 2 thêm 4 dòng (sổ riêng sau câu đạo nghĩa; tự gọi 少爷 1 lần/chương; câu chửi đứng trần; mở cảnh bằng
-tiếng). PART 4: exp in thành dòng `叮！`. v3: 2 dòng luật thoại (lượt của MC mang nội dung; đáp lại chủ đề
-ngoài việc). **v4 (26/10): bỏ trần độ dài — đơn vị là ĐOẠN, không phải chương**; đoạn dài bao nhiêu là do số
-beat trong prompt quyết định, không có chỉ tiêu 字. Tác giả: "đoạn dài bao nhiêu cũng được miễn là nó không
-trượt ngữ cảnh, văn phong".
+v2: 4 dòng PART 2 (sổ riêng; tự gọi 少爷; câu chửi đứng trần; mở cảnh bằng tiếng) + PART 4 in exp thành dòng 叮！.
+v3: 2 dòng luật thoại (lượt của MC mang nội dung; đáp lại chủ đề ngoài việc).
+v4: bỏ trần độ dài — đơn vị là ĐOẠN, không phải chương.
+**v5 (26/10): lệnh và lời yêu cầu phải có hình dạng lời nói** — 吧/去/给我 + người nhận; động từ trần trong
+ngoặc kép là chỉ dẫn sân khấu, không phải thoại. (Tác giả bắt: MC vẫn nói `起来。` thay vì `起来吧。`)
 
 ===== BẮT ĐẦU SI =====
 
@@ -154,6 +153,7 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
 - The protagonist's own turns carry the content: what he wants done, from whom, and the reason or the number behind it. A turn of his under ten characters only answers a question that already named the thing.
 - When someone offers a topic that is not business — a wedding, a drink, the road, the weather — he answers it in his own words before he turns back to the account. Ignoring the offer leaves the exchange hollow.
+- An order or a request takes its spoken shape: the verb with 吧, 去 or 给我, and the person it is said to — 起来吧 · 站到第一排去 · 把麦子卸到车上去 · 你给我开个价. A bare stem inside quotation marks (起来。 站好。 开价。) is a stage direction, not a line of speech.
 - Rank and address are fixed and used consistently: 大人、老爷、爵士、长官; a subordinate opens a report with the news first and the number second.
 - Trades and purchases are named with units and rates: coin, bushels, days of march, head of cattle.
 - Background is delivered in the storyteller's voice in one or two paragraphs, tied to a number that matters to the protagonist right now.
