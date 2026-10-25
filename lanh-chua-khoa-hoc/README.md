@@ -12,9 +12,10 @@ Ba phương án tiền đề và lý do loại: `archive/phuong-an-tien-de.md`.
 
 ## Writer
 
-- SI đang dùng: **chưa có.** Dự kiến điền từ `../writer/SI-template` sau khi chốt tiền đề; đề xuất
-  riêng cho truyện này (không hệ thống, kiến thức thay bàn tay vàng) ở `gemini/de-xuat-si.md`.
+- SI đang dùng: `gemini/system-instruction-v13.md` (bản lõi 4 nguyên tắc, 4 ràng buộc, 3 anchor — 4.557
+  ký tự). Bản test trên truyện mẫu: `gemini/test-giong/` (SI đổi tên riêng, hai cảnh 女巫 ch.5 và ch.47).
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
+- Đo: `python tools/soat_van.py <file>` để đếm, `--list` để in từng chỗ khớp.
 
 ## Điểm khác biệt so với Lãnh Chúa Mang Chip
 
@@ -31,4 +32,4 @@ Ba phương án tiền đề và lý do loại: `archive/phuong-an-tien-de.md`.
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | briefs v1–v9 | 15 bản: A 2.871 · B 2.866 · C 2.188 · D 1.834 · E 2.028 · F 1.666 · G 1.996 · H 1.908 · I 1.629 · J 2.117 · K 1.781 · L 2.269 · M 2.174 · N 1.599 · **O 1.965** 字 | `reviews/doan-001.md` — **O ĐẠT** (thoại đủ chủ ngữ + người nhận, 0 phủ định lặp, 0 khuôn 实, 回大人 9); thinking `archive/thinking-{m,n,o}.md` | chờ Tác giả chọn O |
+| 001 | briefs v1–v12 | 18 bản: A 2.871 · B 2.866 · C 2.188 · D 1.834 · E 2.028 · F 1.666 · G 1.996 · H 1.908 · I 1.629 · J 2.117 · K 1.781 · L 2.269 · M 2.174 · N 1.599 · O 1.965 · R 1.630 · **S 1.653** 字 (P cũ 2.363 bị ghi đè khi đặt trùng tên) | `reviews/doan-001.md` — **S ĐẠT**: 0 phủ định, 0 khuôn 实, 0 nhãn ngữ điệu, 0 so sánh người kể, 回大人 5, 会长 2, canon đúng | chờ Tác giả chọn S |

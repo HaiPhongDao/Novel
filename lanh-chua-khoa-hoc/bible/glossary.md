@@ -40,7 +40,8 @@
 | Verrick → MC | 大人 (lịch sự, có phần trịch thượng) |
 | MC → Verrick | Verrick 会长 |
 | Osric → Verrick | 会长 |
-| Osric → người đã chết (cha MC) | 老男爵 / 老爷 |
+| Osric → người đã chết (cha MC) | 老老爷 (khẩu ngữ người hầu) |
+| Người kể → cha MC | 老男爵 |
 
 ## Xưng hô theo đẳng cấp (Tây huyễn)
 

@@ -313,6 +313,61 @@ Còn phải sửa ở O:
 2. **Độ dài 1.965 字** (khoảng xin 1400–1800).
 3. **Thẻ thoại 1/26 lượt** — dễ đọc nhưng nên có vài chỗ đặt tên khi ba lượt liền không ai được gọi tên.
 
+## Reset: SI lõi v11 và prompt ngắn (sau khi Tác giả đánh giá "chất lượng tụt dần")
+
+> **Ghi chú sổ sách:** hai bản dưới đây chạy sau khi đã có một bản tên P (2.363 字, ghi ở mục trên), và
+> tôi lỡ dùng lại đúng tên file `doan-001-p.md` nên **bản P cũ bị ghi đè, không lấy lại được**; review của
+> nó vẫn còn ở mục "Bản P — prompt ngắn (v10)". Hai bản mới đã đổi tên thành **R** và **S**.
+
+Tác giả nói đúng, và nguyên nhân nằm ở **cách tôi sửa**: mỗi lỗi bị bắt thì tôi thêm một luật. SI từ
+6.869 lên 10.555 ký tự, prompt từ 188 lên 427 từ. Luật mới ăn mất sự chú ý của luật cũ, nên lỗi chỉ
+**chuyển chỗ** chứ không mất — nhìn cả 17 bản thì thấy rõ:
+
+| bản | chữ | phủ định | 实 | nhãn | so sánh người kể | thẻ/lượt |
+|---|---|---|---|---|---|---|
+| A | 2.871 | 5 | 1 | 1 | 3 | 1/16 |
+| B | 2.866 | 5 | 2 | 1 | 1 | 2/24 |
+| C | 2.188 | 2 | 1 | 4 | 1 | 2/30 |
+| E | 2.028 | 3 | 0 | 1 | 2 | 1/25 |
+| G | 1.996 | 2 | 0 | 1 | 0 | 3/27 |
+| I | 1.629 | 0 | 0 | 0 | 1 | **25/25** |
+| J | 2.117 | 3 | 0 | 1 | 2 | 6/31 |
+| K | 1.781 | 3 | 0 | 1 | 2 | 5/23 |
+| N | 1.599 | 3 | 2 | 0 | 0 | 0/25 |
+| O | 1.965 | 0 | 0 | 1 | 3 | 1/26 |
+| **S** | **1.653** | **0** | **0** | **0** | **0** | 0/17 |
+
+Ví dụ rõ: bản D sạch phủ định thì mọc tật khác; bản I sạch phủ định và 实 thì thẻ thoại thành 25/25;
+bản N hết thẻ thì "实打实" quay lại. Không bản nào sạch vì mỗi luật mới đẩy model sang một thái cực.
+
+**Reset đã làm:** `system-instruction-v11.md` viết lại từ đầu — 4 nguyên tắc, 4 ràng buộc, 3 anchor,
+**4.108 ký tự** (giảm 61% so với v10), không còn con số đếm, không còn khối xưng hô (chuyển về
+`bible/glossary.md` vì đó là canon). Prompt về lại **~210 từ** theo AGENT.md mục 4, chỉ có sự việc, số
+liệu và một khối dữ kiện cố định (ai gọi ai là gì, cha chưa chôn, Verrick là 会长).
+
+Hai bản thử của cách làm mới:
+
+- **R** (1.630 字): tật văn chỉ còn 4 chỗ khớp — nhưng sai canon (老老爷 ×2, 下葬, Verrick 老爷, 0 回大人)
+  **vì prompt ngắn đã cắt mất dữ kiện**. Bài học: SI ngắn là đúng, prompt ngắn quá thì lỗi chuyển từ văn
+  sang canon.
+- **S** (1.653 字, thêm khối dữ kiện 5 dòng vào prompt): **0 phủ định, 0 实, 0 nhãn ngữ điệu, 0 so sánh
+  của người kể**, 回大人 5, 会长 2, 小的 2, quan tài **chưa chôn** đúng canon (*"因领地账上拿不出给教区
+  修士的二十枚银币安葬涂油费而迟迟未能入土"*).
+
+Còn phải sửa ở S (3 chỗ):
+
+1. **Tên gọi người cha chưa thống nhất:** người kể gọi *"老Vaulx男爵"*, Osric gọi *"老老爷"* (3 lần).
+   Chốt: người kể dùng **老男爵**, người hầu dùng **老老爷** — ghi vào glossary, không sửa SI.
+2. **Thiếu một chuyện ngoài việc** — bản S không có con mèo, không có quà của làng; cảnh thành cuộc họp
+   sổ sách. Đây là lỗi của prompt (tôi cắt mất), không phải của SI.
+3. **"死一样的寂静"** — sáo ngữ; và *"谁也没有再去碰那半截残铁"* (phủ định đôi, scanner chưa bắt vì không
+   có dấu phẩy giữa hai vế).
+
+**Kết luận về cách làm, từ nay:** SI đóng băng ở v11. Mỗi lần review in **từng chỗ khớp** bằng
+`tools/soat_van.py --list` (không chỉ đếm), lỗi nào thuộc canon thì sửa prompt/glossary, lỗi nào thuộc
+văn thì sửa bằng cách **cắt** một luật chứ không thêm luật mới.
+
+
 ## Bản P — prompt ngắn (v10), trả lại tiền đề
 
 Tác giả bắt trên O: *"prompt đang hơi chi tiết… cái phần mở đầu kém quá, chả hiểu sao MC thức dậy lững thững
