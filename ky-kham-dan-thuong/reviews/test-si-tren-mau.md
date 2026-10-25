@@ -45,3 +45,33 @@ chân dân phu, giải thích mũi giáo) — cắt.
 
 **Cổng kỹ thuật (phụ lục, không phải điểm):** 1.828 字 · 18 lượt thoại (gốc 17) · 0 `实` · 0 so sánh người kể
 · 0 phủ định · 0 nhãn giọng · 0 câu chép từ prompt.
+
+## Vòng 4 — SI v4 (thêm khối POV), sau khi Tác giả nói "như người ngoài cuộc kể chuyện"
+
+Đọc theo bốn câu hỏi, ba đoạn:
+
+**Mở** — *"欧文低头看着冻得发紫的右手，拇指指甲缝里塞满灰黑的油泥。"*
+- Ai muốn gì: hắn muốn biết mình có đủ người giữ tuyến không — và tự trả lời bằng số: *"账册上记着一千四百人，
+  能够握紧长矛站在横队里的只有九百二十个…他手里的人手不够填满谷口。"*
+- Đổi gì: từ tin tới quyết định nhận trận.
+- Đáng nhớ: câu hắn bịt miệng kỵ sĩ bằng dữ kiện — *"前哨三个佩银剑的贵族全死了，他们的头正挂在狼人斥候的
+  马鞍侧面。"*
+- Bỏ qua được: hai dòng tả tàn binh ngoài trại (dòng 19).
+
+**Giữa** — *"把自己的四十名老兵顶上去，伤亡会超过两成，但这能稳住阵脚。"*
+- Đây là chỗ v3 hỏng hẳn và v4 sửa được: **cái giá được nói trong đầu hắn trước khi ra lệnh**, không phải sau.
+- Đổi gì: công sức thành số — *"他的右掌虎口磨破了一整层干硬的老茧"* → 【工事筑造：入门（89/100）→（90/100）】.
+- Bỏ qua được: dòng tả ba mươi người siêu phàm và ánh thép (dòng 33).
+
+**Kết** — *"现在射杀民夫只会制造尸堆，给后面的狂血狼人提供阻挡箭雨的盾牌。"*
+- Ai muốn gì: 奥德 muốn hút tên (đoạn ngắn trong đầu nó, có *"挠了挠肚皮"* cho buồn cười); 欧文 muốn chờ tới
+  sáu mươi bước.
+- Đổi gì: cự ly 200 → 140 → 100 → 60; lệnh bắn ban ra.
+- Đáng nhớ: *"一百步！他们踩到外面的碎石带了！"*
+- Bỏ qua được: dòng tả dân phu bị trói cổ (dòng 39).
+
+**Phán bằng lời:** bản này **nhập được vào MC**. Ba chỗ đổi hẳn so với v3: mở bằng bàn tay hắn thay vì bằng
+cảnh, mỗi quyết định có một câu tính toán của hắn, và cái giá được nói trước khi hành động. Còn lại hai chỗ
+tả người khác mà hắn không nhìn (dòng 19, 39) — cắt khi viết chương thật.
+
+**Cổng kỹ thuật:** 1.9xx 字 · lượt thoại 13 · 0 `实` · 0 so sánh người kể · 0 nhãn · 0 chép mẫu.
