@@ -14,6 +14,9 @@ nguyên văn từ đây, không tự đặt lại.
 
 Viết luôn kèm tiến độ: `3阶青铜骑士 489/500`. Không có bình cảnh; lên bậc khi đầy thanh.
 
+**Tỷ giá kinh nghiệm (chốt 26/10):** luyện vũ khí ~**400 lần vung = 1 点**; giết một 豺狼人 thường = **9 点**
+(đội hình 9 con = 81 点). 3阶 → 4阶 cần 500 点, tức ~200.000 lần vung nếu chỉ luyện tay không.
+
 ## 2. Bậc lính (兵种)
 
 一阶农奴 → 二阶民兵 → 三阶步兵 / 三阶弓箭手 → 四阶熟练步兵 / 四阶熟练射手 → 五阶以上 là quân vương quốc.

@@ -1,8 +1,12 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v1, 26/10/2026.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v2, 26/10/2026.
 Dựng từ `writer/SI-template` v3 + khối BANS/LENGTH của `si-khung.md`. 7 anchor chép nguyên văn từ
-`mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19) — đã kiểm bằng script, không chép tay.
-Khác SI 骑砍 v9 cũ ở chỗ: (a) thẻ thoại `说道/问道` được DÙNG, không bị cấm; (b) người kể là storyteller
-đứng về phía MC, không phải close-third im lặng; (c) anchor lấy từ chương có giọng hài, không chỉ chương trận.
+`mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19) — có script kiểm khớp nguồn.
+
+v2 sửa sau test 01 (`reviews/test-mau-01.md` mục 4):
+1. PART 2 thêm 4 dòng: sau câu đạo nghĩa, người kể nói một dòng cái MC đang thật sự đếm; tự gọi 少爷 một
+   lần/chương; câu chửi trong đầu đứng trần không ngoặc; mở cảnh bằng tiếng/động tác đang chạy, lý do tới sau.
+2. PART 4: exp in thành dòng `叮！…经验加300。` tối đa 3 dòng rồi một câu; mỗi entry một dòng.
+3. LENGTH: hai dòng trong ba dưới 30 chữ; chương 2.000–2.200.
 
 ===== BẮT ĐẦU SI =====
 
@@ -143,6 +147,10 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - The panel prints on lines of its own, one entry per line, each entry inside 【】, with the grade in front and progress as current/total. It is read, not spoken: no speech tag, no quotes on the entry, no commentary from the panel. A block runs six lines at most, and the paragraph after it says what the top number is worth.
 - A gain is paid for in the same scene: swings, marches, grain bought with his own coin, a hand that will not close the next morning.
 - The men are the ledgers: how many, what grade, how many days of food, how many will run. Numbers between two sides are compared out loud before a fight.
+- After a noble-sounding line or a public gesture, the narrator gives one line of what the protagonist is actually counting: heads, experience, days of grain, the road out. One such line to a scene, and it is the narrator talking, not a confession.
+- In his own head he uses the household's title for himself, the way the servants say it: 他阿德里安少爷. Once a chapter at most, where it stings.
+- A curse or a private thought stands bare on its own line and takes no quotation marks: it belongs to his head, not to the room.
+- A scene opens on a sound, a smell or a line already in progress. The reason for it arrives after the reaction.
 - Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
 - Rank and address are fixed and used consistently: 大人、老爷、爵士、长官; a subordinate opens a report with the news first and the number second.
 - Trades and purchases are named with units and rates: coin, bushels, days of march, head of cattle.
@@ -160,7 +168,7 @@ BANS — measurable, checked by tools/soat_van.py
 
 LENGTH
 
-- Sentence 22–30 characters, two or three clauses. Paragraph one to three sentences. Chapter 2,000–2,400 characters.
+- Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences. Chapter 2,000–2,200 characters.
 - A speech turn is a complete sentence: who speaks, what he wants done, to whom, and the number that goes with it.
 - End on a bigger number, a bigger enemy, or a man walking in with news.
 
@@ -182,6 +190,7 @@ The panel is a soldier's ledger the protagonist can read. It prints what is true
 【士气：69/100】
 【人数上限：500】
 
-Fill in the grades and numbers the prompt gives. A new entry appears when a man, a skill or a unit is actually added to his command — never before. The panel never speaks, never advises, never explains the plot, and never jokes; the narration around it does the talking.
+Experience gains print as short lines that end in the number, the way the panel shouts them (叮！…经验加300。): three lines at most, then one sentence saying the wall of green text kept coming. Every other entry stays on its own line, one entry per line, with the title kept in its parentheses.
 
+Fill in the grades and numbers the prompt gives. A new entry appears when a man, a skill or a unit is actually added to his command — never before. The panel never speaks, never advises, never explains the plot, and never jokes; the narration around it does the talking.
 ===== HẾT SI =====

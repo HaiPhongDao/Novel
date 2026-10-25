@@ -25,7 +25,9 @@ thử một cảnh của bộ mẫu để so.
 
 - [x] Phân tích bộ mẫu (số đo toàn sách)
 - [x] SI v1 theo template, 7 anchor nguyên văn
-- [x] Test 01 trên cảnh ch8: cổng kỹ thuật đạt (0 tật), nhịp gần mẫu (20,2 so với 23,3 字/câu), **giọng chưa
-      đạt** — thiếu sổ riêng của MC, thiếu câu châm và câu hỏi cho người đọc, bảng in sai dạng, dài +27%.
-- [ ] SI v2 (4 sửa ở `reviews/test-mau-01.md` mục 4) + chạy lại **hai lần** cùng prompt để đo biên độ nhiễu
-- [ ] Tác giả chốt tiền đề (A / B / C) → bible đầy đủ → dàn ý 黄金三章 → chương 1
+- [x] Test 01 trên cảnh ch8: cổng kỹ thuật đạt, **giọng chưa đạt** (thiếu sổ riêng của MC, thiếu câu châm,
+      bảng in sai dạng, dài +27%) → so nguyên văn từng đoạn ở `reviews/so-sanh-test-01.md`
+- [x] Chốt tiền đề A + SI v2 (4 sửa) + bible (`characters.md`) + 黄金三章 (`plot/arcs.md`)
+- [x] Chương 1: bản A (2.786 字, 6 tật) → bản B sửa tay (2.663 字, 0 tật) → `reviews/chuong-001.md`
+- [ ] **Tác giả đọc bản B** — duyệt mới viết chương 2
+- [ ] Trước chương 2: ghi số 字 vào brief (2.100, không quá 2.300) + gộp cảnh để hạ lượt thoại 47 → ~25

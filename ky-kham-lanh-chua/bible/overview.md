@@ -1,7 +1,7 @@
 # 骑砍领主：铁脊要塞 — tổng quan (v0, CHỜ TÁC GIẢ CHỐT)
 
-**Trạng thái:** đây là tiền đề **nháp** dựng để có tên riêng mà viết SI và chạy test. Chưa phải canon.
-Tác giả chốt xong mới viết bible đầy đủ / dàn ý.
+**Trạng thái:** **đã chốt phương án A** (Tác giả: "tùy bạn", 26/10/2026). Bible chi tiết ở
+`bible/characters.md`, 黄金三章 ở `plot/arcs.md`.
 
 ## Thể loại
 

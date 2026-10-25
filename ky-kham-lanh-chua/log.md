@@ -21,3 +21,15 @@ hài chứ không chỉ chương trận. | Chưa sửa theo test — chờ bản
 字/lượt. **Cổng kỹ thuật đạt, giọng chưa đạt**: 0 câu tự gọi `老爷`, chỉ 1 câu châm, bảng in sai dạng (ép
 `【士兵】` thành một dòng), dài +27%, dòng vụn hơn mẫu (77% so với 60% dòng ≤30 字). Bốn sửa cho SI v2 ghi ở
 `reviews/test-mau-01.md` mục 4. | Chưa nhận công cho SI: một cảnh, một lần chạy, chưa đo biên độ nhiễu | Agent
+
+2026-10-26 | chốt tiền đề | Tác giả: "tùy bạn" → chọn phương án A (con thứ nam tước, 500 nông nô, 铁脊要塞 30
+ngày). Dựng `bible/characters.md` (5 tên) + `plot/arcs.md` (黄金三章: 入局–加压–承诺). SI v2 thêm 4 dòng PART 2
+(sổ riêng sau câu đạo nghĩa, tự gọi 少爷 1 lần/chương, câu chửi đứng trần, mở cảnh bằng tiếng), PART 4 (exp in
+thành dòng 叮！), LENGTH (2.000–2.200). | Theo 4 sửa của test 01 | Agent
+
+2026-10-26 | chương 1 | Bản A 2.786 字 (chạy 125s), 6 tật: 3 so sánh người kể + 3 nhãn ngữ điệu + 1 phủ định.
+Sửa tay 10 chỗ + cắt 123 字 → bản B 2.663 字, `soat_van.py` sạch (0/0/0/0). Giữ được: mở chậm (tiếng búa →
+thân thể → sân), mặc cả có chất liệu xã hội (đám cưới anh trai, người sốt), cái giá 30→24→6 金币, câu tự gọi
+`他阿德里安少爷`, kết bằng quyết định mua 24 cái rìu. Còn lệch mẫu: 字 +21%, 47 lượt thoại (mẫu 20), câu 21,3
+(mẫu 23,9). Canon mới phải chốt: 科尔 50 tuổi (không phải 28), tỷ giá exp 400 lần vung = 1 点. | Sửa tay rẻ hơn
+vòng SI mới vì hai tật đó là biến thiên lần chạy, test 01 đã sạch | Agent
