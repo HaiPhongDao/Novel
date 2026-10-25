@@ -313,6 +313,61 @@ Còn phải sửa ở O:
 2. **Độ dài 1.965 字** (khoảng xin 1400–1800).
 3. **Thẻ thoại 1/26 lượt** — dễ đọc nhưng nên có vài chỗ đặt tên khi ba lượt liền không ai được gọi tên.
 
+## Bản P — prompt ngắn (v10), trả lại tiền đề
+
+Tác giả bắt trên O: *"prompt đang hơi chi tiết… cái phần mở đầu kém quá, chả hiểu sao MC thức dậy lững thững
+một mạch đến đập búa, không có thoại nội tâm, giải thích, kể, làm nền tốt như bản B"*.
+
+Hai nguyên nhân đo được:
+
+1. **Prompt v9 bỏ mất tiền đề xuyên không.** Cả 97 dòng O không có câu nào nói đây là người từ thế giới
+   khác; gần nhất là *"凭着前身记忆里的力道"*, đọc ra thành ký ức của thân xác cũ. Prompt v1 (sinh ra B)
+   có dòng *"Anh mang ký ức của một người làm nghề mua bán hai mươi năm, và bàn tay chưa từng làm nghề gì"*;
+   chính dòng đó sinh ra đoạn 3 của B. Prompt v9 chỉ còn *"vừa thừa hưởng Giữ Tro"*.
+2. **Prompt v9 là storyboard bảy bước** (*"Mở: tỉnh dậy… nhìn hai bàn tay, rồi đi xuống sân sau…"*), nên mỗi
+   đoạn là một hành động. Đoạn nền trong 12 đoạn đầu: **B 4 · O 0**.
+
+Prompt v10: 1.504 bytes (v9: 2.599), sáu khối, bỏ storyboard, bỏ khối "Cách nói" (đã có ở SI v10 mục 5 và
+`bible/glossary.md`), bỏ câu "thuộc đoạn 002"; chỉ đưa số thô, không đưa số đã trừ.
+
+| | O (prompt v9) | **P (prompt v10)** | B (prompt v1) |
+|---|---|---|---|
+| Chữ Hán | 1.965 | **2.363** | 2.866 |
+| Đoạn nền / 12 đoạn đầu | 0 | **5** | 4 |
+| Tiền đề xuyên không | không có | **có, kèm chất liệu** | có |
+| Phủ định lặp | 0 | **5** | 5 |
+| So sánh của người kể | 3 | 3 | 1 |
+| Nhãn ngữ điệu | 1 | 2 | 1 |
+| Cảnh tỉnh dậy | có | **không** | có |
+
+P lấy lại được hai thứ O đánh mất:
+
+- *"四十岁那年在供应商车间里因心梗倒下之前，他过手的是三万吨级高炉滑轨与特种合金阀门的采购合同，懂得
+  怎么在四份不同厂家的报价单里找出偷换工序的暗桩…但他从没碰过锻打、浇铸、烧结或雕刻"* — đúng bible.
+- Nền có đời sống: dầu cá voi cháy khét từ nhà nguyện, quan tài thông trắng chưa xức dầu, mộ anh cả rêu
+  xanh, 312 lãnh dân, con đèo vắng, mỏ đá xỉ mười hai năm.
+- Osric có chuyện nghề chứ không chỉ số: lão rèn Sol gãy chân vì thông đổ, con trai biết kéo ống bễ nhưng
+  chưa biết xem màu lò tôi, tiền thuốc bảy mươi đồng còn ghi nợ.
+
+Còn phải sửa ở P:
+
+1. **Mở bằng cú búa thứ ba**, không có cảnh tỉnh dậy. Thinking: *"I'm imagining his opening action with the
+   gate hinge"* — model lấy khối nội dung đầu tiên có hành động làm điểm mở, vì v10 đã bỏ dòng `Mở:`.
+2. **2.363 字**, vượt trần 1800 là 563 字 (31%). SI ghi 1200–1800.
+3. **Năm cặp phủ định** quay lại: *"既没有抹香膏，也没有神官来念诵安息经文"*, *"但他从没碰过锻打、浇铸、
+   烧结或雕刻"*.
+4. **Mất beat tự cộng sổ**: chỉ có 9 vàng 37 bạc / 4 vàng 60 bạc / 61 vàng, không có số dư, không có khoản
+   thiếu. Beat định nghĩa nhân vật (biết đọc sổ) bị bỏ.
+5. **Bịa tên tiền tệ** 金龙 / 银鹿 trong khi bible và O dùng 金币 / 银币; `bible/glossary.md` không có dòng
+   nào định nghĩa tiền, nên mỗi đoạn sẽ gọi một kiểu. **Chờ Tác giả chốt.**
+6. **阁下调 sai**: *"会长 Verrick 阁下"* — quản gia báo với chủ thì dùng 会长; 阁下 để cho thế tiền ngang nhau.
+
+Cơ chế, để lần sau khỏi đoán: prompt dài trấn được tật nhưng giết nền (v9: 2.599 bytes → O 1.965 字, 0 nền,
+0 phủ định); prompt ngắn trả lại nền nhưng tật cũ về (v10: 1.504 bytes → P 2.363 字, 5 nền, 5 phủ định).
+Prompt v11 dự kiến = v10 + ba dòng: dòng `Mở:` một câu, trần `không quá 1800`, và số dư đúng
+(4 vàng 77 bạc / thiếu 56 vàng 23 bạc). Chưa chạy.
+
+
 
 
 
