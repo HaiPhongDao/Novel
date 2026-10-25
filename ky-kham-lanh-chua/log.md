@@ -74,3 +74,14 @@ quyền; ba đoạn ba câu ngầu. SI v7: quyền lực trong thoại + mỗi c
 tối đa một câu ngầu và không ở cuối đoạn. Brief 002-v2 thêm khối 【Quyền lực trong cảnh】. Kết quả 002-b:
 23,9 字/câu (mẫu 23,9), MC 6 lượt trung vị 25,5 字, 代守 từ chối được, MC mua bằng lời hứa thay vì đe, có hỏi
 chuyện vợ con 卡尔, không kết bằng câu chốt. | Sửa ở SI+brief ăn ngay, không phải sửa câu | Agent
+
+2026-10-26 | đổi cách viết prompt | Tác giả chỉ ra `gemini/test/Without prompt`: Writer viết tự do có thoại
+mượt, giọng riêng; lỗi ở prompt của Agent. Đo cùng SI v7: no-prompt 42 lượt / MC 11 lượt 24,5 字 / 老子 ×5;
+prompt cũ (6 beat + chỉ định từng lượt + tỷ lệ thoại) 14 lượt; prompt ngắn cùng cảnh 8 lượt; **prompt ngắn +
+phạm vi một ngày (004-a)** 21,1 字/câu, 13 lượt, MC 23,4 字. Viết mẫu `briefs/_mau-prompt-ngan.md`, KN32, sửa
+mục 4 của skill. | Số lượt do phạm vi thời gian + số người có mặt, không do chỉ dẫn thoại | Tác giả (bắt lỗi)
+
+2026-10-26 | đoạn 004 | 2.233 字, 168s, SI v7, prompt ngắn phạm vi một ngày. Tự làm được: chuyện ngoài việc
+(腿伤 của 卡尔), MC tính thành tiếng, lệnh dạng 吧/去/给我. Sửa tay: 老爷 → 少爷 ×3; `经验加80` ×3 mâu thuẫn
+bảng 0/2000 → đổi sang điểm đơn vị (`队伍经验加9`); ghi luật exp + track 4阶 /2000 vào glossary. | 21,1 字/câu
+khớp mẫu 21,2 | Agent

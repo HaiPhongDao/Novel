@@ -204,3 +204,34 @@ Thay đổi trong thoại, cụ thể:
 | kết đoạn | `“给我数数对面的火头。”` (câu chốt) | 卡尔 trèo lên mép tháp canh đếm lửa — **không có câu ngầu** |
 
 Giới hạn: một cảnh, một lần chạy. Muốn nhận công thì phải chạy 002-b lần thứ hai và so hai bản sinh.
+
+## 11. Đổi cách viết prompt (theo bản `gemini/test/Without prompt` của Tác giả) — đoạn 004
+
+Tác giả: SI đã tốt; chất lượng khi **không có prompt** rất tốt, nhân vật nói mượt và có giọng riêng; lỗi nằm ở
+prompt. Đối chiếu số, cùng SI v7:
+
+| prompt | 字 | 字/câu | lượt thoại | lượt của MC | 字/lượt MC | so sánh người kể |
+|---|---|---|---|---|---|---|
+| **Writer tự do, không prompt** | 3.618 | 21,2 | **42** | 11 | 24,5 | 6 |
+| 002-b: 6 beat đánh số + chỉ định nội dung từng lượt + tỷ lệ thoại | 1.726 | 24,0 | 14 | 6 | 25,7 | 0 |
+| 002-c: 4 đoạn văn + danh sách số | 1.351 | 27,0 | 8 | 5 | 36,8 | 3 |
+| **004-a: 4 đoạn văn + số, phạm vi một ngày** | 2.233 | **21,1** | 13 | 8 | **23,4** | 1 |
+
+Ba thứ bản 004 tự làm được mà ba bản trước phải do Agent chỉ định:
+- **Chuyện ngoài việc**: giữa trưa, MC hỏi `“你这腿怎么回事？”` → 卡尔 kể mũi tên từ hai năm trước, MC hứa xin
+  thuốc. Prompt 004 **không có một chữ nào** về chuyện này.
+- **MC tính thành tiếng**: `“一把斧头一天砍三棵树，二十四把斧头一天就是七十二根。”`
+- **Lệnh đúng dạng nói**: `“早晚各煮一锅稠麦粥，每人再分半个硬面饼吧。”` · `“拿木矛的站到第一排去…”` ·
+  `“刺！把手里的矛全给我推出去！”`
+
+Ba lỗi còn lại, sửa tay:
+1. 卡尔 gọi `老爷` ba lần (canon: 少爷) — Writer tự nâng vai khi hắn thành chủ thành.
+2. `叮！击杀豺狼人探子，经验加80。` ×3 trong khi bảng 宿主 vẫn `0/2000` ⇒ **sai phép tính**: 3×80 = 240. Đổi
+   thành điểm vào thanh **đơn vị** (`队伍经验加9`), khớp với việc 41 người lên 二阶. Luật này đã ghi vào glossary.
+3. Không có lỗi thứ ba về văn; 1 so sánh người kể trong cả đoạn (mẫu: 6 trong 3.618 字) — thấp hơn mẫu.
+
+Kết luận: prompt ngắn + **phạm vi rộng** (một ngày thay vì một cảnh) đưa câu về 21,1 字 (mẫu 21,2) và lượt của MC
+về 23,4 字 (mẫu 24,5) — lần đầu tiên cả hai trục khớp mẫu cùng lúc. Số lượt (13 so với 42) vẫn thấp vì đoạn
+004 chỉ có bốn người nói; muốn dày như mẫu thì phải đưa thêm người vào cảnh (lính gác, đầu đàn nông nô, lính
+trên tường), không phải thêm chỉ dẫn thoại.
+

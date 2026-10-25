@@ -14,8 +14,11 @@ nguyên văn từ đây, không tự đặt lại.
 
 Viết luôn kèm tiến độ: `3阶青铜骑士 489/500`. Không có bình cảnh; lên bậc khi đầy thanh.
 
-**Tỷ giá kinh nghiệm (chốt 26/10):** luyện vũ khí ~**400 lần vung = 1 点**; giết một 豺狼人 thường = **9 点**
-(đội hình 9 con = 81 点). 3阶 → 4阶 cần 500 点, tức ~200.000 lần vung nếu chỉ luyện tay không.
+**Tỷ giá kinh nghiệm (chốt 26/10):** luyện vũ khí ~**400 lần vung = 1 点**; một 豺狼人 thường = **9 点**.
+Điểm vào **thanh của người ra đòn**: MC tự tay giết thì vào 宿主, lính giết thì vào thanh 士兵. Không cộng hai lần.
+
+**Độ dài thanh:** 1–3阶 là /500; **4阶 là /2000**; 5阶 trở lên chưa mở. Lên bậc thì thanh mới bắt đầu từ 0 và
+mốc đầu tiên của bậc mới KHÔNG làm mất số dư cũ — mọi dòng bảng phải khớp phép tính trong cùng đoạn.
 
 ## 2. Bậc lính (兵种)
 
