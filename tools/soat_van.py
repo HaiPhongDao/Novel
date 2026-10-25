@@ -77,6 +77,10 @@ def scan(path):
     turn_lens = [han(t) for t in turns if han(t) > 0]
     mean_turn = round(sum(turn_lens) / len(turn_lens), 1) if turn_lens else 0
 
+    # So sánh trong lời kể (bỏ phần trong ngoặc thoại — nhân vật nói ví von thì không phải tật của người kể).
+    narration = QUOTE.sub("。", body)
+    counts["so-sanh-loi-ke"] = len(PATTERNS["so-sanh-nguoi-ke"].findall(narration))
+
     return {
         "file": path,
         "han": han(body),

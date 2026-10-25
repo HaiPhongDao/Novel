@@ -2,8 +2,13 @@
   "manifest_version": 3,
   "name": "Novel AI Studio bridge",
   "version": "1.0",
-  "description": "Nhận việc từ tools/aistudio_run.py (127.0.0.1:8765), bấm nút trong Google AI Studio, gửi câu trả lời về.",
+  "description": "Nhận việc từ tools/aistudio_run.py (127.0.0.1:8765/8766/8767 — chạy được nhiều lần cùng lúc), bấm nút trong Google AI Studio, gửi câu trả lời về.",
   "background": { "service_worker": "background.js" },
   "permissions": ["scripting", "tabs", "alarms", "storage", "debugger"],
-  "host_permissions": ["https://aistudio.google.com/*", "http://127.0.0.1:8765/*"]
+  "host_permissions": [
+    "https://aistudio.google.com/*",
+    "http://127.0.0.1:8765/*",
+    "http://127.0.0.1:8766/*",
+    "http://127.0.0.1:8767/*"
+  ]
 }
