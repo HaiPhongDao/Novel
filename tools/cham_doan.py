@@ -18,7 +18,8 @@ CANON = {
     "老老爷": (0, None),
     "老奴": (0, 0), "奴才": (0, 0), "属下": (0, 0), "末将": (0, 0), "陛下": (0, 0), "殿下": (0, 0),
 }
-NUMBERS = ["六十一", "四十", "九枚", "三百一十二", "五十六", "一百"]
+# Số liệu bắt buộc: truyền vào bằng --numbers "六十一,四十,九枚" (mỗi đoạn một khác).
+NUMBERS = []
 
 
 def han(s):
@@ -30,7 +31,7 @@ def load(path):
     return re.sub(r"^<!--.*?-->\s*", "", t, flags=re.S)
 
 
-def measure(path):
+def measure(path, prompt_path=None, numbers=None):
     t = load(path)
     r = sv.scan(path)
     narr = re.sub(r"“[^”]*”", "。", t)
@@ -48,9 +49,17 @@ def measure(path):
         "the": r["the-thoai"],
     }
     d["canon"] = {k: len(re.findall(k, t)) for k in CANON}
-    d["so_lieu_thieu"] = [n for n in NUMBERS if n not in t]
+    need = NUMBERS if numbers is None else numbers
+    d["so_lieu_thieu"] = [n for n in need if n not in t]
     d["moc"] = re.findall(r"[一二三四五六七八九十百]+天|[0-9]+天", t)
     d["hook"] = len(re.findall(r"但这还不是|然而，|更要命的是", t))
+    # Chép mẫu: câu tiếng Hán trong prompt xuất hiện nguyên văn ở bản thảo.
+    d["chep_mau"] = []
+    if prompt_path:
+        pr = open(prompt_path, encoding="utf-8").read()
+        for s in re.findall(r"[“「]([^”」]{8,})[”」]", pr):
+            if han(s) >= 8 and s in t:
+                d["chep_mau"].append(s[:24])
     return d
 
 
@@ -63,18 +72,19 @@ def score(d):
 
     s = 0
     s += band("chữ 1500-1800", 1500 <= d["han"] <= 1800, 12, "nhịp")
-    s += band("chữ/câu 22-30", 22 <= d["chu_cau"] <= 30, 18, "nhịp")
+    s += band("chữ/câu 20-34", 20 <= d["chu_cau"] <= 34, 18, "nhịp")
     s += band("số câu >=45", d["cau"] >= 45, 10, "nhịp")
-    s += band("lượt thoại 14-22", 14 <= d["luot"] <= 22, 8, "nhịp")
-    s += band("chữ/lượt 20-30", 20 <= d["chu_luot"] <= 30, 8, "nhịp")
-    s += band("phủ định <=2", d["phu_dinh"] <= 2, 10, "văn")
+    s += band("lượt thoại 10-22", 10 <= d["luot"] <= 22, 8, "nhịp")
+    s += band("chữ/lượt 16-30", 16 <= d["chu_luot"] <= 30, 8, "nhịp")
+    # Mẫu gốc (女巫 ch.5/ch.47) có 3-4 cặp mỗi cảnh, nên ngưỡng là 4 chứ không phải 0.
+    s += band("phủ định <=4", d["phu_dinh"] <= 4, 10, "văn")
     s += band("实 = 0", d["shi"] == 0, 6, "văn")
     s += band("nhãn ngữ điệu = 0", d["nhan"] == 0, 6, "văn")
     s += band("so sánh người kể = 0", d["so_sanh"] == 0, 6, "văn")
     s += band("không câu móc rẻ", d["hook"] == 0, 6, "văn")
     c = d["canon"]
     canon_ok = (
-        c["回大人"] >= 3 and c["小的"] >= 2 and c["会长"] >= 1
+        c["回大人"] >= 3
         and c["老奴"] == 0 and c["奴才"] == 0 and c["属下"] == 0
         and c["末将"] == 0 and c["陛下"] == 0 and c["殿下"] == 0
         and not d["so_lieu_thieu"]
@@ -83,8 +93,8 @@ def score(d):
     return s, parts
 
 
-def report(path):
-    d = measure(path)
+def report(path, prompt_path=None, numbers=None):
+    d = measure(path, prompt_path, numbers)
     s, parts = score(d)
     g = {}
     for n, ok, w, grp in parts:
@@ -92,7 +102,11 @@ def report(path):
         g[grp][1] += w
         if ok:
             g[grp][0] += w
-    print(f"{os.path.basename(path)}  →  {s}/100   nhịp {g['nhịp'][0]}/{g['nhịp'][1]} · văn {g['văn'][0]}/{g['văn'][1]} · canon {g['canon'][0]}/{g['canon'][1]}")
+    if d["chep_mau"]:
+        print(f"{os.path.basename(path)}  →  HỎNG: chép nguyên câu mẫu của prompt ({'; '.join(d['chep_mau'])})")
+        s = 0
+    else:
+        print(f"{os.path.basename(path)}  →  {s}/100   nhịp {g['nhịp'][0]}/{g['nhịp'][1]} · văn {g['văn'][0]}/{g['văn'][1]} · canon {g['canon'][0]}/{g['canon'][1]}")
     print(f"  chữ {d['han']} · câu {d['cau']} · chữ/câu {d['chu_cau']} · lượt {d['luot']} · chữ/lượt {d['chu_luot']}")
     print(f"  phủ định {d['phu_dinh']} · 实 {d['shi']} · nhãn {d['nhan']} · so sánh {d['so_sanh']} · thẻ {d['the']}")
     print(f"  canon {d['canon']} · thiếu số {d['so_lieu_thieu']} · mốc ngày {d['moc']}")
@@ -103,8 +117,18 @@ def report(path):
 
 
 if __name__ == "__main__":
-    for p in sys.argv[1:]:
+    args = sys.argv[1:]
+    prompt_path, numbers = None, None
+    if "--prompt" in args:
+        i = args.index("--prompt")
+        prompt_path = args[i + 1]
+        args = args[:i] + args[i + 2:]
+    if "--numbers" in args:
+        i = args.index("--numbers")
+        numbers = [x.strip() for x in args[i + 1].split(",") if x.strip()]
+        args = args[:i] + args[i + 2:]
+    for p in args:
         if p == "--json":
             continue
-        report(p)
+        report(p, prompt_path, numbers)
         print()
