@@ -34,3 +34,6 @@ thử một cảnh của bộ mẫu để so.
 - [ ] **Tác giả đọc 001-E / 002 / 003** — duyệt mới chạy đoạn 004
 - [x] Bản C: sửa thoại MC theo bắt lỗi "nói chưa đầy đủ, giao tiếp trống không" (SI v3 thêm 2 dòng luật thoại)
 - [ ] **Luật đơn vị: viết theo ĐOẠN, không theo chương** — chương tách ở khâu biên tập; đoạn dài ngắn do số beat quyết định, không có chỉ tiêu 字
+- [x] **26/10: cửa sổ độ dài đoạn = 2.000–3.000 字** (Tác giả: "không cần sửa độ dài nếu không trượt văn phong").
+      Con số nằm trong prompt từng đoạn, không nằm trong SI; tiêu chí review là không trượt ngữ cảnh + văn phong,
+      không phải chạm mốc 字
