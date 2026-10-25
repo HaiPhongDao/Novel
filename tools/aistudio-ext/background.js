@@ -7,7 +7,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 chrome.alarms.create('poll', { periodInMinutes: 0.5 });
 
-let looping = false;
+
+const loops = new Set();
 const kick = () => { SERVERS.forEach(loop); };
 chrome.alarms.onAlarm.addListener(kick);
 chrome.runtime.onStartup.addListener(kick);
@@ -15,8 +16,8 @@ chrome.runtime.onInstalled.addListener(kick);
 kick();
 
 async function loop(SERVER) {
-  if (looping) return;
-  looping = true;
+  if (loops.has(SERVER)) return;   // mỗi cổng một vòng riêng, không chặn nhau
+  loops.add(SERVER);
   try {
     for (;;) {
       await chrome.runtime.getPlatformInfo();  // giữ service worker sống
@@ -31,7 +32,7 @@ async function loop(SERVER) {
       else if (r.status !== 204) return;
     }
   } finally {
-    looping = false;
+    loops.delete(SERVER);
   }
 }
 

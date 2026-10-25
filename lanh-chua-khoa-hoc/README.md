@@ -32,4 +32,4 @@ Ba phương án tiền đề và lý do loại: `archive/phuong-an-tien-de.md`.
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | briefs v1–v12 | 18 bản: A 2.871 · B 2.866 · C 2.188 · D 1.834 · E 2.028 · F 1.666 · G 1.996 · H 1.908 · I 1.629 · J 2.117 · K 1.781 · L 2.269 · M 2.174 · N 1.599 · O 1.965 · R 1.630 · **S 1.653** 字 (P cũ 2.363 bị ghi đè khi đặt trùng tên) | `reviews/doan-001.md` — **S ĐẠT**: 0 phủ định, 0 khuôn 实, 0 nhãn ngữ điệu, 0 so sánh người kể, 回大人 5, 会长 2, canon đúng | chờ Tác giả chọn S |
+| 001 | briefs v1–v21 | 24 bản: A 2.871 · B 2.866 · C 2.188 · D 1.834 · E 2.028 · F 1.666 · G 1.996 · H 1.908 · I 1.629 · J 2.117 · K 1.781 · L 2.269 · M 2.174 · N 1.599 · O 1.965 · R 1.630 · S 1.653 · T 1.588 · U 1.608 · V 1.459 · **W 1.826** · X 1.473 · Y 1.528 字 (P cũ 2.363 bị ghi đè) | `reviews/doan-001.md` — đo bằng `tools/cham_doan.py`: **W 88** (nhịp 44, văn 34, canon 10) · Y 74 · X 70 · U 60 · T 56 · V 34; Tác giả đọc V/W/Y thấy **cả ba đều đạt** | chốt họ prompt v17 (ba câu nhịp mẫu + khối dữ kiện); SI v13 đóng băng |
