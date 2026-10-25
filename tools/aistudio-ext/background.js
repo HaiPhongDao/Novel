@@ -1,23 +1,17 @@
 // Hỏi aistudio_run.py có việc không (long-poll), làm việc trong một tab AI Studio riêng, gửi kết quả về.
 // Service worker tắt sau ~30s rảnh: alarm đánh thức mỗi 30s, và mỗi vòng gọi một API extension để giữ nó sống.
-// Nhiều cổng: mỗi cổng một vòng riêng và một tab riêng, nên chạy được nhiều aistudio_run.py cùng lúc
-// (--port 8765 / 8766 / 8767).
-const SERVERS = ['http://127.0.0.1:8765', 'http://127.0.0.1:8766', 'http://127.0.0.1:8767'];
+const SERVER = 'http://127.0.0.1:8765';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 chrome.alarms.create('poll', { periodInMinutes: 0.5 });
+chrome.alarms.onAlarm.addListener(loop);
+chrome.runtime.onStartup.addListener(loop);
+chrome.runtime.onInstalled.addListener(loop);
 
-
-const loops = new Set();
-const kick = () => { SERVERS.forEach(loop); };
-chrome.alarms.onAlarm.addListener(kick);
-chrome.runtime.onStartup.addListener(kick);
-chrome.runtime.onInstalled.addListener(kick);
-kick();
-
-async function loop(SERVER) {
-  if (loops.has(SERVER)) return;   // mỗi cổng một vòng riêng, không chặn nhau
-  loops.add(SERVER);
+let looping = false;
+async function loop() {
+  if (looping) return;
+  looping = true;
   try {
     for (;;) {
       await chrome.runtime.getPlatformInfo();  // giữ service worker sống
@@ -25,14 +19,14 @@ async function loop(SERVER) {
       try { r = await fetch(`${SERVER}/job?wait=20`); } catch { return; }  // script chưa chạy
       const job = r.status === 200 ? await r.json() : null;
       if (await codeChanged(r.headers.get('X-Ext-Hash'))) {
-        if (job) await post(SERVER, '/release', { id: job.id });  // trả việc lại, bản mới nạp xong sẽ nhận
+        if (job) await post('/release', { id: job.id });  // trả việc lại, bản mới nạp xong sẽ nhận
         return chrome.runtime.reload();
       }
-      if (job) await runJob(SERVER, job);
+      if (job) await runJob(job);
       else if (r.status !== 204) return;
     }
   } finally {
-    loops.delete(SERVER);
+    looping = false;
   }
 }
 
@@ -41,23 +35,23 @@ async function codeChanged(hash) {
   if (!hash) return false;
   const { loadedHash } = await chrome.storage.session.get('loadedHash');
   if (!loadedHash) {
-    await chrome.storage.session.set('loadedHash', hash);
+    await chrome.storage.session.set({ loadedHash: hash });
     return false;
   }
   return loadedHash !== hash;
 }
 
 // Script còn chờ việc này không (bị Ctrl-C / hết giờ thì thôi).
-const alive = (SERVER, id) => fetch(`${SERVER}/alive?id=${id}`).then(r => r.ok, () => false);
+const alive = id => fetch(`${SERVER}/alive?id=${id}`).then(r => r.ok, () => false);
 
-const post = (SERVER, path, body) => fetch(SERVER + path, {
+const post = (path, body) => fetch(SERVER + path, {
   method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
 }).catch(() => {});
 
-async function runJob(SERVER, job) {
-  const log = msg => post(SERVER, '/log', { id: job.id, msg });
+async function runJob(job) {
+  const log = msg => post('/log', { id: job.id, msg });
   try {
-    const tabId = await openTab(SERVER, job.url);
+    const tabId = await openTab(job.url);
     const info = await call(tabId, 'prepare', job);
     log(`mở ${info.url} | ${info.account}`);
     await call(tabId, 'send', job);
@@ -68,7 +62,7 @@ async function runJob(SERVER, job) {
     let lastLen = -1, stillSince = Date.now();
     for (;;) {
       await sleep(3000);
-      if (!(await alive(SERVER, job.id))) throw new Error('script đã dừng, bỏ việc');
+      if (!(await alive(job.id))) throw new Error('script đã dừng, bỏ việc');
       const s = await call(tabId, 'status');
       if (s.textLen !== lastLen) stillSince = Date.now();
       if (s.textLen > 0 && Date.now() - stillSince > 30000) break;
@@ -80,33 +74,31 @@ async function runJob(SERVER, job) {
       if (Date.now() > deadline) throw new Error(`quá ${job.timeoutMin} phút chưa xong`);
     }
     const out = await call(tabId, 'collect');
-    await post(SERVER, '/result', { id: job.id, ok: true, account: info.account, ...out });
+    await post('/result', { id: job.id, ok: true, account: info.account, ...out });
   } catch (e) {
-    await post(SERVER, '/result', { id: job.id, ok: false, kind: e.kind || 'error', error: String(e.message || e) });
+    await post('/result', { id: job.id, ok: false, kind: e.kind || 'error', error: String(e.message || e) });
   } finally {
-    await closeTab(SERVER);
+    await closeTab();
   }
 }
 
 // Xong việc thì gỡ debugger và đóng tab làm việc; chat đã tự lưu trên AI Studio, lần sau mở lại theo URL.
-async function closeTab(SERVER) {
-  const key = `tabId:${SERVER}`;
-  const { [key]: tabId } = await chrome.storage.local.get(key);
+async function closeTab() {
+  const { tabId } = await chrome.storage.local.get('tabId');
   if (!tabId) return;
   await chrome.debugger.detach({ tabId }).catch(() => {});
   await chrome.tabs.remove(tabId).catch(() => {});
-  await chrome.storage.local.remove(key);
+  await chrome.storage.local.remove('tabId');
 }
 
 // Một tab riêng cho việc này (mở nền, không chiếm tab đang dùng), đóng khi xong việc.
-async function openTab(SERVER, url) {
-  const key = `tabId:${SERVER}`;
-  let { [key]: tabId } = await chrome.storage.local.get(key);  // storage.local: còn nhớ sau khi extension reload
+async function openTab(url) {
+  let { tabId } = await chrome.storage.local.get('tabId');  // storage.local: còn nhớ sau khi extension reload
   const old = tabId && await chrome.tabs.get(tabId).catch(() => null);
   if (old) await chrome.tabs.update(tabId, { url });
   else {
     tabId = (await chrome.tabs.create({ url, active: false })).id;
-    await chrome.storage.local.set({ [key]: tabId });
+    await chrome.storage.local.set({ tabId });
   }
   await sleep(1000);
   const end = Date.now() + 60000;
