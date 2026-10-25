@@ -37,5 +37,11 @@ quyết định có một câu tính của hắn, và câu tính ấy nói lên 
 3. Số khúc củi: prompt ghi 4.700, bản ra 1.400 khúc nhưng 8 vạn nhát — hai số không khớp nhau về mặt vật lý
    (trung bình 57 nhát một khúc). Hoặc tăng số khúc, hoặc giảm số nhát.
 
+## Đã sửa sau review
+
+- 得令 → 行 (register: dân thường đáp lão lính).
+- Cắt hai câu tả ngoài tầm nhìn của MC.
+- Số khớp lại: 1.400 khúc củi ≈ 4.300 nhát (3 nhát một khúc).
+
 ## Cổng kỹ thuật (phụ lục)
 1602 字 · 6 lượt thoại · 0 `实` · 0 so sánh người kể · 0 phủ định · 0 nhãn giọng.
