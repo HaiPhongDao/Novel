@@ -137,7 +137,10 @@
     const text = models.map(t => [...t.querySelectorAll('ms-text-chunk')]
       .filter(c => !c.closest('ms-thought-chunk'))
       .map(c => c.innerText.trim()).join('\n\n')).join('\n\n').trim();
-    return { models, text };
+    // Phần suy nghĩ (thinking) để Agent đọc khi cần chỉnh SI.
+    const think = models.map(t => [...t.querySelectorAll('ms-thought-chunk')]
+      .map(c => c.innerText.trim()).join('\n\n')).join('\n\n').trim();
+    return { models, text, think };
   }
 
   // Đếm request GenerateContent đang chạy: ở tab nền nút Stop không cập nhật, nên đây mới là dấu hiệu "đang viết".
@@ -214,7 +217,22 @@
 
     async collect() {
       await sleep(1500);
-      const { models, text } = lastReply();
+      let { models, text, think } = lastReply();
+      if (!think || think.length < 200) {
+        // Phần thinking đang thu gọn ("Expand to view model thoughts"): bấm mũi tên bên trong rồi đọc lại.
+        for (const t of models) {
+          const th = t.querySelector('ms-thought-chunk');
+          if (!th) continue;
+          const hit = th.querySelector('button, [role=button], .chevron, mat-icon') || th;
+          hit.click();
+        }
+        await sleep(1500);
+        think = lastReply().think;
+        if (!think || think.length < 200) {
+          await sleep(1500);
+          think = lastReply().think;
+        }
+      }
       const err = pageError();
       if (!text) {
         const msg = err || models.map(t => t.innerText).join('\n').slice(-600) || 'không có câu trả lời';
@@ -224,7 +242,7 @@
                  kind: QUOTA.test(msg) ? 'quota' : 'error' };
       }
       const md = await copyMarkdown(models.at(-1));
-      return { text, md, url: location.href, warning: [err, md ? '' : `copy markdown: ${mdError}`].filter(Boolean).join(' | ') };
+      return { text, md, think, url: location.href, warning: [err, md ? '' : `copy markdown: ${mdError}`].filter(Boolean).join(' | ') };
     },
   };
 

@@ -188,6 +188,7 @@ def main():
     ap.add_argument("--note", default="")
     ap.add_argument("--port", type=int, default=8765, help="phải khớp host_permissions của extension")
     ap.add_argument("--timeout", type=int, default=20, help="phút chờ tối đa cho một câu trả lời")
+    ap.add_argument("--think-out", help="lưu phần thinking của Gemini ra file này (để đọc khi chỉnh SI)")
     args = ap.parse_args()
     if args.new and not args.si:
         ap.error("--new cần --si")
@@ -205,6 +206,7 @@ def main():
 
     start = time.time()
     base = dict(prompt=prompt, model=args.model, thinking=args.thinking)
+    res = None
     try:
         if args.new:
             si = Path(args.si).read_text(encoding="utf-8")
@@ -245,6 +247,12 @@ def main():
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text((f"<!-- {args.note} -->\n\n" if args.note else "") + text + "\n", encoding="utf-8", newline="\n")
+    if args.think_out:
+        th = ((res or {}).get("think") or "").strip()
+        tp = Path(args.think_out)
+        tp.parent.mkdir(parents=True, exist_ok=True)
+        tp.write_text(th + "\n", encoding="utf-8", newline="\n")
+        log(f"thinking: {len(th)} ký tự → {args.think_out}")
     state.update(chat=res["url"])
     save_state(state)
     han = sum(1 for c in text if "一" <= c <= "鿿")

@@ -13,6 +13,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
 | [`lam-game/`](lam-game/README.md) | Chỉ Là Game, Cần Gì Thật — người làm 游戏策划 xuyên vào sinh viên vừa tốt nghiệp ở thế giới game full-dive tôn sùng độ chân thực; không kim thủ chỉ | Bible + dàn ý arc 1 + prompt đoạn 001 |
 | [`goblin/`](goblin/README.md) | Goblin Khai Hoá — thầy giáo hoá từng làm kỹ sư lò cao xuyên vào con goblin còi vừa nở, ở cái hang mà tù trưởng ăn con non khi đói | Lượt 2 (prompt ngắn): prompt đoạn 001–002 |
+| [`lanh-chua-khoa-hoc/`](lanh-chua-khoa-hoc/README.md) | Lãnh Chúa Khoa Học — CEO ngành sản xuất chính xác xuyên vào lãnh chúa trẻ vùng mỏ đá xỉ, đúng lúc phép thuật thành ngành công nghiệp; không hệ thống, không tự tay làm được nghề | Mới mở: 3 phương án tiền đề + bible nháp (overview, world, 5 nhân vật, arc 1) chờ Tác giả duyệt |
 
 ## Cấu trúc
 
@@ -22,7 +23,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | `chung/quy-trinh-ban-giao.md` | Gói bàn giao và chuyển session Writer |
 | `chung/ai-studio.md` | Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome |
 | `chung/review-blacklist.md` | Lỗi văn chung để soát khi review |
-| `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `gop_doan.py` (gộp mỗi 10 đoạn thành `gop/doan-001-010.md`…), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `gemini_write.py` (chạy Writer bằng Gemini API, ghi thẳng `chapters/` — [`chung/gemini-api.md`](chung/gemini-api.md)), `ollama_write.py` (chạy Writer bằng Ollama) |
+| `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `gop_doan.py` (gộp mỗi 10 đoạn thành `gop/doan-001-010.md`…), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `aistudio_run.py` + `aistudio-ext/` (chạy Writer trên AI Studio qua extension Edge), `soat_van.py` (đếm lỗi văn đo được: phủ định lặp, so sánh người kể, độ dài đoạn), `gemini_write.py` (chạy Writer bằng Gemini API, ghi thẳng `chapters/` — [`chung/gemini-api.md`](chung/gemini-api.md)), `ollama_write.py` (chạy Writer bằng Ollama) |
 | `writer/SI-template` | SI mẫu dùng chung — điền ô `[[...]]` cho từng truyện |
 | `_mau-truyen/` | Khung thư mục để chép khi mở truyện mới |
 | `<ten-truyen>/` | Mọi thứ của riêng một truyện: bible, plot, briefs, chapters, gop (khối 10 đoạn), reviews, handoff, SI + lỗi riêng (`gemini/`), archive, log |
