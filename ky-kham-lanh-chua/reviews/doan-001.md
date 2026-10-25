@@ -172,3 +172,35 @@ không chép nguyên dòng bảng; từ đoạn sau brief phải chép nguyên c
 mẫu (23,9) và ngắn hơn chính các bản trước khi bỏ trần độ dài (A 20,0 · C 19,4). Bỏ chỉ tiêu 字 ⇒ model nén cả
 câu, không chỉ nén đoạn. SI v6 thêm **sàn**: trung bình ~23 字/câu, chuỗi câu dưới 15 字 là danh sách chỉ dẫn.
 Đây là chỗ phải đo lại ở đoạn 004 trước khi tin SI v6.
+
+## 10. Đoạn 002-b — sửa gốc rễ thoại MC (SI v7)
+
+Tác giả: "thoại của MC luôn làm tôi khó chịu." Chẩn đoán trên 26 lượt của MC ở 001-E/002/003: trung vị **8 字**,
+15/26 lượt ≤8 字, không một lượt nào hỏi thật / xin / cảm ơn / nhận sai / nói chuyện ngoài việc; lượt nào cũng
+ra lệnh hoặc phán; và hắn thắng mọi cuộc bằng đe dù chưa có quyền (19 tuổi, không lệnh bắt ai, mà 代守 cúi
+đầu ngay). Ba câu ngầu liên tiếp ở ba đoạn (`斧子不能当饭吃…` / `今晚加练。` / `它们走累了。`) là tật thứ tư.
+
+SI v7 thêm 3 dòng: (a) hắn chỉ ra lệnh khi đã trả giá mua quyền — với người không nợ hắn thì mua, hỏi, nịnh,
+nhờ, và người kia có quyền từ chối; (b) mỗi cảnh một câu hỏi thật + một lượt ngoài việc; (c) mỗi đoạn tối đa
+một câu ngầu, không đặt ở cuối đoạn. Brief 002-v2 thêm khối 【Quyền lực trong cảnh】 (hắn **không có** quyền
+trên 代守; vũ khí duy nhất là tờ 委任状 và 497 cái bụng đói).
+
+| | 002-a | 002-b (SI v7) |
+|---|---|---|
+| chữ/câu | 16,0 | **23,9** (mẫu 23,9) |
+| lượt thoại | 19 | 14 |
+| lượt của MC | 9 (trung vị 17 字) | 6 (trung vị **25,5** 字) |
+| tật | 0 (sau 1 sửa tay) | 1 nhãn ngữ điệu (đã sửa: `平静地说道` → `把羊皮纸摊在他眼前`) |
+
+Thay đổi trong thoại, cụ thể:
+
+| | 002-a | 002-b |
+|---|---|---|
+| câu hỏi | `“你这是要走？”` | `“谁给你批的撤防文书？”` — câu hắn **không biết đáp án** |
+| đối phương | 代守 giải thích rồi đi | `“粮册上全是死人和七年前的烂账，钥匙我有，凭什么白白给你？”` — 代守 **từ chối** |
+| vũ khí của MC | `“少一样，你们今天谁也出不了这道门。”` (đe, không có quyền) | `“凭这个，这是我父亲亲笔签的换防委任状。”…“你拿着它走，路上要是撞见巡防骑兵，就说是我带兵接替了防务，我不会往上面报你私自弃守。”` — **mua bằng một lời hứa** |
+| nhận thức quyền lực | chỉ có `士气` | tường thuật nói thẳng: `真要拔剑动手，这四十个杀过人的老残兵能把他的农奴队伍冲得七零八落` |
+| ngoài việc | không có | `“你家里还有几口人留在巴罗尔城？”` → 卡尔: vợ, hai con, đứa lớn bảy tuổi → MC hứa ba ngày phép |
+| kết đoạn | `“给我数数对面的火头。”` (câu chốt) | 卡尔 trèo lên mép tháp canh đếm lửa — **không có câu ngầu** |
+
+Giới hạn: một cảnh, một lần chạy. Muốn nhận công thì phải chạy 002-b lần thứ hai và so hai bản sinh.

@@ -67,3 +67,10 @@ trong brief nên Writer không viết — lỗi brief, không phải lỗi SI. |
 5 chết 8 thương → 492; treo kẻ bỏ chạy; kết `“今晚加练。”`. Sửa tay 3 chỗ (老骑士 → 卡尔; dòng bảng sai dạng
 do brief của Agent ghi thiếu; `捆了个结实` khuôn 实). Nhịp câu 15,8 字. | SI v6 thêm sàn độ dài câu: bỏ chỉ tiêu
 字 làm model nén cả câu chứ không chỉ nén đoạn | Agent
+
+2026-10-26 | SI v7 + đoạn 002-b | Tác giả: "thoại của MC luôn làm tôi khó chịu". Đo 26 lượt của MC ở 001-E/002/
+003: trung vị 8 字, 15/26 ≤8 字, 0 lượt hỏi thật/xin/cảm ơn/nói ngoài việc; thắng mọi cuộc bằng đe dù chưa có
+quyền; ba đoạn ba câu ngầu. SI v7: quyền lực trong thoại + mỗi cảnh một câu hỏi thật & một lượt ngoài việc +
+tối đa một câu ngầu và không ở cuối đoạn. Brief 002-v2 thêm khối 【Quyền lực trong cảnh】. Kết quả 002-b:
+23,9 字/câu (mẫu 23,9), MC 6 lượt trung vị 25,5 字, 代守 từ chối được, MC mua bằng lời hứa thay vì đe, có hỏi
+chuyện vợ con 卡尔, không kết bằng câu chốt. | Sửa ở SI+brief ăn ngay, không phải sửa câu | Agent

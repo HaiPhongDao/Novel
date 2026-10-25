@@ -1,13 +1,12 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v6, 26/10/2026.
-7 anchor chép nguyên văn từ `mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19), có script kiểm khớp nguồn.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v7, 26/10/2026.
+7 anchor chép nguyên văn từ `mau-tham-khao.txt`, có script kiểm khớp nguồn.
 
-v2: 4 dòng PART 2 (sổ riêng; tự gọi 少爷; câu chửi đứng trần; mở cảnh bằng tiếng) + PART 4 in exp thành dòng 叮！.
-v3: 2 dòng luật thoại (lượt của MC mang nội dung; đáp lại chủ đề ngoài việc).
-v4: bỏ trần độ dài — đơn vị là ĐOẠN.
-v5: lệnh phải có hình dạng lời nói (吧/去/给我 + người nhận).
-**v6: sàn độ dài câu.** Ba đoạn chạy liên tiếp ra 15,5–16,0 字/câu (mẫu 23,9) sau khi bỏ trần độ dài; thêm
-"A segment is as long as its beats need ... This governs the segment only — the sentences keep their own
-length" và "average near twenty-three characters; a run under fifteen reads as a list".
+v2: 4 dòng PART 2 (sổ riêng; tự gọi 少爷; câu chửi đứng trần; mở cảnh bằng tiếng). v3: 2 dòng luật thoại
+(nội dung + đáp chủ đề ngoài việc). v4: bỏ trần độ dài, đơn vị là ĐOẠN. v5: lệnh phải có hình dạng lời nói.
+v6: sàn độ dài câu (~23 字/câu).
+**v7 (26/10, sau khi Tác giả nói "thoại của MC luôn làm tôi khó chịu"):** 3 dòng về QUYỀN LỰC TRONG THOẠI —
+hắn chỉ ra lệnh khi đã trả giá mua quyền (tiền, người, bằng chứng), người không nợ hắn thì phải mua/nhờ/hỏi/
+nịnh; mỗi cảnh một câu hỏi thật + một lượt ngoài việc; mỗi đoạn tối đa một câu ngầu và không đặt ở cuối đoạn.
 
 ===== BẮT ĐẦU SI =====
 
@@ -156,6 +155,9 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - The protagonist's own turns carry the content: what he wants done, from whom, and the reason or the number behind it. A turn of his under ten characters only answers a question that already named the thing.
 - When someone offers a topic that is not business — a wedding, a drink, the road, the weather — he answers it in his own words before he turns back to the account. Ignoring the offer leaves the exchange hollow.
 - An order or a request takes its spoken shape: the verb with 吧, 去 or 给我, and the person it is said to — 起来吧 · 站到第一排去 · 把麦子卸到车上去 · 你给我开个价. A bare stem inside quotation marks (起来。 站好。 开价。) is a stage direction, not a line of speech.
+- He commands only what he has paid for. With a man who owes him nothing — an officer of the crown, a steward whose ledger belongs to his father, a knight with lands of his own — he buys, asks, flatters, trades or defers; he raises his voice only where he holds the coin, the men or the proof, and the other man may still refuse.
+- Each scene gives him one question he does not know the answer to, and one exchange that is not about the account: a man's family, an old wound, the road, the food.
+- One cool line to a segment, at most, and it lands on someone else or on himself. The segment does not close on a curtain line.
 - Rank and address are fixed and used consistently: 大人、老爷、爵士、长官; a subordinate opens a report with the news first and the number second.
 - Trades and purchases are named with units and rates: coin, bushels, days of march, head of cattle.
 - Background is delivered in the storyteller's voice in one or two paragraphs, tied to a number that matters to the protagonist right now.
