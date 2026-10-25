@@ -73,3 +73,27 @@ biến thiên của lần chạy chứ không phải lỗi SI. Sửa tay 10 ch�
 
 **CẦN TÁC GIẢ ĐỌC.** Bản B sạch tật đo được, đúng nhịp mở, có cái giá và có hook quyết định; chưa duyệt thì
 chưa viết chương 2. Ba con số còn lệch mẫu: 字 +21%, lượt thoại gấp đôi, câu 21,3 so với 23,9.
+
+## 6. Vòng 2 — Tác giả bắt: "MC nói chuyện chưa đầy đủ, giao tiếp còn trống không" (bản C)
+
+Chẩn đoán trên bản B: 47 lượt thoại nhưng **19,9 字/lượt** (mẫu 22,4), và lượt của MC thì nêu việc mà
+không nêu **vì sao / cho ai / bao nhiêu**. Ba chỗ nặng nhất:
+
+| bản B | bản C |
+|---|---|
+| `“开个价吧。”` (3 字, không nói tiền ở đâu ra, không nói cái gì đang bị bán) | `“开个价。”阿德里安打断了他的推脱，“钱从我那份里出，走我私账。父亲的账本上不必有这一笔。”` |
+| `“两枚金币一个。”…“行就放人，不行我现在就去父亲的房里…”` (không nói vì sao 2 là giá đúng) | MC dẫn lại chính luật 格里 vừa nói: `逃奴赎买是双倍罚金。一个农奴折一枚金币，翻倍就是两枚，十二个二十四枚。这个价你按律收得，我按律付得。` |
+| 格里 mời uống rượu mừng → `阿德里安没理会他的试探` (**im lặng = trống không**) | `“喜酒就不喝了。”…“我这边五百张嘴，走到铁脊要塞要七天，先得把这七天喂饱。”` rồi biến lời mời thành cuộc mặc cả: 格里 khai ra **2.000 斤 thóc mốc không có trong sổ**, đổi lấy một câu nói đỡ trước mặt nam tước |
+
+Ba chỗ khác đã làm đầy: lệnh cho 科尔 (`起来。回队伍里去，站第一排。让后面的人看清楚…`), mặc cả với cha
+(`后山旧仓那批陈麦…到冬天按半价折钱还进公账` / `冬天之前还不上呢？` / `那今年就不用给我留门了`), và kết
+chương bằng kế hoạch có số (`二十四把，五百个人。怎么分？` → `路上砍。七天路，每天砍一批，削尖一头。`).
+
+Số sau khi sửa: **3.108 字 · 50 lượt · 33,0 字/lượt** (B: 2.647 · 47 · 19,9; mẫu: 2.122 · 20 · 22,4).
+Tức mỗi lượt đã dày gấp rưỡi, nhưng chương dài thêm 461 字.
+
+Hai việc còn phải quyết:
+1. **Dài**: 3.108 字 = +46% so với trung vị mẫu. Cách rẻ nhất là tách **cảnh thư phòng của cha** sang đầu
+   chương 2 (nó là cảnh chuyển giao lệnh, không phải cảnh trả giá), chương 1 còn ~2.400 字.
+2. **Lượt thoại 50** (mẫu 20) vẫn cao; nguyên nhân là chương có ba cảnh thoại liền. Tách cảnh cha đi thì còn
+   ~35.

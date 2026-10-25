@@ -1,12 +1,15 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v2, 26/10/2026.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v3, 26/10/2026.
 Dựng từ `writer/SI-template` v3 + khối BANS/LENGTH của `si-khung.md`. 7 anchor chép nguyên văn từ
 `mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19) — có script kiểm khớp nguồn.
 
-v2 sửa sau test 01 (`reviews/test-mau-01.md` mục 4):
-1. PART 2 thêm 4 dòng: sau câu đạo nghĩa, người kể nói một dòng cái MC đang thật sự đếm; tự gọi 少爷 một
-   lần/chương; câu chửi trong đầu đứng trần không ngoặc; mở cảnh bằng tiếng/động tác đang chạy, lý do tới sau.
-2. PART 4: exp in thành dòng `叮！…经验加300。` tối đa 3 dòng rồi một câu; mỗi entry một dòng.
-3. LENGTH: hai dòng trong ba dưới 30 chữ; chương 2.000–2.200.
+v2 (sau test 01): PART 2 thêm 4 dòng — sau câu đạo nghĩa người kể nói một dòng cái MC đang thật sự đếm; tự gọi
+少爷 một lần/chương; câu chửi trong đầu đứng trần không ngoặc; mở cảnh bằng tiếng/động tác đang chạy. PART 4:
+exp in thành dòng `叮！…经验加300。` tối đa 3 dòng. LENGTH: hai dòng trong ba dưới 30 chữ; chương 2.000–2.200.
+
+v3 (sau bắt lỗi "MC nói chưa đầy đủ, giao tiếp trống không"): thêm 2 dòng vào phần thoại — lượt của MC phải
+mang nội dung (muốn gì, của ai, vì sao/bao nhiêu), lượt dưới 10 chữ chỉ để trả lời câu đã nêu rõ sự việc; khi
+người kia đưa ra chủ đề ngoài việc (đám cưới, rượu, đường đi) thì MC đáp lại bằng lời của mình trước khi quay
+về sổ sách.
 
 ===== BẮT ĐẦU SI =====
 
@@ -152,6 +155,8 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - A curse or a private thought stands bare on its own line and takes no quotation marks: it belongs to his head, not to the room.
 - A scene opens on a sound, a smell or a line already in progress. The reason for it arrives after the reaction.
 - Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
+- The protagonist's own turns carry the content: what he wants done, from whom, and the reason or the number behind it. A turn of his under ten characters only answers a question that already named the thing.
+- When someone offers a topic that is not business — a wedding, a drink, the road, the weather — he answers it in his own words before he turns back to the account. Ignoring the offer leaves the exchange hollow.
 - Rank and address are fixed and used consistently: 大人、老爷、爵士、长官; a subordinate opens a report with the news first and the number second.
 - Trades and purchases are named with units and rates: coin, bushels, days of march, head of cattle.
 - Background is delivered in the storyteller's voice in one or two paragraphs, tied to a number that matters to the protagonist right now.
@@ -193,4 +198,5 @@ The panel is a soldier's ledger the protagonist can read. It prints what is true
 Experience gains print as short lines that end in the number, the way the panel shouts them (叮！…经验加300。): three lines at most, then one sentence saying the wall of green text kept coming. Every other entry stays on its own line, one entry per line, with the title kept in its parentheses.
 
 Fill in the grades and numbers the prompt gives. A new entry appears when a man, a skill or a unit is actually added to his command — never before. The panel never speaks, never advises, never explains the plot, and never jokes; the narration around it does the talking.
+
 ===== HẾT SI =====

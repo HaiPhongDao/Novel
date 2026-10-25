@@ -33,3 +33,10 @@ thân thể → sân), mặc cả có chất liệu xã hội (đám cưới anh
 `他阿德里安少爷`, kết bằng quyết định mua 24 cái rìu. Còn lệch mẫu: 字 +21%, 47 lượt thoại (mẫu 20), câu 21,3
 (mẫu 23,9). Canon mới phải chốt: 科尔 50 tuổi (không phải 28), tỷ giá exp 400 lần vung = 1 点. | Sửa tay rẻ hơn
 vòng SI mới vì hai tật đó là biến thiên lần chạy, test 01 đã sạch | Agent
+
+2026-10-26 | chương 1 vòng 2 | Tác giả: "MC nói chuyện chưa được đầy đủ, giao tiếp còn trống không". Nguyên
+nhân đo được: 47 lượt nhưng 19,9 字/lượt, và lượt của MC nêu việc mà không nêu vì sao/cho ai/bao nhiêu; chỗ
+格里 mời rượu mừng thì MC im lặng. Sửa ba tầng: SI v3 thêm 2 dòng (lượt của MC phải mang nội dung + trả lời
+chủ đề người kia đưa ra trước khi quay về việc), brief ch2 sẽ ghi rõ nội dung từng lượt, bản C sửa tay 10
+đoạn thoại và thêm một cuộc mặc cả thóc mốc (2.000 斤) với 格里. Số: 3.108 字 · 50 lượt · 33,0 字/lượt. | Dài
++46% so với mẫu; đề xuất tách cảnh thư phòng sang đầu chương 2 | Agent

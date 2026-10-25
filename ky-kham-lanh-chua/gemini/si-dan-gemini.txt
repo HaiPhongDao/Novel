@@ -140,6 +140,8 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - A curse or a private thought stands bare on its own line and takes no quotation marks: it belongs to his head, not to the room.
 - A scene opens on a sound, a smell or a line already in progress. The reason for it arrives after the reaction.
 - Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
+- The protagonist's own turns carry the content: what he wants done, from whom, and the reason or the number behind it. A turn of his under ten characters only answers a question that already named the thing.
+- When someone offers a topic that is not business — a wedding, a drink, the road, the weather — he answers it in his own words before he turns back to the account. Ignoring the offer leaves the exchange hollow.
 - Rank and address are fixed and used consistently: 大人、老爷、爵士、长官; a subordinate opens a report with the news first and the number second.
 - Trades and purchases are named with units and rates: coin, bushels, days of march, head of cattle.
 - Background is delivered in the storyteller's voice in one or two paragraphs, tied to a number that matters to the protagonist right now.
