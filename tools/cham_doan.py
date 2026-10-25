@@ -10,6 +10,12 @@ import re, sys, json, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import soat_van as sv
 
+# Từ phong kiến bị cấm trong truyện hiện đại. "小的" chỉ tính khi là tự xưng, không tính "窄小的…".
+CANON_MODERN = {
+    "大人": r"大人", "老爷": r"老爷", "少爷": r"少爷", "属下": r"属下",
+    "奴才": r"奴才", "老奴": r"老奴", "陛下": r"陛下", "殿下": r"殿下",
+    "小的": r"(?<![窄细瘦矮短小])小的(?=[，。！？、”\s]|$)",
+}
 CANON = {
     "回大人": (3, None),
     "小的": (2, None),
@@ -49,6 +55,9 @@ def measure(path, prompt_path=None, numbers=None):
         "the": r["the-thoai"],
     }
     d["canon"] = {k: len(re.findall(k, t)) for k in CANON}
+    d["canon_modern"] = {k: len(re.findall(v, t)) for k, v in CANON_MODERN.items()}
+    if numbers is None and prompt_path and "modern" not in prompt_path:
+        pass
     need = NUMBERS if numbers is None else numbers
     d["so_lieu_thieu"] = [n for n in need if n not in t]
     d["moc"] = re.findall(r"[一二三四五六七八九十百]+天|[0-9]+天", t)
@@ -63,7 +72,7 @@ def measure(path, prompt_path=None, numbers=None):
     return d
 
 
-def score(d):
+def score(d, modern=False):
     parts = []
 
     def band(name, ok, weight, group):
@@ -89,13 +98,15 @@ def score(d):
         and c["末将"] == 0 and c["陛下"] == 0 and c["殿下"] == 0
         and not d["so_lieu_thieu"]
     )
+    if modern:
+        canon_ok = sum(d.get("canon_modern", {}).values()) == 0 and not d["so_lieu_thieu"]
     s += band("canon + số liệu", canon_ok, 10, "canon")
     return s, parts
 
 
-def report(path, prompt_path=None, numbers=None):
+def report(path, prompt_path=None, numbers=None, modern=False):
     d = measure(path, prompt_path, numbers)
-    s, parts = score(d)
+    s, parts = score(d, modern)
     g = {}
     for n, ok, w, grp in parts:
         g.setdefault(grp, [0, 0])
@@ -109,7 +120,7 @@ def report(path, prompt_path=None, numbers=None):
         print(f"{os.path.basename(path)}  →  {s}/100   nhịp {g['nhịp'][0]}/{g['nhịp'][1]} · văn {g['văn'][0]}/{g['văn'][1]} · canon {g['canon'][0]}/{g['canon'][1]}")
     print(f"  chữ {d['han']} · câu {d['cau']} · chữ/câu {d['chu_cau']} · lượt {d['luot']} · chữ/lượt {d['chu_luot']}")
     print(f"  phủ định {d['phu_dinh']} · 实 {d['shi']} · nhãn {d['nhan']} · so sánh {d['so_sanh']} · thẻ {d['the']}")
-    print(f"  canon {d['canon']} · thiếu số {d['so_lieu_thieu']} · mốc ngày {d['moc']}")
+    print(f"  canon {d['canon']} · canon-modern {d.get('canon_modern')} · thiếu số {d['so_lieu_thieu']} · mốc ngày {d['moc']}")
     miss = [n for n, ok, w, grp in parts if not ok]
     if miss:
         print("  chưa đạt: " + ", ".join(miss))
@@ -118,7 +129,10 @@ def report(path, prompt_path=None, numbers=None):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    prompt_path, numbers = None, None
+    prompt_path, numbers, modern = None, None, False
+    if "--modern" in args:
+        modern = True
+        args = [a for a in args if a != "--modern"]
     if "--prompt" in args:
         i = args.index("--prompt")
         prompt_path = args[i + 1]
@@ -130,5 +144,5 @@ if __name__ == "__main__":
     for p in args:
         if p == "--json":
             continue
-        report(p, prompt_path, numbers)
+        report(p, prompt_path, numbers, modern)
         print()
