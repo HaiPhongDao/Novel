@@ -310,3 +310,40 @@ trang viên (`老爷定过规矩，成年健壮的劳力折算两个金币`); c�
 và mật độ câu tụt mạnh so với lần trước với cùng một prompt** — 1.368 字 / 20,0 字/câu, 5 câu ≤5 字.
 Nguyên nhân nằm ở prompt (`khoảng 2.000 字`), đúng như đề xuất ở mục 12: đổi thành `2.000 字, không dưới
 1.900` và thêm một dòng thân phận cho Karl trước lần chạy sau.
+
+
+## 14. Bản H — prompt v4 (mốc 2.000 không dưới 1.900 + dòng thân phận Karl) + glossary 少爷
+
+Lệnh: `--new`, SI v9, prompt mới `briefs/doan-001-v4.md` (v3 + hai sửa đổi đã duyệt), out
+`chapters/doan-001-h.md`, thinking `archive/thinking-001-h.md`. 131s, **2.461 字**. Glossary mục 3 thêm dòng
+`少爷` (người hầu gọi con trai nam tước, tự xưng `小的`) — chốt theo yêu cầu Tác giả ngày 26/10.
+
+| số đo | G (v3) | **H (v4)** | mẫu |
+|---|---|---|---|
+| 字 | 1.368 | **2.461** (+80% so với G, +23% so với mốc 2.000) | ≈2.000 |
+| 字/câu | 20,0 | **21,2** | 21,2 |
+| lượt thoại · 字/lượt | 15 · 18,0 | **21 · 28,5** | ~20 · 22,4 |
+| phủ định lặp · 实 · nhãn · so sánh người kể · thẻ thoại | 1·1·0·0·4 | **6·0·2·1(3 bằng mắt)·11** | — |
+
+`cham_doan.py`: **56/100** (nhịp 44/56 · văn 12/34 · canon 0/10).
+
+**Dòng thân phận có tác dụng — đo được:** Karl ra đúng canon (`三十四岁`, `服役过十年`, `左手上小拇指齐根
+断掉，只剩下四根粗壮的手指`, sẹo từ tai xuống cằm), Cole đúng `八年` chăn ngựa. Đây là chỗ bản F và G hỏng.
+**Register `少爷` cũng landed:** `少爷` ×9 cho Adrian, `老爷` ×0; ba chỗ `大人` đều là nói về nam tước
+(`男爵大人`). Nhưng **`小的` vẫn = 0** — Gerry tự xưng `我` (`我立刻在账册上记成您的私人奴仆`). Dòng glossary
+không tự đi vào văn: SI v9 không có luật nào về `小的`, nên tầng thứ ba (SI) còn thiếu.
+
+**Hai lỗi nội dung phải sửa trước khi dùng bản H:**
+- **Số sai tự mâu thuẫn:** dòng `六枚金币全拿去买粮，也不过是一千四百四十斤` — 1.440 là số **铜币**, đổi ra
+  ㎡ phải là **720 斤** (`一千四百四十 ÷ 2`). Chính bản thảo viết đúng 720 斤 ở lượt thoại của Karl ngay sau đó.
+- **Canon exp sai:** `还差十九点经验，他就能迈进四阶的门槛` — 4阶 dùng thanh /2000 (glossary mục 1), 19 点 không
+  thể qua 4阶; 481/500 chỉ đầy thanh 3阶.
+
+**Đánh đổi đã biết, lặp lại đúng:** kéo dài + thêm đoạn nền thì mật độ tật tăng — phủ định lặp 1 → 6
+(`这根本不是什么委任，这是让他去送死` · `他没有领地，没有私兵，甚至没有使唤…的权力` · `可不是什么善心泛滥的圣人`),
+so sánh người kể 3 (`像是一把粗糙的砂纸` · `商贾般的假笑` · `堆得像小山一样`, tool chỉ bắt 1), nhãn 2
+(`平静地问道` · `淡淡说道`), thẻ thoại 11. Đổi lại nhịp câu và độ dày thoại khớp mẫu hơn hẳn G.
+
+**Kết luận:** mốc `không dưới 1.900` **sửa quá tay** — model đệm thêm 460 字. Dòng thân phận là thắng lợi rõ
+(giữ nguyên cho mọi prompt sau). Lần sau: cửa sổ `1.900 字, không quá 2.000`, và nếu muốn `小的` thì thêm một
+dòng vào SI (cần Tác giả duyệt).

@@ -34,6 +34,10 @@ Viết `二阶.500法兰克民兵（495/500）` → đổi sang tên truyện: `
 | kỵ sĩ có đất (nam tước trở xuống) | 爵士 | 我 |
 | lính gọi sĩ quan trực tiếp | 长官 | 我 |
 | người hầu, nông nô nói với quý tộc | 大人 / 老爷 | 小的 |
+| người hầu gọi con trai nam tước (chưa có đất) | 少爷 | 小的 |
+
+`少爷` là cách gọi **người thừa kế**, không phải `老爷`; `老爷` để cho nam tước đang tại vị (Gerry gọi Adrian
+là `少爷`, nhưng nói về cha hắn thì vẫn là `男爵老爷`). Người hầu nói với Adrian luôn tự xưng `小的`.
 
 `陛下` chỉ dành cho vua, `殿下` cho vương tử. Không dùng 老奴 / 奴才 / 属下 (dạng Trung Hoa đế quốc).
 
