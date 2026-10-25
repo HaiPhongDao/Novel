@@ -12,3 +12,13 @@ không ai bảo kê, bắt đầu bằng một lưỡi rìu.
 - SI: `gemini/system-instruction-v1.md` — bản dán: `gemini/si-dan-gemini-v1.txt`
 - Chương 1: `briefs/chuong-001.md` → `chapters/chuong-001-a.md` (2.257 字 sau biên tập)
 - Review: `reviews/chuong-001-a.md`
+
+## Trạng thái duyệt (cập nhật tay)
+
+| chương | bản | trạng thái |
+|---|---|---|
+| 1 | A → D | **CHƯA DUYỆT.** B, C, D đều là nháp. D sạch tật nhưng **rỗng cảm xúc** — Tác giả nói "mất hết sạch cảm xúc". |
+| 2 | A | nháp, **không canon** — viết khi ch1 chưa duyệt |
+| 3 | A | nháp, **không canon** |
+
+Quy tắc từ đây: chương sau chỉ viết khi chương trước được Tác giả duyệt. Không tính "sạch tật" là "đạt".

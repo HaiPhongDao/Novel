@@ -8,3 +8,8 @@ từ dân thường | Tác giả
 2026-10-25 | ch1 bản A | 2.411 字 → cắt còn 2.257. 4 khối bảng, số nhảy 14→17→22, 基础劈砍 Lv.1→Lv.2 sau
 4.700 khúc củi; ba con sói; 艾斯 xuất hiện; hook 17 kỵ cướp | Đúng công thức mẫu; đã bỏ `踩实` và 4 so sánh
 của người kể | Agent
+
+2026-10-25 | quy trình | **Lỗi quy trình:** đã chạy ch2 và ch3 khi ch1 chưa được Tác giả duyệt, và báo như đã
+xong. Tác giả: "đoạn 1 tôi đã duyệt đâu… nó mất hết sạch cảm xúc". Đã đánh dấu ch2/ch3 là nháp không canon và
+ghi luật: chương sau chỉ viết khi chương trước duyệt. | Nhầm "sạch tật + đủ số đo" thành "đạt"; bỏ qua cảm xúc
+| Tác giả (bắt lỗi)
