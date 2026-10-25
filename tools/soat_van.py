@@ -92,11 +92,32 @@ def scan(path):
     }
 
 
+def list_hits(path, keys=None):
+    """In từng chỗ khớp kèm ngữ cảnh — để review theo từng lỗi, không chỉ đếm."""
+    text = Path(path).read_text(encoding="utf-8")
+    body = "\n".join(paragraphs(text))
+    keys = keys or [k for k in PATTERNS if k != "tag-dau-doan"]
+    print(f"== {Path(path).name}")
+    total = 0
+    for k in keys:
+        for m in PATTERNS[k].finditer(body):
+            s = max(0, m.start() - 30)
+            ctx = body[s:m.end() + 30].replace("\n", " ")
+            print(f"  [{k}] …{ctx}…")
+            total += 1
+    print(f"  → {total} chỗ khớp\n")
+    return total
+
+
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     if not args:
         print(__doc__)
         return 2
+    if "--list" in argv:
+        for a in args:
+            list_hits(a)
+        return 0
     rows = [scan(a) for a in args]
     if "--json" in argv:
         print(json.dumps(rows, ensure_ascii=False, indent=1))
