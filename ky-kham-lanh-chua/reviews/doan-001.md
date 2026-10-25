@@ -265,3 +265,48 @@ hỏi của Karl (`“少爷，您要买斧头？”`).
 - **003**: ngày đầu chặt 120 根 cọc cho khẩu độ 60 步; 9 豺狼人 mò tới; trận đầu; 41 người lên 二阶; và cái
   giá: treo một kẻ bỏ chạy trước 492 người.
 
+
+
+## 13. Chạy lại đoạn 001 bằng prompt ngắn có sẵn — bản G
+
+Lệnh: `--new`, SI v9 (`gemini/si-dan-gemini.txt`, 14.675 ký tự, khớp nguyên văn khối SI trong
+`system-instruction.md`), prompt `briefs/doan-001-v3.md` **không sửa một chữ**, out
+`chapters/doan-001-g.md`, thinking `archive/thinking-001-g.md`. 113s, 1.368 字. Cùng ngày chuyển
+toàn bộ bản cũ của `chapters/` (001-a…f, 002-a/b/c, 003-a, 004-a, test-01) vào `chapters/archive/`
+để thư mục chỉ còn bản đang làm.
+
+| số đo | F (cùng prompt, cùng SI) | G (lần này) | mẫu |
+|---|---|---|---|
+| 字 | 1.746 | **1.368** (−22% so với F, −32% so với mốc 2.000) | ≈2.000 |
+| 字/câu | 26,5 | **20,0** | 21,2–23,9 |
+| lượt thoại | 10 | **15** | ~20 |
+| 字/lượt | 26,0 | **18,0** | 22,4 |
+| phủ định lặp · 实 · nhãn · thẻ thoại | 0·0·0·0 | **1·1·0·4** | — |
+
+`cham_doan.py`: **72/100** (nhịp 44/56 · văn 28/34 · canon 0/10). Danh sách chỗ khớp:
+`phu-dinh-lap-cau` — `Adrian没有男爵手令，在这座庄园里管不到管事的脖子上。` (hai phủ định song song);
+`khuon-shi` — `Gerry脸上的笑容变得真切了一些。` (nhãn nét mặt thay vì việc);
+`the-thoai` — `头也不抬地吩咐道` · `管事微笑道` · `Adrian说道` · `Adrian问道`.
+
+**Số liệu khớp toàn bộ** (tính bằng máy): 512 − 12 = 500; 12 × 2 = 24 金币, 30 − 24 = 6; 13 × 800 =
+10.400 斤; 10.400 / 1.000 = 10,4 ngày; 6 × 240 = 1.440 铜币 = 720 斤; 1.440 / 60 = 24 rìu; 60 步;
+2.000 · 30 ngày. `cham_doan --numbers` báo `thiếu số []`.
+
+**Writer tự làm được (không có trong prompt):** Cole trả lời bằng một chuyện ngoài việc (`那匹老灰马去年
+冬天病死了`) — đúng luật "chất liệu xã hội" của SI v7; MC trả tiền bằng cách **xếp từng đồng lên mép máng
+cỏ** (trùng hình ảnh với F — cùng SI + cùng prompt tái lập cùng một cử chỉ); Gerry tự lý sự bằng luật
+trang viên (`老爷定过规矩，成年健壮的劳力折算两个金币`); câu chốt là câu hỏi của Karl.
+
+**Hai chỗ lệch canon, đều đã có trong bản F:**
+- Karl vẫn bị viết thành `年轻的随从` (canon: 34 tuổi, cựu lính biên phòng, tay trái bốn ngón). Prompt v3
+  không có dòng thân phận cho Karl nên Writer tự điền — đúng như cảnh báo ở mục 12.
+- `小的` = 0: Gerry (quản sự) gọi Adrian bằng `少爷` + `您`, không tự xưng `小的`, trong khi `glossary` mục
+  register ghi người hầu → `大人 / 老爷` + `小的`. Hai nguồn đang lệch nhau: glossary chưa có dòng `少爷`
+  cho người thừa kế, còn Tác giả đã sửa `老爷 → 少爷` ở đoạn 004. Cần chốt một dòng trong glossary.
+  Hai chỗ `老爷` trong bản G đều là Gerry nói về **nam tước** (`男爵老爷`, `老爷定过规矩`) nên không sai;
+  `canon 0/10` của `cham_doan` là chấm theo bộ register mặc định, không phải lỗi của bản G.
+
+**Kết luận:** luật văn của SI v9 giữ được (0 nhãn, 0 so sánh người kể, thoại có nội dung), nhưng **độ dài
+và mật độ câu tụt mạnh so với lần trước với cùng một prompt** — 1.368 字 / 20,0 字/câu, 5 câu ≤5 字.
+Nguyên nhân nằm ở prompt (`khoảng 2.000 字`), đúng như đề xuất ở mục 12: đổi thành `2.000 字, không dưới
+1.900` và thêm một dòng thân phận cho Karl trước lần chạy sau.

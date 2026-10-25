@@ -93,3 +93,5 @@ nhường cho con số ghi trong prompt. Bản F: 1.746 字, 10 lượt, 26,0 �
 toàn bộ. Writer tự làm: Gerry tự nêu giá bằng luật, MC xếp từng đồng vàng lên nắp thùng, câu chốt là câu hỏi
 của Karl. | Lệch dàn ý: Karl thành hầu 16 tuổi (đã sửa), Cole 6 năm (đã sửa), **前任长官 đã bỏ chạy** → phải đổi
 nội dung đoạn 002–003: thành rỗng + 40 lão binh bị bỏ lại | Agent
+
+2026-10-26 | đoạn 001-G + archive chapters | Chạy lại đoạn 001 theo yêu cầu Tác giả: `--new`, SI v9, prompt `doan-001-v3.md` nguyên văn, 113s, **1.368 字**. Số liệu khớp toàn bộ; 0 nhãn ngữ điệu, 0 so sánh người kể; có lượt ngoài việc (ngựa già của Cole) và vẫn xếp từng đồng vàng lên mép máng cỏ. Tật: phủ định lặp 1, 实 1 (`真切`), thẻ thoại 4, câu 20,0 字 (F 26,5), hụt 32% so với mốc 2.000. Karl vẫn thành `年轻的随从` vì prompt v3 không có dòng thân phận. Đã `git mv` 12 bản cũ (001-a…f, 002-a/b/c, 003-a, 004-a, test-01) vào `chapters/archive/`. cham_doan 72/100. | Sửa ở prompt (mốc 2.000 không dưới 1.900 + dòng thân phận Karl), chưa sửa SI | Agent
