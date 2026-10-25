@@ -58,3 +58,12 @@ brief cũ (189s, 1.963 字): Writer tự ra `“把人给我放下来吧。”`,
 32 lượt · 24,0 字/lượt (mẫu 20 · 22,4) — sát mẫu hơn bản D sửa tay (50 · 34,0). Còn 1 tật: so sánh
 `五百个农奴像木桩一样戳在寒风里`. Hai cảnh Agent tự thêm ở D (mặc cả thóc mốc, xin cha hoãn nợ) không có
 trong brief nên Writer không viết — lỗi brief, không phải lỗi SI. | Luật SI hiệu quả hơn sửa tay ở tầng câu | Agent
+
+2026-10-26 | đoạn 002 | Chạy tiếp session của 001 (107s, 1.439 字). Đủ beat: 497 người · 3.400 斤 = ba ngày ·
+代守 bán lương 20 金币, dẫn 40 lão binh đi · tường 60 步, 120 根 cọc, 24 rìu × 3 = 72 根/ngày · 43 火头.
+0 tật. Sửa tay 1 câu phủ định cặp. Nhịp câu 16,0 字 (mẫu 23,9). | Writer tự ra `“给我数数对面的火头。”` | Agent
+
+2026-10-26 | đoạn 003 | Session mới, SI v5 (147s, 1.360 字). Trận đầu: 9 豺狼人, MC giết 2 = 18 点 → 499/500;
+5 chết 8 thương → 492; treo kẻ bỏ chạy; kết `“今晚加练。”`. Sửa tay 3 chỗ (老骑士 → 卡尔; dòng bảng sai dạng
+do brief của Agent ghi thiếu; `捆了个结实` khuôn 实). Nhịp câu 15,8 字. | SI v6 thêm sàn độ dài câu: bỏ chỉ tiêu
+字 làm model nén cả câu chứ không chỉ nén đoạn | Agent

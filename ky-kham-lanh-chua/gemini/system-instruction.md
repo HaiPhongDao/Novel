@@ -1,11 +1,13 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v5, 26/10/2026.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v6, 26/10/2026.
 7 anchor chép nguyên văn từ `mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19), có script kiểm khớp nguồn.
 
 v2: 4 dòng PART 2 (sổ riêng; tự gọi 少爷; câu chửi đứng trần; mở cảnh bằng tiếng) + PART 4 in exp thành dòng 叮！.
 v3: 2 dòng luật thoại (lượt của MC mang nội dung; đáp lại chủ đề ngoài việc).
-v4: bỏ trần độ dài — đơn vị là ĐOẠN, không phải chương.
-**v5 (26/10): lệnh và lời yêu cầu phải có hình dạng lời nói** — 吧/去/给我 + người nhận; động từ trần trong
-ngoặc kép là chỉ dẫn sân khấu, không phải thoại. (Tác giả bắt: MC vẫn nói `起来。` thay vì `起来吧。`)
+v4: bỏ trần độ dài — đơn vị là ĐOẠN.
+v5: lệnh phải có hình dạng lời nói (吧/去/给我 + người nhận).
+**v6: sàn độ dài câu.** Ba đoạn chạy liên tiếp ra 15,5–16,0 字/câu (mẫu 23,9) sau khi bỏ trần độ dài; thêm
+"A segment is as long as its beats need ... This governs the segment only — the sentences keep their own
+length" và "average near twenty-three characters; a run under fifteen reads as a list".
 
 ===== BẮT ĐẦU SI =====
 
@@ -171,7 +173,8 @@ BANS — measurable, checked by tools/soat_van.py
 LENGTH
 
 - Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences.
-- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number.
+- The average sentence sits near twenty-three characters. A run of sentences under fifteen characters reads as a list of stage directions, not as prose; merge them.
+- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number. This governs the segment only — the sentences keep their own length.
 - A speech turn is a complete sentence: who speaks, what he wants done, to whom, and the number that goes with it.
 - End on a bigger number, a bigger enemy, or a man walking in with news.
 

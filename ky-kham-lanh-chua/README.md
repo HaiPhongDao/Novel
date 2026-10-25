@@ -17,7 +17,8 @@ thử một cảnh của bộ mẫu để so.
 | `gemini/si-test-mau.txt` | SI v1 đổi tên sang tên bộ mẫu — dùng cho test |
 | `briefs/test-mau-01.md` | prompt test 01: chỉ có sự việc, không dặn cách viết |
 | `chapters/test-01.md` | bản ra test 01: 2.645 字 |
-| `chapters/doan-001-a.md` · `-b.md` · `-c.md` | ch1: bản máy 2.786 字 → sửa tật 2.647 → sửa thoại 3.108 |
+| `chapters/doan-001-a…e.md` | đoạn 001: A (máy 2.786) → B (sửa tật) → C (sửa thoại) → D (sửa hình dạng lời nói) → **E (Writer, SI v5, 1.958 字)** |
+| `chapters/doan-002-a.md` · `doan-003-a.md` | đoạn 002 (铁脊要塞, 1.439 字) · đoạn 003 (trận đầu 9 豺狼人, 1.360 字) |
 | `reviews/test-mau-01.md` | bảng số + đọc bốn câu hỏi + 4 sửa cho SI v2 |
 | `reviews/so-sanh-test-01.md` | **so nguyên văn ↔ bản SI từng đoạn** (mở cảnh, ra lệnh, cung thủ chậm, bảng exp, kết cảnh) |
 | `archive/thinking-test-01.md` | thinking của lần chạy (đọc khi SI bị hiểu sai) |
@@ -30,6 +31,6 @@ thử một cảnh của bộ mẫu để so.
       bảng in sai dạng, dài +27%) → so nguyên văn từng đoạn ở `reviews/so-sanh-test-01.md`
 - [x] Chốt tiền đề A + SI v2 (4 sửa) + bible (`characters.md`) + 黄金三章 (`plot/arcs.md`)
 - [x] Chương 1: bản A (2.786 字, 6 tật) → bản B sửa tay (2.663 字, 0 tật) → `reviews/doan-001.md`
-- [ ] **Tác giả đọc bản C** — duyệt mới viết chương 2
+- [ ] **Tác giả đọc 001-E / 002 / 003** — duyệt mới chạy đoạn 004
 - [x] Bản C: sửa thoại MC theo bắt lỗi "nói chưa đầy đủ, giao tiếp trống không" (SI v3 thêm 2 dòng luật thoại)
 - [ ] **Luật đơn vị: viết theo ĐOẠN, không theo chương** — chương tách ở khâu biên tập; đoạn dài ngắn do số beat quyết định, không có chỉ tiêu 字

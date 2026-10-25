@@ -147,3 +147,28 @@ Hai khác biệt so với bản D — **cả hai đều do brief, không do SI**
 1. E không có cuộc mặc cả thóc mốc (2.000 斤) với 格里, vì brief không có beat đó (Agent tự thêm khi sửa tay).
 2. E không có đoạn xin cha hoãn nợ, cùng lý do.
 ⇒ Muốn giữ hai cảnh đó thì phải **đưa vào brief**, không phải viết lại câu trong bản thảo.
+
+## 9. Đoạn 002 và 003 (chạy tiếp, không sửa tay nhiều)
+
+| | mẫu | 002-a | 003-a |
+|---|---|---|---|
+| 字 | 2.122 (trung vị) | 1.439 | 1.360 |
+| chữ/câu | 23,9 | **16,0** | **15,8** |
+| lượt thoại | 20 | 19 | 8 (brief ghi "thoại ít") |
+| chữ/lượt | 22,4 | 25,9 | 20,0 |
+| tật | ~1 so sánh/chương | **0** | 1 (`捆了个结实` → sửa tay) |
+
+**002** (nối session với 001, 107s): đủ 6 beat — 497 người, 3.400 斤 = ba ngày, 代守 bán lương lấy 20 金币
+và dẫn 40 lão binh đi, 60 步 / 120 根 cọc / 24 rìu × 3 = 72 根/ngày, đêm thấy 43 火头. Câu cuối
+`“给我数数对面的火头。”` đúng dạng nói. Tự sửa tay 1 câu: `城里连一粒麦子都没剩…也没用` (phủ định cặp).
+
+**003** (session mới, SI v5, 147s): trận đầu 9 豺狼人 — 阿德里安 giết 2 (18 点 → 499/500), nhóm 卡尔 giết 3,
+4 con chạy; 5 chết 8 bị thương → 492; treo kẻ bỏ chạy; câu cuối `“今晚加练。”`. Sửa tay 3 chỗ: `老骑士`
+(卡尔 là cựu phó quan, không phải kỵ sĩ), `【士兵：一阶.492 农奴（士气涣散）】` → đúng dạng `维兰农奴（0/100）`,
+và `捆了个结实` (khuôn 实). **Lỗi hình dạng bảng là do brief của Agent** — brief chỉ ghi "士兵 一阶.492",
+không chép nguyên dòng bảng; từ đoạn sau brief phải chép nguyên cả dòng.
+
+**Phát hiện quan trọng — trượt nhịp câu:** cả ba đoạn (001-e 15,5 · 002 16,0 · 003 15,8 字/câu) đều ngắn hơn
+mẫu (23,9) và ngắn hơn chính các bản trước khi bỏ trần độ dài (A 20,0 · C 19,4). Bỏ chỉ tiêu 字 ⇒ model nén cả
+câu, không chỉ nén đoạn. SI v6 thêm **sàn**: trung bình ~23 字/câu, chuỗi câu dưới 15 字 là danh sách chỉ dẫn.
+Đây là chỗ phải đo lại ở đoạn 004 trước khi tin SI v6.
