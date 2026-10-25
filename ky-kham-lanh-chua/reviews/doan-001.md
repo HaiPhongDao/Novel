@@ -1,15 +1,15 @@
-# Chương 1 — review bản A (máy) + bản B (sửa tay)
+# Đoạn 001 — review bản A (máy) → B (sửa tật) → C (sửa thoại)
 
-- Brief: `briefs/chuong-001.md` · SI: `gemini/si-dan-gemini.txt` v2 · chạy `--new`, 125s
-- Bản A (nguyên): `chapters/chuong-001-a.md` — 2.786 字
-- Bản B (13 chỗ sửa tay + cắt 139 字): `chapters/chuong-001-b.md` — 2.647 字
+- Brief: `briefs/doan-001.md` · SI: `gemini/si-dan-gemini.txt` v2 · chạy `--new`, 125s
+- Bản A (nguyên): `chapters/doan-001-a.md` — 2.786 字
+- Bản B (13 chỗ sửa tay + cắt 139 字): `chapters/doan-001-b.md` — 2.647 字
 - Thinking: `archive/thinking-001a.md`
 
 ## 1. Bảng số
 
 | chỉ số | mẫu (886 ch) | mẫu ch1 | A | B |
 |---|---|---|---|---|
-| 字 | 2.122 (trung vị) | 2.273 | 2.786 | **2.647** |
+| 字 (tham khảo, không phải tiêu chí) | 2.122 (trung vị) | 2.273 | 2.786 | 2.647 |
 | chữ / câu | 23,9 | 28,4 | 20,0 | **21,3** |
 | lượt thoại | 20 | 14 | 47 | 47 |
 | chữ / lượt | 22,4 | 29,6 | 20,2 | 19,9 |
@@ -92,8 +92,7 @@ chương bằng kế hoạch có số (`二十四把，五百个人。怎么分�
 Số sau khi sửa: **3.108 字 · 50 lượt · 33,0 字/lượt** (B: 2.647 · 47 · 19,9; mẫu: 2.122 · 20 · 22,4).
 Tức mỗi lượt đã dày gấp rưỡi, nhưng chương dài thêm 461 字.
 
-Hai việc còn phải quyết:
-1. **Dài**: 3.108 字 = +46% so với trung vị mẫu. Cách rẻ nhất là tách **cảnh thư phòng của cha** sang đầu
-   chương 2 (nó là cảnh chuyển giao lệnh, không phải cảnh trả giá), chương 1 còn ~2.400 字.
-2. **Lượt thoại 50** (mẫu 20) vẫn cao; nguyên nhân là chương có ba cảnh thoại liền. Tách cảnh cha đi thì còn
-   ~35.
+**Luật đơn vị (Tác giả chốt 26/10): đây là một ĐOẠN, không phải chương.** Chương tách ở khâu biên tập sau.
+Đoạn dài bao nhiêu cũng được, miễn không trượt ngữ cảnh và văn phong ⇒ **3.108 字 không phải lỗi**, và số 字
+bị bỏ khỏi bảng tiêu chí từ đây. Cái còn phải theo dõi là lượt thoại (50 so với 20 của mẫu) — nhưng đó là
+tính chất của đoạn có ba cảnh, không phải tật.

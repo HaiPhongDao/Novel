@@ -27,16 +27,22 @@ ngày). Dựng `bible/characters.md` (5 tên) + `plot/arcs.md` (黄金三章: �
 (sổ riêng sau câu đạo nghĩa, tự gọi 少爷 1 lần/chương, câu chửi đứng trần, mở cảnh bằng tiếng), PART 4 (exp in
 thành dòng 叮！), LENGTH (2.000–2.200). | Theo 4 sửa của test 01 | Agent
 
-2026-10-26 | chương 1 | Bản A 2.786 字 (chạy 125s), 6 tật: 3 so sánh người kể + 3 nhãn ngữ điệu + 1 phủ định.
+2026-10-26 | đoạn 001 | Bản A 2.786 字 (chạy 125s), 6 tật: 3 so sánh người kể + 3 nhãn ngữ điệu + 1 phủ định.
 Sửa tay 10 chỗ + cắt 123 字 → bản B 2.663 字, `soat_van.py` sạch (0/0/0/0). Giữ được: mở chậm (tiếng búa →
 thân thể → sân), mặc cả có chất liệu xã hội (đám cưới anh trai, người sốt), cái giá 30→24→6 金币, câu tự gọi
 `他阿德里安少爷`, kết bằng quyết định mua 24 cái rìu. Còn lệch mẫu: 字 +21%, 47 lượt thoại (mẫu 20), câu 21,3
 (mẫu 23,9). Canon mới phải chốt: 科尔 50 tuổi (không phải 28), tỷ giá exp 400 lần vung = 1 点. | Sửa tay rẻ hơn
 vòng SI mới vì hai tật đó là biến thiên lần chạy, test 01 đã sạch | Agent
 
-2026-10-26 | chương 1 vòng 2 | Tác giả: "MC nói chuyện chưa được đầy đủ, giao tiếp còn trống không". Nguyên
+2026-10-26 | đoạn 001 vòng 2 | Tác giả: "MC nói chuyện chưa được đầy đủ, giao tiếp còn trống không". Nguyên
 nhân đo được: 47 lượt nhưng 19,9 字/lượt, và lượt của MC nêu việc mà không nêu vì sao/cho ai/bao nhiêu; chỗ
 格里 mời rượu mừng thì MC im lặng. Sửa ba tầng: SI v3 thêm 2 dòng (lượt của MC phải mang nội dung + trả lời
 chủ đề người kia đưa ra trước khi quay về việc), brief ch2 sẽ ghi rõ nội dung từng lượt, bản C sửa tay 10
 đoạn thoại và thêm một cuộc mặc cả thóc mốc (2.000 斤) với 格里. Số: 3.108 字 · 50 lượt · 33,0 字/lượt. | Dài
 +46% so với mẫu; đề xuất tách cảnh thư phòng sang đầu chương 2 | Agent
+
+2026-10-26 | luật đơn vị | Tác giả: "chúng ta đang tạo đoạn không phải chương. chương tách sau, sửa sau. đoạn
+dài bao nhiêu cũng được miễn là nó không trượt ngữ cảnh, văn phong." → Đổi toàn bộ sang đơn vị đoạn: `git mv`
+briefs/chapters/reviews sang `doan-001*`; SI v4 bỏ trần 2.000–2.200 字 và bỏ "about 2,100 characters" ở PART 3,
+thay bằng luật "đoạn dài theo số beat, không có chỉ tiêu 字"; số 字 rời khỏi bảng tiêu chí review. Đoạn 001 giữ
+nguyên 3.108 字, không tách. | Chương chỉ ghép ở khâu biên tập | Tác giả

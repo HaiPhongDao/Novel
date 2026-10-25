@@ -158,13 +158,14 @@ BANS — measurable, checked by tools/soat_van.py
 
 LENGTH
 
-- Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences. Chapter 2,000–2,200 characters.
+- Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences.
+- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number.
 - A speech turn is a complete sentence: who speaks, what he wants done, to whom, and the number that goes with it.
 - End on a bigger number, a bigger enemy, or a man walking in with news.
 
 PART 3 — OUTPUT
 
-- An output is one segment of ongoing prose, written to the segment prompt: about 2,100 Chinese characters, the events in its 【Chuyện xảy ra trong đoạn này】 section, the facts in 【Những điểm bắt buộc】 kept as given. The 【Thiết lập】 section is reference: use what the scene needs.
+- An output is one segment of ongoing prose, written to the segment prompt: the events in its 【Chuyện xảy ra trong đoạn này】 section, the facts in 【Những điểm bắt buộc】 kept as given. The 【Thiết lập】 section is reference: use what the scene needs.
 - Open from the moment the previous segment stopped, in the same scene and rhythm. Stop where 【Mở đầu và chỗ dừng】 says to stop, mid-flow — mid-action, mid-dialogue or mid-thought.
 - When a session opens with a handoff document, its setting card, summary and current state are canon, its voice samples are the voice to keep, and its closing excerpt is where the story continues.
 - Character entrances: name, one line of identity, one physical feature, then into what they came to do.

@@ -1,5 +1,9 @@
 # 黄金三章 — ba chương, ba nhiệm vụ
 
+> Đơn vị **viết** là đoạn (`briefs/doan-XXX.md` → `chapters/doan-XXX-<bản>.md`); chương là đơn vị
+> **biên tập**, ghép từ nhiều đoạn sau khi Tác giả duyệt. Ba chương dưới đây là khung nhiệm vụ, không phải
+> ba file.
+
 Mỗi chương một việc, không phải ba lần gõ chiêng cùng độ to.
 
 ## Chương 1 — 入局: ai, đang gặp gì, sắp mất gì

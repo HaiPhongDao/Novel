@@ -1,15 +1,12 @@
-SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v3, 26/10/2026.
+SI — 骑砍领主：铁脊要塞 (西幻领主 · 骑砍面板 · 前期砍杀). Bản v4, 26/10/2026.
 Dựng từ `writer/SI-template` v3 + khối BANS/LENGTH của `si-khung.md`. 7 anchor chép nguyên văn từ
 `mau-tham-khao.txt` (ch1, ch13 ×2, ch14, ch17 ×2, ch19) — có script kiểm khớp nguồn.
 
-v2 (sau test 01): PART 2 thêm 4 dòng — sau câu đạo nghĩa người kể nói một dòng cái MC đang thật sự đếm; tự gọi
-少爷 một lần/chương; câu chửi trong đầu đứng trần không ngoặc; mở cảnh bằng tiếng/động tác đang chạy. PART 4:
-exp in thành dòng `叮！…经验加300。` tối đa 3 dòng. LENGTH: hai dòng trong ba dưới 30 chữ; chương 2.000–2.200.
-
-v3 (sau bắt lỗi "MC nói chưa đầy đủ, giao tiếp trống không"): thêm 2 dòng vào phần thoại — lượt của MC phải
-mang nội dung (muốn gì, của ai, vì sao/bao nhiêu), lượt dưới 10 chữ chỉ để trả lời câu đã nêu rõ sự việc; khi
-người kia đưa ra chủ đề ngoài việc (đám cưới, rượu, đường đi) thì MC đáp lại bằng lời của mình trước khi quay
-về sổ sách.
+v2: PART 2 thêm 4 dòng (sổ riêng sau câu đạo nghĩa; tự gọi 少爷 1 lần/chương; câu chửi đứng trần; mở cảnh bằng
+tiếng). PART 4: exp in thành dòng `叮！`. v3: 2 dòng luật thoại (lượt của MC mang nội dung; đáp lại chủ đề
+ngoài việc). **v4 (26/10): bỏ trần độ dài — đơn vị là ĐOẠN, không phải chương**; đoạn dài bao nhiêu là do số
+beat trong prompt quyết định, không có chỉ tiêu 字. Tác giả: "đoạn dài bao nhiêu cũng được miễn là nó không
+trượt ngữ cảnh, văn phong".
 
 ===== BẮT ĐẦU SI =====
 
@@ -173,13 +170,14 @@ BANS — measurable, checked by tools/soat_van.py
 
 LENGTH
 
-- Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences. Chapter 2,000–2,200 characters.
+- Sentence 22–30 characters, two or three clauses. Two lines in three run under thirty characters; the third runs two or three clauses and carries the reasoning. Paragraph one to three sentences.
+- A segment is as long as its beats need. There is no character target: the beats in the prompt decide where it ends, and the paragraph rhythm above decides how much room each beat gets. Do not pad a scene to reach a length and do not compress one to fit a number.
 - A speech turn is a complete sentence: who speaks, what he wants done, to whom, and the number that goes with it.
 - End on a bigger number, a bigger enemy, or a man walking in with news.
 
 PART 3 — OUTPUT
 
-- An output is one segment of ongoing prose, written to the segment prompt: about 2,100 Chinese characters, the events in its 【Chuyện xảy ra trong đoạn này】 section, the facts in 【Những điểm bắt buộc】 kept as given. The 【Thiết lập】 section is reference: use what the scene needs.
+- An output is one segment of ongoing prose, written to the segment prompt: the events in its 【Chuyện xảy ra trong đoạn này】 section, the facts in 【Những điểm bắt buộc】 kept as given. The 【Thiết lập】 section is reference: use what the scene needs.
 - Open from the moment the previous segment stopped, in the same scene and rhythm. Stop where 【Mở đầu và chỗ dừng】 says to stop, mid-flow — mid-action, mid-dialogue or mid-thought.
 - When a session opens with a handoff document, its setting card, summary and current state are canon, its voice samples are the voice to keep, and its closing excerpt is where the story continues.
 - Character entrances: name, one line of identity, one physical feature, then into what they came to do.
