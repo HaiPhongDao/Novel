@@ -120,3 +120,30 @@ cả ba đều là câu đủ nghĩa: `“二少爷……”` (bị cắt lời)
 
 Bài học (đã vào SI v5 + KN31): **nội dung một lượt và hình dạng một lượt là hai lỗi khác nhau.** Thêm lý do và
 con số vào lượt thoại không làm nó thôi giống khẩu lệnh; phải thêm trợ từ và người nhận.
+
+## 8. Vòng 4 — Writer tự viết lại với SI v5 (bản E), không sửa tay
+
+Tác giả: "đó là bạn tự sửa? không phải Writer viết lại sao? test với prompt cho writer xem." → chạy lại
+`--new` với **SI v5 + đúng brief cũ** (không thêm một dòng nào vào prompt), 189s, 1.963 字.
+
+**Lệnh thoại do Writer tự ra, không có bàn tay Agent:**
+
+| tình huống | bản E (Writer) | bản A/B (trước khi thêm luật) |
+|---|---|---|
+| cứu người | `“把人给我放下来吧。”阿德里安说道。` | `“开个价吧。”` rồi im |
+| mặc cả | `“你开个价吧。”…“两个金币。”…“他们要是冻死在梁上，你连两个铜板都拿不到。”` | `“两枚金币一个。”` (nêu giá, không nêu lý do) |
+| 格里 mời rượu mừng | `“我不爱喝甜酒，还是留给大哥慢慢享用吧。”` | `阿德里安没理会他的试探` (im lặng) |
+| lệnh mua rìu | `“拿这六个金币去镇上的铁匠铺，给我买二十四把伐木斧回来。”` | `“不买粮。”` + `“拿这六枚金币去…全买…”` |
+| nông nô tự xưng | `“小的没跑……小的只是去找掉进沟里的马草……”科尔悬在半空嘶声说道。` | không có lượt của 科尔 |
+| câu chốt | `“斧子不能当饭吃，但能砍树，还能砍人。”` | `“买粮只能多撑半天…还能砍下兽人的脖子。”` |
+
+Số: **1.963 字 · 32 lượt · 24,0 字/lượt** (mẫu 20 · 22,4; bản D sửa tay 50 · 34,0). Lượt thoại của bản E
+**gần mẫu hơn bản sửa tay** — tức luật trong SI hiệu quả hơn việc Agent kéo dài từng câu.
+
+Tật còn lại: **1** — `五百个农奴像木桩一样戳在寒风里` (so sánh của người kể). `soat_van` báo 0 nhưng grep tay
+bắt được; ngoài ra 0 phủ định, 0 nhãn, 0 `实`.
+
+Hai khác biệt so với bản D — **cả hai đều do brief, không do SI**:
+1. E không có cuộc mặc cả thóc mốc (2.000 斤) với 格里, vì brief không có beat đó (Agent tự thêm khi sửa tay).
+2. E không có đoạn xin cha hoãn nợ, cùng lý do.
+⇒ Muốn giữ hai cảnh đó thì phải **đưa vào brief**, không phải viết lại câu trong bản thảo.

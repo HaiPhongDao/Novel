@@ -51,3 +51,10 @@ nguyên 3.108 字, không tách. | Chương chỉ ghép ở khâu biên tập | 
 mới sửa nội dung lượt thoại (thêm lý do, con số), chưa sửa hình dạng — lệnh vẫn là động từ trần. Sửa 15 lượt
 sang dạng nói (吧/去/给我 + 你), đổi cả lý lẽ biện hộ cho 科尔 (养了八年马, muốn chạy thì đã chạy). SI v5 thêm
 luật "spoken shape". Bản D: 3.155 字 · 50 lượt · 34,0 字/lượt · 0 tật. | KN31 | Agent
+
+2026-10-26 | đoạn 001 vòng 4 | Tác giả đòi Writer tự viết lại thay vì Agent sửa tay. Chạy `--new` với SI v5 +
+brief cũ (189s, 1.963 字): Writer tự ra `“把人给我放下来吧。”`, `“你开个价吧。”`, `“我不爱喝甜酒，还是留给
+大哥慢慢享用吧。”`, `“拿这六个金币去镇上的铁匠铺，给我买二十四把伐木斧回来。”`, 科尔 tự xưng `小的`.
+32 lượt · 24,0 字/lượt (mẫu 20 · 22,4) — sát mẫu hơn bản D sửa tay (50 · 34,0). Còn 1 tật: so sánh
+`五百个农奴像木桩一样戳在寒风里`. Hai cảnh Agent tự thêm ở D (mặc cả thóc mốc, xin cha hoãn nợ) không có
+trong brief nên Writer không viết — lỗi brief, không phải lỗi SI. | Luật SI hiệu quả hơn sửa tay ở tầng câu | Agent
