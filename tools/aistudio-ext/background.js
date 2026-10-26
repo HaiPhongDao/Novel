@@ -59,7 +59,8 @@ async function runJob(job) {
     // Dự phòng: chữ đứng yên 30s cũng coi là xong; 60s chưa có request nào thì thôi, để collect báo lỗi.
     const deadline = Date.now() + job.timeoutMin * 60000;
     const sent = Date.now();
-    let lastLen = -1, stillSince = Date.now();
+    // Request đã xong mà 20s không có chữ (lỗi in trong lượt Model, kiểu chưa gặp) cũng coi là xong để collect báo lỗi.
+    let lastLen = -1, stillSince = Date.now(), emptySince = 0;
     for (;;) {
       await sleep(3000);
       if (!(await alive(job.id))) throw new Error('script đã dừng, bỏ việc');
@@ -69,7 +70,11 @@ async function runJob(job) {
       if (!s.running) {
         if (s.err || (s.started && s.textLen > 0 && s.textLen === lastLen)) break;
         if (!s.started && Date.now() - sent > 60000) break;
-      }
+        if (s.started && s.textLen === 0) {
+          emptySince ||= Date.now();
+          if (Date.now() - emptySince > 20000) break;
+        } else emptySince = 0;
+      } else emptySince = 0;
       lastLen = s.textLen;
       if (Date.now() > deadline) throw new Error(`quá ${job.timeoutMin} phút chưa xong`);
     }

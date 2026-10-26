@@ -1,6 +1,9 @@
 // Các bước trong trang AI Studio; background.js gọi window.__novel.<bước>(job). Lỗi trả về {error, kind}.
 (() => {
   const QUOTA = /quota|rate.?limit|resource.?exhausted|\b429\b|reached .{0,30}limit|try again later/i;
+  // Tài khoản không được dùng model/AI Studio: xử như hết quota để script chuyển sang /u/ kế tiếp.
+  const DENY = /permission|denied|\b403\b|don.?t have access|not available (in|for) your|unavailable in your/i;
+  const kindOf = msg => (QUOTA.test(msg) || DENY.test(msg) ? 'quota' : 'error');
   const PROMPT = 'textarea[aria-label="Enter a prompt"]';
   const RUN = 'ms-run-button button';
   const $ = s => document.querySelector(s);
@@ -33,6 +36,19 @@
         if (t) return t;
       }
     return '';
+  }
+
+  // Lỗi AI Studio in ngay trong lượt Model (vd. "Permission denied") chứ không ở snack bar: lượt có nhưng không
+  // có chữ trả lời. Chỉ đọc khi không còn request nào chạy, và bỏ phần thinking (trong đó có thể có chữ "error").
+  function turnError() {
+    const { models, text } = lastReply();
+    if (text || !models.length) return '';
+    const t = models.map(m => {
+      let s = m.innerText;
+      for (const th of m.querySelectorAll('ms-thought-chunk')) s = s.replace(th.innerText, '');
+      return s;
+    }).join('\n').replace(/\s+/g, ' ').trim();
+    return /error|fail|denied|permission|quota|limit|\b40[0-9]\b|\b429\b|\b50[0-9]\b/i.test(t) ? t.slice(-300) : '';
   }
 
   function closePanel() {
@@ -189,7 +205,7 @@
       while (Date.now() < end) {
         if (running() || document.querySelectorAll('ms-chat-turn').length > n) return { started: true };
         const e = pageError();
-        if (QUOTA.test(e)) return { error: e, kind: 'quota' };
+        if (kindOf(e) === 'quota') return { error: e, kind: 'quota' };
         // Hộp thoại mời nâng cấp gói = tài khoản này hết lượt (hoặc không có lượt) cho model này.
         const up = [...document.querySelectorAll('mat-dialog-container, .cdk-overlay-pane')].filter(visible)
           .find(d => /Go further with AI Studio|ways to upgrade|plan limits/i.test(d.innerText));
@@ -211,8 +227,9 @@
     async status() {
       const gen = window.__novelGen || { started: 0, active: new Set() };
       const busy = [...gen.active].some(x => x.readyState !== 4);
-      return { running: running() || busy, started: gen.started > 0,
-               textLen: lastReply().text.length, err: pageError() };
+      const run = running() || busy;
+      return { running: run, started: gen.started > 0,
+               textLen: lastReply().text.length, err: pageError() || (run ? '' : turnError()) };
     },
 
     async collect() {
@@ -233,13 +250,13 @@
           think = lastReply().think;
         }
       }
-      const err = pageError();
+      const err = pageError() || turnError();
       if (!text) {
         const msg = err || models.map(t => t.innerText).join('\n').slice(-600) || 'không có câu trả lời';
         const tags = models.map(t => [...new Set([...t.querySelectorAll('*')].map(e => e.tagName.toLowerCase())
           .filter(n => n.startsWith('ms-')))].join(',')).join(' / ');
         return { error: `${msg.slice(-300)} [model turns ${models.length}: ${tags} | tab ${document.visibilityState}]`,
-                 kind: QUOTA.test(msg) ? 'quota' : 'error' };
+                 kind: kindOf(msg) };
       }
       const md = await copyMarkdown(models.at(-1));
       return { text, md, think, url: location.href, warning: [err, md ? '' : `copy markdown: ${mdError}`].filter(Boolean).join(' | ') };

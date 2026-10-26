@@ -220,7 +220,7 @@ def main():
                     res = run(bridge, dict(base, mode="new", si=si, url=BASE.format(acct)), args.timeout)
                     break
                 except Quota as q:
-                    log(f"/u/{acct} hết quota: {str(q)[:200]}")
+                    log(f"/u/{acct} không dùng được (hết quota / bị từ chối quyền): {str(q)[:200]}")
                     state.update(quota_account=acct, quota_day=today)
                     save_state(state)
                     if n == len(accounts) - 1:
