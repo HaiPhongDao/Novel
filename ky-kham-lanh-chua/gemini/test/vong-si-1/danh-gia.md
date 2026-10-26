@@ -7,3 +7,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 |---|---|---|---|
 | [X01](X01.md) | 2556 | | tên lọt từ SI (Adrian/Karl/Cole/洛萨/维兰); 0 cảnh ruộng; 6 so sánh của người kể; số lương đúng (1400 cân / 48 cân/ngày ≈ 29, trừ hỏng còn 25) |
 | [X04](X04.md) | 2166 | | tên lọt (Adrian/Karl/Gerry/洛萨/维兰); có chút ruộng (3 từ); 1 so sánh của người kể; 5000 cân / 100 cân/ngày = 50 ngày, viết ‘一个月半’ (lệch nhẹ) |
+| [X05](X05.md) | 2554 | | đang soát |
