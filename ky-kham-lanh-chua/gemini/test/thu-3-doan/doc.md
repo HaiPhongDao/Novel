@@ -9,3 +9,4 @@ Tác giả đọc và chấm **Đạt / Không** từng đoạn.
 | Đoạn | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
 | [doan-1](doan-1.md) | 2257 | | mở nửa tháng sau xuyên việt, người kể tóm lại; Writer tự thêm kiếp trước là 监理 công trường (1 câu); lệch số nhỏ: 40 nhà mỗi nhà 1 bạc = 2 vàng, nhưng Martin lại nói "两枚银币足够买一头羊羔"; dừng đúng chỗ (tay đặt lên nút rót điểm) |
+| [doan-2](doan-2.md) | 2743 | | nối đúng chỗ; rót 180 điểm cho 3 lão binh (Barton/Dac/Torin), còn 120 — khớp; bảng 17 民兵 + 3 步兵 khớp; lọt địa danh 巴罗尔城 từ SI; đơn vị hiện đại 两米半; dừng đúng chỗ (Leon ra điều kiện, 伍长 Brant chưa đáp) |
