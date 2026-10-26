@@ -59,3 +59,21 @@ giả muốn cả hai (nối liền + thoại dày) thì chạy lại 5 đoạn 
 `chapters/` giờ chỉ còn chuỗi đang dùng: `doan-001-h` → `doan-007-b`. Các bản cũ (001-g, 003-e, 004-d, 005-a,
 006-a, 007-a) nằm trong `chapters/archive/`, kèm `doan-003-f-lap-77.md` (bản lặp 77% — giữ làm bằng chứng cho
 luật "đừng chạy tiếp session khi viết lại cùng một đoạn").
+
+## Vòng 3 — khối nối tiếp viết "việc", không "lời" (Tác giả chọn phương án 2)
+
+Chạy lại 5 đoạn, `--new` từng đoạn, khối nối tiếp chỉ định **một việc nhìn thấy được** ngay sau chỗ dừng.
+
+| đoạn | 字 | 字/câu | lượt · 字/lượt | phủ định | 实 | nhãn | so sánh | cham | mở bằng |
+|---|---|---|---|---|---|---|---|---|---|
+| 003-H | 3.178 | 24,6 | 37 · 22,1 | 2 | 1 | 1 | 0 | 58 | úp cây松明 vào thùng nước, tắt hết lửa |
+| 004-F | 2.173 | 26,8 | 5 · 10,4 | 1 | 1 | 0 | 0 | 56 | hắn **không** quay lại lấy khiên |
+| 005-C | 2.637 | 21,1 | 24 · 17,7 | 4 | 3 | 2 | 2 | 52 | hắn không rút tay khỏi bàn tay Karl |
+| 006-C | 2.560 | 25,9 | 10 · 12,6 | 1 | 0 | 1 | 3 | 58 | một nông nô khuỵu xuống nôn, không ai đỡ |
+| 007-C | 2.362 | 20,5 | 35 · 17,1 | 3 | 1 | 2 | 0 | 58 | mười một xác bên miệng hố, hắn nhấc cây đà gãy |
+
+**Kết luận đo được:** mối nối 5/5 liền (giữ được), nhưng **thoại không dày lại** so với vòng 2 — chữ/lượt 17,1–22,1
+(vòng 2: 12,2–22,7; chuỗi đứt nối ban đầu: 26,0–35,7). Nghĩa là cái mỏng của thoại **không** do khối nối tiếp
+chỉ định lời; nó do phạm vi cảnh trong brief (trận đánh, dựng rào, đêm) quá hẹp để có người nói chuyện. Muốn thoại
+dày thì mở phạm vi thời gian và thêm người có mặt (luật 4 của `_mau-prompt-ngan.md`), không phải sửa khối nối.
+Tật tăng nhẹ ở 005-C (实 3, nhãn 2, phủ định 4) — đoạn có nhiều nội tâm nhất.

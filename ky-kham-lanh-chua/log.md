@@ -111,3 +111,5 @@ nội dung đoạn 002–003: thành rỗng + 40 lão binh bị bỏ lại | Age
 2026-10-26 | đoạn 005-C (nối tiếp 004-F) | Mở bằng việc hắn **không rút tay** khỏi bàn tay Karl, rồi mới xử 巴特. `--new`, 309s, **2.637 字** · 21,1 字/câu · 24 lượt · 17,7 字/lượt · phủ định 4 · 实 3 · nhãn 2 · cham 52. Số khớp: 1.400 斤, 132 根 = 36 + 96, 47 火头, 士气 29. Kết đúng: dây căng, tiếng 巴特 bị cắt. | Thoại dày lại so với 004-F (17,7 vs 10,4) nhưng tật tăng | Agent
 
 2026-10-26 | đoạn 006-C (nối tiếp 005-C) | Mở bằng việc ngay sau tiếng dây: một nông nô khuỵu xuống nôn, không ai đỡ. `--new`, 150s, **2.560 字** · 25,9 字/câu · 10 lượt · 12,6 字/lượt · phủ định 1 · so sánh 3 · nhãn 1 · cham 58. Số khớp: 11 chết, 19 thương, 41 二阶（80/100）, 436 一阶, 4阶（8/2000）, 上限 600, 士气 52. Kết đúng: Karl hỏi có phải vừa lên bậc, hắn đáp `死了十一个人` | Thoại vẫn mỏng (10 lượt · 12,6 字) | Agent
+
+2026-10-26 | đoạn 007-C (nối tiếp 006-C) | Mở bằng việc đêm: mười một xác bên miệng hố, hắn tự tay nhấc cây đà gãy khỏi rào. `--new`, 137s, **2.362 字** · 20,5 字/câu · 35 lượt · 17,1 字/lượt · 实 1 · nhãn 2 · cham 58. Kết đúng: đếm đủ 41 người ở cửa nam, ngoái nhìn Karl trên lớp rào mới. | Chuỗi 003-H→007-C nối liền 5/5 | Agent
