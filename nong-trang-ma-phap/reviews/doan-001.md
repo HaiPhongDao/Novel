@@ -99,3 +99,28 @@ brief chỉ có beat và số. Nhưng `f` trôi canon: 18 tuổi (canon 21), 3 �
 Kết luận: prompt của Tác giả thắng ở **giọng**, thua ở **số**. Muốn cả hai thì prompt phải có dòng dữ kiện,
 nhưng dữ kiện viết thành **câu sự thật** (ai, bao nhiêu, còn mấy ngày) chứ không thành danh sách số, và phải
 nói rõ bảng in đúng khối đã cho.
+
+## A+B trên SI (v3) — đo lại bằng đúng prompt `h`
+
+Sửa SI (không thêm anchor): (a) câu hỏi của MC phải mang dữ kiện + con số nghi ngờ; (b) câu từ chối phải
+nêu người trước mặt + lý do/số; (B) lượt cầu–đáp đẩy **một** con số hay **một** điều kiện, và **một** dòng
+đọc chen giữa hai lượt. SI 17.613 → 18.289 ký tự (+676).
+
+| bản | SI | 字 | 字/câu | lượt · 字/lượt | lượt ≤6 字 | câu hỏi | nhãn | cham |
+|---|---|---|---|---|---|---|---|---|
+| h | v2.1 | 2.430 | 17,4 | 34 · 13,8 | **5** | 8 | 0 | 38 |
+| h2 | v3 (A+B) | 3.004 | 19,8 | 29 · 17,5 | **1** | 4 | 3 | — |
+
+Đọc `h2`: cuộc nói chuyện đổi hẳn tính chất. MC không còn hỏi rỗng; hắn **dùng số để bẻ** 神父:
+`全村九户人家，今年的秋粮总共还差二十七蒲式耳。` → `Marta 家分摊了三蒲式耳的缺口。要是 Piet 今天死了…
+这三蒲式耳麦子就彻底没人交了。` → `管事要是收不齐麦子…明年的什一税，神父大人打算找谁去收？` — mỗi lượt
+đẩy một con số, và 神父 nhượng bộ vì con số của chính ông ta. Marta cũng có phần của mình (`我只有八十枚铜币`).
+
+Lỗi còn lại của `h2`:
+1. **Mâu thuẫn số**: Marta có `八十枚铜币` nhưng lại kêu không nổi `两枚银币` (=24 铜币) — thừa tiền mà kêu
+   thiếu. Lỗi này do prompt không có tỷ giá và không nói Marta sạch tiền.
+2. Bảng vẫn tự nói và in sai tổng: `【救助患病幼童（完成），经验+20】` + `【当前经验：60】` (canon 68).
+3. Ba nhãn ngữ điệu mới: `语气平淡地说道` · `冷声说道` · `沉声吩咐道`.
+4. `神甫的异端审判所` · `神廷` — canon là 神父 / 圣廷.
+5. `四十年的人生常识` trong đầu Marta — canon Marta 34 tuổi.
+6. Dài 3.004 字 (prompt đòi 2.000, +50%).

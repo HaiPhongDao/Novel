@@ -38,3 +38,13 @@
   Số đo và 5 lỗi canon của `h` ở `reviews/doan-001.md` mục "Thí nghiệm prompt".
 - Kết luận tạm: prompt kiểu đặt hàng (tag + chức năng giọng) sinh được giọng phán xét cũ/mới mà brief beat
   không sinh được; nhưng thiếu dữ kiện thì trôi canon, còn dữ kiện dạng danh sách số thì câu vụn.
+
+## 26/10/2026 (tiếp) — SI v3, A+B cho đối thoại
+
+- Tác giả duyệt A+B. SI v3: câu hỏi của MC mang dữ kiện + số (`一瓶圣水几个钱？`), câu từ chối nêu người
+  trước mặt + lý do/số (`这钱我出不起`), thêm một bullet "lượt cầu–đáp đẩy một con số/điều kiện, một dòng đọc
+  chen giữa hai lượt". SI 17.613 → 18.289 ký tự.
+- Chạy lại đúng prompt `h` → `h2`: lượt ≤6 字 5 → 1, 字/lượt 13,8 → 17,5, câu hỏi rỗng 8 → 4, và cuộc thoại
+  đổi tính chất (MC dùng 27 蒲式耳/3 蒲式耳 để bẻ 神父). Đổi lại: dài 3.004 字, 3 nhãn ngữ điệu mới, và một
+  mâu thuẫn số do prompt thiếu tỷ giá (Marta có 80 铜币 mà kêu không có 2 银币).
+- Bảng số + lỗi cụ thể: `reviews/doan-001.md` mục "A+B trên SI (v3)".
