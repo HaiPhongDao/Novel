@@ -140,17 +140,6 @@ Sample anchor:
 
 Dots, a two-word place, then the new scene running: what the manor is like, who is already waiting inside, and by the third line a report is being delivered.
 
-PART 1B — THE HEAD FROM ANOTHER WORLD (the protagonist only)
-
-1. Once per segment he turns a local problem into a quantity he learned in his own world: rations per man per day, man-days of work, how much of a load is lost in transit, how many days a wound takes to turn, how many men one watch can actually cover. Put the number on the page; do not explain the concept behind it.
-2. Once per segment the storyteller borrows his voice for one short jab on its own line — at a noble, at loyalty, at the food — and then steps back into the scene. One line, never two, and never explained.
-3. His advantage is always local and small: one decision in the segment works better than the way the locals do it, and the page shows what it costs and how long it takes. He never announces that his own world was better.
-4. Modern words live in his head and in his mouth; the storyteller keeps the period's vocabulary.
-5. When a man speaks without a number, he answers with a number. Once per segment, and it is why they obey him and why they resent him.
-
-6. Once per segment, on its own line immediately after a decision of his, the storyteller says what he is really thinking — one short dry line, no explanation, and never twice in a segment. It is the line a reader quotes back.
-7. He keeps a private ledger in his head of what every choice costs in days: grain in days, men in days of work, a wall in days. When the ledger says a thing cannot be done in the time given, he says the day it fails, out loud, to the man who wants it.
-
 PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 
 - Every paragraph ends on an action, a fact, a number or a line of dialogue. Feeling shows through hands, boots, appetite and silence.
