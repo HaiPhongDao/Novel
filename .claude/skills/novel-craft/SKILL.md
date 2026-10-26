@@ -35,6 +35,8 @@ Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes 
 1. **Trạng thái + sổ số.** Mọi con số trong brief chép từ `<truyen>/plot/so-lieu.md` (mẫu `templates/so-lieu-doan.md`);
    số dẫn xuất (còn lại bao nhiêu, sau N ngày) tính bằng script, không nhẩm — Writer chép nguyên số sai.
 2. **Brief** ngay trước khi chạy đoạn đó, không viết trước cả lô (mục 2; khung `templates/brief-doan.md`).
+   Đoạn trước chưa có bản được duyệt mà Tác giả bảo viết tiếp: nối từ bản đã sửa hết lỗi canon gần nhất, ghi
+   tên bản gốc vào review + `log.md` — đoạn sau phụ thuộc vào bản đó, đổi bản gốc là phải chạy lại.
 3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
 4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]`. Đỏ = bỏ bản
    (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc.
@@ -63,6 +65,8 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
 - **Độ dài là con số của brief**, không của SI: chép nguyên cửa sổ Tác giả chấp nhận, không đặt sàn (model đệm cho qua sàn).
   Khi Tác giả nói độ dài tuỳ beat, số 字 chỉ là thông tin trong báo cáo.
 - **Khối định dạng 【】 chép nguyên cả dòng**; câu ngay sau khối chỉ nói con số đáng gì, rồi một việc anh làm tiếp.
+  Ghi sẵn nghĩa của số đó bằng một câu sự thật ("74, còn thiếu 26 để đào tạo một 村民") — để trống thì người kể
+  tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
   không gán tính cách — tính cách do Writer quyết.
 - **Bible là nguồn canon**, không phải README; thấy lệch thì báo Tác giả.
@@ -84,7 +88,12 @@ python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt --prom
 - `Failed to generate content` / `No tab with id` là lỗi tạm: chạy lại y nguyên lệnh sau 20–45 giây.
 - "Extension không nhận việc sau 90s" sau một lần bị cắt → tiến trình cũ giữ cổng 8765: `netstat -ano | grep :8765`, `Stop-Process`.
 - Job treo >10 phút không file = tab rơi về trang đăng nhập Google: nhờ Tác giả đăng nhập, đừng sửa script.
+- `LỖI: No current window` = Edge chỉ còn tiến trình nền (startup boost), không có cửa sổ: mở một cửa sổ
+  (`Start-Process msedge -ArgumentList '--new-window','about:blank'`) rồi chạy lại y nguyên lệnh.
 - Quota: script xoay `/u/0 → /u/1 → /u/2`, ghi vào `tools/.aistudio_state.json`; đọc dòng `Google Account:` để biết acc nào.
+  Số `/u/N` ứng với tài khoản khác nhau trên mỗi máy — ghi quota theo email trong `log.md`, đừng theo số.
+- Extension được nạp từ thư mục ghi trong Edge (`Secure Preferences` → `path`), có thể là bản chép ngoài repo:
+  so với `tools/aistudio-ext/` trước khi tin tính năng mới (vd. `--think-out` cần bản đọc được thinking).
 - Bản ra không có dòng trống giữa đoạn: lưu raw vào `archive/`, chèn dòng trống trước dòng bắt đầu bằng `　　` (chỉ đổi khoảng trắng).
 - `--think-out <truyen>/archive/thinking-XXX.md` khi nghi SI bị hiểu sai — đọc thinking trước khi sửa SI.
 
