@@ -10,3 +10,4 @@ T01, T02, T03 cùng hướng với U01, U02, U03 ở vòng 5 (nhãn hướng v�
 |---|---|---|---|
 | [T03](T03.md) | 2127 | | đang soát |
 | [T01](T01.md) | 2420 | | đang soát |
+| [T02](T02.md) | 2532 | | đang soát |
