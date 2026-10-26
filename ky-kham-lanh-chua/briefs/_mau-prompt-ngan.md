@@ -63,3 +63,14 @@ Bảng: <các dòng 【】 đúng nguyên văn>.
 
 Không đặt. Đoạn dài theo số sự việc. Ba đoạn đã chạy: 1.958 / 1.722 / 1.351 字 — đều ngắn hơn bản Writer tự
 do (3.618 字), vì phạm vi mình giao hẹp hơn một chương.
+
+## Chỗ đặt cho cái đầu kiếp trước (bắt buộc, một dòng mỗi brief)
+
+Prompt phải chỉ ra **một việc** trong đoạn mà cách người bản địa làm sẽ hỏng, để hắn xử bằng một đơn vị/định mức
+mang từ kiếp trước (suất ăn, ngày công, tỷ lệ hao, thời gian ủ, ca trực). Ghi như sự thật, không ghi "hãy thể hiện
+sự ưu việt". Ba lần chạy đo được: không có dòng này thì 0/5 đoạn có dấu vết; có dòng này ở 003 thì hắn quy được
+`热量消耗是静卧者的三倍` và mở cơ chế thay ca.
+
+**Không mô tả tính cách MC** — không trong brief, không trong bible, không trong SI. Tác giả chốt 26/10: *"Đừng gán
+tính cách vào MC, AI viết dở cái đấy. Tự writer quyết."* Tính cách phải lộ ra qua việc hắn làm và câu hắn nói
+trong cảnh; Agent chỉ đưa **hoàn cảnh** (quyền, hạn chót, cái giá, người đối diện), không đưa nhãn tính cách.
