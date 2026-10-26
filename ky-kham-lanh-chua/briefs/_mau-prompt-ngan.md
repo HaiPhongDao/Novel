@@ -81,3 +81,17 @@ tình huống nào để kiến thức cũ thắng thì **để trống**, đừ
 
 **Không mô tả tính cách MC** — không trong brief, không trong bible, không trong SI. Tác giả chốt 26/10: *"Đừng gán
 tính cách vào MC, AI viết dở cái đấy. Tự writer quyết."* Tính cách lộ ra qua việc hắn làm và câu hắn nói.
+
+## Giọng mẫu: chép 5–8 dòng cuối đoạn trước (bắt buộc khi mở session mới)
+
+Mỗi brief mở bằng hai khối, theo thứ tự:
+
+1. `GIỌNG MẪU — <n> dòng cuối của đoạn trước`, **nguyên văn tiếng Trung**, kèm một câu nói rõ đoạn này viết tiếp từ
+   đó và **không chép lại câu nào**; và một câu mô tả nhịp của mẫu bằng số (câu kể ~20–25 字, thoại ngắn có thẻ,
+   mỗi đoạn kết bằng một việc).
+2. `KHỐI NỐI TIẾP` bằng tiếng Việt: chỗ dừng, việc phải xảy ra trong 200–300 字 đầu, danh sách đang treo.
+
+Lý do (Tác giả, 26/10): *"nếu tạo session mới của writer thì nên đưa lại đoạn cuối của đoạn trước để giữ giọng văn."*
+Mỗi đoạn chạy `--new` nên Writer không thấy đoạn trước; chỉ mô tả sự việc bằng tiếng Việt thì mất giọng, còn chép
+nguyên đoạn cuối thì nó bắt được nhịp câu và cách đặt thoại. SI có sẵn câu "the closing excerpt is where the story
+continues", nên chỉ cần đưa đúng đoạn.
