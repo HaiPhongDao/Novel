@@ -2,7 +2,7 @@
 
 | Thời điểm | Sự kiện | Đoạn |
 |---|---|---|
-| 1998 | 《糖果镇保卫战》 chiếu 26 tập rồi bị cắt | bối cảnh |
+| 1994 | 《光甲战士·曜》 chiếu 26 tập rồi bị cắt | bối cảnh |
 | 3 năm trước | 齐乐 16 tuổi, 结契 ra 空契; khai nghe giọng hoạt hình → hồ sơ ghi 空契幻听 | bối cảnh |
 | 3 năm | làm lao công ca đêm tầng B2 异务处 | bối cảnh |
 | Thứ Ba, 02:40 | 第七外勤组 đưa 收容箱 xuống B2 | 001 |

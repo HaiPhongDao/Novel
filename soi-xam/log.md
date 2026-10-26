@@ -14,3 +14,6 @@
 2026-10-26 | doan-001 | Prompt đơn giản v2: thêm "26 tập", độ dài 1.800–2.200 (nhắm 1.900), mở thẳng vào lúc 第七组 bước ra, tiểu sử qua lời nói | theo đề xuất ở `reviews/doan-001.md` | Agent
 2026-10-26 | doan-001 | SI v2 + prompt v2: bản e, f — thoại kịch bản thuần 0/0 (v1: 12–36), `！` 40/1k (v1: 47–58); tật mới thẻ thoại tách dòng 11–22/đoạn | `reviews/doan-001.md` vòng 2 | Agent
 2026-10-26 | tiền đề | Tác giả bỏ 蛀牙大王 ("nghe low quá"); Agent trình 3 hướng đổi vỏ (anh hùng 特摄 3 phút · boss game bị huỷ · ma vương anime có khí chất), khuyến nghị 特摄 | giữ cỗ máy: luật phim vs thế giới nghiêm túc, bám 契主 | chờ Tác giả
+2026-10-26 | tiền đề | Chốt vỏ mới: anh hùng 特摄 曜 《光甲战士·曜》 (1994, 26 tập), biến hình 20 点 · 8 giây địch đứng hình · 3 phút · 曜光斩 phải hô tên · nổ sau lưng; bỏ 片尾复活. Tên tạm 《空契：变身只有三分钟》 | Tác giả chọn hướng 1 | Tác giả (số liệu chờ duyệt)
+2026-10-26 | SI v3 | ROLE/PRINCIPLE 4 sang luật 特摄; thêm "thẻ thoại cùng dòng với câu nói" | bản e/f tách dòng 11–22 lần | Agent (chờ Tác giả duyệt dòng thêm)
+2026-10-26 | doan-001 | Bản g, h (SI v3, brief tokusatsu): thẻ tách dòng 5–6, `！` 24–33/1k; g tự cho 齐乐 xuyên không → loại; khuyến nghị h | `reviews/doan-001.md` vòng 3 | chờ Tác giả chọn

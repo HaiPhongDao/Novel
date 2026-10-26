@@ -2,6 +2,8 @@
 
 **ĐÃ CHỐT 26/10/2026: A** · tên riêng chữ Hán · chửi thề như mẫu. Chi tiết dựng ở `../bible/`.
 
+**ĐỔI VỎ 26/10/2026 (Tác giả: 蛀牙大王 "nghe low quá"): hướng 1 — anh hùng 特摄 bị lãng quên, biến hình ba phút.** Loại: boss game bị huỷ (concept quen), ma vương anime có khí chất.
+
 Giọng lấy từ mẫu (xem `../mau/phan-tich.md`). Phương án dưới đây chỉ khác nhau ở **vỏ truyện và động cơ**; giọng giữ như mẫu.
 Mọi tên, số trong phương án là đề xuất, chưa phải canon.
 

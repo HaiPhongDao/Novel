@@ -3,9 +3,9 @@
 > Truyện mới mở 26/10/2026 từ `_mau-truyen/`. Luật chung: `../AGENT.md`; cách làm: `../.claude/skills/novel-craft/SKILL.md`.
 > Tiền đề A đã chốt 26/10 (`archive/phuong-an-tien-de.md`). Bible, SI v1, brief đoạn 001 đã dựng — **SI chưa chạy thử, chờ Tác giả duyệt**.
 
-**Tên tạm:** 《空契：我的神明是蛀牙大王》
+**Tên tạm:** 《空契：变身只有三分钟》
 
-**Logline:** Một gã 空契者 bị cả 异务处 coi là phế và hoang tưởng hoá ra là đại lý của phản diện trong một bộ hoạt hình thiếu nhi bị lãng quên. Muốn mạnh lên, gã phải bám dính đội ngoại cần không muốn nhận mình.
+**Logline:** Một gã 空契者 bị cả 异务处 coi là phế và hoang tưởng hoá ra kết khế với anh hùng của một bộ phim 特摄 bị lãng quên: biến hình được, nhưng chỉ ba phút. Muốn có điểm để biến hình, gã phải bám dính đội ngoại cần không muốn nhận mình.
 
 ## Văn mẫu
 
@@ -14,11 +14,11 @@
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction.md` **v2** (phần dán: `gemini/si-dan-gemini.txt`, ~5.700 ký tự, 4 anchor nguyên văn từ ch.2/66/29/2, `verify_anchors` 4/4). v1 giữ ở `gemini/system-instruction-v1.md`. Bản lưu trên AI Studio: `Sói Xám - SI` (chưa tạo).
+- SI đang dùng: `gemini/system-instruction.md` **v3** (phần dán: `gemini/si-dan-gemini.txt`, ~5.700 ký tự, 4 anchor nguyên văn từ ch.2/66/29/2, `verify_anchors` 4/4). v1 giữ ở `gemini/system-instruction-v1.md`. Bản lưu trên AI Studio: `Sói Xám - SI` (chưa tạo).
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001-toi-gian.md` · `briefs/doan-001-don-gian.md` | a, b, c, d (thử) | `reviews/doan-001.md` | chờ Tác giả chọn (khuyến nghị b) |
+| 001 | `briefs/doan-001-tokusatsu.md` (vỏ 特摄) | g, h (a–f: vỏ cũ / SI cũ) | `reviews/doan-001.md` | chờ Tác giả chọn (khuyến nghị h) |

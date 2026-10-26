@@ -6,12 +6,12 @@
 | Tiếng Việt | 中文 | Ghi chú |
 |---|---|---|
 | Tề Lạc | 齐乐 | MC, 19 tuổi, 空契者 |
-| Vua Sâu Răng | 蛀牙大王 | thần của MC, giọng trong đầu |
+| Diệu | 曜 | thần của MC, anh hùng 特摄, giọng trong đầu |
 | Đường Đường | 唐棠 | 组长 第七外勤组, 四阶, 契 钟馗 |
 | Mã Kiêu | 马骁 | 外勤 第七组, 二阶, 契 土地公 |
 | Khổng Lệnh Nghi | 孔令仪 | 科长 评估科 |
-| Thị trấn Kẹo / phim | 糖果镇 / 《糖果镇保卫战》 | hoạt hình 1998 |
-| Đội Bàn Chải | 牙刷小队 | phe chính diện trong phim |
+| phim | 《光甲战士·曜》 | 特摄 1994, 26 tập đã chiếu |
+| phe quái trong phim | 暗蚀军团 | |
 
 ## Thuật ngữ
 | Tiếng Việt | 中文 |
@@ -22,8 +22,9 @@
 | lễ kết khế | 结契 |
 | sức tin | 信力 |
 | điểm rating | 收视点 |
-| hồi sinh hết tập | 片尾复活 |
-| chuyển cảnh | 转场 |
+| biến hình | 变身 · 「光甲——着装！」 |
+| đèn ngực | 能量核 |
+| chiêu cuối | 必杀技 · 「曜光斩」 |
 | hộp thu dung | 收容箱 |
 | tái đánh giá | 复评 |
 | việc tạp vụ cho 空契者 | 安置岗 |
@@ -34,8 +35,8 @@
 ## Xưng hô (CỐ ĐỊNH)
 | Người nói → người nghe | Cách gọi |
 |---|---|
-| 蛀牙大王 → 齐乐 | 小的 ; tự xưng 本大王 |
-| 齐乐 → 蛀牙大王 | 大王 (khi cần thì 老蛀) |
+| 曜 → 齐乐 | 适格者 ; tự xưng 我 |
+| 齐乐 → 曜 | 曜哥 (bực thì 老曜) |
 | 齐乐 → 唐棠 | 唐组长 ; tự xưng 我 |
 | 齐乐 → 马骁 | 马哥 |
 | 马骁 → 齐乐 | 小齐 / 那个空契的 |

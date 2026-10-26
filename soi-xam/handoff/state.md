@@ -4,9 +4,9 @@
 **Có mặt:** 齐乐 (đang lau sàn).
 
 **Nhân vật chính biết**
-- Ba năm nay có một giọng hoạt hình trong đầu, từ ba năm trước đã im lặng; gã nhận ra đó là 蛀牙大王 vì chỉ gã còn nhớ bộ phim.
+- Năm 16 tuổi nghe một giọng anh hùng 特摄 trong đầu, rồi giọng đó im suốt ba năm; chỉ gã còn nhớ phim 《光甲战士·曜》.
 - Thứ Sáu 09:00 gã phải 复评; hồ sơ ghi 空契幻听 ba năm liền.
-- Chưa biết gì về 收视点 hay 片尾复活.
+- Chưa biết gì về 收视点 hay luật biến hình.
 
 **Con số đang chạy**
 | Mục | Giá trị |

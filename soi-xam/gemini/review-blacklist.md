@@ -5,7 +5,7 @@ Soát cùng `../chung/review-blacklist.md`, **trừ các ngoại lệ dưới đ
 ## Ngoại lệ — ở truyện này là động cơ, không phải lỗi
 - Meme mạng, chửi thề, câu hỏi tu từ đứng riêng một dòng, dòng phản ứng trơ `X：“……”` / `“？？？”`.
 - Dòng ngắn, một nhịp một dòng (mẫu: 27% dòng ≤10 字).
-- Phá tường thứ tư bằng từ của hoạt hình: 集、转场、片尾曲、广告、收视率.
+- Phá tường thứ tư bằng từ của phim: 集、BGM、变身、必杀技、收视率.
 
 ## Tật của nửa sau văn mẫu (第107章 trở đi) — bắt nếu Writer trôi về đây
 - `突然` dày (mẫu gốc 1–2,5 /10k 字; nửa sau 7–26).
@@ -18,8 +18,10 @@ Soát cùng `../chung/review-blacklist.md`, **trừ các ngoại lệ dưới đ
 - Chữ `概念` / `概念级` mượn từ mẫu (đã lọt ở bản a, b, c của 001).
 
 ## Canon dễ lệch
-- Người khác nghe được 蛀牙大王 → sai (chỉ 齐乐 nghe).
-- 片尾复活 khi đang có người nhìn chằm chằm → sai.
+- Người khác nghe được 曜 → sai (chỉ 齐乐 nghe).
+- Biến hình quá ba phút, không tốn 20 点, hoặc 曜光斩 không hô tên mà vẫn ra → sai.
+- 曜 nói đùa, chửi thề, hoặc nói kiểu mạng → sai (曜 nói như phim 1994).
+- Gọi 奥特曼 là nguồn gốc của 曜 → sai (chỉ được nhắc như meme trong miệng nhân vật).
 - 齐乐 nhắc "kiếp trước", "xuyên không" → sai (gã sinh ra ở thế giới này).
 - Gọi 唐棠 là 大人 / 长官 → sai (`唐组长`).
 

@@ -1,10 +1,10 @@
 ## 1. Thẻ thiết lập cố định
 
-**Truyện:** 《空契：我的神明是蛀牙大王》 — đô thị dị năng hài. Thành phố hư cấu 雾港市. Tên chữ Hán.
+**Truyện:** 《空契：变身只有三分钟》 — đô thị dị năng hài. Thành phố hư cấu 雾港市. Tên chữ Hán.
 
 **Nhân vật chính —** 齐乐, 19 tuổi, 空契者, lao công ca đêm tầng B2 của 异务处 ba năm. Sinh ở thế giới này, không xuyên không.
 
-**Bàn tay vàng —** 蛀牙大王, phản diện của hoạt hình 《糖果镇保卫战》 (1998, chiếu 26 tập rồi bị cắt, không ai nhớ). Nói trong đầu 齐乐 bằng `『』`, tự xưng 本大王, gọi 齐乐 là 小的. Thông báo mở khoá `【】`. Điểm 收视点 = tổng 阶 của 契主 trong vòng 10 m mỗi giờ. Mở 第N集 = N×50 点. 第1集 「片尾复活」: ngất hoặc 60 giây không ai nhìn thấy → hồi nguyên vẹn, tốn 10 点.
+**Bàn tay vàng —** 曜, anh hùng phim 特摄 《光甲战士·曜》 (1994, chiếu 26 tập rồi bị cắt, không ai nhớ). Nói trong đầu 齐乐 bằng `『』`, tự xưng 我, gọi 齐乐 là 适格者; nói như phim 1994. Thông báo mở khoá `【】`. 收视点 = tổng 阶 của 契主 trong vòng 10 m mỗi giờ. 第1集: 变身 bằng 「光甲——着装！」, tốn 20 点; 8 giây biến hình thì địch đứng hình; hiệu lực ba phút (60 giây cuối đèn ngực đỏ); hết giờ kiệt sức 10 phút; 必杀技 「曜光斩」 phải hô tên, một lần; thắng thì sau lưng nổ thật. Không hồi sinh.
 
 **Nhân vật phụ**
 - 唐棠 — 组长 第七外勤组, 四阶, 契 钟馗, kiếm gỗ đào.

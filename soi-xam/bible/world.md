@@ -11,21 +11,24 @@
 
 ## Bàn tay vàng — hợp đồng (KN10)
 
-- **Thần:** 蛀牙大王, phản diện của hoạt hình 《糖果镇保卫战》 (1998, 52 tập dự kiến, chiếu được 26 thì bị cắt). Ngoài 齐乐 không ai nhớ bộ phim; trên mạng không có bản lưu.
+- **Thần:** 曜, anh hùng của phim 特摄 hư cấu 《光甲战士·曜》 (1994, 52 tập dự kiến, chiếu được 26 thì đài cắt). Ngoài 齐乐 không ai nhớ bộ phim; trên mạng không có bản lưu.
 - **Hình thức:** giọng nói trong đầu 齐乐, viết trong `『』`. Người khác không nghe thấy. Lúc mở khoá có dòng thông báo kiểu phát sóng, viết trong `【】`.
 - **收视点:** 契主 đứng trong vòng 10 m → 齐乐 nhận số điểm bằng số 阶 của người đó mỗi giờ (二阶 = 2 点/giờ). Nhiều 契主 thì cộng dồn. Không có 契主 gần thì không được điểm.
-- **Tiêu điểm:**
-  - Mở khoá 第N集 tốn **N × 50 收视点**. Mỗi tập = một năng lực lấy từ cốt truyện tập đó.
-  - **片尾复活** (năng lực 第1集): bị đánh ngất hoặc rời khỏi tầm mắt mọi người đủ 60 giây ("转场") → hồi lại nguyên vẹn, trong đầu vang nhạc kết phim. Mỗi lần tốn **10 收视点**. Còn dưới 10 điểm thì không hồi được, chết là chết.
-- **Không có:** đọc suy nghĩ, biết trước tương lai, sức mạnh thể chất ngoài luật hoạt hình của tập đã mở.
-- **Được phép sai:** 蛀牙大王 nhớ sai cốt truyện tập của chính mình; năng lực chạy theo luật hoạt hình chứ không theo ý 齐乐.
+- **变身 (第1集):** hô 「光甲——着装！」 kèm tạo dáng. Tốn **20 收视点**.
+  - **变身演出 8 giây:** nhạc nền, ánh sáng; mọi thứ thù địch trong vòng 10 m đứng hình, không đánh được. Người phe mình vẫn cử động bình thường.
+  - **Ba phút:** đèn ngực (能量核) xanh; 60 giây cuối chuyển đỏ, nhấp nháy, kêu 哔哔. Hết giờ thì giáp tự tan, 齐乐 kiệt sức không đứng dậy được **10 phút**.
+  - **必杀技 「曜光斩」:** phải hô đủ tên mới phát; mỗi lần biến hình dùng một lần.
+  - **Nổ sau lưng:** thắng một kẻ địch thì sau lưng 齐乐 nổ một tiếng thật — phá được tường, kính, xe. 异务处 bắt đền.
+- **Mở khoá 第N集** tốn **N × 50 收视点**: mỗi tập thêm một thứ của phim (dạng mới, vũ khí, xe…).
+- **Không có:** hồi sinh, đọc suy nghĩ, biết trước tương lai. Ngoài ba phút biến hình, 齐乐 là người thường.
+- **Được phép sai:** 曜 tin mình đang ở trong phim, nói theo kịch bản 1994, nhớ sai cốt truyện tập của chính mình.
 
 ## Luật cứng (không được phá)
 
-- Không ai ngoài 齐乐 nghe được 蛀牙大王.
-- 片尾复活 cần ngất hoặc 60 giây không ai nhìn thấy; có người nhìn chằm chằm thì không hồi.
-- Hết 收视点 thì không hồi được.
-- 齐乐 không xuyên không: gã sinh ra ở thế giới này. Meme mạng là văn hoá mạng của chính thế giới này.
+- Không ai ngoài 齐乐 nghe được 曜.
+- Biến hình đúng ba phút, không kéo dài được (chưa có tập nào mở khoá việc đó).
+- Dưới 20 收视点 thì không biến hình được. 齐乐 chết là chết thật.
+- 齐乐 không xuyên không: gã sinh ra ở thế giới này. Meme mạng (kể cả 奥特曼) là văn hoá của chính thế giới này.
 
 ## Địa danh
 

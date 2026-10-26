@@ -64,3 +64,22 @@ Tác giả 26/10: `X：“…”` chỉ dùng ở cảnh đặc định, bỏ đ
 - **Còn lệch:** vẫn vượt độ dài (2.577–2.792 khi nhắm 1.900); e cho kích hoạt 片尾复活 trừ 10 点 (canon: không tốn); `概念` vẫn lọt 1 lần/bản (anchor 4 có chữ `概念能力`).
 
 **Tác giả 26/10 sau vòng này: đổi cốt truyện, 蛀牙大王 "nghe low quá".** Các bản a–f giữ làm bằng chứng đo SI; canon của chúng bị thay khi tiền đề mới được chốt.
+
+---
+
+# Vòng 3 — vỏ mới 特摄 (曜) · SI v3 · `briefs/doan-001-tokusatsu.md`
+
+Tác giả 26/10 chọn hướng 1 (anh hùng 特摄 bị lãng quên). SI v3: ROLE/PRINCIPLE 4 đổi sang luật 特摄, thêm "thẻ thoại cùng dòng với câu nói".
+
+| Bản | 字 | 字/dòng | ！/1k | thoại kịch bản thuần | thẻ tách dòng | cụm nhấn | so sánh | lỗi canon |
+|---|---|---|---|---|---|---|---|---|
+| e (v2, vỏ cũ) | 2.792 | 17 | 40,1 | 0 | 22 | 13 | 0 | — |
+| f (v2, vỏ cũ) | 2.577 | 17 | 40,0 | 0 | 12 | 11 | 2 | — |
+| **g** (v3) | 3.425 | 21 | **24,2** | 0 | **5** | 18 | 1 | ❌ 齐乐 xuyên không từ 地球, "上辈子在孤儿院"; đèn đỏ ở 2:30 (canon 2:00) |
+| **h** (v3) | 3.199 | 16 | 33,4 | 0 | 6 | 21 | 2 | ✅ |
+| mẫu | 2.442 | 19 | 25,8 | ít | ~0,4/chương | — | hiếm | |
+
+- **Đạt:** thẻ thoại tách dòng 12–22 → 5–6; `！` của g xuống bằng mẫu; thoại trọn câu, 马骁 kể chuyện 复评 bằng lời của mình; giọng 曜 đúng thiết kế (`任何危害人类和平的存在，皆为怪兽！` · `长着电缆和锈铁的怪物，就是机械合成兽！`); cả hai dừng đúng ở tiếng hô 「光甲——着装！」.
+- **Ý Writer tự đặt, đáng trình Tác giả:** g — "第1集 thiếu kinh phí kỹ xảo nên đèn đỏ sớm", "đạt điểm xấu hổ mới biến hình được" (`羞耻度判定`); h — 齐乐 là fan 特摄 hay lùng băng cũ ở chợ đồ cũ; 马骁 hay lén dúi đùi gà cho 齐乐 (lý do để lao vào).
+- **Còn lệch:** vẫn vượt độ dài (3.199–3.425 khi nhắm 1.900); cụm nhấn 18–21; brief thiếu dòng "齐乐 sinh ra ở thế giới này" → g tự cho xuyên không.
+- **Chọn gốc:** khuyến nghị **h** (canon sạch). g có thoại hay hơn nhưng phải bỏ vì lỗi xuyên không.
