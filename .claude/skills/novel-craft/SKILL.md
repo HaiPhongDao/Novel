@@ -70,6 +70,8 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
   không gán tính cách — tính cách do Writer quyết.
+- **Mẫu là truyện xuyên việt mà MC của mình không xuyên** → brief phải có một dòng `X sinh ra ở thế giới này.`; bible
+  ghi thôi không đủ — Writer kéo motif xuyên không của mẫu vào ("上辈子", "从地球穿越") ngay khi brief im lặng.
 - **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt** (khung đặt hàng của Tác giả: độ dài · tag ·
   "mượn lời MC phán xét cũ/mới"), không nhờ dòng sự thật ở cuối brief bảng việc. Tác giả đưa khung thì dùng nguyên.
 - **Một đoạn = một tình huống; dữ kiện ghi là "bối cảnh để giữ cho đúng, không cần kể hết".** Giao cả chuỗi sự
