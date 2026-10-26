@@ -14,6 +14,6 @@ Prompt D1/D2 = prompt vòng 2 + kiếp trước (kỹ sư nông nghiệp 29 tu�
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [U02](U02.md) | 2943 | | đang soát |
-| [U03](U03.md) | 2074 | | đang soát |
-| [U01](U01.md) | 2848 | | đang soát |
+| [U02](U02.md) | 2943 | | mở bằng tóm kiếp trước + tang lễ, nhận định 'vụ mua bán này không lời lắm nhưng cũng không lỗ'; 他/她 6,5, tên MC 4,3 |
+| [U03](U03.md) | 2074 | | mở bằng tóm xuyên việt, nhận định 这桩穿越买卖算不上彻底亏本; 他/她 7,3, tên MC 4,7; lọt Karl; ngắn nhất (2074) |
+| [U01](U01.md) | 2848 | | mở 3 ngày sau xuyên việt, ngồi ghế lãnh chúa; tóm xuyên việt bằng 好消息是…/坏消息是… (chép khung câu của mẫu); 他/她 7,4 lần/1000, tên MC 4,1 (mẫu 16,6 / 17,2); lọt Karl |
