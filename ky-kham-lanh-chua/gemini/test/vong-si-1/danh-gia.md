@@ -9,3 +9,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [X04](X04.md) | 2166 | | tên lọt (Adrian/Karl/Gerry/洛萨/维兰); có chút ruộng (3 từ); 1 so sánh của người kể; 5000 cân / 100 cân/ngày = 50 ngày, viết ‘一个月半’ (lệch nhẹ) |
 | [X05](X05.md) | 2554 | | đang soát |
 | [X02](X02.md) | 3367 | | đang soát |
+| [X03](X03.md) | 3490 | | đang soát |
