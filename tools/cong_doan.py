@@ -64,7 +64,9 @@ def gate(draft_path, prompt_path, prev_path=None):
     if floor and n < 0.6 * floor:
         red.append(f"ngắn bất thường: {n} 字, brief đòi từ {floor} 字 — nghi capture hỏng")
 
-    sources = sentences(brief)
+    # Dòng bảng 【…】 và 叮！ trong brief là khối phải in nguyên văn, không phải mẫu để chép.
+    brief_body = "\n".join(l for l in brief.split("\n") if not re.match(r"\s*(【|叮)", l))
+    sources = sentences(brief_body)
     if prev_path:
         prev = load(prev_path)
         sources += sentences(prev[-1500:])
