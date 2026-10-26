@@ -16,3 +16,4 @@ Prompt D1/D2 = prompt vòng 2 + kiếp trước (kỹ sư nông nghiệp 29 tu�
 |---|---|---|---|
 | [U02](U02.md) | 2943 | | đang soát |
 | [U03](U03.md) | 2074 | | đang soát |
+| [U01](U01.md) | 2848 | | đang soát |
