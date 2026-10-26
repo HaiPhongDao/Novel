@@ -9,3 +9,4 @@
 2026-10-26 | bible | Dựng thế giới 雾港市/异务处/异闻/空契, bàn tay vàng 蛀牙大王 + 收视点 (阶/giờ trong 10 m; 第N集 = N×50; 片尾复活 10 点), nhân vật 齐乐/唐棠/马骁/孔令仪 | tên và số là đề xuất của Agent | chờ Tác giả
 2026-10-26 | SI v1 | 4 nguyên tắc + 4 anchor (ch.1, 2, 30), 5 BANS, nhịp đo từ mẫu; 5.656 ký tự; verify_anchors 4/4 | chưa chạy thử | chờ Tác giả
 2026-10-26 | doan-001 | Brief đoạn 001: B2 02:40, 异闻 thang máy kéo 马骁, 蛀牙大王 tỉnh, dừng khi 齐乐 lao vào | | Agent
+2026-10-26 | doan-001 | Thử 2 hình dạng prompt × 2 lần (a, c tối giản; b, d đơn giản), SI v1, acc sekanyuu | Prompt đơn giản giữ canon bàn tay vàng cả 2 lần; tối giản tự đặt năng lực khác — `reviews/doan-001.md` | Agent (chờ Tác giả chọn bản)

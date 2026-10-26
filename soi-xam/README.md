@@ -21,4 +21,4 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` | — | — | — |
+| 001 | `briefs/doan-001-toi-gian.md` · `briefs/doan-001-don-gian.md` | a, b, c, d (thử) | `reviews/doan-001.md` | chờ Tác giả chọn (khuyến nghị b) |
