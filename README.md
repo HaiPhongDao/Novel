@@ -15,6 +15,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`goblin/`](goblin/README.md) | Goblin Khai Hoá — thầy giáo hoá từng làm kỹ sư lò cao xuyên vào con goblin còi vừa nở, ở cái hang mà tù trưởng ăn con non khi đói | Lượt 2 (prompt ngắn): prompt đoạn 001–002 |
 | [`lanh-chua-khoa-hoc/`](lanh-chua-khoa-hoc/README.md) | Lãnh Chúa Khoa Học — CEO ngành sản xuất chính xác xuyên vào lãnh chúa trẻ vùng mỏ đá xỉ, đúng lúc phép thuật thành ngành công nghiệp; không hệ thống, không tự tay làm được nghề | Mới mở: 3 phương án tiền đề + bible nháp (overview, world, 5 nhân vật, arc 1) chờ Tác giả duyệt |
 | [`ky-kham-lanh-chua/`](ky-kham-lanh-chua/README.md) | 骑砍领主：铁脊要塞 — con thứ nam tước biên bắc, 500 nông nô và một pháo đài sắp thất thủ trong ba mươi ngày; bảng 骑砍 trong đầu, cày là có | Pha đo giọng: phân tích mẫu 886 chương + SI v1 (7 anchor) + test 01 trên cảnh ch8; tiền đề chờ chốt |
+| [`nong-trang-ma-phap/`](nong-trang-ma-phap/README.md) | 我在西幻种地，把法师饿死了 — tá điền xuyên việt ở làng 灰柳村, mở đầu hưu nhàn làm ruộng, bảng 经验 kiếm bằng ngày công và tiêu bằng đào tạo 村民 | Mới mở: bible + 黄金三章 + SI v2.1 + 4 bản đoạn 001 (`a`–`d`, bảng số ở `reviews/doan-001.md`) |
 
 ## Cấu trúc
 
