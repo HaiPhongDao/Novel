@@ -20,6 +20,13 @@ Viết luôn kèm tiến độ: `3阶青铜骑士 489/500`. Không có bình c�
 **Độ dài thanh:** 1–3阶 là /500; **4阶 là /2000**; 5阶 trở lên chưa mở. Lên bậc thì thanh mới bắt đầu từ 0 và
 mốc đầu tiên của bậc mới KHÔNG làm mất số dư cũ — mọi dòng bảng phải khớp phép tính trong cùng đoạn.
 
+**Thanh của đơn vị (chốt 26/10):** 一阶 /100 · 二阶 /100 · 三阶 /300 · 四阶 /500 (chưa mở). Đầy thanh thì **nhóm
+đã ra đòn** lên bậc, thanh mới bắt đầu từ 0, **điểm dư chuyển sang thanh mới** (cùng luật với thanh 宿主). Một đoạn
+chỉ nâng một lần; dòng bảng in nhóm theo bậc, ví dụ `一阶.428 维兰农奴（0/100）· 三阶.37 维兰步兵（142/300）`.
+
+**Đếm người phải khớp:** tổng người sống = tổng các dòng 士兵. Sau đoạn 008: 484 = 447 一阶 + 37 二阶 (bản 008 in
+`二阶.41` là **sai**, phải là `二阶.37` — bốn người chết ở trạm nam đều thuộc nhóm 41).
+
 ## 2. Bậc lính (兵种)
 
 一阶农奴 → 二阶民兵 → 三阶步兵 / 三阶弓箭手 → 四阶熟练步兵 / 四阶熟练射手 → 五阶以上 là quân vương quốc.
