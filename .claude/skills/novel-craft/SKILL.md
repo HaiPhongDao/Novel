@@ -98,8 +98,11 @@ python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt --prom
   (`Start-Process msedge -ArgumentList '--new-window','about:blank'`) rồi chạy lại y nguyên lệnh.
 - Quota: script xoay `/u/0 → /u/1 → /u/2`, ghi vào `tools/.aistudio_state.json`; đọc dòng `Google Account:` để biết acc nào.
   Số `/u/N` ứng với tài khoản khác nhau trên mỗi máy — ghi quota theo email trong `log.md`, đừng theo số.
-- Extension được nạp từ thư mục ghi trong Edge (`Secure Preferences` → `path`), có thể là bản chép ngoài repo:
-  so với `tools/aistudio-ext/` trước khi tin tính năng mới (vd. `--think-out` cần bản đọc được thinking).
+- Extension được nạp từ thư mục ghi trong Edge (`Secure Preferences` → `path`), có thể là bản chép ngoài repo
+  (máy này: `D:\ClaudeCode\aistudio-ext`). Script tính hash từ `tools/aistudio-ext/` nên sửa trong repo vẫn làm
+  extension reload — nhưng nạp lại **code cũ**: sửa xong phải chép sang thư mục Edge nạp (giữ bản cũ để lùi).
+- Tài khoản bị từ chối quyền: lỗi in ngay trong lượt Model, không ở thanh thông báo; extension (từ 26/10) đọc lỗi đó,
+  xếp như hết quota và script xoay `/u/` kế tiếp. Vẫn treo → thử logic trên trang giả trước khi đụng tài khoản thật.
 - Bản ra không có dòng trống giữa đoạn: lưu raw vào `archive/`, chèn dòng trống trước dòng bắt đầu bằng `　　` (chỉ đổi khoảng trắng).
 - `--think-out <truyen>/archive/thinking-XXX.md` khi nghi SI bị hiểu sai — đọc thinking trước khi sửa SI.
 
