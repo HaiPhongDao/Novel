@@ -8,6 +8,6 @@ T01, T02, T03 cùng hướng với U01, U02, U03 ở vòng 5 (nhãn hướng v�
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [T03](T03.md) | 2127 | | đang soát |
-| [T01](T01.md) | 2420 | | đang soát |
-| [T02](T02.md) | 2532 | | đang soát |
+| [T03](T03.md) | 2127 | | mở nửa tháng sau, Leon đã ngồi ghế lãnh chúa, kể lại tang lễ; kiếp trước chỉ 1 câu chung chung; 他/她 8,4, Leon 5,3 — cao nhất vòng |
+| [T01](T01.md) | 2420 | | mở 3 ngày sau xuyên việt, đứng đầu linh đường; không nhắc nghề kiếp trước; chép khung 好消息/坏消息/喜忧参半 của mẫu; 他/她 3,3 lần/1000 chữ kể (mẫu 16,6), Leon 6,7 |
+| [T02](T02.md) | 2532 | | lại mở bằng lúc mở mắt ở linh đường (bỏ qua hướng 'sau một thời gian'); không nhắc nghề; 他/她 6,1, Leon 4,2 |
