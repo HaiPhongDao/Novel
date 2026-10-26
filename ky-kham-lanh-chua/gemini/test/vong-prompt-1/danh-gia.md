@@ -6,9 +6,10 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [Y01](Y01.md) | 2788 | | đang soát |
-| [Y02](Y02.md) | 2438 | | đang soát |
-| [Y04](Y04.md) | 3130 | | đang soát |
-| [Y03](Y03.md) | 1934 | | đang soát |
-| [Y06](Y06.md) | 3398 | | đang soát |
-| [Y05](Y05.md) | 2955 | | đang soát |
+| [Y01](Y01.md) | 2788 | | lọt 1 tên từ SI (巴罗尔); ít ruộng (4 từ); 4 so sánh của người kể; từ hiện đại: 小时; số đúng (90 bao × 70 cân = 6300); không có dòng 叮 |
+| [Y02](Y02.md) | 2438 | | không lọt tên; ít ruộng (4 từ); 1 so sánh của người kể; dùng 7 bạc nhưng 60 ngày thành ngày xe thu thuế tới, không nhắc 90/40 bao |
+| [Y04](Y04.md) | 3130 | | lọt Cole; ít ruộng (3 từ); không có số của prompt (tự đặt 30 bạc, 60 bao, 12 nông nô); 叮 đúng khuôn |
+| [Y03](Y03.md) | 1934 | | lọt Cole; ít ruộng — việc làm ngay là chặn cá mùa lũ thu; 2 so sánh; ngắn (1934 chữ); có 7 bạc, 60 ngày |
+| [Y06](Y06.md) | 3398 | | không lọt tên; ít ruộng (việc làm là vớt gỗ trôi); từ hiện đại: 视网膜; số đúng (90−40=50 bao ≈ 6000 cân); kết bằng biến cố thu thêm 10 bao |
+| [Y05](Y05.md) | 2955 | | không lọt tên; NHIỀU ruộng (16 từ: gieo củ cải 45–50 ngày ở bãi sông); 3 so sánh; số đúng hết (90−40=50 bao, 67 miệng, giữ 15 bao giống → 3500 cân cho ~150 ngày) |
+| [Y07](Y07.md) | 2286 | | đang soát |
