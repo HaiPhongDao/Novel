@@ -21,6 +21,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | `chung/quy-trinh-ban-giao.md` | Gói bàn giao và chuyển session Writer |
 | `chung/ai-studio.md` | Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome |
 | `chung/review-blacklist.md` | Lỗi văn chung để soát khi review |
+| `chung/nghien-cuu-outliner.md` | Khảo sát repo/bài báo về lập dàn ý truyện dài + đề xuất nâng cấp khâu dàn ý (chờ Tác giả duyệt) |
 | `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `set_clip.ps1` / `save_clip.ps1` (chuyển văn bản qua clipboard có kiểm), `gemini_write.py` (chạy Writer bằng Gemini API, ghi thẳng `chapters/` — [`chung/gemini-api.md`](chung/gemini-api.md)), `ollama_write.py` (chạy Writer bằng Ollama) |
 | `writer/SI-template` | SI mẫu dùng chung — điền ô `[[...]]` cho từng truyện |
 | `_mau-truyen/` | Khung thư mục để chép khi mở truyện mới |
