@@ -13,3 +13,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [X08](X08.md) | 2325 | | đang soát |
 | [X07](X07.md) | 2662 | | đang soát |
 | [X06](X06.md) | 2628 | | đang soát |
+| [X10](X10.md) | 2935 | | đang soát |
