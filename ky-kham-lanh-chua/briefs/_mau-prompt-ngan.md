@@ -19,6 +19,10 @@ ví dụ ai ký lệnh", Writer chỉ còn việc đánh dấu vào checklist. V
 ## Mẫu
 
 ```
+KHỐI NỐI TIẾP — đoạn trước dừng ở chỗ: <mô tả đúng sự việc cuối đoạn trước, ai đang ở đâu, ai vừa nói gì>.
+200–300 字 đầu của đoạn này phải trả lời đúng chỗ đó (<việc phải xảy ra tiếp>), rồi mới chuyển cảnh.
+Đang treo từ các đoạn trước: <những thứ chưa xử: người bị trói, xác chưa chôn, người bị thương, lời hứa, món nợ>.
+
 Đoạn thứ N. <mốc thời gian: một đêm, một ngày, hai ngày> ở <địa điểm>.
 
 Cần đúng những việc này: <3–5 sự việc, viết như sự thật đã xảy ra, không đánh số, không chia beat>.
@@ -34,6 +38,15 @@ Bảng: <các dòng 【】 đúng nguyên văn>.
 
 ## Luật
 
+0. **Khối nối tiếp là bắt buộc, đứng đầu prompt.** Đo được trên 5 đoạn 003–007: prompt không có khối này thì
+   đoạn sau mở bằng một cảnh mới toanh và **cả 5 mối nối đều đứt** — 003 hết ở giữa đường chạy vào rừng, 004 mở
+   bằng tả rừng; 004 hết ở bàn tay Karl nắm cổ tay hắn, 005 mở bằng "buổi chiều" với 巴特 đã bị trói từ lúc nào
+   không ai biết. Viết đúng chỗ dừng của đoạn trước **bằng tiếng Việt** (đừng trích câu tiếng Trung — Writer chép
+   nguyên), kèm danh sách việc đang treo.
+   **Viết "ai làm gì", không viết "ai nói gì".** Lượt đầu tiên của bản sửa có ghi "Karl nói gì" và cái giá đo
+   được: 5/5 mối nối liền, nhưng thoại phình từ 3–15 lên 6–32 lượt và **chữ/lượt tụt từ 26–36 xuống 12–23**
+   (006: 13 lượt · 12,2 字), kèm 1–7 lượt cụt mỗi đoạn — tức lại là Agent viết hộ thoại, chỉ khác chỗ đặt. Chỉ
+   cần: "cảnh mở bằng một việc cụ thể xảy ra ngay sau chỗ dừng đó", và ai nói thì để Writer chọn.
 1. **Không đánh số beat.** Số thứ tự biến mỗi beat thành một hành động và cả đoạn thành biên bản.
 2. **Không chỉ định nội dung lượt thoại** ("hỏi một câu thật", "một lượt ngoài việc", "phải từ chối một lần").
    Đó là Agent viết hộ thoại; Writer sẽ thi hành đúng chữ và mất giọng.
