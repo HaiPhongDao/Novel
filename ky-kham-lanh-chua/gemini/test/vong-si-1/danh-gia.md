@@ -16,3 +16,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [X10](X10.md) | 2935 | | tên lọt (Adrian/Karl/Gerry/Cole/洛萨/维兰/铁脊); ít ruộng; 3 so sánh của người kể; số lương đúng (1200 cân, 15 người × 2 cân × 30 ngày = 900) |
 | [X09](X09.md) | 2808 | | tên lọt (Adrian/Karl/Gerry/洛萨); 0 cảnh ruộng; 3 so sánh của người kể; số khớp (28 người → 6 lên cấp, còn 22) |
 | [X11](X11.md) | 2523 | | đang soát |
+| [X12](X12.md) | 2626 | | đang soát |
