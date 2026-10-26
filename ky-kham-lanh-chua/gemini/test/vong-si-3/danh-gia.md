@@ -12,3 +12,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả".
 |---|---|---|---|
 | [W03](W03.md) | 2336 | | đang soát |
 | [W02](W02.md) | 3092 | | đang soát |
+| [W01](W01.md) | 1764 | | đang soát |
