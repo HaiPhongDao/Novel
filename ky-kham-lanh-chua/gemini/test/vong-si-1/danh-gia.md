@@ -15,5 +15,5 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [X06](X06.md) | 2628 | | tên lọt (Adrian/Karl/Gerry/Cole/洛萨/维兰/铁脊); gần như không có ruộng (có đào giếng); 0 so sánh của người kể; số lương đúng (600 cân / 30 cân/ngày = 20 ngày) |
 | [X10](X10.md) | 2935 | | tên lọt (Adrian/Karl/Gerry/Cole/洛萨/维兰/铁脊); ít ruộng; 3 so sánh của người kể; số lương đúng (1200 cân, 15 người × 2 cân × 30 ngày = 900) |
 | [X09](X09.md) | 2808 | | tên lọt (Adrian/Karl/Gerry/洛萨); 0 cảnh ruộng; 3 so sánh của người kể; số khớp (28 người → 6 lên cấp, còn 22) |
-| [X11](X11.md) | 2523 | | đang soát |
-| [X12](X12.md) | 2626 | | đang soát |
+| [X11](X11.md) | 2523 | | tên lọt (Adrian/Karl/洛萨/维兰); 0 cảnh ruộng; 1 so sánh của người kể; số lương đúng (4 bao × 90 = 360 cân, ~12 ngày); 叮 đúng khuôn |
+| [X12](X12.md) | 2626 | | tên lọt ít nhất (chỉ Adrian/Cole, không có 洛萨/维兰); 0 cảnh ruộng; 3 so sánh của người kể; bảng tự gợi ý ‘可晋升兵种…’ (trái SI: bảng không khuyên) |
