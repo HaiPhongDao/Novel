@@ -64,13 +64,20 @@ Bảng: <các dòng 【】 đúng nguyên văn>.
 Không đặt. Đoạn dài theo số sự việc. Ba đoạn đã chạy: 1.958 / 1.722 / 1.351 字 — đều ngắn hơn bản Writer tự
 do (3.618 字), vì phạm vi mình giao hẹp hơn một chương.
 
-## Chỗ đặt cho cái đầu kiếp trước (bắt buộc, một dòng mỗi brief)
+## Dòng thân phận cái đầu kiếp trước (một dòng, viết như dữ kiện)
 
-Prompt phải chỉ ra **một việc** trong đoạn mà cách người bản địa làm sẽ hỏng, để hắn xử bằng một đơn vị/định mức
-mang từ kiếp trước (suất ăn, ngày công, tỷ lệ hao, thời gian ủ, ca trực). Ghi như sự thật, không ghi "hãy thể hiện
-sự ưu việt". Ba lần chạy đo được: không có dòng này thì 0/5 đoạn có dấu vết; có dòng này ở 003 thì hắn quy được
-`热量消耗是静卧者的三倍` và mở cơ chế thay ca.
+Mỗi brief có **một dòng sự thật** về cái đầu mang từ kiếp trước, ví dụ:
+
+`Adrian là người xuyên việt: kiếp trước hắn làm nghề tài chính — sổ sách, lãi, tỷ giá, chi phí, dòng tiền. Hắn nhìn mọi thứ ở thế giới này bằng những con số đó.`
+
+Chỉ dữ kiện: nghề cũ, thứ hắn quen nhìn. **Không** chỉ định hắn sẽ nghĩ gì trong cảnh, không đặt "một chỗ để hắn
+thắng", không dặn "đừng giảng khái niệm".
+
+Bản đầu của tôi viết `Đoạn này có đúng một chỗ để cái đầu kiếp trước thắng: hắn định giá 12 mạng thành 24 金币…
+Không giảng khái niệm` — Tác giả bắt lỗi ngay và đúng: (a) đó là chỉ định nội dung, tức viết hộ cái đầu MC, cùng
+lỗi với chỉ định lượt thoại; (b) mặc cả giá nô lệ **không** phải ưu thế người hiện đại — Gerry cũng làm thế;
+(c) nó lặp dữ kiện đã có trong brief; (d) nó viết luật văn trong prompt, vi phạm luật 6. Nếu một đoạn không có
+tình huống nào để kiến thức cũ thắng thì **để trống**, đừng bịa một chỗ cho đủ form.
 
 **Không mô tả tính cách MC** — không trong brief, không trong bible, không trong SI. Tác giả chốt 26/10: *"Đừng gán
-tính cách vào MC, AI viết dở cái đấy. Tự writer quyết."* Tính cách phải lộ ra qua việc hắn làm và câu hắn nói
-trong cảnh; Agent chỉ đưa **hoàn cảnh** (quyền, hạn chót, cái giá, người đối diện), không đưa nhãn tính cách.
+tính cách vào MC, AI viết dở cái đấy. Tự writer quyết."* Tính cách lộ ra qua việc hắn làm và câu hắn nói.

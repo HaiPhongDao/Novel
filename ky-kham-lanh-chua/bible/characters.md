@@ -3,7 +3,8 @@
 ## Adrian — MC
 
 19 tuổi, con thứ của nam tước Losa, 3阶青铜骑士 (481/500 khi mở truyện). Mẹ mất sớm, để lại 30 金币.
-Trong đầu có bảng 骑砍: mỗi lần chém, mỗi lần luyện là một thanh chạy, không có bình cảnh.
+**Người xuyên việt** — kiếp trước làm nghề tài chính (sổ sách, lãi, tỷ giá, chi phí); nhìn mọi thứ
+bằng con số (chốt 26/10 theo yêu cầu Tác giả). Trong đầu có bảng 骑砍: mỗi lần chém, mỗi lần luyện là một thanh chạy, không có bình cảnh.
 Giỏi tính, không giỏi nói trước đám đông; nói xong thường tự chửi mình trong đầu.
 Tự gọi mình là Adrian 少爷 khi đang cay.
 
