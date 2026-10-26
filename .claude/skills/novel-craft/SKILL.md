@@ -69,6 +69,11 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
   không gán tính cách — tính cách do Writer quyết.
+- **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt, không nhờ dòng sự thật ở cuối.** Brief kiểu
+  bảng việc (bối cảnh → sự việc → số → bảng → "X là người xuyên việt") ra văn bình bình, gần như không câu phán
+  xét nào; khung đặt hàng của Tác giả (độ dài · tag thể loại · "mượn lời MC phán xét chế độ cũ với mới") + dữ kiện
+  viết thành câu sự thật ra ~10 câu phán xét trải đều ba cảnh mà canon vẫn giữ. Tác giả đưa khung prompt của họ
+  thì dùng nguyên khung, chỉ thêm dữ kiện — `references/giong-mc-hien-dai.md` mục 7.
 - **Bible là nguồn canon**, không phải README; thấy lệch thì báo Tác giả.
 
 Chi tiết + số đo: `references/brief-chi-tiet.md`, `references/si-cau-truc.md` mục 5–8.
@@ -127,6 +132,10 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
   (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
 - Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
+- **Luật "mọi lượt thoại có thẻ" + anchor gắn thẻ cả tám dòng = lượt nào cũng kết bằng `X 说道`**, kể cả hai ba lượt
+  liền của một người (Tác giả đọc ra ngay). Luật đúng: thẻ chỉ ở chỗ cần biết ai nói, tối đa một lượt trong ba,
+  không bao giờ hai lượt liền của một người cùng gắn thẻ — đo cùng truyện: 15 thẻ → 1. Lúc chép SI sang truyện
+  mới, soát câu chữ của luật thẻ và lời bình anchor trước khi chạy.
 - Không bịa anchor; kiểm bằng `scripts/verify_anchors.py` — `references/si-anchors.md`.
 - Nghi SI "không làm việc" → test trên cảnh mẫu có đáp án, hai cảnh khác loại — `references/si-test-tren-mau.md`.
 - Tác giả gửi link SI: repo private, đọc từ bản clone và nói rõ đời nào (+3–4 khác biệt).
