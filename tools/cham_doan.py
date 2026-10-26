@@ -66,6 +66,7 @@ def measure(path, prompt_path=None, numbers=None):
     d["chep_mau"] = []
     if prompt_path:
         pr = open(prompt_path, encoding="utf-8").read()
+        pr = re.sub(r"【接上】.*?【接上完】", "", pr, flags=re.S)  # đuôi đoạn trước không phải "mẫu để chép" 
         for s in re.findall(r"[“「]([^”」]{8,})[”」]", pr):
             if han(s) >= 8 and s in t:
                 d["chep_mau"].append(s[:24])
