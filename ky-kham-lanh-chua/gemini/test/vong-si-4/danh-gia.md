@@ -12,3 +12,4 @@ Tác giả chỉ cần điền **Đạt** / **Không**.
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
+| [V03](V03.md) | 2546 | | đang soát |
