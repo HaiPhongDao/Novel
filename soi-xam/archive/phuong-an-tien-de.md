@@ -1,4 +1,6 @@
-# Phương án tiền đề — soi-xam (CHƯA CHỐT)
+# Phương án tiền đề — soi-xam
+
+**ĐÃ CHỐT 26/10/2026: A** · tên riêng chữ Hán · chửi thề như mẫu. Chi tiết dựng ở `../bible/`.
 
 Giọng lấy từ mẫu (xem `../mau/phan-tich.md`). Phương án dưới đây chỉ khác nhau ở **vỏ truyện và động cơ**; giọng giữ như mẫu.
 Mọi tên, số trong phương án là đề xuất, chưa phải canon.

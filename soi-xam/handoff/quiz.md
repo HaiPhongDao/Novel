@@ -1,3 +1,3 @@
-1. <Nhân vật chính> đang ở đâu, vừa làm gì.
-2. <Nhân vật chính> biết gì về <bí mật chính>.
-3. Các con số đang chạy (<người, lương, ngày…>).
+1. 齐乐 đang ở đâu, làm việc gì, mấy giờ.
+2. Ai nghe được 蛀牙大王, và 齐乐 đã khai gì với 异务处 ba năm trước.
+3. 片尾复活 cần điều kiện gì và tốn bao nhiêu 收视点; hiện còn bao nhiêu điểm.

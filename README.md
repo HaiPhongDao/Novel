@@ -11,7 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
-| [`soi-xam/`](soi-xam/README.md) | Sói Xám (tên tạm) — giọng hài phá tường thứ tư lấy từ mẫu 《斩神：代理灰太狼》 | Mới mở, chờ chốt tiền đề |
+| [`soi-xam/`](soi-xam/README.md) | 《空契：我的神明是蛀牙大王》 — 空契者 lao công tầng hầm là đại lý của phản diện hoạt hình bị lãng quên; giọng lấy từ mẫu 《斩神：代理灰太狼》 | Bible + SI v1 + brief 001, chưa chạy Writer |
 
 ## Cấu trúc
 
