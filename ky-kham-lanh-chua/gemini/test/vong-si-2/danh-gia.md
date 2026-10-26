@@ -10,3 +10,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
 | [Z03](Z03.md) | 1560 | | đang soát |
+| [Z02](Z02.md) | 2528 | | đang soát |
