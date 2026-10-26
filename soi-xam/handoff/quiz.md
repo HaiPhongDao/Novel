@@ -1,3 +1,3 @@
 1. 齐乐 đang ở đâu, làm việc gì, mấy giờ.
-2. Ai nghe được 曜, và 齐乐 đã khai gì với 异务处 ba năm trước.
-3. Biến hình tốn bao nhiêu 收视点, kéo dài bao lâu, hết giờ thì sao; hiện còn bao nhiêu điểm.
+2. Phân thân ra khi nào, ở ngoài được bao lâu, chết thì sao.
+3. Hồ sơ của 异务处 ghi năng lực của 齐乐 là gì, và ai biết sự thật.

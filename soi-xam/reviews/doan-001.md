@@ -83,3 +83,30 @@ Tác giả 26/10 chọn hướng 1 (anh hùng 特摄 bị lãng quên). SI v3: R
 - **Ý Writer tự đặt, đáng trình Tác giả:** g — "第1集 thiếu kinh phí kỹ xảo nên đèn đỏ sớm", "đạt điểm xấu hổ mới biến hình được" (`羞耻度判定`); h — 齐乐 là fan 特摄 hay lùng băng cũ ở chợ đồ cũ; 马骁 hay lén dúi đùi gà cho 齐乐 (lý do để lao vào).
 - **Còn lệch:** vẫn vượt độ dài (3.199–3.425 khi nhắm 1.900); cụm nhấn 18–21; brief thiếu dòng "齐乐 sinh ra ở thế giới này" → g tự cho xuyên không.
 - **Chọn gốc:** khuyến nghị **h** (canon sạch). g có thoại hay hơn nhưng phải bỏ vì lỗi xuyên không.
+
+---
+
+# Vòng 4 — nội dung mới (MC xuyên việt + phân thân điên) · SI v4 · `briefs/doan-001-phan-than.md`
+
+Tác giả 27/10: giữ SI và thế giới, ai cũng thức tỉnh; MC xuyên việt, phân thân tính cách tâm thần cực độ, MC chỉ muốn sống yên. SI v4 chỉ đổi ROLE, PRINCIPLE 4, một dòng FIXED CONVENTIONS. Bản i chạy lần đầu gặp `Failed to generate content` (lỗi tạm), chạy lại y nguyên thì ra.
+
+| Bản | 字 | 字/dòng | ！/1k | thoại kịch bản thuần | thẻ tách dòng | 【】 | cụm nhấn | so sánh |
+|---|---|---|---|---|---|---|---|---|
+| i | 3.161 | 19 | **25,6** | 0 | 9 | 4 (màn hình đồng hồ, hồ sơ) | 15 | 1 |
+| **j** | **2.375** | 17 | **24,0** | 0 | 4 | 8 (đồng hồ, nhãn hộp) | 19 | 1 |
+| mẫu | 2.442 | 19 | 25,8 | ít | ~0,4/chương | 1,8 | — | hiếm |
+
+- **Đạt:**
+  - `！` bằng mẫu ở cả hai bản; j lần đầu vào cửa sổ độ dài.
+  - Giọng 齐乐 sống: nước kỷ tử, 「心若冰清，天塌不惊」, "活王八 ba năm", đồng hồ nhịp tim leo `98 → 115 → 127`.
+  - Phân thân điên đúng hồ sơ: i `爹来陪你玩通宵了` + 大鹏展翅; j `老子来陪你玩捉迷藏了` + trượt vào khe cửa.
+  - Thoại cùng dòng với thẻ.
+- **Cả hai bản tự đi tới cùng một cái kết:** 唐棠 tưởng "小齐" xả thân, quay lại thấy 齐乐 thật đứng sau quầy với cốc nước nóng, nhịp tim 135–138. j: `那个……如果我说，刚才跳进去的那个神经病真不是我，你信吗？`
+  - **Đây là quyết định canon của Tác giả:** bible đang ghi "người ngoài không phân biệt được hai đứa" và 齐乐 giấu năng lực; cái kết này cho 唐棠 biết có hai 齐乐 ngay đoạn 1.
+- **Lệch canon / chi tiết:**
+  - i tự nói nguồn gốc phân thân ("灵魂撕裂留下的后遗症") như sự thật (bible: để mở).
+  - i cho phân thân từng ra một lần ba năm trước khi xem phim kinh dị (bible: 0 lần) — chi tiết hay, có thể nhận.
+  - i dùng `异变者` thay cho 契主.
+  - j cho phân thân đạp lõm mặt quầy gỗ (sát mép 一阶).
+  - Cả hai in màn hình đồng hồ / nhãn hộp bằng `【】`; không có hệ thống nên chấp nhận được, nhưng ghi để theo dõi.
+- **Chọn gốc:** khuyến nghị **j** (đúng độ dài, chặt, câu chốt đắt); i có phần mở dài hơn và gag tốt (`神态安详得能直接送去火化`) nếu Tác giả muốn mở chậm.
