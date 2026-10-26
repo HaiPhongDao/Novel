@@ -14,7 +14,7 @@
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction.md` v1 (phần dán: `gemini/si-dan-gemini.txt`, 5.656 ký tự, 4 anchor nguyên văn từ ch.1/2/30, `verify_anchors` 4/4). Bản lưu trên AI Studio: `Sói Xám - SI` (chưa tạo).
+- SI đang dùng: `gemini/system-instruction.md` **v2** (phần dán: `gemini/si-dan-gemini.txt`, ~5.700 ký tự, 4 anchor nguyên văn từ ch.2/66/29/2, `verify_anchors` 4/4). v1 giữ ở `gemini/system-instruction-v1.md`. Bản lưu trên AI Studio: `Sói Xám - SI` (chưa tạo).
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
 ## Trạng thái

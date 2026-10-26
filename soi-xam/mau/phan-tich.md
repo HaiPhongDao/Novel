@@ -36,7 +36,7 @@ So với lane 领主 của repo (20–34 字/câu): mẫu ngắn hơn hẳn → 
 
 ## 3. Giọng — cơ chế, không phải tính từ
 
-1. **Thoại kiểu kịch bản.** `楚明：“……”` / `林七夜：“？”` / `“？？？”` đứng riêng một dòng: phản ứng là dấu câu, không là lời tả. Thẻ thoại phần lớn là `X：` hoặc `X + một động tác：`.
+1. **Thoại kiểu kịch bản** `楚明：“……”` dày ở chương 1–100, nhưng chỉ dồn ở cảnh đặc định (cãi nhanh, gag lặp). **Tác giả 26/10: không dùng cho truyện mới** — số đếm cao không có nghĩa là luật cho cả đoạn. Thoại thường của mẫu: thẻ / động tác + `：“…”` hoặc `“…”X道`.
 2. **Lời kể = giọng trong đầu MC.** Câu chửi, câu hỏi tu từ, meme mạng nằm thẳng trong lời kể (`我超市你的码！` · `牛波一啊！` · `起飞，这波绝对起大飞！`).
 3. **Dựng–xì hơi.** Một câu nghiêm, câu sau tự giẫm lên (`要知道，概念神……而是一种概念！` → `呃……你可能觉得这是一句废话` → `好吧，这其实就是一句废话。`).
 4. **Gag lặp ba bậc.** Cùng một động tác lặp, mỗi lần nặng hơn (bác sĩ ghi bệnh án: 抑郁症 → 躁郁症+反社会 → 精神失常), kết bằng một câu MC ngắn.

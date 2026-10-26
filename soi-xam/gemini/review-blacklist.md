@@ -11,8 +11,11 @@ Soát cùng `../chung/review-blacklist.md`, **trừ các ngoại lệ dưới đ
 - `突然` dày (mẫu gốc 1–2,5 /10k 字; nửa sau 7–26).
 - Câu tả cử động tỉ mỉ của người khác: "耳朵警惕地竖成尖角，尾巴不自觉地绷直扫过地面".
 - Chiêu thức gọi tên kiểu `概念覆盖·XXX！` / `等价交换·XXX！` dồn dập.
-- Mất thoại kiểu kịch bản: cả đoạn không có dòng `名字：“……”`.
 - Dấu ngoặc kép sai: `”……”`, `“……“`.
+
+## Thoại
+- Dòng kiểu kịch bản `名字：“……”` (Tác giả 26/10: không cần) — nhất là chuỗi nhiều dòng liền cùng một người.
+- Chữ `概念` / `概念级` mượn từ mẫu (đã lọt ở bản a, b, c của 001).
 
 ## Canon dễ lệch
 - Người khác nghe được 蛀牙大王 → sai (chỉ 齐乐 nghe).

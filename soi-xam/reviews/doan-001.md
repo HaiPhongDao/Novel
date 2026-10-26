@@ -45,3 +45,22 @@ Hai hình dạng prompt × 2 lần chạy để tách tác dụng của prompt k
 4. SI: hạ mật độ `！` (anchor đang dạy đúng, nhưng dòng LENGTH cần nói nhịp `！` theo cảnh) — cần Tác giả duyệt trước khi sửa.
 
 **Kết luận review:** chưa chốt bản nào. Bản b là gốc khuyến nghị; chờ Tác giả đọc và chọn.
+
+---
+
+# Vòng 2 — SI v2 (bỏ thoại kiểu kịch bản) + prompt đơn giản v2
+
+Tác giả 26/10: `X：“…”` chỉ dùng ở cảnh đặc định, bỏ đi. SI v2 đổi anchor 2–3 (ch.66, ch.29) và dòng LENGTH; prompt v2 thêm "26 tập", độ dài 1.800–2.200 (nhắm 1.900), mở thẳng vào lúc 第七组 bước ra.
+
+| Bản | SI | thoại kịch bản thuần `名字：“` | thẻ thoại tách dòng (`道：`↵`“…”`) | 字 | ！/1k | cụm nhấn | so sánh người kể |
+|---|---|---|---|---|---|---|---|
+| a / b / c / d | v1 | 24 / 12 / 16 / 36 | — / 6 / — / — | 3.047–3.554 | 47–58 | 13–29 | 0–5 |
+| e | v2 | 0 | 22 | 2.792 | 40,1 | 13 | 0 |
+| f | v2 | 0 | 11 | 2.577 | 40,0 | 11 | 0 |
+| mẫu | — | ít, chỉ ở cảnh cãi nhanh | ~0,4/chương | 2.442 | 25,8 | — | hiếm |
+
+- **Đạt:** thoại kịch bản về 0 cả hai lần; `！` giảm 58 → 40; tiểu sử 齐乐 đi qua lời 马骁 thay vì khối kể đầu đoạn; "26 tập" đúng.
+- **Tật mới:** thẻ thoại đứng riêng một dòng rồi câu nói xuống dòng — 11–22 lần/đoạn (mẫu ~0,4/chương). Chưa sửa SI.
+- **Còn lệch:** vẫn vượt độ dài (2.577–2.792 khi nhắm 1.900); e cho kích hoạt 片尾复活 trừ 10 点 (canon: không tốn); `概念` vẫn lọt 1 lần/bản (anchor 4 có chữ `概念能力`).
+
+**Tác giả 26/10 sau vòng này: đổi cốt truyện, 蛀牙大王 "nghe low quá".** Các bản a–f giữ làm bằng chứng đo SI; canon của chúng bị thay khi tiền đề mới được chốt.

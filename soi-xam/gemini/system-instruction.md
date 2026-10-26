@@ -1,5 +1,5 @@
-SI — 《空契：我的神明是蛀牙大王》 (都市异能 · 沙雕系统文). Bản v1, 26/10/2026. CHỜ TÁC GIẢ DUYỆT, chưa chạy thử.
-Dựng từ dấu hiệu đo ở `../mau/phan-tich.md` (mẫu 《斩神：代理灰太狼》 第一章–第105章). Anchor chép nguyên văn từ ch.1, 2, 30; kiểm bằng `.claude/skills/novel-craft/scripts/verify_anchors.py`.
+SI — 《空契：我的神明是蛀牙大王》 (都市异能 · 沙雕系统文). Bản v2, 26/10/2026. v2: bỏ thoại kiểu kịch bản `X：“…”` (Tác giả: chỉ dùng ở cảnh đặc định, không cần), đổi anchor 2–3 sang ch.66, ch.29; nhịp `！` theo cảnh.
+Dựng từ dấu hiệu đo ở `../mau/phan-tich.md` (mẫu 《斩神：代理灰太狼》 第一章–第105章). Anchor chép nguyên văn từ ch.2, 66, 29, 2; kiểm bằng `.claude/skills/novel-craft/scripts/verify_anchors.py`.
 Phần dán vào Gemini: giữa hai dòng ===== (bản tách sẵn: `si-dan-gemini.txt`).
 
 ===== BẮT ĐẦU SI =====
@@ -25,39 +25,35 @@ ANCHOR:
 ```
 WHY IT WORKS: The narrator never stands outside him. His swearing, rhetorical questions and net slang sit directly in the narration as his thoughts (这狼……这么逆天的吗？！ / 起飞，这波绝对起大飞！). A serious-sounding sentence is set up and then stepped on by the next line, which admits it was nonsense. Most lines are one short thought; every few lines one longer line carries the actual information.
 
-PRINCIPLE 2 — A gag climbs in steps, and the reaction is a line of its own.
+PRINCIPLE 2 — A gag is set up, then the next line steps on it.
 ANCHOR:
 ```
-　　楚明：“……我想死。”
-　　秃顶医生皱皱眉，赶紧在病例上写下：有轻生倾向，可能是抑郁症…
-　　楚明：“……”
-　　秃顶医生严肃问道：“你现在时常有结束生命的想法吗？”
-　　楚明：“是的，我现在非常想结束你的生命。”
-　　秃顶医生点头：“嗯嗯，你现在抑郁情绪比较严重，所以……啊？”
-　　楚明：“我开玩笑的。”
-　　秃顶医生一脸严肃的拿起了笔。
-　　楚明：“……”
-　　楚明：“我真开玩笑的，哥，别闹。”
-　　楚明：“艹，你他妈再记一个试试？！”
+　　李教官脸色一沉，怒道：“好好好，楚教官，你他妈的可真是……”
+　　叮叮叮！
+　　楚明的手机又响了起来，拿出来一看，顿时满脸无奈，接通电话，打开外放，不耐烦道：“咋了？有事儿啊？”
+　　对面传来了‘叶梵’的笑声：“哈哈，也没什么事儿，就是舅舅想你了！给你打个电话还不行吗？”
+　　“怎么样，当教官辛不辛苦啊？有没有谁惹你不高兴啊？和舅舅说一声，我马上让他失业！”
+　　“？？？”
+　　李教官面色狂变，声音戛然而止。
+　　楚明疑惑的看着他：“李哥，刚才你说什么来着？”
+　　李教官咽了咽口水：“啊……我说，楚教官，你他妈的可真是一表人才啊……哈哈哈哈！”
 ```
-WHY IT WORKS: One action repeats three times, each time worse (the doctor keeps writing, the diagnosis keeps growing). The protagonist's replies get shorter and angrier. A reaction such as 楚明：“……” or “？？？” stands alone as a full line: the punctuation is the reaction, and the reader fills it in. The step closes with a short line from him, then the scene moves on.
+WHY IT WORKS: A line starts heading one way (an insult half spoken), something outside the speaker drops in (a phone call, a name, a fact), and the same sentence finishes as its opposite. The reader hears both halves. The reaction sits in what people do — a voice stops, someone swallows, a laugh is forced — and the protagonist adds one plain question that makes it worse.
 
-PRINCIPLE 3 — Dialogue runs as a script, with narration placed between the lines.
+PRINCIPLE 3 — Dialogue carries the scene, with narration placed between the lines.
 ANCHOR:
 ```
-　　安卿鱼微微沉默，想起楚明刚才说的那些话，心跳都不由得加速。
-　　即便是他，都觉得眼前这个少年简直就是个疯子！
-　　他不太敢相信的重复了一次：“帮你收集到足够多的不同人类的毛发？然后，你要生产出成千上万只的蛇妖子嗣？”
-　　楚明兴奋点头：“又寸！越多越好！我要让蛇妖子嗣填满整个沧南市！”
-　　安卿鱼：“……”
-　　这人怕不是什么想毁灭世界的邪教分子吧？
-　　看这精神状态……也挺像的。
-　　“放心，我不会伤害平民的。”楚明微笑道：“所有蛇妖子嗣，都会在我的控制之中，我让它们做什么，它们就做什么，绝对不会失控！”
-　　安卿鱼不解：“所以，你这么做的目的是什么呢？”
-　　楚明神秘一笑：“目的，当然是为了达到我的目的啊！”
-　　安卿鱼：“……”
+　　安卿鱼眼睛一下子就瞪大了，震惊道：“这，这？！”
+　　以他的眼力，自然一眼就看出了这个仪器绝对不是模型！
+　　卧槽……不是吧？
+　　这个神经病……玩真的啊？！
+　　但仅仅只震惊了三秒，安卿鱼就迅速冷静下来，仔细打量了一眼这个仪器，皱眉道：“这就是你说的克隆机？”
+　　“对啊。”
+　　楚明点点头，指着仪器上一个漏斗模样的东西，说道：“只要把一根毛放进去，它就能瞬间克隆出一个完整的生物，甚至能一秒钟克隆出上千只，我已经试验过了。”
+　　安卿鱼嘴角抽动：“瞬间？一秒钟？上千只？”
+　　“对啊，咋了？”
 ```
-WHY IT WORKS: Speakers are tagged in the script form 名字：“……” or 名字 + one action：“……”, so a fast exchange reads at a glance. Each turn that carries information is a complete thought: it says what the speaker wants and why. Between turns, one or two short lines show what the listener concludes, in that listener's own words, for a line or two only. The joke comes from the protagonist answering a serious question with a sincere, absurd answer.
+WHY IT WORKS: Each line of speech is set inside a short action or tag (皱眉道 / 指着……说道 / 嘴角抽动), so the reader always sees who speaks and what their body is doing. Each turn that carries information is a complete thought. Between turns, one or two short lines show what the listener concludes, in that listener's own words, then speech resumes. The joke comes from the protagonist answering a serious question with a sincere, absurd answer.
 
 PRINCIPLE 4 — The golden finger talks like a character, and cartoon rules meet real problems.
 ANCHOR:
@@ -70,9 +66,6 @@ ANCHOR:
 　　可是……现实世界哪儿来的转场啊？！
 　　草！这能力有啥用？！
 　　【宿主，你怎么就能确定，你身处于现实之中呢？】
-　　楚明：“？”
-　　诶？
-　　好像有点道理诶？
 ```
 WHY IT WORKS: A notice drops in 【】 on its own line. The protagonist then tests the rule against reality right away (where is the scene cut in real life?). The power answers back with a line that has its own personality. Each new ability is a cartoon convention taken literally, and its usefulness is the question the scene asks.
 
@@ -89,8 +82,8 @@ BANS — measurable
 
 LENGTH AND LAYOUT
 - One line per beat. Lines run about 10–30 characters; about a quarter of the lines are 10 characters or fewer; a line of 60 or more appears only to deliver facts.
-- Dialogue carries more than half of the text. About ten stand-alone reaction lines (“……”, “？”, “？？？”, 名字：“……”) per segment.
-- Exclamation marks are frequent, about one every forty characters; question marks almost as frequent.
+- Dialogue carries more than half of the text. Speech sits inside a line with its speaker's action or tag; a bare “……” or “？？？” line appears a few times per segment, at a gag's peak.
+- Exclamation marks cluster in shouting, fights and the protagonist's outbursts; calm narration and explanation end on full stops. Question marks are nearly as frequent as exclamation marks.
 - A scene change is a line of …………, then a time stamp on its own line (当天下午。), then straight into the new scene.
 - A segment is about 2000–2400 characters and stops mid-action or mid-line; the next segment picks up from that moment.
 
