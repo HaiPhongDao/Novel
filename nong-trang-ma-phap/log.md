@@ -48,3 +48,13 @@
   đổi tính chất (MC dùng 27 蒲式耳/3 蒲式耳 để bẻ 神父). Đổi lại: dài 3.004 字, 3 nhãn ngữ điệu mới, và một
   mâu thuẫn số do prompt thiếu tỷ giá (Marta có 80 铜币 mà kêu không có 2 银币).
 - Bảng số + lỗi cụ thể: `reviews/doan-001.md` mục "A+B trên SI (v3)".
+
+## 26/10/2026 (tiếp) — thử đoạn 002
+
+- Tác giả: "Thử đoạn 02". 001 chưa chốt → nối từ `001-e` (bản duy nhất đã sửa hết lỗi canon, prompt ngắn).
+- Brief `briefs/doan-002.md` theo dàn ý chương 2 (加压). Agent thêm chi tiết phụ (ghi log): Burchard cưỡi la,
+  một người cầm sổ, hai lính mang giáo; thư của 神父 lên 圣廷 vì Marta kể khắp làng chuyện nồi vỏ liễu.
+- `002-a` (SI v3, /u/1, 274 s): 1.652 字 · 18,6 字/câu · 15 lượt/17,2 字/lượt · 0 nhãn · cham 72 · cổng xanh.
+  SỬA NHẸ: sửa tay `进阶` → đào tạo 村民 và `大人` → `管事大人`; bản Writer ở `archive/doan-002-a-raw.md`.
+- Mâu thuẫn canon cần Tác giả chốt: `bible/characters/ronan.md` nói Ronan tự xưng 小的 với 神父/管事, nhưng
+  review 001-e đã sửa `小的` → `我` khi nói với 神父. 002-a theo bible (小的 với 管事).

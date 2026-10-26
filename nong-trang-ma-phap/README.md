@@ -20,6 +20,7 @@ pháp.
 | 001 | `briefs/archive/doan-001-ngan-v1.md` | `chapters/doan-001-c.md` — SI v2, có bảng 经验 | `reviews/doan-001.md` | — |
 | 001 | `briefs/doan-001.md` (bản ngắn v2, đích 1.900) | `chapters/doan-001-d.md` — SI v2.1, có bảng 经验 | `reviews/doan-001.md` | — |
 | 001 | `briefs/doan-001.md` (bản ngắn v3, bỏ dòng đếm lượt thoại) | `chapters/doan-001-e.md` — SI v2.1, có bảng 经验 | `reviews/doan-001.md` | — |
+| 002 | `briefs/doan-002.md` (nối từ 001-e) | `chapters/doan-002-a.md` — SI v3 | `reviews/doan-002.md` — SỬA NHẸ | —|
 
 Brief chi tiết (đánh số cảnh) đã đưa vào `briefs/archive/doan-001-chi-tiet*.md`; Tác giả chốt 26/10:
 **prompt ngắn**.
