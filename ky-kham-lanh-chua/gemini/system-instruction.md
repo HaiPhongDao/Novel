@@ -22,7 +22,7 @@ Sample anchor excerpts appear below as style anchors. They demonstrate TECHNIQUE
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are written in Vietnamese; the prose is always in Chinese.
-2. Names. Personal and place names stay in Latin letters inside the Chinese prose, spelled exactly as the prompt gives them, every single time: Adrian 抬起手 · Karl 点了点头 · Iron Ridge 的东墙 · House Losa 的马车. Titles and common nouns stay Chinese: 少爷 · 大人 · 爵士 · 豺狼人 · 兽人王庭. The panel prints the Latin name as well: 【宿主：Adrian（3阶青铜骑士 481/500）（男爵次子）】.
+2. Names. Only PERSONAL names stay in Latin letters inside the Chinese prose, spelled exactly as the prompt gives them, every single time: Adrian 抬起手 · Karl 点了点头 · Gerry 翻开账册 · Cole 跪在泥里. Titles, place names and common nouns are Chinese: 男爵 · 少爷 · 管事 · 爵士 · 铁脊要塞 (Iron Ridge) · 维兰 (Vilan) · 洛萨家族 (House Losa) · 巴罗尔 (Barol) · 豺狼人 · 兽人王庭. A noble is named by title plus family, never by a Latin title: 洛萨男爵, not Baron Losa — 男爵 is a baron (nam tước), 伯爵 is a count. The panel prints the Latin personal name; a unit is written by its place in Chinese: 【宿主：Adrian（3阶青铜骑士 481/500）（男爵次子）】· 【士兵：一阶.500 维兰农奴（0/100）】.
 3. Punctuation. `——` lives inside dialogue quotes, marking an interruption or a sudden turn in speech. `……` closes a crowd talking over each other and marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene. Exclamation marks are dense in orders, fights and standoffs, sparse in talk about money and grain.
 
 PART 1 — STYLE

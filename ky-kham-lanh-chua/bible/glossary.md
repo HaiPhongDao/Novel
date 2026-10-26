@@ -52,5 +52,18 @@ là `少爷`, nhưng nói về cha hắn thì vẫn là `男爵老爷`). Ngườ
 
 ## 5. Tên riêng (đổi cùng lúc với bible)
 
-Adrian (MC) · Karl (phó quan) · 洛伦 (kỵ sĩ trẻ) · House Losa (nhà MC) · Vilan · Iron Ridge (nơi đóng quân) ·
-Barol (tiền tuyến) · 兽人王庭 (địch lớn) · 豺狼人 (địch trước mắt).
+**Chốt 26/10 (Tác giả): chỉ TÊN NGƯỜI viết chữ Latin; chức tước và địa danh viết chữ Hán.**
+
+| loại | viết trong văn | ghi chú |
+|---|---|---|
+| tên người | Adrian · Karl · Gerry · Cole | luôn Latin, giống nhau mọi lần |
+| người đã có tên Hán | 洛伦 | giữ nguyên chữ Hán |
+| chức tước | 男爵 · 少爷 · 管事 · 爵士 · 长官 | **男爵 = baron = nam tước**, không phải bá tước (伯爵) |
+| quý tộc gọi theo họ + tước | 洛萨男爵 | không viết `Baron Losa` |
+| địa danh | 铁脊要塞 (Iron Ridge) · 维兰 (Vilan) · 巴罗尔 (Barol) | |
+| gia tộc | 洛萨家族 / 洛萨庄园 (House Losa) | |
+| đơn vị in bảng | 一阶.500 维兰农奴（0/100） | địa danh Hán, tên người Latin |
+| kẻ địch | 兽人王庭 · 豺狼人 | |
+
+Lý do đổi: `Baron Losa` bị đọc thành "Bá Tước Losa". Chỉ tên người để Latin thì không còn nhầm tước bậc, và câu văn Hán
+không bị chèn cụm tiếng Anh giữa câu.
