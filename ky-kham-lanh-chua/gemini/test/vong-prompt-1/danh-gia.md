@@ -12,7 +12,7 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [Y03](Y03.md) | 1934 | | lọt Cole; ít ruộng — việc làm ngay là chặn cá mùa lũ thu; 2 so sánh; ngắn (1934 chữ); có 7 bạc, 60 ngày |
 | [Y06](Y06.md) | 3398 | | không lọt tên; ít ruộng (việc làm là vớt gỗ trôi); từ hiện đại: 视网膜; số đúng (90−40=50 bao ≈ 6000 cân); kết bằng biến cố thu thêm 10 bao |
 | [Y05](Y05.md) | 2955 | | không lọt tên; NHIỀU ruộng (16 từ: gieo củ cải 45–50 ngày ở bãi sông); 3 so sánh; số đúng hết (90−40=50 bao, 67 miệng, giữ 15 bao giống → 3500 cân cho ~150 ngày) |
-| [Y07](Y07.md) | 2286 | | đang soát |
-| [Y08](Y08.md) | 2724 | | đang soát |
-| [Y09](Y09.md) | 2279 | | đang soát |
-| [Y10](Y10.md) | 3622 | | đang soát |
+| [Y07](Y07.md) | 2286 | | dùng toàn tên từ SI (Adrian/Gerry/Cole/洛萨/维兰/铁脊), không có Ian/Hobb; ít ruộng (4 từ); 1 so sánh; số tự đặt (42 giạ lúa mạch đen, 15 bạc); 叮 tả việc MC làm |
+| [Y08](Y08.md) | 2724 | | không lọt tên; ít ruộng — việc làm ngay là đắp bẫy cá; 5 so sánh; số đúng (90−40=50 bao ≈ 6000 cân, 66 người, 150 ngày, 7 bạc 32 đồng); có trưởng hộ hỏi nhà 5 người được chia mấy bao |
+| [Y09](Y09.md) | 2279 | | dùng toàn tên từ SI (Adrian/Karl/Gerry/洛萨/维兰), không có Ian; 0 cảnh ruộng (luyện binh); từ hiện đại: 视网膜; 叮 tả việc MC làm |
+| [Y10](Y10.md) | 3622 | | không lọt tên; ít ruộng (2 từ, có rang sấy lúa chống mốc); 4 so sánh; không có số của prompt (tự đặt 42 bạc, 6 bao, 12 nông phu); 叮 tả việc MC làm |
