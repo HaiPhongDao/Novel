@@ -22,3 +22,21 @@
 - **Prompt ngắn không có nghĩa là cắt hết.** Storyboard từng bước ("Mở: tỉnh dậy, nhìn hai bàn tay, rồi đi xuống sân sau. Ở cổng sau…") làm mỗi beat thành một hành động, nên văn ra chuỗi hành động: **0 đoạn nền** trong 12 đoạn đầu và mất luôn tiền đề xuyên không vì prompt không nhắc. Cắt còn sáu khối nội dung thì nền sống lại (**5 đoạn nền**) nhưng tật cũ về (phủ định lặp 0 → 5, so sánh người kể 3, vượt trần 563 字). Đây là đánh đổi thật, không phải may rủi: đừng chọn phe — **prompt ngắn + ba dòng chặn** (khoảnh khắc mở, tiền đề, số dư). Số đo và ba dòng mẫu: `references/si-cau-truc.md` mục 5b.
 - **Prompt ngắn thì Writer tự điền canon — phải có một dòng thân phận cho mỗi nhân vật có mặt.** Bỏ khối mô tả nhân vật thì một phó quan 34 tuổi từng thủ thành ra **cậu hầu 16 tuổi**, và một nhân vật chưa ai nhắc tới (viên chỉ huy cũ của thành) tự **bỏ chạy khỏi thành** — đúng loại lệch làm hỏng beat của đoạn sau. Prompt: `ai + vai + một dấu hiệu` cho **từng người có mặt trong cảnh**, không liệt kê người vắng. Kèm **một dòng xưng hô** trong **mọi** brief (ai gọi hắn là gì, tự xưng gì): glossary đã chốt không cứu được brief thiếu dòng này — đo được 4 chỗ `大人` trong một đoạn 1.561 字, và lỗi đó lặp sang các đoạn sau vì đoạn đầu của chuỗi đã sai. Khi chỗ lệch là **cấu trúc** (một beat của dàn ý không còn xảy ra được), đừng kéo bản thảo về: ghi bảng lệch trong review, **soạn lại nội dung 2–3 đoạn kế** cho khớp cái đã xảy ra, trình Tác giả duyệt rồi mới chạy — prompt lỏng nghĩa là **dàn ý phải mềm theo**, không phải bản thảo phải cứng lại.
 - **Bible là nguồn canon, không phải `README.md`.** Dòng bảng truyện ở README gốc hay lệch bible (nghề kiếp trước, tuổi, đơn vị tiền). Prompt chép theo bible; thấy lệch thì nêu để Tác giả quyết sửa README, đừng chép README vào prompt rồi để Writer viết sai canon.
+
+## Khoảng trống trong văn: một tình huống, dữ kiện làm bối cảnh
+
+Cùng SI, cùng khung ba dòng của Tác giả, chỉ đổi phần dữ kiện:
+
+| prompt | 字 | 字/câu | đoạn kể có số | đoạn kể ≥40 字 | 字/đoạn kể | Tác giả đọc |
+|---|---|---|---|---|---|---|
+| dữ kiện = cả chuỗi sự kiện chương 1 + danh sách vật dụng, dừng ở hook cuối chương | 2.064 | 22,1 | 38% | 0 | 25 | "tả và kể quá ít, checklist" |
+| một tình huống + "bối cảnh để giữ cho đúng, không cần kể hết" + dừng sớm | 3.092 | 27,0 | 33% | 19 | 30 | — |
+
+- Writer coi mỗi dữ kiện trong prompt là một việc phải xuất hiện; nhiều việc trong ít chữ thì mỗi việc được một
+  dòng. Giảm số việc, không giảm số liệu: tiền, giá, tỷ giá, tuổi vẫn nằm trong khối bối cảnh.
+- Dừng sớm là cách cho chỗ trống: bỏ bớt sự kiện của chương sang đoạn sau (chia đoạn, không đổi dàn ý).
+- Có chỗ trống thì Writer tự tìm cách giải quyết có tính toán (bản j: mua chai 圣水 làm "giấy phép" rồi rót thuốc
+  vỏ liễu vào chính chai đó) — thứ mà prompt kể sẵn cách chữa không bao giờ sinh ra.
+- Cái giá: dài hơn (+55% so với "khoảng 2000 chữ") và Writer tự đặt thêm chi tiết (nghề kiếp trước, giá đồ, chuyện
+  cũ) — soát canon kỹ hơn, sửa tay những chỗ đụng bible.
+- Đo nhanh độ "checklist": tách đoạn văn kể (không có “), đếm tỷ lệ đoạn có con số và số đoạn ≥40 字.

@@ -69,11 +69,12 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
   không gán tính cách — tính cách do Writer quyết.
-- **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt, không nhờ dòng sự thật ở cuối.** Brief kiểu
-  bảng việc (bối cảnh → sự việc → số → bảng → "X là người xuyên việt") ra văn bình bình, gần như không câu phán
-  xét nào; khung đặt hàng của Tác giả (độ dài · tag thể loại · "mượn lời MC phán xét chế độ cũ với mới") + dữ kiện
-  viết thành câu sự thật ra ~10 câu phán xét trải đều ba cảnh mà canon vẫn giữ. Tác giả đưa khung prompt của họ
-  thì dùng nguyên khung, chỉ thêm dữ kiện — `references/giong-mc-hien-dai.md` mục 7.
+- **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt** (khung đặt hàng của Tác giả: độ dài · tag ·
+  "mượn lời MC phán xét cũ/mới"), không nhờ dòng sự thật ở cuối brief bảng việc. Tác giả đưa khung thì dùng nguyên.
+- **Một đoạn = một tình huống; dữ kiện ghi là "bối cảnh để giữ cho đúng, không cần kể hết".** Giao cả chuỗi sự
+  kiện của chương trong ~2.000 字 thì Writer kể mỗi dữ kiện thành một dòng rồi qua việc kế — Tác giả đọc ra
+  "checklist, không có khoảng trống" (đoạn kể ≥40 字: 0 → 19 khi chỉ còn một tình huống và dừng sớm). Đo:
+  `references/brief-chi-tiet.md` cuối file.
 - **Bible là nguồn canon**, không phải README; thấy lệch thì báo Tác giả.
 
 Chi tiết + số đo: `references/brief-chi-tiet.md`, `references/si-cau-truc.md` mục 5–8.
