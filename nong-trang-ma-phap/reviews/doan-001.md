@@ -70,3 +70,32 @@ dê gầy đi một vòng → phân ủ ấm tay → luống ươm nứt hạt),
 - **Tật còn lại của d thuộc tầng SI**: người kể vẫn giải thích cơ chế/bảng khi có dịp. Sửa tiếp bằng cách
   cắt một luật (bullet nào đang mời giảng) chứ không thêm luật; đo lại bằng đúng brief này.
 - Đề xuất: lấy **d** làm gốc, sửa tay 5 chỗ trên (xưng hô, 3 câu giảng, 38 字), rồi mới chạy đoạn 002.
+
+## Thí nghiệm prompt (26/10) — prompt của Tác giả vs prompt của Agent
+
+Tác giả đưa một prompt kiểu "đặt hàng": độ dài + tag thể loại + một câu về **chức năng giọng** ("mượn lời MC
+phán xét chế độ cũ/mới"), không beat, không số. Chạy trong `gemini/test/`.
+
+| bản | prompt | 字 | 字/câu | lượt · 字/lượt | so sánh | cham |
+|---|---|---|---|---|---|---|
+| f | prompt Tác giả, 3 dòng, không dữ kiện | 2.893 | **26,3** | 17 · 29,5 | 3 | 66 |
+| h | prompt Tác giả + 4 dòng dữ kiện canon | 2.430 | 17,4 | 34 · 13,8 | 4 | 38 |
+| d | brief Agent (7 cảnh đánh số) | 2.138 | 21,3 | 15 · 25,9 | 0 | 78 |
+| e | brief Agent ngắn v3 | 1.868 | 20,1 | 16 · 17,5 | 1 | 72 |
+
+Đọc `f`: giọng tác giả **có** — MC so sánh nông cụ kiếp trước với cày gỗ 8–9 斤, chế bánh mì đen "đập vỡ sống
+mũi", chế học giả "nông nô mỗi năm làm trăm ngày". Đó là thứ 5 brief trước của Agent **không hề** sinh ra, vì
+brief chỉ có beat và số. Nhưng `f` trôi canon: 18 tuổi (canon 21), 3 亩 (canon 5), 经验 48 (canon 40), và cho
+管事 vào chương 1 đòi 3 银币 丁税 (beat chương 2).
+
+Đọc `h` (thêm dữ kiện): canon giữ được 11/13 mục, nhưng đổi lại câu vụn nhất bảng (17,4 字/câu, 24 câu ≤5 字,
+34 lượt thoại ở 13,8 字/lượt) và 5 chỗ sai số/định danh:
+1. `两枚银币能买下整整四十蒲式耳的粗燕麦` — tỷ giá canon: 2 银币 = 24 铜币 = **3 蒲式耳**.
+2. `Marta 差四蒲式耳` — canon 3 蒲式耳; và tên `老Tom` không có trong bible.
+3. `抽取四成甚至五成的秋税` + `收取十一税` — canon: 什一税 1/10 + 1 蒲式耳 人头税.
+4. `比教皇的法杖还要管用` — canon là 圣廷, không có 教皇.
+5. `【叮！救治重热病童，挽回劳动力人口。】` — bảng **không được nói**; và tổng in `【经验：60】` thay vì 68.
+
+Kết luận: prompt của Tác giả thắng ở **giọng**, thua ở **số**. Muốn cả hai thì prompt phải có dòng dữ kiện,
+nhưng dữ kiện viết thành **câu sự thật** (ai, bao nhiêu, còn mấy ngày) chứ không thành danh sách số, và phải
+nói rõ bảng in đúng khối đã cho.

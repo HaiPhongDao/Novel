@@ -28,3 +28,13 @@
 - Bản `e`: brief ngắn v3 (~200 từ), **bỏ dòng đếm lượt thoại** theo yêu cầu Tác giả → 1.868 字 · 20,1 字/câu ·
   16 lượt/17,5 字/lượt · 1 phủ định · cham 72. Sửa tay 3 chỗ (Piet 10→7 tuổi, Ronan tự xưng `小的`→`我`,
   `淡淡答道`→`答道`) + chuẩn hoá dòng trống; bản Writer nguyên văn ở `archive/doan-001-e-raw.md`.
+
+## 26/10/2026 (tiếp) — đổi tài khoản Writer + thí nghiệm prompt
+
+- Acc `ohi.phong@gmail.com` (/u/0) hết quota; Writer chuyển sang `swenphong@gmail.com` (/u/1). Script đã có
+  sẵn cơ chế xoay `/u/0 → /u/1 → /u/2` khi gặp Quota; state ghi `quota_account=0` cho hôm nay nên các lần
+  `--new` sau tự thử /u/1 trước.
+- Thí nghiệm prompt trong `gemini/test/`: `f` = prompt Tác giả (3 dòng), `h` = prompt Tác giả + 4 dòng dữ kiện.
+  Số đo và 5 lỗi canon của `h` ở `reviews/doan-001.md` mục "Thí nghiệm prompt".
+- Kết luận tạm: prompt kiểu đặt hàng (tag + chức năng giọng) sinh được giọng phán xét cũ/mới mà brief beat
+  không sinh được; nhưng thiếu dữ kiện thì trôi canon, còn dữ kiện dạng danh sách số thì câu vụn.
