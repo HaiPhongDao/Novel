@@ -137,6 +137,8 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
   (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
 - Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
+- **Dấu hiệu đếm được dày trong mẫu chưa chắc là luật cả đoạn**: nó có thể chỉ dồn ở một loại cảnh (thoại kịch bản
+  `X：“…”` chỉ ở cảnh cãi nhanh). Trước khi nâng thành nguyên tắc + anchor, xem nó nằm ở cảnh nào và hỏi Tác giả.
 - **Luật "mọi lượt thoại có thẻ" + anchor gắn thẻ cả tám dòng = lượt nào cũng kết bằng `X 说道`**, kể cả hai ba lượt
   liền của một người (Tác giả đọc ra ngay). Luật đúng: thẻ chỉ ở chỗ cần biết ai nói, tối đa một lượt trong ba,
   không bao giờ hai lượt liền của một người cùng gắn thẻ — đo cùng truyện: 15 thẻ → 1. Lúc chép SI sang truyện
