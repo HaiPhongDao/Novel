@@ -77,3 +77,13 @@
   làm "giấy phép" (rót thuốc vỏ liễu vào chai) — đề xuất nhận vào canon.
 - Dàn ý: đêm chữa bệnh và giấy dán cửa chuyển sang đoạn 002 (chia đoạn, không đổi chương/sự kiện).
 - Chờ Tác giả: 40 经验 sau 40 ngày vs 5–8 经验/ngày công trong glossary.
+
+## 26/10/2026 (tiếp) — SI v4.1 + bản k; sửa extension treo khi bị từ chối quyền
+
+- Tác giả bắt lời thoại khó chịu của Ronan với Marta (bản j). SI v4.1: câu ngầu chỉ nhắm người có quyền; với
+  người đang sợ/đau thì đáp đúng điều họ nói rồi mới ra lệnh, lời phán để ở lời kể. Bản cũ: `gemini/system-instruction-v4.md`, `gemini/si-dan-gemini-v4.txt`.
+- `001-k` (cùng prompt j): 2.467 字, 0 thẻ, 0 nhãn, cham 78; lời với Marta đỡ hơn nhưng còn 2/5 lượt là lời phán.
+  Giả thuyết: dòng "Mượn lời của MC" đẩy câu phán ra miệng — chờ Tác giả duyệt đổi câu.
+- Tác giả báo extension treo khi tài khoản bị permission deny → sửa `tools/aistudio-ext` (đọc lỗi trong lượt Model,
+  xoay /u/ kế tiếp, thôi chờ khi request xong mà không có chữ). Edge nạp extension từ `D:\ClaudeCode\aistudio-ext` →
+  đã chép bản mới sang (bản cũ: `D:\ClaudeCode\aistudio-ext.bak-2026-10-26`).

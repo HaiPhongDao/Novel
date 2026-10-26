@@ -7,7 +7,7 @@ pháp.
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction.md` (v4) — phần dán là `gemini/si-dan-gemini.txt`, dựng từ SI
+- SI đang dùng: `gemini/system-instruction.md` (v4.1) — phần dán là `gemini/si-dan-gemini.txt`, dựng từ SI
   `ky-kham-lanh-chua` (v9), PART 4 thay bằng khối "kiến thức mang theo" (không bảng 骑砍).
 - Danh sách lỗi riêng: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
@@ -17,6 +17,7 @@ pháp.
 |---|---|---|---|---|
 | 001 | `briefs/archive/doan-001-tac-gia-du-kien.md` | `chapters/doan-001-i.md` — SI v4, checklist dữ kiện | `reviews/doan-001.md` — SỬA NHẸ | — |
 | 001 | `briefs/doan-001.md` (một tình huống + bối cảnh) | `chapters/doan-001-j.md` — SI v4 | `reviews/doan-001.md` — SỬA NHẸ | — |
+| 001 | `briefs/doan-001.md` (như j) | `chapters/doan-001-k.md` — SI v4.1 | `reviews/doan-001.md` — SỬA NHẸ | — |
 
 Bản 001 a–e, 002-a (trước khi viết lại từ đầu) ở `chapters/archive/`.
 

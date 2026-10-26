@@ -200,3 +200,43 @@ Còn lại, để Tác giả quyết:
    ngày công 5–8 经验. Cần Tác giả chốt một trong hai.
 
 **Kết luận: SỬA NHẸ** — đạt điều Tác giả đòi (tả và kể, có khoảng trống), giữ giọng xuyên việt và hết đuôi `说道`.
+
+## Bản k (26/10) — SI v4.1, cùng prompt j: lời Ronan nói với Marta
+
+Tác giả bắt câu `石柱绑不得，绑上去天亮就收尸了。` của bản j. Soát cả cảnh: mọi tính toán tử tế của Ronan nằm
+trong đầu, còn ra miệng với một người mẹ đang khóc chỉ có lệnh (`别哭了` + nhãn `语气很平静`), một câu phán
+không chủ ngữ báo trước cái chết của con bà, và việc phải làm — không đáp chuyện tiền, không nói anh sẽ làm gì.
+SI v4.1 đổi 2 câu (+362 ký tự): (a) câu ngầu chỉ nhắm người có quyền với anh hoặc chính anh, không nhắm người
+đang sợ/đau/nghèo hơn; (b) với người đang sợ/đau, đáp đúng điều họ vừa nói (tiền, đứa con, anh sẽ làm gì) bằng
+câu trọn có 你/咱们 rồi mới ra lệnh; lời phán về thế giới để ở lời kể. Prompt giữ nguyên bản j — một biến.
+
+Lời Ronan với Marta, đặt cạnh nhau:
+
+| j (SI v4) | k (SI v4.1) |
+|---|---|
+| `别哭了，Marta大婶。` (+ `语气很平静`) | `哪来的恶灵，这不过是脏水和风寒激出来的内热。` — đáp đúng câu bà hỏi |
+| `石柱绑不得，绑上去天亮就收尸了。` | `要是让你们知道几碗煮透的柳树皮水就能退烧，神父还怎么卖两枚银币一瓶的圣水？` — câu phán thế giới, vẫn nói ra miệng |
+| `你在屋里待着，烧上一锅热水，…` | `别发懵了，老规矩向来不是为了救人立的。` — **vẫn câu châm ngôn với người đang khóc** |
+| `谁叫门都别把孩子抱出去，等我回来。` | `把眼泪擦了，先进屋把孩子抱上炕，拿干草盖严实。` |
+| | `这事交给我，天黑前神父不会来抢人。` — trấn an + cam kết |
+
+| bản | 字 | 字/câu | lượt · 字/lượt | thẻ | nhãn | so sánh | đoạn kể ≥40 字 | cham |
+|---|---|---|---|---|---|---|---|---|
+| j | 3.092 | 27,0 | 23 · 15,7 | 1 | 2 | 1 | 19 | 50 |
+| k | 2.467 | 25,4 | 20 · 16,8 | 0 | 0 | 0 | 12 | 78 |
+
+Đọc k: tốt hơn một nửa — Ronan đáp câu hỏi của Marta và hứa một việc cụ thể; hết nhãn, hết so sánh, ngắn lại.
+Nhưng **2/5 lượt với Marta vẫn là lời phán** (`老规矩向来不是为了救人立的`), và Writer tự thêm câu người kể
+`Marta 听不懂那些宏大的道理` — tức nó biết anh đang giảng cho bà. Khối phán xét dài nhất (`旧时代的统治术从来就这一招：
+让你穷，让你怕，让你跪`) nằm đúng chỗ: lời kể/nội tâm.
+
+**Giả thuyết (chưa thử):** dòng prompt của Tác giả `Mượn lời của MC để … phán xét chế độ cũ với chế độ mới` —
+Writer đọc "lời" là lời **nói ra**, nên đặt câu phán vào miệng Ronan dù SI bảo để ở lời kể. Thử: đổi thành
+"mượn suy nghĩ của MC và lời người kể" — cần Tác giả duyệt vì là câu của Tác giả.
+
+Đã sửa tay (raw: `archive/doan-001-k-raw.md`): `神父大人` ×3 → `神父`; Marta tự xưng `小的` với Ronan ×2 → `我`
+(glossary: ngang vai xưng 我). Còn lại: chẩn đoán hiện đại `急性扁桃体炎`, đơn vị `两石麦子` (canon 蒲式耳),
+`赎罪皮纸` có dấu nhà thờ (chi tiết mới), chai cuối đoạn đổ nước sạch (j: rót thuốc vào chai — j hay hơn ở chỗ này).
+Khoảng trống ít hơn j (đoạn kể ≥40 字: 19 → 12) nhưng vẫn gấp nhiều lần i (0).
+
+**Kết luận: SỬA NHẸ.**
