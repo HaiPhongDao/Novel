@@ -11,6 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
+| [`goblin/`](goblin/README.md) | Goblin Khai Hoá (tên tạm) — thầy giáo hoá xuyên thành goblin non trong hang ăn thịt con non; giống loài bắt chước mọi thứ, trừ việc hiểu vì sao | Khởi động: bible, dàn ý arc 1, SI nháp — chờ Tác giả duyệt |
 
 ## Cấu trúc
 
