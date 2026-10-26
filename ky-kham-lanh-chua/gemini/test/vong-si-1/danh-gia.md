@@ -12,3 +12,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [X03](X03.md) | 3490 | | tên lọt (Adrian/Karl/Gerry/洛萨/维兰/铁脊); gần như không có ruộng; 6 so sánh của người kể; số lương khớp (780 cân, 30 người, ~9–10 ngày) |
 | [X08](X08.md) | 2325 | | đang soát |
 | [X07](X07.md) | 2662 | | đang soát |
+| [X06](X06.md) | 2628 | | đang soát |
