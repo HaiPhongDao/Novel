@@ -41,7 +41,8 @@ Novel/
 │   ├── ai-studio.md              # Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome
 │   └── review-blacklist.md       # Lỗi văn chung để soát khi review
 ├── writer/SI-template        # SI mẫu dùng chung (Tác giả soạn) — mỗi truyện điền ô [[...]] thành SI riêng
-├── tools/                    # build_pack.py, chot_doan.py, gop_doan.py, gemini_write.py, set_clip.ps1, save_clip.ps1, ollama_write.py
+├── tools/                    # aistudio_run.py, cong_doan.py, cham_doan.py, soat_van.py, noi_doan.py, build_pack.py, chot_doan.py, gop_doan.py…
+├── .claude/skills/novel-craft/ # Skill của Agent: cách làm + vòng tự học (mục 13)
 ├── _mau-truyen/              # Khung để chép khi mở truyện mới (mục 11)
 └── <ten-truyen>/
     ├── README.md                 # Tóm tắt, SI đang dùng, bảng trạng thái từng đoạn
@@ -251,3 +252,9 @@ Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); 
 - Thoại thông thường cần nói trọn ý và đáp nối nhau. Giữ nhịp khẩu lệnh khi cần; nhịp đoạn kể ngắn không giới hạn độ dài lượt thoại. Khi cảnh cần trao đổi, brief tạo cơ hội cho người nghe nêu khó khăn, hỏi lại hoặc góp ý.
 - Phát hiện về cách viết/quy trình có thể đưa vào sổ chung, checklist hoặc SI-template. Không chuyển tên, số liệu, chức năng bàn tay vàng, bí mật hay thẩm quyền tự duyệt của một truyện thành quy tắc cho mọi truyện.
 - Thay đổi tài liệu chung thành commit riêng; đồng bộ đúng commit sang các branch theo hướng dẫn. Không ghi đè công việc chưa commit hoặc gộp cả branch truyện chỉ để chia sẻ một bài học.
+
+## 13. Skill của Agent và vòng tự học
+
+- Cách làm (thứ tự việc, lệnh, bẫy) nằm trong skill [`.claude/skills/novel-craft/SKILL.md`](.claude/skills/novel-craft/SKILL.md) — Claude Code tự nạp; Agent khác (Codex, Hermes) đọc file đó trước khi làm truyện. File này giữ vai trò và phân quyền; skill không chép lại luật ở đây.
+- Mỗi bản Writer trả về qua cổng máy trước khi đo/review: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước>]` (chặn bản cụt, ngắn bất thường, chép mẫu). Cổng xanh chưa phải ĐẠT.
+- Cuối mỗi phiên làm truyện, Agent chạy **vòng học** (mục 9 của skill): Tác giả sửa lưng, cách làm mới chạy được, hay luật sai → sửa thẳng skill (hoặc `chung/kinh-nghiem.md` nếu là phát hiện về cách viết), commit riêng `skill: …`.
