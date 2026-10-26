@@ -163,3 +163,40 @@ Lỗi:
 
 **Kết luận: SỬA NHẸ** — đạt đúng hai điều Tác giả đòi (giọng xuyên việt, hết đuôi `说道`); chờ Tác giả đọc
 trước khi viết 002 theo cùng kiểu prompt.
+
+## Bản j (26/10) — prompt Tác giả + một tình huống, dữ kiện thành "bối cảnh để giữ cho đúng", dừng sớm
+
+Tác giả chê 001-i: "Writer tả và kể quá ít, bám vào dữ kiện để checklist, không có khoảng trống trong văn."
+Nguyên nhân ở prompt: 001-i giao **cả chuỗi sự kiện chương 1** (Osric báo → mua 圣水 → chữa cả đêm → Piet
+khỏi → giấy dán cửa) + danh sách vật dụng trong ~2.000 字, nên mỗi dữ kiện thành một dòng rồi qua việc kế.
+Bản j: giữ nguyên ba dòng Tác giả; **một tình huống** (Piet sốt, 神父 định trói, Marta sạch tiền); dữ kiện ghi
+là "bối cảnh để giữ cho đúng, không cần kể hết"; **dừng sớm** ở lúc Ronan cầm chai 圣水 vào nhà Marta (đêm chữa
+và giấy dán cửa sang đoạn 2). SI giữ v4 — một biến.
+
+| bản | 字 | 字/câu | đoạn kể | đoạn kể có số | đoạn kể ≥40 字 | 字/đoạn kể | lượt · 字/lượt | thẻ | nhịp câu |
+|---|---|---|---|---|---|---|---|---|---|
+| i | 2.064 | 22,1 | 73 | 38% | **0** | 25 | 13 · 12,4 | 1 | câu vụn |
+| **j** | 3.092 | 27,0 | 83 | 33% | **19** | 30 | 23 · 15,7 | 1 | trong vùng |
+
+Đọc j: mở chậm (hơi thở trắng → sương trên mái → tiếng khóc bên kia hàng rào), cảnh 神父 trong nhà Marta có
+chất liệu (mùi bia chua, mỡ cừu, đá chậu gốm), một khối nội tâm dài về giá 圣水 so với cuốc sắt và bột đại mạch,
+nợ ân tình cũ (Marta từng dúi nửa củ cải đường khi anh mới tới), và một quyết định có tính toán: **mua chai
+圣水 làm "giấy phép", đổ nước đi, rót thuốc vỏ liễu vào chính cái chai có dấu thánh giá** — để nếu Piet khỏi
+thì khỏi nhờ 圣水, không ai tố 巫术. Giọng xuyên việt dày (`本质上不过是一场垄断了识字权与药物解释权的合法敲诈`,
+`买的是瓶子，买的是教会盖了戳的免死金牌`).
+
+Đã sửa tay (raw: `archive/doan-001-j-raw.md`; bản Writer không có dòng trống giữa đoạn — đã chuẩn hoá, chữ giữ nguyên):
+1. `神父大人` ×4 → `神父` (glossary: không dùng 大人 cho 神父).
+2. `抽走你四成的粮食` → `抽走你的什一税和人头税` (canon thuế 1/10 + 1 蒲式耳).
+3. `黑石矿场` → `石桥镇的矿坑` (canon: mỏ ở 石桥镇).
+4. `前世做工程审计的同行` → `前世那些查账的人` (bỏ nghề kiếp trước Writer tự đặt).
+
+Còn lại, để Tác giả quyết:
+1. Dài 3.092 字 (prompt ~2.000, +55%) — độ dài đi theo khoảng trống Tác giả đòi; muốn ngắn thì dừng sớm hơn, không cắt tả.
+2. Thuật ngữ hiện đại trong đầu MC: `三十九度`, `对乙酰氨基酚`, `布洛芬`, `漂白粉`, `大肠杆菌`, `渗透压`, `全网通报`.
+3. Hai nhãn ngữ điệu (`神色平淡地吩咐道`, `语气很平静`), hai so sánh (`像烙铁一样`, `拉风箱般`).
+4. Chi tiết mới: cuốc sắt 18 铜币; Marta cứu Ronan lúc mới tới (củ cải đường — sau lại nói "麦饼"); Burchard cưỡi ngựa.
+5. **Mâu thuẫn trong bible**: 40 ngày mới được 40 经验 (Writer suy ra 20 经验 = ba tuần), trong khi glossary ghi một
+   ngày công 5–8 经验. Cần Tác giả chốt một trong hai.
+
+**Kết luận: SỬA NHẸ** — đạt điều Tác giả đòi (tả và kể, có khoảng trống), giữ giọng xuyên việt và hết đuôi `说道`.

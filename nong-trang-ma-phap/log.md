@@ -67,3 +67,13 @@
 - Bản 001 a–e và 002-a chuyển vào `chapters/archive/`; brief cũ vào `briefs/archive/`. Brief mới `briefs/doan-001.md`.
 - `001-i`: 2.064 字 · 1 thẻ thoại (002-a: 15) · ~10 câu phán xét cũ/mới · SỬA NHẸ. Bảng số: `reviews/doan-001.md`.
 - Chi tiết mới Writer đặt, chờ Tác giả: kiếp trước Ronan học "đại học nông nghiệp bảy năm".
+
+## 26/10/2026 (tiếp) — bản j: một tình huống, dữ kiện làm bối cảnh
+
+- Tác giả chê 001-i tả/kể quá ít, checklist theo dữ kiện. Prompt mới (`briefs/doan-001.md`): ba dòng Tác giả +
+  một tình huống + "bối cảnh để giữ cho đúng, không cần kể hết" + dừng sớm (Ronan cầm chai 圣水 vào nhà Marta).
+  Prompt 001-i cất ở `briefs/archive/doan-001-tac-gia-du-kien.md`. SI giữ v4.
+- `001-j`: 3.092 字 · 19 đoạn kể ≥40 字 (i: 0) · SỬA NHẸ, sửa tay 4 chỗ canon. Writer tự đặt cách dùng chai 圣水
+  làm "giấy phép" (rót thuốc vỏ liễu vào chai) — đề xuất nhận vào canon.
+- Dàn ý: đêm chữa bệnh và giấy dán cửa chuyển sang đoạn 002 (chia đoạn, không đổi chương/sự kiện).
+- Chờ Tác giả: 40 经验 sau 40 ngày vs 5–8 经验/ngày công trong glossary.

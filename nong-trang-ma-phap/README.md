@@ -15,7 +15,8 @@ pháp.
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` (prompt Tác giả + dữ kiện) | `chapters/doan-001-i.md` — SI v4 | `reviews/doan-001.md` — SỬA NHẸ | — |
+| 001 | `briefs/archive/doan-001-tac-gia-du-kien.md` | `chapters/doan-001-i.md` — SI v4, checklist dữ kiện | `reviews/doan-001.md` — SỬA NHẸ | — |
+| 001 | `briefs/doan-001.md` (một tình huống + bối cảnh) | `chapters/doan-001-j.md` — SI v4 | `reviews/doan-001.md` — SỬA NHẸ | — |
 
 Bản 001 a–e, 002-a (trước khi viết lại từ đầu) ở `chapters/archive/`.
 

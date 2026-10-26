@@ -3,19 +3,8 @@ Tag: Hưu nhàn làm ruộng, lãnh chúa, hệ thống, xuyên qua, hiện đ�
 
 Mượn lời của MC để tác giả giao tiếp với độc giả khi phán xét chế độ cũ với chế độ mới, thể hiện sự ưu việt của người xuyên việt
 
-Dữ kiện:
-Ronan là người xuyên việt, 21 tuổi, tới làng 灰柳村 được bốn mươi ngày, làm tá điền thuê 5 亩 của 奥登男爵. Cuối thu. Trong hũ của anh có 5 银币 7 铜币, ngoài chái có 40 捆 củi, hai con dê, một đống phân ủ ba tháng và một luống ươm phủ vải dầu. Ở làng này mỗi 亩 chỉ ra 3 蒲式耳; dân phơi phân bò làm củi, uống nước mương chảy qua chuồng.
-Tiền: 1 银币 = 12 铜币, 1 蒲式耳 = 8 铜币. Thuế của Ronan là 3 蒲式耳, tức 2 银币.
-Sáng nay 老丈 Osric báo: Piet, 7 tuổi, con trai Marta (34 tuổi, goá chồng), sốt từ đêm. 神父 Odilo bán 圣水 2 银币 một chầu và định trói thằng bé vào cột nhà thờ tối nay; đứa trẻ trước bị trói như thế đã chết. Marta không còn đồng nào và còn nợ 3 蒲式耳. 管事 của nam tước sẽ đến đếm thuế sau năm ngày.
-Ronan trả 2 银币 lấy chai 圣水, rồi chữa cho Piet bằng nước sôi, muối, nửa hũ mật của Osric và vỏ liễu, đốt hết 8 捆 củi trong một đêm. Sáng ra Piet đòi ăn cháo; Ronan còn 3 银币 7 铜币.
-Bảng chỉ Ronan thấy, in đúng khối này một lần, không thêm dòng, không nói:
+Chuyện của đoạn này: một sáng cuối thu ở làng 灰柳村, Piet, đứa con bảy tuổi của bà goá Marta nhà bên, sốt từ đêm. 神父 Odilo muốn trói thằng bé vào cột nhà thờ tối nay để đuổi quỷ, và Marta không còn đồng nào để mua 圣水.
 
-叮！经验加20。
-叮！经验加8。
-【宿主：Ronan（1阶 佃农 68/300）（灰柳村佃户）】
-【技能：育苗（14/100）· 沤肥（6/100）】
-【经验：68】
+Bối cảnh để giữ cho đúng (không cần kể hết, dùng khi cần): Ronan là người xuyên việt, 21 tuổi, tá điền thuê 5 亩 của 奥登男爵, tới làng được bốn mươi ngày, trong hũ có 5 银币 7 铜币; 1 银币 = 12 铜币. 圣水 giá 2 银币. 管事 của nam tước đến đếm thuế sau năm ngày. Bảng chỉ Ronan thấy, lúc này 经验 40; đào tạo một 村民 cần 100. Marta và Ronan gọi 神父 là 神父, tự xưng 小的. Tên người viết chữ Latin, chức tước và địa danh viết chữ Hán.
 
-68 经验 còn thiếu 32 để đào tạo một 一阶村民 đầu tiên.
-Xưng hô: Marta và Ronan gọi 神父 là 神父, tự xưng 小的; hàng xóm gọi nhau bằng tên. Tên người viết chữ Latin; chức tước và địa danh viết chữ Hán.
-Dừng ở chỗ tờ giấy dán cửa nhà thờ báo 管事 đến sớm ba ngày, làng thiếu 27 蒲式耳 ở chín hộ, tên Marta ở dòng thứ ba.
+Dừng ở chỗ trời tối, Ronan cầm chai 圣水 bước vào nhà Marta. Mọi chi tiết còn lại do bạn quyết.
