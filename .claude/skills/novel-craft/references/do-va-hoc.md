@@ -15,3 +15,12 @@ After each chapter review:
 8. **Tác giả nói "mấy bản này ngang nhau / đều đạt" là hết vòng tối ưu.** Dừng đo điểm, chốt một bản, ghi vào `log.md` + review, rồi chuyển sang đoạn kế. Chạy thêm để nâng điểm khi người đọc đã thấy đủ là đốt thời gian của họ; điểm số chỉ để soát hồi quy về sau, không phải mục tiêu tự thân.
 
 9. **Lỗi ở tầng luật phải chứng minh bằng một lần chạy Writer, không bằng bản Agent sửa tay.** Tác giả bắt một tật có hệ thống (hình dạng lượt thoại, nhịp câu, cách mở cảnh) mà Agent sửa từng câu trên bản nháp thì câu hỏi tiếp theo luôn là: bản đó do Writer viết lại hay do Agent sửa? Quy trình: thêm luật vào SI → chạy lại **đúng brief cũ**, không thêm một dòng nào vào prompt, ở session mới → so bốn cột thoại + nhịp câu của bản Writer với bản sửa tay và với mẫu. Số đã đo trên cùng một cảnh: bản sửa tay 50 lượt / 34,0 字 mỗi lượt, bản Writer cùng SI 32 lượt / 24,0 字 (mẫu 20 / 22,4) — luật trong SI ăn hơn việc Agent kéo dài từng câu, và chỉ bản Writer mới là bằng chứng tái lập được. Bản sửa tay vẫn dùng để **tìm ra** luật; đừng trình nó như kết quả.
+
+## Hai câu thêm vào SI cũng kéo văn xuống — sửa tật thoại bằng prompt trước
+
+Cùng prompt, SI v4 → v4.1 chỉ thêm hai câu về lời thoại (+362 ký tự): lời với Marta đỡ được một nửa, nhưng lỗi vặt
+tăng 5 → 11 (đồ vật Trung Hoa `炕`/`符水`, sáo ngữ, câu lặp chữ) và Tác giả chấm "không đạt, kém hơn bản trước".
+Trả SI về v4 và đổi đúng một chữ ở dòng chức năng giọng của prompt ("Mượn **lời** của MC" → "Mượn **suy nghĩ** của
+MC **và lời người kể**") thì lỗi vặt còn 2 và 0 câu phán nói ra miệng (một lần chạy; cảnh lần đó không có lượt
+nào với Marta, nên chưa phải bằng chứng đủ). Thứ tự thử khi tật nằm ở **chỗ đặt** một giọng (miệng hay lời kể):
+đọc lại câu chữ của prompt trước — một động từ trong prompt quyết định chỗ đặt — rồi mới thêm luật vào SI.

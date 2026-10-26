@@ -239,4 +239,35 @@ Writer đọc "lời" là lời **nói ra**, nên đặt câu phán vào miệng
 `赎罪皮纸` có dấu nhà thờ (chi tiết mới), chai cuối đoạn đổ nước sạch (j: rót thuốc vào chai — j hay hơn ở chỗ này).
 Khoảng trống ít hơn j (đoạn kể ≥40 字: 19 → 12) nhưng vẫn gấp nhiều lần i (0).
 
-**Kết luận: SỬA NHẸ.**
+**Kết luận (Agent): SỬA NHẸ. Tác giả: KHÔNG ĐẠT — lỗi vặt văn phong, kém hơn j.**
+
+## Bản l (26/10) — SI về v4, prompt j đổi "Mượn lời của MC" → "Mượn suy nghĩ của MC và lời người kể"
+
+Tác giả: k "không đạt", còn lỗi vặt văn phong, kém hơn j. Soát k: `炕` ×4, `符水`, `收税官`, `两石`, sáo ngữ
+(`救命稻草`, `自嘲般地扯了扯嘴角`, `心底泛起一阵讥讽`, `目光平静地看着`), câu lỗi (`呛人的呛烟`, `泥胚`,
+`井水里…掺着生水`). → Bỏ SI v4.1 (hai câu thêm về lời thoại), trả SI về **v4 như j**; một biến duy nhất là dòng
+chức năng giọng của prompt (giả thuyết: chữ "lời" đẩy câu phán ra miệng MC).
+
+| bản | SI · prompt | 字 | 字/câu | đoạn kể ≥40 字 | lỗi vặt (so sánh/nhãn/sáo/đồ Trung Hoa) | câu phán nói ra miệng | lượt · thẻ |
+|---|---|---|---|---|---|---|---|
+| j | v4 · "Mượn lời" | 3.092 | 27,0 | **19** | 5 + nhiều thuật ngữ hiện đại | 1 (`石柱绑不得…收尸了`) | 23 · 1 |
+| k | v4.1 · "Mượn lời" | 2.467 | 25,4 | 12 | **11** | 2/5 lượt với Marta | 20 · 0 |
+| **l** | **v4 · "Mượn suy nghĩ… lời người kể"** | 2.886 | 22,2 | 7 | **2** | **0** | 13 · 0 |
+
+Đọc l: mọi câu phán đều ở lời kể/nội tâm (`横竖教会绝不会亏本，倒霉的只有穷人的骨肉。` · `想在这个落后野蛮的秩序
+底下救人，现代知识的第一步，就是先向愚昧缴纳足额的保护费。` · `真正的解药只能装在谎言的瓶子里送出去。`); lời
+nói ra chỉ còn với 神父 và đúng vai tá điền (`小的想替隔壁的Marta买一瓶圣水`). Chi tiết thế giới gắn vào cảnh:
+nước trong chai `连半分魔晶粉末的浮光都没有`. Cùng mẹo chai 圣水 như j (đổ nước, rót thuốc vỏ liễu vào chai).
+Sạch nhất trong ba bản.
+
+Đổi lại: (1) câu ngắn hơn (22,2 字/câu, `do_nhip_cau` báo "câu vụn"), ít đoạn kể dài hơn j (7 vs 19);
+(2) Ronan **không nói câu nào với Marta** — bỏ đi ngay sau khi 神父 đi, nên tật "phán với người đang khóc" mất vì
+cảnh không có lượt nào, chưa chứng minh dòng prompt đã chữa được nó (một lần chạy, có nhiễu).
+
+Đã sửa tay (raw: `archive/doan-001-l-raw.md`): `神父大人` ×4 → `神父` (lần thứ ba liên tiếp Writer dùng —
+đề xuất đưa vào SI một dòng xưng hô, xem log); `神圣教廷` → `圣廷`; `异端审判所` → `圣廷审巫术`. Còn lại: hai so
+sánh/nhãn (`破风箱一样`, `语气平淡得像在报菜价`), `用平顺低微的腔调开口道`, chi tiết mới (nguyên chủ chết
+kiệt sức ngoài đồng; khuân than một ngày được 2 铜币).
+
+**Kết luận: SỬA NHẸ.** Giữa j và l, Tác giả chọn: j nhiều khoảng trống hơn nhưng nhiều thuật ngữ hiện đại và một
+câu phán nói ra; l sạch, phán xét đúng chỗ, nhưng câu ngắn hơn và Ronan không nói với Marta.

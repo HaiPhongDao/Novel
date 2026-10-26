@@ -87,3 +87,12 @@
 - Tác giả báo extension treo khi tài khoản bị permission deny → sửa `tools/aistudio-ext` (đọc lỗi trong lượt Model,
   xoay /u/ kế tiếp, thôi chờ khi request xong mà không có chữ). Edge nạp extension từ `D:\ClaudeCode\aistudio-ext` →
   đã chép bản mới sang (bản cũ: `D:\ClaudeCode\aistudio-ext.bak-2026-10-26`).
+
+## 26/10/2026 (tiếp) — bản l: bỏ SI v4.1, đổi dòng chức năng giọng
+
+- Tác giả: k không đạt, lỗi vặt văn phong, kém j → bỏ SI v4.1 (giữ file `-v4.1` làm bằng chứng), SI đang dùng
+  trở lại **v4**. Prompt `briefs/doan-001.md`: "Mượn lời của MC" → "Mượn suy nghĩ của MC và lời người kể" (Agent
+  đổi câu của Tác giả theo khuyến nghị đã nêu; Tác giả bảo "chạy lại đi").
+- `001-l`: 2.886 字 · lỗi vặt 2 (k: 11) · 0 câu phán nói ra miệng · câu ngắn hơn j. SỬA NHẸ. Chờ Tác giả chọn j hay l.
+- Đề xuất SI: `神父大人` ra ở cả j, k, l dù prompt ghi "gọi 神父 là 神父" — thêm một dòng xưng hô vào FIXED
+  CONVENTIONS của SI (chờ Tác giả duyệt).
