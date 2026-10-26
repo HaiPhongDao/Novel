@@ -12,6 +12,6 @@ Tác giả chỉ cần điền **Đạt** / **Không**.
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [V03](V03.md) | 2546 | | đang soát |
-| [V01](V01.md) | 2173 | | đang soát |
-| [V02](V02.md) | 2398 | | đang soát |
+| [V03](V03.md) | 2546 | | 他/她 7,8 lần/1000, tên MC 5,4; phản ứng vẫn là câu kêu riêng một dòng: 什么情况？ / 穿越也就算了，连这东西都带过来了？ |
+| [V01](V01.md) | 2173 | | 他/她 6,7 lần/1000 chữ kể, tên MC 4,1 (nguyên tác 16,6 và 17,2); phản ứng xuyên việt vài dòng kiểu than thầm (买一赠一的丧事…), không có câu kêu riêng |
+| [V02](V02.md) | 2398 | | 他/她 10,8 lần/1000, tên MC 5,9 — cao nhất vòng nhưng vẫn dưới nguyên tác; phản ứng xuyên việt dài nhất: mẹ ở quê quên thuốc huyết áp, tiền nhà, 30 mẫu lúa thử nghiệm, rồi 他穿越了。 |
