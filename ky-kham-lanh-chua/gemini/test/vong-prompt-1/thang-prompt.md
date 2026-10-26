@@ -1,4 +1,4 @@
-# Vòng prompt 1 — thang từ đơn giản lên (đang chạy — SI gốc)
+# Vòng prompt 1 — thang từ đơn giản lên (đã chạy — SI gốc, xem danh-gia.md)
 
 SI cố định: bản thắng của vòng SI 1 (`../vong-si-1/`). Mỗi bậc chỉ thêm một lớp so với bậc dưới, mỗi bậc chạy 2 lần, nhãn mù.
 Bậc nào Đạt cả 2 lần mà bậc dưới không đạt → lớp vừa thêm là thứ có ích, ghi vào skill.
