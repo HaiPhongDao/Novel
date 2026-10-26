@@ -10,9 +10,10 @@ quy, canon 0/10 là **nhiễu** (bộ chấm đòi `回大人` của lane 领主
 | b | v1b (sửa 1 bullet) | chi tiết, 7 cảnh đánh số | 1.695 | 19,7 | 17 · 20,9 | 0 | 1 | 0 | không | 66 |
 | c | v2 (bảng 经验) | ngắn v1 (~250 từ) | 1.244 | 16,4 | 15 · 9,7 | 0 | 0 | 0 | 1 khối | 52 |
 | d | v2.1 (bảng 经验) | ngắn v2 (~330 từ, đích 1.900) | 2.138 | 21,3 | 15 · 25,9 | 2 | 0 | 0 | 1 khối | **78** |
+| e | v2.1 (bảng 经验) | ngắn v3 (~200 từ, bỏ dòng đếm lượt thoại) | 1.868 | 20,1 | 16 · 17,5 | 1 | 1 | 0 | 1 khối | 72 |
 | — | mốc so: `tram-cuoi/chapters/chuong-001-a.md` (Tác giả cho 100/100) | | 1.543 | 23,6 | 16 · 22,6 | 1 | 0 | 0 | — | — |
 
-## Đọc bốn bản
+## Đọc năm bản
 
 **a (2.170 字)** — cảnh làng tốt (dê, phân ủ, luống ươm, Osric kể chuyện ong và con trai ở mỏ), nhưng có **bốn
 chỗ người kể giảng**:
@@ -48,6 +49,19 @@ giá in đủ (2 银币 · 8 捆 · nửa hũ mật · một đêm), 圣水 **đ
 5. Dài 2.138 字, hơn trần 2.100 38 字.
 
 ## Kết luận
+
+**e (1.868 字) — bản theo prompt ngắn nhất (v3, bỏ dòng đếm lượt thoại).** Đạt: mở chậm (sương → nệm rơm →
+dê gầy đi một vòng → phân ủ ấm tay → luống ươm nứt hạt), 圣水 bị đổ vào nồi và Ronan nói câu che `圣水要经大火
+滚透才显威能` — đúng kiểu "làm rồi nói một câu ngắn"; kết bằng việc (đi về đống phân). Lỗi, cụ thể:
+1. Writer tự đặt Piet **mười tuổi** (canon 7) và cho **Ronan tự xưng `小的`** với 神父 (`这两枚银币小的替她
+   垫上`) — hai lỗi này đã sửa tay, ghi rõ ở đây; bản Writer nguyên văn ở `archive/doan-001-e-raw.md`.
+2. `神父淡淡答道` — nhãn ngữ điệu (sửa tay thành `答道`).
+3. Người kể vẫn giảng bảng: `治好一场要命的急热给二十点经验，比在地里死磕强出数倍。加上照料麦苗和翻堆肥
+   给的八点经验，手头的积攒总算涨到了六十八。训练一个一阶村民需要整整一百点经验…` — ba dòng liền.
+4. `这所谓的圣水不过是一小口普通山泉水。` + `在上辈子的医书里却是退高热的天然好药。` — hai chỗ giải thích.
+5. Lượt thoại ngắn: 17,5 字/lượt (d: 25,9; mốc 22,6) — hệ quả của việc bỏ dòng đếm lượt: Writer chia lời
+   thành nhiều lượt ngắn thay vì một câu trọn ý.
+6. Bản Writer in ra **không có dòng trống giữa các đoạn**; đã chuẩn hoá lại khoảng trắng (không đổi chữ).
 
 - **Prompt ngắn chạy được**: bản d (ngắn ~330 từ, có bảng) cho văn dày nhất và giữ đúng beat; bản chi tiết
   đánh số 7 cảnh (a, b) không thắng được cột nào ngoài việc ra ít lỗi canon hơn.

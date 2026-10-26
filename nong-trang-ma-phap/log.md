@@ -25,3 +25,6 @@
   15 lượt thoại · 25,9 字/lượt · 0 so sánh người kể · 0 nhãn · cham 78. Bảng số ở `reviews/doan-001.md`.
 - Kết luận tạm: prompt ngắn chạy tốt hơn brief đánh số cảnh; tật còn lại của `d` (người kể giảng cơ chế và
   giảng bảng, `神父大人`) thuộc tầng SI + sửa tay, chưa chốt.
+- Bản `e`: brief ngắn v3 (~200 từ), **bỏ dòng đếm lượt thoại** theo yêu cầu Tác giả → 1.868 字 · 20,1 字/câu ·
+  16 lượt/17,5 字/lượt · 1 phủ định · cham 72. Sửa tay 3 chỗ (Piet 10→7 tuổi, Ronan tự xưng `小的`→`我`,
+  `淡淡答道`→`答道`) + chuẩn hoá dòng trống; bản Writer nguyên văn ở `archive/doan-001-e-raw.md`.
