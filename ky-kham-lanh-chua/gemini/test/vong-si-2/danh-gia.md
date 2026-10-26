@@ -9,7 +9,7 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [Z03](Z03.md) | 1560 | | đang soát |
-| [Z02](Z02.md) | 2528 | | đang soát |
-| [Z01](Z01.md) | 2334 | | đang soát |
-| [Z04](Z04.md) | 2926 | | đang soát |
+| [Z03](Z03.md) | 1560 | | 12 câu thoại, 0 thẻ 道; ngắn (1560 chữ); tên và số đúng; dừng đúng chỗ |
+| [Z02](Z02.md) | 2528 | | 23 câu thoại, 1 câu có thẻ 道; lọt tên Cole từ SI (đội trưởng lính); số đúng; dừng đúng chỗ (tay đặt trên quỹ kinh nghiệm) |
+| [Z01](Z01.md) | 2334 | | 20 câu thoại, 4 câu có thẻ 道 (1 说道); tên và số đúng prompt (2416 dân, 300 điểm, 500 vàng); bảng có cấp và tiến độ; dừng đúng chỗ (rót 300 điểm) |
+| [Z04](Z04.md) | 2926 | | 21 câu thoại, 0 thẻ 道; tên và số đúng (500 vàng nhắc 5 lần); dừng giữa lệnh gọi người — chưa nói rõ rót điểm vào ai |
