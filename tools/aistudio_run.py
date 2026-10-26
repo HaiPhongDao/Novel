@@ -3,12 +3,17 @@
 Script mở server nhỏ ở 127.0.0.1:8765 và giao việc; extension tools/aistudio-ext (nạp vào Edge chính
 bằng edge://extensions → Developer mode → Load unpacked) nhận việc, bấm nút trong một tab AI Studio riêng
 rồi gửi câu trả lời về. Edge chỉ cần đang mở.
+Extension tự reload khi file trong tools/aistudio-ext đổi — nhưng reload nạp lại từ thư mục Edge đã Load unpacked.
+Nạp từ bản chép nơi khác (27/10: D:\\ClaudeCode\\aistudio-ext) thì sửa ở đây không có tác dụng: chép sang đó, hoặc
+nạp lại đúng thư mục này. Dấu hiệu: không thấy dòng "extension nhận việc, đang chạy N việc".
 
 Dùng:
     # mở session mới (SI + session-start), tự đổi tài khoản /u/0 → /u/1 → /u/2 khi hết quota
     python tools/aistudio_run.py --new --si <file SI> --prompt <file> --out <file ra> [--note "..."]
     # gửi tiếp vào chat của lần chạy trước (đoạn kế, ghi chú sửa)
     python tools/aistudio_run.py --prompt <file> --out <file ra> [--chat <url>]
+    # nhiều chat mới cùng lúc: mỗi tài khoản một tab, cùng rút việc từ danh sách (test SI/prompt)
+    python tools/aistudio_run.py --batch <jobs.json> [--accounts 0,1,2]
 
 Mã thoát: 0 xong · 2 lỗi (trang, selector, extension không nhận việc) · 3 hết quota (mọi tài khoản đã thử,
 hoặc đang gửi tiếp vào chat cũ)
@@ -16,6 +21,7 @@ hoặc đang gửi tiếp vào chat cũ)
 import argparse
 import hashlib
 import json
+import queue
 import sys
 import threading
 import time
@@ -35,43 +41,56 @@ def log(msg):
 
 
 class Bridge:
-    """Một việc đang chờ extension nhận, và kết quả của nó."""
+    """Các việc đang chờ extension nhận / đang chạy, và kết quả của chúng (--batch chạy nhiều việc cùng lúc)."""
 
     def __init__(self):
         self.cv = threading.Condition()
-        self.job = None
-        self.picked = False
-        self.result = None
+        self.jobs = {}  # id → {"job", "picked", "result"}
 
     def submit(self, job):
         with self.cv:
-            self.job, self.picked, self.result = job, False, None
+            self.jobs[job["id"]] = {"job": job, "picked": False, "result": None}
             self.cv.notify_all()
+
+    def _free(self):
+        return next((s for s in self.jobs.values() if not s["picked"]), None)
 
     def take(self, wait):
         with self.cv:
-            self.cv.wait_for(lambda: self.job and not self.picked, timeout=wait)
-            if self.job and not self.picked:
-                self.picked = True
+            self.cv.wait_for(self._free, timeout=wait)
+            s = self._free()
+            if s:
+                s["picked"] = True
                 self.cv.notify_all()
-                return self.job
+                return s["job"]
         return None
+
+    def alive(self, jid):
+        with self.cv:
+            s = self.jobs.get(jid)
+            return bool(s and s["result"] is None)
 
     def release(self, res):
         with self.cv:
-            if self.job and res.get("id") == self.job["id"] and self.result is None:
-                self.picked = False
+            s = self.jobs.get(res.get("id"))
+            if s and s["result"] is None:
+                s["picked"] = False
                 self.cv.notify_all()
 
     def finish(self, res):
         with self.cv:
-            if self.job and res.get("id") == self.job["id"]:
-                self.result = res
+            s = self.jobs.get(res.get("id"))
+            if s:
+                s["result"] = res
                 self.cv.notify_all()
 
-    def wait(self, pred, timeout):
+    def wait(self, jid, key, timeout):
         with self.cv:
-            return self.cv.wait_for(pred, timeout=timeout)
+            return self.cv.wait_for(lambda: self.jobs[jid][key], timeout=timeout)
+
+    def drop(self, jid):
+        with self.cv:
+            return self.jobs.pop(jid, None)
 
 
 def ext_hash():
@@ -112,9 +131,7 @@ def make_handler(bridge):
                 return
             u = urlparse(self.path)
             if u.path == "/alive":
-                job = bridge.job
-                ok = job and job["id"] == parse_qs(u.query).get("id", [""])[0] and bridge.result is None
-                return self._send(200 if ok else 410)
+                return self._send(200 if bridge.alive(parse_qs(u.query).get("id", [""])[0]) else 410)
             if u.path != "/job":
                 return self._send(404)
             wait = min(float(parse_qs(u.query).get("wait", ["0"])[0]), 25)
@@ -144,14 +161,17 @@ class Quota(Exception):
 
 
 def run(bridge, job, timeout_min):
-    job = dict(job, id=uuid.uuid4().hex, timeoutMin=timeout_min)
-    bridge.submit(job)
-    if not bridge.wait(lambda: bridge.picked, PICKUP_S):
-        raise RuntimeError(f"extension không nhận việc sau {PICKUP_S}s — Edge có đang mở, "
-                           "extension 'Novel AI Studio bridge' đã nạp và đang bật?")
-    if not bridge.wait(lambda: bridge.result is not None, timeout_min * 60 + 180):
-        raise RuntimeError(f"quá {timeout_min} phút chưa có kết quả")
-    res = bridge.result
+    jid = uuid.uuid4().hex
+    bridge.submit(dict(job, id=jid, timeoutMin=timeout_min))
+    try:
+        if not bridge.wait(jid, "picked", PICKUP_S):
+            raise RuntimeError(f"extension không nhận việc sau {PICKUP_S}s — Edge có đang mở, "
+                               "extension 'Novel AI Studio bridge' đã nạp và đang bật?")
+        if not bridge.wait(jid, "result", timeout_min * 60 + 180):
+            raise RuntimeError(f"quá {timeout_min} phút chưa có kết quả")
+        res = bridge.jobs[jid]["result"]
+    finally:
+        bridge.drop(jid)
     if res.get("ok"):
         if res.get("warning"):
             log(f"cảnh báo trên trang: {res['warning'][:200]}")
@@ -173,12 +193,82 @@ def save_state(state):
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def write_out(res, out, note, think_out=None):
+    text = pick_text(res["text"], res.get("md", ""))
+    out = Path(out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text((f"<!-- {note} -->\n\n" if note else "") + text + "\n", encoding="utf-8", newline="\n")
+    if think_out:
+        th = (res.get("think") or "").strip()
+        tp = Path(think_out)
+        tp.parent.mkdir(parents=True, exist_ok=True)
+        tp.write_text(th + "\n", encoding="utf-8", newline="\n")
+        log(f"thinking: {len(th)} ký tự → {think_out}")
+    return text
+
+
+def run_batch(bridge, args):
+    """Mỗi tài khoản một luồng, cùng rút việc từ một hàng đợi; tài khoản hết quota thì nghỉ, việc trả về hàng."""
+    jobs = json.loads(Path(args.batch).read_text(encoding="utf-8"))
+    pending = queue.Queue()
+    for j in jobs:
+        pending.put(dict(j, tries=0))
+    lock = threading.Lock()
+    done, failed = [], []
+
+    def worker(acct, delay):
+        time.sleep(delay)  # mở tab lệch nhau vài giây
+        while True:
+            try:
+                j = pending.get_nowait()
+            except queue.Empty:
+                return
+            start = time.time()
+            job = dict(prompt=Path(j["prompt"]).read_text(encoding="utf-8"), model=j.get("model", args.model),
+                       thinking=args.thinking, mode="new", si=Path(j["si"]).read_text(encoding="utf-8"),
+                       url=BASE.format(acct))
+            try:
+                res = run(bridge, job, args.timeout)
+            except Quota as q:
+                log(f"/u/{acct} hết quota, nghỉ: {str(q)[:150]}")
+                pending.put(j)
+                return
+            except RuntimeError as e:
+                j["tries"] += 1
+                log(f"/u/{acct} lỗi {j['out']} (lần {j['tries']}): {str(e)[:200]}")
+                if j["tries"] < 2:
+                    pending.put(j)
+                else:
+                    with lock:
+                        failed.append(j["out"])
+                continue
+            text = write_out(res, j["out"], j.get("note", ""), j.get("think_out"))
+            han = sum(1 for c in text if "一" <= c <= "鿿")
+            with lock:
+                done.append(j["out"])
+                print(f"{j['out']} | {han} chữ Hán | {time.time() - start:.0f}s | /u/{acct} | {res['url']}", flush=True)
+
+    accounts = [a.strip() for a in args.accounts.split(",")]
+    threads = [threading.Thread(target=worker, args=(a, 8 * i)) for i, a in enumerate(accounts)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+    left = []
+    while not pending.empty():
+        left.append(pending.get()["out"])
+    log(f"xong {len(done)}/{len(jobs)} | lỗi: {failed or 'không'} | chưa chạy (hết quota): {left or 'không'}")
+    return 0 if len(done) == len(jobs) else (3 if left else 2)
+
+
 def main():
     for s in (sys.stdout, sys.stderr):
         s.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
-    ap.add_argument("--prompt", required=True)
-    ap.add_argument("--out", required=True)
+    ap.add_argument("--prompt")
+    ap.add_argument("--out")
+    ap.add_argument("--batch", help="file JSON [{si, prompt, out, note?, think_out?, model?}]: mỗi việc một chat mới, "
+                                    "các tài khoản trong --accounts chạy song song")
     ap.add_argument("--new", action="store_true", help="mở chat mới (cần --si)")
     ap.add_argument("--si")
     ap.add_argument("--chat", help="URL chat để gửi tiếp (mặc định: chat của lần chạy trước)")
@@ -192,9 +282,8 @@ def main():
     args = ap.parse_args()
     if args.new and not args.si:
         ap.error("--new cần --si")
-
-    prompt = Path(args.prompt).read_text(encoding="utf-8")
-    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    if not args.batch and not (args.prompt and args.out):
+        ap.error("cần --prompt và --out (hoặc --batch)")
 
     bridge = Bridge()
     try:
@@ -203,6 +292,14 @@ def main():
         log(f"cổng {args.port} đang bận — có lần chạy khác chưa xong? ({e})")
         return 2
     threading.Thread(target=server.serve_forever, daemon=True).start()
+    if args.batch:
+        try:
+            return run_batch(bridge, args)
+        finally:
+            server.shutdown()
+
+    prompt = Path(args.prompt).read_text(encoding="utf-8")
+    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
 
     start = time.time()
     base = dict(prompt=prompt, model=args.model, thinking=args.thinking)
@@ -243,16 +340,7 @@ def main():
     finally:
         server.shutdown()
 
-    text = pick_text(res["text"], res.get("md", ""))
-    out = Path(args.out)
-    out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text((f"<!-- {args.note} -->\n\n" if args.note else "") + text + "\n", encoding="utf-8", newline="\n")
-    if args.think_out:
-        th = ((res or {}).get("think") or "").strip()
-        tp = Path(args.think_out)
-        tp.parent.mkdir(parents=True, exist_ok=True)
-        tp.write_text(th + "\n", encoding="utf-8", newline="\n")
-        log(f"thinking: {len(th)} ký tự → {args.think_out}")
+    text = write_out(res, args.out, args.note, args.think_out)
     state.update(chat=res["url"])
     save_state(state)
     han = sum(1 for c in text if "一" <= c <= "鿿")
