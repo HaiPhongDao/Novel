@@ -10,7 +10,7 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả".
 
 | Bản | Chữ Hán | Tác giả | Máy |
 |---|---|---|---|
-| [W03](W03.md) | 2336 | | đang soát |
-| [W02](W02.md) | 3092 | | đang soát |
-| [W01](W01.md) | 1764 | | đang soát |
-| [W04](W04.md) | 2385 | | đang soát |
+| [W03](W03.md) | 2336 | | mở lúc tỉnh dậy; có dòng ý nghĩ riêng: 见鬼，这东西真跟着过来了？; kiếp trước nhắc 2 lần |
+| [W02](W02.md) | 3092 | | mở lúc tỉnh dậy; có dòng ý nghĩ riêng: 这算什么展开？ / 见鬼，金手指还真到账了。 + tự véo đùi xem có mơ; lọt 维兰 từ SI |
+| [W01](W01.md) | 1764 | | mở lúc tỉnh dậy ở tang lễ; kiếp trước 1 câu; thấy bảng thì giật lùi, đá đổ chân nến (phản ứng bằng thân thể, không có dòng ý nghĩ riêng); ngắn (1764 chữ) |
+| [W04](W04.md) | 2385 | | mở lúc tỉnh dậy; có dòng ý nghĩ riêng: 他妈的，真撞过来了？ / 穿越者自带的系统。; có chấm xanh/vàng/đỏ trên bản đồ |
