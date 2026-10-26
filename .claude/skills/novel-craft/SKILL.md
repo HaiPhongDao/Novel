@@ -39,7 +39,8 @@ Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes 
    tên bản gốc vào review + `log.md` — đoạn sau phụ thuộc vào bản đó, đổi bản gốc là phải chạy lại.
 3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
 4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]`. Đỏ = bỏ bản
-   (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc.
+   (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc. Câu cuối kết bằng `——`
+   khi brief bảo dừng giữa một cú lao là cổng bắt nhầm: đọc ba dòng cuối, đủ cảnh thì giữ và ghi vào review.
 5. **Review bằng đọc** (mục 4), ghi vào đúng `reviews/doan-XXX.md` của đoạn đó, kèm bảng số.
 6. **Chốt**: `python tools/chot_doan.py <truyen> <spec.py>` hoặc commit + push tay; tài liệu chung commit riêng.
    **Kiểm push bằng số**: `git rev-list --count HEAD ^origin/<branch>` = 0 và `git status --short` không còn `?? <truyen>/`
