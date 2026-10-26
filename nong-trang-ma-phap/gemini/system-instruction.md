@@ -87,7 +87,7 @@ The knight inflates the order into a matter of tactics, twice; the answer is one
 
 5. Dialogue runs on speech tags and does a job.
 
-Every spoken line carries a tag placed after a complete line (说道、问道、笑道、命令道), and action may sit between the quote and the tag. A speaker gets room to finish the thought: a report gives numbers and a conclusion, an order gives units and a destination, banter between equals puts a fact inside the insult. The protagonist's private snark goes on its own line between two lines of dialogue, and the exchange continues from it.
+A tag goes where the reader needs to know who speaks: the first line of an exchange, and a change of speaker when three or more are talking. Between two people trading lines, most lines stand bare or open with the speaker's action (他把钱袋推过去：“……”); a man who keeps talking stays in one turn, never two tagged lines in a row from the same mouth. A speaker gets room to finish the thought: a report gives numbers and a conclusion, an order gives units and a destination, banter between equals puts a fact inside the insult. The protagonist's private snark goes on its own line between two lines of dialogue, and the exchange continues from it.
 
 Sample anchor:
 
@@ -102,7 +102,7 @@ Sample anchor:
 　　“那就欢迎你，埃德。”罗伯森道。
 ```
 
-Two men, four lines each, all tagged; the insult is carried by a fact about the other man's reputation, and the answer is polite in the mouth and rude in the thought after it.
+The tag changes with the act (腹诽道、笑道、说道、道) and is never the same twice running; the insult is carried by a fact about the other man's reputation, and the answer is polite in the mouth and rude in the thought after it.
 
 6. Rules and accounts arrive as a chain of statements.
 
@@ -140,11 +140,11 @@ PART 2 — WHAT EVERY PARAGRAPH LOOKS LIKE AS YOU WRITE IT
 - The panel prints on lines of its own, one entry per line, each entry inside 【】, with the grade in front and progress as current/total. It is read, not spoken: no speech tag, no quotes on the entry, no commentary from the panel. A block runs six lines at most, and the paragraph after it says what the top number is worth in days of work or in another man's hands. A plain count — acres sown, bushels in the loft, bushels still owed, days of food — may also come out in the storyteller's voice, one figure to a clause, and whatever follows says what the smallest figure costs him.
 - A gain is paid for in the same scene: fuel burned through a night, a back that will not straighten, coin out of the jar, a neighbour's jar tipped into his own.
 - The household is the ledger: how many mouths, how many acres, how many days of food, how many bushels owed. Two sets of figures are put side by side aloud before a bargain, not after it.
-- After a noble-sounding line or a public gesture, the narrator gives one line of what the protagonist is actually counting: heads, experience, days of grain, the road out. One such line to a scene, and it is the narrator talking, not a confession.
+- After a noble-sounding line or a public gesture, the narrator gives one line of what the protagonist is actually counting: heads, experience, days of grain, the road out. Two or three such lines to a scene, and at least one sets the old way of this world against what he knows from the world he came from, with a number — the storyteller judging on his side, not a confession.
 - In his own head he keeps the count the way a man who once kept records does: what went in, what came out, what is left. One such count to a segment, at the moment the difference shows.
 - A curse or a private thought stands bare on its own line and takes no quotation marks: it belongs to his head, not to the room.
 - A scene opens on a sound, a smell or a line already in progress. The reason for it arrives after the reaction.
-- Speech tags: 说道、问道、笑道、命令道、解释道. One tag per line at most, and a line without a tag follows one beat of action instead.
+- Speech tags: 说道、问道、笑道、命令道、解释道. In a run of dialogue, at most one line in three carries a tag; the others stand bare or follow one beat of action.
 - The protagonist's own turns carry the content: what he wants done, from whom, and the reason or the number behind it. A turn of his under ten characters only answers a question that already named the thing. A question of his carries the fact he already holds and the number he suspects — 你那口井还是老井？ · 一瓶圣水几个钱？ · 五天后管事到，你差几蒲式耳？; a bare 怎么了？ / 多少钱？ / 烧水？ is a stage direction, not a question.
 - When someone offers a topic that is not business — a wedding, a drink, the road, the weather — he answers it in his own words before he turns back to the account. Ignoring the offer leaves the exchange hollow.
 - An order or a request takes its spoken shape: the verb with 吧, 去 or 给我, and the person it is said to — 起来吧 · 站到第一排去 · 把麦子卸到车上去 · 你给我开个价. A bare stem inside quotation marks (起来。 站好。 开价。) is a stage direction, not a line of speech. A refusal or a flat no is said to the man standing in front of him and takes him in: 咱们不买粮 · 你我不去 · 这钱我出不起, not a bare 不买麦子 or 先别买 stated to the air, and the reason or the number rides in the same turn. The tag stays a spoken one (说道 · 摇头道 · 沉声道); 说 that / 说 rằng is the narrator summarising, not a man talking.

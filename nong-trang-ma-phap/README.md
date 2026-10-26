@@ -7,7 +7,7 @@ pháp.
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction.md` — phần dán là `gemini/si-dan-gemini.txt`, dựng từ SI
+- SI đang dùng: `gemini/system-instruction.md` (v4) — phần dán là `gemini/si-dan-gemini.txt`, dựng từ SI
   `ky-kham-lanh-chua` (v9), PART 4 thay bằng khối "kiến thức mang theo" (không bảng 骑砍).
 - Danh sách lỗi riêng: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
@@ -15,12 +15,9 @@ pháp.
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` (bản ngắn, có bảng) | `chapters/doan-001-a.md` — SI v1, không bảng | `reviews/doan-001.md` | — |
-| 001 | `briefs/doan-001.md` (bản chi tiết ở archive) | `chapters/doan-001-b.md` — SI v1b, không bảng | `reviews/doan-001.md` | — |
-| 001 | `briefs/archive/doan-001-ngan-v1.md` | `chapters/doan-001-c.md` — SI v2, có bảng 经验 | `reviews/doan-001.md` | — |
-| 001 | `briefs/doan-001.md` (bản ngắn v2, đích 1.900) | `chapters/doan-001-d.md` — SI v2.1, có bảng 经验 | `reviews/doan-001.md` | — |
-| 001 | `briefs/doan-001.md` (bản ngắn v3, bỏ dòng đếm lượt thoại) | `chapters/doan-001-e.md` — SI v2.1, có bảng 经验 | `reviews/doan-001.md` | — |
-| 002 | `briefs/doan-002.md` (nối từ 001-e) | `chapters/doan-002-a.md` — SI v3 | `reviews/doan-002.md` — SỬA NHẸ | —|
+| 001 | `briefs/doan-001.md` (prompt Tác giả + dữ kiện) | `chapters/doan-001-i.md` — SI v4 | `reviews/doan-001.md` — SỬA NHẸ | — |
+
+Bản 001 a–e, 002-a (trước khi viết lại từ đầu) ở `chapters/archive/`.
 
 Brief chi tiết (đánh số cảnh) đã đưa vào `briefs/archive/doan-001-chi-tiet*.md`; Tác giả chốt 26/10:
-**prompt ngắn**.
+**prompt ngắn**. Thay bằng (26/10, sau 002-a): **prompt kiểu Tác giả** — độ dài · tag · chức năng giọng — cộng dữ kiện viết thành câu sự thật.

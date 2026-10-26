@@ -58,3 +58,12 @@
   SỬA NHẸ: sửa tay `进阶` → đào tạo 村民 và `大人` → `管事大人`; bản Writer ở `archive/doan-002-a-raw.md`.
 - Mâu thuẫn canon cần Tác giả chốt: `bible/characters/ronan.md` nói Ronan tự xưng 小的 với 神父/管事, nhưng
   review 001-e đã sửa `小的` → `我` khi nói với 神父. 002-a theo bible (小的 với 管事).
+
+## 26/10/2026 (tiếp) — viết lại từ đầu: SI v4 + prompt kiểu Tác giả
+
+- Tác giả chê 002-a (thoại nào cũng kết bằng `说道`, mất giọng người xuyên việt), yêu cầu sửa SI/prompt và viết
+  lại từ đầu với prompt kiểu đặt hàng của Tác giả + dữ kiện.
+- SI v4 (Tác giả yêu cầu): đổi 4 câu về thẻ thoại và hạn mức giọng tính toán của MC. Bản cũ: `gemini/system-instruction-v3.md`, `gemini/si-dan-gemini-v3.txt`.
+- Bản 001 a–e và 002-a chuyển vào `chapters/archive/`; brief cũ vào `briefs/archive/`. Brief mới `briefs/doan-001.md`.
+- `001-i`: 2.064 字 · 1 thẻ thoại (002-a: 15) · ~10 câu phán xét cũ/mới · SỬA NHẸ. Bảng số: `reviews/doan-001.md`.
+- Chi tiết mới Writer đặt, chờ Tác giả: kiếp trước Ronan học "đại học nông nghiệp bảy năm".

@@ -124,3 +124,42 @@ Lỗi còn lại của `h2`:
 4. `神甫的异端审判所` · `神廷` — canon là 神父 / 圣廷.
 5. `四十年的人生常识` trong đầu Marta — canon Marta 34 tuổi.
 6. Dài 3.004 字 (prompt đòi 2.000, +50%).
+
+## Viết lại từ đầu (26/10) — bản i: SI v4 + prompt kiểu Tác giả có dữ kiện
+
+Tác giả chê 002-a: thoại lượt nào cũng kết bằng `X 说道`, và mất giọng người xuyên việt so với đoạn 1 →
+viết lại từ đầu. Hai thay đổi cùng lúc (không phải thí nghiệm một biến, Tác giả yêu cầu cả hai):
+- **SI v4** (đổi 4 câu, +242 ký tự): luật "Every spoken line carries a tag" → thẻ chỉ ở chỗ cần biết ai nói,
+  không bao giờ hai lượt liền của một người cùng gắn thẻ; PART 2 "One tag per line at most" → tối đa một lượt
+  trong ba có thẻ; lời bình của anchor "all tagged" → thẻ đổi theo hành vi; giọng tính toán của MC "One such
+  line to a scene" → hai ba dòng mỗi cảnh, ít nhất một dòng đặt lề lối cũ cạnh cái anh biết, có số.
+- **Prompt**: nguyên ba dòng của Tác giả (độ dài · tag · chức năng giọng) + dữ kiện viết thành câu sự thật
+  (tuổi, ngày tới làng, tiền + tỷ giá, Marta sạch tiền, việc chữa, bảng in đúng khối, xưng hô, chỗ dừng).
+
+| bản | SI · prompt | 字 | 字/câu | câu ≤5 字 | lượt · 字/lượt | thẻ | so sánh | cham |
+|---|---|---|---|---|---|---|---|---|
+| e | v2.1 · brief ngắn v3 | 1.868 | 20,1 | 15 | 16 · 17,5 | — | 1 | 72 |
+| 002-a | v3 · brief ngắn | 1.652 | 18,6 | 18 | 15 · 17,2 | **15** | 2 | 72 |
+| h2 | v3 · prompt Tác giả + 4 dòng danh sách | 3.004 | 19,8 | — | 29 · 17,5 | — | — | — |
+| **i** | **v4 · prompt Tác giả + dữ kiện câu** | 2.064 | 22,1 | **7** | 13 · 12,4 | **1** | 1 | 64 |
+
+(cham 64 thấp vì band độ dài 1.500–1.800 và band 字/lượt của lane 领主 — nhiễu, xem cột thật.)
+
+**Giọng xuyên việt — có, dày:** `自称一声小的少不了二两骨头，面对握着宗教特权的寄生虫，没必要正面起冲突。` ·
+`井水沉淀一夜换取两枚银币，哪怕前世最暴利的走私行业都比不上这等买卖。` · `人命在现代人眼里是宝贵的劳动力，
+在封建册页上却只是一串随时抹去的墨迹。` · `这群庄稼汉若是明白把粪堆沤熟能增产两成，多半会当场跪下高呼神迹。`
+— khoảng 10 câu phán xét cũ/mới trải đều ba cảnh (5 bản trước gần như không có).
+**Thoại:** 13 lượt, chỉ 1 thẻ; lượt đứng trần hoặc mở bằng một việc. Hết tật `X 说道` cuối mỗi lượt.
+
+Lỗi:
+1. (đã sửa tay) `前年男人死在采石场` → `去年男人死在石桥镇的矿坑里` (canon Marta). Raw: `archive/doan-001-i-raw.md`.
+2. `去年隔壁村有个…幼童` — canon: đứa trước là người trong làng, tháng này. Để nguyên.
+3. `前世在农业大学泡了七年` — chi tiết kiếp trước Writer tự đặt (bible: kỹ thuật viên nông nghiệp). Chờ Tác giả nhận vào canon hay không.
+4. `两枚银币足够一个壮劳力…苦熬两个月` — lệch kinh tế (một bữa ở chợ = 2 铜币, 2 银币 = 12 bữa).
+5. Odilo béo, chai `绿玻璃瓶` (canon: chai gốm, nút sáp); `像吞了干沙` — so sánh người kể.
+6. Người kể giảng: thuật ngữ y học (`水杨苷`, `电解质失衡`) và bốn câu giảng bảng sau khối 【】 (`一百点经验就能将一名普通流民训练成…`).
+   Thuật ngữ y học lần này đi cùng giọng phán xét Tác giả muốn — Tác giả quyết giữ hay cắt.
+7. Thoại mỏng: 12,4 字/lượt, nhiều lượt cụt (`去教堂。`).
+
+**Kết luận: SỬA NHẸ** — đạt đúng hai điều Tác giả đòi (giọng xuyên việt, hết đuôi `说道`); chờ Tác giả đọc
+trước khi viết 002 theo cùng kiểu prompt.
