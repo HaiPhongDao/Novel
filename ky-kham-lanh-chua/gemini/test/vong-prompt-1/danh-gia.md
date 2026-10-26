@@ -15,3 +15,4 @@ Tác giả chỉ cần điền **Đạt** / **Không** ở cột "Tác giả". C
 | [Y07](Y07.md) | 2286 | | đang soát |
 | [Y08](Y08.md) | 2724 | | đang soát |
 | [Y09](Y09.md) | 2279 | | đang soát |
+| [Y10](Y10.md) | 3622 | | đang soát |
