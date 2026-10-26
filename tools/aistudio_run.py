@@ -225,7 +225,7 @@ def run_batch(bridge, args):
                 return
             start = time.time()
             job = dict(prompt=Path(j["prompt"]).read_text(encoding="utf-8"), model=j.get("model", args.model),
-                       thinking=args.thinking, mode="new", si=Path(j["si"]).read_text(encoding="utf-8"),
+                       thinking=j.get("thinking", args.thinking), mode="new", si=Path(j["si"]).read_text(encoding="utf-8"),
                        url=BASE.format(acct))
             try:
                 res = run(bridge, job, args.timeout)
@@ -267,7 +267,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--prompt")
     ap.add_argument("--out")
-    ap.add_argument("--batch", help="file JSON [{si, prompt, out, note?, think_out?, model?}]: mỗi việc một chat mới, "
+    ap.add_argument("--batch", help="file JSON [{si, prompt, out, note?, think_out?, model?, thinking?}]: mỗi việc một chat mới, "
                                     "các tài khoản trong --accounts chạy song song")
     ap.add_argument("--new", action="store_true", help="mở chat mới (cần --si)")
     ap.add_argument("--si")
