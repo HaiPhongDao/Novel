@@ -229,7 +229,9 @@
       const busy = [...gen.active].some(x => x.readyState !== 4);
       const run = running() || busy;
       return { running: run, started: gen.started > 0,
-               textLen: lastReply().text.length, err: pageError() || (run ? '' : turnError()) };
+               textLen: lastReply().text.length,
+               // Lỗi trong lượt Model (Permission denied…) có thể hiện khi request/spinner còn treo: đọc cả lúc đang chạy.
+               err: pageError() || turnError() };
     },
 
     async collect() {
