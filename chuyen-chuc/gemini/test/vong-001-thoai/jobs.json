@@ -1,0 +1,23 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\si-D1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-001-d.md",
+  "note": "001-d D1",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-001-d.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\si-D2.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-001-e.md",
+  "note": "001-e D2",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-001-e.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\si-D3.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-thoai\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-001-f.md",
+  "note": "001-f D3",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-001-f.md"
+ }
+]
