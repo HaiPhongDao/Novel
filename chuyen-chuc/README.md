@@ -12,9 +12,10 @@ Bộ mẫu: `../vong-du/全民转职：我神器词条无限叠加.txt` — phâ
 - Phương án đã loại: `archive/phuong-an-tien-de-v1-loai.md`, `archive/phuong-an-tien-de.md` (v2–v4)
 
 ## Writer
-- SI: chưa dựng (chờ Tác giả duyệt bible).
+- SI: `gemini/system-instruction-v1.md` — bản dán `gemini/si-dan-gemini-v1.txt` (5.125 ký tự, 4 anchor ch4/6/8 bộ mẫu, kiểm 4/4 khớp). Bản lưu AI Studio: `X级赏金猎人 - SI v1`.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
+| 001 | `briefs/doan-001.md` | | | |
