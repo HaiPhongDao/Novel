@@ -117,3 +117,20 @@ Không có nội dung, SI tự lộ ra ba việc:
 ## Kết luận
 
 Thoại sửa được nhờ **cả hai**: SI cho nhân vật được thô (j) và prompt cho người có tên, có cái để lo (l). Còn lại một lỗi của SI: anchor lời kể bị chép thành khuôn đoạn (vòng 4 cũng thấy). Đề xuất **SI v4.1 = v4 bỏ anchor lời kể** (giữ luật N1–N4), chạy lại với prompt X2.
+
+## Vòng 6 (27/10) — SI v4.1 (bỏ anchor lời kể N, giữ N1–N4) + prompt X2b
+
+Prompt X2b = X2, chỉ sửa 何老 thành "từng lên tới cấp 41, nay ngoài năm mươi tuổi". Bản **m**: 1.754 字 (ngắn), 145 dòng: kể 105 · thoại 30 · hệ thống 10.
+
+| | l (v4 + X2) | m (v4.1 + X2b) |
+|---|---|---|
+| Lượt thoại / đọc số trơn | 22 / 1 | 30 / 8 |
+| 8-gram trùng SI | chép khung cả đoạn N | 0 |
+| 何老 nói | không | không |
+
+- Hết chép khung: bỏ anchor N là đúng chỗ. Tuổi 何老 đúng (53).
+- Thoại tụt lại: 赵小川 lại kể hoàn cảnh nhà cho bạn ("我爸去年在城外矿坑断了腿…一个月领15枚银币"); đám đông lại thành người đọc bảng giá ("一件20级黄金重甲就要三十万金币…"). Còn sống: "赵家这小子走运了", "韩擎的动静太大，后面这些平民看着真乏味。"
+- Lời kể đọc lại brief: "临渊城的货币分量很沉。/1枚金币能兑换100枚银币。"; "四项属性能够全满6点" sai (max 10).
+- Kết đoạn tốt: C级 → 何老 nhổ thuốc → 【天赋：X级】 → 【您的职业正在进化……】.
+
+**Kết luận.** Một bản không tách được "anchor N giúp thoại" với nhiễu giữa các lần chạy. l và m chỉ khác anchor N, nhưng thoại chênh 1 vs 8 lượt đọc số — cần ≥2 bản mỗi SI mới kết luận được.

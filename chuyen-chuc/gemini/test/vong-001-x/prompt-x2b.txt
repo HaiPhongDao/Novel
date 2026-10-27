@@ -1,0 +1,15 @@
+Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung.
+Thể loại: 全民转职, 无敌流, lên cấp sảng khoái. Tông lạnh, nghiêm túc. MC là người xuyên việt.
+
+Thế giới: mười tám tuổi thì cả nước chuyển chức cùng một ngày, hạng nghề từ F đến SSS định cả đời. 临渊城 là thành biên phía bắc, cách vết nứt 渊口 40 dặm; thú triều năm năm một lần. Lần trước khoảng 10 vạn quái cấp 40–60, mất một phần ba tường bắc, 1,2 vạn dân chết. 镇渊军 giữ thành có 3 vạn người, cấp trung bình 40. Năm ngoái cả thành chỉ có 3 người S级.
+
+MC tên 江野, học sinh 临渊三中, chỉ số trước chuyển chức 力量 6 · 体质 6 · 敏捷 6 · 精神 6 (người thường 4–5). Bố mẹ là lính 镇渊军, chết trên tường bắc ở lần thú triều trước; anh sống một mình, làm thêm kéo xác quái cho 猎人协会 (2 金币 một ca). Tiền tiết kiệm: 3.260 金币. Tiền tệ: 金币 và 银币, 1 金币 = 100 银币. Thiên tài năm nay là 韩擎 của 韩家 (力量 9 · 体质 8) và 苏清寒 của 苏家; nếu 苏清寒 lên đài, cô thức tỉnh 霜语者（S级）.
+
+Hôm nay là 6月1日, ngày chuyển chức. Sáng nay 镇守府 báo thú triều sẽ tới ngày 7月1日, còn 30 ngày. Đứng ngay trước 江野 trong hàng là 赵小川, bạn cùng lớp: nhà đông em, bố què chân, cậu cần một nghề chiến đấu để vào 镇渊军 lĩnh lương; cậu thức tỉnh 圣愈者（B级）, không biết nên mừng hay lo vì 镇渊军 có tuyển trị liệu không. Bên rào chắn có 何老, thư ký 猎人协会, cựu 赏金猎人 (từng lên tới cấp 41, nay ngoài năm mươi tuổi) cụt một tay, người đã giao việc kéo xác cho 江野 ba năm nay; hôm nay ông tới vì hiệp hội thiếu người trước thú triều. 韩擎 thức tỉnh 狂血战士（SS级）. 江野 thức tỉnh 赏金猎人（C级） — nghề cả đời nhận việc vặt của hiệp hội — và quảng trường nguội đi.
+
+Dòng hệ thống chép nguyên, theo thứ tự:
+【恭喜您觉醒职业——赏金猎人（C级）】
+【天赋：X级】
+【您的职业正在进化……】
+
+Dừng ở dòng 【您的职业正在进化……】. Mọi chi tiết còn lại do bạn quyết.

@@ -1,0 +1,9 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-x\\si-v41.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-x\\prompt-x2b.txt",
+  "note": "001-m v4.1",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-001-m.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-001-m.md"
+ }
+]
