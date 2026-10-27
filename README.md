@@ -11,6 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
+| [`khong-binh/`](khong-binh/README.md) | 空瓶督政官 — con nhà pháp sư sinh ra không ma lực, bị đày quản thuộc địa phàm nhân; 120 ngày nộp 12.000 袋 cống lương; mẫu 《我的帝国》 | Bible nháp + SI v1 chờ Tác giả duyệt |
 
 ## Cấu trúc
 
