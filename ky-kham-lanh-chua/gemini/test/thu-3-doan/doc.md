@@ -10,3 +10,4 @@ Tác giả đọc và chấm **Đạt / Không** từng đoạn.
 |---|---|---|---|
 | [doan-1](doan-1.md) | 2257 | | mở nửa tháng sau xuyên việt, người kể tóm lại; Writer tự thêm kiếp trước là 监理 công trường (1 câu); lệch số nhỏ: 40 nhà mỗi nhà 1 bạc = 2 vàng, nhưng Martin lại nói "两枚银币足够买一头羊羔"; dừng đúng chỗ (tay đặt lên nút rót điểm) |
 | [doan-2](doan-2.md) | 2743 | | nối đúng chỗ; rót 180 điểm cho 3 lão binh (Barton/Dac/Torin), còn 120 — khớp; bảng 17 民兵 + 3 步兵 khớp; lọt địa danh 巴罗尔城 từ SI; đơn vị hiện đại 两米半; dừng đúng chỗ (Leon ra điều kiện, 伍长 Brant chưa đáp) |
+| [doan-3](doan-3.md) | 3058 | | nối đúng chỗ; số khớp (quỹ 120 + 3 ngày × 9 = 147; 30 cây − 10 = 20); có cảnh ruộng thật (gặt 400 mẫu, mây vảy cá báo mưa); lệch canon: Martin ở đoạn 1 là quản gia gầy ~50 tuổi, đoạn 3 thành "镇上的管事" mặt béo tròn; bảng ghi 10 民兵 trong khi còn 17; dừng đúng chỗ (chọn hướng cho Bale) |
