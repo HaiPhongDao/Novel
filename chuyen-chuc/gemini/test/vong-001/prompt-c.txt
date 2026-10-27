@@ -1,0 +1,9 @@
+Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung.
+
+Ngày chuyển chức toàn dân ở 临渊城, thành biên sát vết nứt 渊口, đúng 30 ngày trước thú triều. 江野 — học sinh 临渊三中, bố mẹ là lính chết ở lần thú triều trước — đứng chờ tới lượt sau 韩擎 của 韩家. 韩擎 ra 狂血战士（SS级）; 江野 ra 赏金猎人（C级）, rồi thiên phú hiện ra.
+
+Số liệu: 江野 力量 6 · 体质 6 · 敏捷 6 · 精神 6; lần thú triều trước 10 vạn quái, mất một phần ba tường bắc.
+
+Dòng hệ thống chép nguyên: 【恭喜您觉醒职业——赏金猎人（C级）】 → 【天赋：X级】 → 【您的职业正在进化……】
+
+Dừng ở 【您的职业正在进化……】. Mọi chi tiết còn lại do bạn quyết.
