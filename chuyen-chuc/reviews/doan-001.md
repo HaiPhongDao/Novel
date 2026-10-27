@@ -157,3 +157,12 @@ Prompt X2b = X2, chỉ sửa 何老 thành "từng lên tới cấp 41, nay ngo�
 - Hai tuyến người nối nhau: 赵小川 hỏi "后方医治营能预支军饷吗？", 江野: "去找何老，协会的野队收随队医师，一趟给3枚金币。" — cậu đi thẳng tới lều của 何老.
 - 何老 nhìn MC: ba năm, hơn 700 xe, "C级赏金猎人。/跟他当年一模一样。"
 - Cần sửa: "响起一片咽口水的声音" (tật của bộ mẫu); "四年前在渊口外围断了整条左臂" (canon: cụt tay, chưa định năm — để vậy được); "几十万人口" ≠ 600 vạn.
+
+## Chốt (27/10) — Tác giả chọn **q** (q > o > các bản khác)
+
+Tác giả: "Bản o với q tốt hơn, q > o". Agent đã đề xuất p — **lệch khẩu vị**, ghi lại để không lặp:
+- Thước "lượt thoại đọc số trơn" chấm q tệ (8) nhưng Tác giả xếp q đầu. Thoại có số trong q mang ghen tị/khinh ("那又怎么样，人家生在苏家。" / "换你天天吃雪魄丹，你也成不了S级。" / "哪有闲钱养他这种穷鬼。") — thước đếm máy không phân biệt được. **Không dùng thước này để chọn bản nữa**; chỉ dùng để dò lỗi.
+- Hai bản được chọn (o 2.093, q 2.169 字) dài và dày lời kể hơn p, m, n: thế giới có chất liệu cụ thể (loa phòng không đọc thông cáo, 韩擎 ra lệnh "下午我要进野狼谷", 何老 kể con 暴熊 50级 đập nát tay, giá sách kỹ năng 300 金币, sinh hoạt phí 8 金币/tháng).
+- 赵小川 kể hoàn cảnh trong lời kể, thoại chỉ là cầu xin ngắn ("我求个C级就行，哪怕是挑大盾的也行。").
+
+Sửa khi chốt: bỏ "穿越到这个世界整整五年。" (luật: xuyên lúc sơ sinh, không nhắc); thống nhất ba dòng 【转职成功：…】 thành 【恭喜您觉醒职业——…】. Ra `chapters/doan-001.md`, 2.167 字. SI chốt: v4.1 (`gemini/si-dan-gemini-v41.txt`).

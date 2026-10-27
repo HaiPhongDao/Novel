@@ -12,10 +12,10 @@ Bộ mẫu: `../vong-du/全民转职：我神器词条无限叠加.txt` — phâ
 - Phương án đã loại: `archive/phuong-an-tien-de-v1-loai.md`, `archive/phuong-an-tien-de.md` (v2–v4)
 
 ## Writer
-- SI: `gemini/system-instruction-v1.md` — bản dán `gemini/si-dan-gemini-v1.txt` (5.125 ký tự, 4 anchor ch4/6/8 bộ mẫu, kiểm 4/4 khớp). Bản lưu AI Studio: `X级赏金猎人 - SI v1`.
+- SI chốt: **v4.1** — bản dán `gemini/si-dan-gemini-v41.txt` (luật lời kể N1–N4 không anchor; anchor cảnh đánh ch6 + thoại ch8). Lịch sử v1→v4.1: `reviews/doan-001.md`.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` | | | |
+| 001 | `gemini/test/vong-001-x/prompt-x2b.txt` | `chapters/doan-001.md` (từ bản q) | `reviews/doan-001.md` | ✅ 27/10 |

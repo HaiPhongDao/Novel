@@ -16,3 +16,9 @@
 | 腐沼 | 5 | 0:06:12 (đàn anh 韩家, 12 năm trước) | 1:41:20 |
 | (phó bản 2) | 10 | chưa đặt | |
 | (phó bản 3) | 15 | chưa đặt | |
+
+## Thêm từ đoạn 001
+- Sinh hoạt nhà ba người: ~8 金币/tháng. Lương lính chiến 镇渊军: 20 金币/tháng.
+- Sách kỹ năng 治愈术 thấp nhất: 300 金币 (thương hội). 青铜重甲 cấp 10 (chợ đen): ~5.000 金币.
+- 何老: 52 tuổi, lên 41 cấp 12 năm trước, mất tay trái vì 荒原暴熊 cấp 50.
+- Lần trước ra SS级 ở 临渊: sáu năm trước.
