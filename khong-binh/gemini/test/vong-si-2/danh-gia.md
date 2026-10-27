@@ -17,3 +17,5 @@ Chung cho cả ba: luật LAYOUT mới (đoạn văn hai ba câu, 50–90 字).
 - **X3:** đúng mạch nhưng thoại cụt nhất (5 lượt cụt), nhiều sai số liệu nhất.
 
 Khuyến nghị Agent: X1 ≈ X2 > X3.
+
+**Tác giả 28/10: cả ba "dở hơn đoạn cũ" (vòng 1, SI v1).** Nhãn: X1 = D2 (anchor ch35), X2 = D3 (luật lời kể vào prompt), X3 = D1 (bỏ anchor lời kể).
