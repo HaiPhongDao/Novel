@@ -1,0 +1,23 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\si-v42.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\brief-x1.md",
+  "note": "002-d X1 SI",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-002-d.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-002-d.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\si-dan-gemini-v41.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\brief-x2.md",
+  "note": "002-e X2 brief",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-002-e.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-002-e.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\si-v42.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\brief-x2.md",
+  "note": "002-f X3 ca hai",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\chapters\\doan-002-f.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\archive\\thinking-002-f.md"
+ }
+]

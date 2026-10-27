@@ -17,3 +17,21 @@
 - c: mốc so được: kỷ lục lên cấp 10 của 三中 là bốn ngày ba đêm (K5); cảnh chọn biểu tượng đầu lâu.
 
 **Agent đề xuất a**, sửa: 三年前 → 五年前; 半截 → 三分之一; nguồn tiền → kéo xác ba năm.
+
+## Vòng 2 (27/10) — sửa thoại MC: Tác giả "thoại của MC đang cực kỳ tệ"
+
+Chẩn đoán: thoại MC ở 001q và 002a/b/c toàn lệnh trơn / từ chối trơn ("去碰石头。" "拿穿云弩。" "不用了。" "我不组队。"). Nguồn: mục HIM của SI v4.1 ghi "a refusal is one sentence with no explanation"; `jiang-ye.md` "Từ chối bằng một câu, không giải thích"; brief soạn sẵn "anh từ chối".
+
+- X1 = **SI v4.2** (mục HIM viết lại: mỗi câu nhắm vào người trước mặt và muốn điều gì đó; nghĩ khác nói; với bạn thẳng mà vẫn là bạn; cấm lệnh/từ chối trơn; anchor ch14 陆苍 mặc cả với 黄经理) + brief cũ (đã sửa năm năm / nguồn tiền) → **d**
+- X2 = SI v4.1 + brief có stake (老孟 thương hại; MC đưa 赵小川 100 金币, chỉ tới 何老) → **e**
+- X3 = SI v4.2 + brief X2 → **f**
+
+| | Thoại MC |
+|---|---|
+| d | "你别去简单模式。" / "把治疗费用降一半，去找四个带盾的平民狂战士。" / "简单模式掉落的材料你一份都别要，只要经验。" / "他们缺省钱的治疗，你缺升级的时间。" / "在后头站远点，天黑前混到三级。" / "我不打简单。" / "跟着我，你会死。" — tự nghĩ ra lời khuyên thật, câu nào cũng trả lời 赵小川. Ở quầy vẫn "拿下来。" (đáp lời chào hàng, chấp nhận được). |
+| e | "那把穿云弩，我要了。" / "拿货。" / "我不组队。" / "去猎人酒馆。" / "收着。" — brief cho việc để làm nhưng giọng vẫn cụt; 老孟 khuyên thì MC không đáp. |
+| f | "这把弩我要了。" / "点数。" với 老孟 (cụt); với 赵小川 "小川，我不组队。" / "听我说完。" / "何老欠我三个人情，他会收你。" / "三十天后妖兽潮冲过来，活着最重要。" / "我练级。" — tốt hơn e nhưng thành một tràng dặn dò dài. |
+
+**Kết luận.** Sửa SI là chỗ ăn (d > f > e). Brief soạn sẵn hành động cho MC (đưa tiền, chỉ đường) thì Writer nói hộ brief thành lệnh/dặn dò; để SI lo giọng, brief chỉ cho tình huống thì MC tự tìm thứ để nói.
+
+Lỗi canon: d "临渊城建城六十年", 韩啸 thành 副统领 (mới, chấp nhận được); e bố 赵小川 "死在铁矿洞" ✗ (canon: què chân); f "普通成年人…三点到四点" ✗, "外城死了一半人" ✗.
