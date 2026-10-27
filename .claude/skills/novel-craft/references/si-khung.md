@@ -82,6 +82,19 @@ LENGTH
 ===== HẾT SI =====
 ```
 
+## Lời kể phải có nguyên tắc riêng — và đứng trước
+
+Lời kể chiếm 70–85% mọi đoạn (bộ 全民转职 mẫu 68–72%, ba bản thử chuyen-chuc 75–87%). Khung trên chỉ có luật cảnh và
+nhịp; nếu phần riêng thể loại lại toàn cảnh đặc biệt (trận đánh, mua bán, bia kỷ lục) thì **không nguyên tắc nào dạy
+giọng người kể**, Writer lấp bằng giọng báo cáo — mỗi dòng một sự kiện kèm số — và thoại nhiễm theo thành lời kể trong
+ngoặc kép (chuyen-chuc SI v1, Tác giả chê; thêm anchor thoại chỉ đổi vài lượt). Luật:
+
+- Đo tỷ lệ lời kể / thoại / hệ thống của sample trước khi viết SI.
+- Ít nhất nửa số nguyên tắc và nửa số anchor dành cho **lời kể thuần** (không thoại, không 【】): nhịp dòng/đoạn, chuỗi
+  giải thích có từ nối của người kể, ý nghĩ MC chảy vào lời kể, câu chốt ý nghĩa.
+- Cảnh đặc biệt của thể loại gom vào một mục ENGINE, nén, tối đa 2 anchor.
+- Khung đầy đủ: `writer/SI-template` v4 (PART 1 chia NARRATION / MOMENTS).
+
 ## Vì sao phải có khối POV (bằng chứng)
 
 SI 骑砍 v3 đủ 4 nguyên tắc + 5 lệnh cấm, tật về 0, nhịp khớp mẫu — mà Tác giả đọc xong nói: *"như người ngoài

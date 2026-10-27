@@ -131,6 +131,7 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 
 ## 5. SI của truyện
 
+- **Lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước mọi cảnh đặc biệt** — SI chỉ dạy cảnh đặc biệt thì Writer kể bằng giọng báo cáo và thoại nhiễm theo (`references/si-khung.md`, `writer/SI-template` v4).
 - Sửa SI phải có Tác giả duyệt + ghi `log.md`. Dựng SI mới từ `references/si-khung.md` (4 nguyên tắc + đúng 5 dòng BANS + độ dài +
   phần thể loại); giữ mọi đời cũ `system-instruction-vN.md` làm bằng chứng và bản để quay về.
 - **Chất lượng tụt qua nhiều vòng thì nghi luật tích tụ**: đo độ dài SI và prompt qua các đời; nếu cùng phình thì reset về
