@@ -91,6 +91,9 @@ python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt --prom
   trong lúc chờ thì viết brief kế.
 - Đừng sửa `tools/aistudio-ext/` khi có job chạy (extension tự reload, job treo tới timeout). Nghi bridge hỏng →
   probe 1 dòng SI + 1 dòng prompt, `--out tools/.probe/out.md`.
+- **Nhiều bản cùng lúc**: `--batch jobs.json` ([{si, prompt, out, note?, model?, thinking?}]), mỗi tài khoản /u/0–2 một tab.
+  Edge nạp extension từ `D:\ClaudeCodeistudio-ext` (bản chép): sửa extension thì chép sang đó. AI Studio đang để chat
+  tạm (URL giữ `new_chat`), nên **gửi tiếp vào chat cũ không được** — đoạn kế chạy `--new` kèm tiền tình + nguyên văn cuối đoạn trước.
 - `Failed to generate content` / `No tab with id` là lỗi tạm: chạy lại y nguyên lệnh sau 20–45 giây.
 - "Extension không nhận việc sau 90s" sau một lần bị cắt → tiến trình cũ giữ cổng 8765: `netstat -ano | grep :8765`, `Stop-Process`.
 - Job treo >10 phút không file = tab rơi về trang đăng nhập Google: nhờ Tác giả đăng nhập, đừng sửa script.
@@ -143,6 +146,12 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Không bịa anchor; kiểm bằng `scripts/verify_anchors.py` — `references/si-anchors.md`.
 - Nghi SI "không làm việc" → test trên cảnh mẫu có đáp án, hai cảnh khác loại — `references/si-test-tren-mau.md`.
 - Tác giả gửi link SI: repo private, đọc từ bản clone và nói rõ đời nào (+3–4 khác biệt).
+- **Test một lỗi Tác giả bảo sửa: 3 hướng khác nhau, mỗi hướng 1 bản, chỉ gửi 3 bản** (vd luật trong SI / neo nguyên văn
+  bộ mẫu / dồn vào prompt). Máy soát trước (tên lọt, số, thước đo của lỗi đó); bản chưa qua máy thì chạy lại, không gửi.
+  Tác giả đọc tối đa ~4 bản một vòng; 10–12 bản (2 lần × mỗi biến thể) là quá nhiều (27/10, ky-kham-lanh-chua).
+- **Thước chủ ngữ người trong lời kể** (他/她 + tên MC mỗi 1000 字 lời kể): bộ 骑砍 mẫu trung vị 9,0 + 9,3 = 18,7. Luật SI
+  đẩy Writer từ ~12 lên ~16 nhưng dao động giữa các lần chạy lớn hơn tác dụng luật; Tác giả chấp nhận mức 10–14 khi
+  đoạn mở đi theo kiểu người kể tóm lại (`ky-kham-lanh-chua/gemini/test/vong-cn-1/ghi-chu.md`).
 
 Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references/si-khong-ban-tay-vang.md`, `references/giong-mc-hien-dai.md`.
 
@@ -153,6 +162,12 @@ Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references
 - 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
 - Đoạn 001: chạy 3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào `reviews/doan-001.md`.
 - Mỗi thể loại một SI dựng từ dấu hiệu đo được của bộ mẫu; mẫu tải về có thể hỏng — đếm thân chương trước.
+- **Đoạn mở lane xuyên việt: chép thứ tự của chương 1 bộ mẫu, không dựng cảnh tỉnh dậy.** 骑砍 mẫu mở nửa năm sau khi
+  xuyên qua: nơi chốn → đã bao lâu → bảng cho làm được gì → một nhận định được/mất kiểu kể chuyện cười → số liệu thế
+  giới → cảnh đang chạy. Bắt mở lúc tỉnh dậy + cho phản ứng nhịp riêng thì Tác giả đọc ra "cố làm ra vẻ, chỉ đúng 1
+  câu" (vòng SI 3–4); đưa nghề kiếp trước vào prompt thì Writer nhắc lại 2–8 lần mỗi bản. Prompt chạy được: hướng D3
+  ở `ky-kham-lanh-chua/gemini/test/vong-si-6/` (cả 3 hướng Tác giả chấm Đạt). Đọc nguyên chương 1 bộ mẫu trước khi soạn
+  prompt đoạn mở.
 
 Chi tiết: `references/mo-truyen-va-the-loai.md`, `references/mo-truyen-moi.md`, `references/sang-van.md`.
 
