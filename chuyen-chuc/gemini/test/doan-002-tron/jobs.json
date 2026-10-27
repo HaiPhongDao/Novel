@@ -1,0 +1,23 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\si-v42.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\prompt.txt",
+  "note": "SI v4.2",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\G1.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\thinking-G1.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-mc\\si-v42.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\prompt.txt",
+  "note": "SI v4.2 lan 2",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\G2.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\thinking-G2.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\si-toi-thieu.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\prompt.txt",
+  "note": "SI toi thieu",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\G3.md",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\doan-002-tron\\thinking-G3.md"
+ }
+]

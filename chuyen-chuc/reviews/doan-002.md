@@ -35,3 +35,18 @@ Chẩn đoán: thoại MC ở 001q và 002a/b/c toàn lệnh trơn / từ chối
 **Kết luận.** Sửa SI là chỗ ăn (d > f > e). Brief soạn sẵn hành động cho MC (đưa tiền, chỉ đường) thì Writer nói hộ brief thành lệnh/dặn dò; để SI lo giọng, brief chỉ cho tình huống thì MC tự tìm thứ để nói.
 
 Lỗi canon: d "临渊城建城六十年", 韩啸 thành 副统领 (mới, chấp nhận được); e bố 赵小川 "死在铁矿洞" ✗ (canon: què chân); f "普通成年人…三点到四点" ✗, "外城死了一半人" ✗.
+
+## Vòng 3 (27/10) — Tác giả: "Không đạt, thoại bộ này cực tệ" → thử prompt trơn để tách SI / prompt
+
+Prompt: "Viết đoạn mở đầu cho truyện mới khoảng 2000 chữ, bằng tiếng Trung." G1, G2 = SI v4.2; G3 = SI một dòng (mốc). Bản ở `gemini/test/doan-002-tron/`.
+
+| | Thoại MC |
+|---|---|
+| G1 (v4.2) | Với chủ sạp chê kiếm nặng: "2,800金币我拿走。" / "附送两块精铁磨石，少说两句废话。" Với quan đăng ký nghi ngờ: "传送门立在这里就是让人进的。" / "给我开噩梦模式，少耽误我两分钟，你还能多放一队人进去拿抽成。" |
+| G2 (v4.2) | 赵元 mời làm cửu vạn 500 金币: "你花了八万金币雇人，队里连背药水的人都凑不齐？" / "五百金币留着买伤药吧，免得在里面出不来。" |
+| G3 (mốc) | "理论考你排全校前十，魔能适应性测试是B+，只要心态稳住，保底是个辅助系。" / "多谢老师。" — ấm, sáo; lời kể đoạn dài, câu cliché (天地异象, "由他说了算"). |
+
+**Kết luận.** Cùng SI v4.2, prompt trơn cho MC thoại có răng (đáp trả, mỉa bằng số, muốn điều gì đó); prompt của truyện cho MC thoại cụt. → **lỗi ở prompt/brief**, không ở SI v4.2. Ba chỗ nghi:
+1. Dòng đầu brief "Tông lạnh, nghiêm túc" — Writer áp lên miệng MC.
+2. Brief soạn sẵn hành động MC (mua gì, từ chối, đưa tiền) → Writer chỉ chuyển hành động thành lệnh.
+3. Trong brief không ai **đẩy** MC: 赵小川 xin, chủ quầy bán/thương hại. G1/G2 tự tạo kẻ khinh MC (chủ sạp, quan đăng ký, 赵元) → MC có thứ để đáp trả.
