@@ -91,3 +91,29 @@ Không có nội dung, SI tự lộ ra ba việc:
 3. **SI chứa dữ kiện của truyện.** Cả ba bản đều có bức tường, thú triều và "còn 30 ngày" dù prompt không nói gì — vì luật N4 viết "the wall, the dead, the thirty days".
 
 **Thoại**: nhóm đông vẫn là người vô danh nói ra luật thế giới ("法师前期技能太少，施法还要原地站桩，单人根本没法练级。"). Chỗ thoại sống duy nhất là cảnh có **hai người có tên, mỗi người một mối bận tâm**: chủ nhiệm muốn xếp hai đàn anh kèm MC, MC từ chối ("学校可以安排两个二转的狂战士学长带你…" / "不用。" / "荒原上的变异兽不认人…" / "我心里有数。"). Bộ mẫu cũng vậy: ch1 hai thầy giáo có tên, xưng hô với nhau (刘主任). Kết luận: thoại hỏng chủ yếu vì **cảnh do brief giao là đám đông vô danh bình luận** và vì luật tông "grave, no jokes" bị áp cả lên nhân vật — đám đông của bộ mẫu sống nhờ cái thô, cái tục, cái khinh (你懂个屁, 啧啧), SI đã gọt hết.
+
+---
+
+# Vòng 5 — ba hướng sửa thoại X1/X2/X3 (27/10)
+
+- **X1 (j)**: SI v4 (tông nghiêm chỉ cho người kể, nhân vật được thô; luật lời kể tả cơ chế, bỏ danh sách từ nối; bỏ dữ kiện truyện khỏi SI; anchor lời kể ch6, anchor thoại đám đông thô ch8) + prompt b cũ.
+- **X2 (k)**: SI v3C + prompt có hai người có tên và mối bận tâm (赵小川 cần nghề chiến đấu để vào 镇渊军 lĩnh lương nuôi em; 何老 tới tuyển người cho hiệp hội).
+- **X3 (l)**: SI v4 + prompt X2.
+
+| | i (v3C, vòng 3) | j — X1 | k — X2 | l — X3 |
+|---|---|---|---|---|
+| 字 | 1.811 | 2.591 | 1.937 | 2.108 |
+| Lượt thoại | 16 | 33 | 25 | 22 |
+| Lượt đọc số trơn | 1 | 4 | 2 | 1 |
+| Lượt có phản ứng (hỏi, tiểu từ, chửi, ……) | 3 | 10 | 6 | 4 |
+| Chép anchor (8-gram) | 0 | 8 | 0 | 28 + **chép khung cả đoạn** |
+
+## Đọc thoại
+
+- **j** — Lần đầu đám đông thành người: "操，三十天，老天爷这是要逼死我们。" → "你还想切皮？先看看自己能不能转出战斗系吧。" → "要是转个F级的裁缝…你上去给蛮牛补裤头？" → "滚你妈的。" Mỗi lượt đáp lượt trước. Chỉ đổi SI (prompt cũ) mà thoại đã đổi → nguyên nhân chính là luật tông "nghiêm" bị áp lên nhân vật. Sai canon: "独自生活了十八年" (bố mẹ mất năm năm trước).
+- **k** — Có người có tên nhưng 赵小川 kể hoàn cảnh nhà mình cho bạn thân vốn đã biết ("我家里还有三个弟妹，我父亲断了腿…") — lại là lời kể trong ngoặc. 何老 chỉ đứng nhìn, không nói. Prompt có người mà SI cũ không cho họ thô thì vẫn là báo cáo.
+- **l** — Thoại hay nhất từ đầu tới giờ. 赵小川: "我要是转成个农夫，从钟楼跳下去能领抚恤吗？" / 江野: "领不到。" "镇守府刚改了告示，自绝的人扣发全额粮饷。" / "狗官。" Sau khi ra B级: "但我听说前线的治疗兵死得最快。" "魔兽专挑穿白袍的扑。" / "有军饷拿。" "先活到领钱的那天。" / "对，老子下个月能领二十枚金币了。" Đám đông: "三十万打底，有钱人家的孩子，命在娘胎里就标好价了。" **Lỗi**: chép khung anchor lời kể ch6 nguyên cả đoạn (觉醒了之后。他们就要考虑如何… / 一般这个时候。相熟的同学，就会凑在一起组队… / 家境优渥的，则是根据…特招要求… / 而底层的穷学生。则是打算…冲级 / 等级冲得越高…也就越大。); 何老 "四十一岁" lẫn với cấp 41.
+
+## Kết luận
+
+Thoại sửa được nhờ **cả hai**: SI cho nhân vật được thô (j) và prompt cho người có tên, có cái để lo (l). Còn lại một lỗi của SI: anchor lời kể bị chép thành khuôn đoạn (vòng 4 cũng thấy). Đề xuất **SI v4.1 = v4 bỏ anchor lời kể** (giữ luật N1–N4), chạy lại với prompt X2.
