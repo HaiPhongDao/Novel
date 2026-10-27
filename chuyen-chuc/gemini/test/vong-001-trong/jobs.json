@@ -1,0 +1,23 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-loike\\si-v3A.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\T-A.md",
+  "note": "trong v3A",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\thinking-A.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-loike\\si-v3B.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\T-B.md",
+  "note": "trong v3B",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\thinking-B.md"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-loike\\si-v3C.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\T-C.md",
+  "note": "trong v3C",
+  "think_out": "D:\\ClaudeCode\\Novel\\chuyen-chuc\\gemini\\test\\vong-001-trong\\thinking-C.md"
+ }
+]

@@ -71,3 +71,23 @@ Tác giả: SI thiếu nguyên tắc cho phần lời kể (phần lớn văn b�
 Nguyên tắc lời kể có tác dụng: cả ba bản v3 có giọng người kể (từ nối, lời phán, câu hỏi trong lời kể), ba bản trước có 0. Anchor lời kể **không cần**: i (luật lời kể, không anchor lời kể) hay nhất và 0 chữ chép; g (đủ anchor) chép 95 chữ. Mỗi hướng n=1, nên mới là dấu hiệu.
 
 Đề xuất: **SI v3C** làm SI của truyện; **bản i** làm gốc đoạn 001 (sửa 二中 → 一中). Chờ Tác giả đọc.
+
+---
+
+# Vòng 4 — prompt một dòng, không nội dung (27/10)
+
+Tác giả: v3 vẫn chưa đạt, thoại vẫn như cũ; thử prompt cực đơn giản. Prompt: "Viết đoạn mở đầu cho truyện mới, khoảng 2000 chữ, bằng tiếng Trung." + SI v3A/B/C. Bản: `gemini/test/vong-001-trong/T-{A,B,C}.md`.
+
+| | T-A (v3A) | T-B (v3B) | T-C (v3C) |
+|---|---|---|---|
+| 字 | 2.339 | 2.281 | 1.520 |
+| Lượt thoại | 13 | 14 | 14 |
+| Chép nguyên anchor (8-gram) | 16 | 68 | 90 (cả câu 砰！嗡——轰轰轰轰轰轰！漫天的伤害数字纷飞！ của anchor trận đánh) |
+
+Không có nội dung, SI tự lộ ra ba việc:
+
+1. **Anchor thành khuôn cốt truyện.** T-A và T-B dựng lại nguyên khung anchor N1: "在进行觉醒之前…学校也是通过这些数据…而陈牧。力量10点…" — MC lại có bốn chỉ số 10 như 陆苍. T-B chép tiếp N3 (瞳孔微微缩起。这……) và N2 (至于…确实有卖。但…林越买不起。).
+2. **Danh sách từ nối trong luật N2–N4 thành checklist.** T-C (không anchor lời kể) gom cả danh sách vào một đoạn theo đúng thứ tự trong SI: 至于… / 确实… / 但… / 而且… / 所以… / 要知道… / 也就是说… / 这……真的…？ / 岂不是…？ / 按理说…
+3. **SI chứa dữ kiện của truyện.** Cả ba bản đều có bức tường, thú triều và "còn 30 ngày" dù prompt không nói gì — vì luật N4 viết "the wall, the dead, the thirty days".
+
+**Thoại**: nhóm đông vẫn là người vô danh nói ra luật thế giới ("法师前期技能太少，施法还要原地站桩，单人根本没法练级。"). Chỗ thoại sống duy nhất là cảnh có **hai người có tên, mỗi người một mối bận tâm**: chủ nhiệm muốn xếp hai đàn anh kèm MC, MC từ chối ("学校可以安排两个二转的狂战士学长带你…" / "不用。" / "荒原上的变异兽不认人…" / "我心里有数。"). Bộ mẫu cũng vậy: ch1 hai thầy giáo có tên, xưng hô với nhau (刘主任). Kết luận: thoại hỏng chủ yếu vì **cảnh do brief giao là đám đông vô danh bình luận** và vì luật tông "grave, no jokes" bị áp cả lên nhân vật — đám đông của bộ mẫu sống nhờ cái thô, cái tục, cái khinh (你懂个屁, 啧啧), SI đã gọt hết.
