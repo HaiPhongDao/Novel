@@ -92,7 +92,7 @@ python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt --prom
 - Đừng sửa `tools/aistudio-ext/` khi có job chạy (extension tự reload, job treo tới timeout). Nghi bridge hỏng →
   probe 1 dòng SI + 1 dòng prompt, `--out tools/.probe/out.md`.
 - **Nhiều bản cùng lúc**: `--batch jobs.json` ([{si, prompt, out, note?, model?, thinking?}]), mỗi tài khoản /u/0–2 một tab.
-  Edge nạp extension từ `D:\ClaudeCodeistudio-ext` (bản chép): sửa extension thì chép sang đó. AI Studio đang để chat
+  Edge nạp extension từ `D:\ClaudeCode\aistudio-ext` (bản chép) XXXistudio-ext` (bản chép): sửa extension thì chép sang đó. AI Studio đang để chat
   tạm (URL giữ `new_chat`), nên **gửi tiếp vào chat cũ không được** — đoạn kế chạy `--new` kèm tiền tình + nguyên văn cuối đoạn trước.
 - `Failed to generate content` / `No tab with id` là lỗi tạm: chạy lại y nguyên lệnh sau 20–45 giây.
 - "Extension không nhận việc sau 90s" sau một lần bị cắt → tiến trình cũ giữ cổng 8765: `netstat -ano | grep :8765`, `Stop-Process`.
