@@ -134,3 +134,26 @@ Prompt X2b = X2, chỉ sửa 何老 thành "từng lên tới cấp 41, nay ngo�
 - Kết đoạn tốt: C级 → 何老 nhổ thuốc → 【天赋：X级】 → 【您的职业正在进化……】.
 
 **Kết luận.** Một bản không tách được "anchor N giúp thoại" với nhiễu giữa các lần chạy. l và m chỉ khác anchor N, nhưng thoại chênh 1 vs 8 lượt đọc số — cần ≥2 bản mỗi SI mới kết luận được.
+
+## Vòng 7 (27/10) — tách nhiễu: SI v4 ×2 (n, o), SI v4.1 ×2 (p, q), cùng prompt X2b
+
+| Bản | SI | 字 | Thoại / đọc số trơn | Chép từ anchor |
+|---|---|---|---|---|
+| l | v4 | 2.108 | 22 / 2 | khung đoạn N |
+| n | v4 | 1.855 | 31 / 5 | khung đoạn N ("如果是战系。/哪怕只是个D级或者C级…要是不幸…") + nguyên câu anchor T "你懂个屁，有背景的人升级有多快，你根本想不到。" |
+| o | v4 | 2.093 | 25 / 3 | khung đoạn N ("只要觉醒出…/哪怕仅仅是一个普通的B级…若是转职失败…") |
+| m | v4.1 | 1.754 | 30 / 8 | 0 |
+| p | v4.1 | 1.975 | 23 / 2 | 0 |
+| q | v4.1 | 2.169 | 35 / 8 | 0 |
+
+**Kết luận.**
+1. Anchor lời kể N bị chép khung **3/3** bản v4, bỏ đi thì **0/3**. Lỗi do anchor, không phải nhiễu. → SI chốt là v4.1.
+2. Chất thoại không đi theo anchor: v4.1 cho cả bản tốt nhất (p) lẫn hai bản tệ (m, q). Đây là nhiễu giữa các lần chạy → chọn bản, không sửa SI thêm.
+3. Lỗi lặp 4/6 bản: 赵小川 kể hoàn cảnh nhà cho bạn đã biết (M3 đã cấm, không ăn). Ở o và p hoàn cảnh nằm trong lời kể, thoại thành hỏi–đáp có việc.
+4. Lỗi prompt: "MC là người xuyên việt" không nói lúc nào → o "三年前", q "整整五年". Brief sau ghi "xuyên lúc sơ sinh, không nhắc".
+
+**Bản tốt nhất: p.**
+- Đám đông: "慌有个屁用，转出个生活职业，下个月照样去运滚木。"/"运滚木总比顶在城头送命强。"/"城墙要是塌了，躲在地窖里也得让凶兽嚼烂。"
+- Hai tuyến người nối nhau: 赵小川 hỏi "后方医治营能预支军饷吗？", 江野: "去找何老，协会的野队收随队医师，一趟给3枚金币。" — cậu đi thẳng tới lều của 何老.
+- 何老 nhìn MC: ba năm, hơn 700 xe, "C级赏金猎人。/跟他当年一模一样。"
+- Cần sửa: "响起一片咽口水的声音" (tật của bộ mẫu); "四年前在渊口外围断了整条左臂" (canon: cụt tay, chưa định năm — để vậy được); "几十万人口" ≠ 600 vạn.
