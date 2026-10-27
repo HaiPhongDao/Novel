@@ -1,0 +1,20 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\si-dan-gemini-v1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\prompt-a.txt",
+  "out": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\a.md",
+  "note": "a"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\si-dan-gemini-v1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\prompt-b.txt",
+  "out": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\b.md",
+  "note": "b"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\si-dan-gemini-v1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\prompt-c.txt",
+  "out": "D:\\ClaudeCode\\Novel-de-quoc\\khong-binh\\gemini\\test\\doan-001\\c.md",
+  "note": "c"
+ }
+]

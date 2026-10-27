@@ -25,7 +25,7 @@
 - Kho bạc 督政官邸: **312 金币**.
 - Láng giềng: 黑石属地 (phía bắc, 督政官 ba sao 巴尔萨泽, tham), thành tự do 维林港 (cuối sông; thương nhân phàm nhân buôn bán dưới bảo hộ thương hội pháp sư).
 
-## Năng lực của MC (hợp đồng bàn tay vàng — KN10) — CHỜ TÁC GIẢ DUYỆT
+## Năng lực của MC (hợp đồng bàn tay vàng — KN10) — Tác giả duyệt 27/10
 - **Có:** trí nhớ tuyệt đối mọi thứ kiếp trước từng đọc/thấy (sách, tài liệu, bản vẽ, lịch sử). Gọi lại như lật sách; không có cây tri thức phát sáng, không có giao diện.
 - **Có (hệ quả của 0 ma lực):** 魔视 không thấy anh — với pháp sư anh "trống" như một cái ghế. Phép tinh thần, truy tung, nguyền rủa không bám được. Máy anh làm cũng "trống": pháp sư không nhận ra nó nguy hiểm cho tới khi nó chạy.
 - **Không có:** ma lực, cảm ứng ma tố, sức vóc hơn người, tay nghề — biết cách làm không có nghĩa tay làm được, phải có thợ.
