@@ -53,9 +53,16 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
 
 ## 2. Luật brief (luôn áp dụng)
 
-- **Ngắn ở phần dặn cách viết, đủ ở phần dữ kiện.** Bỏ dặn văn, giữ: dòng thân phận mỗi người có mặt (`ai + vai + một
-  dấu hiệu`), một dòng xưng hô, số liệu kèm đơn vị/tỷ giá, ai giữ quyền trong cảnh. Thiếu dữ kiện thì lỗi chuyển từ văn sang canon.
-- **Mở bằng khối nối tiếp**: 7–10 dòng cuối (~150–200 字) của bản **đã duyệt** (`python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`),
+- **Ngắn ở phần dặn cách viết, đủ ở phần dữ kiện.** Dữ kiện thiết lập (thân phận, ngoại hình, xưng hô, nơi chốn, số
+  đang chạy) nằm trong State JSON — tên Hán kèm Latin trong ngoặc — không xếp ở đầu brief; Writer đọc phần đầu
+  prompt làm trọng tâm. Thiếu dữ kiện thì lỗi chuyển từ văn sang canon.
+- **Brief mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng.** "Mở ngay sau câu X" hay mục "Mở" làm Writer
+  dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
+- **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,
+  để Writer tự đặt tên vật. Gạch đầu dòng cụt và chữ rút gọn được dịch thành từ lạ: "phủ" → 官邸 dùng như bộ máy,
+  máy dịch ra "biệt thự định giá". Glossary phải có từ cho cả nơi ở lẫn bộ máy cai trị.
+- **Không dặn "đáp bằng phép tính"** — Writer ném nguyên bài toán vào văn; đưa con số như sự thật của cảnh.
+- **Khối nối tiếp do gói cấp** (`build_pack.py` dán đuôi đoạn trước; truyện cũ dùng `noi_doan.py`): 7–10 dòng cuối (~150–200 字) của bản **đã duyệt** (`python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`),
   câu "viết tiếp từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Thiếu khối này thì 5/5 mối nối đứt.
 - **Không câu tiếng Trung nào trong brief** ngoài tên riêng/thuật ngữ ngắn — Writer chép nguyên làm mở đoạn, mọi điểm thành điểm giả.
 - **Không đánh số beat, không giao nội dung từng lượt thoại** — giọng chết ở prompt. Số lượt và độ dày thoại do phạm vi
@@ -122,6 +129,7 @@ Chi tiết: `references/chay-writer.md`.
 - **Cột 0 không phải bằng chứng sạch**: grep tay `如.{1,8}般|如铁|如鹰` và `(平静|冷冷|淡淡|轻声)地(说|道|命令|问|开口)` trước khi báo ĐẠT.
 - **Đo nhiễu trước khi nhận công**: cùng SI + prompt đã ra 0 và 5 cặp phủ định. Quy về mật độ/1.000 字, chỉ ĐẠT khi ra khỏi
   biên độ hai lần chạy y hệt. Tật sinh từ đoạn nền/nội tâm, không từ số 字.
+- **Bản Tác giả khen có phần là lượt may**: cùng prompt + SI chạy lại không ra lại được chất lượng đó; đừng coi prompt ấy là công thức chắc, so ít nhất một lần chạy lại.
 - **Lỗi tầng luật chứng minh bằng một lần chạy Writer** cùng brief cũ ở chat mới, không bằng bản Agent sửa tay.
 - **Tác giả nói "ngang nhau / đều đạt" là hết vòng tối ưu** — chốt một bản, ghi log, sang đoạn kế.
 - **Tác giả chọn bản khác bản mình khuyên → lấy bản của họ làm gốc.**
@@ -139,29 +147,21 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
   (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
 - Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
-- **Luật "mọi lượt thoại có thẻ" + anchor gắn thẻ cả tám dòng = lượt nào cũng kết bằng `X 说道`**, kể cả hai ba lượt
-  liền của một người (Tác giả đọc ra ngay). Luật đúng: thẻ chỉ ở chỗ cần biết ai nói, tối đa một lượt trong ba,
-  không bao giờ hai lượt liền của một người cùng gắn thẻ — đo cùng truyện: 15 thẻ → 1. Lúc chép SI sang truyện
-  mới, soát câu chữ của luật thẻ và lời bình anchor trước khi chạy.
+- **Danh sách ví dụ trợ từ (呢, 吧…) trong luật thoại bị Writer nhồi vào mọi lượt**; bỏ một chữ khỏi danh sách không đủ — phải có hạn mức (phần lớn lượt không trợ từ, 呢 ≤2/đoạn). Luật thẻ thoại, thước chủ ngữ, số đo: `references/si-cau-truc.md` mục 12–13.
 - Không bịa anchor; kiểm bằng `scripts/verify_anchors.py` — `references/si-anchors.md`.
 - Nghi SI "không làm việc" → test trên cảnh mẫu có đáp án, hai cảnh khác loại — `references/si-test-tren-mau.md`.
 - Tác giả gửi link SI: repo private, đọc từ bản clone và nói rõ đời nào (+3–4 khác biệt).
 - **Test một lỗi Tác giả bảo sửa: 3 hướng khác nhau, mỗi hướng 1 bản, chỉ gửi 3 bản** (vd luật trong SI / neo nguyên văn
   bộ mẫu / dồn vào prompt). Máy soát trước (tên lọt, số, thước đo của lỗi đó); bản chưa qua máy thì chạy lại, không gửi.
   Tác giả đọc tối đa ~4 bản một vòng; 10–12 bản (2 lần × mỗi biến thể) là quá nhiều (27/10, ky-kham-lanh-chua).
-- **Thước chủ ngữ người trong lời kể** (他/她 + tên MC mỗi 1000 字 lời kể): bộ 骑砍 mẫu trung vị 9,0 + 9,3 = 18,7. Luật SI
-  đẩy Writer từ ~12 lên ~16 nhưng dao động giữa các lần chạy lớn hơn tác dụng luật; Tác giả chấp nhận mức 10–14 khi
-  đoạn mở đi theo kiểu người kể tóm lại (`ky-kham-lanh-chua/gemini/test/vong-cn-1/ghi-chu.md`).
-
-Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references/si-khong-ban-tay-vang.md`, `references/giong-mc-hien-dai.md`.
-
-## 6. Mở truyện, thể loại
-
 - Đọc bảng truyện ở `README.md` gốc trước: truyện mới phải khác **trục**, không chỉ khác bối cảnh.
 - Tác giả đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai.
 - 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
 - Đoạn 001: chạy 3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào `reviews/doan-001.md`.
 - Mỗi thể loại một SI dựng từ dấu hiệu đo được của bộ mẫu; mẫu tải về có thể hỏng — đếm thân chương trước.
+- **Dàn ý sau đoạn mở cũng bám từng chương bộ mẫu**: mỗi đoạn một màn phô diễn → người chứng kiến hiểu sai theo cách
+  nghĩ của họ → MC thắng thấy rõ, một con số lớn. Đoạn chỉ có mua bán, ký kết, đếm sổ thì Tác giả đọc ra "bình bình,
+  một đống thiết lập" dù văn sạch; luật bible chặn công nghệ đi nhanh là nguyên nhân gốc — chặn bằng giá, đừng chặn bằng nhịp.
 - **Đoạn mở lane xuyên việt: chép thứ tự của chương 1 bộ mẫu, không dựng cảnh tỉnh dậy.** 骑砍 mẫu mở nửa năm sau khi
   xuyên qua: nơi chốn → đã bao lâu → bảng cho làm được gì → một nhận định được/mất kiểu kể chuyện cười → số liệu thế
   giới → cảnh đang chạy. Bắt mở lúc tỉnh dậy + cho phản ứng nhịp riêng thì Tác giả đọc ra "cố làm ra vẻ, chỉ đúng 1
