@@ -46,29 +46,32 @@ Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở m�
 ### Đoạn 4 — ngày bán gương đầu (mắt 赫伯特)
 Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi gương tay, hai gương đứng; ông biết giá vốn 6 银币, giá bán 2 金币. Một thuyền buôn 维林港 ghé vì phí bến hạ; khách rụt tay không dám chạm, mơ bán cho nội quyến pháp sư 中环 giá 5 金币; mỗi thuyền chỉ được 8 tấm, ông ta trả 16 金币. Thêm thuyền: một thuyền lúa mua 5 tấm và dỡ 200 袋 lúa mạch đen ở bến; một lái buôn vải mua 7 tấm còn lại. Gương đứng có người trả 12 金币, 赫伯特 giữ 15. Một buổi sáng 40 金币 — bằng mấy tháng thuế cả thuộc địa (cả năm ~300 金币). 赫伯特 nghĩ thật về câu "tiêu vào đâu" và chuyện giá gương sẽ rơi. Chiều, một người đàn ông áo nỉ xám không đeo vàng bạc vuốt mép gương đứng, soi ra nắng: thợ 维林港 mài ba tháng không nổi, hai mươi tấm giống hệt nhau không phải tay người. 赫伯特 đáp tránh. Người kia xưng 西蒙·拉斐 — 拉斐商会 nắm một phần ba buôn lúa và gỗ hạ du. 赫伯特 mời ngồi dâng trà, sai lính chạy về phủ.
 
+### Đoạn 5 — 2.000 金币 và lò đứng
+洛伦 cùng 加尔文 tới kho. 西蒙 nói thẳng: gương ra từ máy, ông không cần biết máy, chỉ cần hàng — ở 维林港 gương tay bán 5 金币, vào nội quyến pháp sư 中环 8 金币 trở lên. Ông đề nghị 2.000 金币 mua quyền mua độc quyền mọi thứ 锈河 làm ra trong ba năm. 赫伯特 suýt đánh rơi sổ (gần bảy năm thuế); 加尔文 bảo số ấy mua được ba trang trại nho. 洛伦 cười lâu, rồi kể chuyện "sách cũ ở quê": phú thương mua đứt nồi của người thợ rèn có búa nước, người thợ dựng thêm ba mươi búa ở hạ du, kho nồi thành sắt vụn. 西蒙 hiểu ý — cược vào bàn tay làm ra đồ — nhưng hỏi: trong kho chỉ còn hai tấm gương, cậu lấy gì đòi giá cao hơn. 洛伦 dẫn ra bãi sông: cạnh lò rèn 玛尔塔 là lò đứng đất sét cao hơn hai người, bễ piston đập đều, mấy chục sọt cát đen nặng chờ nạp. 加尔文 魔视 thấy toàn xám chết, ngáp, hỏi có phải nung gạch. 洛伦 đứng chắn tầm nhìn của 西蒙 vào bễ. 玛尔塔: "đáy lò thành canh rồi". 洛伦 bảo 西蒙 nhìn lỗ tháo, gật đầu; que sắt chọc vỡ nút đất.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 4)
+## 3. Trạng thái hiện tại (hết đoạn 5)
 
-**Thời điểm:** chiều, khoảng ngày thứ 13 sau khi tỉnh; còn khoảng 107 ngày tới 秋税日.
-**Có mặt:** kho bến 锈河镇 — 赫伯特, 西蒙·拉斐 (vừa được mời ngồi), lính canh; một lính đang chạy về phủ mời 洛伦.
+**Thời điểm:** chiều ngày bán gương đầu (khoảng ngày 13); còn ~107 ngày tới 秋税日.
+**Có mặt:** bãi sông cạnh lò rèn — 洛伦, 西蒙, 加尔文 (đứng năm bước ngoài, vừa ngáp), 赫伯特 ôm sổ, 玛尔塔 cầm que sắt ở lỗ tháo, hai thợ phụ kéo bễ.
 
-**Nhân vật chính biết** (洛伦 ở phủ, chưa biết 西蒙 tới)
-- Lò chạy ngày đêm; gương đã thành (mài phẳng, tráng thiếc-thủy ngân, khung bạch dương).
+**Nhân vật chính biết**
+- 西蒙 đề nghị 2.000 金币 cho quyền mua độc quyền ba năm; anh chưa nhận.
+- Mẻ đầu của lò đứng sắp tháo: sắt luyện từ cát đen đỏ của sông.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Ngày tới 秋税日 | ~107 |
 | Thiếu cống | 2.500 袋 = 500 金币 |
-| Kho bạc | 312 + 40 金币 bán gương (chưa trừ vốn: 20 × 6 银币 = 6 金币) |
-| Gương | đã bán 20 tay; còn 2 đứng (15 金币, có người trả 12 bị từ chối) |
-| Hạn mức | 8 gương tay mỗi thuyền |
-| Lúa về bến | một thuyền dỡ 200 袋 lúa mạch đen |
+| Kho bạc | 312 + 40 (gương) 金币 |
+| Đề nghị của 西蒙 | 2.000 金币 / độc quyền 3 năm |
+| Giá gương ở chợ khác | 维林港 5 金币; nội quyến 中环 8 金币+ |
 
 **Tuyến đang mở**
-- 西蒙 nghi gương làm bằng máy; muốn gặp 督政官.
-- 赫伯特 giữ kín lò, bễ, cát sông.
+- Thứ chảy ra từ lỗ tháo; 西蒙 sẽ trả giá lại.
+- 西蒙 đã để ý chiếc bễ.
 
 ---
 
@@ -96,38 +99,34 @@ Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi 
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
 
-中年人听到这个惊人的报价，脸上的神色依旧格外平静。
-他动作从容地从袖袋里取出一方细棉手帕，轻轻拂去指腹沾染的微尘。
-“十五个金币公道得很，只是在下心中有些疑惑呢。”
-赫伯特微微一怔，握着账册的五指收紧了些许。
-“客官有话不妨直说吧。”
-中年人转头指向那面光洁明亮的大镜，眼底带着探究的神色。
-“维林港最顶尖的水晶琢磨匠人，用最细的金刚砂打磨三个月，也磨不出这般平整的玻璃大板。”
-“更何况，刚才在栈桥边上，在下见到了几位客商手里捧着的手镜。”
-他收回了视线，目光重新落在老书记官身上。
-“那些手镜上的玻璃面，规格完全一致，厚薄整齐划一。”
-“就算是帝都最高明的法师工匠，仅凭一双手，也做不出两块完全相同的镜坯子来。”
-仓库里的空气骤然冷了下来。
-赫伯特后背的汗毛根根直立，额头上渗出了一层细细的冷汗。
-他紧紧抿着嘴唇，脑海中飞快闪过洛伦少爷临行前的郑重吩咐。
-工坊里的机密关乎全领地的生计，哪怕烂在肚子里，也不能向外人吐露半句。
-老书记官弓着身躯站起身来，脸上挤出一抹卑微的笑容。
-“小人不过是个照章当差的书记官，工坊里的手艺诀窍，向来只有督政官大人亲自处置呢。”
-中年人闻言轻笑了一声，并未在这个话头上继续纠缠。
-他稍稍整理了一下衣袍的翻领，朝着面前这位惶恐的老人微微躬身。
-“是在下唐突了，鄙人西蒙·拉斐，从维林港而来。”
-西蒙·拉斐四个字传入耳中，赫伯特脚下一个踉跄，险些撞翻身旁的木架。
-老书记官的胸膛急剧起伏，鼻梁上的眼镜滑到了嘴角边都忘了扶正。
-顺着锈河一路向下直至出海口，航运水道上人人都知晓拉斐商会的名头。
-这个庞大的家族掌控着下游三分之一的粮食与木料生意，背后依托着中环的数位高星法师。
-西蒙·拉斐寻常只在维林港的议事大厅接见城邦领袖，外环属地的督政官往往很难与其搭上话。
-这样一位威名赫赫的巨商，居然为了几面玻璃镜子，亲自站在了这间满是灰土的简陋仓库里。
-赫伯特深吸了一口气，强行压制住发软的双腿，朝着对方郑重躬身行礼。
-“不知拉斐阁下大驾光临，小人失敬了，还请阁下上座奉茶吧。”
-话音刚落，他侧过身子，对着门边值守的一名家族卫兵使了个急切的眼色。
-“快，去督政官邸通报少爷，就说维林港的贵客到了！”
-卫兵领命，拔腿便朝着门外飞奔而出，在岸边扬起了一长串浮尘。
+圆柱形的炉身比两个成年男子的身高还要高出些许，炉壁用红黏土混合着细砂浆层层加固。
+暗红色的火光透过炉顶的加料口向外喷吐，将周遭数丈的空气烘烤得微微扭曲。
+在黏土高炉的底座侧面，巨大的木质双动活塞风箱正在规律地前后推动。
+两个光着膀子的铁匠学徒合力拉动着连杆，伴随着沉闷的呼啸，狂暴的空气源源不断地压入炉膛深处。
+炉腹部位的火苗呈现出刺目的明黄色，那是寻常炭火很难达到的极高温度。
+加尔文站在五步之外，双瞳泛起一层极其微弱的蓝光。
+在他的魔视观察之下，眼前的土炉子和巨大的木盒子完全是一片死寂的灰白色。
+这里没有哪怕一丝魔力的流动，纯粹就是由泥巴、木头和炭火拼凑出来的笨重粗活。
+这位二星法师收回了视线，懒洋洋地打了个哈欠。
+“折腾了半个月，洛伦少爷，您就是带着两个泥脚在河滩上烧砖瓦么？”
+西蒙的脚步却停在了炉子十步开外的位置，目光在那个飞速抽动的木箱上停留了很久。
+做大宗木料生意的商人，对这种新奇的箱体结构展现出了异乎寻常的警觉。
+每一次推拉都伴随着持续的风声，这绝非普通铁匠铺里那种风囊可以比拟的效率。
+洛伦侧过身子，正好挡住了西蒙探寻风箱进气阀门的视线。
+他可没打算给这位维林港的大商人上一堂器械构造课，工坊里的核心机密迟些日子才会公开。
+技术构想是领地最锋利的底牌，多保留一天，就能多赚取十倍的利润。
+炉膛边上堆放着几十筐沉重的黑色砂粒，那是学徒们从锈河红水里淘洗出来的重砂。
+玛尔塔裹着厚重的硬牛皮围裙，手里握着一根足有一丈长的粗铁钎。
+女铁匠的脸上沾满了黑色的炭灰，两只眼睛死死盯着炉底那处被耐火黄泥封死的出料口。
+“玛尔塔，炉温到候了么？”洛伦停下脚步，向着炉前的女铁匠开口询问。
+“回大人，底下的料已经化成稀汤了，再憋着就要把炉底烧穿啦！”玛尔塔转过头大声回应着，嗓音格外粗粝。
+西蒙站在洛伦身侧，闻言微微蹙起了眉头。
+高大的泥炉子里只散发着粗糙的焦糊热力，泥土的腥气压过了所有矿石的气味。
+在他眼里，偏远外环的穷酸属地，根本不可能凭空变出比玻璃镜子更值钱的货物。
+“西蒙先生，看好了那处出渣口吧。”洛伦转头看向身旁的商人，随即朝着玛尔塔微微点了点头。
+女铁匠低喝了一声，双臂骤然发力，沉重的铁钎借着全身的重量狠狠捅向封堵的泥口。
+黄泥碎裂的脆响瞬间被炉底沉闷的轰鸣声淹没。
 
-(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)

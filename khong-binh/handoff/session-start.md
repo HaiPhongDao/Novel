@@ -38,32 +38,32 @@ Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở m�
 ### Đoạn 3 — chiếc bễ và mẻ thủy tinh đầu
 Ở lò rèn bờ sông, 洛伦 ngồi bệt lắp 双动式活塞风箱, gạt một van rèn lệch, giảng cho hai thợ phụ. Kéo thử: gió hai chiều, lửa trắng, sắt mềm trong nửa phút. 加尔文 nhìn bằng 魔视: gỗ và sắt trống trơn — "小孩子的玩具". 玛尔塔: than 5 银币/xe, đốt ba xe/ngày, lò của chồng không phải chỗ cậu ấm phá. 洛伦 tính: gương tay 2 金币 = 40 银币 = 8 xe than; gương đứng 15 金币. Đãi cát trong máng: phần đỏ đen nặng chìm (洛伦 biết là quặng, không nói), phần cát trắng trộn tro, vôi, nấu trong nồi đất → khối thủy tinh đục, xanh, nhiều bọt; 玛尔塔 soi ra nắng. Tối: 赫伯特 tính 300 tấm gương lấp 500 金币; 洛伦: hàng nhiều thì rớt giá như lúa được mùa; gương bán hạn mức theo tháng, máy không bán, bốn lính canh lò. Phí bến 2 银币 → 50 铜币, thuyền chở lúa miễn một năm. 加尔文 mỉa ai thèm trộm hộp gỗ. 洛伦 hỏi tiền về tiêu đâu trước; 赫伯特: lấp cống, mua giống ở 黑石; 洛伦: dựng xưởng cưa và búa máy chạy sức nước bên bãi sông — rồi im.
 
+### Đoạn 4 — ngày bán gương đầu (mắt 赫伯特)
+Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi gương tay, hai gương đứng; ông biết giá vốn 6 银币, giá bán 2 金币. Một thuyền buôn 维林港 ghé vì phí bến hạ; khách rụt tay không dám chạm, mơ bán cho nội quyến pháp sư 中环 giá 5 金币; mỗi thuyền chỉ được 8 tấm, ông ta trả 16 金币. Thêm thuyền: một thuyền lúa mua 5 tấm và dỡ 200 袋 lúa mạch đen ở bến; một lái buôn vải mua 7 tấm còn lại. Gương đứng có người trả 12 金币, 赫伯特 giữ 15. Một buổi sáng 40 金币 — bằng mấy tháng thuế cả thuộc địa (cả năm ~300 金币). 赫伯特 nghĩ thật về câu "tiêu vào đâu" và chuyện giá gương sẽ rơi. Chiều, một người đàn ông áo nỉ xám không đeo vàng bạc vuốt mép gương đứng, soi ra nắng: thợ 维林港 mài ba tháng không nổi, hai mươi tấm giống hệt nhau không phải tay người. 赫伯特 đáp tránh. Người kia xưng 西蒙·拉斐 — 拉斐商会 nắm một phần ba buôn lúa và gỗ hạ du. 赫伯特 mời ngồi dâng trà, sai lính chạy về phủ.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 3)
+## 3. Trạng thái hiện tại (hết đoạn 4)
 
-**Thời điểm:** tối ngày thứ hai sau khi tỉnh; còn 119 ngày tới 秋税日.
-**Có mặt:** bàn ăn 督政官邸 — 洛伦, 赫伯特, 加尔文.
+**Thời điểm:** chiều, khoảng ngày thứ 13 sau khi tỉnh; còn khoảng 107 ngày tới 秋税日.
+**Có mặt:** kho bến 锈河镇 — 赫伯特, 西蒙·拉斐 (vừa được mời ngồi), lính canh; một lính đang chạy về phủ mời 洛伦.
 
-**Nhân vật chính biết**
-- Bễ piston hai chiều chạy tốt (đang kéo tay; bánh xe nước chưa làm). Lò đốt ba xe than/ngày.
-- Mẻ thủy tinh đầu đục, xanh, bọt — chưa thành gương (còn phải ủ, mài phẳng, tráng bạc/thiếc-thủy ngân).
-- Cát sông đãi ra hai phần: cát trắng (thủy tinh) và cát đỏ đen nặng (quặng sắt — chỉ mình anh biết).
+**Nhân vật chính biết** (洛伦 ở phủ, chưa biết 西蒙 tới)
+- Lò chạy ngày đêm; gương đã thành (mài phẳng, tráng thiếc-thủy ngân, khung bạch dương).
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Ngày tới 秋税日 | 119 |
-| Thiếu | 2.500 袋 = 500 金币 |
-| Kho bạc | 312 金币 |
-| Giá gương | tay 2 金币, đứng 15 金币 |
-| Than | 5 银币/xe; lò mới 3 xe/ngày |
-| Phí bến | hạ từ 2 银币 xuống 50 铜币; thuyền chở lúa miễn một năm (năm ngoái ~30 thuyền) |
+| Ngày tới 秋税日 | ~107 |
+| Thiếu cống | 2.500 袋 = 500 金币 |
+| Kho bạc | 312 + 40 金币 bán gương (chưa trừ vốn: 20 × 6 银币 = 6 金币) |
+| Gương | đã bán 20 tay; còn 2 đứng (15 金币, có người trả 12 bị từ chối) |
+| Hạn mức | 8 gương tay mỗi thuyền |
+| Lúa về bến | một thuyền dỡ 200 袋 lúa mạch đen |
 
 **Tuyến đang mở**
-- Gương: bán hạn mức theo tháng cho thuyền buôn 维林港 lên tận nơi; máy không bán, lò có bốn lính canh.
-- 洛伦 định dựng xưởng cưa và búa máy sức nước bên bãi sông.
-- 加尔文 coi tất cả là đồ chơi của phàm nhân.
+- 西蒙 nghi gương làm bằng máy; muốn gặp 督政官.
+- 赫伯特 giữ kín lò, bễ, cát sông.
 
 ---
 
@@ -83,76 +83,83 @@ Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở m�
 
 工业时代最吃紧的便是钢铁与动力，现在整条河床的优质铁砂就铺在他眼皮底下。
 
+**Đoạn 4 — điểm nhìn người phụ, tính bằng sổ của họ**
+
+要是把这批精细物件运回维林港，转手卖给中环那些高星法师的内眷，一面开价五个金币也有人争抢。
+
+若是拿去打点商会的二星法师主管，今年下半年的通关文牒就能顺顺当当到手。
+
 ---
 
-## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 4 (để nối mạch và giữ giọng)
 
-但即便是一块浑浊的玻璃疙瘩，在午后的阳光照射下，也折射出了一道道令人移不开眼的光斑。
-玛尔塔用铁钳夹起那块硬疙瘩举到眼前，粗糙的脸上满是惊愕。
-这种晶莹透光的好东西，以往只有行商的马车开进镇子时，平民才有机会隔着栏杆看上一眼。
-夜幕降临的时候，督政官邸的长木桌上摆出了一盆咸干芜菁和切成硬块的黑麦面包。
-赫伯特戴着铜框眼镜，手里的鹅毛笔在羊皮纸上算得飞起。
-“回大人！两枚金币一面镜子，除掉炭钱和木框，咱们只要做三百面，就能补上五百个金币的亏空！”
-老书记官满面通红，这是洛伦苏醒以来，老头子脸上第一次露出活人该有的喜色。
-洛伦掰开坚硬的面包，就着一碗温水咽了下去。
-“真要一口气拿出三百面镜子，市面上就没人肯出两个金币了。”
-赫伯特愣了一下，握着笔的指节僵在了半空。
-“好东西一旦堆成了山，价钱跌得比路边的烂菜叶还要利索，就跟丰收年景的麦子卖不上价一样。”
-洛伦放下了手里的粗陶碗，神色严肃地看向老书记官。
-“镜子只能按月限量放给商队，机器更不能卖给外人，铁匠铺从明天起加派四个卫兵守着。”
-加尔文·莫兰坐在一旁切着干肉，随口嗤笑了一声。
-“一个凡人用的木头箱子，连半点魔力都没有，谁会费心思去偷它。”
-洛伦抬眼看向卫队长，手指敲击着桌面。
-“魔导议会的老爷们确实看不上凡人的箱子，但能让凡人工匠多打十把铁剑的法子，在有心人眼里比金子还要惹眼。”
-他转过头，看着满脸患得患失的老书记官。
-“维林港的商船以前停靠咱们这里，每次要收两个银币的停泊税，一年到头才来三十来艘。”
-“传令下去，把码头停泊税降到五十个铜币，运粮食进来的商船免收一年。”
-“把商贩引到镇子里来，我们只在自己的地盘上收银币。”
-赫伯特在账本上飞快记下一笔，呼吸重新变得急促起来。
-洛伦看着桌上的旧油灯，忽然开口问了一句。
-“赫伯特，等这些镜子换成了沉甸甸的金币，你觉得咱们该先往哪儿花？”
-赫伯特扶了扶鼻梁上的铜眼镜，小心翼翼地应声。
-“回大人，自然是把秋税的亏空平掉，再去黑石属地多买些抗冻的冬小麦种子……”
-洛伦摇了摇头，嘴角扯出一抹极淡的笑意。
-“买粮食不过是保命的下策。”
-“要在这片荒地上站稳脚跟，手里有了钱，第一件事就是把河滩上的水力锯木厂和水力锻锤立起来。”
-他把剩下半块面包塞进嘴里，没有继续往下说。
+中年人听到这个惊人的报价，脸上的神色依旧格外平静。
+他动作从容地从袖袋里取出一方细棉手帕，轻轻拂去指腹沾染的微尘。
+“十五个金币公道得很，只是在下心中有些疑惑呢。”
+赫伯特微微一怔，握着账册的五指收紧了些许。
+“客官有话不妨直说吧。”
+中年人转头指向那面光洁明亮的大镜，眼底带着探究的神色。
+“维林港最顶尖的水晶琢磨匠人，用最细的金刚砂打磨三个月，也磨不出这般平整的玻璃大板。”
+“更何况，刚才在栈桥边上，在下见到了几位客商手里捧着的手镜。”
+他收回了视线，目光重新落在老书记官身上。
+“那些手镜上的玻璃面，规格完全一致，厚薄整齐划一。”
+“就算是帝都最高明的法师工匠，仅凭一双手，也做不出两块完全相同的镜坯子来。”
+仓库里的空气骤然冷了下来。
+赫伯特后背的汗毛根根直立，额头上渗出了一层细细的冷汗。
+他紧紧抿着嘴唇，脑海中飞快闪过洛伦少爷临行前的郑重吩咐。
+工坊里的机密关乎全领地的生计，哪怕烂在肚子里，也不能向外人吐露半句。
+老书记官弓着身躯站起身来，脸上挤出一抹卑微的笑容。
+“小人不过是个照章当差的书记官，工坊里的手艺诀窍，向来只有督政官大人亲自处置呢。”
+中年人闻言轻笑了一声，并未在这个话头上继续纠缠。
+他稍稍整理了一下衣袍的翻领，朝着面前这位惶恐的老人微微躬身。
+“是在下唐突了，鄙人西蒙·拉斐，从维林港而来。”
+西蒙·拉斐四个字传入耳中，赫伯特脚下一个踉跄，险些撞翻身旁的木架。
+老书记官的胸膛急剧起伏，鼻梁上的眼镜滑到了嘴角边都忘了扶正。
+顺着锈河一路向下直至出海口，航运水道上人人都知晓拉斐商会的名头。
+这个庞大的家族掌控着下游三分之一的粮食与木料生意，背后依托着中环的数位高星法师。
+西蒙·拉斐寻常只在维林港的议事大厅接见城邦领袖，外环属地的督政官往往很难与其搭上话。
+这样一位威名赫赫的巨商，居然为了几面玻璃镜子，亲自站在了这间满是灰土的简陋仓库里。
+赫伯特深吸了一口气，强行压制住发软的双腿，朝着对方郑重躬身行礼。
+“不知拉斐阁下大驾光临，小人失敬了，还请阁下上座奉茶吧。”
+话音刚落，他侧过身子，对着门边值守的一名家族卫兵使了个急切的眼色。
+“快，去督政官邸通报少爷，就说维林港的贵客到了！”
+卫兵领命，拔腿便朝着门外飞奔而出，在岸边扬起了一长串浮尘。
 
-(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 5 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn thứ 4, khoảng 2500 chữ, bằng tiếng Trung. Cả đoạn kể từ mắt 赫伯特: người kể ở trong đầu ông, nghĩ bằng sổ sách của ông; 洛伦 không xuất hiện trong đoạn này.
+Viết đoạn thứ 5, khoảng 2500 chữ, bằng tiếng Trung. Đoạn này kể từ mắt 洛伦 như các đoạn 1–3.
 
 【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
-- 赫伯特: 书记 phàm nhân 56 tuổi, kính gọng đồng, ôm sổ da dê. Ba đời 督政官 qua tay ông; ông biết từng bao lúa đi đâu. Cẩn thận, hay sợ, thương dân. Gọi 洛伦 là 大人; với thương nhân xưng 在下 hoặc 小人 tùy người.
-- Gương 锈河: kính thủy tinh mài phẳng, tráng thiếc-thủy ngân sau lưng, khung gỗ. Giá: gương tay 2 金币, gương đứng 15 金币. Giá vốn một gương tay, tính cả than, tro, thiếc, thủy ngân, khung và tiền công thợ, chừng 6 银币. 1 金币 = 20 银币, 1 银币 = 100 铜币.
-- Hàng lần đầu bán: hai mươi gương tay giống hệt nhau và hai gương đứng, bày trong kho ở bến 锈河镇.
-- Phí bến đã hạ từ 2 银币 xuống 50 铜币; thuyền chở lúa vào miễn một năm. Năm ngoái chỉ khoảng ba mươi thuyền ghé cả năm.
-- Thuyền buôn lên từ 维林港 — thành tự do ở cuối sông; thương nhân phàm nhân ở đó làm ăn dưới bảo hộ thương hội pháp sư.
-- Cống lương: thiếu 500 金币; kho bạc có 312 金币. Mỗi năm thu thuế cả thuộc địa được chừng ba trăm 金币.
-- 西蒙·拉斐: thương nhân 维林港, 40 tuổi, phàm nhân. Áo tốt nhưng không phô; nhìn ra tiền trước khi nhìn ra hàng.
+- 洛伦·索恩: 督政官 锈河属地, người xuyên việt, ngoài mặt vẫn để người ta tin là 灌注 làm anh lú. Không có ma lực. Bàn tay vàng: sách kiếp trước hiện ra rõ từng chữ khi anh nghĩ tới. Đồ kiếp trước giữ kín: chiếc bễ piston, cách đãi cát, việc cát đỏ là quặng.
+- 西蒙·拉斐: thương nhân 维林港, 40 tuổi, phàm nhân; người của 拉斐商会, nắm một phần ba buôn lúa và gỗ hạ du; làm ăn dưới bảo hộ pháp sư 中环, nộp ba phần lãi cho họ. Áo nỉ xám, không đeo vàng bạc, nói chậm. Nhìn ra tiền trước khi nhìn ra hàng; tiền xưa nay mở được mọi cửa cho ông.
+- 赫伯特: 书记, kính gọng đồng. Gọi 洛伦 là 大人, tự xưng 小人, mở lời bằng 回大人.
+- 加尔文·莫兰: 卫队长, pháp sư hai sao; theo 洛伦 khi ra ngoài. Gọi 洛伦少爷. Nhìn bằng 魔视 thì mọi thứ 洛伦 làm đều "trống".
+- 玛尔塔: thợ rèn, góa, nói thẳng.
+- Lò thử: trong hơn mười ngày qua, cạnh lò rèn của 玛尔塔 ở bãi sông đã dựng thêm một lò đứng bằng đất sét cao hơn đầu người, thổi bằng bễ piston, nạp than xen với cát đỏ đen đã đãi. 玛尔塔 và hai thợ phụ dựng nó theo bản vẽ, họ chỉ biết đó là lò nấu cát đỏ. Hôm nay là mẻ đầu.
+- Số: thuộc địa thiếu 500 金币 cống lương; kho có 312 金币, sáng nay bán gương được 40 金币; thuế cả thuộc địa một năm chừng 300 金币. Gương tay 2 金币, gương đứng 15 金币.
 
 【Tiền tình】
-Hơn mười ngày trước, 洛伦 lắp chiếc bễ mới ở lò rèn của 玛尔塔 và nấu ra mẻ thủy tinh đầu. Từ đó lò chạy ngày đêm, thủy tinh được mài phẳng và tráng bạc thành gương. Tối hôm ấy 洛伦 dặn: gương bán theo hạn mức mỗi tháng cho thuyền buôn lên tận nơi, máy không bán, lò có lính canh; và anh hỏi 赫伯特 có tiền rồi thì tiêu vào đâu trước.
+Sáng nay 赫伯特 bán hết hai mươi gương tay ở kho bến. Chiều, 西蒙·拉斐 vào kho, vuốt mép gương đứng, nói thợ 维林港 mài ba tháng không nổi một mặt phẳng như thế và hai mươi tấm giống hệt nhau không phải tay một người thợ. 赫伯特 đáp tránh, mời ông ngồi dâng trà, sai lính chạy về phủ mời 督政官.
 
 【Chuyện xảy ra trong đoạn này】
-Sáng ngày bán đầu tiên, 赫伯特 ngồi trong kho bến sông chờ khách. Ông đã đứng dậy sờ khung gương mấy lần, và mỗi lần lại thấy mặt mình trong đó rõ hơn cả nước giếng. Người khách đầu tiên là chủ một chiếc thuyền 维林港 ghé vì nghe nói phí bến hạ: ông ta bước vào, thấy hai mươi tấm gương giống hệt nhau, giơ tay ra rồi rụt lại. Ông ta hỏi giá; 赫伯特 đọc giá mà tim đập, vì ông biết giá vốn từng tấm. Khách mua một lô; người kể ở một lúc trong đầu khách, nghĩ bằng sổ của khách: mang về bán cho phu nhân pháp sư ở 中环 được bao nhiêu, đem biếu ai thì được gì. Túi tiền đặt lên bàn, lính khiêng vào rương.
+洛伦 tới kho cùng 加尔文. 西蒙 nói chuyện như người đã quen ngồi bàn với kẻ quyền thế: ông đoán thẳng gương này ra từ một cái máy chứ không từ tay thợ, và ông không cần xem máy — ông biết ai sẽ mua gương, mua bao nhiêu, ở đâu. Ông đề nghị bỏ ra 2.000 金币 để 拉斐商会 giữ quyền bán độc quyền mọi thứ 锈河 làm ra. 赫伯特 đứng sau lưng 洛伦, nghe con số mà quên thở. 加尔文 cũng nhìn sang, lần đầu thấy hứng thú.
 
-Tới trưa thêm mấy thuyền nữa ghé; gương tay bán hết, gương đứng có người trả giá. 赫伯特 cộng sổ: một buổi sáng bằng mấy tháng thu thuế của cả thuộc địa. Ông bắt đầu nghĩ thật về câu hỏi tối hôm nọ của 洛伦, và nghĩ cả chuyện năm sau khi gương ở đâu cũng có thì giá sẽ còn bao nhiêu.
+洛伦 cười, cười lâu tới mức 西蒙 nhíu mày. Anh không nhận, cũng không chê con số; anh kể cho 西蒙 một câu chuyện lấy từ sách kiếp trước, về giá của việc đặt cược vào người làm ra của cải chứ không vào món hàng. 西蒙 khó chịu: tiền của ông xưa nay chưa gặp cánh cửa nào đóng. Ông hỏi lại, thẳng thừng: cậu lấy gì ra mà đòi giá cao hơn. 洛伦 đứng dậy, mời ông ra bờ sông.
 
-Một người đàn ông bốn mươi tuổi vào kho khi chỉ còn hai tấm gương đứng. Ông không hỏi giá; ông lấy ngón tay vuốt dọc mép kính, soi nghiêng nó ra cửa, rồi hỏi gương này được làm bằng cách nào, vì thợ ông quen ở 维林港 không mài nổi một mặt phẳng như thế, và hai mươi tấm giống hệt nhau thì không phải tay một người thợ. 赫伯特 đáp tránh. Người đàn ông xưng tên: 西蒙·拉斐, 维林港. 赫伯特 biết cái tên này và biết nó nặng bao nhiêu ở cuối sông.
+Trên bãi sông cạnh lò rèn, lò đứng mới dựng đang đỏ rực, bễ piston đập đều. 加尔文 liếc bằng 魔视, chỉ thấy đất sét và lửa thường, ngáp. 玛尔塔 đứng cạnh lỗ tháo của lò, cầm que sắt chờ hiệu.
 
 【Những điểm bắt buộc】
-- Giá gương 2 金币 và 15 金币; giá vốn chừng 6 银币 một gương tay.
-- 赫伯特 không nói gì về lò, bễ hay cát sông.
-- Suốt đoạn, 洛伦 ở trong phủ, không có mặt ở kho.
+- Con số 西蒙 đề nghị là 2.000 金币, cho quyền bán độc quyền.
+- 洛伦 không cho 西蒙 xem chiếc bễ từ gần, không giảng gì về máy hay về cát.
+- Câu chuyện 洛伦 kể là một chuyện khác chuyện người thương nhân hỏi cha về lãi của ruộng, ngọc và vua.
 
 【Tự do sáng tạo】
-Số gương người khách đầu mua, giấc mơ của khách, lời trả giá cho gương đứng, tổng tiền buổi sáng, 赫伯特 biết gì về 西蒙 và vì sao cái tên làm ông giật mình — do bạn quyết.
+Câu chuyện 洛伦 kể, cách 西蒙 nói về người mua gương, lúc 西蒙 khó chịu, những gì 加尔文 nói khi nghe 2.000 金币, quang cảnh bãi sông — do bạn quyết.
 
 【Mở đầu và chỗ dừng】
-- Mở: sáng ngày bán đầu tiên, 赫伯特 ngồi trong kho bến sông.
-- Dừng: 赫伯特 mời 西蒙 ngồi, rồi sai một người lính chạy về phủ mời 督政官; câu chuyện giữa 西蒙 và 洛伦 thuộc đoạn sau.
+- Mở: 洛伦 bước vào kho bến, 西蒙 đặt chén trà xuống đứng dậy.
+- Dừng: 洛伦 bảo 西蒙 nhìn vào lỗ tháo của lò rồi gật đầu với 玛尔塔; que sắt của bà chọc vào lỗ tháo. Thứ chảy ra thuộc đoạn sau.
