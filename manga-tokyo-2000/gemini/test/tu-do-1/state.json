@@ -1,0 +1,201 @@
+{
+ "meta": {
+  "last_chapter": 4,
+  "story": "1995年东京漫画界；人名写罗马字，地名、公司、杂志写汉字，国家写日本"
+ },
+ "scene_bridge": {
+  "time": "同日上午十一点",
+  "where": "中野区Okamoto工作室所在公寓的楼梯",
+  "present": "Hayakawa背着破旧双肩包下楼；身后屋里Okamoto、Shibata和刚进门的Takeuchi",
+  "last_beat": "Hayakawa对Takeuchi说“原稿在桌上，二十一页画完了，趁热看吧”，头也不回地走下楼梯，身后传来Takeuchi的尖叫和满屋沉默",
+  "pending": ""
+ },
+ "timeline": {
+  "relative_time": "穿越后整整三周；投稿当天",
+  "chapter_log": [
+   {
+    "chapter": 1,
+    "summary": "通宵赶稿，Hayakawa二十分钟修好跨页背景震住Shibata；清晨带原稿出门去集英社"
+   },
+   {
+    "chapter": 2,
+    "summary": "集英社当面投稿，Sasai十分钟读完神作，特别推荐保送终审；Hayakawa开口要筹备契约"
+   },
+   {
+    "chapter": 3,
+    "summary": "讲《伪证清道夫》说动Sasai，签十万円企划推进费；回工作室讨工钱，撞上Okamoto发火"
+   },
+   {
+    "chapter": 4,
+    "summary": "顶Okamoto讨薪，二十四分钟不打草稿画完涉谷背景，拿一万円后辞职"
+   }
+  ]
+ },
+ "already_told": [
+  "Okamoto工作室通宵赶稿的样子",
+  "前世是猝死的资深分镜师，穿越成同名同姓的二十岁穷小子",
+  "原主家当：四叠半合租房、停机PHS卡、存折21300円",
+  "Hayakawa修跨页背景震住Shibata",
+  "《消失的四十分钟》的内容和来历",
+  "邮寄投稿会被埋没，所以要当面去编辑部",
+  "电车去神保町、集英社大厅登记等候",
+  "《消失的四十分钟》全篇剧情（电梯、倒计时四个问题、警视厅设局、轮椅女新人）",
+  "Sasai读稿被震住，十分钟规矩作废",
+  "Okamoto底稿烂全东京编辑都知道",
+  "专属契约在1995年的行情",
+  "《伪证清道夫》的设定（前法医做伪证伸冤，对手是女徒弟鉴证王牌，亡妻火柴棒）和第一话案子",
+  "Sasai卡在副主任三年",
+  "Hayakawa签十万円申领单",
+  "生存危机解除",
+  "Okamoto暴怒、Shibata求情",
+  "Okamoto连续三期顺位滑落、怕腰斩",
+  "Hayakawa不打草稿直接上墨画第二十一页震住众人",
+  "Hayakawa当场辞职"
+ ],
+ "ledger": [
+  {
+   "item": "存折余额",
+   "value": "21300円",
+   "as_of": 1
+  },
+  {
+   "item": "房租",
+   "value": "38000円，下周二交",
+   "as_of": 1
+  },
+  {
+   "item": "青年漫画大赏奖金",
+   "value": "大赏150万円，入选50万円；最快下月中旬到账",
+   "as_of": 2
+  },
+  {
+   "item": "企划推进费",
+   "value": "10万円，Sasai自掏腰包先垫，中午前到他备用金账户；交不出分镜就从奖金里扣11万",
+   "as_of": 3
+  },
+  {
+   "item": "随身现金",
+   "value": "一万円纸币一张（Okamoto结的工钱8000+加急费2000），另有几枚硬币",
+   "as_of": 4
+  },
+  {
+   "item": "可动用资金",
+   "value": "一万円现金+存折21300円；Sasai垫的十万円还没拿到",
+   "as_of": 4
+  }
+ ],
+ "deadlines": [
+  "《伪证清道夫》第一话前六十页分镜｜两周后同一天，集英社大厅｜Hayakawa承诺",
+  "青年漫画大赏终审出结果｜下周四｜集英社",
+  "房租38000円｜下周二｜Hayakawa"
+ ],
+ "main_character": {
+  "name": "Hayakawa",
+  "identity": "二十岁；刚从Okamoto工作室辞职；穿越者",
+  "traits": [
+   "前世是商业漫画流水线上干了十几年的资深分镜师，数位屏前心梗猝死",
+   "原主美术专科学校辍学，漂到东京想当漫画家",
+   "画技：两点透视、交叉排线极稳，不用橡皮",
+   "苍白清秀，黑眼圈重，右手沾满碳素墨水"
+  ],
+  "status": [
+   "一夜没睡",
+   "无业，还住在中野区四叠半合租房"
+  ],
+  "knowledge": [
+   "前世网络时代的作品",
+   "新人投稿一般走邮寄，每年上千部"
+  ]
+ },
+ "knowledge_map": [
+  {
+   "secret": "Hayakawa是穿越者",
+   "knows": [
+    "Hayakawa"
+   ],
+   "not_known_to": [
+    "所有人"
+   ]
+  },
+  {
+   "secret": "Hayakawa投稿青年漫画大赏",
+   "knows": [
+    "Hayakawa",
+    "Sasai",
+    "集英社前台"
+   ],
+   "not_known_to": [
+    "Okamoto",
+    "Shibata"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "name": "Okamoto",
+   "role": "工作室主人，《周刊少年Action》连载漫画家",
+   "notes": "画技烂，作品连续三期顺位倒数，怕腰斩；被Hayakawa逼着付了一万円，Hayakawa辞职",
+   "speech": "骂Hayakawa废物东西；Hayakawa叫他Okamoto老师",
+   "last_seen": 4
+  },
+  {
+   "name": "Shibata",
+   "role": "Okamoto工作室首席助手",
+   "notes": "首席助手，连轴转二十四小时，跪着拉住Okamoto；亲眼看到Hayakawa不打草稿上墨",
+   "speech": "叫Hayakawa为Hayakawa、你小子；Hayakawa叫他Shibata桑",
+   "last_seen": 4
+  },
+  {
+   "name": "Sasai",
+   "role": "集英社青年漫画部副主任编辑",
+   "notes": "集英社青年漫画部副主任，卡在副主任三年，想升主任；保送原稿进终审，垫十万円",
+   "speech": "叫Hayakawa为你小子、Hayakawa君；Hayakawa叫他Sasai桑",
+   "last_seen": 2
+  },
+  {
+   "name": "Takeuchi",
+   "role": "《周刊少年Action》Okamoto的责任编辑",
+   "notes": "夹公文包，满头大汗，面容刻薄",
+   "speech": "直呼Okamoto",
+   "last_seen": 4
+  }
+ ],
+ "places": [
+  "Okamoto工作室（中野区，六叠，有榻榻米和二手皮沙发）",
+  "集英社大楼（千代田区神保町）",
+  "集英社一楼大厅（前台、靠窗皮沙发等候区）"
+ ],
+ "objects": [
+  {
+   "name": "《消失的四十分钟》原稿",
+   "holder": "Sasai（送终审组）",
+   "notes": "45页悬疑短篇"
+  },
+  {
+   "name": "企划推进费申领单",
+   "holder": "Sasai",
+   "notes": "Hayakawa已签名"
+  }
+ ],
+ "rules": {
+  "world": [
+   "1995年，泡沫破裂后的东京"
+  ],
+  "mechanics": [],
+  "hard_limits": [
+   "Hayakawa不向任何人透露穿越"
+  ]
+ },
+ "open_threads": [
+  "终审结果 [ch2]",
+  "《伪证清道夫》前三话分镜，两周 [ch3]",
+  "Sasai的十万円什么时候拿到 [ch3]",
+  "搬家/新住处 [ch3]",
+  "Okamoto扬言让漫画家协会封杀 [ch4]"
+ ],
+ "conflicts": [
+  "[ch1] 梅雨 vs 十月 → 以十月为准",
+  "[ch1] 前世十几年 vs [ch3] 二十年 → 以十几年为准",
+  "[ch2] 奖金最快下月中旬到账 vs [ch3] 下周四到账 → 以下月中旬为准"
+ ]
+}
