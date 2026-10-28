@@ -40,31 +40,35 @@ Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở m�
 ### Đoạn 2 — sổ sách và con sông
 加尔文 kể về pháp sư (một đến chín sao, 魔导议会, 魔视, 外环 hồi ma chậm gấp ba); 赫伯特 kể ba luật cấm phàm nhân, ông là một trong ba người có giấy phép chữ. 加尔文 nói thẳng: 0 ma lực, 空瓶, 族长 cần chỗ đặt cái tên. 洛伦 thấy đó là tin tốt: không ai để mắt tới 外环. Sổ: 40 lính, 312 金币, dự thu 9.500 袋, thiếu 2.500 袋 = 500 金币; dốc kho vẫn thiếu 188 金币. Cống bị 魔导议会 đẩy xuống qua 族长. Đặc sản: lò rèn bà goá 玛尔塔, sông "nước máu", cát đỏ; đang mùa gặt, không có người. 洛伦: ai bảo thêm việc phải thêm người. Lính mang lên xô nước và bát cát; 洛伦 nhận ra sông là quặng sắt trôi, không nói với ai. Sang phòng đọc vẽ suốt đêm (bễ piston hai chiều chạy sức nước, cày lưỡi cong nặng), sáng giao 赫伯特 mang cho 玛尔塔, hứa trả gấp đôi. 加尔文 bảo 赫伯特: 灌注 làm cậu ta lú rồi. Trưa 赫伯特 báo 玛尔塔 rèn xong đợt linh kiện đầu; 洛伦: "带路，去铁匠铺。"
 
+### Đoạn 3 — chiếc bễ và mẻ thủy tinh đầu
+Ở lò rèn bờ sông, 洛伦 ngồi bệt lắp 双动式活塞风箱, gạt một van rèn lệch, giảng cho hai thợ phụ. Kéo thử: gió hai chiều, lửa trắng, sắt mềm trong nửa phút. 加尔文 nhìn bằng 魔视: gỗ và sắt trống trơn — "小孩子的玩具". 玛尔塔: than 5 银币/xe, đốt ba xe/ngày, lò của chồng không phải chỗ cậu ấm phá. 洛伦 tính: gương tay 2 金币 = 40 银币 = 8 xe than; gương đứng 15 金币. Đãi cát trong máng: phần đỏ đen nặng chìm (洛伦 biết là quặng, không nói), phần cát trắng trộn tro, vôi, nấu trong nồi đất → khối thủy tinh đục, xanh, nhiều bọt; 玛尔塔 soi ra nắng. Tối: 赫伯特 tính 300 tấm gương lấp 500 金币; 洛伦: hàng nhiều thì rớt giá như lúa được mùa; gương bán hạn mức theo tháng, máy không bán, bốn lính canh lò. Phí bến 2 银币 → 50 铜币, thuyền chở lúa miễn một năm. 加尔文 mỉa ai thèm trộm hộp gỗ. 洛伦 hỏi tiền về tiêu đâu trước; 赫伯特: lấp cống, mua giống ở 黑石; 洛伦: dựng xưởng cưa và búa máy chạy sức nước bên bãi sông — rồi im.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 2)
+## 3. Trạng thái hiện tại (hết đoạn 3)
 
-**Thời điểm:** trưa ngày thứ hai sau khi tỉnh; còn 119 ngày tới 秋税日.
-**Có mặt:** phòng đọc 督政官邸 — 洛伦 vừa ngủ dậy khoác áo; 赫伯特 thở hổn hển báo tin. 加尔文 ở trại lính.
+**Thời điểm:** tối ngày thứ hai sau khi tỉnh; còn 119 ngày tới 秋税日.
+**Có mặt:** bàn ăn 督政官邸 — 洛伦, 赫伯特, 加尔文.
 
 **Nhân vật chính biết**
-- Thế giới có pháp sư (一星→九星, 魔导议会, 魔视); mình là 空瓶, bị đày để gia tộc giữ tên.
-- Sông 锈河 là cát quặng sắt trôi từ mạch lộ thiên thượng nguồn — chưa nói với ai.
-- Đã vẽ bễ piston hai chiều chạy sức nước và cày lưỡi cong nặng; 玛尔塔 rèn xong đợt linh kiện đầu.
+- Bễ piston hai chiều chạy tốt (đang kéo tay; bánh xe nước chưa làm). Lò đốt ba xe than/ngày.
+- Mẻ thủy tinh đầu đục, xanh, bọt — chưa thành gương (còn phải ủ, mài phẳng, tráng bạc/thiếc-thủy ngân).
+- Cát sông đãi ra hai phần: cát trắng (thủy tinh) và cát đỏ đen nặng (quặng sắt — chỉ mình anh biết).
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Ngày tới 秋税日 | 119 |
-| Cống lương | 12.000 袋 (năm ngoái cũng 12.000, nộp 8.400) |
-| Dự thu | ~9.500 袋; thiếu 2.500 袋 = 500 金币 |
-| Kho bạc | 312 金币 (dốc hết vẫn thiếu 188) |
-| Lính | 40 phàm nhân + 加尔文 |
-| Giá đã hứa 玛尔塔 | gấp đôi giá thường |
+| Thiếu | 2.500 袋 = 500 金币 |
+| Kho bạc | 312 金币 |
+| Giá gương | tay 2 金币, đứng 15 金币 |
+| Than | 5 银币/xe; lò mới 3 xe/ngày |
+| Phí bến | hạ từ 2 银币 xuống 50 铜币; thuyền chở lúa miễn một năm (năm ngoái ~30 thuyền) |
 
 **Tuyến đang mở**
-- 洛伦 đi ra lò rèn xem linh kiện.
-- 加尔文 coi cậu chủ là lú; 赫伯特 lo.
+- Gương: bán hạn mức theo tháng cho thuyền buôn 维林港 lên tận nơi; máy không bán, lò có bốn lính canh.
+- 洛伦 định dựng xưởng cưa và búa máy sức nước bên bãi sông.
+- 加尔文 coi tất cả là đồ chơi của phàm nhân.
 
 ---
 
@@ -86,37 +90,37 @@ Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở m�
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 2 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 3 (để nối mạch và giữ giọng)
 
-铺开的羊皮纸粗硬僵韧，表面残留着深浅不一的刮刀槽痕。
-比起前世那些顺滑平整的打印纸，手头的绘图工具差劲得让人窝火。
-洛伦蘸饱了乌黑黏稠的墨汁，指尖的鹅毛笔落在了厚羊皮纸的边缘。
-脑海深处的精密机械蓝图迅速对齐轴线，尺寸与公差化作一行行墨水符号。
-第一张羊皮纸上，绘出了多级曲柄滑块机构的侧剖视图。
-依靠人力去跟一百二十天的严苛税额赛跑，那是纯粹的痴人说梦。
-他要制造的是一台借助锈河水流驱动的双动式活塞风箱，还有一套翻土深耕的重型曲面犁。
-只要有了充足的风压，那些河滩上的红砂就能在两天内烧出坚韧的铸铁。
-蘸水笔尖在干燥的皮纸上发出一阵阵沙沙的脆响。
-第二张图纸画满了连杆的受力角度，第三张标注着齿轮模数与退火工艺流程。
-到了四更天的时候，长桌的一角已经整整齐齐地码放了六张图纸。
-四角上的牛油蜡烛全烧成了焦黑的油污硬块，灯芯在穿堂风里抖出一缕细微的灰烟。
-洛伦吹干最后一张图纸上的墨痕，沉重的困意顺着额头蔓延到了全身。
-晨光撕破了城堡窗棂上的灰网，赫伯特端着一盘硬邦邦的黑麦饼推开了房门。
-洛伦将厚厚的一叠羊皮纸推到老书记官面前，揉了揉发干的眼眶。
-“赫伯特，把这些图样拿到镇上的铁匠铺去，交给玛尔塔。”
-“让她和徒弟放下手里的锄头，完全照着纸上的尺寸，先把上面的金属部件打出来。”
-老书记官战战兢兢地捧起图纸，看着上面密集交错的圆弧与标尺，眼眶越瞪越大。
-“大人，玛尔塔那个妇人向来只看铜板，性子硬得连卫兵都敢骂……”
-“告诉她，所有部件造好之后，官邸按照市价的两倍结清铁匠工钱。”
-洛伦没有耐心听老管事继续啰嗦，转身倒向了旁边的窄木榻。
-整整一夜高强度的精密默写榨干了这具年轻躯壳的力气，他闭上眼便打起了沉沉的鼾声。
-赫伯特小心翼翼地把图纸揣进皮袄内层，轻手轻脚地关上房门退了出去。
-高悬的日头慢慢爬过了城堡狭窄的箭孔，将正午温热的金色光亮洒在石板地上。
-走廊外面忽然传来一阵慌乱急促的脚步声，铁掌皮靴撞击石砖的声音分外刺耳。
-书房门被一把推开，赫伯特喘着粗气撞在门框边缘，胸口剧烈起伏。
-“大人！玛尔塔铁匠照着图纸，把头一批铁件全部敲打出来了！”
-洛伦合拢的眼帘霍然拉开，整个人利索地从木榻上翻坐而起。
-他一把拽过搭在木椅上的旧外套披在肩头，大步迎向气喘吁吁的老书记官。
-“带路，去铁匠铺。”
+但即便是一块浑浊的玻璃疙瘩，在午后的阳光照射下，也折射出了一道道令人移不开眼的光斑。
+玛尔塔用铁钳夹起那块硬疙瘩举到眼前，粗糙的脸上满是惊愕。
+这种晶莹透光的好东西，以往只有行商的马车开进镇子时，平民才有机会隔着栏杆看上一眼。
+夜幕降临的时候，督政官邸的长木桌上摆出了一盆咸干芜菁和切成硬块的黑麦面包。
+赫伯特戴着铜框眼镜，手里的鹅毛笔在羊皮纸上算得飞起。
+“回大人！两枚金币一面镜子，除掉炭钱和木框，咱们只要做三百面，就能补上五百个金币的亏空！”
+老书记官满面通红，这是洛伦苏醒以来，老头子脸上第一次露出活人该有的喜色。
+洛伦掰开坚硬的面包，就着一碗温水咽了下去。
+“真要一口气拿出三百面镜子，市面上就没人肯出两个金币了。”
+赫伯特愣了一下，握着笔的指节僵在了半空。
+“好东西一旦堆成了山，价钱跌得比路边的烂菜叶还要利索，就跟丰收年景的麦子卖不上价一样。”
+洛伦放下了手里的粗陶碗，神色严肃地看向老书记官。
+“镜子只能按月限量放给商队，机器更不能卖给外人，铁匠铺从明天起加派四个卫兵守着。”
+加尔文·莫兰坐在一旁切着干肉，随口嗤笑了一声。
+“一个凡人用的木头箱子，连半点魔力都没有，谁会费心思去偷它。”
+洛伦抬眼看向卫队长，手指敲击着桌面。
+“魔导议会的老爷们确实看不上凡人的箱子，但能让凡人工匠多打十把铁剑的法子，在有心人眼里比金子还要惹眼。”
+他转过头，看着满脸患得患失的老书记官。
+“维林港的商船以前停靠咱们这里，每次要收两个银币的停泊税，一年到头才来三十来艘。”
+“传令下去，把码头停泊税降到五十个铜币，运粮食进来的商船免收一年。”
+“把商贩引到镇子里来，我们只在自己的地盘上收银币。”
+赫伯特在账本上飞快记下一笔，呼吸重新变得急促起来。
+洛伦看着桌上的旧油灯，忽然开口问了一句。
+“赫伯特，等这些镜子换成了沉甸甸的金币，你觉得咱们该先往哪儿花？”
+赫伯特扶了扶鼻梁上的铜眼镜，小心翼翼地应声。
+“回大人，自然是把秋税的亏空平掉，再去黑石属地多买些抗冻的冬小麦种子……”
+洛伦摇了摇头，嘴角扯出一抹极淡的笑意。
+“买粮食不过是保命的下策。”
+“要在这片荒地上站稳脚跟，手里有了钱，第一件事就是把河滩上的水力锯木厂和水力锻锤立起来。”
+他把剩下半块面包塞进嘴里，没有继续往下说。
 
-(Đoạn 3 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 4 sẽ bắt đầu ngay sau chỗ này.)
