@@ -58,3 +58,4 @@
 2026-10-28 | doan-004 | Chốt (SI v1.4) — đãi cát, hạ phí bến, mười ngày ra 20+2 gương, 格林 trả 27 金币, 西蒙 tới hỏi cách làm | Duyệt: Agent
 2026-10-28 | doan-004 | Agent sửa 管了三十年账 → 二十年 (theo 001). Canon Writer đặt: khách 格林掌柜, công đãi cát 2 铜币/ngày, 30 người | Duyệt: Agent
 2026-10-28 | doan-005 | Chốt (SI v1.4) — 西蒙 xem lò, ra 2.000 金币/3 năm, 洛伦 từ chối bằng chuyện người dệt vải, dẫn tới lò đứng | Duyệt: Agent
+2026-10-28 | doan-006 | Chốt (SI v1.4) — lò ra gang, 西蒙 ký 5.000 金币/3 năm, cọc 400, chở 2.500 袋 bán theo giá; tối xem bản đồ gặm góc bắc | Duyệt: Agent
