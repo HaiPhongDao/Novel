@@ -178,6 +178,9 @@ Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references
 - **Mở truyện "với mẫu" = giữ tiền đề của bộ mẫu**, chỉ đổi thông số (năm, nơi, tên); chỉ hỏi Tác giả về thông số đó, không
   đưa phương án khác trục — Tác giả gạt cả ba phương án lệch mẫu, trả lời "như mẫu, chỉ đổi năm". "Khác trục" là so với truyện đã có trong repo.
 - 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
+- **Trước khi dựng bible/brief cho đoạn mở, chạy một bản chỉ có SI + "Viết đoạn mở đầu cho truyện mới khoảng 2000 chữ"**:
+  manga-tokyo-2000, bản đó Tác giả khen "rất tốt, Writer còn tốt hơn bạn", trong khi bản dựng từ bible + brief + State bị
+  kể dồn thiết lập. Thiết lập do Writer tự đặt ở bản ấy thì đưa vào State, không ép bible của Agent lên.
 - Đoạn 001: chạy 3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào `reviews/doan-001.md`.
 - Mỗi thể loại một SI dựng từ dấu hiệu đo được của bộ mẫu; mẫu tải về có thể hỏng — đếm thân chương trước.
 - **Dàn ý sau đoạn mở cũng bám từng chương bộ mẫu**: mỗi đoạn một màn phô diễn → người chứng kiến hiểu sai theo cách
