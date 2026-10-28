@@ -1,3 +1,3 @@
-1. <Nhân vật chính> đang ở đâu, vừa làm gì.
-2. <Nhân vật chính> biết gì về <bí mật chính>.
-3. Các con số đang chạy (<người, lương, ngày…>).
+1. 洛伦 đang ở đâu, vừa thấy gì.
+2. 洛伦 đang giả vờ điều gì, đổ cho cái gì.
+3. Các con số đang chạy (cống lương, ngày còn lại, năm ngoái nộp).

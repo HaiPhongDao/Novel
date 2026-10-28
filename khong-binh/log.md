@@ -10,3 +10,4 @@
 2026-10-28 | SI | Vòng SI 3: nền SI v1, 3 hướng chữa thoại trống không (luật SI / anchor ch1–2 / dòng prompt) | gemini/test/vong-si-3/danh-gia.md | Agent, chờ Tác giả chấm
 2026-10-28 | doan-001 | Thử prompt đoạn 001 theo nhịp ch1 bộ mẫu (gemini/test/doan-001-mau), SI E1; Z2 đủ nhịp, chờ Tác giả chấm | Lý do: Tác giả thấy bản cũ thiếu | Duyệt: chờ
 2026-10-28 | doan-001→006 | Tác giả: Z2 (prompt theo nhịp ch1 mẫu) tốt hơn hẳn — lỗi nằm ở prompt. Ghi cách bày của mẫu (plot/cach-bay-mau.md), viết lại dàn ý 002–006 bản 2 | Duyệt: bài học — Tác giả; dàn ý 002–006 — chờ
+2026-10-28 | doan-001 | Chốt bản Z2 (prompt theo nhịp ch1 mẫu, SI E1). Duyệt dàn ý 002–006 bản 2 theo đề xuất: gương tay 2 金币 / gương đứng 15 金币; 005 cho 西蒙 xem sắt luyện từ cát sông đỏ; 西蒙 chỉ chở lúa theo giá, không trả hộ cống lương | Duyệt: Tác giả
