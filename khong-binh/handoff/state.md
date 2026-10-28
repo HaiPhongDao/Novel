@@ -1,22 +1,22 @@
-## 3. Trạng thái hiện tại (hết đoạn 7)
+## 3. Trạng thái hiện tại (hết đoạn 8)
 
-**Thời điểm:** ngày thứ 10 sau giao kèo (khoảng ngày 23); còn ~97 ngày tới 秋税日. Thuyền 西蒙 đúng hẹn sẽ tới 锈河 quanh hôm nay.
-**Có mặt (cảnh cuối):** cửa hàng trang sức ở 维林港 — 巴尔萨泽 và hai lính 黑石, người bán hàng. 洛伦 ở 锈河.
+**Thời điểm:** sáng, khoảng ngày 23 sau khi 洛伦 tỉnh; còn ~97 ngày tới 秋税日.
+**Có mặt:** phòng sổ ở kho bến 锈河 — 洛伦, 西蒙 (vừa nói tên 巴尔萨泽), 赫伯特, hai hộ vệ của 西蒙.
 
 **Nhân vật chính biết**
-- 加尔文 viết thư mỗi sáng cho 赛德里克; thiếu cống thì 锈河 về tay anh cả. 洛伦 để 加尔文 viết đúng những gì thấy (đồ chơi, gang giòn).
-- Chưa biết 巴尔萨泽 đã thấy gương.
+- Lúa đã đủ bù phần thiếu nếu gặt được ~9.500 袋.
+- 巴尔萨泽 đã hỏi về thuyền lên 锈河. (Chưa biết kế "phu trốn" và việc 达隆, 考珀 đang tới.)
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Ngày tới 秋税日 | ~97 |
-| Thiếu cống | 2.500 袋 = 500 金币 (西蒙 chở lúa lên, 锈河 trả) |
-| Kho bạc | 352 金币 trừ tiền than đã đặt; chờ 400 金币 trả trước |
-| Lò đứng | nâng cao, thêm hai cửa gió; mục tiêu 200 thỏi gang trong 10 ngày; 玛尔塔 thêm năm thợ |
-| Canh bến | 10 dân binh; chỉ thuyền 拉斐 được cập |
-| 黑石 năm ngoái bắt | 160 phu ở ruộng 锈河 |
+| Kho lúa | +2.500 袋 (đủ phần thiếu nếu gặt ~9.500) |
+| Kho bạc | 252 金币 (chưa trừ than) |
+| 拉斐 còn nợ theo giao kèo | 4.600 金币 trong ba năm |
+| Gang | hơn 200 thỏi |
+| Bễ | đã chạy bằng bánh xe nước |
 
 **Tuyến đang mở**
-- 巴尔萨泽 muốn biết thuyền 拉斐 lên 锈河 mấy chuyến mỗi tuần.
-- 赛德里克 nhận thư của 加尔文.
+- 达隆 + hai mươi tay lục soát + thư ký 考珀 sắp sang 锈河 với danh sách "phu trốn".
+- 西蒙 tò mò về lò.

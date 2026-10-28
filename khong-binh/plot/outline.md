@@ -36,6 +36,14 @@ Mẻ sắt nguội; 西蒙 tự tính lại ván cược trong đầu: sắt th�
 
 Đoạn 巴尔萨泽 thấy gương ở 维林港 (bản 1 là 006) lùi sang 007.
 
+## 007–012 — ứng ch7 贪婪的人 trở đi (Agent lập 28/10, theo arc 1 đã duyệt: áp lực 黑石, đầu tư ngầm)
+- **007 (đã viết):** 加尔文 nhận viết thư cho 赛德里克; 巴尔萨泽 thấy gương ở 维林港.
+- **008:** 巴尔萨泽 về 黑石, tính với đội trưởng: lấy cớ đòi phu mỏ trốn để thò tay vào 锈河 (điểm nhìn hắn). Nhảy: thuyền 西蒙 tới 锈河 đúng hẹn, 400 金币 + 2.500 袋; 锈河 trả 500. 西蒙 kể có một pháp sư béo ở 维林港 hỏi về thuyền lên 锈河. **Dừng:** 西蒙 nói tên 巴尔萨泽.
+- **009:** (bễ đã chạy bánh xe nước từ 008) 洛伦 dạy 赫伯特 và 玛尔塔 "大人的数字" để ghi sổ lò (nhịp hài). 加尔文 nhận thư hồi âm của 赛德里克. **Dừng:** dân binh báo thuyền cờ đen từ thượng nguồn 黑石.
+- **010:** 达隆 (đội trưởng kỵ binh phàm nhân) + hai mươi tay lục soát + thư ký 考珀 mang danh sách "phu trốn"; dùng 魔视 nhìn lò, thấy trống. 加尔文 đứng giữa theo phép gia tộc; 洛伦 giả ngây, không giao người. **Dừng:** sứ nói 巴尔萨泽 sẽ tự sang đòi sau vụ gặt.
+- **011:** 洛伦 cần sức mạnh mà luật cấm vũ khí: vẽ máy khoan nòng chạy bánh xe nước, gọi là "ống dẫn nước"; lò luyện lại gang thành sắt dẻo. **Dừng:** nòng đầu khoan xong.
+- **012:** Vào gặt; cày lưỡi cong; 赫伯特 cộng sổ lúa. Đêm, người 黑石 đốt một làng rìa bắc, bắt người. **Dừng:** 洛伦 cưỡi ngựa tới làng cháy.
+
 ---
 
 ## Bản 1 (27/10, thay bằng bản 2)
