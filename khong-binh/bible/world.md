@@ -36,3 +36,6 @@
 - Không địa danh, quốc gia thật trong chính văn; kiếp trước chỉ nói 前世, không quê quán.
 - Không giao diện, không hệ thống, không bảng 【】.
 - MC không bao giờ dùng hay cảm thấy phép.
+
+## Luật kỹ thuật (Agent ghi 28/10 sau đoạn 014)
+- Thế giới chưa biết thuốc nổ: 硝石 chỉ dùng bón ruộng, ướp thịt, xông khí độc trong mỏ, làm lạnh. Nổ chỉ có ở phép thuật. Viên chì bắn bằng thuốc đen là thứ đầu tiên.

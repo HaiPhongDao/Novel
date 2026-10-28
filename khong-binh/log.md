@@ -25,3 +25,5 @@
 2026-10-28 | handoff | Tác giả: chuyển kho thông tin sang State JSON. handoff/state.json trích từ 001–012 theo chung/state-extractor.md; state.md + story-so-far.md chuyển vào archive/handoff-md; gói mở session dán 2.500 chữ cuối đoạn trước | Duyệt: Tác giả
 2026-10-28 | doan-013 | Chốt — đoạn đầu chạy bằng gói State JSON; Agent sửa phép tính 48 金币 | Duyệt: Agent
 2026-10-28 | doan-014 | Chốt; 玛尔塔 thành người thứ hai biết ống sắt là vũ khí (Agent quyết, trong arc 'đầu tư ngầm'); sửa bốn chỗ lệch canon (thế giới chưa biết thuốc nổ) | Duyệt: Agent
+2026-10-28 | SI | Tác giả: bỏ ví dụ trong luật thoại M3 của E1 (danh sách xưng hô và trợ từ 呢/么/吧/啊) → gemini/si-dan-gemini-v1.1.txt, dùng từ đoạn 016; State không ghi trợ từ cuối câu trong speech | Duyệt: Tác giả
+2026-10-28 | doan-015 | Chốt — kẻ đốt lúa là 班克, người 芦苇荡 bị bắt năm ngoái | Duyệt: Agent
