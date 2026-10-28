@@ -77,7 +77,7 @@ ROLE
 - **deadlines**："事项｜时限｜谁承诺"。
 - **main_character**：identity 一句；traits ≤5 条永久特征（异常能力写可观察表现，不写原因）；status ≤3 条临时状态；knowledge ≤8 条具体、可执行的知识。
 - **knowledge_map**：每个秘密一条；knows / not_known_to 写人名。MC独有的秘密必须在此。
-- **characters**：notes ≤40字"身份，外貌标记，当前状态"；speech 写称呼与自称、口头禅。
+- **characters**：notes ≤40字"身份，外貌标记，当前状态"；speech 只写称呼与自称、固定口头禅。不写句尾语气词（呢、啊、吧），不写语气样板——Writer 会照抄到每一句。
 - **places**："地名（关键信息）"。
 - **objects**：只记剧情关键物品；notes ≤30字，含可被矛盾的物理特征。
 - **rules**：world 为社会与法律规则；mechanics 为能力、器物、材料的实际表现（效果＋限制）；hard_limits 为不能写的东西。
