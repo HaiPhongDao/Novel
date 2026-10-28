@@ -1,24 +1,22 @@
-## 3. Trạng thái hiện tại (hết đoạn 6)
+## 3. Trạng thái hiện tại (hết đoạn 7)
 
-**Thời điểm:** tối ngày bán gương đầu (khoảng ngày 13); còn ~107 ngày tới 秋税日.
-**Có mặt:** phòng đọc 督政官邸 — 洛伦 ngón tay đặt trên 核心环 ở góc tây bắc bản đồ; 赫伯特; 加尔文 ngậm tẩu; 玛尔塔 vừa báo sổ, đứng im.
+**Thời điểm:** ngày thứ 10 sau giao kèo (khoảng ngày 23); còn ~97 ngày tới 秋税日. Thuyền 西蒙 đúng hẹn sẽ tới 锈河 quanh hôm nay.
+**Có mặt (cảnh cuối):** cửa hàng trang sức ở 维林港 — 巴尔萨泽 và hai lính 黑石, người bán hàng. 洛伦 ở 锈河.
 
 **Nhân vật chính biết**
-- Giao kèo với 拉斐商会 (bắt tay, chưa có giấy): 5.000 金币 / ba năm độc quyền mua gương và đồ sắt dân dụng; trả trước 400 金币 sau mười ngày; 2.500 袋 lúa mạch chở lên bán 4 银币/袋, 锈河 tự trả (500 金币).
-- Lò đứng ra gang giòn; muốn sắt dẻo, thép phải có lò luyện lại (chưa nói ra).
-- 巴尔萨泽 ở 黑石 thiếu phu, hay sang bắt người; chồng 玛尔塔 chết ở mỏ 黑石.
+- 加尔文 viết thư mỗi sáng cho 赛德里克; thiếu cống thì 锈河 về tay anh cả. 洛伦 để 加尔文 viết đúng những gì thấy (đồ chơi, gang giòn).
+- Chưa biết 巴尔萨泽 đã thấy gương.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Ngày tới 秋税日 | ~107 |
-| Thiếu cống | 2.500 袋 = 500 金币 |
-| Kho bạc | 352 金币 |
-| Sắp về | 400 金币 trả trước + 2.500 袋 lúa (phải trả 500 金币) — sau 10 ngày |
-| Mẻ gang đầu | 3 xe than, 2 sọt cát đen → 22 thỏi |
-| Gang ở 维林港 | 12 银币 / 100 磅 |
+| Ngày tới 秋税日 | ~97 |
+| Thiếu cống | 2.500 袋 = 500 金币 (西蒙 chở lúa lên, 锈河 trả) |
+| Kho bạc | 352 金币 trừ tiền than đã đặt; chờ 400 金币 trả trước |
+| Lò đứng | nâng cao, thêm hai cửa gió; mục tiêu 200 thỏi gang trong 10 ngày; 玛尔塔 thêm năm thợ |
+| Canh bến | 10 dân binh; chỉ thuyền 拉斐 được cập |
+| 黑石 năm ngoái bắt | 160 phu ở ruộng 锈河 |
 
 **Tuyến đang mở**
-- 洛伦 sắp nói về hướng 核心环 / 索恩家族.
-- 加尔文 nhận lương gia tộc, ghi thư về kinh.
-- 西蒙 đã để ý chiếc bễ.
+- 巴尔萨泽 muốn biết thuyền 拉斐 lên 锈河 mấy chuyến mỗi tuần.
+- 赛德里克 nhận thư của 加尔文.

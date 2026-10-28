@@ -16,3 +16,4 @@
 2026-10-28 | doan-004 | Chốt bản B (điểm nhìn 赫伯特); A loại vì đếm gương sai | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
 2026-10-28 | doan-005 | Chốt bản A; B loại vì 洛伦 nói "前世" với 西蒙. Đề nghị đầu của 西蒙: 2.000 金币 / độc quyền 3 năm | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
 2026-10-28 | doan-006 | Chốt bản A; B loại vì cho thuyền 西蒙 chở 20 gương đã bán cho người khác. Giao kèo 拉斐商会: 5.000 金币 / 3 năm, trả trước 400 | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
+2026-10-28 | doan-007 | Chốt bản A (duy nhất: /u/0, /u/1 hết quota). Lỗi chữ 半米 / 属下 / 次子 ghi review, chờ Tác giả. Thêm canon: 黑石 bắt 160 phu 锈河 năm ngoái | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
