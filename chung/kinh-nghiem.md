@@ -22,6 +22,7 @@ Bản tổng hợp ngày 23/10/2026 từ Lãnh Chúa Chip, Goblin, Mô phỏng v
 | KN12 | **Giữ đúng trải nghiệm thể loại Tác giả chọn.** Ghi rõ yếu tố hài, ngạnh, lạnh hoặc căng thẳng được dùng thế nào trong từng truyện. Thêm một câu “viết vui” chưa bảo đảm đổi được nhịp cả cảnh; cần đọc kết quả thật. | Mô phỏng v0/v1; ngoại lệ về 梗; Goblin và Kỵ sĩ có register riêng |
 | KN13 | **Thử có lưu dấu và kết luận đúng mức.** Lưu nguyên bản, SI, prompt, model/cấu hình, session và review. Giữ cùng prompt khi muốn xem riêng tác dụng SI; nếu đổi cả hai, ghi rõ. Độ dài, tỉ lệ thoại hoặc số từ lặp là tín hiệu, không tự là kết luận chất lượng. | Test B/C; Mô phỏng; Kỵ sĩ v02-01/v02-02 |
 | KN14 | **Bàn giao là bộ nhớ đã kiểm.** Theo quy trình hiện tại, tối đa hai đoạn/session; đoạn hỏng thử lại ở session mới, giữ nguyên bản cũ. Gói cần luật, tóm tắt, state, mẫu giọng đã duyệt và đuôi đoạn trước. Chi tiết dự kiến hoặc Writer tự thêm chưa duyệt không ghi như sự kiện canon. | Lãnh Chúa Chip; quy trình bàn giao; Kỵ sĩ |
+| KN15 | **Văn "không ổn" có thể do nội dung prompt, không do SI.** Đổi SI ba vòng không cứu được; giữ SI, viết lại prompt theo cách bộ mẫu bày chương thì Tác giả thấy ổn. Prompt kể **việc chở thông tin** (sự cố, vật trong cảnh, lời hỏi có cớ), cho MC tin sai trước khi bị lật, cho người phụ phần riêng; không chỉ liệt kê điều MC phải biết. Khi văn hỏng mà chưa rõ vì sao, thử đổi prompt trước khi đổi SI. | khong-binh 001 (28/10): Y2 vs Z2 cùng SI E1; một lần thử |
 
 ## Những điều chỉ áp dụng theo truyện
 
