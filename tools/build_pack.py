@@ -75,8 +75,10 @@ def main():
             parts.append((ho / name).read_text(encoding="utf-8").strip())
     if sj.exists():
         state = json.loads(sj.read_text(encoding="utf-8"))
-        parts.insert(2, "## 2. State (JSON — sự thật và con số đã xảy ra, lấy đây làm chuẩn; "
-                     "scene_bridge là điểm bắt đầu của đoạn tiếp theo)\n\n"
+        parts.insert(2, "## 2. State (JSON — sự thật và con số đã xảy ra, lấy đây làm chuẩn)\n\n"
+                     "Đoạn tiếp theo viết từ ngay sau `scene_bridge.last_beat`. Những gì trong `already_told` "
+                     "người đọc đã biết: chỉ nhắc một chữ khi cần, không giải thích lại. Số liệu lấy theo `ledger`; "
+                     "ai biết bí mật nào theo `knowledge_map`.\n\n"
                      + json.dumps(state, ensure_ascii=False, indent=1))
     parts.append(
         f"## 5. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"

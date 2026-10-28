@@ -1,165 +1,89 @@
 # State JSON — quy tắc trích (dùng chung)
 
-Tác giả 28/10: thay `handoff/state.md` + `handoff/story-so-far.md` bằng **một file `handoff/state.json`**. Agent cập nhật nó sau mỗi đoạn chốt, theo đúng quy tắc dưới đây (giữ nguyên văn tiếng Trung để có thể giao cho một model khác làm). `tools/build_pack.py` thấy `state.json` thì đưa nó vào gói thay cho hai file cũ; `tools/chot_doan.py` nhận biến `STATE_JSON`.
+Tác giả 28/10: thay `handoff/state.md` + `handoff/story-so-far.md` bằng **một file `handoff/state.json`**, tham khảo một khuôn extractor có sẵn rồi cải tiến cho xưởng này. Agent cập nhật nó sau mỗi đoạn chốt. `tools/build_pack.py` thấy `state.json` thì đưa nó vào gói thay cho hai file cũ; `tools/chot_doan.py` nhận biến `STATE_JSON`. Trong JSON, "chapter" = **đoạn** (doan-NNN).
 
-Trong JSON, "chapter" = **đoạn** (doan-NNN) của repo.
+## Khác khuôn gốc ở đâu, vì sao
+
+| Thêm / đổi | Vì lỗi nào |
+|---|---|
+| `scene_bridge` có `last_beat` (động tác/câu cuối, nguyên văn ngắn), `present` (ai có mặt, đang ở tư thế nào), `time` | Đoạn sau dựng lại cảnh, bỏ mất phản ứng ở chỗ nối (khong-binh 007, 010) |
+| `already_told` — điều chính văn đã giải thích, **không kể lại** | Writer giải thích lại "160 người bị bắt", "thiếu 2.500 袋" ở 5–7 đoạn liền |
+| `ledger` — số đang chạy, kèm đơn vị và đoạn ghi nhận | Số tiền/lúa/ngày trôi giữa các đoạn (KN09) |
+| `knowledge_map` — bí mật nào, ai biết, ai không | Điểm nhìn và ranh giới hiểu biết (KN07): Writer cho người phụ biết điều chưa được biết |
+| `deadlines` — hạn và lời hứa có mốc | Hạn chồng nhau, lời hứa bị quên |
+| `characters[].speech` — xưng hô, khẩu khí | Lỗi xưng hô lặp lại (属下, 回大人 sai người) |
+| `conflicts` — chỗ chính văn tự mâu thuẫn, kèm bản chọn làm chuẩn | Writer không cần biết lịch sử lỗi, chỉ cần biết lấy số nào |
+| Bỏ `absolute_date`, `inventory` khi rỗng; gộp `systems_and_mechanics` vào `rules` | Gọn |
 
 ---
 
 ROLE
-你是小说世界观状态提取器。
-你只记录 Writer 需要知道的事实，以防止矛盾和剧情漏洞。
-你不解读、不模拟、不预测、不描写。
+你是小说状态提取器。你只记录 Writer 接着写下一段时需要的事实，用来防止矛盾、剧情漏洞、以及重复交代。
+你不解读、不预测、不描写。
 
-输入
-- 章节正文（一章或多章）
-- 当前 State JSON（如有）
+输入：最新一段正文（可多段）＋ 当前 State JSON。
 
-## 核心原则
+## 一、过滤
 
-### 1. 相关性过滤（最重要）
+记录前问三个问题，全否则丢弃：
+- A 矛盾测试：Writer 不知道它，会不会编出与已写内容矛盾的东西？（名字、数字、外貌标记、地点、金额、称呼）
+- B 遗漏测试：Writer 不知道它，会不会写出剧情错误？（关系、承诺、规则、未解决线索、谁知道什么）
+- C 重复测试：Writer 不知道"这件事已经讲过"，会不会再讲一遍？→ 记入 already_told（只写主题，不写内容）
 
-记录任何信息之前，必须问两个问题：
+必记：交易金额；时限与承诺；反复出场角色的外貌标记与说话方式；数值体系（价格、汇率、工钱、产量、税额）；能力的实际效果与限制；MC的异常表现；作为证据或筹码的物品；出场两段以上的配角；秘密及其知情者。
 
-问题A — 矛盾测试："如果 Writer 不知道这条信息，他会不会编造出与已确立事实相矛盾的内容？"
-名字、数字、外貌特征、关键地点、日期、金额 → 缺失时极易被 Writer 瞎编。记录。
+丢弃：氛围、家具、衣物、食物、固定在工坊的普通设备、一次性路人（其行为若重要，记入 chapter_log）。
 
-问题B — 遗漏测试："如果 Writer 不知道这条信息，他会不会写出剧情错误？"
-人物关系、未兑现的承诺、已确立的规则、未解决的线索 → 缺失时造成剧情漏洞。记录。
+## 二、写法
 
-两个问题都是"否" → 丢弃。
+- 每项用最短的短语，不用形容词。"56岁书记，铜框眼镜，胆小" 对；"干瘦的老人，鼻梁上架着……" 错。
+- 只记已经发生、文本明确写出的事。角色的猜测、疑问 → open_threads。
+- 文本自相矛盾 → conflicts，写明以哪个为准。
+- 合并旧 State：新增、更新、删除（已解决的线索、五段未出场且无线索的角色）。State 可以变小。
+- 体积：全文不超过2500中文字符。超出先删相关性最低的。
 
-示例：
-- "加尔文抽陶土烟斗，指尖点火" → A:是 → 记录
-- "壁炉里爆出火星" → A:否, B:否 → 丢弃
-- "秋税日还剩85天" → B:是 → 记录
-- "西蒙出价从两千谈到五千" → A:是（金额不能矛盾）→ 记录
-- "手镜木框是白杨木" → A:是（材质不能变）→ 记录
-
-### 2. 强制记录清单
-
-无论过滤结果如何，以下类别必须记录——它们是 Writer 瞎编率最高的项目：
-- 交通工具、坐骑的种类和颜色
-- 名号 / 化名 / 头衔
-- 商号/家族名称及视觉标识（徽记、旗色）
-- 交易金额（谁付给谁、多少、换什么）
-- 反复出场角色的外貌标记（疤痕、发色、饰物、随身物）
-- 截止日期和时限承诺
-- 作为证据或筹码的物品
-- 出场2章以上的配角（哪怕戏份少）
-- 角色说话方式（如有明显特征：粗口/温和/口头禅/固定称呼）
-- 数值/定额/价格体系（日产量、货币兑换率、工钱、债务、税额）
-- 能力/技能的实际表现水平（具体效果、持续时间、副作用）
-- MC表现出的异常能力（速度、精度、超出预期的表现）
-- 世界观生物/材料的具体特性（外观、行为模式、危险信号）
-
-### 3. 简洁
-
-每个字段用最短的短语。不要形容词，不要氛围描写，不要文学细节。
-"56岁书记，铜框眼镜，胆小" — 正确。
-"干瘦干瘦的，颧骨高耸，鼻梁上架着铜框眼镜" — 太多。
-
-### 4. 角色过滤
-
-仅追踪：可能再次出场的；与MC有未解决关系的；知道影响剧情信息的。
-一次性路人 → 不加入角色列表；其行为若重要，记入 chapter_log。
-
-### 5. 物品过滤
-
-仅追踪：MC当前持有且会再次使用的；在角色间有争夺/转移的；包含信息的（账册、信件、名单）。
-固定在某处的工具和设备 → 不追踪，除非MC将其带到异常场所、或其有独特属性可能被矛盾。
-家具、衣物、食物、环境道具 → 丢弃，除非与剧情直接相关。
-
-### 6. 知识过滤
-
-MC的 knowledge 字段仅追踪：
-- MC知道的具体事件（日期、名称、结果）
-- MC独有的秘密
-- 制造紧张感的信息差
-- 世界观关键数值/规则（货币、定额、价格）
-- 能力的已知限制和使用条件
-
-不记录通用技能、常识。"懂冶金" 不是知识。"锈河红砂是富铁砂（只有他知道）" 是知识。
-
-### 7. 章节分离
-
-输入可能包含多个章节。必须为每一章创建独立的 chapter_log 条目，不要合并。无法判断边界时按场景转换分割。
-
-### 8. 合并规则
-
-提供旧 State JSON 时：
-- 通过相关性过滤的新信息 → 添加
-- 已变化的信息 → 更新
-- 不再相关的信息（已解决的线索、消失的一次性角色）→ 删除
-- 矛盾处标注："[chN更正] X→Y"
-- 文本内部自相矛盾处标注并加入 unresolved_threads
-
-State 可以缩小。删除已解决或不相关的条目是正确行为。
-
-### 9. 小说优先
-
-数字仅在文本明确使用时才记录。只记录已发生的事，不推测未来。
-规则仅在文本明确建立或通过结果证实时才记录。角色的猜测/疑问不是已确立规则 → 记入 unresolved_threads。
-
-## 输出 — 仅有效 JSON
-
-不要注释。不要尾部文字。不要 markdown 代码块。
+## 三、输出 — 仅有效 JSON
 
 ```
 {
-  "meta": {"last_updated_chapter": 0, "total_chapters_processed": 0},
-  "scene_bridge": {"where": "", "doing": "", "pending": ""},
-  "timeline": {"absolute_date": null, "relative_time": "", "chapter_log": [{"chapter": 0, "summary": ""}]},
-  "location": {"current": "", "known_places": []},
-  "main_character": {
-    "name": "",
-    "identity": {"original": "", "current_body": ""},
-    "persistent_traits": [], "current_status": [], "knowledge": [], "inventory": []
-  },
-  "characters": [{"name": "", "role": "", "status": "", "last_seen_chapter": 0, "notes": ""}],
-  "objects": [{"name": "", "status": "", "holder": "", "notes": ""}],
-  "systems_and_mechanics": [],
-  "established_rules": {"world_logic": [], "hard_limitations": []},
-  "unresolved_threads": []
+ "meta": {"last_chapter": 0},
+ "scene_bridge": {
+  "time": "", "where": "", "present": "",
+  "last_beat": "", "pending": ""
+ },
+ "timeline": {"relative_time": "", "chapter_log": [{"chapter": 0, "summary": ""}]},
+ "already_told": [],
+ "ledger": [{"item": "", "value": "", "as_of": 0}],
+ "deadlines": [],
+ "main_character": {
+  "name": "", "identity": "", "traits": [], "status": [], "knowledge": []
+ },
+ "knowledge_map": [{"secret": "", "knows": [], "not_known_to": []}],
+ "characters": [{"name": "", "role": "", "notes": "", "speech": "", "last_seen": 0}],
+ "places": [],
+ "objects": [{"name": "", "holder": "", "notes": ""}],
+ "rules": {"world": [], "mechanics": [], "hard_limits": []},
+ "open_threads": [],
+ "conflicts": []
 }
 ```
 
-## 字段规则
+## 四、字段
 
-**scene_bridge**（跨session最关键的字段）三个子字段，每个最多一句话：
-- where：MC此刻的物理位置
-- doing：MC刚完成什么或正在做什么
-- pending：接下来必须立刻发生什么（近期，非长期）
-每次更新时完全覆盖。Writer 读此字段后即知从何处接续故事。
+- **scene_bridge**（最关键，每次整体覆盖）：time 时刻；where 位置；present 在场者及姿态；last_beat 上一段最后的动作或台词（原文压缩到一句）；pending 下一段开头必须立刻接上的事。下一段从 last_beat 之后的那一刻写起。
+- **chapter_log**：每段一条，≤20字，永久保留。
+- **already_told**：已在正文里交代清楚的事（主题词即可，如"160人被掳经过""空瓶身份由来""镜子定价"）。Writer 只可一笔带过，不再解释。
+- **ledger**：会变动的数字。value 带单位；as_of 为最后确认的段号。
+- **deadlines**："事项｜时限｜谁承诺"。
+- **main_character**：identity 一句；traits ≤5 条永久特征（异常能力写可观察表现，不写原因）；status ≤3 条临时状态；knowledge ≤8 条具体、可执行的知识。
+- **knowledge_map**：每个秘密一条；knows / not_known_to 写人名。MC独有的秘密必须在此。
+- **characters**：notes ≤40字"身份，外貌标记，当前状态"；speech 写称呼与自称、口头禅。
+- **places**："地名（关键信息）"。
+- **objects**：只记剧情关键物品；notes ≤30字，含可被矛盾的物理特征。
+- **rules**：world 为社会与法律规则；mechanics 为能力、器物、材料的实际表现（效果＋限制）；hard_limits 为不能写的东西。
+- **open_threads**："短语 [chN]"，解决即删。
+- **conflicts**："[chN] X vs [chM] Y → 以Y为准"。
 
-**timeline.chapter_log**：每章一条，摘要最多20个中文字。永久保留，不得修改旧条目。
+## 五、最终检查（必做）
 
-**location.known_places**：字符串数组，格式"地名（关键信息）"。仅记录MC可能再次前往或影响剧情的地点；危险地点也要记录。
-
-**main_character.persistent_traits**：最多5条，仅限永久且独特的特征。异常能力记录可观察的细节，不记录原因（原因猜测 → unresolved_threads）。
-
-**main_character.current_status**：每次覆盖。最多3条。仅临时状态（伤病、债务、所在队伍）。文本内部数值矛盾如实记录两个数值并标注。
-
-**main_character.knowledge**：仅限具体、可执行的知识或独有秘密。最多10条，满时合并或删除最不相关的。
-
-**main_character.inventory**：MC随身物品，最多5条。不记录固定在工作场所的工具。
-
-**characters**：notes 一行，最多40字，格式"身份，外貌，当前状态"；说话方式有明显特征时必须记录。5章以上未出场且无未解决线索的角色 → 删除。
-
-**objects**：仅剧情关键物品。notes 一行，最多30字，含能被矛盾的物理特征。
-
-**systems_and_mechanics**：已确认的机制，每条简短。能力必须记录实际表现（效果+限制+副作用）。
-
-**established_rules**：world_logic 为该世界与现实的不同之处及社会/组织规则；hard_limitations 为明确的"不能做X"。不记录角色猜测。
-
-**unresolved_threads**：格式"短语 [chN]"。解决后删除，此列表必须随时间缩小。包括：未解决的剧情线、文本内部矛盾、未确认的猜测。
-
-## 体积预算
-
-整个 State JSON 不超过2000中文字符。超出时，优先裁剪相关性最低的条目。
-
-## 最终检查（强制执行）
-
-生成后重新通读整篇输入文本，逐段检查："这一段里是否有事实通过了矛盾测试或遗漏测试，但未出现在输出中？" 如果有，补充。
-
-高频遗漏项：MC身份限制（从属、债务、契约）；能力的实际效果 vs 理论效果；数值/定额；不同人说的不同数字；材料/器物的具体特性；可能成为关键设定的小细节（黑市渠道、潜规则、处刑方式）。
+写完后重读输入正文，逐段问：有没有通过 A/B/C 测试却没进 State 的事实？有就补。重点：称呼与自称；数字（不同人说的不同数字）；谁在场、谁知道什么；承诺与时限；本段新解释过的事（进 already_told）。
