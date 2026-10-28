@@ -22,3 +22,4 @@
 2026-10-28 | doan-010 | Chốt — bẫy "phu trốn" gãy bằng sổ chết dịch | Duyệt: Agent
 2026-10-28 | doan-011 | Chốt; Agent sửa 火系→土系 cho 巴尔萨泽 | Duyệt: Agent
 2026-10-28 | doan-012 | Chốt — lưỡi hái, vụ gặt, đốt lúa ở 枫树屯 | Duyệt: Agent
+2026-10-28 | handoff | Tác giả: chuyển kho thông tin sang State JSON. handoff/state.json trích từ 001–012 theo chung/state-extractor.md; state.md + story-so-far.md chuyển vào archive/handoff-md; gói mở session dán 2.500 chữ cuối đoạn trước | Duyệt: Tác giả
