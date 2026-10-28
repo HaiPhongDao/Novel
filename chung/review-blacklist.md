@@ -75,6 +75,73 @@ Khẩu lệnh ngắn có thể đúng chức năng. Đọc liền cuộc trao đ
 - Lời kể vào đầu nhân vật mà prompt chỉ cho hiện qua mắt nhân vật chính (tay sai, người của phe địch) — rất dễ lộ bí mật ("城里那位大人预想的…"). Writer hay lấp bằng cách này khi cảnh có chỗ trống "người kia nghĩ gì".
 - Câu hỏi tu từ của người kể đứng một mình ("…到底有什么？").
 
+## Phủ định song song (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Ba cụm phủ định liền nhau để mô tả một người hoặc một trạng thái: "没扶过犁，没挥过铁镐，更没…",
+  "没有握过剑柄，更没有摸过农具", "没有回旋余地，没有体面借口".
+- Khuôn "phủ định + phủ định + 只有/只是" để nâng nhân vật: "没有嘲讽，也没有敬畏，只有…", "既没有下令，
+  也没有叹气，只是…".
+- Khuôn "不是 A，而是 B" đứng một mình như một câu nhận định của người kể.
+- **Nguồn có thể nằm trong nhà:** SI từng chứa chuỗi phủ định bốn vế, và anchor từng chứa "都不见了 ×3".
+  Khi văn lặp lại một khuôn mà SI/anchor cũng dùng, sửa SI/anchor trước khi bắt Writer.
+- Cách thay: tả người bằng thứ tay đã làm, thứ mang theo, thứ đang giữ; mỗi đoạn một cái thiếu, gắn với
+  cái giá của nó.
+
+## Khuôn "thật/实" (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Động từ + 实 để tự bảo đảm "cụ thể": "每踩实一步", "把袖口攥实", "把话说实", 坐实/砸实/压实.
+- Cụm nhấn cùng họ: 实实在在地, 实打实, 结结实实, 真真切切, 扎扎实实, 落到实处.
+- Đây là độ cụ thể **giả**: nó không thêm chi tiết, chỉ thêm phó từ. Cách thay: cho kết quả nhìn thấy
+  được (bản lề gãy làm hai, chân trượt, tay tê) và để động từ mang sức nặng.
+- Đếm bằng `python tools/soat_van.py <file>` — cột `khuon-shi`.
+
+## Nhãn ngữ điệu gắn vào lời nói (Tác giả bắt 25/10)
+- "语气平淡" "声音没有任何起伏" "语调生硬" "淡淡地说" "面无表情地道": nhãn thay cho nội dung.
+- Câu nói nào cũng có nhãn thì người đọc không còn phân biệt được giọng ai với ai.
+- Thẻ thoại đúng chức năng: **ai nói + tay/mắt đang làm gì**; ngữ điệu nằm trong chữ họ chọn.
+- Đếm bằng cột `nhan-ngu-dieu`; xem thêm cột `tb-chu-luot`, `luot-cut` để biết thoại có mang tin không.
+
+## Thoại không chủ ngữ, không tiền đề (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Nhân vật chính nói một câu trạng thái không ai hỏi trước, không có chủ ngữ: *"站久了有些发眩。"* —
+  người đọc không biết ai đang nói với ai, và câu mọc từ đâu.
+- Người hầu báo việc mà không nói việc đó **cho ai**: *"待会儿便送进书房"* — thiếu "给大人".
+- Dạng đúng: *"我站久了，有些发晕。"* · *"小的让灶房温了一锅燕麦糊，待会儿便给大人送进书房。"*
+- Kiểm: mỗi lượt thoại có chủ ngữ trong chữ (我 / 小的 / 大人), và có người nhận (给大人 / 给您), hoặc là
+  câu trả lời cho lượt ngay trước.
+
+## Register xưng hô sai bối cảnh (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Người hầu trong trang viên Tây huyễn nói bằng dạng Trung Hoa đế quốc: "老奴", "奴才", "属下", "末将".
+- Người hầu gọi chủ bằng "少爷" khi không phải người nuôi chủ từ nhỏ; gọi thẳng tên chủ.
+- Đẳng cấp chỉ hiện ở từ gọi mà thiếu tư thế: không đứng khi chủ ngồi, không dâng bằng hai tay, không
+  lùi nửa bước, không mở báo cáo bằng 回大人, chủ tự giải thích việc mình làm cho người hầu.
+- Register đúng của repo (theo `lanh-chua-chip`): 大人 / 老爷 / 领主大人; tự xưng 小的 / 小人; 爵士;
+  会长; 神父; 老丈. 陛下 chỉ cho vua, 殿下 chỉ cho vương tử.
+
+## Câu cụt (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Một trạng thái hoặc một con số đứng thành câu riêng: "发凉。", "二十三岁，刚捡回一条命。", "冻死了两只。"
+  — đọc lên mất nhịp, như người kể đang đọc phiếu.
+- Dấu hiệu: nhiều mệnh đề ≤4 chữ; nhiều đoạn chỉ một mệnh đề; câu kể trung bình dưới 20 chữ.
+- Chặn cả hai đầu: mệnh đề cụt gia nhập câu nó thuộc về; dấu chấm làm việc sau hai ba mệnh đề.
+- Đếm: `soat_van.py` chưa có cột riêng — dùng script tạm (mệnh đề ≤4 chữ, độ dài câu kể) hoặc đọc.
+
+## Thẻ thoại mở đầu mọi lượt (Tác giả bắt 25/10)
+- "Osric 微微躬身说道，“…”" ở 24/25 lượt; mỗi đoạn thoại mở bằng tên + 说道.
+- Cách thay: vài lượt chạy bằng lời trần, tên quay lại khi cần phân biệt; động từ nói đi với việc tay chân.
+- Đếm: cột `the-thoai` (số thẻ) và `tag-dau-doan` (số đoạn mở bằng thẻ).
+
+## Nhân vật chỉ nói việc (Tác giả bắt 25/10, Lãnh Chúa Khoa Học)
+- Hai người gặp nhau ở cửa, ở sân, ở phòng sổ mà lượt đầu tiên đã là "vì sao cái bản lề gãy": không chào,
+  không hỏi thăm, không có gì ngoài công việc.
+- Dấu hiệu: mọi lượt thoại đều đẩy cốt truyện; không lượt nào nói về người, về nhà, về chuyện đang xảy
+  ra quanh họ; người hầu chỉ có số liệu để báo.
+- Khi gặp: hỏi sức khỏe, đồ ăn, người chết, ai đến ai vắng, một chuyện ngoài việc (con vật, thời tiết,
+  hàng xóm), rồi việc mới bắt đầu.
+- Đo bằng `tb-chu-luot` và `luot-cut` cùng việc đọc: thoại dài ra không đồng nghĩa có đời sống, nhưng
+  thoại toàn 5–6 chữ thì gần như chắc chắn là hội họp.
+
+## Mẫu bám của model (không phải của truyện)
+- So sánh tư thế đứng bằng "cọc gỗ": "烂木桩" (A), "旧桩子" (B), "枯木桩" (E) — ba bản bốn lần, không
+  có trong bible lẫn prompt. Khi một hình ảnh lặp qua nhiều bản độc lập, đó là mẫu của model.
+- Giọng người kể + "得像…" để tả giọng nói (đã có ở mục lỗi chung), và "像两块磨石在蹭" cho giọng khàn.
+
 ## Số liệu
 - Writer tính sai phép tính đơn giản (vd. 143 pound thịt chia 146 người thành "thêm ba ngày rưỡi"; thiếu lương "trước mốc" bị viết thành "thiếu giữa mùa đông"). Agent kiểm mọi con số; state giữ số đúng.
 - Số Ả Rập trong lời kể chỉ ngày ("第6天", "第3天") — lời kể dùng chữ Hán.
