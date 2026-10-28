@@ -56,3 +56,9 @@ Mẻ sắt nguội; 西蒙 tự tính lại ván cược trong đầu: sắt th�
 | 004 | Gương đầu tiên; 赫伯特 tính giá | 西蒙 tới |
 | 005 | 西蒙 mua, đề nghị góp vốn | — |
 | 006 | Điểm nhìn khác: 巴尔萨泽 thấy gương ở 维林港 | — |
+
+## 013–020 (Agent lập 28/10; 013–015 đã viết)
+- **013:** 枫树屯 cháy, khóa cương, dừng ở sông giới, hứa với 艾尔莎. **014:** 玛尔塔 biết ống là vũ khí; đơn 硝石. **015:** 加尔文 gạch số trong thư; bắt sống kẻ đốt lúa — 班克 (芦苇荡).
+- **016:** Mở ngay khi 赫伯特 đọc tên 班克. Dân 芦苇荡 kéo tới, có người nhà 班克. 洛伦 cho nắn tay, cho ăn; không tra khảo. 班克 kể bằng chuyện của anh: 黑石 hứa ai đốt được lúa 锈河 thì được tháo vòng cổ, ai trốn thì người cùng hầm bị đánh; trong 160 người, bao nhiêu còn sống, ngủ ở hầm nào. 加尔文 nói lời khai của một phàm nhân không là gì trước 魔导议会, nhưng một người 锈河 "chết dịch" còn sống ở mỏ 黑石 thì là chuyện khác — và cũng là chuyện nguy cho chính người ghi sổ. **Dừng:** 班克 nói 巴尔萨泽 đang gom thêm kỵ, định sang sau vụ gặt, và nói ngày.
+- **017:** 洛伦 giấu 班克 (không trả, không giết, không để 黑石 biết hắn còn sống). Đêm, cùng 玛尔塔 bắn thử chiếc ống đầu bằng một mẻ thuốc nhỏ — 硝石 cạo từ đất chuồng ngựa cũ, chưa đủ chờ thuyền 西蒙. Bắn vào tấm ván ở một trăm bước. **Dừng:** khói tan, hai người cầm đuốc đi về phía tấm ván.
+- **018:** Mồng mười (khoảng ngày 48): thuyền 西蒙 tới với 硝石, lưu huỳnh, chì; 西蒙 kể ở 维林港 người của 黑石 đang dò hỏi thương hội; tiền trả trước lần hai. **Dừng:** 西蒙 hỏi mua thứ gì đó ngoài giao kèo.
