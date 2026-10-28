@@ -11,3 +11,4 @@
 2026-10-29 | MC | Kiếp trước người Nhật (Tác giả). Chi tiết Kudo Shun, 12 năm trợ lý, mẹ ở Niigata, Fujii là đề xuất của Agent | chờ Tác giả duyệt | Agent
 2026-10-29 | handoff | Bỏ canon-card.md, thiết lập cố định nằm trong state.json | Tác giả: thẻ thiết lập cố định đã có trong State | Duyệt: Tác giả
 2026-10-29 | doan-002 | Dành phần lớn đoạn cho MC: kiếp trước, vì sao chọn truyện tranh, hoàn cảnh, quan hệ; Kurosawa lùi sang 004 | Tác giả | Duyệt: Tác giả
+2026-10-29 | doan-001 | Chốt bản chạy 1 (SỬA NHẸ): Writer kể sớm kiếp trước + 【分镜库】 (757 字) vì State có sẵn; ghi already_told, sai '九成以上' vào conflicts | review | Agent

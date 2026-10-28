@@ -16,4 +16,4 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` — Tác giả duyệt 29/10 | — | — | — |
+| 001 | `briefs/doan-001.md` | `chapters/doan-001.md` (3.271 字) | SỬA NHẸ | ✅ 29/10 |
