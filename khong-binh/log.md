@@ -49,3 +49,4 @@
 2026-10-28 | doan-003 | Tác giả: tới lò rèn mà không ai phản ứng → bản SI v1.3 vào archive; brief thêm nhịp gặp mặt (dân trấn dừng tay xem, 玛尔塔 và thợ phụ chào theo phép phàm nhân), chạy lại | Duyệt: Tác giả
 2026-10-28 | doan-003 | Chốt (SI v1.3, bản 2) — xuống trấn, 玛尔塔 quỳ đón, lắp bễ, 加尔文 soi bảo trống, cát ra thủy tinh đục, bữa tối giá gương | Duyệt: Agent
 2026-10-28 | dàn ý | Tác giả: 'Duyệt, chạy 10 đoạn tiếp' → Agent lập dàn ý 011–013 (cục gang giòn, 炒铁 + 钐刀, mua lúa dư bằng tiền, thư 赛德里克) và brief 004–013 | Duyệt: Agent (Tác giả giao chạy 10 đoạn)
+2026-10-28 | doan-004 | Chốt — thuê đãi cát, hạ phí bến, mười ngày ra 20+2 gương, khách đầu trả 27 金币, 西蒙 tới | Duyệt: Agent
