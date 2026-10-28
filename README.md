@@ -11,6 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
+| [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | 我在千禧东京画漫画 — Tokyo 2000, người xuyên việt làm ca đêm quán truyện tranh vẽ lại tác phẩm đời sau; bộ mẫu 我在泡沫东京画漫画 | Bible + SI v1 + brief 001, chờ Tác giả duyệt |
 
 ## Cấu trúc
 
