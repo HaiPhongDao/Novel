@@ -49,28 +49,34 @@ Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi 
 ### Đoạn 5 — 2.000 金币 và lò đứng
 洛伦 cùng 加尔文 tới kho. 西蒙 nói thẳng: gương ra từ máy, ông không cần biết máy, chỉ cần hàng — ở 维林港 gương tay bán 5 金币, vào nội quyến pháp sư 中环 8 金币 trở lên. Ông đề nghị 2.000 金币 mua quyền mua độc quyền mọi thứ 锈河 làm ra trong ba năm. 赫伯特 suýt đánh rơi sổ (gần bảy năm thuế); 加尔文 bảo số ấy mua được ba trang trại nho. 洛伦 cười lâu, rồi kể chuyện "sách cũ ở quê": phú thương mua đứt nồi của người thợ rèn có búa nước, người thợ dựng thêm ba mươi búa ở hạ du, kho nồi thành sắt vụn. 西蒙 hiểu ý — cược vào bàn tay làm ra đồ — nhưng hỏi: trong kho chỉ còn hai tấm gương, cậu lấy gì đòi giá cao hơn. 洛伦 dẫn ra bãi sông: cạnh lò rèn 玛尔塔 là lò đứng đất sét cao hơn hai người, bễ piston đập đều, mấy chục sọt cát đen nặng chờ nạp. 加尔文 魔视 thấy toàn xám chết, ngáp, hỏi có phải nung gạch. 洛伦 đứng chắn tầm nhìn của 西蒙 vào bễ. 玛尔塔: "đáy lò thành canh rồi". 洛伦 bảo 西蒙 nhìn lỗ tháo, gật đầu; que sắt chọc vỡ nút đất.
 
+### Đoạn 6 — mẻ gang đầu và giao kèo
+Xỉ chảy trước, rồi gang lỏng theo rãnh cát, nguội thành hơn hai mươi thỏi xám. 加尔文 魔视 thấy sắt thường: thiếu sắt thì mua của 黑石. 玛尔塔 nghĩ: một mẻ bằng chồng bà rèn một tháng. 西蒙 tính trong đầu: gương vài chục tấm một tháng, còn sắt — 维林港 hơn mười vạn dân, gang chở xe từ núi bắc 12 银币/100 磅, nửa là cước — và cả lòng sông là quặng. Ông nâng lên 3.500 金币; 洛伦 chốt 5.000 金币 ba năm, chỉ gương và đồ sắt dân dụng, máy/bản vẽ/thợ ở lại, không vũ khí; trả trước 400 金币 khi thuyền quay lại sau mười ngày; 西蒙 chở 2.500 袋 lúa bán theo giá, 锈河 tự trả. Bắt tay; thuyền xuôi lúc chiều. Tối, kho 352 金币; 赫伯特 hỏi tin được không — 洛伦: 西蒙 sống bằng lãi, bán tin cho pháp sư thì chỉ bị nuốt. Trải bản đồ: 加尔文 chỉ 黑石 (巴尔萨泽, ba sao, thiếu phu, lấy cớ bắt nô lệ trốn để sang bắt người); 玛尔塔 báo 3 xe than, 22 thỏi gang, nghe 黑石 thì cứng người — chồng bà bị bắt ở ruộng hai năm trước. 赫伯特 vạch sông xuống 维林港, thương hội pháp sư lấy ba phần. 洛伦 đặt ngón tay lên 核心环, hướng 索恩家族.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 5)
+## 3. Trạng thái hiện tại (hết đoạn 6)
 
-**Thời điểm:** chiều ngày bán gương đầu (khoảng ngày 13); còn ~107 ngày tới 秋税日.
-**Có mặt:** bãi sông cạnh lò rèn — 洛伦, 西蒙, 加尔文 (đứng năm bước ngoài, vừa ngáp), 赫伯特 ôm sổ, 玛尔塔 cầm que sắt ở lỗ tháo, hai thợ phụ kéo bễ.
+**Thời điểm:** tối ngày bán gương đầu (khoảng ngày 13); còn ~107 ngày tới 秋税日.
+**Có mặt:** phòng đọc 督政官邸 — 洛伦 ngón tay đặt trên 核心环 ở góc tây bắc bản đồ; 赫伯特; 加尔文 ngậm tẩu; 玛尔塔 vừa báo sổ, đứng im.
 
 **Nhân vật chính biết**
-- 西蒙 đề nghị 2.000 金币 cho quyền mua độc quyền ba năm; anh chưa nhận.
-- Mẻ đầu của lò đứng sắp tháo: sắt luyện từ cát đen đỏ của sông.
+- Giao kèo với 拉斐商会 (bắt tay, chưa có giấy): 5.000 金币 / ba năm độc quyền mua gương và đồ sắt dân dụng; trả trước 400 金币 sau mười ngày; 2.500 袋 lúa mạch chở lên bán 4 银币/袋, 锈河 tự trả (500 金币).
+- Lò đứng ra gang giòn; muốn sắt dẻo, thép phải có lò luyện lại (chưa nói ra).
+- 巴尔萨泽 ở 黑石 thiếu phu, hay sang bắt người; chồng 玛尔塔 chết ở mỏ 黑石.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Ngày tới 秋税日 | ~107 |
 | Thiếu cống | 2.500 袋 = 500 金币 |
-| Kho bạc | 312 + 40 (gương) 金币 |
-| Đề nghị của 西蒙 | 2.000 金币 / độc quyền 3 năm |
-| Giá gương ở chợ khác | 维林港 5 金币; nội quyến 中环 8 金币+ |
+| Kho bạc | 352 金币 |
+| Sắp về | 400 金币 trả trước + 2.500 袋 lúa (phải trả 500 金币) — sau 10 ngày |
+| Mẻ gang đầu | 3 xe than, 2 sọt cát đen → 22 thỏi |
+| Gang ở 维林港 | 12 银币 / 100 磅 |
 
 **Tuyến đang mở**
-- Thứ chảy ra từ lỗ tháo; 西蒙 sẽ trả giá lại.
+- 洛伦 sắp nói về hướng 核心环 / 索恩家族.
+- 加尔文 nhận lương gia tộc, ghi thư về kinh.
 - 西蒙 đã để ý chiếc bễ.
 
 ---
@@ -99,34 +105,33 @@ Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi 
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 5 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 6 (để nối mạch và giữ giọng)
 
-圆柱形的炉身比两个成年男子的身高还要高出些许，炉壁用红黏土混合着细砂浆层层加固。
-暗红色的火光透过炉顶的加料口向外喷吐，将周遭数丈的空气烘烤得微微扭曲。
-在黏土高炉的底座侧面，巨大的木质双动活塞风箱正在规律地前后推动。
-两个光着膀子的铁匠学徒合力拉动着连杆，伴随着沉闷的呼啸，狂暴的空气源源不断地压入炉膛深处。
-炉腹部位的火苗呈现出刺目的明黄色，那是寻常炭火很难达到的极高温度。
-加尔文站在五步之外，双瞳泛起一层极其微弱的蓝光。
-在他的魔视观察之下，眼前的土炉子和巨大的木盒子完全是一片死寂的灰白色。
-这里没有哪怕一丝魔力的流动，纯粹就是由泥巴、木头和炭火拼凑出来的笨重粗活。
-这位二星法师收回了视线，懒洋洋地打了个哈欠。
-“折腾了半个月，洛伦少爷，您就是带着两个泥脚在河滩上烧砖瓦么？”
-西蒙的脚步却停在了炉子十步开外的位置，目光在那个飞速抽动的木箱上停留了很久。
-做大宗木料生意的商人，对这种新奇的箱体结构展现出了异乎寻常的警觉。
-每一次推拉都伴随着持续的风声，这绝非普通铁匠铺里那种风囊可以比拟的效率。
-洛伦侧过身子，正好挡住了西蒙探寻风箱进气阀门的视线。
-他可没打算给这位维林港的大商人上一堂器械构造课，工坊里的核心机密迟些日子才会公开。
-技术构想是领地最锋利的底牌，多保留一天，就能多赚取十倍的利润。
-炉膛边上堆放着几十筐沉重的黑色砂粒，那是学徒们从锈河红水里淘洗出来的重砂。
-玛尔塔裹着厚重的硬牛皮围裙，手里握着一根足有一丈长的粗铁钎。
-女铁匠的脸上沾满了黑色的炭灰，两只眼睛死死盯着炉底那处被耐火黄泥封死的出料口。
-“玛尔塔，炉温到候了么？”洛伦停下脚步，向着炉前的女铁匠开口询问。
-“回大人，底下的料已经化成稀汤了，再憋着就要把炉底烧穿啦！”玛尔塔转过头大声回应着，嗓音格外粗粝。
-西蒙站在洛伦身侧，闻言微微蹙起了眉头。
-高大的泥炉子里只散发着粗糙的焦糊热力，泥土的腥气压过了所有矿石的气味。
-在他眼里，偏远外环的穷酸属地，根本不可能凭空变出比玻璃镜子更值钱的货物。
-“西蒙先生，看好了那处出渣口吧。”洛伦转头看向身旁的商人，随即朝着玛尔塔微微点了点头。
-女铁匠低喝了一声，双臂骤然发力，沉重的铁钎借着全身的重量狠狠捅向封堵的泥口。
-黄泥碎裂的脆响瞬间被炉底沉闷的轰鸣声淹没。
+算上上午卖出镜子得来的四十个金币，官邸金库里的存银已经达到了三百五十二枚金币。
+倘若十天后那四百枚金币的定金和两千五百袋粮食顺利到岸，压在属地头顶的沉重秋税就算有了着落。
+“大人，西蒙这种狡诈的商人，真能信得过么？”老书记小心地放下了鹅毛笔。
+“西蒙是靠利润活着的平民，他的信誉来自他想赚更多的钱。”洛伦靠在椅背上，指尖敲击着桌面。
+这是纯粹的利益捆绑，商人只会维护给他带来暴利的源头。
+拉斐商会在维林港被法师抽走三成利润，平日里日子过得相当紧巴。
+他要是把高炉的消息卖给议会，顶多换来几张廉价的嘉奖令，甚至商会都会被那些贪婪的法师借机吞并。
+只有让锈河的高炉日夜喷吐铁水，这位大商人才能持续从平民口袋里掏走银币。
+“把属地周边的地形图拿出来吧，赫伯特。”洛伦收敛了笑意。
+老书记站起身，将一张泛黄的羊皮地图摊平在宽大的橡木书桌上。
+加尔文吐出一团发蓝的烟气，粗大的指头戳在了地图正北面的一处高地上。
+“北面是黑石属地，督政官巴尔萨泽是个三星法师，出了名的贪婪凶狠。”卫队长咬着烟斗低哼了一声。
+“他的地盘上全是贫瘠的碎煤坑，手底下缺少苦力，最喜欢借口抓捕逃奴越境掳掠人口。”
+书房门被轻声叩响，玛尔塔换下满身炭灰的皮围裙，推门走了进来。
+她是来向洛伦汇报今天这第一炉铁的耗损账目的。
+“回大人，今天一共烧掉三车硬木炭，两筐淘洗出来的红河黑砂，得了二十二根粗铁锭。”
+女铁匠报完数字，目光扫过桌上那张地图，在看到北面黑石两个字的时候，粗壮的双臂骤然绷紧。
+两年前，她的丈夫就是在秋收的麦田边被黑石属地的骑兵强行抓走，最终死在深坑里的。
+屋子里安静下来，玛尔塔垂下眼睛，保持着沉默。
+赫伯特用干瘦的手指压在地图南面，沿着红色河流的虚线划向海口。
+“维林港是自由海港，但城里的税关由中环的法师商会把持。”老书记忧心忡忡地皱起眉头。
+“外来船只进港，都要被他们强行抽走三成利钱。”
+洛伦看着桌上的羊皮纸，目光从凶险的黑石属地移开，又越过了南方的维林港。
+在整张粗糙羊皮纸的西北方向，隔着千山万水，标注着帝国的心脏核心环，以及那个将他流放到这里的索恩家族。
+屋里的几个人都在戒备着近处的恶邻与关卡，谁也没有看向那个遥远的方向。
+洛伦抬起右手，食指稳稳落在了地图西北角的核心环徽记之上。
 
-(Đoạn 6 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 7 sẽ bắt đầu ngay sau chỗ này.)
