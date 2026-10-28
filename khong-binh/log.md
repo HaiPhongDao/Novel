@@ -8,3 +8,4 @@
 2026-10-28 | SI | Vòng SI 2: 3 hướng (bỏ anchor lời kể / thay anchor ch35 / luật lời kể vào prompt) + LAYOUT mới; khung anchor 0/3, đoạn văn 27–30 → 53–59 字 | gemini/test/vong-si-2/danh-gia.md | Agent, chờ Tác giả chấm
 2026-10-28 | SI | Tác giả: vòng SI 2 (X1–X3) "dở hơn đoạn cũ" — bản vòng 1 (SI v1 có anchor lời kể, một câu một dòng) hơn; nhãn vòng 2: X1=D2, X2=D3, X3=D1 | phản hồi Tác giả | Tác giả
 2026-10-28 | SI | Vòng SI 3: nền SI v1, 3 hướng chữa thoại trống không (luật SI / anchor ch1–2 / dòng prompt) | gemini/test/vong-si-3/danh-gia.md | Agent, chờ Tác giả chấm
+2026-10-28 | doan-001 | Thử prompt đoạn 001 theo nhịp ch1 bộ mẫu (gemini/test/doan-001-mau), SI E1; Z2 đủ nhịp, chờ Tác giả chấm | Lý do: Tác giả thấy bản cũ thiếu | Duyệt: chờ
