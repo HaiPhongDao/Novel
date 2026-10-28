@@ -31,3 +31,5 @@
 2026-10-28 | doan-017 | Chốt — giấu 班克 trong phủ; đêm bắn thử ống sắt đầu ở bãi đá hạ lưu, kết quả bia để đoạn sau | Duyệt: Agent
 2026-10-28 | doan-018 | Chốt — thử bắn thành công, đổ cho nồi nung nổ, Garvin soi 魔视 không thấy | Duyệt: Agent
 2026-10-28 | doan-019 | Chốt — hàng Lafi tới, thu 98 trả 65, tin Hắc Thạch mộ lính, Simon hỏi mua bễ | Duyệt: Agent
+2026-10-28 | lần 2 | Viết lại từ đầu theo yêu cầu Tác giả; lần 1 (001–019) chuyển vào archive/lan-1, state.json đặt lại | Duyệt: Tác giả
+2026-10-28 | dàn ý | Duyệt dàn ý 001–010 lần 2 và bảng số (than 5 银币/xe; 西蒙 2.000 → 5.000/3 năm, trả trước 400 trừ vào tiền lúa; công 2 银币/tuần) | Duyệt: Tác giả

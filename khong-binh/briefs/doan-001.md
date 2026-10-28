@@ -17,6 +17,7 @@ Trên tường phòng ngủ treo một tấm thảm dệt cảnh tổ tiên 索�
 
 【Những điểm bắt buộc】
 - Các con số 12.000 袋, 8.400 袋, 120 ngày đúng như thiết lập.
+- 督政官 cũ bị triệu về kinh; chuyện của ông ta sau đó ở kinh thì người 锈河 không ai biết.
 - 洛伦 không dùng được phép và không biết ai là pháp sư cho tới khi thấy ngọn lửa.
 - Bàn tay vàng là trí nhớ như lật sách, không có giao diện hay thứ gì phát sáng.
 

@@ -1,69 +1,89 @@
-# Dàn ý đoạn (arc 1, phần đầu — theo cách bày ch1–6 bộ mẫu)
+# Dàn ý đoạn — lần 2 (viết lại từ đầu, 28/10)
 
-Bản 2 (28/10), viết lại theo `plot/cach-bay-mau.md`: mỗi đoạn kể bằng việc, có cớ để hỏi, người phụ có phần riêng, MC đáp bằng phép tính. **Tác giả duyệt 28/10, kèm ba đề xuất.** Bản 1 ở cuối file.
+Theo `plot/cach-bay-mau.md`: mỗi đoạn ứng một chương bộ mẫu, kể bằng việc chở thông tin, có nhịp đời thường, người phụ có phần riêng, MC đáp bằng phép tính, dừng giữa mạch. Chỗ nối hai đoạn không nhảy thời gian; lần nhảy (nếu có) nằm trong đoạn. Dàn ý lần 1 ở `archive/lan-1/outline.md`.
 
-## 001 — ứng ch1 穿越 (đã thử: Z2)
-Ba ngày sau 灌注, người trong phủ đang sửa soạn thi thể thì 洛伦 mở mắt; người hầu hét 诈尸, gây đổ vỡ. Ký ức kiếp trước và hàng nghìn trang sách ập về, anh ngất lại. Tỉnh lần hai: 赫伯特 và 加尔文 bên giường; anh giả lú, đổ cho 灌注; đòi ăn, chê bữa ăn; hỏi chuyện → 12.000 袋, 120 ngày, năm ngoái 8.400, người tiền nhiệm bị triệu về. Anh tin đây là trung cổ thường và tính sổ trong đầu; cười tấm thảm tổ tiên gọi lửa là chuyện bịa.
-**Dừng:** 加尔文 châm tẩu bằng lửa đầu ngón tay; 洛伦 hỏi có phép thật không; 加尔文 đáp gọn.
+**Trạng thái: Tác giả duyệt 28/10 (cả bảng số).**
 
-## 002 — ứng ch2 萌芽
-Nối thẳng câu đáp. 洛伦 cười gượng: thường thức kiếp trước mất giá, sách trong đầu có còn đáng tiền không thì chưa chắc. Anh hỏi tiếp, hai người mỗi người góp một mảnh: 加尔文 nói về pháp sư, 魔视, vì sao pháp sư không ở 外环 (ma tố loãng, đau đầu); 赫伯特 nói về phàm nhân (cấm giữ vũ khí, cấm học chữ, ông là một trong ba người có giấy phép). Anh hỏi vì sao mình bị đày; 加尔文 đáp thẳng: 0 ma lực, 空瓶, 族长 cần một chỗ để đặt cái tên. Một tin tốt anh tự rút ra: lửa đốt được thì cũng chặn được.
-Anh hỏi gia sản; 赫伯特 mở sổ: 40 lính, kho 312 金币, thu hoạch dự báo ~9.500 袋, thiếu 2.500 袋 = 500 金币. Hỏi vì sao cống cao vậy → 加尔文: gia tộc nộp lên 魔导议会, phần ấy đẩy xuống thuộc địa. Hỏi 锈河 có gì bán được → 赫伯特: lúa, sông thì đỏ "nước máu" không ai dùng, cát sông, một lò rèn của bà goá 玛尔塔; làm thêm thì không đủ người, đang mùa gặt. 洛伦 đáp: ai nói làm thêm phải thêm người. Anh ra cửa sổ, thấy con sông đỏ, và nhận ra nó là gì.
-Anh về phòng đọc. 赫伯特 và 加尔文 ở lại: 赫伯特 lo, 加尔文 bảo 灌注 làm cậu ta lú rồi. Nhảy qua một đêm: anh vẽ bản vẽ tới hết nến, sáng gửi 赫伯特 mang ra lò rèn.
-**Dừng:** trưa hôm sau 赫伯特 báo 玛尔塔 rèn xong linh kiện; 洛伦 bật dậy khỏi giường đi ra lò.
-*Số cấp sẵn:* 312 金币; ~9.500 袋; thiếu 2.500 袋; 1 袋 = 4 银币; 20 银币 = 1 金币; 40 lính.
-
-## 003 — ứng ch3 怎么把钱花光
-Lò rèn 玛尔塔 cạnh bờ sông. 洛伦 ngồi bệt lắp chiếc 风箱 hai chiều (bễ piston) từ linh kiện, vừa lắp vừa giảng; thợ phụ kéo thử, lửa lò trắng lên. 加尔文 nhìn bằng 魔视: chiếc bễ "trống", không có ma tố — đồ chơi. 玛尔塔 phản đối bằng chuyện của bà: than tốn gấp đôi, ai trả tiền than, lò của chồng bà không phải chỗ cho cậu ấm chơi. 洛伦 đáp bằng phép tính: cát sông nung ở nhiệt này thành thủy tinh; một tấm gương bán cho phu nhân pháp sư giá bao nhiêu, đổi được bao nhiêu xe than. Mẻ cát đầu chảy thành thủy tinh đục.
-Nhảy tới bữa tối: 赫伯特 tính lời từ gương, hớn hở; 洛伦 dội nước lạnh — giá sẽ rơi khi gương nhiều lên. Kế hoạch tiếp: hạ phí bến cho thuyền buôn 维林港 lên mua, giữ máy trong tay. 加尔文 nhún vai.
-**Dừng:** 洛伦 hỏi 赫伯特: có tiền rồi thì tiêu vào đâu trước — rồi tự trả lời một nửa.
-*Đã chốt:* gương tay 2 金币, gương đứng 15 金币. Giá than: Agent đặt khi viết prompt 003.
-
-## 004 — ứng ch4 赚钱 (điểm nhìn 赫伯特)
-Hơn mười ngày sau. 赫伯特 ngồi ở kho bến sông chờ khách mua gương đầu tiên, sờ khung gương lần thứ ba. Một thương nhân thuyền 维林港 bước vào, thấy hai mươi tấm gương phẳng giống hệt nhau, không dám chạm; hỏi giá, 赫伯特 đọc giá mà tim đập vì ông biết giá vốn. Khách mua, trong đầu khách tính sẽ dâng cho phu nhân nào để được gì. Tiền vào rương; một buổi sáng bằng mấy tháng thu thuế. 赫伯特 bắt đầu thật sự nghĩ câu hỏi của 洛伦: tiêu sao cho hết.
-Một người đàn ông bốn mươi tuổi sờ mép gương, không hỏi giá, hỏi gương này làm bằng thủ đoạn gì, vì thợ ông quen không mài phẳng được thế. Ông xưng tên: 西蒙·拉斐, 维林港.
-**Dừng:** 赫伯特 sai lính đi gọi 督政官.
-
-## 005 — ứng ch5 大手笔
-Nối thẳng. 西蒙 xem lò, hiểu ngay ai sẽ mua gương; đề nghị bỏ một khoản lớn để giữ quyền bán độc quyền mọi thứ 锈河 làm ra. 洛伦 cười; anh đáp bằng một câu chuyện lấy từ sách kiếp trước về giá của việc đặt cược vào người làm ra của cải. 西蒙 khó chịu vì tiền không mở được cửa, hỏi lại: cậu lấy gì ra mà đòi giá ấy. 洛伦 dẫn ông ra bờ sông đỏ.
-**Dừng:** hai người đứng trước lò thử luyện cát đỏ lòng sông; 洛伦 bảo ông nhìn mẻ đầu tiên chảy ra.
-*Đã chốt:* 洛伦 cho 西蒙 xem sắt luyện từ cát sông đỏ; súng để dành cho trận đầu. Con số 西蒙 đề nghị: Agent đặt khi viết prompt 005.
-
-## 006 — ứng ch6 四战之地
-Mẻ sắt nguội; 西蒙 tự tính lại ván cược trong đầu: sắt thì ai cũng cần, và nó nằm cả dưới đáy sông. Ông chốt giá cao hơn, trả trước một phần, nhận chở lúa từ 维林港 lên bù chỗ thiếu bằng tiền gương. 赫伯特 hỏi tin được không; 洛伦 đáp bằng lợi ích của 西蒙. Về phủ trải bản đồ; mỗi người chỉ một hướng: 加尔文 chỉ 黑石 phía bắc (巴尔萨泽, ba sao, bắt phu), 赫伯特 chỉ đường sông xuống 维林港 (thương hội pháp sư lấy ba phần lãi).
-**Dừng:** còn hướng gia tộc 索恩 chưa ai nói tới.
-*Đã chốt:* 西蒙 chỉ chở lúa từ 维林港 lên bán theo giá; 锈河 tự trả phần thiếu cống lương.
-
-Đoạn 巴尔萨泽 thấy gương ở 维林港 (bản 1 là 006) lùi sang 007.
-
-## 007–012 — ứng ch7 贪婪的人 trở đi (Agent lập 28/10, theo arc 1 đã duyệt: áp lực 黑石, đầu tư ngầm)
-- **007 (đã viết):** 加尔文 nhận viết thư cho 赛德里克; 巴尔萨泽 thấy gương ở 维林港.
-- **008:** 巴尔萨泽 về 黑石, tính với đội trưởng: lấy cớ đòi phu mỏ trốn để thò tay vào 锈河 (điểm nhìn hắn). Nhảy: thuyền 西蒙 tới 锈河 đúng hẹn, 400 金币 + 2.500 袋; 锈河 trả 500. 西蒙 kể có một pháp sư béo ở 维林港 hỏi về thuyền lên 锈河. **Dừng:** 西蒙 nói tên 巴尔萨泽.
-- **009:** (bễ đã chạy bánh xe nước từ 008) 洛伦 dạy 赫伯特 và 玛尔塔 "大人的数字" để ghi sổ lò (nhịp hài). 加尔文 nhận thư hồi âm của 赛德里克. **Dừng:** dân binh báo thuyền cờ đen từ thượng nguồn 黑石.
-- **010:** 达隆 (đội trưởng kỵ binh phàm nhân) + hai mươi tay lục soát + thư ký 考珀 mang danh sách "phu trốn"; dùng 魔视 nhìn lò, thấy trống. 加尔文 đứng giữa theo phép gia tộc; 洛伦 giả ngây, không giao người. **Dừng:** sứ nói 巴尔萨泽 sẽ tự sang đòi sau vụ gặt.
-- **011:** 洛伦 cần sức mạnh mà luật cấm vũ khí: vẽ máy khoan nòng chạy bánh xe nước, gọi là "ống dẫn nước"; lò luyện lại gang thành sắt dẻo. **Dừng:** nòng đầu khoan xong.
-- **012:** Vào gặt; cày lưỡi cong; 赫伯特 cộng sổ lúa. Đêm, người 黑石 đốt một làng rìa bắc, bắt người. **Dừng:** 洛伦 cưỡi ngựa tới làng cháy.
+## Số cấp sẵn cho 001–010 (đã duyệt)
+| Mục | Giá trị |
+|---|---|
+| Gương tay / gương đứng | 2 金币 / 15 金币 (đã duyệt) — 1 gương tay = 40 银币 = 10 袋 |
+| Thiếu 2.500 袋 | = 500 金币 = 250 gương tay |
+| Than củi | 1 xe = 5 银币; lò 玛尔塔 đốt 2 xe/tuần, có bễ thành 4 xe → thêm 10 银币/tuần |
+| Lô gương đầu (004) | 20 gương tay + 2 gương đứng; khách đầu mua 6 tay + 1 đứng = 27 金币 |
+| 西蒙 đề nghị đầu (005) | 2.000 金币, độc quyền 3 năm |
+| Giao kèo (006) | 5.000 金币 / 3 năm; trả trước 400 khi thuyền đầu tới; chở 2.500 袋 lúa giá 4 银币 = 500 金币 |
+| Thuyền đầu (009) | 2.500 袋; 500 − 400 trả trước = 锈河 trả 100 金币 |
+| Công đào cát (008) | 2 银币/tuần = nửa 袋 |
+| Mốc ngày | 001–002 ngày 1–2; 003 ngày 3; 004 bữa tối ngày 3 → ngày 14; 005–007 ngày 14; 007 nửa sau ~ngày 20 (维林港); 008–010 ~ngày 28–29 |
 
 ---
 
-## Bản 1 (27/10, thay bằng bản 2)
+## 001 — ứng ch1 穿越 (khuôn Z2 lần 1)
+**Việc:** Ba ngày sau 灌注, người trong phủ đang khâm liệm thì 洛伦 mở mắt; người hầu hoảng, gây đổ vỡ. Ký ức và hàng nghìn trang sách ập về, anh ngất lại. Tỉnh lần hai, 赫伯特 và 加尔文 bên giường; anh giả lú, đổ cho 灌注. Đói thì đòi ăn → bữa ăn dở → hỏi vì sao phủ ăn thế này → 赫伯特 kể chuyện cống lương: 12.000 袋, 120 ngày, năm ngoái 8.400, người tiền nhiệm bị triệu về.
+**Tin sai → lật:** anh tin đây là trung cổ thường, cười tấm thảm 初代族长 đốt ba vạn quân là gia tộc tự thổi; 加尔文 châm tẩu bằng lửa đầu ngón tay.
+**Đời thường:** người hầu hét xác sống dậy; bánh mì cứng.
+**Người phụ:** 赫伯特 lo chuyện ăn của dân; 加尔文 chán chốn này, mỉa cậu chủ.
+**Dừng:** 洛伦 hỏi thế giới này có phép thật không; 加尔文 đáp gọn.
 
-| Đoạn | Việc | Dừng ở |
-|---|---|---|
-| 001 | MC tỉnh trên giường 督政官邸, ba ngày sau 灌注; 赫伯特 và 加尔文 bên giường. Anh ít nói, để họ tự nói: mình là ai, vì sao ở đây, cống lương 12.000 袋 còn 120 ngày. Tưởng là trung cổ bình thường — tới khi 加尔文 châm tẩu bằng lửa đầu ngón tay. | MC nhìn ngọn lửa, hỏi thế giới này thật sự có phép |
-| 002 | Hỏi về pháp sư, 魔视, vì sao mình là 空瓶; xem sổ của 赫伯特: thiếu 2.500 袋, kho 312 金币. Ra cửa sổ thấy sông đỏ. | MC bảo 赫伯特 dẫn tới lò rèn |
-| 003 | Lò rèn 玛尔塔; bản vẽ; 加尔文 nhìn bằng 魔视 thấy "trống" | lò/máy đầu chạy thử |
-| 004 | Gương đầu tiên; 赫伯特 tính giá | 西蒙 tới |
-| 005 | 西蒙 mua, đề nghị góp vốn | — |
-| 006 | Điểm nhìn khác: 巴尔萨泽 thấy gương ở 维林港 | — |
+## 002 — ứng ch2 萌芽
+**Việc:** Nối câu đáp. 洛伦 cười gượng. Có cớ hỏi từng thứ: anh hỏi "tôi phạm tội gì mà bị đưa tới đây" → 加尔文 đáp thẳng chuyện 0 ma lực, 空瓶, 族长 cần chỗ đặt cái tên. Hỏi pháp sư có ở đây không → 加尔文 kể ma tố loãng, đau đầu, 魔视; 赫伯特 góp mảnh phàm nhân: cấm vũ khí, cấm chữ, ông là một trong ba người có giấy. Hỏi nhà có gì → 赫伯特 mở sổ da dê: 40 lính, 312 金币, dự báo ~9.500 袋, thiếu 2.500 袋 = 500 金币. Hỏi 锈河 có gì bán → lúa, cát, một lò rèn bà goá, sông đỏ không ai dùng; làm thêm thì không đủ người, đang mùa gặt. 洛伦: ai nói làm thêm phải thêm người.
+**Tin sai → lật:** anh tưởng con sông đỏ là sông bẩn; ra cửa sổ nhìn bãi cát đỏ, nhận ra đó là gì.
+**Đời thường:** mặc bộ áo 督政官 rườm rà, thắt sai dây.
+**Người phụ:** khi anh về phòng, 赫伯特 và 加尔文 bàn sau lưng: một người lo, một người bảo cậu ta lú rồi.
+**Nhảy (trong đoạn):** đêm vẽ tới hết nến; sáng gửi 赫伯特 mang bản vẽ ra lò rèn.
+**Dừng:** trưa hôm sau 赫伯特 báo 玛尔塔 rèn xong linh kiện; 洛伦 bật dậy đi ra lò.
 
-## 013–020 (Agent lập 28/10; 013–015 đã viết)
-- **013:** 枫树屯 cháy, khóa cương, dừng ở sông giới, hứa với 艾尔莎. **014:** 玛尔塔 biết ống là vũ khí; đơn 硝石. **015:** 加尔文 gạch số trong thư; bắt sống kẻ đốt lúa — 班克 (芦苇荡).
-- **016:** Mở ngay khi 赫伯特 đọc tên 班克. Dân 芦苇荡 kéo tới, có người nhà 班克. 洛伦 cho nắn tay, cho ăn; không tra khảo. 班克 kể bằng chuyện của anh: 黑石 hứa ai đốt được lúa 锈河 thì được tháo vòng cổ, ai trốn thì người cùng hầm bị đánh; trong 160 người, bao nhiêu còn sống, ngủ ở hầm nào. 加尔文 nói lời khai của một phàm nhân không là gì trước 魔导议会, nhưng một người 锈河 "chết dịch" còn sống ở mỏ 黑石 thì là chuyện khác — và cũng là chuyện nguy cho chính người ghi sổ. **Dừng:** 班克 nói 巴尔萨泽 đang gom thêm kỵ, định sang sau vụ gặt, và nói ngày.
-- **017:** 洛伦 giấu 班克 (không trả, không giết, không để 黑石 biết hắn còn sống). Đêm, cùng 玛尔塔 bắn thử chiếc ống đầu bằng một mẻ thuốc nhỏ — 硝石 cạo từ đất chuồng ngựa cũ, chưa đủ chờ thuyền 西蒙. Bắn vào tấm ván ở một trăm bước. **Dừng:** khói tan, hai người cầm đuốc đi về phía tấm ván.
-- **016 (đã viết):** 班克 khai mỏ 黑石: 131 người còn sống; 24 ngày nữa, đêm trăng tròn (khoảng ngày 63), kỵ 黑石 qua sông. **017 (đã viết):** giấu 班克 ở kho nông cụ; đêm bắn thử ở bãi đá hạ lưu, ván sồi 100 bước.
+## 003 — ứng ch3 怎么把钱花光
+**Việc:** Lò rèn 玛尔塔 bên bờ sông, con trai bảy tuổi chạy quanh. 洛伦 ngồi bệt lắp chiếc bễ piston hai chiều, thợ phụ kéo thử, lửa lò trắng lên. 玛尔塔 cãi bằng chuyện của bà: than tốn gấp đôi, lò của chồng bà không phải chỗ cậu ấm chơi. 洛伦 tính: thêm 2 xe than = 10 银币/tuần; một mẻ cát nung thành thủy tinh, một gương tay bán 2 金币 = 8 xe than = 10 袋 lúa; 250 gương tay là đủ chỗ thiếu.
+**Tin sai → lật:** 洛伦 chờ 加尔文 soi 魔视 thấy máy lạ mà hỏi vặn, đã chuẩn bị lời bịa; 加尔文 soi xong bảo cái bễ "trống", đồ chơi, rồi đi chỗ khác hút tẩu — lần đầu MC thấy pháp sư mù với máy.
+**Đời thường:** mẻ cát đầu chảy thành thủy tinh đục như nước vo gạo, con trai 玛尔塔 đòi một mảnh.
+**Nhảy (trong đoạn):** tới bữa tối ở phủ; 赫伯特 tính lời gương trên giấy, hớn hở; 洛伦 dội nước lạnh: gương nhiều lên thì giá rơi.
+**Dừng:** 洛伦 hỏi 赫伯特: có tiền rồi thì tiêu vào đâu trước.
 
-## 018–020 (Agent lập 28/10) — trận 黑石 sang khoảng ngày 63 giữ nguyên, chờ Tác giả nói khác
-- **018:** Mở: hai người soi đuốc vào tấm ván — viên sắt xuyên ván sồi, kẹt ở tảng đá sau. 玛尔塔 phản ứng bằng chuyện của bà (bà tính một trăm bước là bao xa với một kỵ đang phi). Về trước sáng. Sáng hôm sau dân làng ven sông đồn đêm qua có "sấm không mưa" ở hạ lưu; 加尔文 hỏi 洛伦. 洛伦 đổ cho một nồi nung ở lò rèn nổ vỡ — 加尔文 ra bãi sông dùng 魔视 xem, chẳng thấy dấu ma tố. **Dừng:** 加尔文 nói anh ta sẽ cưỡi ngựa xuống hạ lưu xem có pháp sư hệ hỏa lang thang không — điều làm anh ta lo thật, vì một pháp sư lạ ở 外环 là chuyện phải báo về kinh.
-- **019:** Nhảy tới mồng mười (khoảng ngày 48): thuyền 西蒙 cập với 硝石 300 cân, lưu huỳnh 50, chì 200 và hàng thường; 锈河 trả 65 金币; 西蒙 trả tiền lô gương mới và đặt cọc đồ sắt (số do brief đặt, cấp sẵn tổng). 西蒙 kể ở 维林港 người của 黑石 đang mộ lính đánh thuê và dò hỏi thương hội về 锈河. **Dừng:** 西蒙 hỏi mua một thứ ngoài giao kèo — chiếc bễ.
-- **020:** 洛伦 trả lời 西蒙. Rồi chọn mười người từ những nhà có người bị 黑石 bắt (con trai 艾尔莎 bị bắt nên có thể là em/cháu; 葛蕾塔…) làm "đội ống nước", trả công qua sổ 赫伯特; tập ở bãi đá hạ lưu, chỉ 玛尔塔 cùng. 加尔文 tưởng là đội đào mương. **Dừng:** buổi tập đầu, mười người cầm mười ống, 洛伦 nói câu đầu tiên dạy họ.
+## 004 — ứng ch4 赚钱 (nửa sau điểm nhìn 赫伯特)
+**Việc:** Nối bữa tối: 洛伦 tự trả lời một nửa — thuê người đào cát, hạ phí bến cho thuyền 维林港 ghé, máy giữ trong tay. **Nhảy** mười ngày (ngày 14). 赫伯特 ngồi ở kho bến sông chờ khách, 20 gương tay + 2 gương đứng, ông lau khung lần thứ ba. Thương nhân thuyền 维林港 bước vào, không dám chạm; hỏi giá, 赫伯特 đọc 2 金币 mà tim đập vì biết giá vốn. Khách mua 6 tay + 1 đứng, 27 金币, không mặc cả; trong đầu khách tính sẽ dâng cho phu nhân pháp sư nào.
+**Tin sai → lật:** 赫伯特 tin giá 2 金币 là ăn cướp, không ai trả; khách trả ngay còn sợ người khác mua mất.
+**Đời thường:** lính gác bến lén soi mặt vào gương, lần đầu thấy rõ mặt mình.
+**Người phụ:** 赫伯特 so 27 金币 với số thuế chợ cả mùa ông ghi trong sổ.
+**Dừng:** một người bốn mươi tuổi sờ mép gương, không hỏi giá, hỏi làm bằng thủ đoạn gì; xưng 西蒙·拉斐; đúng lúc đó 洛伦 và 玛尔塔 khiêng lô gương mới vào kho.
+
+## 005 — ứng ch5 大手笔
+**Việc:** Nối thẳng. 西蒙 xin xem lò; ông hiểu ngay ai sẽ mua gương. Đề nghị 2.000 金币, độc quyền mọi thứ 锈河 làm ra trong 3 năm. 洛伦 cười; kể một chuyện lấy từ sách kiếp trước về người bỏ tiền sớm vào kẻ làm ra của cải (không địa danh, chỉ 前世). 西蒙 hỏi lại: cậu lấy gì ra mà đòi giá hơn.
+**Tin sai → lật:** 西蒙 tin tiền mở được cửa; bị từ chối. 洛伦 tưởng 西蒙 chỉ muốn gương; 西蒙 hỏi về thứ khác — cát sông đỏ dính tay áo ông.
+**Đời thường:** 西蒙 mặc áo lụa, đứng xa lò, áo vẫn dính bụi đỏ.
+**Người phụ:** 赫伯特 nghe 2.000 金币 thì làm rơi bút; 玛尔塔 hỏi chen chuyện tiền công thợ.
+**Dừng:** 洛伦 dẫn 西蒙 ra lò thử luyện cát đỏ bên sông; bảo ông nhìn mẻ đầu chảy ra.
+
+## 006 — ứng ch6 四战之地
+**Việc:** Mẻ sắt nguội; 西蒙 tự tính ván cược: gương bán cho phu nhân, sắt thì ai cũng cần, và nó nằm cả dưới đáy sông. Ông nâng lên 5.000 金币 / 3 năm, trả trước 400 khi thuyền đầu tới; nhận chở 2.500 袋 từ 维林港 bán theo giá 4 银币. **Nhảy** tới tối: 赫伯特 hỏi tin được không; 洛伦 đáp bằng lợi ích của 西蒙 (5.000 bỏ ra thì ông ta sợ 锈河 thiếu cống hơn ai hết). Trải bản đồ; mỗi người chỉ một hướng: 加尔文 chỉ 黑石 phía bắc (巴尔萨泽 ba sao, thiếu phu mỏ); 赫伯特 chỉ đường sông xuống 维林港 (thương hội pháp sư lấy ba phần lãi).
+**Tin sai → lật:** 赫伯特 tin thương nhân nào cũng lừa phàm nhân; con số trên giao kèo làm ông im.
+**Đời thường:** bản đồ cũ bị chuột gặm mất một góc — đúng góc 黑石.
+**Dừng:** còn hướng gia tộc 索恩 chưa ai nói tới; ai cũng nhìn 加尔文.
+
+## 007 — ứng ch7 贪婪的人
+**Việc:** Nối thẳng. 加尔文 tự nói: anh ta viết thư cho 赛德里克 mỗi tháng. 洛伦 không giấu, tính cho anh ta: 锈河 nộp đủ thì người canh cũng có công, sang năm về kinh; nộp thiếu thì anh ta ở lại 外环 thêm một năm với rượu dở. 加尔文 viết vào thư: đồ chơi của thiếu gia bán được ít tiền. **Nhảy** sang 维林港 (khoảng ngày 20), điểm nhìn 巴尔萨泽: trong phòng khách một phu nhân pháp sư, hắn soi mình trong tấm gương đứng, tính giá; hỏi thương nhân nguồn hàng.
+**Tin sai → lật:** 巴尔萨泽 tin gương là của một xưởng thương hội 维林港; thương nhân nói hàng từ 锈河 — chỗ của "cái bình rỗng nhà 索恩".
+**Đời thường:** 巴尔萨泽 béo, đau đầu vì ma tố loãng, ăn liền ba cái bánh.
+**Người phụ:** 加尔文 có lợi ích riêng (về kinh); thương nhân 维林港 tham hoa hồng.
+**Dừng:** 巴尔萨泽 sai thư ký lục danh sách phu mỏ trốn năm ngoái.
+
+## 008 — ứng ch7 nửa sau (MC tích lũy) + ch8 mở
+**Việc:** Mở ngay câu lệnh: thư ký 考珀 hỏi lại muốn bao nhiêu tên; 巴尔萨泽 nói số tên phải đủ để đổi lấy gương (một cảnh ngắn). **Nhảy** về 锈河 (khoảng ngày 28): ngày trả công đầu cho người đào cát. 洛伦 trả đồng 2 银币/tuần; dân xếp hàng hỏi xin lúa thay tiền vì làng không có chỗ tiêu đồng bạc → anh đổi: nửa 袋/tuần, ai muốn đồng thì lấy đồng. Sổ 赫伯特 viết số bằng chữ dài cả dòng, cộng không kịp; 洛伦 dạy ông và 玛尔塔 mười ký hiệu chữ số. Bánh xe nước vừa nối vào bễ chạy thay người kéo.
+**Tin sai → lật:** 赫伯特 tin học ký hiệu mới là phạm luật chữ; 洛伦 bảo đó là dấu đếm như vạch trên cột chuồng, không phải chữ — 赫伯特 cộng xong sổ một tuần trong một nén nhang.
+**Đời thường:** dân làng đồn bánh xe nước có ma đạp; bà cụ đem trứng tới cúng.
+**Dừng:** lính bến báo thuyền 西蒙 vào tầm nhìn, sớm một ngày.
+
+## 009 — ứng ch8 烽火 (đổi thành tin xấu tới bằng thuyền buôn)
+**Việc:** Thuyền 西蒙 cập bến; dỡ 2.500 袋, 赫伯特 đếm bằng ký hiệu mới. Thanh toán: 500 金币 tiền lúa trừ 400 trả trước = 锈河 trả 100. 西蒙 mang sổ đặt hàng của các phu nhân: muốn 100 gương tay nữa trong một tháng; 洛伦 tính sức lò (một ngày ra mấy tấm) rồi nhận 60. 西蒙 kể ở 维林港 có một pháp sư béo hỏi thương hội về thuyền lên 锈河, và nói tên 巴尔萨泽.
+**Tin sai → lật:** 洛伦 tưởng mối lo tiếp theo là giá gương rơi; 西蒙 bảo giá không rơi — kẻ thấy giá đó mới là chuyện.
+**Đời thường:** 西蒙 ăn thử bánh mì phủ, lén nhổ vào khăn; lần sau ông tự mang bánh.
+**Người phụ:** 西蒙 lo cho 5.000 金币 của mình; 玛尔塔 lo đủ cát, đủ người cho 60 tấm.
+**Dừng:** trong lúc dỡ hàng, một thuyền cờ đen từ thượng nguồn ghé bến; 西蒙 nhận ra cờ 黑石.
+
+## 010 — ứng ch8 cuối (đối mặt lần đầu, thắng bằng sổ)
+**Việc:** Nối thẳng. Sứ 黑石: đội trưởng 达隆 + thư ký 考珀 + mười lính; mang danh sách 30 "phu trốn" đòi người, và nói xa gần chuyện láng giềng nên biếu nhau gương. 达隆 soi 魔视 qua lò: trống, chỉ có than và cát. 加尔文 đứng theo phép gia tộc: láng giềng pháp sư hỏi người thì phải xem danh sách. 洛伦 giao danh sách cho 赫伯特 đối sổ thuế đầu người: những tên trên đó nộp thuế ở 锈河 nhiều năm liền, có tuổi, có làng — không ai trốn từ 黑石. Rồi anh bán gương cho sứ đúng giá 2 金币, không biếu.
+**Tin sai → lật:** 加尔文 tin phải giao người cho êm chuyện; sổ thuế cho anh ta một lý do đúng phép để không giao. 达隆 tin lò này là chuồng gà.
+**Đời thường:** 考珀 mua một gương tay cho vợ bằng tiền túi, mặc cả mãi không bớt được đồng nào.
+**Người phụ:** 西蒙 đứng xem, tính xem 锈河 có giữ nổi khoản đầu tư của ông không.
+**Dừng:** lúc xuống thuyền, 达隆 nói 巴尔萨泽 đại nhân sẽ tự sang sau vụ gặt.
