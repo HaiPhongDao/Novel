@@ -9,6 +9,7 @@ Câu hỏi kiểm tra trong pack.md lấy từ <thu-muc-truyen>/handoff/quiz.md 
 Quy trình: chung/quy-trinh-ban-giao.md
 """
 import argparse
+import json
 import re
 import sys
 from pathlib import Path
@@ -66,9 +67,19 @@ def main():
     seg_no = int(re.search(r"doan-(\d+)", seg.name).group(1))
 
     parts = [header(story)]
-    for name in ("canon-card.md", "story-so-far.md", "state.md", "voice-anchor.md"):
+    # Có handoff/state.json (chung/state-extractor.md) thì nó thay story-so-far.md + state.md.
+    sj = ho / "state.json"
+    names = ("canon-card.md", "voice-anchor.md") if sj.exists() else ("canon-card.md", "story-so-far.md", "state.md", "voice-anchor.md")
+    for name in names:
         if (ho / name).exists():
             parts.append((ho / name).read_text(encoding="utf-8").strip())
+    if sj.exists():
+        state = json.loads(sj.read_text(encoding="utf-8"))
+        parts.insert(2, "## 2. State (JSON — sự thật và con số đã xảy ra, lấy đây làm chuẩn)\n\n"
+                     "Đoạn tiếp theo viết từ ngay sau `scene_bridge.last_beat`. Những gì trong `already_told` "
+                     "người đọc đã biết: chỉ nhắc một chữ khi cần, không giải thích lại. Số liệu lấy theo `ledger`; "
+                     "ai biết bí mật nào theo `knowledge_map`.\n\n"
+                     + json.dumps(state, ensure_ascii=False, indent=1))
     parts.append(
         f"## 5. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
         + tail_text(seg, args.tail)

@@ -83,6 +83,8 @@ async function runJob(job) {
       const s = await call(tabId, 'status');
       if (s.textLen !== lastLen) stillSince = Date.now();
       if (s.textLen > 0 && Date.now() - stillSince > 30000) break;
+      // Có lỗi mà chưa có chữ trả lời: thôi chờ, để collect báo lỗi (quota/denied thì script xoay tài khoản).
+      if (s.err && s.textLen === 0) break;
       if (!s.running) {
         if (s.err || (s.started && s.textLen > 0 && s.textLen === lastLen)) break;
         if (!s.started && Date.now() - sent > 60000) break;

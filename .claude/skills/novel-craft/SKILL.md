@@ -39,7 +39,8 @@ Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes 
    tên bản gốc vào review + `log.md` — đoạn sau phụ thuộc vào bản đó, đổi bản gốc là phải chạy lại.
 3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
 4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]`. Đỏ = bỏ bản
-   (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc.
+   (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc. Câu cuối kết bằng `——`
+   khi brief bảo dừng giữa một cú lao là cổng bắt nhầm: đọc ba dòng cuối, đủ cảnh thì giữ và ghi vào review.
 5. **Review bằng đọc** (mục 4), ghi vào đúng `reviews/doan-XXX.md` của đoạn đó, kèm bảng số.
 6. **Chốt**: `python tools/chot_doan.py <truyen> <spec.py>` hoặc commit + push tay; tài liệu chung commit riêng.
    **Kiểm push bằng số**: `git rev-list --count HEAD ^origin/<branch>` = 0 và `git status --short` không còn `?? <truyen>/`
@@ -69,6 +70,8 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
   không gán tính cách — tính cách do Writer quyết.
+- **Mẫu là truyện xuyên việt mà MC của mình không xuyên** → brief phải có một dòng `X sinh ra ở thế giới này.`; bible
+  ghi thôi không đủ — Writer kéo motif xuyên không của mẫu vào ("上辈子", "从地球穿越") ngay khi brief im lặng.
 - **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt** (khung đặt hàng của Tác giả: độ dài · tag ·
   "mượn lời MC phán xét cũ/mới"), không nhờ dòng sự thật ở cuối brief bảng việc. Tác giả đưa khung thì dùng nguyên.
 - **Một đoạn = một tình huống; dữ kiện ghi là "bối cảnh để giữ cho đúng, không cần kể hết".** Giao cả chuỗi sự
@@ -131,6 +134,7 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 
 ## 5. SI của truyện
 
+- **Lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước mọi cảnh đặc biệt** — SI chỉ dạy cảnh đặc biệt thì Writer kể bằng giọng báo cáo và thoại nhiễm theo (`references/si-khung.md`, `writer/SI-template` v4).
 - Sửa SI phải có Tác giả duyệt + ghi `log.md`. Dựng SI mới từ `references/si-khung.md` (4 nguyên tắc + đúng 5 dòng BANS + độ dài +
   phần thể loại); giữ mọi đời cũ `system-instruction-vN.md` làm bằng chứng và bản để quay về.
 - **Chất lượng tụt qua nhiều vòng thì nghi luật tích tụ**: đo độ dài SI và prompt qua các đời; nếu cùng phình thì reset về
@@ -139,6 +143,8 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
   (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
 - Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
+- **Dấu hiệu đếm được dày trong mẫu chưa chắc là luật cả đoạn**: nó có thể chỉ dồn ở một loại cảnh (thoại kịch bản
+  `X：“…”` chỉ ở cảnh cãi nhanh). Trước khi nâng thành nguyên tắc + anchor, xem nó nằm ở cảnh nào và hỏi Tác giả.
 - **Luật "mọi lượt thoại có thẻ" + anchor gắn thẻ cả tám dòng = lượt nào cũng kết bằng `X 说道`**, kể cả hai ba lượt
   liền của một người (Tác giả đọc ra ngay). Luật đúng: thẻ chỉ ở chỗ cần biết ai nói, tối đa một lượt trong ba,
   không bao giờ hai lượt liền của một người cùng gắn thẻ — đo cùng truyện: 15 thẻ → 1. Lúc chép SI sang truyện
