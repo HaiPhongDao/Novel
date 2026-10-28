@@ -87,3 +87,24 @@ Theo `plot/cach-bay-mau.md`: mỗi đoạn ứng một chương bộ mẫu, kể
 **Đời thường:** 考珀 mua một gương tay cho vợ bằng tiền túi, mặc cả mãi không bớt được đồng nào.
 **Người phụ:** 西蒙 đứng xem, tính xem 锈河 có giữ nổi khoản đầu tư của ông không.
 **Dừng:** lúc xuống thuyền, 达隆 nói 巴尔萨泽 đại nhân sẽ tự sang sau vụ gặt.
+
+## 011–013 (Agent lập 28/10 khi Tác giả giao chạy 10 đoạn; theo arc 1 đã duyệt — tiền, việc vặt, áp lực nhẹ)
+Mốc: vụ gặt bắt đầu khoảng ngày 12 (002: "sắp tới"); 011–013 khoảng ngày 29–40.
+
+## 011 — vụ gặt và cục gang giòn
+**Việc:** Nối thẳng lúc thuyền 黑石 rời bến. Tối đó ở phủ: 西蒙 lo 5.000 金币; 加尔文 nói phép gia tộc — một 督政官 láng giềng tự sang thì 洛伦 phải tiếp, anh ta phải báo về kinh; 赫伯特 lo lúa mới gặt được nửa, mưa thu tới thì hỏng. 洛伦 tính: gặt nhanh hơn thì lúa vào kho trước mưa, và trước khi 巴尔萨泽 sang. Cần lưỡi gặt bằng sắt tốt. **Nhảy** sáng hôm sau ra lò thử bên sông.
+**Tin sai → lật:** 洛伦 tưởng mẻ sắt đầu (005) đem rèn được ngay; 玛尔塔 đập thử — gang giòn, vỡ dưới búa.
+**Đời thường:** 西蒙 ngủ lại phủ, phàn nàn giường có rệp.
+**Dừng:** 玛尔塔 cầm mảnh gang vỡ hỏi thứ này làm được gì; 洛伦 bảo đốt lò lại.
+
+## 012 — 炒铁 và cây 钐刀
+**Việc:** 洛伦 chỉ cách khuấy gang nóng chảy trong lò hở có bễ thổi cho cháy bớt thành sắt dẻo; mẻ đầu hỏng, mẻ sau đập không vỡ. 玛尔塔 rèn một cây 钐刀 cán dài. **Nhảy** sang ruộng gần trấn hôm sau: một người cầm 钐刀 gặt bằng năm người cầm liềm; 赫伯特 đếm bó.
+**Tin sai → lật:** nông dân tin lưỡi dài sẽ làm rụng hạt; bó lúa đầu không rụng hạt nào.
+**Đời thường:** trẻ con mót lúa chạy theo sau lưỡi hái.
+**Dừng:** một lão nông hỏi 督政官: lúa gặt thêm được có phải nộp hết lên không.
+
+## 013 — lúa dư mua bằng tiền
+**Việc:** Nối thẳng. 洛伦 đáp: phần mỗi làng nộp quá định mức, phủ mua bằng tiền 4 银币 một bao, trả bằng tiền gương. 加尔文 phản đối theo lý của pháp sư (dân có tiền thì sinh chuyện); 洛伦 tính cho anh ta. **Nhảy** một tuần (khoảng ngày 40): 30 cây 钐刀 phát xuống các làng; 赫伯特 cộng sổ lúa đã vào kho.
+**Tin sai → lật:** 赫伯特 tin dân sẽ giấu lúa như mọi năm; sổ cho thấy làng có 钐刀 nộp trước hạn.
+**Đời thường:** 玛尔塔 dạy hai thợ phụ đếm bằng ký hiệu số để ghi số lưỡi hái.
+**Dừng:** người đưa thư từ kinh tới; 加尔文 nhận thư hồi âm của 赛德里克, bẻ dấu niêm.
