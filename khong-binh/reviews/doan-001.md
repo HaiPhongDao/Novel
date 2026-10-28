@@ -1,8 +1,8 @@
-# Review — Đoạn 001 (lần 2)
-✅ Mở đúng lúc tỉnh ở phòng liệm; tai nạn: lão tạp dịch làm đổ chậu giấm vào lò than; ký ức ập về, ngất.
-✅ Số 12.000 / 8.400 / 120 ngày đúng; 赫伯特 回大人/小人, 加尔文 洛伦少爷; dừng đúng sau câu xác nhận phép thuật.
-✅ Bàn tay vàng như lật sách, không giao diện; MC không biết ai là pháp sư tới khi thấy lửa.
-🔧 奉禄→俸禄; 平均每村 五百二十袋→五百二十多袋 (12.000/23≈522); “被帝都派来的使者带走了”→“随帝都派来的使者回了帝都” (canon: triệu về kinh).
-⚠️ 加尔文 nói督政官 nộp thiếu “thường bị phát phối mỏ khổ dịch” — luật mới Writer tự đặt, chờ phiên chính.
-⚠️ Chi tiết mới: 魔导议会, 总督府 chuyển điều lệnh, 断矛山谷 ba vạn quân, lửa xanh lam.
+# Review — Đoạn 001 (lần 2, bản 2)
+
+Bản chốt: `archive/lan-2-hong/doan-001-v2.md` — brief chuỗi cớ (briefs/doan-001.md) + SI v1.3. 3.185 字, 30 lượt thoại. Tác giả chọn 28/10 ("cái thứ tốt nhất").
+- ✅ Đủ chuỗi cớ: 诈尸 → ngất → hỏi tên; 赫伯特 đòi mời thầy thuốc, 加尔文 kể tiền tang (quan tài 3 银币, vải 40 铜币); chê bữa → hỏi vì sao; cống lương 12.000/8.400/120 ngày; tính 3.600 袋 = 720 金币; cười thảm ra miệng → 赫伯特 quỳ, 加尔文 bảo lú → lửa đầu ngón tay.
+- 🔧 Agent sửa: 老仆 (chỉ 赫伯特) → 老人; 老书记得 → 老书记的; 数字化图书馆 → 图书馆; 铁烟斗 → 陶烟斗 ×4.
+- ⚠️ Trợ từ dày trong thoại (26/30 lượt, 呢 ×9); 罢了 ×2 trong câu kể — giữ theo lựa chọn của Tác giả.
+- Chi tiết mới Writer đặt: 格里芬 là 七星大魔导师; 帝都索恩堡; 宗族惩戒骑兵.
 Kết luận: ĐẠT.
