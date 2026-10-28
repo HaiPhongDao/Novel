@@ -1,22 +1,21 @@
-## 3. Trạng thái hiện tại (hết đoạn 10)
+## 3. Trạng thái hiện tại (hết đoạn 11)
 
-**Thời điểm:** đêm, khoảng ngày 23; còn ~97 ngày tới 秋税日.
-**Có mặt:** bãi sông cạnh lò — 洛伦, 加尔文 (tẩu nguội, vừa há miệng định nói), 赫伯特 tựa khúc gỗ ướt mồ hôi, 玛尔塔 và năm thợ mới, mười dân binh.
+**Thời điểm:** trưa, khoảng ngày 31; còn ~89 ngày tới 秋税日.
+**Có mặt:** bãi sông — 洛伦 cầm ống sắt vừa khoan xong ngắm mặt trời; 玛尔塔 và thợ ở máy khoan. 加尔文 đã đi quán rượu.
 
 **Nhân vật chính biết**
-- 巴尔萨泽 dùng cớ "phu trốn"; bẫy đã gãy vì sổ "chết dịch" — 黑石 nhận họ còn sống là nhận tội bắt người.
-- 考珀 và 达隆 tin lò chỉ là lò rèn thổi nước, gang giòn vô dụng.
-- 达隆 hẹn: qua 秋税日 mà thiếu lúa, 巴尔萨泽 tự sang.
+- Đã có lò luyện lại (sắt dẻo) và máy khoan nằm chạy bánh xe nước. Ống đầu tiên: sắt dẻo hàn quanh lõi, khoan lòng thẳng.
+- Với mọi người, ống là "ống chịu áp dẫn nước lên đất cao".
+- 加尔文 cảnh báo sức mạnh pháp sư ba sao; vẫn coi máy là đồ chơi.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Ngày tới 秋税日 | ~97 |
-| Kho bạc | 252 金币 |
-| Gang | hơn 200 thỏi |
-| Thợ lò | 玛尔塔 + 2 thợ phụ + 5 thợ mới (15 铜币 + hai bát cháo/ngày) |
-| Kỵ 黑石 | ít nhất 20 (nuôi ~15 金币/tháng) |
+| Ngày tới 秋税日 | ~89 |
+| Kho bạc | 252 − 4 (than bảy ngày) ≈ 248 金币 |
+| Sắt dẻo | 48 tấm (7 ngày) |
+| Thợ lò | 玛尔塔 + 7 thợ (15 铜币 + hai bát cháo/ngày) |
 
 **Tuyến đang mở**
-- Câu 加尔文 định nói.
-- 160 người ở mỏ 黑石 (30 tên trong danh sách).
+- 巴尔萨泽 hẹn sang sau 秋税日 nếu thiếu lúa.
+- Ống đầu tiên đã xong.
