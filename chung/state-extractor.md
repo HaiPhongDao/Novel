@@ -71,7 +71,7 @@ ROLE
 ## 四、字段
 
 - **scene_bridge**（最关键，每次整体覆盖）：time 时刻；where 位置；present 在场者及姿态；last_beat 上一段最后的动作或台词（原文压缩到一句）；pending 下一段开头必须立刻接上的事。下一段从 last_beat 之后的那一刻写起。
-- **chapter_log**：每段一条，≤20字，永久保留。
+- **chapter_log**：每段一条，≤20字。只保留最近8段；更早的合并为一条 {"chapter":"1-N","summary":"≤40字"}，之后只并入不改写。
 - **already_told**：已在正文里交代清楚的事（主题词即可，如"160人被掳经过""空瓶身份由来""镜子定价"）。Writer 只可一笔带过，不再解释。
 - **ledger**：会变动的数字。value 带单位；as_of 为最后确认的段号。
 - **deadlines**："事项｜时限｜谁承诺"。
