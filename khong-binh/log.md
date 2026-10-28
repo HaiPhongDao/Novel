@@ -51,3 +51,4 @@
 2026-10-28 | dàn ý | Tác giả: 'Duyệt, chạy 10 đoạn tiếp' → Agent lập dàn ý 011–013 (cục gang giòn, 炒铁 + 钐刀, mua lúa dư bằng tiền, thư 赛德里克) và brief 004–013 | Duyệt: Agent (Tác giả giao chạy 10 đoạn)
 2026-10-28 | doan-004 | Chốt — thuê đãi cát, hạ phí bến, mười ngày ra 20+2 gương, khách đầu trả 27 金币, 西蒙 tới | Duyệt: Agent
 2026-10-28 | doan-005 | Chốt — 西蒙 xem lò, ra giá 2.000 金币/3 năm độc quyền, 洛伦 từ chối bằng chuyện sách cũ, dẫn tới lò đứng | Duyệt: Agent
+2026-10-28 | doan-006 | Chốt — lò đứng ra sắt, 西蒙 ký 5.000 金币/3 năm, định tiền 400, chở 2.500 袋 bán theo giá; tối xem bản đồ chuột gặm góc bắc | Duyệt: Agent
