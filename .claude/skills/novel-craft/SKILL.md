@@ -167,6 +167,8 @@ Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references
 
 - Đọc bảng truyện ở `README.md` gốc trước: truyện mới phải khác **trục**, không chỉ khác bối cảnh.
 - Tác giả đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai.
+- **Mở truyện "với mẫu" = giữ tiền đề của bộ mẫu**, chỉ đổi thông số (năm, nơi, tên); chỉ hỏi Tác giả về thông số đó, không
+  đưa phương án khác trục — Tác giả gạt cả ba phương án lệch mẫu, trả lời "như mẫu, chỉ đổi năm". "Khác trục" là so với truyện đã có trong repo.
 - 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
 - Đoạn 001: chạy 3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào `reviews/doan-001.md`.
 - Mỗi thể loại một SI dựng từ dấu hiệu đo được của bộ mẫu; mẫu tải về có thể hỏng — đếm thân chương trước.
