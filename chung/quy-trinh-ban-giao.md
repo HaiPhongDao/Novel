@@ -10,7 +10,7 @@ Mỗi truyện giữ các file sau trong `<ten-truyen>/handoff/`:
 |---|---|---|
 | 1. Thẻ thiết lập cố định | `canon-card.md` | Nhân vật, bàn tay vàng, địa danh, xưng hô — chỉ những gì **đã lên trang** + luật cố định |
 | 2. Tóm tắt đã viết | `story-so-far.md` | Diễn biến từng đoạn |
-| 3. Trạng thái hiện tại | `state.md` | Đang ở đâu, ai biết gì, con số đang chạy, đồ vật/chi tiết đã xuất hiện, tuyến đang mở |
+| 3. Trạng thái hiện tại | `state.md` (hoặc `state.json` — xem dưới) | Đang ở đâu, ai biết gì, con số đang chạy, đồ vật/chi tiết đã xuất hiện, tuyến đang mở |
 | 4. Mẫu giọng | `voice-anchor.md` | Trích nguyên văn vài khúc hay nhất đã duyệt. Agent thay khi có khúc tốt hơn |
 | 5. Nguyên văn cuối đoạn gần nhất | `chapters/doan-XXX.md` (~900 ký tự cuối, tự lấy) | Nối mạch câu chữ và **giữ giọng** — tóm tắt không truyền được giọng, nguyên văn thì được |
 | (tuỳ chọn) | `quiz.md` | Câu hỏi kiểm tra khi chỉ nạp gói mà chưa viết (`pack.md`). Không có thì dùng câu hỏi mặc định |
@@ -46,3 +46,7 @@ Cũng dùng đúng cách này khi **một đoạn bị hỏng**: Agent chuyển 
 
 ## Vì sao Agent giữ gói, không để Writer tự tóm tắt
 Writer tự tóm tắt sẽ trôi dần: quên quyết định của Tác giả, giữ lại chi tiết sai đã bị sửa, bỏ sót con số. Agent đọc mọi đoạn khi review và đối chiếu với `bible/`, nên gói do Agent giữ luôn là bản đã kiểm.
+
+## State JSON (từ 28/10)
+
+Truyện nào có `handoff/state.json` thì file này thay cho `story-so-far.md` + `state.md`: Agent cập nhật nó sau mỗi đoạn theo [`state-extractor.md`](state-extractor.md) (lọc theo phép thử mâu thuẫn/bỏ sót, `scene_bridge` là điểm nối đoạn sau, ≤2.000 chữ Hán). `build_pack.py` tự đưa JSON vào gói; `chot_doan.py` nhận biến `STATE_JSON`. Đang dùng ở: khong-binh.

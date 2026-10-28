@@ -174,7 +174,7 @@ Ghi kết quả vào `reviews/doan-XXX.md`, mỗi mục: ✅ Đạt / ⚠️ C�
 
 **Writer Gemini** — mỗi session chỉ viết **2 đoạn** (đoạn thứ 3 trong một session đã trôi giọng — đoạn 005). Agent giữ gói bàn giao trong `<ten-truyen>/handoff/` (thẻ thiết lập, tóm tắt, trạng thái, **mẫu giọng** trích từ các đoạn đã duyệt, nguyên văn cuối đoạn gần nhất) và cập nhật **sau mỗi lần review**, ghép bằng `python tools/build_pack.py <ten-truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session** (`handoff/session-start.md`: gói + prompt, Writer đọc rồi viết luôn). Chi tiết quy trình: `chung/quy-trinh-ban-giao.md`.
 
-**Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
+**Agent (Claude)** — cũng có thể sang session mới bất cứ lúc nào; repo là bộ nhớ. Session mới đọc theo thứ tự: `AGENT.md` → `<ten-truyen>/README.md` → `log.md` → `handoff/state.json` (hoặc `state.md` ở truyện cũ) → review gần nhất trong `reviews/`. Mọi quyết định phải nằm trong repo (log, bible, review), không chỉ nằm trong hội thoại.
 
 Trước phần hồ sơ truyện, đọc thêm [`chung/kinh-nghiem.md`](chung/kinh-nghiem.md) để dùng các phát hiện đã tổng hợp. Khi đứng trên branch cũ, kiểm bản chung trên branch mặc định theo [`chung/dong-bo-kinh-nghiem.md`](chung/dong-bo-kinh-nghiem.md). Không dùng một bài học theo thể loại để ghi đè SI hoặc canon riêng đã được Tác giả chốt.
 

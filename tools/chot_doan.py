@@ -8,6 +8,8 @@ Dùng:  python tools/chot_doan.py <ten-truyen> <spec.py>
     STORY       = "### Đoạn 12 — ...\\n..."      nối vào cuối handoff/story-so-far.md
     COMPRESS    = [("Đoạn 9 — tối Ngày 8", "tóm tắt 1–2 dòng")]   (tuỳ chọn) nén đoạn cũ: thay thân mục "### <tiêu đề>"
     STATE       = "## 3. Trạng thái hiện tại ..."   ghi đè handoff/state.md
+    STATE_JSON  = {...} hoặc chuỗi JSON          (tuỳ chọn) ghi đè handoff/state.json theo chung/state-extractor.md;
+                                                có biến này thì không cần STORY/COMPRESS/STATE
     CANON_ADD   = "- ..."  hoặc None            (tuỳ chọn) nối vào handoff/canon-card.md
     VOICE_ADD   = "**...**\\n\\n“...”" hoặc None (tuỳ chọn) nối vào handoff/voice-anchor.md
     README_ROW  = "| 012 | ✅ | ✅ | ✅ ĐẠT | ✅ |"  thêm sau dòng đoạn cuối trong bảng README.md của truyện
@@ -18,6 +20,7 @@ Dùng:  python tools/chot_doan.py <ten-truyen> <spec.py>
 Chạy lại một spec đã chạy sẽ nối trùng story/log — nếu bước git hỏng thì chỉ chạy lại phần git bằng tay.
 Quy trình: AGENT.md mục 3 bước 6; chung/quy-trinh-ban-giao.md.
 """
+import json
 import os
 import re
 import subprocess
@@ -56,18 +59,23 @@ def main():
     spec = {}
     exec(spec_path.read_text(encoding="utf-8"), spec)
     n = spec["N"]
+    state_json = spec.get("STATE_JSON")
+    if isinstance(state_json, str):
+        state_json = json.loads(state_json)  # JSON hỏng thì dừng ở đây, chưa ghi file nào
 
     wr(f"reviews/doan-{n}.md", spec["REVIEW"].strip() + "\n")
 
-    s = rd("handoff/story-so-far.md").rstrip("\n")
-    for title, short in spec.get("COMPRESS") or []:
-        s2 = re.sub(rf"### {re.escape(title)}\n.*?(?=\n\n### |\Z)", f"### {title}\n{short}", s, flags=re.S)
-        if s2 == s:
-            raise SystemExit(f"Không tìm thấy mục '### {title}' trong story-so-far.md")
-        s = s2
-    wr("handoff/story-so-far.md", s + "\n\n" + spec["STORY"].strip() + "\n")
-
-    wr("handoff/state.md", spec["STATE"].strip() + "\n")
+    if state_json is not None:
+        wr("handoff/state.json", json.dumps(state_json, ensure_ascii=False, indent=1) + "\n")
+    else:
+        s = rd("handoff/story-so-far.md").rstrip("\n")
+        for title, short in spec.get("COMPRESS") or []:
+            s2 = re.sub(rf"### {re.escape(title)}\n.*?(?=\n\n### |\Z)", f"### {title}\n{short}", s, flags=re.S)
+            if s2 == s:
+                raise SystemExit(f"Không tìm thấy mục '### {title}' trong story-so-far.md")
+            s = s2
+        wr("handoff/story-so-far.md", s + "\n\n" + spec["STORY"].strip() + "\n")
+        wr("handoff/state.md", spec["STATE"].strip() + "\n")
 
     for f, key in (("handoff/canon-card.md", "CANON_ADD"), ("handoff/voice-anchor.md", "VOICE_ADD")):
         if spec.get(key):
