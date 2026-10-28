@@ -35,3 +35,4 @@
 2026-10-28 | dàn ý | Duyệt dàn ý 001–010 lần 2 và bảng số (than 5 银币/xe; 西蒙 2.000 → 5.000/3 năm, trả trước 400 trừ vào tiền lúa; công 2 银币/tuần) | Duyệt: Tác giả
 2026-10-28 | SI | Gỡ anchor A3 (N3, khung 这就是典型的…) → gemini/si-dan-gemini-v1.2.txt, dùng từ đoạn 001 lần 2; voice-anchor.md lần 1 vào archive/lan-1/handoff | Duyệt: Tác giả
 2026-10-28 | doan-001 | Chốt — tỉnh ở phòng liệm, giả mất trí, hỏi sổ cống lương, thấy Garvin châm lửa đầu ngón tay | Duyệt: Agent
+2026-10-28 | doan-002 | Bản 1 hỏng (vẽ guồng nước thay bễ; 'tin tốt' lộ trước cú lật 魔视 của 003) → archive/lan-2-hong; brief chốt thứ vẽ là bễ và 'tin tốt' = chỉ một pháp sư canh. Sửa 001: 法师议会→魔导议会, 碎石岗→断矛山谷 | Duyệt: Agent
