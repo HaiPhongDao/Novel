@@ -43,3 +43,4 @@
 2026-10-28 | doan-001 | Tác giả: bản 1 chưa đạt → archive/lan-2-hong/doan-001-v1.md; brief viết lại theo chuỗi cớ của Z2 (hỏi tên, đòi ăn → hỏi vì sao bữa dở, cười thảm ra miệng → hai người phản ứng → lửa) | Duyệt: Tác giả
 2026-10-28 | doan-001 | Thử 3 bản trong archive/lan-2-hong: v2 (brief chuỗi cớ + SI v1.3, trợ từ dày), prompt Z2 + E1 (kém Z2: hỏi cụt, vào đầu 赫伯特), prompt ngắn + E1 (mở tuyến sớm, mất nhịp đời thường). Chưa chốt bản nào | Duyệt: chờ Tác giả
 2026-10-28 | doan-001 | Chốt bản 2 (brief chuỗi cớ + SI v1.3) thay bản 1; state cập nhật cho 001 mới | Duyệt: Tác giả
+2026-10-28 | doan-002–003 | Viết lại bằng SI v1.3 cho cùng giọng với 001 bản 2; bản SI v1.2 vào archive/lan-2-hong, state đưa về sau 001 | Duyệt: Tác giả
