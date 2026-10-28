@@ -45,3 +45,4 @@
 2026-10-28 | doan-001 | Chốt bản 2 (brief chuỗi cớ + SI v1.3) thay bản 1; state cập nhật cho 001 mới | Duyệt: Tác giả
 2026-10-28 | doan-002–003 | Viết lại bằng SI v1.3 cho cùng giọng với 001 bản 2; bản SI v1.2 vào archive/lan-2-hong, state đưa về sau 001 | Duyệt: Tác giả
 2026-10-28 | doan-002 | Chốt (SI v1.3) — hỏi 空瓶/魔视/luật cấm/sổ, nhận ra cát sắt, vẽ bễ piston, trưa ra lò rèn | Duyệt: Agent
+2026-10-28 | doan-003 | Chốt (SI v1.3) — lắp bễ piston, 加尔文 soi bảo trống, cát ra thủy tinh đục, bữa tối dội nước lạnh giá gương | Duyệt: Agent
