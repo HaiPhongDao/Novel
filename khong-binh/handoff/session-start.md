@@ -27,64 +27,342 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 
 ---
 
-## 2. Tóm tắt những gì đã viết
+## 2. State (JSON — sự thật và con số đã xảy ra, lấy đây làm chuẩn)
 
-### Đoạn 1 — tỉnh dậy ở 督政官邸
-Ba ngày sau 灌注, lão hầu đang sửa soạn thi thể thì 洛伦 mở mắt; lão hét 诈尸, đổ chậu giấm. Ký ức kiếp trước (chết vì tai nạn xe) và cả kho sách ập về, anh ngất lại. Tối đó tỉnh trên giường, 赫伯特 và 加尔文 bên cạnh; anh giả lú, đổ cho 灌注. Ăn bánh mì đen với canh mỡ, hỏi 赫伯特 vì sao ăn thế — mùa xuân 冻雹, kho cạn. Nghe ra: 锈河属地, 18.000 dân, 23 làng; phải nộp 12.000 袋 lúa mạch trong 120 ngày; năm ngoái 8.400 袋, người tiền nhiệm bị xích về kinh. Anh tính sổ, chắc mẩm đây là trung cổ thường, cười tấm thảm 格里芬·索恩 gọi lửa thiêu ba vạn quân là bịa. 加尔文 châm tẩu bằng lửa đầu ngón tay; 洛伦 hỏi thế giới này thật có phép; 加尔文: "瑟兰魔导帝国本来就是由法师说了算的。"
+Đoạn tiếp theo viết từ ngay sau `scene_bridge.last_beat`. Những gì trong `already_told` người đọc đã biết: chỉ nhắc một chữ khi cần, không giải thích lại. Số liệu lấy theo `ledger`; ai biết bí mật nào theo `knowledge_map`.
 
-### Đoạn 2 — sổ sách và con sông
-加尔文 kể về pháp sư (một đến chín sao, 魔导议会, 魔视, 外环 hồi ma chậm gấp ba); 赫伯特 kể ba luật cấm phàm nhân, ông là một trong ba người có giấy phép chữ. 加尔文 nói thẳng: 0 ma lực, 空瓶, 族长 cần chỗ đặt cái tên. 洛伦 thấy đó là tin tốt: không ai để mắt tới 外环. Sổ: 40 lính, 312 金币, dự thu 9.500 袋, thiếu 2.500 袋 = 500 金币; dốc kho vẫn thiếu 188 金币. Cống bị 魔导议会 đẩy xuống qua 族长. Đặc sản: lò rèn bà goá 玛尔塔, sông "nước máu", cát đỏ; đang mùa gặt, không có người. 洛伦: ai bảo thêm việc phải thêm người. Lính mang lên xô nước và bát cát; 洛伦 nhận ra sông là quặng sắt trôi, không nói với ai. Sang phòng đọc vẽ suốt đêm (bễ piston hai chiều chạy sức nước, cày lưỡi cong nặng), sáng giao 赫伯特 mang cho 玛尔塔, hứa trả gấp đôi. 加尔文 bảo 赫伯特: 灌注 làm cậu ta lú rồi. Trưa 赫伯特 báo 玛尔塔 rèn xong đợt linh kiện đầu; 洛伦: "带路，去铁匠铺。"
-
-### Đoạn 3 — chiếc bễ và mẻ thủy tinh đầu
-Ở lò rèn bờ sông, 洛伦 ngồi bệt lắp 双动式活塞风箱, gạt một van rèn lệch, giảng cho hai thợ phụ. Kéo thử: gió hai chiều, lửa trắng, sắt mềm trong nửa phút. 加尔文 nhìn bằng 魔视: gỗ và sắt trống trơn — "小孩子的玩具". 玛尔塔: than 5 银币/xe, đốt ba xe/ngày, lò của chồng không phải chỗ cậu ấm phá. 洛伦 tính: gương tay 2 金币 = 40 银币 = 8 xe than; gương đứng 15 金币. Đãi cát trong máng: phần đỏ đen nặng chìm (洛伦 biết là quặng, không nói), phần cát trắng trộn tro, vôi, nấu trong nồi đất → khối thủy tinh đục, xanh, nhiều bọt; 玛尔塔 soi ra nắng. Tối: 赫伯特 tính 300 tấm gương lấp 500 金币; 洛伦: hàng nhiều thì rớt giá như lúa được mùa; gương bán hạn mức theo tháng, máy không bán, bốn lính canh lò. Phí bến 2 银币 → 50 铜币, thuyền chở lúa miễn một năm. 加尔文 mỉa ai thèm trộm hộp gỗ. 洛伦 hỏi tiền về tiêu đâu trước; 赫伯特: lấp cống, mua giống ở 黑石; 洛伦: dựng xưởng cưa và búa máy chạy sức nước bên bãi sông — rồi im.
-
-### Đoạn 4 — ngày bán gương đầu (mắt 赫伯特)
-Hơn mười ngày sau. 赫伯特 ngồi ở kho bến chờ khách; hai mươi gương tay, hai gương đứng; ông biết giá vốn 6 银币, giá bán 2 金币. Một thuyền buôn 维林港 ghé vì phí bến hạ; khách rụt tay không dám chạm, mơ bán cho nội quyến pháp sư 中环 giá 5 金币; mỗi thuyền chỉ được 8 tấm, ông ta trả 16 金币. Thêm thuyền: một thuyền lúa mua 5 tấm và dỡ 200 袋 lúa mạch đen ở bến; một lái buôn vải mua 7 tấm còn lại. Gương đứng có người trả 12 金币, 赫伯特 giữ 15. Một buổi sáng 40 金币 — bằng mấy tháng thuế cả thuộc địa (cả năm ~300 金币). 赫伯特 nghĩ thật về câu "tiêu vào đâu" và chuyện giá gương sẽ rơi. Chiều, một người đàn ông áo nỉ xám không đeo vàng bạc vuốt mép gương đứng, soi ra nắng: thợ 维林港 mài ba tháng không nổi, hai mươi tấm giống hệt nhau không phải tay người. 赫伯特 đáp tránh. Người kia xưng 西蒙·拉斐 — 拉斐商会 nắm một phần ba buôn lúa và gỗ hạ du. 赫伯特 mời ngồi dâng trà, sai lính chạy về phủ.
-
-### Đoạn 5 — 2.000 金币 và lò đứng
-洛伦 cùng 加尔文 tới kho. 西蒙 nói thẳng: gương ra từ máy, ông không cần biết máy, chỉ cần hàng — ở 维林港 gương tay bán 5 金币, vào nội quyến pháp sư 中环 8 金币 trở lên. Ông đề nghị 2.000 金币 mua quyền mua độc quyền mọi thứ 锈河 làm ra trong ba năm. 赫伯特 suýt đánh rơi sổ (gần bảy năm thuế); 加尔文 bảo số ấy mua được ba trang trại nho. 洛伦 cười lâu, rồi kể chuyện "sách cũ ở quê": phú thương mua đứt nồi của người thợ rèn có búa nước, người thợ dựng thêm ba mươi búa ở hạ du, kho nồi thành sắt vụn. 西蒙 hiểu ý — cược vào bàn tay làm ra đồ — nhưng hỏi: trong kho chỉ còn hai tấm gương, cậu lấy gì đòi giá cao hơn. 洛伦 dẫn ra bãi sông: cạnh lò rèn 玛尔塔 là lò đứng đất sét cao hơn hai người, bễ piston đập đều, mấy chục sọt cát đen nặng chờ nạp. 加尔文 魔视 thấy toàn xám chết, ngáp, hỏi có phải nung gạch. 洛伦 đứng chắn tầm nhìn của 西蒙 vào bễ. 玛尔塔: "đáy lò thành canh rồi". 洛伦 bảo 西蒙 nhìn lỗ tháo, gật đầu; que sắt chọc vỡ nút đất.
-
-### Đoạn 6 — mẻ gang đầu và giao kèo
-Xỉ chảy trước, rồi gang lỏng theo rãnh cát, nguội thành hơn hai mươi thỏi xám. 加尔文 魔视 thấy sắt thường: thiếu sắt thì mua của 黑石. 玛尔塔 nghĩ: một mẻ bằng chồng bà rèn một tháng. 西蒙 tính trong đầu: gương vài chục tấm một tháng, còn sắt — 维林港 hơn mười vạn dân, gang chở xe từ núi bắc 12 银币/100 磅, nửa là cước — và cả lòng sông là quặng. Ông nâng lên 3.500 金币; 洛伦 chốt 5.000 金币 ba năm, chỉ gương và đồ sắt dân dụng, máy/bản vẽ/thợ ở lại, không vũ khí; trả trước 400 金币 khi thuyền quay lại sau mười ngày; 西蒙 chở 2.500 袋 lúa bán theo giá, 锈河 tự trả. Bắt tay; thuyền xuôi lúc chiều. Tối, kho 352 金币; 赫伯特 hỏi tin được không — 洛伦: 西蒙 sống bằng lãi, bán tin cho pháp sư thì chỉ bị nuốt. Trải bản đồ: 加尔文 chỉ 黑石 (巴尔萨泽, ba sao, thiếu phu, lấy cớ bắt nô lệ trốn để sang bắt người); 玛尔塔 báo 3 xe than, 22 thỏi gang, nghe 黑石 thì cứng người — chồng bà bị bắt ở ruộng hai năm trước. 赫伯特 vạch sông xuống 维林港, thương hội pháp sư lấy ba phần. 洛伦 đặt ngón tay lên 核心环, hướng 索恩家族.
-
-### Đoạn 7 — lá thư buổi sáng / 巴尔萨泽 ở 维林港
-洛伦 hỏi thư buổi sáng của 加尔文 gửi ai; 加尔文 nhận: gửi 赛德里克 (người thừa kế, bốn sao), thiếu cống thì 锈河 về tay anh cả. 洛伦 bảo tốt, cứ viết đúng những gì thấy: hộp gỗ, lò đất, gang giòn không rèn nổi dao. 加尔文 cười, đi ra. 洛伦 dặn 玛尔塔 nâng lò, thêm hai cửa gió, đốt ngày đêm, mười ngày 200 thỏi (bà gọi thêm năm thợ); dặn 赫伯特 cắt mười dân binh canh bến, chỉ thuyền 拉斐 được cập. Mười ngày sau ở 维林港: 巴尔萨泽 bán 40 sà lan than vụn được 180 金币, bị thuế 54, lãi hơn 80, đang bực; thấy thiếp của một pháp sư lửa bốn sao mua gương 5 金币, nguồn 拉斐商会, hàng từ 锈河. Hắn tính: 18.000 dân, thằng 空瓶 19 tuổi, một pháp sư hai sao, 40 lính; năm ngoái người hắn bắt 160 phu ở ruộng 锈河 mà người tiền nhiệm không dám hỏi. Hắn hỏi thuyền 拉斐 mỗi tuần ngược lên 锈河 mấy chuyến.
-
-### Đoạn 8 — 巴尔萨泽 tính kế / lúa về bến
-Ở 维林港, 巴尔萨泽 nghe thuyền 拉斐 mỗi tháng hai chuyến, gần đây thuê ba thuyền lúa ngược lên. Trên thuyền về 黑石, đội trưởng kỵ binh 达隆 muốn đêm nay đem năm mươi kỵ sang cướp thợ và lò; 巴尔萨泽 gõ nhẫn: đất mang họ 索恩, cướp thẳng là đưa cớ cho 魔导议会. Hắn chọn cách hợp luật: lập danh sách phu trốn giả (160 người bắt năm ngoái đã có khế ước), sang lục soát; không giao được người thì giữ hàng trừ nợ. 达隆 dẫn hai mươi tay lục soát cùng thư ký 考珀 đi trước để xem thứ làm ra gương. Ở 锈河, ba thuyền lúa cập; 2.500 袋 nhập kho; 西蒙 đặt 400 金币, nhận 500 tiền lúa; kho còn 252 金币. Đủ phần thiếu nếu vụ gặt được 9.500 袋. 西蒙 liếc lò (bễ chạy bánh xe nước, hơn hai trăm thỏi gang); 洛伦 bảo chỉ là cày và ống sành thoát nước. 西蒙 hạ giọng: người hỏi về thuyền lên 锈河 là 巴尔萨泽, 黑石属地.
-
-### Đoạn 9 — sổ lót của 赫伯特, "大人的数字", thư 赛德里克
-Nghe tên 巴尔萨泽, 赫伯特 rơi bút. 西蒙 về. 赫伯特 quỳ thú nhận: người tiền nhiệm nhận 40 银币 của 黑石, sai ông ghi 160 người bị bắt là chết dịch — 枫树屯 52, 芦苇荡 38, 泥塘村 70; mùa đông sau 芦苇荡 chết đói hơn sáu mươi người. Ông giữ tên cả 160 trong sổ lót; 洛伦 bảo giữ lấy. Chiều ở lều lò, sổ que khắc của 玛尔塔 rối; 洛伦 vạch mười ký hiệu, dạy viết số theo hàng; 赫伯特 sợ phạm luật cấm chữ — 洛伦: số chỉ đếm bao lúa, không chép được luật; 玛尔塔 học nhanh, 赫伯特 gọi là "大人的数字". Tối, 加尔文 đọc thư 赛德里克: anh cả cười chuyện bán gương, 秋税日 sẽ cử quản sự tới nhận sổ và đất. 洛伦: thế thì mang bao cho to. Một dân binh chạy vào: hai mươi kỵ cờ đen 黑石 qua bãi cạn sông giới, đang tới thị trấn.
-
-### Đoạn 10 — danh sách phu trốn
-Hai mươi kỵ 黑石 dừng trước 督政官邸. 达隆 ngồi trên ngựa; thư ký 考珀 đưa danh sách ba mươi "phu trốn", đòi lục soát lò mới. 加尔文 nhắc luật lãnh địa của 索恩家族. 洛伦 giả ngây, đưa 赫伯特 đọc: toàn người 枫树屯, 芦苇荡, 泥塘村 bị bắt năm ngoái. 赫伯特 mở sổ chính: họ đã "chết dịch" mùa thu năm ngoái, hộ tịch đã xoá. 洛伦 hỏi 考珀 người chết trốn khỏi mỏ thế nào — hay họ đang sống ở mỏ 黑石? 考珀 hiểu cái bẫy, đổ cho quản sự ghi nhầm. 洛伦 mời ra bãi sông lục soát: lò, bánh xe nước, hộp gỗ, hơn hai trăm thỏi gang, năm thợ mới — không ai trong danh sách. 考珀 cho là lò rèn thường, gương hẳn từ pháp trận nơi khác; 达隆 đập gang chê là sắt giòn. 达隆: qua 秋税日 mà thiếu lúa thì 巴尔萨泽 tự sang đòi người. Kỵ đi; 加尔文 quay sang 洛伦 định nói.
-
-### Đoạn 11 — lò luyện lại và chiếc ống đầu
-Trên bãi sông, 加尔文 bảo cậu chủ không còn như hồi ở kinh, không biết viết gì vào thư; 洛伦: cứ viết tôi lú, chơi nung bùn. 加尔文 cảnh báo thật lòng: 巴尔萨泽 ba sao, hai mươi kỵ chỉ là phần hắn cho thấy, bốn mươi giáo gỗ gặp một đòn lửa là tan. Đêm, 洛伦 vẽ lò luyện lại có vách ngăn và máy khoan nằm chạy bánh xe nước. Bốn ngày sau lò mới đỏ: thợ khuấy gang, búa nước đập ra sắt dẻo; bảy ngày được 48 tấm, tốn 4 金币 than — 赫伯特 lo. Tấm sắt cuốn quanh lõi, búa nước hàn thành ống, máy khoan khoét lòng. 玛尔塔 hỏi để làm gì — 洛伦: ống chịu áp dẫn nước lên đất cao, mùa đông ống sành vỡ; bà tin. 加尔文 liếc 魔视, chỉ thấy xám trơn, bỏ đi quán rượu. Chiếc ống đầu khoan xong; 洛伦 ngắm mặt trời qua lòng ống, thấy vòng sáng tròn đều.
-
----
-
-## 3. Trạng thái hiện tại (hết đoạn 11)
-
-**Thời điểm:** trưa, khoảng ngày 31; còn ~89 ngày tới 秋税日.
-**Có mặt:** bãi sông — 洛伦 cầm ống sắt vừa khoan xong ngắm mặt trời; 玛尔塔 và thợ ở máy khoan. 加尔文 đã đi quán rượu.
-
-**Nhân vật chính biết**
-- Đã có lò luyện lại (sắt dẻo) và máy khoan nằm chạy bánh xe nước. Ống đầu tiên: sắt dẻo hàn quanh lõi, khoan lòng thẳng.
-- Với mọi người, ống là "ống chịu áp dẫn nước lên đất cao".
-- 加尔文 cảnh báo sức mạnh pháp sư ba sao; vẫn coi máy là đồ chơi.
-
-**Con số đang chạy**
-| Mục | Giá trị |
-|---|---|
-| Ngày tới 秋税日 | ~89 |
-| Kho bạc | 252 − 4 (than bảy ngày) ≈ 248 金币 |
-| Sắt dẻo | 48 tấm (7 ngày) |
-| Thợ lò | 玛尔塔 + 7 thợ (15 铜币 + hai bát cháo/ngày) |
-
-**Tuyến đang mở**
-- 巴尔萨泽 hẹn sang sau 秋税日 nếu thiếu lúa.
-- Ống đầu tiên đã xong.
+{
+ "meta": {
+  "last_chapter": 12
+ },
+ "scene_bridge": {
+  "time": "苏醒后约第35天，深夜",
+  "where": "锈河镇通往北面枫树屯的大道",
+  "present": "洛伦骑褐色战马在前；加尔文握红木短杖紧随，带约二十名能骑马的卫兵",
+  "last_beat": "洛伦闻北面警钟，翻身上马冲出官邸，奔向枫树屯方向的火光",
+  "pending": "赶到枫树屯：四个待打麦垛已烧塌，几名带头救火的村丁被蒙面骑手用绳套拖走"
+ },
+ "timeline": {
+  "relative_time": "洛伦苏醒后约第35天，距秋税日约85天，北三村正在收割",
+  "chapter_log": [
+   {
+    "chapter": 1,
+    "summary": "诈尸苏醒，装失忆，见加尔文指尖点火"
+   },
+   {
+    "chapter": 2,
+    "summary": "知空瓶身份与账目；认出锈河铁砂"
+   },
+   {
+    "chapter": 3,
+    "summary": "双动风箱成；首炉玻璃；降码头税"
+   },
+   {
+    "chapter": 4,
+    "summary": "赫伯特售手镜得四十金币；西蒙来访"
+   },
+   {
+    "chapter": 5,
+    "summary": "西蒙出两千金币求独家，被拒，见竖炉"
+   },
+   {
+    "chapter": 6,
+    "summary": "首炉生铁；五千金币三年独家成交"
+   },
+   {
+    "chapter": 7,
+    "summary": "加尔文认写信给赛德里克；巴尔萨泽见镜"
+   },
+   {
+    "chapter": 8,
+    "summary": "巴尔萨泽定逃奴计；拉斐运粮入库"
+   },
+   {
+    "chapter": 9,
+    "summary": "赫伯特认假报疫死；教数字；长兄回信"
+   },
+   {
+    "chapter": 10,
+    "summary": "黑石持逃奴名单来，被疫死册驳回"
+   },
+   {
+    "chapter": 11,
+    "summary": "建炒铁炉与水力镗床；首根铁管钻成"
+   },
+   {
+    "chapter": 12,
+    "summary": "钐刀助收割；枫树屯麦垛遭蒙面人焚"
+   }
+  ]
+ },
+ "already_told": [
+  "洛伦穿越与装失忆",
+  "空瓶身份与被流放原因",
+  "法师星级、魔视、外环魔素稀薄",
+  "凡人三条禁令",
+  "锈河账目与秋税缺口",
+  "红砂是铁砂（洛伦心里）",
+  "风箱、玻璃、镜子的做法与定价",
+  "拉斐契约条款",
+  "加尔文给赛德里克写信",
+  "去年160人被掳与假报疫死",
+  "大人的数字",
+  "逃奴名单被驳回经过",
+  "炒铁与镗床工序",
+  "钐刀用法与分成"
+ ],
+ "ledger": [
+  {
+   "item": "距秋税日",
+   "value": "约85天",
+   "as_of": 12
+  },
+  {
+   "item": "秋税定额",
+   "value": "12000袋大麦",
+   "as_of": 1
+  },
+  {
+   "item": "粮仓",
+   "value": "已购2500袋；赫伯特估今年收成入仓≥10200袋（未扣枫树屯烧毁的四垛）",
+   "as_of": 12
+  },
+  {
+   "item": "官邸金库",
+   "value": "约248金币",
+   "as_of": 11
+  },
+  {
+   "item": "拉斐契约",
+   "value": "5000金币/三年，预付400已收",
+   "as_of": 8
+  },
+  {
+   "item": "熟铁",
+   "value": "7天48块板料",
+   "as_of": 11
+  },
+  {
+   "item": "生铁锭",
+   "value": "200余根，日增数十",
+   "as_of": 9
+  },
+  {
+   "item": "工匠",
+   "value": "玛尔塔＋7名铁匠，每人每天15铜币加两碗稠麦粥",
+   "as_of": 11
+  },
+  {
+   "item": "兵力",
+   "value": "40名凡人卫兵（木矛），10名民兵守码头",
+   "as_of": 10
+  }
+ ],
+ "deadlines": [
+  "交足12000袋｜秋税日（约85天后）｜否则锈河归赛德里克",
+  "赛德里克派管事接管账册｜秋税日",
+  "巴尔萨泽亲来讨人｜秋税日后若锈河欠税（达隆所说）",
+  "拉斐下批尾款与铁料订金｜下月初十｜西蒙",
+  "执钐刀者每十袋多得两升麦面｜收割期｜洛伦"
+ ],
+ "main_character": {
+  "name": "洛伦·索恩",
+  "identity": "穿越者（前世死于车祸）；索恩家族三子，19岁，零魔力的空瓶，锈河属地督政官",
+  "traits": [
+   "零魔力，不能施法也感知不到魔法",
+   "魔视看他和他造的器物都是一片死寂的灰白",
+   "前世读过的书可逐字回想，像翻书，无界面",
+   "对外装作灌注伤了脑子；心里吐槽，嘴上简短，必要时装傻"
+  ],
+  "status": [
+   "率众夜奔枫树屯火场"
+  ],
+  "knowledge": [
+   "红砂是富铁砂",
+   "生铁脆，炒铁得熟铁；镗床可钻直管",
+   "蒙面人只烧不抢：要锈河欠税，给黑石合法借口",
+   "黑石逃奴名单30人即去年被掳者",
+   "赫伯特底簿有被掳160人姓名：枫树屯52、芦苇荡38、泥塘村70"
+  ]
+ },
+ "knowledge_map": [
+  {
+   "secret": "红砂是铁砂",
+   "knows": [
+    "洛伦"
+   ],
+   "not_known_to": [
+    "所有人（玛尔塔只知是炼铁的砂）"
+   ]
+  },
+  {
+   "secret": "铁管真实用途",
+   "knows": [
+    "洛伦"
+   ],
+   "not_known_to": [
+    "玛尔塔（以为是引水耐压管）",
+    "加尔文",
+    "赫伯特"
+   ]
+  },
+  {
+   "secret": "洛伦并不傻",
+   "knows": [
+    "赫伯特（隐约）",
+    "加尔文（起疑）"
+   ],
+   "not_known_to": [
+    "赛德里克",
+    "黑石"
+   ]
+  },
+  {
+   "secret": "官册疫死实为被掳",
+   "knows": [
+    "洛伦",
+    "赫伯特"
+   ],
+   "not_known_to": [
+    "魔导议会"
+   ]
+  },
+  {
+   "secret": "风箱构造",
+   "knows": [
+    "洛伦",
+    "玛尔塔与铁匠"
+   ],
+   "not_known_to": [
+    "西蒙（只远看过）",
+    "考珀（只看到外壳）"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "name": "赫伯特",
+   "role": "书记",
+   "notes": "56岁，铜框眼镜，抱羊皮账册，胆小；会大人的数字；藏底簿",
+   "speech": "开口回大人，自称小人",
+   "last_seen": 12
+  },
+  {
+   "name": "加尔文·莫兰",
+   "role": "卫队长，二星法师",
+   "notes": "34岁，陶土烟斗，指尖点火，红木短杖；每晨写信给赛德里克；视工坊为玩具",
+   "speech": "称洛伦少爷，自称我；懒散带刺",
+   "last_seen": 12
+  },
+  {
+   "name": "玛尔塔",
+   "role": "铁匠，工坊头",
+   "notes": "28岁寡妇，夫死黑石矿，七岁儿子；带7名铁匠；会大人的数字",
+   "speech": "称大人；嗓门大，直，偶尔自称老娘",
+   "last_seen": 12
+  },
+  {
+   "name": "西蒙·拉斐",
+   "role": "拉斐商会，维林港商人",
+   "notes": "40岁，灰呢衣，不戴金银；觊觎风箱",
+   "speech": "称索恩少爷，对洛伦自称小人",
+   "last_seen": 9
+  },
+  {
+   "name": "巴尔萨泽",
+   "role": "黑石督政官，三星土系法师",
+   "notes": "50岁，大肚，青玉戒指，土黄魔光；贪；去年掳锈河160人",
+   "speech": "",
+   "last_seen": 8
+  },
+  {
+   "name": "达隆",
+   "role": "黑石骑兵队长，凡人",
+   "notes": "刀疤从眼角到下巴，重剑，不下马",
+   "speech": "粗鲁，叫洛伦索恩家的小子",
+   "last_seen": 10
+  },
+  {
+   "name": "考珀",
+   "role": "黑石书记官，持证识字",
+   "notes": "瘦，眼尖，法令纹深；认定工坊只是铁匠铺",
+   "speech": "刻板客套",
+   "last_seen": 10
+  },
+  {
+   "name": "赛德里克·索恩",
+   "role": "长兄，继承人，四星",
+   "notes": "23岁，核心环，未出场；嘲笑卖镜",
+   "speech": "",
+   "last_seen": 9
+  }
+ ],
+ "places": [
+  "督政官邸（锈河镇；卧室挂毯：初代族长格里芬·索恩焚三万敌军于断矛山谷）",
+  "河滩工坊（玛尔塔铁匠铺旁；竖炉、炒铁炉、水轮风箱、水力锻锤、卧式镗床；民兵守）",
+  "锈河码头（停泊税50铜币，运粮船免一年；只许拉斐船靠岸）",
+  "北三村：枫树屯、芦苇荡、泥塘村（邻黑石边界与杂木林；泥塘村长老格里）",
+  "黑石属地（北方上游，碎煤矿，缺苦力）",
+  "维林港（下游自由港；法师商会抽三成）",
+  "核心环（西北，索恩家族）"
+ ],
+ "objects": [
+  {
+   "name": "首根铁管",
+   "holder": "工坊库房，油布包好",
+   "notes": "熟铁板卷锻焊后镗孔，内壁笔直光滑，约小臂粗"
+  },
+  {
+   "name": "赫伯特底簿",
+   "holder": "赫伯特随身",
+   "notes": "旧小册，被掳160人姓名"
+  },
+  {
+   "name": "赛德里克来信",
+   "holder": "加尔文皮甲夹层",
+   "notes": "火漆信"
+  },
+  {
+   "name": "钐刀",
+   "holder": "北三村",
+   "notes": "10柄，四尺弧刃，白蜡木挡架，约7磅"
+  }
+ ],
+ "rules": {
+  "world": [
+   "法师家族统治，魔导议会居顶；索恩族长奥瑞克为六星，外人不敢明抢索恩之地",
+   "凡人（无源者，蔑称泥脚）属土地，无证不得离境；逃奴原主可索回，须名单并经当地督政官认可",
+   "凡人禁持长过小臂的兵器、禁识字（书记持证，锈河仅3人）、禁结社；数字符号不算字",
+   "欠税的督政官被铁链押回帝都"
+  ],
+  "mechanics": [
+   "1金币=20银币=2000铜币；大麦1袋=4银币",
+   "手镜2金币、立镜15金币，手镜成本约6银币；维林港转卖5金币；每船限购8面",
+   "木炭1车5银币",
+   "竖炉出生铁，脆；炒铁炉出熟铁板；水力镗床钻直管",
+   "钐刀一人挺腰横扫约五尺，抵五人短镰",
+   "法师一至九星；魔视看魔素，凡人与凡铁近乎死灰；外环法师回魔慢三倍、常头痛"
+  ],
+  "hard_limits": [
+   "洛伦不能施法",
+   "无系统、无界面",
+   "不写现实地名",
+   "洛伦不对任何人提前世"
+  ]
+ },
+ "open_threads": [
+  "枫树屯麦垛被焚、救火村丁被掳 [ch12]",
+  "蒙面骑手身份，疑黑石 [ch12]",
+  "被掳160人仍在黑石矿 [ch9]",
+  "西蒙觊觎风箱 [ch5]",
+  "首根铁管下一步 [ch11]"
+ ],
+ "conflicts": [
+  "[ch8] 锈河一幕写十天后 vs 西蒙说巴尔萨泽三天前打听 → 以西蒙到港为约第23天为准",
+  "[ch1] 洛伦估3600户 vs [ch4] 赫伯特说两千余户 → 不再提户数",
+  "[ch12] 黑麦 vs 秋税为大麦 → 税粮写大麦"
+ ]
+}
 
 ---
 
@@ -112,73 +390,126 @@ Trên bãi sông, 加尔文 bảo cậu chủ không còn như hồi ở kinh, k
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-学徒按照吩咐拎起木桶，把混着皂角的冷水均匀泼在发烫的钻头上降温。
-玛尔塔站在镗床旁边，用沾满黑油的麻布擦拭着指缝里的污渍。
-“大人，费这么大的功夫打制这种又长又沉的铁管子，究竟是派什么用场的呢？”
-女铁匠打量着滑台上那根足有成年人小臂粗细的铁管，心头堆满了疑问。
-镇上的水井从来只用粗陶管，就算要排灌北面的麦田，木制水槽也便宜得多。
-这样一根经过反复锻焊与钻孔的铁管，消耗的工时与精铁足够打制四把重型开荒铁犁了。
-“这是用来往北面高处台地引水的耐压水管啊。”
-洛伦背着双手站在木架旁，神色显得十分坦然。
-“深冬冰冻时节，寻常陶管稍碰就碎，只有这种厚铁管能把河水引去护住麦根呢。”
-玛尔塔弯腰瞧了瞧管口平整光滑的金属切面，若有所思地点了点头。
-“若是为了保住麦田里的收成，费些熟铁倒也说得过去呢。”
-女铁匠心里的疑惑烟消云散，随即转身催促徒弟往钻头上加倒冷水。
-加尔文嘴里叼着红土烟斗，踩着河滩上的碎石溜达了过来。
-这位二星法师眼底泛起淡蓝色的光晕，魔视扫视之处尽是一团冰冷的灰色杂质。
-整座工棚里完全寻不到任何魔力运转的痕迹。
-“少爷若是真打算把水引上荒地，多招几十个泥脚挑水肯定来得更快一些呢。”
-加尔文吐出一团白色的辛辣烟雾，眼角带着惯常的漠然。
-“把这么好的熟铁扔进泥水里泡着，帝都那些掌管庄园的执事听了都要直摇头啊。”
-“只要地里的麦子能多收上几百袋，耗费这点铁料总能连本带利收回来的嘛。”
-洛伦随口回应了一句，目光始终停留在钻削推进的木刻标线上。
-加尔文耸了耸肩膀，不再多费口舌，转身叼着烟斗朝着镇子里的酒馆晃悠走去。
-伴随着机架上传来的一声脆响，飞转的钢钻终于彻底钻透了整根铁管。
-两名学徒赶忙松开滑台上的固定铁夹，合力将这根滚烫的铁管抬入水槽。
-浓烈的水汽瞬间在水槽上方蒸腾而起，伴随着一阵清脆短促的金属降温声。
-洛伦走上前去，用干燥的粗麻布裹住掌心，单手将彻底冷却的长铁管提了起来。
-这根铁管沉重压手，外壁保留着锤打锻接的暗色纹路，内壁却被钢钻切削得平整光润。
-他缓步走出工棚，将管口的一端对准了天空中正午的烈阳。
-洛伦闭上左眼，目光顺着笔直幽深的内壁朝尽头望去。
-刺目的金色日光穿透狭长的孔道，在平滑规整的金属内圈上，映出一道完美无瑕的同心光环。
+水力重锤不知疲倦地起落，锻造出十柄细长的弧形刀身。
+每柄铁刃足有四尺长，外侧加装了轻巧的白蜡木挡架，洛伦管这件农具叫钐刀。
+作坊里的铁匠从没见过这样的古怪家什，私底下都在嘀咕这东西的用处。
+整套器具装上长木柄总共只有七磅重，单人握着就能前后挥舞自如。
+几天后的清晨，泥塘村的干硬田埂上，木轮车碾得碎土咯吱作响。
+村头的四十多个农户全都弯着腰，正攥着巴掌大的短镰割麦。
+每个人都要把身子躬得很低，割满两把麦秆就得直起腰缓一口气。
+去年黑石属地强行抓走了村里七十个健壮劳力，剩下的多半是老人与妇孺。
+大片泛黄的黑麦在旷野的风里摇晃，村里的几个老农急得嘴角全是水泡。
+若是赶在秋雨落下来之前收不完，麦穗烂在地里，整个冬天就得饿肚子。
+两辆马车在村口停稳，十柄崭新的钐刀被领地卫兵依次抬下车架。
+泥塘村的村长老格里拄着木杖，带着十几个疲惫的农人凑了过来。
+“大人，这些带木框的长刀，是拿来圈野兽的么？”
+老格里伸手摸了摸弯曲的木架，浑浊的眼睛里透着困惑。
+围上来的几个年轻农户忍不住笑出了声，交头接耳地指点着刀头的木架。
+“老格里，挑一个气力足的汉子出来，当场试试就明白了嘛。”
+洛伦走上前去，随手抽出一柄钐刀递向人群。
+一个粗壮汉子接过长木柄，按照洛伦的指点挺直了腰背。
+他握紧把手上的横木，以腰腹为轴心，自右向左平平扫了出去。
+弧形的铁刃贴着地皮飞旋而过，发出一阵清脆的断茬声。
+木架在扫过的瞬间顺势揽住了齐刷刷倒下的麦秆。
+汉子顺着冲势将木柄往身侧微微一扬，切落的麦秆整整齐齐排在田垄左侧。
+这一刀横推过去，直接扫平了近五尺宽的一大排麦丛。
+原本还在发笑的农户瞬间闭紧了嘴巴，田埂上一片安静。
+老格里手里的硬木杖晃了晃，险些砸在脚背的泥地里。
+寻常短镰要费劲弯腰割上五六次的地块，这一挥臂膀竟然彻底平了。
+“大人，一柄刀要是能顶五个人，省下来的人还能领到黑麦么？”
+一个上了年纪的干瘦妇人缩在后排，手里依旧死死攥着磨秃的短铁镰。
+在帝国的领地规矩里，贵族发放给平民的糊口口粮，向来是按照人头出的工时来算的。
+“你们村里今年少了七十个青壮，北边荒着的田地至少有四百亩呢。”
+洛伦背手站在垄沟旁，视线掠过那片望不到尽头的金黄麦浪。
+“麦子烂在泥地里，谁也吃不上干粮，本官只要按时装船的麦袋。”
+“凡是用大镰刀割下的麦子，每捆出十袋麦粒，就给执刀的人多分两升黑麦面呢。”
+听到这话，几个年轻汉子立即抢上前来，争抢着剩余的钐刀把柄。
+书记官赫伯特把羊皮账本垫在膝头，跟在收割队伍后头飞快地记账。
+他的鹅毛笔在粗糙皮纸上沙沙划动，写下一排排规整的新数字：20、60、150。
+这是洛伦教给他的记数方法，比帝国通行的繁琐文字省力得多。
+原本需要全村苦熬七天的麦田，十柄大镰刀只用了大半天就削掉了三分之一。
+倒下的麦秆被妇人们扎成规整的草捆，一垛挨着一垛堆在村口的空场上。
+赫伯特的手指在羊皮纸边缘微微颤动，眼角堆起了少见的喜色。
+从督政官大人苏醒到现在，这位上了年纪的老文吏还是第二次露出这副神情。
+傍晚，官邸书房的橡木长桌上，点亮了三根牛油蜡烛。
+赫伯特快步迈进房门，捧着账册躬身行礼。
+“回大人，今天泥塘村一口气割下了四百二十捆优质黑麦呢。”
+老文吏把账册摊在桌面上，指尖按着那个用黑墨水圈出来的数字。
+“照着这个架势算下去，北面三个村子只要十天就能把田收干净啊。”
+“扣掉村民口粮与留下的种子，全属地今年收进仓的麦子保底能有一万零两百袋呢。”
+算上早先从拉斐商会购入的两千五百袋粮食，总数已经稳稳压过了一万两千袋的底线。
+老文吏摘下鼻梁上的铜框眼镜，用袖口擦拭着镜片上的蒙蒙水雾。
+“要是这个数能如期入库，秋税日那天帝都那边也挑不出半点错处来嘛。”
+洛伦的神色平静，目光停留在桌面铺开的领地草图上。
+“割倒的麦子脱粒需要工夫，现在全都堆在村外的空场上吧？”
+“回大人，正是这样，晒透了才好用连枷敲打麦粒呢。”
+“那些场院紧靠着北边的杂木林，离黑石属地的边界线可近得很哪。”
+洛伦用指甲在泥塘村与枫树屯外侧划了一道浅痕。
+深秋时节秋风干燥，几百堆干枯的麦秆堆在荒郊野地里。
+只要随手丢上一根裹了油脂的火把，小半个时辰就能把整片心血烧成灰烬。
+“让领队把卫所的四十个民兵分成四队，今晚就派驻到北面三个村子去。”
+洛伦抬眼看着赫伯特，屈起手指在桌面上敲打了一下。
+“多带皮水桶，在麦场四周挖出两道隔火沟，天亮之前轮流守夜。”
+赫伯特刚要应声，官邸外头的夜空里猛然荡开一阵急促刺耳的铜钟声响。
+那是北面烽燧哨塔传来的警报，沉闷的金属声在荒原上荡起层层回音。
+书房厚重的木门被一把推开，卫队长加尔文叼着陶土烟斗快步走了进来。
+“少爷，北边出岔子了，枫树屯方向升起了狼烟火光呢。”
+加尔文右手顺势按在腰间的红木短杖上，平日里的懒散神色收敛得干干净净。
+一名满身草屑的民兵跌跌撞撞冲进长廊，鞋底挂着厚厚的湿黑泥浆。
+“大人！枫树屯的大麦场走水了！”
+哨探单膝跪在硬木地板上剧烈喘息，嗓音干哑发颤。
+“一队蒙面骑手突然从林子里冲出来，扔下七八个火油瓦罐，转头就跑了啊！”
+“四个大麦垛全烧塌了，带头救火的几个村丁也被他们用绳套拖走啦！”
+洛伦站在烛台边上，眼底的神色沉得发冷。
+这是一场算计得极其精准的袭击。
+寻常劫掠必定要抢夺粮食，可麦堆沉重笨重，运粮的大车根本跑不快。
+车轮在秋天湿软的泥地里会留下极深的辙印，逃窜时极容易被追兵咬住。
+扔火把却只要短短一瞬，就能毁掉整个属地凑齐贡赋的指望。
+一旦麦子烧成了焦炭，锈河属地在秋税日就交不齐一万两千袋贡粮。
+到了那时候，北边的债主就能依照议会的法度，堂而皇之地过来瓜分领地与人口。
+“莫兰卫队长，带上所有能骑马的人，拿上家伙。”
+洛伦抓起椅背上的厚呢披风披在肩上，径直大步迈出了书房。
+加尔文握着法杖快步跟在后头，指尖蹭过杖头，擦出一簇细小的赤色火星。
+“少爷，黑石那位可是正经的三星法师，这要是半路撞上，我的护盾可顶不住大火球呢。”
+“真要是他亲自下了场，哪里还用得着蒙住脸面行事嘛。”
+洛伦冲出府邸大门，翻身跨上一匹早已备好鞍鞯的褐色战马。
+他双腿狠狠一夹马腹，战马长嘶一声，蹄铁在碎石路面上踏出一串火星。
+坐骑箭步窜入夜雾，朝着北面天际那团烧得通红的暗色火光狂奔而去。
+加尔文吐出一口辛辣的青烟，扬起马鞭，带着二十名骑兵破开夜色紧随其后。
 
-(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn thứ 12, khoảng 2500 chữ, bằng tiếng Trung. Kể từ mắt 洛伦.
+Viết đoạn thứ 13, khoảng 2500 chữ, bằng tiếng Trung. Kể từ mắt 洛伦.
 
-【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
-- 洛伦·索恩: 督政官 锈河, người xuyên việt, không ma lực; ngoài mặt vẫn để người ta tin 灌注 làm anh lú. Bàn tay vàng: sách kiếp trước hiện ra rõ từng chữ khi anh nghĩ tới.
-- 赫伯特: 书记, kính gọng đồng; gọi 大人, tự xưng 小人, mở lời bằng 回大人; đã biết "大人的数字" và đang ghi sổ gặt bằng chúng.
-- 玛尔塔: thợ rèn, góa; chồng chết ở mỏ 黑石.
-- 加尔文·莫兰: 卫队长, pháp sư hai sao, tẩu đất nung; gọi 洛伦少爷, tự xưng 我.
-- Dân 锈河: phàm nhân, gặt bằng liềm ngắn, khom lưng cả ngày; lúa gặt xong bó lại, chất thành đống ở đầu ruộng chờ đập.
-- Thứ 洛伦 cho rèn từ sắt dẻo mới: lưỡi hái cán dài có giá gom lúa (người đứng thẳng mà gặt, mỗi nhát quét một vạt rộng, giá gỗ gom thân lúa lại thành lượm). Một người cầm hái gặt bằng bốn, năm người cầm liềm.
-- Các làng phía bắc, sát 黑石: 枫树屯, 芦苇荡, 泥塘村 — chính là ba làng bị bắt người năm ngoái, nay thiếu trai tráng.
-- Số: cống 12.000 袋; kho đã có 2.500 袋 mua của 拉斐商会; vụ gặt phải ra khoảng 9.500 袋 mới đủ. Còn khoảng 89 ngày tới 秋税日.
-- 黑石: 巴尔萨泽, pháp sư ba sao; 达隆 nói qua 秋税日 mà 锈河 thiếu lúa thì 巴尔萨泽 sẽ tự sang đòi người.
-
-【Tiền tình】
-Bảy ngày qua, bên bãi sông đã dựng thêm lò luyện gang thành sắt dẻo và một máy khoan chạy bánh xe nước. Trưa nay chiếc ống sắt đầu tiên được khoan xong; với mọi người đó là ống dẫn nước lên đất cao. 加尔文 trước đó đã cảnh báo thật lòng rằng bốn mươi giáo gỗ của 锈河 không chịu nổi một đòn lửa của pháp sư ba sao.
+【Thiết lập dùng tới】
+- Nhân vật, số liệu, ai biết gì: theo State JSON ở trên.
+- 枫树屯: làng sát bờ rừng tạp và sông giới với 黑石. Năm ngoái mất 52 trai tráng; giờ phần đông là người già, đàn bà, trẻ con.
+- Bốn đống lúa bị đốt: mỗi đống chừng 60 袋 lúa mạch khi đập xong — mất chừng 240 袋.
+- Kẻ đốt: tám chín người cưỡi ngựa, bịt mặt, ném vò dầu, không mang cờ. Họ kéo đi bốn người đàn ông đứng ra chữa cháy.
+- Luật: phàm nhân thuộc về đất; kéo quân qua sông giới sang đất 黑石 là xâm phạm lãnh địa của một pháp sư ba sao — chính là cái cớ hợp luật mà 黑石 đang chờ.
+- Ma thuật: lửa từ vò dầu là lửa thường; 魔视 của 加尔文 không thấy dấu ma tố nào ở đó.
 
 【Chuyện xảy ra trong đoạn này】
-洛伦 đặt chiếc ống xuống, quay sang việc gấp hơn: mùa gặt đã tới mà ba làng phía bắc thiếu người. Mấy ngày sau, ở ruộng 泥塘村, 洛伦 mang tới mười lưỡi hái cán dài rèn từ sắt mới. Dân làng nhìn cái giá gỗ lạ lùng thì cười; một ông già cầm thử, đứng thẳng lưng quét một nhát, và tiếng cười tắt. Có người lo một cái hái gặt bằng năm người thì năm người kia sẽ bị bớt phần; 洛伦 trả lời bằng phép tính về số ruộng còn bỏ không vì thiếu trai tráng. 赫伯特 đi theo bờ ruộng, ghi số lượm bằng "大人的数字", và tối về cộng sổ: nếu gặt đều thế này, vụ này có thể vượt con số 9.500 袋. Ông vui lần thứ hai kể từ hôm 洛伦 tỉnh. 洛伦 thì nhìn những đống lúa chất cao ở đầu ruộng, sát bờ rừng phía bắc, và thấy chúng dễ cháy.
+洛伦 và 加尔文 tới khi lửa đã sập, dân làng còn xách nước. Một người đàn bà lao tới níu yên ngựa 洛伦: con trai bà là một trong bốn người bị kéo đi, chồng bà bị bắt năm ngoái. 洛伦 hỏi những câu cụ thể — bao nhiêu ngựa, đi lối nào, bịt mặt bằng gì. Một đứa bé nhặt được một thứ kẻ cưỡi ngựa đánh rơi. 加尔文 mở 魔视 nhìn đống tro, chẳng thấy gì, và nói thẳng rằng không có bằng chứng thì không ai ở 魔导议会 nghe một thằng 空瓶 kêu oan.
 
-Đêm, ở 督政官邸, 洛伦 đang dặn 赫伯特 cho dân binh canh các đống lúa thì chuông báo động từ phía bắc vang lên. Một dân binh phi ngựa về báo: ở 枫树屯, có người không cờ không hiệu đốt các đống lúa chờ đập, rồi bắt mấy người đứng ra chữa cháy đi theo. 加尔文 đã đứng dậy, tay đặt lên đoản trượng.
+Lính 锈河 muốn đuổi theo vết ngựa tới sông giới. 加尔文 chặn lại, nói đúng cái bẫy: qua sông là cho 黑石 cái cớ. 洛伦 đồng ý dừng ở bờ sông. Anh đứng nhìn bên kia sông tối, và tính: mất bao nhiêu bao, còn bao nhiêu, đêm sau chúng sẽ đốt làng nào.
+
+Trước khi rời làng, 洛伦 làm hai việc cho dân 枫树屯 ngay đêm đó, và hứa với người đàn bà một điều mà anh biết mình chưa chắc làm được. Rạng sáng anh về thẳng bãi sông chứ không về phủ.
 
 【Những điểm bắt buộc】
-- Lưỡi hái làm từ sắt dẻo mới; người làng thử rồi mới tin.
-- Kẻ đốt lúa không mang cờ; trong đoạn này không ai nói chắc là 黑石, chỉ 洛伦 tự hiểu vì sao kẻ ấy đốt lúa chứ không cướp lúa.
-- 洛伦 không dùng gì từ chiếc ống sắt trong đoạn này.
+- Không ai qua sông giới; không có đánh nhau.
+- Thứ đứa bé nhặt được là vật chứng có thể chỉ về 黑石 nhưng chưa đủ để buộc tội trước 魔导议会.
+- Bí mật về chiếc ống sắt giữ nguyên như trong knowledge_map.
 
 【Tự do sáng tạo】
-Ông già cầm hái, người lo bớt phần, phép tính của 洛伦, cảnh 赫伯特 cộng sổ, điều 洛伦 nghĩ về những đống lúa và về lý do kẻ kia đốt chứ không cướp — do bạn quyết.
+Vật đứa bé nhặt được, tên người đàn bà và con bà, hai việc 洛伦 làm cho làng, lời hứa của anh, lý lẽ 加尔文 nói về 魔导议会 — do bạn quyết.
 
 【Mở đầu và chỗ dừng】
-- Mở: 洛伦 hạ chiếc ống sắt xuống, trao cho 玛尔塔.
-- Dừng: 洛伦 lên ngựa phóng về phía ánh lửa ở 枫树屯, 加尔文 phóng theo; những gì họ thấy ở làng cháy thuộc đoạn sau.
+- Mở: ngay sau scene_bridge.last_beat — vó ngựa tới đầu làng 枫树屯, ánh lửa và khói trước mặt.
+- Dừng: rạng sáng ở lều lò, 洛伦 hỏi 玛尔塔 một máy khoan mỗi ngày làm được mấy chiếc ống như hôm trước. Câu trả lời của bà thuộc đoạn sau.
