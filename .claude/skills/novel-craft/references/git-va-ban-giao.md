@@ -26,3 +26,5 @@ When the Author approves a segment (e.g. *"Duyệt"*, *"Chốt và push"*):
 - **Bàn giao: file trên đĩa là bản chính, link chỉ để định vị commit.** Session tiếp nhận `git pull` rồi đọc `<truyen>/chapters/doan-XXX.md` — đọc trên file để còn chạy được `soat_van.py` trên đúng bản đó — cùng `reviews/doan-XXX.md`, `log.md`, `handoff/state.md`; không đọc nội dung qua GitHub.
 - **Kết luận không ghi vào file thì mất.** Session kia nghĩ gì, loại bản nào, vì sao, không truyền sang session mới. Trước khi push phải ghi verdict + bảng số + quyết định vào `reviews/doan-XXX.md` và `log.md`.
 - Chat đang chờ bàn giao thì **không `/new`**: giữ session, chờ một câu "xong rồi" là vào việc. `/new` xoá context hội thoại nhưng giữ memory, skills và file trên đĩa.
+- **Agent con đang chạy lô thì phiên chính chỉ `git add` đúng file của mình**, không `git add -A`: lệnh đó gom luôn đoạn và State agent con đang làm dở vào commit của phiên chính, rồi agent con chốt trên State đã bị đổi.
+- **Brief do phiên chính viết; agent con chỉ chạy, soát, chốt** — agent con viết brief thì chép câu nguyên tắc vào brief và MC thành lạnh, cụt.

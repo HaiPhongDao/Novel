@@ -265,3 +265,18 @@ Tóm tắt điều đã đo được:
 - Khác biệt **điểm mở cảnh** không phải lỗi cần sửa: Tác giả thích mở chậm (xem mục 7).
 
 Quy trình đầy đủ, prompt mẫu, bảng số và giới hạn của phép test: `si-test-tren-mau.md`.
+
+## 12. Thẻ thoại và chủ ngữ lời kể (chuyển từ SKILL.md)
+
+- **Luật "mọi lượt thoại có thẻ" + anchor gắn thẻ cả tám dòng = lượt nào cũng kết bằng `X 说道`**, kể cả hai ba lượt
+  liền của một người (Tác giả đọc ra ngay). Luật đúng: thẻ chỉ ở chỗ cần biết ai nói, tối đa một lượt trong ba,
+  không bao giờ hai lượt liền của một người cùng gắn thẻ — đo cùng truyện: 15 thẻ → 1. Lúc chép SI sang truyện
+  mới, soát câu chữ của luật thẻ và lời bình anchor trước khi chạy.
+- **Thước chủ ngữ người trong lời kể** (他/她 + tên MC mỗi 1000 字 lời kể): bộ 骑砍 mẫu trung vị 9,0 + 9,3 = 18,7. Luật SI
+  đẩy Writer từ ~12 lên ~16 nhưng dao động giữa các lần chạy lớn hơn tác dụng luật; Tác giả chấp nhận mức 10–14 khi
+  đoạn mở đi theo kiểu người kể tóm lại (`ky-kham-lanh-chua/gemini/test/vong-cn-1/ghi-chu.md`).
+
+## 13. Trợ từ cuối lượt thoại: danh sách ví dụ bị nhồi, hạn mức thì hạ được
+
+Đo trên khong-binh 005 (cùng gói, cùng brief, chỉ đổi SI): danh sách 13 trợ từ trong luật thoại → 呢 19/35 lượt, 30/35 lượt kết bằng trợ từ. Bỏ 呢 khỏi danh sách → vẫn 呢 11/29 (model tự thêm). Thêm câu "phần lớn lượt kết bằng chữ cuối, không trợ từ; 呢 tối đa hai lần một đoạn; hai lượt liền không cùng trợ từ" → 呢 1, 4/31 lượt có trợ từ, thoại vẫn trọn ý. Luật "trợ từ chỉ cho câu hỏi/nhờ/trêu" → 14/22 và số lượt tụt. Không có ví dụ (v1.2) thì ít trợ từ nhưng Tác giả đòi ví dụ để thoại có khẩu khí.
+
