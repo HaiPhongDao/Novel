@@ -9,7 +9,9 @@ Viết đoạn thứ 3, khoảng 2500 chữ, bằng tiếng Trung.
 - Tiền và giá: 1 金币 = 20 银币 = 2000 铜币; 1 袋 lúa mạch = 4 银币. Than củi 1 xe = 5 银币; lò 玛尔塔 đốt 2 xe một tuần, có bễ mới sẽ đốt 4 xe. Gương tay 2 金币 = 40 银币 = 8 xe than = 10 袋 lúa. Phần cống lương thiếu 2.500 袋 = 500 金币 = 250 gương tay.
 
 【Chuyện xảy ra trong đoạn này】
-洛伦 tới lò rèn của 玛尔塔 bên bờ sông, 加尔文 theo sau, con trai 玛尔塔 chạy quanh đống linh kiện. Anh ngồi bệt xuống đất lắp chiếc 风箱 từ những mảnh 玛尔塔 rèn và thợ mộc đẽo, vừa lắp vừa chỉ cho hai thợ phụ chỗ nào khít, chỗ nào hở. Thợ phụ kéo thử; gió thổi cả lúc kéo tới lẫn lúc đẩy lui, lửa lò đổi màu sang trắng. 洛伦 chờ 加尔文 soi cái máy lạ bằng 魔视 rồi hỏi vặn, và đã nghĩ sẵn trong đầu một lời bịa. 加尔文 soi xong, bảo cái bễ "trống không", chẳng có tí ma tố nào, đồ chơi gỗ, rồi ra gốc cây ngồi hút tẩu. 洛伦 cất lời bịa đi.
+洛伦 đi bộ từ 督政官邸 xuống 锈河镇, 赫伯特 đi trước dẫn đường, 加尔文 theo sau. Đây là lần đầu một 督政官 xuống lò rèn: người trong trấn đang làm việc dọc đường và quanh lò dừng tay đứng xem, có người lùi vào trong cửa. 赫伯特 đi trước vài bước báo cho lò rèn. 玛尔塔 và hai thợ phụ chào 督政官 theo phép phàm nhân trước khi nói tới linh kiện; con trai bảy tuổi của bà bị kéo ra sau lưng mẹ. 玛尔塔 bày ra những mảnh bà đã rèn theo bản vẽ.
+
+Anh ngồi bệt xuống đất lắp chiếc 风箱 từ những mảnh 玛尔塔 rèn và thợ mộc đẽo, vừa lắp vừa chỉ cho hai thợ phụ chỗ nào khít, chỗ nào hở. Thợ phụ kéo thử; gió thổi cả lúc kéo tới lẫn lúc đẩy lui, lửa lò đổi màu sang trắng. 洛伦 chờ 加尔文 soi cái máy lạ bằng 魔视 rồi hỏi vặn, và đã nghĩ sẵn trong đầu một lời bịa. 加尔文 soi xong, bảo cái bễ "trống không", chẳng có tí ma tố nào, đồ chơi gỗ, rồi ra gốc cây ngồi hút tẩu. 洛伦 cất lời bịa đi.
 
 玛尔塔 thì tính bằng chuyện của bà: lửa thế này đốt than gấp đôi, ai trả tiền than, và lò của chồng bà không phải chỗ cho cậu ấm chơi. 洛伦 đáp bằng phép tính trong thiết lập: thêm hai xe than mỗi tuần là 10 银币. Anh bảo đổ vào lò một mẻ cát bãi sông đã đãi trộn tro cây, nói lửa này nung cát thành thủy tinh, và một tấm gương tay làm từ thủy tinh ấy bán cho phu nhân pháp sư được 2 金币 — tám xe than, mười bao lúa. Mẻ cát đầu chảy ra thành một cục thủy tinh đục; con trai 玛尔塔 đòi một mảnh, còn 玛尔塔 cầm cục thủy tinh lên soi về phía mặt sông.
 
@@ -24,5 +26,5 @@ Qua tới bữa tối ở 督政官邸, 赫伯特 đã ngồi tính lời gươn
 Cách 洛伦 lắp và tự giễu cái tay vụng của mình, phản ứng của hai thợ phụ, lời mỉa của 加尔文, cục thủy tinh đục ra sao và 洛伦 nghĩ gì về nó, món ăn bữa tối, cách 赫伯特 tính — do bạn quyết.
 
 【Mở đầu và chỗ dừng】
-- Mở: 洛伦 vừa tới lò rèn, áo 督政官 còn thắt lệch một dây, 赫伯特 dẫn đường.
+- Mở: 洛伦 vừa ra khỏi 督政官邸, áo 督政官 còn thắt lệch một dây, 赫伯特 dẫn đường xuống trấn.
 - Dừng: cuối bữa tối, 洛伦 hỏi 赫伯特 có tiền rồi thì tiêu vào đâu trước; 赫伯特 còn đang nghĩ. Câu trả lời của 洛伦 thuộc đoạn sau.
