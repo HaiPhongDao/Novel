@@ -8,11 +8,12 @@
 ## Writer
 
 - SI: `gemini/si-v1.txt` (phần dán), `gemini/si-dan-gemini.txt` (kèm dấu BẮT ĐẦU/HẾT). Dựng từ `../writer/SI-tong-hop.txt`, thay 9 anchor bằng nguyên văn bộ mẫu (`verify_anchors.py` 10/10 khớp), thêm PART 3 cho lane truyện tranh.
-- Đoạn 001: `handoff/session-start-001.md` = brief + State JSON.
+- Đoạn 001: `handoff/session-start-001.md` = brief + State JSON. Truyện này không giữ `canon-card.md`: thiết lập cố định nằm trong `handoff/state.json`.
+- Tên người viết romaji trong chính văn, prompt, State và cả anchor SI (Tác giả 29/10).
 - Lỗi riêng để soát: `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | `briefs/doan-001.md` — chờ Tác giả đọc | — | — | — |
+| 001 | `briefs/doan-001.md` — Tác giả duyệt 29/10 | — | — | — |

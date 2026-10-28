@@ -18,7 +18,7 @@
 ## Năng lực của MC (hợp đồng bàn tay vàng)
 
 - **Có:** 【分镜库】. Mỗi đêm ngủ, phân cảnh của các tác phẩm đời sau (truyện tranh, anime, phim) về trong mơ thành từng trang rời. Mỗi tác phẩm có một mức %. Sáng dậy anh "thấy" danh sách đó trong đầu. Đủ khoảng 90% thì vẽ lại được cả tác phẩm. Đôi khi một tác phẩm về một lượt gần trọn, chưa rõ điều kiện. Tác phẩm anh hay nghĩ tới thì về nhanh hơn. 《摄影机不要停！》 về gần trọn từ đêm thứ hai sau khi xuyên việt.
-- **Có:** tay nghề vẽ của thân xác cũ (bảy năm luyện, học trường chuyên nghiệp truyện tranh). Mức người mới khá, nét chưa đẹp bằng hoạ sĩ chuyên.
+- **Có:** tay nghề vẽ của thân xác cũ (bảy năm luyện) cộng 12 năm làm trợ lý truyện tranh ở kiếp trước (mắt phân cảnh, biết biên tập đọc gì). Mức người mới khá, nét chưa đẹp bằng hoạ sĩ chuyên.
 - **Không có:** nhớ trọn một bộ dài hàng trăm chương bằng trí nhớ thường. Không biết chắc tác phẩm nào sẽ về tiếp.
 - **Được phép sai:** đọc sai thị hiếu năm 2000, vẽ chậm, chọn sai tạp chí.
 

@@ -1,6 +1,6 @@
 # Tổng quan — 我在千禧东京画漫画
 
-- **Logline:** Năm 2000, một người xuyên việt nhập vào cậu nhân viên ca đêm quán truyện tranh ở Tokyo. Cậu này đã gửi bản thảo bảy lần, bị loại cả bảy, còn nợ tín dụng đen. Anh dùng những mảnh phân cảnh của các tác phẩm đời sau hiện về trong mơ để bước vào giới truyện tranh, cùng một nữ biên tập viên chưa có lấy một tác giả đăng dài kỳ.
+- **Logline:** Năm 2000, một người Nhật từ năm 2026 xuyên việt nhập vào cậu nhân viên ca đêm quán truyện tranh ở Tokyo. Cậu này đã gửi bản thảo bảy lần, bị loại cả bảy, còn nợ tín dụng đen. Anh dùng những mảnh phân cảnh của các tác phẩm đời sau hiện về trong mơ để bước vào giới truyện tranh, cùng một nữ biên tập viên chưa có lấy một tác giả đăng dài kỳ.
 - **Premise:** Tác giả chốt (29/10) giữ nguyên tiền đề của bộ mẫu 我在泡沫东京画漫画, chỉ đẩy năm bối cảnh lên. Bộ mẫu lấy năm 1994, lúc bong bóng vừa vỡ. Truyện này lấy tháng 10/2000: "kỷ băng hà tìm việc", thị trường truyện tranh đã đi xuống 5 năm liền kể từ đỉnh 1995, tín dụng tiêu dùng lãi 29,2%, quán truyện tranh mở suốt đêm đang nở rộ. Mỗi tác phẩm MC vẽ là một màn trình diễn. Người đọc nó (biên tập, đối thủ, giám khảo) đi từ coi thường, qua đoán sai, tới bị lật ngược. MC thắng bằng con số: tiền thưởng, nhuận bút, thứ hạng phiếu độc giả.
 - **Thể loại:** 文娱 / 都市 / xuyên việt, lane "vẽ truyện tranh ở Nhật" (日漫文抄).
 - **Chủ đề:** Thời buổi suy thoái, ai cũng đang đánh cược phần đời còn lại của mình. Tác phẩm hay cho người ta lý do để cược thêm một lần.

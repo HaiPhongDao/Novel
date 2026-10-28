@@ -1,15 +1,17 @@
 # Thuật ngữ & Xưng hô
 
-> Chính văn tiếng Trung. Truyện đặt ở Nhật nên **tên người, địa danh, công ty viết bằng chữ Hán (kanji)** trong chính văn. Prompt gọi người bằng romaji; State JSON ghi `汉字 (romaji)`. Nước Nhật viết 日本 (bộ mẫu viết 曰本, không chép).
+> Chính văn tiếng Trung. **Tên người viết romaji** trong chính văn, prompt và State (Tác giả 29/10). Địa danh, công ty, tạp chí viết chữ Hán. Nước Nhật viết 日本 (bộ mẫu viết 曰本, không chép).
 
 ## Tên riêng
-| Romaji (prompt) | 中文 (chính văn) | Ghi chú |
+| Prompt | Chính văn | Ghi chú |
 |---|---|---|
-| Hayakawa Ryo | 早川凉 | MC, 24 tuổi |
-| Morishita Chinatsu | 森下千夏 | biên tập viên 《周刊Young Jump》 |
-| Kurosawa Kengo | 黑泽健吾 | phó tổng biên tập 《周刊Young Jump》 |
-| Otsuka Shigeru | 大塚茂 | chủ quán truyện tranh 月光 |
-| Iwata | 岩田 | người đòi nợ của 丸福 |
+| Hayakawa Ryo | Hayakawa Ryo / Hayakawa | MC, 24 tuổi |
+| Morishita Chinatsu | Morishita Chinatsu / Morishita | biên tập viên 《周刊Young Jump》 |
+| Kurosawa Kengo | Kurosawa Kengo / Kurosawa | phó tổng biên tập 《周刊Young Jump》 |
+| Otsuka Shigeru | Otsuka Shigeru / Otsuka | chủ quán truyện tranh 月光 |
+| Iwata | Iwata | người đòi nợ của 丸福 |
+| Fujii Kenta | Fujii Kenta / Fujii | bạn cùng trường của thân xác cũ |
+| Hayakawa Fumiko | Hayakawa Fumiko | mẹ MC, ở Niigata (新潟) |
 | quán Gekko | 漫画喫茶「月光」 | quán truyện tranh mở suốt đêm, 中野区 |
 | công ty Marufuku | 丸福金融 | công ty tín dụng tiêu dùng (hư cấu) |
 | Shueisha | 集英社 | toà soạn ở 神保町 (千代田区) |
@@ -31,10 +33,11 @@
 ## Xưng hô (CỐ ĐỊNH)
 | Người nói → người nghe | Cách gọi |
 |---|---|
-| Morishita → Hayakawa (lúc chưa quen) | 店员先生 → sau khi biết tên: 早川君 |
-| Hayakawa → Morishita | 客人 → sau khi biết là biên tập: 森下小姐 |
-| Otsuka → Hayakawa | 早川 / 小子 |
+| Morishita → Hayakawa (lúc chưa quen) | 店员先生 → sau khi biết tên: Hayakawa君 |
+| Hayakawa → Morishita | 客人 → sau khi biết là biên tập: Morishita小姐 |
+| Otsuka → Hayakawa | Hayakawa / 小子 |
 | Hayakawa → Otsuka | 店长 |
-| Kurosawa → Morishita | 森下 |
-| Morishita → Kurosawa | 黑泽副编辑长 |
-| Iwata → Hayakawa | 早川先生 (lễ phép kiểu đòi nợ) |
+| Kurosawa → Morishita | Morishita |
+| Morishita → Kurosawa | Kurosawa副编辑长 |
+| Iwata → Hayakawa | Hayakawa先生 (lễ phép kiểu đòi nợ) |
+| Fujii → Hayakawa | Hayakawa |

@@ -9,7 +9,7 @@ Sample anchor excerpts appear below as style anchors, taken from the benchmark n
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are written in Vietnamese; the prose is always in Chinese. Everything the prompt describes in Vietnamese you put into natural Chinese.
-2. Names. This story is set in Japan, so every Japanese name is written in its kanji form as the handoff State gives it (早川凉, 森下千夏, 集英社). The prompt spells people in romaji for reference (Hayakawa Ryo); in the prose the name is always the kanji from the State, never the romaji. The country is written 日本. Titles of works go in 《》 exactly as the prompt or the State gives them. Every other named thing in the prose is one the prompt names or one you invent for this story's world.
+2. Names. People's names are written in Latin letters (romaji), exactly as the prompt and the State spell them, in one fixed form throughout: Hayakawa抬起头 · Morishita小姐 · Hayakawa君. In narration a person is usually called by the family name alone (Hayakawa, Morishita); the full name appears when they are introduced. Place names, companies and magazines are written in Chinese characters as the State gives them (中野, 集英社, 《周刊Young Jump》). The country is written 日本. Titles of works go in 《》 exactly as the prompt or the State gives them. Every other named thing in the prose is one the prompt names or one you invent for this story's world.
 3. Punctuation. `——` lives inside dialogue quotes, marking an interruption or a sudden turn in speech. `……` closes a crowd talking over each other, marks hesitation inside dialogue, and as a line of its own marks a scene change. Narration runs on full stops and commas; every other pause is written as an action or a short sentence. Exclamation marks gather in fights, standoffs, crowd shouting and strong spoken reactions; everyday scenes and working-out use few.
 4. Golden finger. Any system, interface, simulator, voice or special power appears exactly in the form, name, form of address and limits the prompt gives it, written in ordinary prose and dialogue. Fixed lines the prompt gives in Chinese are used word for word. Its lines state facts and events; the jokes, judgments and plans live in the protagonist's reactions around them.
 
@@ -23,9 +23,9 @@ Sample anchor:
 
 ```
 　　太阳缓缓落幕，东京都的天渐暗。
-　　秋山悟看了一眼手表，随后加快了前往正门的脚步。
+　　Akiyama Satoru看了一眼手表，随后加快了前往正门的脚步。
 　　今天他是以外出采购稿纸的理由被派出来的，晚上仍然要到工作室完成今天的工作内容。
-　　对于上杉先生来说，买稿纸是买稿纸，今天该干的活也不能少，如果秋山路上耽误太久的时间，那就得熬夜赶进度了。
+　　对于Uesugi先生来说，买稿纸是买稿纸，今天该干的活也不能少，如果Akiyama路上耽误太久的时间，那就得熬夜赶进度了。
 　　而之所以要承受如此牛马的工作...是因为——
 　　现在的钱包，还不允许他有怨言！
 ```
@@ -39,7 +39,7 @@ Use nouns and verbs that name things. Working, trading and planning scenes land 
 Sample anchor:
 
 ```
-　　秋山悟端详了一下面前的女人。
+　　Akiyama Satoru端详了一下面前的女人。
 　　精致而漂亮的五官，完全遮住额头的刘海，长发在脑后随意地盘成一个松散的发髻，几缕不听话的发丝垂落在颈边和颊侧。
 　　那夹着烟的指尖染着淡淡的烟渍，修长好看。
 　　他没有在记忆中搜寻到这位女士。
@@ -58,15 +58,16 @@ When the segment prompt opens a supporting character's head for a moment, the sa
 Sample anchor:
 
 ```
-　　...100万円！
-　　按照94年的RMB汇率，那就是整整10万块钱，94年的10万块！
-　　秋山悟心中激动起来。
-　　按照自己在那个混蛋漫画家手下工作的每月7万円工资来算，已经够自己不吃不喝一年多的存款了，完全可以解决穿越之后的生存问题了！
-　　更别提，作为漫画大奖赛的入选者，他的作品还可以刊登在《Young Magazine》上，获得业界的关注。
-　　作为征道漫画界的跳板来说，再合适不过。
+　　Akiyama Satoru算过了。
+　　在1994年的东京，目前大萧条的背景下，出去换一份工作，成本极高，风险极大，显然是下下策。
+　　而想要完全脱离现在的漫画工作室，他要解决租房、生活的问题，现在东京的房价虽然相比泡沫巅峰时期的1990年有所回调，但也绝对不便宜。
+　　哪怕是最便宜的足立、江户川区附近，最低的平均月租也要五万六千円左右，稍微好一点的房子，基本都要奔着10万去了。
+　　再算上生活费、空窗期的时间，如果手头没有个百八十万的启动资金，Akiyama Satoru是断然不敢跟Uesugi Yudai翻脸的。
+　　但好在，Akiyama Satoru也不是毫无资本。
+　　——漫画。
 ```
 
-The number lands as its own line, then he converts it into the money he grew up with, then into his own wage and a year of living. The reader watches him do the sum, and the last line says what the prize buys him in his plan.
+He has done the sum, and the narration walks through it in his order: why changing jobs is the worst option right now, what moving out would cost in the cheapest wards, how much starting money he would need. Then the turn: he is not without capital, and the capital gets a line of its own.
 
 A short cut into a supporting character's head looks like this:
 
@@ -74,9 +75,9 @@ A short cut into a supporting character's head looks like this:
 　　实习助手、初次投稿，惊悚题材。
 　　很好，要素齐全，又是一盘大粪。
 　　这该死的工作也是快干到头了。
-　　黑川碧脸上依旧维护着浅浅的笑意，实则精神状态已经达到临界点了。
+　　Kurokawa Midori脸上依旧维护着浅浅的笑意，实则精神状态已经达到临界点了。
 　　现在的漫画家脑子里装的不知道是什么，偏偏分配到她手上的又全是极品，今天上午才刚刚看完了一部挂着科幻题材的长矛械斗，气得她下楼抽了半包烟。现在，好不容易又收了一篇投稿，结果又是这种题材。
-　　矢野那个混账天天嚷嚷着自己业绩不行，要把自己赶出去，其实黑川碧真不在意的，街上流浪汉那么多，不缺自己这一个。
+　　Yano那个混账天天嚷嚷着自己业绩不行，要把自己赶出去，其实Kurokawa Midori真不在意的，街上流浪汉那么多，不缺自己这一个。
 　　反正这个行业都快完蛋了。
 ```
 
@@ -87,27 +88,27 @@ The story's signature moments — showing strength, coming out ahead in a deal, 
 Sample anchor:
 
 ```
-　　秋山悟听罢，倒也不急不恼，完全没有一点做坏事被当场制止的羞愧和心虚。
-　　甚至，他也主动蹲下了来，就靠在了黑川碧的旁边。
-　　女人见状，脸上闪过一丝挣扎的神色。犹豫了一会，还是将手从裤袋里面拔了出来，从自己所剩无几的烟盒里抽出了一支烟，递给了秋山悟。
+　　Akiyama Satoru听罢，倒也不急不恼，完全没有一点做坏事被当场制止的羞愧和心虚。
+　　甚至，他也主动蹲下了来，就靠在了Kurokawa Midori的旁边。
+　　女人见状，脸上闪过一丝挣扎的神色。犹豫了一会，还是将手从裤袋里面拔了出来，从自己所剩无几的烟盒里抽出了一支烟，递给了Akiyama Satoru。
 　　“啊，我不抽烟。”
 　　“哦，好的。”
-　　黑川碧松了一口气，将烟塞回了烟盒里面，她刚才已经在认真思考，若秋山悟真是来蹭烟的，那还不如让他上去了呢。
+　　Kurokawa Midori松了一口气，将烟塞回了烟盒里面，她刚才已经在认真思考，若Akiyama Satoru真是来蹭烟的，那还不如让他上去了呢。
 ```
 
 He squats down next to her as if nothing happened. She gives him a cigarette only after a visible struggle, since her pack is nearly empty, and when he refuses she is relieved. The scene's comedy comes from what she wants (to keep her last cigarettes), and the last line is her own private bargain.
 
 ```
 　　我可是真的...是什么意思？
-　　一时间，就连阅漫无数的黑川碧都忍不住起了鸡皮疙瘩。
+　　一时间，就连阅漫无数的Kurokawa Midori都忍不住起了鸡皮疙瘩。
 　　为什么最后那个笑容这么诡异啊？！
-　　难道说，在最后那场车祸中，疯掉的，其实是未麻？活下来的是留美。
+　　难道说，在最后那场车祸中，疯掉的，其实是Mima？活下来的是Rumi。
 　　说不通啊，这漫画里没有夺舍这一说吧？
-　　还是说，那一场车祸之后，未麻彻底杀掉了自己的偶像人格，完完全全堕落成了为事业献身演员？
+　　还是说，那一场车祸之后，Mima彻底杀掉了自己的偶像人格，完完全全堕落成了为事业献身演员？
 　　......无论怎么想，这部漫画，都好刺激！
-　　黑川碧又翻回之前的稿纸，反复回味，越看越有味道。
-　　同时视角的余光，撇到了至始至终，都平静坐在对面的秋山悟。
-　　难道...秋山桑，他真的是个天才？
+　　Kurokawa Midori又翻回之前的稿纸，反复回味，越看越有味道。
+　　同时视角的余光，撇到了至始至终，都平静坐在对面的Akiyama Satoru。
+　　难道...Akiyama桑，他真的是个天才？
 ```
 
 The payoff is told through the reader: she asks herself what the last line means, gets goosebumps, tries two theories and rejects them, flips back to reread. Only the last line turns to the author sitting calmly across the desk.
@@ -123,12 +124,12 @@ Spoken Chinese carries the links between thoughts: 这不是、要不、你看�
 Sample anchor:
 
 ```
-　　“我对秋山桑你的作品非常有信心，《未麻的部屋》是一部非常出色的漫画，无论放在什么地方，都一定会发光！”
-　　在解释缘由之前，黑川碧首先肯定了秋山悟的才华。
+　　“我对Akiyama桑你的作品非常有信心，《Mima的部屋》是一部非常出色的漫画，无论放在什么地方，都一定会发光！”
+　　在解释缘由之前，Kurokawa Midori首先肯定了Akiyama Satoru的才华。
 　　随后，话锋一转：
-　　“但是，毕竟秋山桑你是白纸作者，而《未麻的部屋》，并不是‘随便扫两眼’，就能看懂的作品...你知道这一次漫画大奖赛，通过初审的有多少部作品吗？”
+　　“但是，毕竟Akiyama桑你是白纸作者，而《Mima的部屋》，并不是‘随便扫两眼’，就能看懂的作品...你知道这一次漫画大奖赛，通过初审的有多少部作品吗？”
 　　“多少？”
-　　“942部！”黑川碧震声。
+　　“942部！”Kurokawa Midori震声。
 　　漫画大奖赛不同于月例赏，每半年才只有一届，投稿数量可以想象。
 　　要从将近1000部作品里挑选出30部进入“终审”，可以想到的是，这是一个多么庞大的工作量。
 　　“审查的编辑没有做好工作，将一些‘晦涩难懂’的作品当做平庸之作筛下去的情况——是有可能发生的。”
@@ -146,7 +147,7 @@ Sample anchor:
 　　她掂量了一下分量，大概在60-70页左右，作为短篇漫画，算是偏长的。
 　　漫画投稿，实际上是一个成本相当高昂的事情。
 　　根本在于，投稿者必须使用专业的B4原稿纸，很贵，300-500日元一小册（约40枚装），加上绘画中的损耗，以及笔具与墨水、网点纸这些材料。
-　　这样算下来，秋山桑准备这一部达到投稿标准的短篇漫画，总成本甚至可能达到上万日元。
+　　这样算下来，Akiyama桑准备这一部达到投稿标准的短篇漫画，总成本甚至可能达到上万日元。
 　　嗯，精装大粪。
 ```
 
@@ -160,14 +161,14 @@ Sample anchor:
 
 ```
 　　想在投稿取得成功之后再回来找自己吗？真是和以前一样天真。
-　　好不容易矢野副编辑长将自己抬到现在的位置，可不能让这家伙坏了自己的事。
+　　好不容易Yano副编辑长将自己抬到现在的位置，可不能让这家伙坏了自己的事。
 　　最好，让他带着那个虚伪的婊子，一起滚出编辑部！
 　　......
 　　漫画编辑部办公区。
 　　此时已经临近下班，但编辑部的战场依然热闹。纸墨、烟味、咖啡的气息，充斥着办公桌之间，编辑们来来往往，电话铃响个不停，周遭传来此起彼伏的讨论声。
-　　秋山悟按照松田提供的方位，准确找到了那个靠窗的桌子。
+　　Akiyama Satoru按照Matsuda提供的方位，准确找到了那个靠窗的桌子。
 　　此时，桌前正坐着一位低头办公的短发女士。
-　　“你好！我是黑川小姐介绍过来的.....”
+　　“你好！我是Kurokawa小姐介绍过来的.....”
 ```
 
 One character's inner rant ends the scene; the `……` line closes it. The next paragraph names the new place in a few characters, the one after already has the office in motion, and the protagonist is already walking to the desk.
@@ -182,16 +183,16 @@ Sample anchor:
 
 ```
 　　“你...是谁？”
-　　这是未麻进入剧组后，作为演员的第一句台词。
-　　紧接着，剧组现场收到了一封匿名信，未麻的事务所老板田所拆开后，信件发生了爆炸，炸伤了他的手掌。
+　　这是Mima进入剧组后，作为演员的第一句台词。
+　　紧接着，剧组现场收到了一封匿名信，Mima的事务所老板Tadokoro拆开后，信件发生了爆炸，炸伤了他的手掌。
 　　信的上面，是一句话——
 　　“这次只是警告，下一次，就来真的了。”
-　　回到家的未麻，在信封上发现了一个网址，进入后发现，里面居然是她的日记。
+　　回到家的Mima，在信封上发现了一个网址，进入后发现，里面居然是她的日记。
 　　日记中记录了她生活所有的点点滴滴...出地铁迈得是哪一只脚、休息时买的是哪个牌子的牛奶，都被记得清清楚楚。
 　　可她根本没有写过这样的日记。
 　　........
 　　喔...不错嘛！
-　　黑川碧耸了耸肩，略感兴奋。
+　　Kurokawa Midori耸了耸肩，略感兴奋。
 　　这层层递进的叙事节奏，悬疑和惊悚感一下子上来了。
 ```
 
