@@ -30,3 +30,4 @@
 2026-10-28 | doan-016 | Chốt — 班克 khai: 131/160 còn sống; 黑石 qua sông đêm trăng tròn sau 24 ngày; 加尔文 biết sổ dịch giả | Duyệt: Agent
 2026-10-28 | doan-017 | Chốt — giấu 班克 trong phủ; đêm bắn thử ống sắt đầu ở bãi đá hạ lưu, kết quả bia để đoạn sau | Duyệt: Agent
 2026-10-28 | doan-018 | Chốt — thử bắn thành công, đổ cho nồi nung nổ, Garvin soi 魔视 không thấy | Duyệt: Agent
+2026-10-28 | doan-019 | Chốt — hàng Lafi tới, thu 98 trả 65, tin Hắc Thạch mộ lính, Simon hỏi mua bễ | Duyệt: Agent
