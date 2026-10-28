@@ -28,3 +28,4 @@
 2026-10-28 | SI | Tác giả: bỏ ví dụ trong luật thoại M3 của E1 (danh sách xưng hô và trợ từ 呢/么/吧/啊) → gemini/si-dan-gemini-v1.1.txt, dùng từ đoạn 016; State không ghi trợ từ cuối câu trong speech | Duyệt: Tác giả
 2026-10-28 | doan-015 | Chốt — kẻ đốt lúa là 班克, người 芦苇荡 bị bắt năm ngoái | Duyệt: Agent
 2026-10-28 | doan-016 | Chốt — 班克 khai: 131/160 còn sống; 黑石 qua sông đêm trăng tròn sau 24 ngày; 加尔文 biết sổ dịch giả | Duyệt: Agent
+2026-10-28 | doan-017 | Chốt — giấu 班克 trong phủ; đêm bắn thử ống sắt đầu ở bãi đá hạ lưu, kết quả bia để đoạn sau | Duyệt: Agent
