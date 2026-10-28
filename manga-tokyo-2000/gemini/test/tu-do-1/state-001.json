@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "last_chapter": 1,
+  "story": "1995年东京漫画界；人名写罗马字，地名、公司、杂志写汉字，国家写日本"
+ },
+ "scene_bridge": {
+  "time": "1995年10月最后一个周五，清晨六点半，雨刚停",
+  "where": "中野区，Okamoto工作室楼外的街道",
+  "present": "Hayakawa独自一人，背着装原稿的双肩包，穿洗白的牛仔外套",
+  "last_beat": "Hayakawa踏上湿漉漉的街道，目标千代田区神保町集英社大楼",
+  "pending": "去集英社当面投稿"
+ },
+ "timeline": {
+  "relative_time": "Hayakawa穿越后整整三周",
+  "chapter_log": [
+   {
+    "chapter": 1,
+    "summary": "通宵赶稿，Hayakawa二十分钟修好跨页背景震住Shibata；清晨带原稿出门去集英社"
+   }
+  ]
+ },
+ "already_told": [
+  "Okamoto工作室通宵赶稿的样子",
+  "前世是猝死的资深分镜师，穿越成同名同姓的二十岁穷小子",
+  "原主家当：四叠半合租房、停机PHS卡、存折21300円",
+  "Hayakawa修跨页背景震住Shibata",
+  "《消失的四十分钟》的内容和来历",
+  "邮寄投稿会被埋没，所以要当面去编辑部"
+ ],
+ "ledger": [
+  {
+   "item": "Hayakawa时薪",
+   "value": "750円",
+   "as_of": 1
+  },
+  {
+   "item": "通宵工钱",
+   "value": "8000日元（今晚的）",
+   "as_of": 1
+  },
+  {
+   "item": "存折余额",
+   "value": "21300円",
+   "as_of": 1
+  },
+  {
+   "item": "随身现金",
+   "value": "三枚500円硬币和几枚100円，一张中央线月票",
+   "as_of": 1
+  },
+  {
+   "item": "房租",
+   "value": "38000円，下周二交",
+   "as_of": 1
+  }
+ ],
+ "deadlines": [
+  "《周刊Young Jump》下半年青年漫画大赏截稿｜今天｜集英社",
+  "房租38000円｜下周二｜Hayakawa"
+ ],
+ "main_character": {
+  "name": "Hayakawa",
+  "identity": "二十岁，Okamoto工作室入职不到一个月的实习助手；穿越者",
+  "traits": [
+   "前世是商业漫画流水线上干了十几年的资深分镜师，数位屏前心梗猝死",
+   "原主美术专科学校辍学，漂到东京想当漫画家",
+   "画技：两点透视、交叉排线极稳，不用橡皮",
+   "苍白清秀，黑眼圈重，右手沾满碳素墨水"
+  ],
+  "status": [
+   "一夜没睡",
+   "在工作室里装老实，故意不显本事"
+  ],
+  "knowledge": [
+   "前世网络时代的作品",
+   "新人投稿一般走邮寄，每年上千部"
+  ]
+ },
+ "knowledge_map": [
+  {
+   "secret": "Hayakawa是穿越者",
+   "knows": [
+    "Hayakawa"
+   ],
+   "not_known_to": [
+    "所有人"
+   ]
+  },
+  {
+   "secret": "Hayakawa今天去集英社投稿",
+   "knows": [
+    "Hayakawa"
+   ],
+   "not_known_to": [
+    "Okamoto",
+    "Shibata"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "name": "Okamoto",
+   "role": "工作室主人，《周刊少年Action》连载漫画家",
+   "notes": "油腻大脸，酗酒，底稿透视歪，江郎才尽",
+   "speech": "Hayakawa叫他Okamoto老师",
+   "last_seen": 1
+  },
+  {
+   "name": "Shibata",
+   "role": "Okamoto工作室首席助手",
+   "notes": "深黑眼圈，抽七星烟，修女主角脸部线稿；觉得Hayakawa今晚开窍了",
+   "speech": "叫Hayakawa为Hayakawa、你小子；Hayakawa叫他Shibata桑",
+   "last_seen": 1
+  }
+ ],
+ "places": [
+  "Okamoto工作室（中野区，六叠，有榻榻米和二手皮沙发）",
+  "集英社大楼（千代田区神保町）"
+ ],
+ "objects": [
+  {
+   "name": "《消失的四十分钟》原稿",
+   "holder": "Hayakawa",
+   "notes": "45页B4原稿，短篇悬疑心理漫画，黑色防水布包着的硬纸夹，在双肩包里"
+  }
+ ],
+ "rules": {
+  "world": [
+   "1995年，泡沫破裂后的东京"
+  ],
+  "mechanics": [],
+  "hard_limits": [
+   "Hayakawa不向任何人透露穿越"
+  ]
+ },
+ "open_threads": [
+  "当面投稿能否被编辑看 [ch1]",
+  "房租下周二 [ch1]"
+ ],
+ "conflicts": [
+  "[ch1] 窗外下的是梅雨 vs 今天是十月最后一个周五 → 以十月为准，写秋雨"
+ ]
+}
