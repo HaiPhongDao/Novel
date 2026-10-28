@@ -27,3 +27,4 @@
 2026-10-28 | doan-014 | Chốt; 玛尔塔 thành người thứ hai biết ống sắt là vũ khí (Agent quyết, trong arc 'đầu tư ngầm'); sửa bốn chỗ lệch canon (thế giới chưa biết thuốc nổ) | Duyệt: Agent
 2026-10-28 | SI | Tác giả: bỏ ví dụ trong luật thoại M3 của E1 (danh sách xưng hô và trợ từ 呢/么/吧/啊) → gemini/si-dan-gemini-v1.1.txt, dùng từ đoạn 016; State không ghi trợ từ cuối câu trong speech | Duyệt: Tác giả
 2026-10-28 | doan-015 | Chốt — kẻ đốt lúa là 班克, người 芦苇荡 bị bắt năm ngoái | Duyệt: Agent
+2026-10-28 | doan-016 | Chốt — 班克 khai: 131/160 còn sống; 黑石 qua sông đêm trăng tròn sau 24 ngày; 加尔文 biết sổ dịch giả | Duyệt: Agent
