@@ -9,3 +9,4 @@
 2026-10-28 | SI | Tác giả: vòng SI 2 (X1–X3) "dở hơn đoạn cũ" — bản vòng 1 (SI v1 có anchor lời kể, một câu một dòng) hơn; nhãn vòng 2: X1=D2, X2=D3, X3=D1 | phản hồi Tác giả | Tác giả
 2026-10-28 | SI | Vòng SI 3: nền SI v1, 3 hướng chữa thoại trống không (luật SI / anchor ch1–2 / dòng prompt) | gemini/test/vong-si-3/danh-gia.md | Agent, chờ Tác giả chấm
 2026-10-28 | doan-001 | Thử prompt đoạn 001 theo nhịp ch1 bộ mẫu (gemini/test/doan-001-mau), SI E1; Z2 đủ nhịp, chờ Tác giả chấm | Lý do: Tác giả thấy bản cũ thiếu | Duyệt: chờ
+2026-10-28 | doan-001→006 | Tác giả: Z2 (prompt theo nhịp ch1 mẫu) tốt hơn hẳn — lỗi nằm ở prompt. Ghi cách bày của mẫu (plot/cach-bay-mau.md), viết lại dàn ý 002–006 bản 2 | Duyệt: bài học — Tác giả; dàn ý 002–006 — chờ
