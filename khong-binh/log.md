@@ -13,3 +13,4 @@
 2026-10-28 | doan-001 | Chốt bản Z2 (prompt theo nhịp ch1 mẫu, SI E1). Duyệt dàn ý 002–006 bản 2 theo đề xuất: gương tay 2 金币 / gương đứng 15 金币; 005 cho 西蒙 xem sắt luyện từ cát sông đỏ; 西蒙 chỉ chở lúa theo giá, không trả hộ cống lương | Duyệt: Tác giả
 2026-10-28 | doan-002 | Chốt bản A (B lưu ở gemini/test/doan-002). Tác giả: "Khá ổn, chạy liên tiếp 5 đoạn" → Agent chạy 003–007, mỗi đoạn hai bản, tự chọn và chốt | Duyệt: Tác giả
 2026-10-28 | doan-003 | Chốt bản A; B loại vì "两米" và 洛伦 coi nhẹ cống lương | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
+2026-10-28 | doan-004 | Chốt bản B (điểm nhìn 赫伯特); A loại vì đếm gương sai | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
