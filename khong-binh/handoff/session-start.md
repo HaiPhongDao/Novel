@@ -53,7 +53,7 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
   "锈河属地：帝国东南边缘，一万八千凡人，锈河镇+二十三村",
   "秋税日交一万二千袋大麦，剩一百二十天；去年只交八千四百袋，缺三千六百袋",
   "前任督政官随帝都使者回了帝都，此后音讯全无",
-  "挂毯：初代先祖于碎石岗降天火全歼三万敌军",
+  "挂毯：初代先祖于断矛山谷降天火全歼三万敌军",
   "官邸伙食：大麦硬饼、风干牛肉、芜菁汤"
  ],
  "ledger": [
@@ -178,7 +178,6 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 
 ## 5. Nguyên văn phần cuối đoạn 1 (để nối mạch và giữ giọng)
 
-脑海里的工业资料安稳待在意识深处，而属于这具十九岁肉身的过往，只剩下一个名字。
 除去知晓自己叫做洛伦·索恩，其余的人际关系与世俗常识全是一片空白。
 “我头疼得厉害，”洛伦靠在床板上，抬手指了指自己的脑袋，“很多旧事想不起来了。”
 宣称失忆是最稳妥的伪装，能合理掩饰所有言行疏漏，也能顺理成章地向旁人套取情报。
@@ -217,7 +216,7 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 “前任督政官去哪儿了？”洛伦抬头看着老头。
 “回大人，公文下来的第二天，前任大人就随帝都派来的使者回了帝都，”赫伯特抹了一把汗巾，“往后帝都那边音讯断绝，大伙谁都不晓得前任大人的去向。”
 倚着衣柜的加尔文轻嗤一声，在靴底上敲打着铜嘴烟斗。
-“法师议会治下的规矩很明白，交不够粮草的督政官，通常会被剥夺俸禄发配到苦役矿坑去砸石头。”
+“魔导议会治下的规矩很明白，交不够粮草的督政官，通常会被剥夺俸禄发配到苦役矿坑去砸石头。”
 “莫兰卫队长觉得我也该去砸石头？”洛伦靠向身后的松木靠背。
 “洛伦少爷是奥瑞克族长的血脉，顶多是面子上难看一些。”加尔文吐出一口带烟草味的浊气。
 洛伦合上手里的账册，眼底闪过一丝精细的盘算。
@@ -234,7 +233,7 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 挂毯正中绣着一个立在断崖顶端的黑袍法师，法袍下摆绣着索恩家族的荆棘徽记。
 法师单手指向阴云密布的长空，无数赤红色的流星从云端砸落，把整座山谷化为滔天火海。
 火海中沉浮着成千上万披甲执矛的士兵，盾牌在熔融的高温中扭曲变形，旗帜化为灰烬。
-“那是索恩家族初代老祖宗的功业，”老赫伯特顺着领主的视线看过去，两手紧紧贴在膝头，“当年老祖宗在碎石岗一战降下神罚，全歼了三万敌军。”
+“那是索恩家族初代老祖宗的功业，”老赫伯特顺着领主的视线看过去，两手紧紧贴在膝头，“当年老祖宗在断矛山谷一战降下神罚，全歼了三万敌军。”
 洛伦靠在床头，嘴角扯动了一下。
 这种封建领主抬高身价的套路他见得太多了，古往今来的贵族总喜欢在族谱里给自己编排几个斩龙屠魔的先祖。
 单凭一个人挥挥手就能召来天火烧毁三万人马，纯粹是乡野文人替统治者炮制的神话吹嘘。
@@ -262,19 +261,19 @@ Viết đoạn thứ 2, khoảng 2500 chữ, bằng tiếng Trung.
 
 【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
 - 洛伦·索恩: 19 tuổi, người xuyên việt trong thân xác con thứ ba của 奥瑞克·索恩 (族长 索恩家族, pháp sư sáu sao, không mang tước). Đang giả lú, đổ cho lần 灌注. Không có ma lực, không dùng được phép, không cảm thấy ma tố. Bàn tay vàng: mọi trang sách kiếp trước từng đọc hiện ra rõ từng chữ khi anh nghĩ tới, như lật sách trong thư viện. Biết về đá và quặng từ những gì sách viết, không phải từ tay nghề.
-- 赫伯特: 书记 phàm nhân, 56 tuổi, kính gọng đồng, ôm sổ da dê; một trong ba người ở 锈河 có giấy phép biết chữ. Gọi 洛伦 là 大人, tự xưng 小人, mở lời bằng 回大人.
-- 加尔文·莫兰: 卫队长 của gia tộc, pháp sư hai sao, 34 tuổi, giáp da, tẩu đất nung. Gọi 洛伦 là 洛伦少爷; 洛伦 gọi 莫兰卫队长.
+- 赫伯特: 书记 phàm nhân, 56 tuổi, kính gọng đồng hai mắt, ôm sổ da dê; một trong ba người ở 锈河 có giấy phép biết chữ. Gọi 洛伦 là 大人, tự xưng 小人, mở lời bằng 回大人.
+- 加尔文·莫兰: 卫队长 của gia tộc, pháp sư hai sao, 34 tuổi, giáp da, tẩu đất nung. Gọi 洛伦 là 洛伦少爷; 洛伦 gọi 莫兰卫队长; 赫伯特 gọi 莫兰卫队长 hoặc 卫队长大人.
 - 玛尔塔: thợ rèn ở 锈河镇, 28 tuổi, góa chồng, giữ lò rèn của chồng.
 - Thế giới: 瑟兰魔导帝国 do các gia tộc pháp sư cai trị, trên cùng là 魔导议会. Ba vành 核心环, 中环, 外环; càng ra ngoài ma tố càng loãng; pháp sư ở 外环 hồi ma chậm gấp ba và hay đau đầu. Pháp sư xếp bằng 星, một đến chín sao. Mọi pháp sư có 魔视: nhìn thấy ma tố quanh người và vật. Phàm nhân gọi là 无源者, bị cấm giữ vũ khí dài hơn cánh tay, cấm học chữ, cấm lập hội. Người đo ra 0 ở 测魔礼 bị gọi là 空瓶.
 - Sổ của 锈河属地: 40 lính phàm nhân; kho bạc 312 金币; thu hoạch năm nay dự tính khoảng 9.500 袋; cống lương 12.000 袋; thiếu 2.500 袋. Mua bù: 1 袋 = 4 银币, 20 银币 = 1 金币, tức 2.500 袋 = 500 金币. Còn 120 ngày tới 秋税日.
 - Sông 锈河: nước đỏ, dân gọi là "nước máu" và không dùng; đáy và bãi bồi là cát đỏ, nặng tay, lẫn hạt đen.
 
 【Chuyện xảy ra trong đoạn này】
-Mở ngay sau câu đáp của 加尔文 về phép thuật, cùng căn phòng ngủ, 洛伦 còn ngồi trên giường. Anh cười gượng cho qua cơn sững sờ: những gì kiếp trước coi là thường thức, sang đây còn đáng bao nhiêu thì anh chưa chắc. Rồi anh hỏi tiếp. Anh hỏi mình đã làm gì mà bị đưa tới chốn này; 加尔文 kể: 测魔礼 đo ra 0, giới pháp sư gọi anh là 空瓶, 族长 cần một chỗ để đặt cái tên. Anh hỏi ở đây có pháp sư nào khác không; 加尔文 kể ma tố ở 外环 loãng ra sao, đầu anh ta đau thế nào mỗi sáng, và pháp sư nhìn người bằng 魔视. 赫伯特 kể phần của phàm nhân: ba điều luật cấm; nói tới chữ thì ông nói nhỏ đi, vì ông là một trong ba người có giấy phép. Nghe xong, 洛伦 tự rút ra cho mình một tin tốt.
+Mở ngay sau câu đáp của 加尔文 về phép thuật, cùng căn phòng ngủ, 洛伦 còn ngồi trên giường. Anh cười gượng cho qua cơn sững sờ: những gì kiếp trước coi là thường thức, sang đây còn đáng bao nhiêu thì anh chưa chắc. Rồi anh hỏi tiếp. Anh hỏi mình đã làm gì mà bị đưa tới chốn này; 加尔文 kể: 测魔礼 đo ra 0, giới pháp sư gọi anh là 空瓶, 族长 cần một chỗ để đặt cái tên. Anh hỏi ở đây có pháp sư nào khác không; 加尔文 kể ma tố ở 外环 loãng ra sao, đầu anh ta đau thế nào mỗi sáng, và pháp sư nhìn người bằng 魔视. 赫伯特 kể phần của phàm nhân: ba điều luật cấm; nói tới chữ thì ông nói nhỏ đi, vì ông là một trong ba người có giấy phép. Nghe xong, 洛伦 tự rút ra cho mình một tin tốt: pháp sư không ai muốn ở 外环, nên cả cái 属地 mười tám nghìn người này chỉ có một pháp sư canh, mà người ấy sáng nào cũng đau đầu.
 
 Anh hỏi tới gia sản; 赫伯特 mở sổ da dê đọc từng mục, kèm phép tính phần thiếu. 洛伦 hỏi vì sao cống cao vậy; 加尔文 đáp: gia tộc nộp lên 魔导议会, phần ấy đẩy xuống thuộc địa. Anh hỏi 锈河 có gì bán được. 赫伯特 kể: lúa, cát sông, một lò rèn của bà góa 玛尔塔, con sông "nước máu" chẳng ai dùng. Muốn làm thêm thì không có người, đang mùa gặt; 赫伯特 nói nỗi lo ấy ra. 洛伦 đáp: ai bảo làm thêm thì phải thêm người. Anh ra cửa sổ nhìn con sông đỏ chảy qua dưới phủ, rồi sai một người lính mang lên một nắm cát bãi sông. Dưới ánh đèn anh xoa nắm cát giữa hai ngón tay, nhặt những hạt đen, đối chiếu với sách trong đầu, và hiểu con sông này là gì.
 
-Anh ôm cây đèn sang phòng đọc, đòi thêm nến. 赫伯特 và 加尔文 ở lại trong phòng ngủ một lúc; 赫伯特 lo cho cậu chủ mới, 加尔文 bảo 灌注 làm cậu ta lú rồi. Qua đêm đó 洛伦 vẽ tới khi cháy hết nến; sáng ra anh trao xấp bản vẽ cho 赫伯特 mang ra lò rèn của 玛尔塔, rồi ngủ vùi.
+Anh ôm cây đèn sang phòng đọc, đòi thêm nến. 赫伯特 và 加尔文 ở lại trong phòng ngủ một lúc; 赫伯特 lo cho cậu chủ mới, 加尔文 bảo 灌注 làm cậu ta lú rồi. Qua đêm đó 洛伦 vẽ tới khi cháy hết nến: một chiếc 风箱 kiểu pít-tông hai chiều — ống gỗ, pít-tông bọc da, van da, kéo tới hay đẩy lui đều thổi gió. Lửa lò phải nóng hơn lò rèn thường thì cát kia mới thành được thứ gì; cái bễ là món đầu tiên anh cần. sáng ra anh trao xấp bản vẽ cho 赫伯特 mang ra lò rèn của 玛尔塔, rồi ngủ vùi.
 
 【Những điểm bắt buộc】
 - Các con số trong sổ đúng như thiết lập: 40 lính, 312 金币, khoảng 9.500 袋, thiếu 2.500 袋 = 500 金币.
@@ -282,7 +281,7 @@ Anh ôm cây đèn sang phòng đọc, đòi thêm nến. 赫伯特 và 加尔�
 - Chuyện cậu chủ "lú" chỉ nằm trong lời của 赫伯特 và 加尔文 khi 洛伦 đã sang phòng đọc.
 
 【Tự do sáng tạo】
-Tin tốt 洛伦 tự rút ra, cách 赫伯特 đọc sổ, lời mỉa của 加尔文, thứ 洛伦 vẽ (anh chưa nói tên nó với ai), những gì anh 吐槽 về ngọn nến, giấy da dê và bộ áo 督政官 — do bạn quyết.
+Cách 赫伯特 đọc sổ, lời mỉa của 加尔文, những tính toán của 洛伦 về nắm cát, cách anh vẽ chiếc bễ (anh chưa nói tên nó với ai), những gì anh 吐槽 về ngọn nến, giấy da dê và bộ áo 督政官 — do bạn quyết.
 
 【Mở đầu và chỗ dừng】
 - Mở: ngay sau câu đáp của 加尔文, 洛伦 còn ngồi trên giường.
