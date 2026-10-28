@@ -53,30 +53,34 @@ Xỉ chảy trước, rồi gang lỏng theo rãnh cát, nguội thành hơn hai
 ### Đoạn 8 — 巴尔萨泽 tính kế / lúa về bến
 Ở 维林港, 巴尔萨泽 nghe thuyền 拉斐 mỗi tháng hai chuyến, gần đây thuê ba thuyền lúa ngược lên. Trên thuyền về 黑石, đội trưởng kỵ binh 达隆 muốn đêm nay đem năm mươi kỵ sang cướp thợ và lò; 巴尔萨泽 gõ nhẫn: đất mang họ 索恩, cướp thẳng là đưa cớ cho 魔导议会. Hắn chọn cách hợp luật: lập danh sách phu trốn giả (160 người bắt năm ngoái đã có khế ước), sang lục soát; không giao được người thì giữ hàng trừ nợ. 达隆 dẫn hai mươi tay lục soát cùng thư ký 考珀 đi trước để xem thứ làm ra gương. Ở 锈河, ba thuyền lúa cập; 2.500 袋 nhập kho; 西蒙 đặt 400 金币, nhận 500 tiền lúa; kho còn 252 金币. Đủ phần thiếu nếu vụ gặt được 9.500 袋. 西蒙 liếc lò (bễ chạy bánh xe nước, hơn hai trăm thỏi gang); 洛伦 bảo chỉ là cày và ống sành thoát nước. 西蒙 hạ giọng: người hỏi về thuyền lên 锈河 là 巴尔萨泽, 黑石属地.
 
+### Đoạn 9 — sổ lót của 赫伯特, "大人的数字", thư 赛德里克
+Nghe tên 巴尔萨泽, 赫伯特 rơi bút. 西蒙 về. 赫伯特 quỳ thú nhận: người tiền nhiệm nhận 40 银币 của 黑石, sai ông ghi 160 người bị bắt là chết dịch — 枫树屯 52, 芦苇荡 38, 泥塘村 70; mùa đông sau 芦苇荡 chết đói hơn sáu mươi người. Ông giữ tên cả 160 trong sổ lót; 洛伦 bảo giữ lấy. Chiều ở lều lò, sổ que khắc của 玛尔塔 rối; 洛伦 vạch mười ký hiệu, dạy viết số theo hàng; 赫伯特 sợ phạm luật cấm chữ — 洛伦: số chỉ đếm bao lúa, không chép được luật; 玛尔塔 học nhanh, 赫伯特 gọi là "大人的数字". Tối, 加尔文 đọc thư 赛德里克: anh cả cười chuyện bán gương, 秋税日 sẽ cử quản sự tới nhận sổ và đất. 洛伦: thế thì mang bao cho to. Một dân binh chạy vào: hai mươi kỵ cờ đen 黑石 qua bãi cạn sông giới, đang tới thị trấn.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 8)
+## 3. Trạng thái hiện tại (hết đoạn 9)
 
-**Thời điểm:** sáng, khoảng ngày 23 sau khi 洛伦 tỉnh; còn ~97 ngày tới 秋税日.
-**Có mặt:** phòng sổ ở kho bến 锈河 — 洛伦, 西蒙 (vừa nói tên 巴尔萨泽), 赫伯特, hai hộ vệ của 西蒙.
+**Thời điểm:** tối, khoảng ngày 23; còn ~97 ngày tới 秋税日.
+**Có mặt:** sân sau 督政官邸 — 洛伦 (khoác áo choàng cũ), 加尔文 (ngồi bậc đá, thư 赛德里克 trong giáp), một dân binh mất một chiếc dép vừa báo tin.
 
 **Nhân vật chính biết**
-- Lúa đã đủ bù phần thiếu nếu gặt được ~9.500 袋.
-- 巴尔萨泽 đã hỏi về thuyền lên 锈河. (Chưa biết kế "phu trốn" và việc 达隆, 考珀 đang tới.)
+- 160 người bị 黑石 bắt năm ngoái; tên còn trong sổ lót của 赫伯特 (枫树屯 52, 芦苇荡 38, 泥塘村 70).
+- 赛德里克 sẽ cử quản sự tới nhận sổ và đất vào 秋税日 nếu thiếu.
+- Hai mươi kỵ cờ đen 黑石 đang tới (chưa biết là 达隆 với danh sách "phu trốn").
+- 玛尔塔 và 赫伯特 đã biết "大人的数字".
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
 | Ngày tới 秋税日 | ~97 |
-| Kho lúa | +2.500 袋 (đủ phần thiếu nếu gặt ~9.500) |
-| Kho bạc | 252 金币 (chưa trừ than) |
-| 拉斐 còn nợ theo giao kèo | 4.600 金币 trong ba năm |
-| Gang | hơn 200 thỏi |
-| Bễ | đã chạy bằng bánh xe nước |
+| Kho bạc | 252 金币 |
+| Kho lúa | +2.500 袋 |
+| Gang | hơn 200 thỏi, thêm vài chục mỗi ngày |
+| Lính | 40 phàm nhân + 加尔文; 10 dân binh canh bến |
 
 **Tuyến đang mở**
-- 达隆 + hai mươi tay lục soát + thư ký 考珀 sắp sang 锈河 với danh sách "phu trốn".
-- 西蒙 tò mò về lò.
+- 达隆 + 考珀 + hai mươi kỵ đang tới.
+- Sổ lót 160 tên.
 
 ---
 
@@ -104,76 +108,70 @@ Xỉ chảy trước, rồi gang lỏng theo rãnh cát, nguội thành hơn hai
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 8 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 9 (để nối mạch và giữ giọng)
 
-这片偏僻属地的居民已经很久没见过这么多粮食集中卸在岸边了。
-眼前是整整两千五百袋颗粒饱满的大麦，足够填补今年秋税的所有缺口。
-只要今年秋收能够顺利收割九千五百袋麦子，悬在头顶的欠税惩罚便算彻底解除了。
-哪怕扣除上缴给帝国的沉重份额，官邸的粮仓里还能剩下不少余粮。
-洛伦站在仓库阴凉的木棚下面，安静地看着粮食一袋袋搬进仓库。
-在这座连马车都凑不齐的码头前，这种纯靠肩膀和木板的搬运速度慢得可怜。
-但在没有机械动力的落后世界里，粮食就是最坚硬的底气。
-西蒙·拉斐穿着那件洗得发白的灰呢大衣走下驳船，身后跟着两名抬着木箱的护卫。
-几人走进简陋的码头账房，护卫将沉重的铁皮木箱稳稳摆在桌案中央。
-箱盖掀开之后，四百枚黄澄澄的金币整齐排列在红布上面。
-这是拉斐商会按照协议预付的第一笔专营款项。
-赫伯特解开随身布包，将早已核算清楚的购粮款逐一推到桌子对面。
-大麦每袋作价四枚银币，两千五百袋总计一万枚银币，正好折算成五百枚金币。
-洛伦在心里翻开账本，数字在脑海里迅速滚动了一遍。
-原本府库里存着三百五十二枚金币，加上入账的四百枚，再支付购粮的五百枚，账面上还结余二百五十二枚金币。
-赫伯特在羊皮纸上写下结余的数字，抬手擦拭了一下眼角。
-账面上没有任何亏空，甚至连粮库都被大麦彻底塞满了。
-西蒙端起桌上的陶碗喝了一口水，视线透过敞开的窗户，望向河滩尽头的高炉。
-加高后的竖炉正喷吐着滚滚热浪，水轮驱动的风箱发出沉闷而规律的震动。
-在工坊宽敞的草棚下面，整齐码放着两百多根青灰色的生铁锭。
-“索恩少爷，河滩上那座炉子日夜都在响动，莫非又折腾出了什么紧俏货么？”
-“不过是给庄稼汉打些粗笨的铁犁头，顺便烧几批排雨水用的黏土瓦管罢了。”
-洛伦将桌上的账本随手扣在箱盖上：“商会要是缺少农具，下个月可以给你们留出几十副翻土的新犁。”
-西蒙笑了笑，很识趣地收回了探究的目光。
-他放下手里的粗陶茶碗，站起身整理了一下灰呢大衣的袖口。
-随后这位商人走近了两步，凑到洛伦身侧开口。
-“索恩少爷，有件事情小人觉得必须向您提个醒。”
-“三天前在维林港的店铺里，有个身形肥胖的三星法师找伙计打听了商会往锈河送货的行踪。”
-西蒙停顿了片刻，转头扫视了一眼敞开的门缝。
-“那位大人手指上戴着一枚青玉戒指，正是黑石属地的督政官，巴尔萨泽阁下。”
+这些在法师眼里毫无灵气的凡铁，正以每天几十根的速度在这片偏僻的滩涂上堆积。
+夜幕降临的时候，锈河镇上空升起了几缕稀薄的炊烟。
+由于码头上卸下了大批粮食，属地里的平民破天荒地吃上了一顿稠度尚可的麦糊。
+督政官邸后院的石阶上，加尔文·莫兰正翘着二郎腿坐在那儿，手里捏着那只粗糙的红土烟斗。
+指尖上跃动着一缕微弱的火苗，将烟斗里的劣质烟草引燃，冒出刺鼻的青烟。
+一封撕开火漆的信件摊放在这位二星法师坚硬的皮甲膝盖上。
+洛伦披着一件旧斗篷穿过院子，脚步声在青石板上显得清晰沉稳。
+加尔文吐出一口浓浓的烟雾，并没有起身行礼，只是用眼角余光扫了洛伦一眼。
+“赛德里克少爷的回信到了。”
+加尔文抖了抖膝盖上的羊皮纸，慢悠悠地吸了一口烟雾：“大少爷在信里说，听闻你在外环这种烂泥地里做起了卖玻璃镜子的买卖，倒还真像个落魄贵族该干的勾当。”
+洛伦停下脚步，双手揣在斗篷的暗兜里，脸上看不出任何生气的神情。
+“大哥还说了什么？”
+“大少爷让你少在外环折腾那些多余的把戏。”
+加尔文磕了磕烟斗里的烟灰，照着信纸念出两句：“‘秋税之日一到，我自会派管事带人去锈河接管账册与土地，若有差池，议会的鞭子可不会看在索恩家族的面上留情。’”
+加尔文合上信纸，将它随手塞进皮甲内侧的夹层里。
+“洛伦少爷，我是拿家族薪水的卫队长，谁给金币我就听谁的命令。”
+法师抬起头，目光在洛伦那张年轻面孔上打量了一圈：“大少爷如今是四星法师，魔导议会里有他的席位。你在这里造再多镜子，到了秋税那天交不出足够的大麦，这块领地照样得换个主人。”
+“那他就得准备好足够大的麻袋来装账本了。”
+洛伦笑了一声，目光越过官邸低矮的石墙，望向远处漆黑的北方原野：“毕竟锈河这块地方，水土虽然差了点，但吃下去的东西，可没那么容易吐出来。”
+加尔文扯了扯嘴角，刚想往烟斗里塞上一小撮烟叶，官邸前院的木门却被猛地撞开。
+沉重的撞击声在寂静的夜空下传出老远。
+一名负责在外围巡逻的年轻民兵连滚带爬地冲进内院，脚上的草鞋甚至跑丢了一只。
+“大人！莫兰队长！”
+民兵扑倒在青石阶前，面孔因为惊恐而扭曲变形，胸口剧烈地起伏着。
+“北面的界碑……黑石属地的骑兵过来了！”
+他指着漆黑一片的北方大道，嘴唇发青：“二十骑黑旗骑兵，已经冲过了界河浅滩，正朝着镇子这边杀过来！”
 
-(Đoạn 9 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 10 sẽ bắt đầu ngay sau chỗ này.)
 
 ---
 
 ## 6. Prompt đoạn tiếp theo
 
-Viết đoạn thứ 9, khoảng 2500 chữ, bằng tiếng Trung. Kể từ mắt 洛伦.
+Viết đoạn thứ 10, khoảng 2500 chữ, bằng tiếng Trung. Kể từ mắt 洛伦. Suốt cảnh, 加尔文 đứng cạnh 洛伦 với tẩu trong tay; lính 黑石 ngồi trên ngựa.
 
 【Thiết lập (để tham khảo, cái gì không dùng tới thì không cần viết ra)】
-- 洛伦·索恩: 督政官 锈河, người xuyên việt, không ma lực; ngoài mặt vẫn để người ta tin 灌注 làm anh lú. Bàn tay vàng: sách kiếp trước hiện ra rõ từng chữ khi anh nghĩ tới.
-- 赫伯特: 书记, 56 tuổi, kính gọng đồng; ba đời 督政官 qua tay ông, sổ nào cũng do ông chép. Gọi 洛伦 là 大人, tự xưng 小人, mở lời bằng 回大人.
-- 玛尔塔: thợ rèn, góa, 28 tuổi; chồng bị 黑石 bắt làm phu và chết ở đó hai năm trước. Không biết chữ (phàm nhân bị cấm học chữ), tính bằng que khắc và đốt ngón tay. Gọi 洛伦 là 大人.
-- 加尔文·莫兰: 卫队长, pháp sư hai sao, tẩu đất nung; gọi 洛伦少爷, tự xưng 我. Sáng nào cũng gửi thư về cho 赛德里克 (anh cả của 洛伦, người thừa kế, bốn sao); nếu 锈河 nộp thiếu cống thì đất về tay 赛德里克.
-- 西蒙·拉斐: thương nhân 维林港, gọi 洛伦 là 索恩少爷.
-- 巴尔萨泽: 督政官 黑石, pháp sư ba sao. Năm ngoái người của hắn bắt 160 người ở ruộng 锈河; người tiền nhiệm 锈河 ghi trong sổ rằng họ chết dịch.
-- Lò: lò đứng ngày đêm, bễ chạy bằng bánh xe nước, hơn hai trăm thỏi gang. Sổ lò cần ghi: than vào, cát vào, gang ra, mỗi ca.
-- "大人的数字": mười ký hiệu 洛伦 dạy — chính là chữ số Ả Rập (0–9) viết theo hàng; người bản địa chỉ có chữ số dài dòng và que khắc. Luật cấm phàm nhân học chữ; còn ký hiệu đếm thì luật không nói tới.
-- Số: kho bạc 252 金币; kho lúa thêm 2.500 袋; còn khoảng 97 ngày tới 秋税日.
+- 洛伦·索恩: 督政官 锈河, người xuyên việt, không ma lực; ngoài mặt vẫn để người ta tin 灌注 làm anh lú — lúc cần, anh nói năng như một cậu ấm ngây ngô.
+- 加尔文·莫兰: 卫队长 của 索恩家族, pháp sư hai sao. Gọi 洛伦少爷, tự xưng 我. Anh ta không thương 洛伦, nhưng thể diện của 索恩家族 là việc của anh ta: lính phàm nhân của nhà khác không được tự tiện lục soát đất mang họ 索恩.
+- 赫伯特: 书记, kính gọng đồng; gọi 大人, tự xưng 小人, mở lời bằng 回大人. Giữ sổ lót chép tên 160 người 黑石 bắt năm ngoái (枫树屯 52, 芦苇荡 38, 泥塘村 70); trong sổ chính thức của 锈河 họ đã được ghi là "chết dịch".
+- 达隆: đội trưởng kỵ binh phàm nhân của 黑石, mặt có sẹo dao, trọng kiếm sờn. Thô, quen bắt người.
+- 考珀: thư ký của 黑石, phàm nhân có giấy phép chữ, gầy, mắt tinh; 巴尔萨泽 cử đi để nhìn xem thứ gì làm ra gương.
+- Luật đế quốc: phàm nhân thuộc về đất; phu bỏ trốn thì chủ cũ được quyền đòi về, nhưng phải có danh sách và có sự chấp thuận của 督政官 nơi đến.
+- 锈河: 40 lính phàm nhân cầm giáo, 10 dân binh canh bến. Lò ở bãi sông: lò đứng, bánh xe nước, bễ hộp gỗ, hơn hai trăm thỏi gang; 玛尔塔 vừa thuê thêm năm thợ trong thị trấn.
 
 【Tiền tình】
-Sáng nay thuyền 西蒙 chở 2.500 袋 lúa tới bến, đặt 400 金币 trả trước, nhận 500 tiền lúa. 西蒙 hỏi về lò, 洛伦 lảng đi. Rồi 西蒙 hạ giọng: ở 维林港, người hỏi về thuyền lên 锈河 là 巴尔萨泽 của 黑石属地.
+Tối nay, 加尔文 vừa đọc cho 洛伦 nghe vài câu trong thư 赛德里克 thì một dân binh chạy vào báo: hai mươi kỵ cờ đen của 黑石 đã qua bãi cạn sông giới, đang xuôi về thị trấn. Sáng cùng ngày, 赫伯特 vừa thú nhận chính ông đã ghi 160 người bị 黑石 bắt năm ngoái là chết dịch.
 
 【Chuyện xảy ra trong đoạn này】
-Nghe cái tên, 赫伯特 làm rơi bút. Khi 西蒙 đã xuống thuyền, 洛伦 hỏi ông vì sao; 赫伯特 thú thật: năm ngoái chính tay ông ghi 160 người ấy là chết dịch, theo lệnh người tiền nhiệm, và ông còn nhớ tên từng làng. 洛伦 hỏi những câu cụ thể — làng nào, ai còn vợ con ở lại — rồi bảo ông giữ lại tờ sổ ấy.
+Hai mươi kỵ dừng ở quảng trường trước 督政官邸, đuốc sáng rực. 达隆 không xuống ngựa; 考珀 xuống, đưa một cuộn giấy: danh sách ba mươi "phu mỏ bỏ trốn" của 黑石, theo luật phải được lục soát và đưa về, bắt đầu từ cái lò mới ở bãi sông, nơi "gần đây có người lạ tới làm". 加尔文 nói một câu về thể diện của 索恩家族, nhưng không nói thêm.
 
-Chiều, ở lều lò bên bãi sông. Sổ lò của 玛尔塔 là một bó que khắc và những vạch than trên tấm ván; 赫伯特 chép không kịp. 洛伦 ngồi xuống tấm ván, vạch mười ký hiệu và dạy cả hai cách viết số theo hàng. 赫伯特 lo đây có phải là dạy chữ không; 洛伦 đáp bằng một lý lẽ khiến ông cứng họng. 玛尔塔 học nhanh hơn 赫伯特 và không giấu vẻ đắc ý; 赫伯特 tự đặt cho chúng cái tên "大人的数字". Hai thợ phụ thò đầu vào xem.
+洛伦 đón cuộn giấy như một cậu ấm vừa ngủ dậy, đọc chậm rãi, rồi đưa cho 赫伯特. 赫伯特 đọc tên, tay run: những cái tên ấy là người 枫树屯, 芦苇荡, 泥塘村 — chính là những người bị bắt năm ngoái. 洛伦 hỏi 赫伯特 vài câu trước mặt 考珀, để chính sổ của 锈河 nói ra rằng người mang tên này đã chết dịch từ mùa thu năm ngoái. Rồi anh hỏi lại 考珀, giọng ngây ngô: người chết thì bỏ trốn thế nào, hay 黑石 muốn nói những người này còn sống, đang ở mỏ 黑石 — vậy họ tới 黑石 bằng cách nào. 考珀 hiểu cái bẫy trước 达隆.
 
-Tối, 加尔文 ngồi trong sân hút tẩu, một lá thư niêm sáp mở trên đùi. 洛伦 đi qua; 加尔文 tự nói, không cần hỏi: thư của 赛德里克少爷, và đọc ra một hai câu — 赛德里克 nghe tin 锈河 bán gương thì chỉ cười, và nhắn rằng tới 秋税日 sẽ cử người tới nhận sổ. 加尔文 nói thêm điều anh ta nghĩ về chuyện đó, theo cách của một người nhận lương gia tộc. 洛伦 đáp một câu nhẹ tênh.
+Để 考珀 khỏi về tay không, 洛伦 cho mấy người cầm đuốc ra bãi sông "lục soát" cho yên lòng. 考珀 nhìn bánh xe nước, hộp gỗ, đống thỏi gang, và năm thợ mới bị gọi ra đứng thành hàng; không ai trong số đó có tên trong danh sách. 达隆 nhổ nước bọt.
 
 【Những điểm bắt buộc】
-- 赫伯特 thừa nhận chính ông đã ghi 160 người là chết dịch.
-- 洛伦 dạy chữ số cho 赫伯特 và 玛尔塔; không dạy chữ.
-- Thư của 赛德里克 chỉ được 加尔文 đọc ra vài câu; 洛伦 không cầm thư.
+- Không có ai bị bắt đi; không có đánh nhau.
+- Danh sách ba mươi tên là người 锈河 bị bắt năm ngoái; 赫伯特 nhận ra nhờ sổ lót.
+- 考珀 được nhìn lò từ ngoài, dưới ánh đuốc; không ai giảng cho anh ta máy chạy thế nào.
 
 【Tự do sáng tạo】
-Tên mấy làng, lý lẽ 洛伦 dùng về "số không phải chữ", cách 玛尔塔 học, câu 加尔文 tự thêm, câu đáp của 洛伦 — do bạn quyết.
+Những câu 洛伦 hỏi 赫伯特 và 考珀, câu 加尔文 nói về thể diện gia tộc, điều 考珀 để ý ở bãi sông, phản ứng của dân thị trấn đứng nhìn — do bạn quyết.
 
 【Mở đầu và chỗ dừng】
-- Mở: cây bút trong tay 赫伯特 rơi xuống bàn khi 西蒙 nói tên 巴尔萨泽.
-- Dừng: một dân binh chạy vào sân báo hai mươi kỵ cờ đen của 黑石 đã qua cột mốc phía bắc, đang xuôi về thị trấn. Họ tới thế nào thuộc đoạn sau.
+- Mở: tiếng vó ngựa vào quảng trường trước 督政官邸.
+- Dừng: trước khi quay ngựa, 达隆 nói rằng sau vụ gặt 巴尔萨泽大人 sẽ tự sang đòi người; ngựa đi rồi, 加尔文 quay sang 洛伦 định nói gì đó. Câu của 加尔文 thuộc đoạn sau.

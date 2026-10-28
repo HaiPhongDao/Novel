@@ -19,3 +19,4 @@
 2026-10-28 | doan-007 | Chốt bản A (duy nhất: /u/0, /u/1 hết quota). Lỗi chữ 半米 / 属下 / 次子 ghi review, chờ Tác giả. Thêm canon: 黑石 bắt 160 phu 锈河 năm ngoái | Duyệt: Agent (Tác giả giao chạy liền 5 đoạn)
 2026-10-28 | doan-008 | Tác giả: "Đừng test nữa, viết thật đi" → mỗi đoạn một bản, chốt thẳng. Lập dàn ý 008–012 trong arc 1 đã duyệt. Chốt 008 | Duyệt: Agent
 2026-10-28 | doan-009 | Chốt; Agent sửa "阿拉伯数字"→"数字符号" (tên đất thật). Canon: ba làng bị bắt người năm ngoái 枫树屯/芦苇荡/泥塘村 | Duyệt: Agent
+2026-10-28 | doan-010 | Chốt — bẫy "phu trốn" gãy bằng sổ chết dịch | Duyệt: Agent
