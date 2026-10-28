@@ -17,3 +17,4 @@ Bible + bàn tay vàng đã duyệt 27/10; đoạn 001 chốt 28/10; dàn ý 002
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | ✅ | ✅ | ✅ ĐẠT | ✅ |
+| 002 | ✅ | ✅ | ✅ ĐẠT | ✅ |

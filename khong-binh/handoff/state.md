@@ -1,20 +1,23 @@
-## 3. Trạng thái hiện tại (hết đoạn 1)
+## 3. Trạng thái hiện tại (hết đoạn 2)
 
-**Thời điểm:** tối, ba ngày sau 灌注; còn 120 ngày tới 秋税日.
-**Có mặt:** phòng ngủ 督政官邸 — 洛伦 ngồi trên giường; 赫伯特 ôm sổ; 加尔文 ngậm tẩu vừa châm.
+**Thời điểm:** trưa ngày thứ hai sau khi tỉnh; còn 119 ngày tới 秋税日.
+**Có mặt:** phòng đọc 督政官邸 — 洛伦 vừa ngủ dậy khoác áo; 赫伯特 thở hổn hển báo tin. 加尔文 ở trại lính.
 
 **Nhân vật chính biết**
-- Mình xuyên việt vào 洛伦, con thứ ba 索恩家族; bị 灌注, đang giả lú.
-- Làm 督政官 锈河属地; 12.000 袋 phải nộp, năm ngoái 8.400, người tiền nhiệm bị bắt về kinh.
-- Vừa thấy phép thật. Chưa biết: 魔视, vì sao mình là 空瓶, sổ kho, sông đỏ.
+- Thế giới có pháp sư (一星→九星, 魔导议会, 魔视); mình là 空瓶, bị đày để gia tộc giữ tên.
+- Sông 锈河 là cát quặng sắt trôi từ mạch lộ thiên thượng nguồn — chưa nói với ai.
+- Đã vẽ bễ piston hai chiều chạy sức nước và cày lưỡi cong nặng; 玛尔塔 rèn xong đợt linh kiện đầu.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Ngày tới 秋税日 | 120 |
-| Cống lương | 12.000 袋 |
-| Năm ngoái nộp | 8.400 袋 |
-| Dân | 18.000 (锈河镇 + 23 làng) |
+| Ngày tới 秋税日 | 119 |
+| Cống lương | 12.000 袋 (năm ngoái cũng 12.000, nộp 8.400) |
+| Dự thu | ~9.500 袋; thiếu 2.500 袋 = 500 金币 |
+| Kho bạc | 312 金币 (dốc hết vẫn thiếu 188) |
+| Lính | 40 phàm nhân + 加尔文 |
+| Giá đã hứa 玛尔塔 | gấp đôi giá thường |
 
 **Tuyến đang mở**
-- Câu trả lời về phép thuật của 加尔文 vừa dứt; 洛伦 còn sững trước ngọn lửa.
+- 洛伦 đi ra lò rèn xem linh kiện.
+- 加尔文 coi cậu chủ là lú; 赫伯特 lo.
