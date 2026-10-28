@@ -40,3 +40,5 @@ Cùng SI, cùng khung ba dòng của Tác giả, chỉ đổi phần dữ kiện
 - Cái giá: dài hơn (+55% so với "khoảng 2000 chữ") và Writer tự đặt thêm chi tiết (nghề kiếp trước, giá đồ, chuyện
   cũ) — soát canon kỹ hơn, sửa tay những chỗ đụng bible.
 - Đo nhanh độ "checklist": tách đoạn văn kể (không có “), đếm tỷ lệ đoạn có con số và số đoạn ≥40 字.
+
+- **Cú hài dựa trên một hiểu lầm phải ghi trong brief, kèm chỗ nó còn sống tới.** Test chương 1 泡沫东京 (2/2 bản): mẫu kết bằng MC vẫn tưởng nữ biên tập là lao công ("“你？”"); brief chỉ ghi sự việc, State ghi "MC không biết cô là biên tập" — cả hai bản đều gỡ hiểu lầm sớm và mất cú kết. Ghi thẳng: "tới cuối đoạn anh vẫn tưởng cô là nhân viên tạp vụ".
