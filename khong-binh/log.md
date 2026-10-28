@@ -60,3 +60,4 @@
 2026-10-28 | doan-005 | Chốt (SI v1.4) — 西蒙 xem lò, ra 2.000 金币/3 năm, 洛伦 từ chối bằng chuyện người dệt vải, dẫn tới lò đứng | Duyệt: Agent
 2026-10-28 | doan-006 | Chốt (SI v1.4) — lò ra gang, 西蒙 ký 5.000 金币/3 năm, cọc 400, chở 2.500 袋 bán theo giá; tối xem bản đồ gặm góc bắc | Duyệt: Agent
 2026-10-28 | doan-007 | Chốt (SI v1.4) — 加尔文 viết thư chỉ nhắc đồ chơi; 巴尔萨泽 ở 维林港 thấy gương, ép 格林 khai 锈河, sai lục danh sách phu trốn | Duyệt: Agent
+2026-10-28 | doan-008 | Chốt (SI v1.4) — 巴尔萨泽 chọn 20 tên nô trốn; trả công đãi cát, mười ký hiệu đếm; bánh xe nước nối bễ; thuyền 西蒙 tới sớm | Duyệt: Agent
