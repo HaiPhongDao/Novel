@@ -21,3 +21,4 @@
 2026-10-28 | doan-009 | Chốt; Agent sửa "阿拉伯数字"→"数字符号" (tên đất thật). Canon: ba làng bị bắt người năm ngoái 枫树屯/芦苇荡/泥塘村 | Duyệt: Agent
 2026-10-28 | doan-010 | Chốt — bẫy "phu trốn" gãy bằng sổ chết dịch | Duyệt: Agent
 2026-10-28 | doan-011 | Chốt; Agent sửa 火系→土系 cho 巴尔萨泽 | Duyệt: Agent
+2026-10-28 | doan-012 | Chốt — lưỡi hái, vụ gặt, đốt lúa ở 枫树屯 | Duyệt: Agent

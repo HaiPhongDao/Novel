@@ -67,29 +67,34 @@ Hai mươi kỵ 黑石 dừng trước 督政官邸. 达隆 ngồi trên ngựa;
 ### Đoạn 11 — lò luyện lại và chiếc ống đầu
 Trên bãi sông, 加尔文 bảo cậu chủ không còn như hồi ở kinh, không biết viết gì vào thư; 洛伦: cứ viết tôi lú, chơi nung bùn. 加尔文 cảnh báo thật lòng: 巴尔萨泽 ba sao, hai mươi kỵ chỉ là phần hắn cho thấy, bốn mươi giáo gỗ gặp một đòn lửa là tan. Đêm, 洛伦 vẽ lò luyện lại có vách ngăn và máy khoan nằm chạy bánh xe nước. Bốn ngày sau lò mới đỏ: thợ khuấy gang, búa nước đập ra sắt dẻo; bảy ngày được 48 tấm, tốn 4 金币 than — 赫伯特 lo. Tấm sắt cuốn quanh lõi, búa nước hàn thành ống, máy khoan khoét lòng. 玛尔塔 hỏi để làm gì — 洛伦: ống chịu áp dẫn nước lên đất cao, mùa đông ống sành vỡ; bà tin. 加尔文 liếc 魔视, chỉ thấy xám trơn, bỏ đi quán rượu. Chiếc ống đầu khoan xong; 洛伦 ngắm mặt trời qua lòng ống, thấy vòng sáng tròn đều.
 
+### Đoạn 12 — lưỡi hái và đống lúa cháy
+洛伦 cất chiếc ống, quay sang mùa gặt. 玛尔塔 rèn mười lưỡi hái cán dài có giá gỗ. Ở 泥塘村 (thiếu 70 trai tráng), trưởng làng 老格里 tưởng để quây thú; một người cầm thử, quét một vạt năm thước, cả ruộng im. Bà già lo bớt phần; 洛伦: làng bỏ không ít nhất 400 mẫu, ai cầm hái cứ mười bao thì thêm hai thăng bột. 赫伯特 ghi sổ bằng "大人的数字". Tối: một ngày 420 lượm; ba làng phía bắc mười ngày gặt xong; vào kho ít nhất 10.200 袋, cộng 2.500 là vượt 12.000. 洛伦 thấy đống lúa sát rừng bắc dễ cháy, cho bốn mươi lính chia canh, đào rãnh cản lửa. Chuông báo: người bịt mặt ném vò dầu đốt bốn đống lúa ở 枫树屯, kéo mấy người chữa cháy đi. 洛伦 hiểu kẻ đốt chứ không cướp: thiếu cống thì 黑石 có cớ hợp luật. 加尔文: gặp ba sao thì khiên tôi không đỡ nổi; 洛伦: hắn tự ra tay thì chẳng phải bịt mặt. Hai người phóng ngựa về phía lửa.
+
 ---
 
-## 3. Trạng thái hiện tại (hết đoạn 11)
+## 3. Trạng thái hiện tại (hết đoạn 12)
 
-**Thời điểm:** trưa, khoảng ngày 31; còn ~89 ngày tới 秋税日.
-**Có mặt:** bãi sông — 洛伦 cầm ống sắt vừa khoan xong ngắm mặt trời; 玛尔塔 và thợ ở máy khoan. 加尔文 đã đi quán rượu.
+**Thời điểm:** đêm, khoảng ngày 35; còn ~85 ngày tới 秋税日.
+**Có mặt:** trên đường phóng ngựa về 枫树屯 — 洛伦 (ngựa nâu, áo choàng dạ), 加尔文 (đoản trượng gỗ đỏ) và khoảng hai mươi người cưỡi ngựa.
 
 **Nhân vật chính biết**
-- Đã có lò luyện lại (sắt dẻo) và máy khoan nằm chạy bánh xe nước. Ống đầu tiên: sắt dẻo hàn quanh lõi, khoan lòng thẳng.
-- Với mọi người, ống là "ống chịu áp dẫn nước lên đất cao".
-- 加尔文 cảnh báo sức mạnh pháp sư ba sao; vẫn coi máy là đồ chơi.
+- Mười lưỡi hái cán dài: một người gặt bằng năm; ba làng phía bắc mười ngày gặt xong.
+- Dự tính vào kho ≥ 10.200 袋; cộng 2.500 đã mua là đủ 12.000.
+- Kẻ bịt mặt đốt bốn đống lúa ở 枫树屯, bắt mấy người chữa cháy; mục đích: làm 锈河 thiếu cống.
+- Ống sắt đầu tiên cất trong kho, bọc vải dầu.
 
 **Con số đang chạy**
 | Mục | Giá trị |
 |---|---|
-| Ngày tới 秋税日 | ~89 |
-| Kho bạc | 252 − 4 (than bảy ngày) ≈ 248 金币 |
-| Sắt dẻo | 48 tấm (7 ngày) |
-| Thợ lò | 玛尔塔 + 7 thợ (15 铜币 + hai bát cháo/ngày) |
+| Ngày tới 秋税日 | ~85 |
+| Cống | 12.000 袋 大麦 |
+| Kho lúa | 2.500 + vụ gặt (dự tính ≥ 10.200) — trừ bốn đống vừa cháy ở 枫树屯 |
+| Kho bạc | ~248 金币 |
+| Lính | 40, chia bốn đội canh ba làng bắc |
 
 **Tuyến đang mở**
-- 巴尔萨泽 hẹn sang sau 秋税日 nếu thiếu lúa.
-- Ống đầu tiên đã xong.
+- Làng 枫树屯 đang cháy; mấy người bị bắt.
+- 巴尔萨泽 chưa lộ mặt.
 
 ---
 
@@ -117,36 +122,39 @@ Trên bãi sông, 加尔文 bảo cậu chủ không còn như hồi ở kinh, k
 
 ---
 
-## 5. Nguyên văn phần cuối đoạn 11 (để nối mạch và giữ giọng)
+## 5. Nguyên văn phần cuối đoạn 12 (để nối mạch và giữ giọng)
 
-学徒按照吩咐拎起木桶，把混着皂角的冷水均匀泼在发烫的钻头上降温。
-玛尔塔站在镗床旁边，用沾满黑油的麻布擦拭着指缝里的污渍。
-“大人，费这么大的功夫打制这种又长又沉的铁管子，究竟是派什么用场的呢？”
-女铁匠打量着滑台上那根足有成年人小臂粗细的铁管，心头堆满了疑问。
-镇上的水井从来只用粗陶管，就算要排灌北面的麦田，木制水槽也便宜得多。
-这样一根经过反复锻焊与钻孔的铁管，消耗的工时与精铁足够打制四把重型开荒铁犁了。
-“这是用来往北面高处台地引水的耐压水管啊。”
-洛伦背着双手站在木架旁，神色显得十分坦然。
-“深冬冰冻时节，寻常陶管稍碰就碎，只有这种厚铁管能把河水引去护住麦根呢。”
-玛尔塔弯腰瞧了瞧管口平整光滑的金属切面，若有所思地点了点头。
-“若是为了保住麦田里的收成，费些熟铁倒也说得过去呢。”
-女铁匠心里的疑惑烟消云散，随即转身催促徒弟往钻头上加倒冷水。
-加尔文嘴里叼着红土烟斗，踩着河滩上的碎石溜达了过来。
-这位二星法师眼底泛起淡蓝色的光晕，魔视扫视之处尽是一团冰冷的灰色杂质。
-整座工棚里完全寻不到任何魔力运转的痕迹。
-“少爷若是真打算把水引上荒地，多招几十个泥脚挑水肯定来得更快一些呢。”
-加尔文吐出一团白色的辛辣烟雾，眼角带着惯常的漠然。
-“把这么好的熟铁扔进泥水里泡着，帝都那些掌管庄园的执事听了都要直摇头啊。”
-“只要地里的麦子能多收上几百袋，耗费这点铁料总能连本带利收回来的嘛。”
-洛伦随口回应了一句，目光始终停留在钻削推进的木刻标线上。
-加尔文耸了耸肩膀，不再多费口舌，转身叼着烟斗朝着镇子里的酒馆晃悠走去。
-伴随着机架上传来的一声脆响，飞转的钢钻终于彻底钻透了整根铁管。
-两名学徒赶忙松开滑台上的固定铁夹，合力将这根滚烫的铁管抬入水槽。
-浓烈的水汽瞬间在水槽上方蒸腾而起，伴随着一阵清脆短促的金属降温声。
-洛伦走上前去，用干燥的粗麻布裹住掌心，单手将彻底冷却的长铁管提了起来。
-这根铁管沉重压手，外壁保留着锤打锻接的暗色纹路，内壁却被钢钻切削得平整光润。
-他缓步走出工棚，将管口的一端对准了天空中正午的烈阳。
-洛伦闭上左眼，目光顺着笔直幽深的内壁朝尽头望去。
-刺目的金色日光穿透狭长的孔道，在平滑规整的金属内圈上，映出一道完美无瑕的同心光环。
+洛伦用指甲在泥塘村与枫树屯外侧划了一道浅痕。
+深秋时节秋风干燥，几百堆干枯的麦秆堆在荒郊野地里。
+只要随手丢上一根裹了油脂的火把，小半个时辰就能把整片心血烧成灰烬。
+“让领队把卫所的四十个民兵分成四队，今晚就派驻到北面三个村子去。”
+洛伦抬眼看着赫伯特，屈起手指在桌面上敲打了一下。
+“多带皮水桶，在麦场四周挖出两道隔火沟，天亮之前轮流守夜。”
+赫伯特刚要应声，官邸外头的夜空里猛然荡开一阵急促刺耳的铜钟声响。
+那是北面烽燧哨塔传来的警报，沉闷的金属声在荒原上荡起层层回音。
+书房厚重的木门被一把推开，卫队长加尔文叼着陶土烟斗快步走了进来。
+“少爷，北边出岔子了，枫树屯方向升起了狼烟火光呢。”
+加尔文右手顺势按在腰间的红木短杖上，平日里的懒散神色收敛得干干净净。
+一名满身草屑的民兵跌跌撞撞冲进长廊，鞋底挂着厚厚的湿黑泥浆。
+“大人！枫树屯的大麦场走水了！”
+哨探单膝跪在硬木地板上剧烈喘息，嗓音干哑发颤。
+“一队蒙面骑手突然从林子里冲出来，扔下七八个火油瓦罐，转头就跑了啊！”
+“四个大麦垛全烧塌了，带头救火的几个村丁也被他们用绳套拖走啦！”
+洛伦站在烛台边上，眼底的神色沉得发冷。
+这是一场算计得极其精准的袭击。
+寻常劫掠必定要抢夺粮食，可麦堆沉重笨重，运粮的大车根本跑不快。
+车轮在秋天湿软的泥地里会留下极深的辙印，逃窜时极容易被追兵咬住。
+扔火把却只要短短一瞬，就能毁掉整个属地凑齐贡赋的指望。
+一旦麦子烧成了焦炭，锈河属地在秋税日就交不齐一万两千袋贡粮。
+到了那时候，北边的债主就能依照议会的法度，堂而皇之地过来瓜分领地与人口。
+“莫兰卫队长，带上所有能骑马的人，拿上家伙。”
+洛伦抓起椅背上的厚呢披风披在肩上，径直大步迈出了书房。
+加尔文握着法杖快步跟在后头，指尖蹭过杖头，擦出一簇细小的赤色火星。
+“少爷，黑石那位可是正经的三星法师，这要是半路撞上，我的护盾可顶不住大火球呢。”
+“真要是他亲自下了场，哪里还用得着蒙住脸面行事嘛。”
+洛伦冲出府邸大门，翻身跨上一匹早已备好鞍鞯的褐色战马。
+他双腿狠狠一夹马腹，战马长嘶一声，蹄铁在碎石路面上踏出一串火星。
+坐骑箭步窜入夜雾，朝着北面天际那团烧得通红的暗色火光狂奔而去。
+加尔文吐出一口辛辣的青烟，扬起马鞭，带着二十名骑兵破开夜色紧随其后。
 
-(Đoạn 12 sẽ bắt đầu ngay sau chỗ này.)
+(Đoạn 13 sẽ bắt đầu ngay sau chỗ này.)
