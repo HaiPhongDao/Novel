@@ -52,3 +52,4 @@
 2026-10-28 | doan-004 | Chốt — thuê đãi cát, hạ phí bến, mười ngày ra 20+2 gương, khách đầu trả 27 金币, 西蒙 tới | Duyệt: Agent
 2026-10-28 | doan-005 | Chốt — 西蒙 xem lò, ra giá 2.000 金币/3 năm độc quyền, 洛伦 từ chối bằng chuyện sách cũ, dẫn tới lò đứng | Duyệt: Agent
 2026-10-28 | doan-006 | Chốt — lò đứng ra sắt, 西蒙 ký 5.000 金币/3 năm, định tiền 400, chở 2.500 袋 bán theo giá; tối xem bản đồ chuột gặm góc bắc | Duyệt: Agent
+2026-10-28 | SI | Tác giả: 呢 quá nhiều → thử 3 hướng trên đoạn 005 (gemini/test/tro-tu): A bỏ 呢 khỏi danh sách (呢 11/29 lượt), B thêm giới hạn 呢 ≤2/đoạn + lượt thường không trợ từ (呢 1, 4/31 lượt có trợ từ), C trợ từ chỉ cho câu hỏi/nhờ/trêu (呢 5, 14/22). 006 chốt bằng v1.3; 007 bản v1.3 vào archive | Chờ Tác giả chọn
