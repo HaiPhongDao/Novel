@@ -38,3 +38,4 @@
 2026-10-28 | doan-002 | Bản 1 hỏng (vẽ guồng nước thay bễ; 'tin tốt' lộ trước cú lật 魔视 của 003) → archive/lan-2-hong; brief chốt thứ vẽ là bễ và 'tin tốt' = chỉ một pháp sư canh. Sửa 001: 法师议会→魔导议会, 碎石岗→断矛山谷 | Duyệt: Agent
 2026-10-28 | doan-002 | Chốt — hỏi 空瓶/魔视/luật cấm/sổ, nhận ra cát sắt, vẽ bễ piston qua đêm, trưa ra lò rèn | Duyệt: Agent
 2026-10-28 | doan-003 | Chốt — lắp bễ piston, 加尔文 soi bảo trống, cát ra thủy tinh đục, bữa tối dội nước lạnh giá gương | Duyệt: Agent
+2026-10-28 | doan-002 | Agent sửa 三年前的测魔礼 → 今年的测魔礼 (bible: đo 0 năm 19 tuổi, rồi 灌注) | Duyệt: Agent
