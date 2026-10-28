@@ -57,6 +57,9 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
 - **Ngắn ở phần dặn cách viết, đủ ở phần dữ kiện.** Dữ kiện thiết lập (thân phận, ngoại hình, xưng hô, nơi chốn, số
   đang chạy) nằm trong State JSON — tên Hán kèm Latin trong ngoặc — không xếp ở đầu brief; Writer đọc phần đầu
   prompt làm trọng tâm. Thiếu dữ kiện thì lỗi chuyển từ văn sang canon.
+- **State chỉ chứa thứ Writer được dùng từ đoạn này trở đi.** Dữ kiện để dành cho một đoạn sau (kiếp trước, bí mật
+  chưa tới lúc lộ) nằm ở bible tới đúng đoạn đó; có trong State là Writer kể luôn — manga-tokyo-2000 đoạn 001 brief chỉ xin
+  tính tiền thưởng, Writer kể cả kiếp trước + bàn tay vàng (757 字), ăn mất phần định dành cho đoạn 002.
 - **Brief mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng.** "Mở ngay sau câu X" hay mục "Mở" làm Writer
   dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
 - **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,
