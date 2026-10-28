@@ -1,6 +1,6 @@
 # State JSON — quy tắc trích (dùng chung)
 
-Tác giả 28/10: thay `handoff/state.md` + `handoff/story-so-far.md` bằng **một file `handoff/state.json`**, tham khảo một khuôn extractor có sẵn rồi cải tiến cho xưởng này. Agent cập nhật nó sau mỗi đoạn chốt. `tools/build_pack.py` thấy `state.json` thì đưa nó vào gói thay cho hai file cũ; `tools/chot_doan.py` nhận biến `STATE_JSON`. Trong JSON, "chapter" = **đoạn** (doan-NNN).
+Tác giả 28/10: thay `handoff/state.md` + `handoff/story-so-far.md` bằng **một file `handoff/state.json`**, tham khảo một khuôn extractor có sẵn rồi cải tiến cho xưởng này. Agent cập nhật nó sau mỗi đoạn chốt. Đưa cho Writer thì có thể đổi sang markdown cùng nội dung bằng `python tools/state_md.py <state.json> --out <state.md>` (Tác giả 29/10 nghi khối JSON kéo Writer sang chế độ code; đang thử ở `manga-tokyo-2000/gemini/test/tu-do-1/`). `tools/build_pack.py` thấy `state.json` thì đưa nó vào gói thay cho hai file cũ; `tools/chot_doan.py` nhận biến `STATE_JSON`. Trong JSON, "chapter" = **đoạn** (doan-NNN).
 
 ## Khác khuôn gốc ở đâu, vì sao
 
