@@ -9,13 +9,19 @@ ROOT=$(cd "$(dirname "$0")/.." && pwd -W)
 cd "$ROOT" || exit 1
 [ -f "$S/briefs/doan-$N.md" ] || { echo "Thiếu $S/briefs/doan-$N.md"; exit 1; }
 [ -f "$S/chapters/doan-$N.md" ] && { echo "Đã có $S/chapters/doan-$N.md — không ghi đè"; exit 1; }
-python -I -X utf8 tools/build_pack.py "$S" --tail "$TAIL" --prompt "briefs/doan-$N.md" || exit 1
+# Đoạn mở đầu: chưa có đoạn nào để ghép gói → gửi thẳng brief (như Z2 lần 1).
+if ls "$S"/chapters/doan-*.md >/dev/null 2>&1; then
+  python -I -X utf8 tools/build_pack.py "$S" --tail "$TAIL" --prompt "briefs/doan-$N.md" || exit 1
+  PROMPT="handoff/session-start.md"
+else
+  PROMPT="briefs/doan-$N.md"
+fi
 J="$ROOT/$S/handoff/.jobs-$N.json"
 python -I -X utf8 -c "
 import json,sys
-r,s,n,si=sys.argv[1:5]
-json.dump([{'si':f'{r}/{s}/{si}','prompt':f'{r}/{s}/handoff/session-start.md','out':f'{r}/{s}/chapters/doan-{n}.md','note':''}],open(f'{r}/{s}/handoff/.jobs-{n}.json','w'))
-" "$ROOT" "$S" "$N" "$SI"
+r,s,n,si,pr=sys.argv[1:6]
+json.dump([{'si':f'{r}/{s}/{si}','prompt':f'{r}/{s}/{pr}','out':f'{r}/{s}/chapters/doan-{n}.md','note':''}],open(f'{r}/{s}/handoff/.jobs-{n}.json','w'))
+" "$ROOT" "$S" "$N" "$SI" "$PROMPT"
 (cd /d/ClaudeCode/Novel && python -I -X utf8 tools/aistudio_run.py --batch "$J" --timeout 8 --accounts "${ACC:-2,0,1}")
 rm -f "$J"
 F="$S/chapters/doan-$N.md"
