@@ -63,6 +63,8 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   để Writer tự đặt tên vật. Gạch đầu dòng cụt và chữ rút gọn được dịch thành từ lạ: "phủ" → 官邸 dùng như bộ máy,
   máy dịch ra "biệt thự định giá". Glossary phải có từ cho cả nơi ở lẫn bộ máy cai trị.
 - **Không dặn "đáp bằng phép tính"** — Writer ném nguyên bài toán vào văn; đưa con số như sự thật của cảnh.
+- **Truyện dùng State JSON thì không giữ `canon-card.md`** — thẻ thiết lập cố định đã là `main_character`/`characters`/`rules`
+  của State; giữ cả hai là gửi Writer hai bản cùng dữ kiện, sửa một quên một.
 - **Khối nối tiếp do gói cấp** (`build_pack.py` dán đuôi đoạn trước; truyện cũ dùng `noi_doan.py`): 7–10 dòng cuối (~150–200 字) của bản **đã duyệt** (`python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`),
   câu "viết tiếp từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Thiếu khối này thì 5/5 mối nối đứt.
 - **Không câu tiếng Trung nào trong brief** ngoài tên riêng/thuật ngữ ngắn — Writer chép nguyên làm mở đoạn, mọi điểm thành điểm giả.
@@ -76,7 +78,7 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   Ghi sẵn nghĩa của số đó bằng một câu sự thật ("74, còn thiếu 26 để đào tạo một 村民") — để trống thì người kể
   tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
 - **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
-  không gán tính cách — tính cách do Writer quyết.
+  không gán tính cách — tính cách do Writer quyết. Ngoại lệ là đoạn giới thiệu MC (mục 6): dữ kiện kiếp trước nằm trong State.
 - **Mẫu là truyện xuyên việt mà MC của mình không xuyên** → brief phải có một dòng `X sinh ra ở thế giới này.`; bible
   ghi thôi không đủ — Writer kéo motif xuyên không của mẫu vào ("上辈子", "从地球穿越") ngay khi brief im lặng.
 - **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt** (khung đặt hàng của Tác giả: độ dài · tag ·
@@ -167,6 +169,9 @@ Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references
 
 - Đọc bảng truyện ở `README.md` gốc trước: truyện mới phải khác **trục**, không chỉ khác bối cảnh.
 - Tác giả đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai.
+- **Đoạn mở bằng mắt người chứng kiến thì đoạn 2 dành phần lớn cho MC**: kiếp trước là ai, vì sao chọn con đường này chứ
+  không làm việc khác, hoàn cảnh thân xác, quan hệ — bộ mẫu làm ở chương đầu tiên MC ngồi chờ (泡沫东京 ch.4). Dàn ý đặt nó
+  ngay từ lúc mở truyện; dữ kiện vào State, xong đưa vào `already_told` để không kể lại.
 - **Mở truyện "với mẫu" = giữ tiền đề của bộ mẫu**, chỉ đổi thông số (năm, nơi, tên); chỉ hỏi Tác giả về thông số đó, không
   đưa phương án khác trục — Tác giả gạt cả ba phương án lệch mẫu, trả lời "như mẫu, chỉ đổi năm". "Khác trục" là so với truyện đã có trong repo.
 - 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
