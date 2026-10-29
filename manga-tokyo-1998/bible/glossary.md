@@ -27,6 +27,7 @@
 | Xưởng vẽ Takahashi | `Takahashi 先生的工作室` | Tầng 3 một toà nhà cũ ở khu Takadanobaba (`高田马场`), Tokyo |
 | Ngân hàng nhận thưởng (1998) | `住友银行` | Ngân hàng Sumitomo (chưa hợp nhất thành SMBC cho tới năm 2001) |
 | Khu phố sách và họa cụ | `神保町` / `神田` | Nơi tập trung các hiệu bán giấy vẽ và họa cụ manga chuyên dụng |
+| Hiệu sách và họa cụ | `三省堂` | Hiệu sách và họa cụ lâu đời tại khu Jinbocho |
 | Ga gần Kodansha | `护国寺站` / `音羽` | Ga tàu điện ngầm tuyến Yurakucho gần trụ sở Kodansha |
 
 ## 4. Đơn vị tiền tệ & Tỷ giá (tháng 11/1998)

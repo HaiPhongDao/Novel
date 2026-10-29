@@ -14,3 +14,4 @@
 | 002 | `briefs/doan-002.md` | `chapters/doan-002.md` | 2.511 字 | `reviews/doan-002.md` | ✅ ĐẠT |
 | 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | 3.155 字 | `reviews/doan-003.md` | ✅ ĐẠT (kèm ghi chú SỬA NHẸ 2 danh từ ở N6) |
 | 004 | `briefs/doan-004.md` | `chapters/doan-004.md` | 2.446 字 | `reviews/doan-004.md` | ✅ ĐẠT |
+| 005 | `briefs/doan-005.md` | `chapters/doan-005.md` | 3.819 字 | `reviews/doan-005.md` | ✅ ĐẠT |
