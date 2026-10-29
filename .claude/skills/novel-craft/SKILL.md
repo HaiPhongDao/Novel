@@ -37,6 +37,9 @@ Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes 
 2. **Brief** ngay trước khi chạy đoạn đó, không viết trước cả lô (mục 2; khung `templates/brief-doan.md`).
    Đoạn trước chưa có bản được duyệt mà Tác giả bảo viết tiếp: nối từ bản đã sửa hết lỗi canon gần nhất, ghi
    tên bản gốc vào review + `log.md` — đoạn sau phụ thuộc vào bản đó, đổi bản gốc là phải chạy lại.
+   **Cổng brief**: `python tools/soat_brief.py <brief> --prev-brief <brief trước> --bible <truyen>/bible/characters.md
+   --glossary <truyen>/bible/glossary.md`. CHẶN = sửa brief, không chạy — brief ghi sẵn kết cục, lý lẽ, nhãn tính
+   cách thì Writer dịch nguyên thành văn (kiểm toán `test-gemini-moi`).
 3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
 4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]`. Đỏ = bỏ bản
    (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc.
