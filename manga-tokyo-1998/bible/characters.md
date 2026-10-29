@@ -11,3 +11,6 @@
 
 ## Yano — Phó tổng biên tập phòng biên tập Young Magazine
 44 tuổi, phó tổng biên tập nắm quyền phân bổ suất đăng ngắn hạn và xét duyệt nhân sự của phòng biên tập, gọng kính kim loại trễ xuống sống mũi, tay luôn kẹp tập bảng thống kê tỷ lệ phiếu bầu độc giả.
+
+## Takahashi — Họa sĩ manga thể thao bóng chày连载
+45 tuổi, tác giả bộ manga bóng chày đang đăng dài kỳ trên 《Young Magazine》, chủ xưởng vẽ tại Takadanobaba; ngón tay vàng khè vì thuốc lá Peace, tính khí cộc cằn độc đoán, luôn xem trợ lý như thợ phụ rẻ tiền không thể tự出道.

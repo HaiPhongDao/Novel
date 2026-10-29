@@ -18,3 +18,6 @@
 | Đầu 001 | 16:30 chiều ngày hạn chót | `4.000 日元` | `2.000 日元` (mua 5 xấp B4) | 64 trang trong balo | Phải về trước `19:00` + kẻ khung 15 trang |
 | Đầu 002 | 17:10 chiều cùng ngày | `4.000 日元` | `2.000 日元` | 64 trang bọc giấy báo | Còn 1 giờ 50 phút trước mốc `19:00` |
 | Đầu 003 | 17:25 chiều cùng ngày | `4.000 日元` | `2.000 日元` | 64 trang đặt trên bàn Shirakawa | Còn 1 giờ 35 phút trước mốc `19:00` |
+| Đầu 004 | 17:42 chiều cùng ngày | `4.000 日元` | `2.000 日元` | 64 trang đã đóng dấu nộp, Ren giữ phiếu hồi chấp | Còn 1 giờ 18 phút trước mốc `19:00` |
+| Đầu 005 | 18:05 chiều cùng ngày | `4.000 日元` | `2.000 日元` | Phiếu hồi chấp trong túi áo | Còn 55 phút trước mốc `19:00` |
+| Đầu 006 | 18:55 tối cùng ngày | `3.900 日元` (đã bù 100 日元 tiền giấy) | 0 日元 (đã đổi thành 5 xấp giấy B4) | Phiếu hồi chấp trong túi áo, xấp 15 trang khung nền | Hạn nộp bản thảo nền là `06:00` sáng hôm sau |

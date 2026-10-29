@@ -24,7 +24,10 @@
 | Trợ lý thực tập / chính thức | `实习助手` / `正式助手` | Chỉ người đã có giải tân binh mới được nhận làm `正式助手`; chưa có giải chỉ là `实习助手` chạy việc vặt |
 | Giấy vẽ bản thảo chuyên dụng | `B4原稿纸` / `原稿纸` | Giá `400日元` một xấp 40 tờ (`40枚装`); đi kèm `网点纸` (giấy dán họa tiết), `墨水` (mực), `G笔` |
 | Bản thảo dự thi của Ren | `《记忆碎片》` | Truyện ngắn tâm lý hình sự 64 trang (`64页`) do Fujimoto Ren vẽ lén |
-| Đăng dài kỳ / truyện ngắn | `连载` / `短篇` | Mục tiêu sau giải thưởng là giành suất `连载` |
+| Xưởng vẽ Takahashi | `Takahashi 先生的工作室` | Tầng 3 một toà nhà cũ ở khu Takadanobaba (`高田马场`), Tokyo |
+| Ngân hàng nhận thưởng (1998) | `住友银行` | Ngân hàng Sumitomo (chưa hợp nhất thành SMBC cho tới năm 2001) |
+| Khu phố sách và họa cụ | `神保町` / `神田` | Nơi tập trung các hiệu bán giấy vẽ và họa cụ manga chuyên dụng |
+| Ga gần Kodansha | `护国寺站` / `音羽` | Ga tàu điện ngầm tuyến Yurakucho gần trụ sở Kodansha |
 
 ## 4. Đơn vị tiền tệ & Tỷ giá (tháng 11/1998)
 
