@@ -50,7 +50,7 @@ LEXICON = {
                  "dập đầu", "quật ngã", "trói gô", "vội vã rời", "kết thúc nhanh", r"(?<!\w)chết(?!\w)",
                  r"(?<!chiến )(?<!\w)thắng(?!\w)"),
     "loi-soan-san": w(r"giải thích\s*(?:bằng|rằng|:)", "lấy cớ", "lập luận", "thuyết phục", "hỏi lại",
-                      r"đáp (?:rằng|lại)", "nói rằng", r'"[^"\n]{1,60}"', r"“[^”\n]{1,60}”"),
+                      r"đáp (?:rằng|lại)", "nói rằng", r"hỏi\b[^\n.;]{1,30}\bsao lại", r'"[^"\n]{1,60}"', r"“[^”\n]{1,60}”"),
     "menh-de-nghia": w(r"(?<!\w)Nếu(?!\w).{5,120}?(?<!\w)thì(?!\w)", *[rf"(?<!\w){x}(?!\w)" for x in [
         "khiến", "biến thành", "cho thấy", "thể hiện", "động lực", "nỗi sợ", "hưng phấn", "kinh sợ",
         "lạnh gáy", "thay vì", "như thể", "như chưa từng", "không ai dám", "không một ai dám", "kỷ luật sắt",
@@ -74,12 +74,12 @@ SO_CUOI = [
     re.compile(rf"(?<!\w)từ\s*(?:{NUM})[^\n\d]{{0,20}}?(?:xuống|lên)\s*(?:còn\s*)?(?:{NUM})", re.I),
     re.compile(rf"(?:nhận|cộng)\s*(?:thêm\s*)?(?:{NUM})\s*(?:exp|điểm|点|经验)", re.I),
 ]
-CON_SO = re.compile(rf"(?<!\w)còn\s*(?:đúng\s*)?(?:{NUM})\s*(?:người|cân|斤|kim tệ|金币|bạc|银币)", re.I)
+CON_SO = re.compile(rf"(?<!\w)còn\s*(?:đúng\s*)?(?:{NUM})\s*(?:người|cân|斤|kim tệ|金币|bạc|银币|日元|円|万円|vạn yên|yên|元|tệ|trang|页|tờ|枚)", re.I)
 MOC_GIO = {"sáng": r"sáng|bình minh|rạng đông", "trưa": r"trưa", "chiều": r"chiều",
            "tối": r"tối|đêm|hoàng hôn|chạng vạng"}
 NHAY = re.compile(r"(?<!\w)(?:\d+|hai|ba|bốn|năm|sáu|bảy|tám|chín|mười)\s+ngày\s+(?:đường|trôi qua|sau|liền)"
                   r"|hành trình\s+\d+\s+ngày|nửa ngày trôi qua|hôm sau", re.I)
-TIEN = {"金币": "vang", "kim tệ": "vang", "vàng": "vang", "银币": "bac", "bạc": "bac", "铜币": "dong", "đồng": "dong"}
+TIEN = {"金币": "vang", "kim tệ": "vang", "vàng": "vang", "银币": "bac", "bạc": "bac", "铜币": "dong", "đồng": "dong", "万円": "van_yen", "vạn yên": "van_yen", "日元": "yen", "yên": "yen", "円": "yen"}
 DON_VI_TIEN = "|".join(sorted(TIEN, key=len, reverse=True))
 LUONG = r"(?:cân|斤)"
 STOP = set("là và của có gọi tự xưng tuổi người một hắn cho với những các đã không được trong khi ở từ này đó "
@@ -154,21 +154,36 @@ def strip_panel(s):
 
 
 def doc_bible(path):
-    t = Path(path).read_text(encoding="utf-8")
+    p = Path(path)
+    t = p.read_text(encoding="utf-8") if p.is_file() else ""
+    d = p if p.is_dir() else p.with_suffix("")
+    files = [f.read_text(encoding="utf-8") for f in sorted(d.glob("*.md")) if f.name != "_mau-nhan-vat.md"] if d.is_dir() else []
     nv = {}
     for m in re.finditer(r"^##\s+(.+?)$\n(.*?)(?=^##\s|\Z)", t, flags=re.M | re.S):
         head = m.group(1)
         ten = re.split(r"\s+[—–-]\s+", head)[0].strip()
         age = re.search(r"(\d+)\s*tuổi", m.group(2))
         nv[ten] = {"tuoi": age.group(1) if age else None, "tu": set(words(head + " " + m.group(2)))}
-    return nv, t
+    for ft in files:
+        m = re.search(r"^#\s+(.+?)$\n(.*)", ft, flags=re.M | re.S)
+        if m:
+            head, body = m.group(1), m.group(2)
+            ten = re.split(r"\s+[—–-]\s+", head)[0].strip()
+            age = re.search(r"(\d+)\s*tuổi", body)
+            nv[ten] = {"tuoi": age.group(1) if age else None, "tu": set(words(head + " " + body))}
+    return nv, t + "\n" + "\n".join(files)
 
 
 def doc_glossary(path):
-    t = Path(path).read_text(encoding="utf-8")
+    p = Path(path)
+    t = p.read_text(encoding="utf-8") if p.is_file() else ""
+    d = p if p.is_dir() else p.with_suffix("")
+    files = [f.read_text(encoding="utf-8") for f in sorted(d.glob("*.md")) if f.name != "_mau-nhan-vat.md"] if d.is_dir() else []
     lat2han = {}
     for han, lat in re.findall(rf"([{HAN}]{{2,6}})\s*\(([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)\)", t):
-        lat2han[lat] = han
+        sec = (re.findall(r"^##\s+([^\n]+)", t[:t.find(han)], flags=re.M) or [""])[-1]
+        if not re.search(r"nhân vật|tên người|xưng hô|latin", sec, flags=re.I):
+            lat2han[lat] = han
     cam = re.findall(r"không viết\s*`([^`]+)`", t)
     return lat2han, cam, t
 
@@ -282,6 +297,8 @@ def scan(path, ctx, bible=None, glossary=None):
     if glossary:
         lat2han, cam, _ = glossary
         for lat, han in lat2han.items():
+            if bible and any(lat == k or k.endswith(" " + lat) or lat.endswith(" " + k) for k in bible[0]):
+                continue
             i = next((i for i, ln in lines if re.search(rf"(?<![A-Za-z]){re.escape(lat)}(?![A-Za-z])", ln)), None)
             if i:
                 hit("lech-glossary", CANH, i, f"«{lat}» — glossary viết {han}")
@@ -367,9 +384,9 @@ def scan(path, ctx, bible=None, glossary=None):
             if is_panel(ln):
                 continue
             for n, u in re.findall(rf"({NUM})\s*(bước|步|xe|cây rìu|rìu|把|kim tệ|金币|bạc|银币|lão binh|老兵|cọc|根"
-                                   rf"|người|nông nô|cân|斤)", ln):
+                                   rf"|người|nông nô|cân|斤|日元|円|万円|vạn yên|yên|元|tệ|trang|页|tờ|枚|xấp|包)", ln):
                 u = {"步": "bước", "把": "rìu", "cây rìu": "rìu", "金币": "kim tệ", "银币": "bạc", "老兵": "lão binh",
-                     "根": "cọc", "nông nô": "người", "斤": "cân"}.get(u, u)
+                     "根": "cọc", "nông nô": "người", "斤": "cân", "円": "日元", "yên": "日元", "vạn yên": "万円", "页": "trang", "枚": "tờ", "包": "xấp"}.get(u, u)
                 out.add(f"{so(n):g} {u}")
         return out
     if ctx.get("prev"):

@@ -32,7 +32,7 @@ Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes 
 
 ## 1. Vòng một đoạn
 
-1. **Trạng thái + sổ số.** Mọi con số trong brief chép từ `<truyen>/plot/so-lieu.md` (mẫu `templates/so-lieu-doan.md`);
+1. **Trạng thái + sổ số.** Mọi con số trong brief chép từ `<truyen>/plot/so-lieu.md` (mẫu `templates/so-lieu-doan.md`); số riêng tư trong `Sổ đầu đoạn` phải gắn rõ chủ thể biết (`chỉ mình <Tên> biết`); sau khi chốt đoạn trước, quét các địa danh phụ/danh từ riêng mới do Writer vừa đặt để neo vào `Sổ đầu đoạn` hoặc `glossary.md` trước khi chạy `--new`;
    số dẫn xuất (còn lại bao nhiêu, sau N ngày) tính bằng script, không nhẩm — Writer chép nguyên số sai.
 2. **Brief** ngay trước khi chạy đoạn đó, không viết trước cả lô (mục 2; khung `templates/brief-doan.md`).
    Đoạn trước chưa có bản được duyệt mà Tác giả bảo viết tiếp: nối từ bản đã sửa hết lỗi canon gần nhất, ghi

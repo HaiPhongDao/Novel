@@ -24,8 +24,8 @@ The anchors below are verbatim excerpts from a benchmark novel. They show techni
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are in Vietnamese; the prose is always Chinese.
-2. Names. [[QUY ƯỚC TÊN THEO GLOSSARY: một–hai câu + ba ví dụ bằng tên của truyện]]. Names in the anchors belong to the benchmark book; this story's names follow this line.
-3. Punctuation. `——` lives inside dialogue quotes for an interruption or a sudden turn. `……` marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene; the next paragraph is already inside the new scene. Narration runs on full stops and commas. [[Dấu chấm than: một câu đo từ sample]]
+2. Names. [[QUY ƯỚC TÊN THEO GLOSSARY: một–hai câu + ba ví dụ bằng tên của truyện]]. Every personal name in the prose — including off-screen superiors or passersby — follows this rule; names and surnames in the anchors stay in the anchors.
+3. Punctuation. `——` lives inside dialogue quotes for an interruption or a sudden turn. `……` marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene; the next paragraph is already inside the new scene. Narration runs on full stops and commas; separate paragraphs with a blank line. [[Dấu chấm than: một câu đo từ sample]]
 
 PART 1 — STYLE
 
@@ -97,13 +97,13 @@ PART 2 — EVERY PARAGRAPH
 
 - Every paragraph ends on an action, a fact, a number or a line of dialogue; feeling shows through what hands, feet and voices do.
 - Whoever stands against the protagonist holds something — men, a ledger, a law, a debt — and uses it before giving way; a win costs something countable.
-- The protagonist names only what he has seen, been told or worked out on the page; a guess shows its clue first.
+- Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first.
 [[Tối đa năm dòng nữa — mỗi dòng là một xu hướng của model đã lặp ở ≥2 lần chạy với brief khác nhau, viết khẳng định, không dữ kiện truyện.]]
 
 BANS
 
 - Weight comes from the number or the result; no intensifier propped onto a verb or a number.
-- Comparisons live in a character's head or mouth; the narrator names the thing, its price and its number.
+- Comparisons live in a character's head or mouth (`像`, `如同`, `如…般`); the narrator names the thing, its price and its number.
 - One negation to a paragraph; a list of what is missing becomes one thing that is there.
 - The tag names the act of speaking; tone lives in the words, not in a label or an adverb before the verb.
 - One adjective to a noun; at most one four-character idiom in a paragraph.
@@ -131,7 +131,7 @@ HƯỚNG DẪN ĐIỀN
 
 1. Ngân sách. Phần dán ≤ 8.000 ký tự sau khi điền — đếm bằng `len()` trên phần giữa hai dòng `=====`, không bằng
    `wc -m` (Git Bash đếm byte). SI chạy tốt đã đo ở 7.000–8.000 ký tự với 3 anchor (`si-anchors.md`); quá 9.000 là dấu
-   hiệu luật tích tụ (`si-cau-truc.md` mục 10). Thiếu chỗ thì cắt dòng PART 2 và chữ nguyên tắc trước, giữ anchor.
+   hiệu luật tích tụ (`si-cau-truc.md` mục 10). Khi điền đủ 5 anchor, mỗi chú thích dưới anchor gói gọn trong 1 câu (~20–25 từ); thiếu chỗ thì cắt dòng PART 2 và chữ nguyên tắc trước, giữ anchor.
 
 2. Thứ tự điền. ROLE, FIXED CONVENTIONS, PART 3 trước; viết thử đoạn 001 hai bản ở hai chat với chỉ ba phần đó; điền
    PART 1 vào đúng chỗ Writer trượt. Mục 1–3 (lời kể) luôn giữ, kể cả khi bản thử "đã đúng": lời kể là 70–85% mọi đoạn,

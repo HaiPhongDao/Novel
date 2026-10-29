@@ -15,8 +15,8 @@ The anchors below are verbatim excerpts from a benchmark novel. They show techni
 FIXED CONVENTIONS
 
 1. Language. Segment prompts and handoff documents are in Vietnamese; the prose is always Chinese.
-2. Names. Personal names stay in Latin letters inside the Chinese prose, spelled as the prompt gives them: Fujimoto Ren 停下脚步 · Shirakawa Mio 抬起头 · Takahashi 先生的工作室. Publishers, magazines, places, titles and common nouns stay Chinese: 讲谈社 · 《周刊Young Magazine》 · 东京都 · 编辑 · 实习助手 · 桑 · 小姐. Names in the anchors belong to the benchmark book; this story's names follow this line.
-3. Punctuation. `——` lives inside dialogue quotes for an interruption or a sudden turn, or before a short reveal. `……` marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene; the next paragraph is already inside the new scene. Narration runs on full stops and commas. Exclamation marks gather in inner money calculations, sudden turns while reading a manuscript, and sharp retorts; ordinary narration uses full stops.
+2. Names. Personal names stay in Latin letters in the Chinese prose, as the prompt gives them: Fujimoto Ren 停下脚步 · Shirakawa Mio 抬起头 · Takahashi 先生的工作室. Publishers, magazines, places, titles and common nouns stay Chinese: 讲谈社 · 《周刊Young Magazine》 · 东京都 · 编辑 · 实习助手 · 桑 · 小姐. Every personal name — including off-screen superiors — follows this rule; names and surnames in the anchors stay in the anchors.
+3. Punctuation. `——` inside dialogue marks an interruption or a sudden turn. `……` marks hesitation inside dialogue. A line of dots on its own closes a beat and changes the scene; the next paragraph is already inside the new scene. Narration runs on full stops and commas; separate paragraphs with a blank line. Exclamation marks gather in inner money calculations, sudden turns while reading a manuscript, and sharp retorts; ordinary narration uses full stops.
 
 PART 1 — STYLE
 
@@ -85,7 +85,7 @@ Sample anchor:
 　　“那从这里可以随意地进到讲谈社吗？”秋山悟问。
 ```
 
-Four quick lines run without tags because the two voices alternate cleanly; one narration beat notes why she answers openly, and the single tag `问` lands when he pivots to his goal.
+Four lines run without tags as the two voices alternate; one beat notes why she answers openly, and `问` lands when he pivots to his goal.
 
 5. Payoffs land fast against an even voice.
 
@@ -108,14 +108,14 @@ PART 2 — EVERY PARAGRAPH
 
 - Every paragraph ends on an action, a fact, a number or a line of dialogue; feeling shows through what hands, feet and voices do.
 - Whoever stands against the protagonist holds something — a gate rule, a desk rank, a rent contract, a quota — and uses it before giving way; a win costs something countable.
-- The protagonist names only what he has seen, been told or worked out on the page; a guess shows its clue first.
+- Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first.
 - When a character reads a manuscript on the page, narration alternates between the panels on the paper and the reader's changing judgment in the room.
 - A workplace conversation carries a small physical action — stubbing out a cigarette, checking a watch, weighing a stack of paper — and at least one exchange that is not a speech about art.
 
 BANS
 
 - Weight comes from the number or the result; no intensifier propped onto a verb or a number.
-- Comparisons live in a character's head or mouth; the narrator names the thing, its price and its number.
+- Comparisons live in a character's head or mouth (`像`, `如同`, `如…般`); the narrator names the thing, its price and its number.
 - One negation to a paragraph; a list of what is missing becomes one thing that is there.
 - The tag names the act of speaking; tone lives in the words, not in a label or an adverb before the verb.
 - One adjective to a noun; at most one four-character idiom in a paragraph.

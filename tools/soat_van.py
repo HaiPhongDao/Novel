@@ -53,7 +53,8 @@ QUOTE = re.compile(r"“([^”]+)”")
 
 def paragraphs(text):
     text = re.sub(r"^<!--.*?-->\s*", "", text, flags=re.S)
-    return [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    paras = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    return paras if len(paras) > 1 or "\n" not in text.strip() else [p.strip() for p in text.splitlines() if p.strip()]
 
 
 def han(s):

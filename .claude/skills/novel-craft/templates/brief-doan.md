@@ -45,7 +45,7 @@ hô, sổ đầu đoạn kèm định mức theo khẩu phần đang dùng. Thi�
 
 Truyện chưa có State/gói: dán khối nối ở đầu brief (`【接上】` + `python tools/noi_doan.py <đoạn trước> --chars 300
 --wrap` + `【接上完】`), rồi thêm sau `Dừng ở` ba dòng `Người có mặt (chép từ bible): …` · `Xưng hô: …` · `Sổ đầu
-đoạn: …`.
+đoạn: …` (số riêng tư phải gắn rõ chủ thể biết: `chỉ mình <Tên> biết`). Sau khi chốt mỗi đoạn, quét các địa danh phụ/danh từ riêng mới do Writer vừa đặt trong đoạn đó để neo vào `Sổ đầu đoạn` hoặc `bible/glossary.md` trước khi chạy đoạn kế bằng `--new`.
 
 Đoạn mở truyện: dòng đầu `Viết đoạn mở đầu cho truyện mới, …`; một dòng `Mở:` nêu khoảnh khắc mở
 (`references/si-cau-truc.md` mục 5b) là chỗ duy nhất được đặt tính từ cảm giác.

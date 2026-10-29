@@ -73,7 +73,8 @@ def main():
 
     start, end = si.find("BẮT ĐẦU SI"), si.find("HẾT SI")
     if start != -1 and end != -1 and end > start:
-        print("do dai phan dan: %d ky tu" % (end - start))
+        m_si = re.search(r"^={3,}[^\n]*BẮT ĐẦU SI[^\n]*\n(.*?)\n^={3,}[^\n]*HẾT SI", si, re.M | re.S)
+        print("do dai phan dan: %d ky tu" % (len(m_si.group(1).strip()) if m_si else end - start))
     print("ket qua: %d/%d anchor khop" % (len(blocks) - bad, len(blocks)))
     return 1 if bad else 0
 
