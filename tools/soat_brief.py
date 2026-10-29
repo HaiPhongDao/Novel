@@ -2,10 +2,15 @@
 
 Dùng:
     python tools/soat_brief.py <brief.md> [<brief2.md> ...] [--prev-brief <brief đoạn trước>]
-        [--bible <truyen>/bible/characters.md] [--glossary <truyen>/bible/glossary.md] [--json]
+        [--bible <truyen>/bible/characters.md] [--glossary <truyen>/bible/glossary.md] [--mau-b] [--goi] [--json]
 
 Nhiều brief liền nhau: brief đứng trước trong danh sách làm brief trước của brief sau (định mức lương,
 tỷ giá, khẩu phần, số cũ, hình dạng chỗ dừng được mang theo).
+
+--mau-b  truyện chạy mẫu B (AGENT §4): cho tính cách trong 【Thiết lập】, điểm bắt buộc và con số tổng; chỉ bắt
+         thứ cả hai mẫu cùng cấm. Đổi mẫu của truyện đang chạy cần Tác giả duyệt — cổng không tự đổi.
+--goi    brief chạy qua gói build_pack.py (State JSON + đuôi đoạn trước): không đòi dòng xưng hô và khối nối.
+         Tự bật khi có <truyen>/handoff/state.json.
 
 Bắt thứ brief giao cho Writer mà Writer sẽ dịch nguyên thành văn — kiểm toán test-gemini-moi 29/10,
 khung và lý do ở `.claude/skills/novel-craft/templates/brief-doan.md`: beat đánh số, nhãn tính cách, kết cục
@@ -172,6 +177,17 @@ def scan(path, ctx, bible=None, glossary=None):
     text = Path(path).read_text(encoding="utf-8")
     lines = body_lines(text)
     hits = []
+    mau_b = ctx.get("mau_b")
+    # Truyện chạy qua gói (build_pack.py: State JSON + đuôi đoạn trước): xưng hô và khối nối nằm trong gói.
+    goi = ctx.get("goi") or (Path(path).resolve().parent.parent / "handoff" / "state.json").exists()
+    # Mẫu B (AGENT §4) cho ghi tính cách trong 【Thiết lập】.
+    thiet_lap, trong = set(), False
+    for i, ln in lines:
+        s = ln.strip()
+        if s.startswith("【") and not is_panel(s):
+            trong = "Thiết lập" in s
+        elif trong:
+            thiet_lap.add(i)
 
     def hit(check, level, i, s):
         hits.append({"check": check, "level": level, "line": i, "text": s.strip()[:90]})
@@ -192,6 +208,8 @@ def scan(path, ctx, bible=None, glossary=None):
         mo = re.match(r"^\s*[-•]?\s*Mở\s*[:：]", s, re.I)
         for check, rx in LEXICON.items():
             if (check == "ket-cuc" and khoa) or (check in ("hinh-anh", "ket-hinh-anh") and mo):
+                continue
+            if mau_b and (check == "ket-cuc" or (check == "nhan-tinh-cach" and i in thiet_lap)):
                 continue
             got = []
             for m in rx.finditer(s):
@@ -219,9 +237,9 @@ def scan(path, ctx, bible=None, glossary=None):
             else:
                 h["level"] = CANH
 
-    # 3. Số cuối đoạn / biến động chỉ số.
+    # 3. Số cuối đoạn / biến động chỉ số (mẫu B cho đưa sẵn con số tổng — AGENT §4 mẫu B luật 18).
     for i, ln in lines:
-        if is_panel(ln):
+        if is_panel(ln) or mau_b:
             continue
         s = strip_panel(ln)
         found = [m.group(0) for rx in SO_CUOI for m in rx.finditer(s)]
@@ -398,11 +416,12 @@ def scan(path, ctx, bible=None, glossary=None):
     body = "\n".join(ln for _, ln in lines)
     if not re.search(r"Dừng", body):
         hit("thieu", CHAN, 0, "không có chỗ dừng ('Dừng ở …')")
-    if not re.search(r"gọi\b.{1,40}?\blà\b|tự xưng|Xưng hô", body, re.I):
+    if not goi and not re.search(r"gọi\b.{1,40}?\blà\b|tự xưng|Xưng hô", body, re.I):
         hit("thieu", CANH, 0, "không có dòng xưng hô")
     if not re.search(rf"(?:{NUM})\s*(?:–|-|đến)\s*(?:{NUM})\s*(?:字|chữ)|khoảng\s*(?:{NUM})\s*(?:字|chữ)", body):
         hit("thieu", CANH, 0, "không có cửa sổ độ dài")
-    if re.search(r"Viết tiếp|đoạn tiếp theo", body, re.I) and not re.search(r"【接上】|GIỌNG MẪU|KHỐI NỐI TIẾP", text):
+    if (not goi and re.search(r"Viết tiếp|đoạn tiếp theo", body, re.I)
+            and not re.search(r"【接上】|GIỌNG MẪU|KHỐI NỐI TIẾP", text)):
         hit("thieu", CANH, 0, "viết tiếp mà không có khối nối tiếp")
     khoa = [i for i, ln in lines if re.match(r"^\s*[-•]?\s*Kho[áa]\s*[:：]", ln, re.I)]
     if len(khoa) > 1:
@@ -449,7 +468,7 @@ def main(argv):
         return 2
     bible = doc_bible(opt["--bible"]) if opt.get("--bible") else None
     glossary = doc_glossary(opt["--glossary"]) if opt.get("--glossary") else None
-    ctx = {"tien": {}, "dung": []}
+    ctx = {"tien": {}, "dung": [], "mau_b": opt.get("--mau-b"), "goi": opt.get("--goi")}
     if opt.get("--prev-brief"):
         scan(opt["--prev-brief"], ctx, bible, glossary)
     rows = [scan(a, ctx, bible, glossary) for a in args]
