@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "last_chapter": 6,
+  "story": "我在泡沫东京画漫画，1998年11月起的东京；人名一律写罗马字（Fujimoto Ren、Shirakawa Mio、Takahashi），地名、杂志、出版社写汉字，银行写住友银行"
+ },
+ "scene_bridge": {
+  "time": "11月下旬傍晚20点15分",
+  "where": "高田马场老旧杂居楼三层 Takahashi 漫画工作室角落下手座",
+  "present": "Fujimoto Ren 坐在下手画桌前，左手压稿纸右手握套橡胶套的G笔；Takahashi 先生在中央黑皮转椅上抽 Peace 烟敲铁皮烟灰缸",
+  "last_beat": "Takahashi 先生在烟灰缸沿敲击烟蒂，Fujimoto Ren 手腕发力，金属笔尖在第一张棒球原稿空白球场背景上划出第一根笔直锐利的速度线",
+  "pending": "Fujimoto Ren 通宵完成剩余14张原稿的透视背景与速度线"
+ },
+ "timeline": {
+  "relative_time": "Fujimoto Ren 穿越后第3个月；距大奖赛初审见报还有18天；距明早交稿底线还有9小时45分钟",
+  "chapter_log": [
+   {
+    "chapter": 1,
+    "summary": "17:00讲谈社后门，Ren托Mio带稿，Mio指点正门前台"
+   },
+   {
+    "chapter": 2,
+    "summary": "17:10讲谈社四楼，遇前女友Sasaki，窗口位认出Mio"
+   },
+   {
+    "chapter": 3,
+    "summary": "17:40四楼，Mio读完64页《记忆碎片》惊艳，顶住Yano压力盖章推荐"
+   },
+   {
+    "chapter": 4,
+    "summary": "17:48四楼，Mio解说大奖赛评审与汇款流程，Ren下楼奔赴地铁站"
+   },
+   {
+    "chapter": 5,
+    "summary": "18:05神保町三省堂自垫100円买5册B4纸，挤东西线护纸，18:52赶回高田马场"
+   },
+   {
+    "chapter": 6,
+    "summary": "18:55进工作室交纸拿回100円，接15张通宵棒球背景任务，20:15划出第一笔"
+   }
+  ]
+ },
+ "already_told": [
+  "《记忆碎片》双线倒叙与顺行性遗忘症设定（已在ch3详述，不再展开）",
+  "大奖赛各档奖金与月例赏对比（150万/70万/30万 vs 10万，已在ch1、ch4详述）",
+  "讲谈社与住友银行电汇/支票流程（已在ch4详述）",
+  "三省堂B4原稿纸420円/册及调价（已在ch5详述）",
+  "G笔燎火去防锈油、钢尺粘十円硬币防渗墨、图钉定位放射线手法（已在ch6详述）"
+ ],
+ "ledger": [
+  {
+   "item": "Fujimoto Ren 私人现金",
+   "value": "4000日元（垫付100円后已由Takahashi补回）",
+   "as_of": 6
+  },
+  {
+   "item": "住友银行存折活期存款",
+   "value": "320日元（压在出租屋床垫下）",
+   "as_of": 4
+  },
+  {
+   "item": "工作室实习津贴",
+   "value": "8万日元/月，扣除3万房租到手5万",
+   "as_of": 1
+  },
+  {
+   "item": "伙食补贴",
+   "value": "1.5万日元/月（明早六点前完不成15张则扣光）",
+   "as_of": 6
+  },
+  {
+   "item": "B4原稿纸耗材",
+   "value": "三省堂购买5册共200张，已交付Takahashi",
+   "as_of": 6
+  },
+  {
+   "item": "今晚作画任务",
+   "value": "棒球漫画背景15张（已完成第一笔）",
+   "as_of": 6
+  }
+ ],
+ "deadlines": [
+  "完成15张棒球漫画背景与速度线｜次日早晨06:00｜Takahashi限定，延误扣1.5万伙食费",
+  "讲谈社编辑部派人取稿｜次日早晨08:00｜印刷厂中午12:00开工",
+  "大奖赛初审名单见报｜下个月15号《周刊Young Magazine》增刊｜Shirakawa Mio告知"
+ ],
+ "main_character": {
+  "name": "Fujimoto Ren",
+  "identity": "22岁，穿越者，Takahashi漫画工作室底层实习助手，住合宿床位",
+  "traits": [
+   "右手食指中指有常年握笔厚茧，指甲缝留开明墨水痕迹",
+   "算账极清，绝不把希望押在只能勉强糊口的及格线上",
+   "基本功扎实，掌握专业助手各种规避失误的小技巧"
+  ],
+  "status": [
+   "连续奔波后双腿沉重，后背汗水干透，双袖卷起，正在画桌前画速度线"
+  ],
+  "knowledge": [
+   "前世记忆中的经典影视与分镜结构（《记忆碎片》等）",
+   "1998年东京物价、合租房租金行情与漫画家生存成本"
+  ]
+ },
+ "knowledge_map": [
+  {
+   "secret": "Fujimoto Ren 投递了64页大奖赛短篇《记忆碎片》并持有讲谈社回执单",
+   "knows": [
+    "Fujimoto Ren",
+    "Shirakawa Mio",
+    "Yano"
+   ],
+   "not_known_to": [
+    "Takahashi",
+    "工作室其他助手"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "name": "Shirakawa Mio",
+   "role": "《周刊Young Magazine》责任编辑，26岁，灰色西装，短发，抽烟，桌上有小仙人掌，独立推荐了Ren的稿子",
+   "speech": "称Ren为Fujimoto桑，自称我",
+   "last_seen": 4
+  },
+  {
+   "name": "Takahashi",
+   "role": "45岁连载漫画家，画周刊棒球漫画，乱发大眼袋，抽Peace香烟，脾气暴躁，压榨学徒",
+   "speech": "称Ren为Fujimoto，自称老子/我",
+   "last_seen": 6
+  },
+  {
+   "name": "Yano",
+   "role": "副编辑长，44岁，金属眼镜，读者统计夹，偏向成熟工作室",
+   "speech": "称Mio为Shirakawa",
+   "last_seen": 3
+  },
+  {
+   "name": "Sasaki Yui",
+   "role": "22岁实习编辑，Ren大学前女友，跟从Yano",
+   "speech": "称Ren为Fujimoto君，称Mio为Shirakawa前辈",
+   "last_seen": 3
+  }
+ ],
+ "places": [
+  "高田马场老旧大楼三层 Takahashi 工作室（无电梯，弥漫Peace烟味与开明墨水味）",
+  "讲谈社（文京区音羽通）",
+  "三省堂书店神保町总店（神田神保町）"
+ ],
+ "objects": [
+  {
+   "name": "讲谈社新人赏白色复写回执联",
+   "holder": "Fujimoto Ren",
+   "notes": "折叠整齐贴在Ren衬衫左胸口袋，带着体温"
+  },
+  {
+   "name": "开明制图墨水、斑马牌G笔、粘有十日元硬币的钢制直尺、木画板与图钉",
+   "holder": "Fujimoto Ren",
+   "notes": "Ren画桌上的专业绘图工具"
+  }
+ ],
+ "rules": {
+  "world": [
+   "1998年东京泡沫破裂后萧条期，就业困难，漫画为少数上升通道",
+   "周刊连载截稿日极其严苛，延误会导致印刷厂停机损失"
+  ],
+  "mechanics": [
+   "专业原稿纸B4 135kg，边缘不可折损；蘸水笔需用火燎除防锈油；直尺需垫高防渗墨"
+  ],
+  "hard_limits": [
+   "Takahashi绝对不能知道Ren私下投稿大奖赛的事"
+  ]
+ },
+ "open_threads": [
+  "通宵完成15张背景 [ch6]",
+  "次月15号大奖赛初审名单 [ch4]"
+ ],
+ "conflicts": []
+}
