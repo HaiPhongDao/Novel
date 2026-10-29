@@ -12,4 +12,4 @@
 | Mốc (chỉ SI) | `briefs/doan-000-moc.md` | `archive/doan-000-moc.md` | 2.938 字 | Đối chiếu trong `reviews/doan-001.md` | ✅ Đã chạy mốc |
 | 001 | `briefs/doan-001.md` | `chapters/doan-001.md` | 3.390 字 | `reviews/doan-001.md` | ✅ ĐẠT |
 | 002 | `briefs/doan-002.md` | `chapters/doan-002.md` | 2.511 字 | `reviews/doan-002.md` | ✅ ĐẠT |
-| 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | — | `reviews/doan-003.md` | Chờ chạy |
+| 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | 3.155 字 | `reviews/doan-003.md` | ✅ ĐẠT (kèm ghi chú SỬA NHẸ 2 danh từ ở N6) |
