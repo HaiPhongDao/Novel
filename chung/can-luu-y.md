@@ -21,7 +21,7 @@ Gom từ skill `novel-craft`, các sổ `chung/` và log các truyện (28/10). 
 - Prompt của Agent cũng là mẫu tu từ: ranh giới phủ định ba vế dạy Writer đúng khuôn đó; viết khẳng định. — KN22
 - Agent con chép câu nguyên tắc vào brief làm MC lạnh và cụt: **brief do phiên chính viết**, agent con chỉ chạy/soát/chốt. — `.claude/agents/novel-doan.md`
 - Mẫu là truyện xuyên việt mà MC không xuyên → brief phải có dòng "X sinh ra ở thế giới này". — skill mục 2
-- SI: lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước cảnh đặc biệt; không bịa anchor, kiểm bằng `verify_anchors.py`; sửa SI cần Tác giả duyệt + ghi log. — skill mục 5, `writer/SI-template` v4
+- SI: lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước cảnh đặc biệt; không bịa anchor, kiểm bằng `verify_anchors.py`; sửa SI cần Tác giả duyệt + ghi log; phần dán ≤ 8.000 ký tự, 4–5 anchor, PART 2 ≤ 8 dòng, lỗi mới qua cổng brief → blacklist → SI. — skill mục 5, `writer/SI-template` v5
 - Test một lỗi Tác giả bảo sửa: tối đa 3 hướng × 1 bản; Tác giả đọc ~4 bản một vòng. — skill mục 5
 
 ## Review

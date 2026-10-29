@@ -145,9 +145,12 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 
 ## 5. SI của truyện
 
-- **Lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước mọi cảnh đặc biệt** — SI chỉ dạy cảnh đặc biệt thì Writer kể bằng giọng báo cáo và thoại nhiễm theo (`references/si-khung.md`, `writer/SI-template` v4).
-- Sửa SI phải có Tác giả duyệt + ghi `log.md`. Dựng SI mới từ `references/si-khung.md` (4 nguyên tắc + đúng 5 dòng BANS + độ dài +
-  phần thể loại); giữ mọi đời cũ `system-instruction-vN.md` làm bằng chứng và bản để quay về.
+- **Lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước mọi cảnh đặc biệt** — SI chỉ dạy cảnh đặc biệt thì Writer kể bằng giọng báo cáo và thoại nhiễm theo (`references/si-khung.md`, `writer/SI-template` v5).
+- Sửa SI phải có Tác giả duyệt + ghi `log.md`. Dựng SI mới từ `writer/SI-template` v5 — **phần dán ≤ 8.000 ký tự, 4–5 anchor,
+  PART 2 ≤ 8 dòng, 5 dòng BANS gọi tên lớp tật, không liệt kê từ, không nhắc máy soát** (Writer né regex bằng từ họ hàng:
+  实 → 整整/死死); giữ mọi đời cũ `system-instruction-vN.md`.
+- **Lỗi mới không tự thành luật SI**: do brief/dữ kiện → sửa brief/glossary; gặp một lần → review-blacklist; lặp ≥2 lần
+  chạy với brief khác nhau → một dòng PART 2 **thay** một dòng cũ (template v5 hướng dẫn 6).
 - **Chất lượng tụt qua nhiều vòng thì nghi luật tích tụ**: đo độ dài SI và prompt qua các đời; nếu cùng phình thì reset về
   SI lõi và từ đó sửa bằng **cắt** một luật, không thêm — `references/si-cau-truc.md` mục 10.
 - Model chép hình thức tu từ của chính SI (chuỗi phủ định trong SI ra chuỗi phủ định trong văn).

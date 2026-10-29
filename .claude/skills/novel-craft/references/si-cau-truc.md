@@ -4,18 +4,21 @@ Dùng khi soạn lại SI (nhất là khi SI đã dài, hoặc Tác giả bắt 
 
 ## 1. Khung SI
 
+Khung để chép: `writer/SI-template` v5. Bảng dưới là tên các phần của khung đó.
+
 | Phần | Nội dung | Giới hạn thực dụng |
 |---|---|---|
 | ROLE | 2–3 câu: thể loại, register, ngôn ngữ ra văn | ngắn; không nhãn tính cách MC |
-| FIXED CONVENTIONS | ngôn ngữ prompt vs văn, tên giữ Latin, `——`/`……` | **không được bỏ khi nén** — mất phần này là Writer phiên âm tên ngay |
-| PART 1 — PRINCIPLES | nguyên tắc khẳng định, mỗi cái kèm anchor | ~800–1.000 từ |
-| PART 2 — CONSTRAINTS | 5–8 luật cứng, chỉ cho hành vi model thật sự sai | quá 8 là loãng |
-| PART 3 — OUTPUT | độ dài, mở nối, dừng giữa mạch | 3–4 dòng |
+| FIXED CONVENTIONS | ngôn ngữ prompt vs văn, quy ước tên theo glossary, `——`/`……` | **không được bỏ khi nén** — mất phần này là Writer phiên âm tên ngay |
+| PART 1 — STYLE | NARRATION 3 nguyên tắc + MOMENTS tối đa 2, mỗi cái một anchor | 4–5 anchor |
+| PART 2 — EVERY PARAGRAPH | chuẩn khi đang viết, chỉ cho hành vi model đã sai ở ≥2 lần chạy | **tối đa 8 dòng** |
+| BANS | 5 dòng, nói thứ đúng trước, gọi tên lớp tật chứ không liệt kê từ | đúng 5 |
+| LENGTH · PART 3 — OUTPUT | độ dài câu, mở nối, dừng giữa mạch | 2 + 3–4 dòng |
 
-- Ngân sách cả SI ~2.000 token; anchor tiếng Trung tốn token ngang một nguyên tắc. Quá ngân sách thì **nén chữ nguyên tắc trước, giữ anchor**.
+- **Ngân sách: phần dán ≤ 8.000 ký tự** (đếm bằng `len()`, không bằng `wc -m` — Git Bash đếm byte). Quá ngân sách thì **cắt dòng PART 2 và chữ nguyên tắc trước, giữ anchor**.
 - Nguyên tắc phải cùng cỡ nhau: một mục dài gấp đôi sẽ chiếm chú ý của model ở đúng loại cảnh đó.
 - Không nhãn phẩm chất để mô tả cách viết (plain, flat, concrete…): model diễn luôn phẩm chất vào câu văn.
-- **Nguyên tắc ở PART 1 không có dòng CONSTRAINTS đi kèm thì chỉ là gợi ý.** PART 2 là danh sách model tự kiểm tuân thủ, PART 1 là văn mô tả; thiếu dòng ở PART 2 thì nguyên tắc không chặn được gì (một nguyên tắc "likeness belongs to a person" nằm ở PART 1, PART 2 không có dòng nào canh, bản ra vẫn 3 so sánh của người kể — `so-sanh-nguoi-ke` = 3). Khi PART 2 đã đủ 8 dòng, **thay dòng yếu nhất** bằng dòng mới (kèm khuôn thay thế), đừng thêm dòng thứ 9.
+- **Nguyên tắc ở PART 1 không có dòng canh ở PART 2 hay BANS thì chỉ là gợi ý** (một nguyên tắc "likeness belongs to a person", không dòng nào canh, bản ra vẫn 3 so sánh của người kể). Nhưng "thêm một dòng canh" là đường dẫn tới SI 20 dòng PART 2: **mọi dòng mới qua cổng ở template v5 hướng dẫn 6** — do brief/dữ kiện thì sửa brief/glossary; mới gặp một lần thì vào review-blacklist; lặp ở ≥2 lần chạy với brief khác nhau mới thành dòng PART 2, và dòng đó **thay** dòng yếu nhất, ghi vào `log.md`. Các "dòng thêm vào SI" trong mục 6–8, 12–13 dưới đây là ứng viên, cùng phải qua cổng này.
 
 ## 2. Tật AI bắt nguồn từ chính SI
 
@@ -246,7 +249,7 @@ Dấu hiệu phải reset: SI > ~9.000 ký tự; PART 2 vượt 8 dòng; có lu�
 Quy trình reset (một lần, ghi `log.md`):
 
 1. **Chụp lại số đo** của toàn bộ bản cũ (`soat_van.py --json`) làm mốc, kèm độ dài SI/prompt từng đời.
-2. **Viết SI lõi từ đầu**, không sửa tiếp bản cũ: ROLE + FIXED CONVENTIONS + 4 nguyên tắc (mỗi cái 1 anchor) + 4–5 CONSTRAINTS + PART 3. Mục tiêu ~4.100 ký tự. Bỏ mọi con số đếm khỏi luật; bỏ khối xưng hô (về `bible/glossary.md`), bỏ ví dụ câu (về prompt), bỏ luật sinh ra để chữa một bản.
+2. **Viết SI lõi từ đầu theo `writer/SI-template` v5**, không sửa tiếp bản cũ: giữ nguyên tắc mang giọng thể loại (lời kể, người kể) và anchor của chúng, cắt phần vá. Trần ≤ 8.000 ký tự; SI lõi 4.100 ký tự đã chạy được. Bỏ mọi con số đếm khỏi luật (trừ độ dài câu); bỏ khối xưng hô (về `bible/glossary.md`), bỏ ví dụ câu (về prompt), bỏ luật sinh ra để chữa một bản. Ghi từng dòng bị bỏ đi đâu (vd. `ky-kham-lanh-chua/gemini/test/test-gemini-moi/si-v13-ghi-chu.md`). Cắt nhầm phần giọng là hỏng kiểu khác: SI "tinh gọn" của test-gemini-moi bỏ nguyên tắc người kể của v9, giữ luật đếm cỡ đoạn — giọng sổ kép mất ở cả 5 đoạn.
 3. **Prompt về 150–250 từ** + một khối dữ kiện 4–6 dòng: nhân vật kèm vai (ai đang viết, ai chỉ được nhắc), tuổi/quan hệ, trạng thái canon (ai chết, đã chôn chưa), đơn vị tiền, độ dài khoảng + trần.
 4. **Chạy 1–2 bản và đo lại.** SI lõi 4.100 ký tự đã cho bản 0 phủ định / 0 `实` / 0 nhãn / 0 so sánh người kể ở 1.653 字 — tức phần lớn luật cũ không đóng góp gì; cái thiếu là **dữ kiện**, không phải luật.
 5. **Đóng băng SI lõi làm mốc.** Từ đó mỗi vòng chỉ được: cắt một luật, hoặc đổi một anchor, hoặc thêm dữ kiện vào prompt. Muốn thêm luật thì phải bỏ một luật khác và ghi lý do.

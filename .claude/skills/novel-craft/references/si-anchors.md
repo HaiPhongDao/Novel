@@ -1,6 +1,6 @@
 # Anchor cho SI: tìm sách mẫu, chép nguyên văn, kiểm
 
-Dùng khi SI cần 2–3 đoạn mẫu (anchor) tiếng Trung thật, đúng register. Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
+Dùng khi SI cần 4–5 đoạn mẫu (anchor) tiếng Trung thật, đúng register (`writer/SI-template` v5: 3 lời kể + tối đa 2 khoảnh khắc). Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
 
 ## 1. Chọn sách mẫu
 
@@ -40,7 +40,8 @@ js("(() => { const c = document.querySelector('#content,.content,article') || do
 | Giải thích | chuỗi câu nêu giá/điều khoản | điều khoản bằng số, rồi câu hỏi thật của cấp dưới mở phần giải thích |
 | Chuyển cảnh | dòng `……` | không có mẫu đúng thì **bỏ anchor**, giữ quy ước trong FIXED CONVENTIONS |
 
-- **Tổng 2–3 anchor cho cả SI**, mỗi mục tối đa 1; lấy từ chương khác nhau. Nhiều anchor hơn không dạy thêm kỹ thuật mà chiếm chỗ chú ý của model và tăng nguy cơ bị bắt chước chi tiết.
+- **Tổng 4–5 anchor cho cả SI** (template v5: 3 lời kể + tối đa 2 khoảnh khắc), mỗi mục tối đa 1; lấy từ chương khác nhau. Nhiều anchor hơn không dạy thêm kỹ thuật mà chiếm chỗ chú ý của model và tăng nguy cơ bị bắt chước chi tiết; ít hơn 4 thì model quay về đọc nguyên tắc suông (`si-khung.md`).
+- **Anchor không được trái luật của chính SI.** Anchor payoff của ky-kham-lanh-chua v9 có hai dòng bảng trong ngoặc kép (`“【宿主：…】”`) trong khi PART 4 ghi "no quotes"; anchor thoại gắn thẻ hai lượt liền của một người trong khi luật thẻ cấm. Cắt anchor ở chỗ trước dòng trái luật (vẫn nguyên văn liền mạch), hoặc đổi anchor.
 - **Quét anchor theo đúng tật đang muốn bỏ** trước khi dán. Cùng một script đang dùng cho bản thảo (`tools/soat_van.py`) chạy được trên đoạn mẫu: anchor nào chứa chuỗi phủ định song song, `不是 A 而是 B`, hay so sánh của người kể thì loại — anchor dạy register mạnh hơn chữ nguyên tắc, nên nó cũng dạy luôn tật. Trong cùng chương gần như luôn tìm được cửa sổ sạch.
 - Cách tìm cửa sổ sạch: duyệt các cửa sổ 4–6 đoạn liên tiếp, giữ cửa sổ có đủ ba cỡ đoạn (một đoạn ≤25 字 và một đoạn ≥90 字) và **0 hit** của các mẫu tật; in ra rồi chọn bằng mắt, đừng cắt tay từng đoạn.
 - **Kiểm MC của sách mẫu có làm đúng thứ truyện mình cấm không.** Sách có MC kỹ sư tự rèn, tự giảng kỹ thuật sẽ dạy Writer đúng cái mình cấm. Nếu vẫn dùng: chỉ lấy phần nhịp/số/báo cáo/cách hỏi, và ghi cảnh báo vào `gemini/de-xuat-si.md` kèm chỉ dẫn "bản thử mà Writer bắt chước tật làm tay thì bỏ anchor nào trước".
