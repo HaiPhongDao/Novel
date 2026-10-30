@@ -12,6 +12,7 @@
 | T8 | Lái buôn muối mua quyền đặt tên khán đài | 004 | arc 2: hắn đòi lãi, hoặc bán lại cho quận | chưa cài |
 | T9 | Sườn của Grik gãy hai xương | 003 | 005: lành, nhưng đánh kém hơn | mở |
 | T10 | Khẩu phần cắt 1 斤 → 0,6 斤 | 002 | 004: mua lương bằng tiền phiên 2 | mở |
+| T12 | Voss đề nghị cầm cố địa khế lấy 60 vàng, xóa nửa nợ | 002 | arc 2: quận dùng địa khế để siết đất | mở |
 | T11 | 12 kỵ binh của quận đóng ở xóm ngoài | 001–002 | 006: dùng để chặn đường muối | mở |
 
 ## Rà soát mỗi 5 đoạn

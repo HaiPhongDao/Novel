@@ -8,7 +8,7 @@ Voss đọc khế nợ 120 vàng trước cổng 斗兽场, hạn 40 ngày; Grik
 **Dừng:** cổng mở, Grik bước ra cát, Bram gõ gậy xuống đất.
 
 ## 002 — "Ba trăm cái đầu" (ngày 0 tối → ngày 3)
-Ngày hội 1 dưới mưa: 310 vé, quỹ cược 12 vàng. Con trai người đánh xe ăn tiền dàn xếp, thua Grik; khán giả ném cà chua, đòi tiền lại; một đấu sĩ gãy tay trong lúc dẹp loạn. Aldric đến thu 穷人捐 và ra điều kiện: phiên sau chỉ đánh đến nhận thua, cấm đấu thú. Sabine cắt khẩu phần xuống 0,6 斤. Voss cười, đề nghị mua đấu trường 60 vàng.
+Ngày hội 1 dưới mưa: 310 vé, quỹ cược 12 vàng. Con trai người đánh xe ăn tiền dàn xếp, thua Grik; khán giả ném cà chua, đòi tiền lại; một đấu sĩ gãy tay trong lúc dẹp loạn. Aldric đến thu 穷人捐 và ra điều kiện: phiên sau chỉ đánh đến nhận thua, cấm đấu thú. Sabine cắt khẩu phần xuống 0,6 斤. Voss cười, đề nghị Orin đem địa khế cầm cố cho 治安所 lấy 60 vàng và xóa nửa nợ.
 **Đổi:** từ "một phiên đấu có lãi" → "một phiên đấu mất uy tín, quỹ gần như đứng yên"; Orin mất quyền chọn đấu sĩ dễ.
 **Dừng:** Orin ghi phiên 2 lên bảng — Grik 对 Bram; Bram ném huy hiệu vô địch lên bảng.
 

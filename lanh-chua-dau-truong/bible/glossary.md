@@ -47,6 +47,10 @@ Tên phụ chỉ đặt khi cần: đấu sĩ trong danh sách Bram gọi bằng
 | 黑鹰印 | ấn chim ưng đen của bá tước 灰角郡, đóng trên khế nợ và văn thư |
 | 火漆印 | con dấu sáp đỏ, dùng kèm ấn của 执事 |
 | 郡律 | luật của quận 灰角郡 |
+| 角斗士 | đấu sĩ chuyên nghiệp của đấu trường (cách gọi trang trọng; 打手 là cách gọi dân dã) |
+| 治安所 | sở tuần phòng của quận 灰角郡, do Voss cầm đầu |
+| 主教 | giám mục, cấp trên của 执事 Aldric |
+| 教区 | giáo xứ của 圣堂, nơi giữ sổ tên người |
 ## 4. Tiền và giá
 
 - **1 金币 = 20 银币 = 400 铜币.**

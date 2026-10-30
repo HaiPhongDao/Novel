@@ -13,3 +13,4 @@
 - `soat_van.py` từng anchor: 0 phủ định lặp, 0 so sánh người kể, 0 nhãn ngữ điệu, 0 khuôn 实, 0 từ hiện đại.
 - Phần dán 8.478 → **7.887** ký tự sau khi cắt anchor 1/3/4 và 6 câu luật không cần.
 2026-10-31 | doan-001 | Chốt đoạn 001 "Tờ khế trên cổng" (3.239 字, AI Studio 194s) | Vượt cửa sổ brief 30% (Writer tự nhẩm 2.200–2.400); giữ bản sau khi cắt khối tính sổ lặp; sửa 8 chỗ (số học 28 银, chuỗi tiền 5 vàng 2 银, tay trái Bram, 4 nhãn ngữ điệu, 3 từ hiện đại, 郡律/男爵大人) | Duyệt: Agent
+2026-10-31 | doan-002 | Chốt đoạn 002 "Ba trăm cái đầu" (2.251 字, AI Studio 187s) | Đúng cửa sổ brief; sửa 8 chỗ (公国→王国, 收益→赏金, 3 nhãn ngữ điệu, 六合→六成, 鹰首→獠牙, bỏ hoàn vé để khớp 账上, bỏ "赔退票款", thêm 4 từ glossary); nhận đề nghị cầm cố địa khế của Voss làm canon (T12) | Duyệt: Agent

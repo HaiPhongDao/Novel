@@ -37,3 +37,11 @@
 - Bảng 【斗兽账房】 hiện lần đầu ngay sau khi Grik được thả; in 5 dòng; chỉ Orin thấy.
 - Từ mới của Writer (đã vào glossary): 判斗节, 黑鹰印, 火漆印, 郡律.
 - Bram cụt hai ngón tay **trái**; mắt trái mù.
+
+## Đoạn 002 — bổ sung canon
+- Khẩu phần từ ngày 4: **0,6 斤/người/ngày** (660 斤/ngày cho 1.100 người).
+- Đấu sĩ cũ bị gãy tay trái khi giữ cổng, nghỉ đấu; danh sách còn 5 người cũ + Grik.
+- Aldric: 穷人捐 = 1/10 **赏金**; điều kiện cấp ấn: chỉ đến nhận thua/chảy máu đầu tiên, cấm đấu thú, ghi tên từng đấu sĩ vào 教区名册.
+- Voss (canon mới, thay đề nghị "mua đấu trường"): cầm cố địa khế lấy 60 vàng + xóa nửa nợ; Orin từ chối. Ghi T12.
+- Bram: huy hiệu vô địch là **獠牙圆徽** (không phải chim ưng), đã đặt lên bảng để nhận trận Grik.
+- 名声 của đấu trường: **臭** (một vụ dàn xếp đủ phá uy tín).
