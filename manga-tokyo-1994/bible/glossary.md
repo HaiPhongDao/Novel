@@ -32,6 +32,7 @@
 | Cắt truyện | `腰斩` | Cách toà soạn vẫn làm: ba tuần liền trong ba hạng cuối thì `连载会议` đưa ra bàn; không có văn bản nào quy định |
 | Truyện ngắn một kỳ | `读切` | Đăng một lần; nằm trong top 3 `顺位` của số đó thì được đưa vào `连载会议` xét `连载` — đây là điều lệ tạp chí tự công bố |
 | Truyện dài kỳ nhiều kỳ | `连载` | |
+| Trang giới thiệu số tới | \予告\ | Trang cuối mỗi số giới thiệu nội dung số sau |
 | Giấy cam kết điều kiện | `覚書` | Tờ giấy `编辑长` đưa ra kèm điều kiện; ký là nhận điều kiện |
 | Bản nháp phân cảnh | `分镜稿` / `NAME` | Bản thảo phân cảnh do tác giả trình `担当编辑` duyệt trước khi vẽ |
 | Nộp bản thảo cho nhà in | `入稿` | Hạn `入稿` của một số tuần san trước ngày phát hành khoảng mười ngày |

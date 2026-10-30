@@ -17,3 +17,11 @@ lên trình. `Ogata` đọc sáu phút, đánh đỏ bốn trang luật (12–15
 trượt thì rút luôn dòng `连载预告` của số 30. `Sakaki Ryou` ghé cửa, khen rồi hạ bằng thành tích `《白鲸》`. `Kaori`
 cãi bằng số (留存率 giảm 4,2%, 完读率 81%, 及格线 120 phiếu), bị `Ogata` gạt đi, và khi Souta vừa mở miệng thì cô
 nhận thay — "明晚九点前，修改稿会准时送达。" Đoạn dừng ở bàn tay `Ogata` vẫn giữ bút đỏ trên trang thứ tư.
+### Đoạn 3 — Một chỗ ở số thứ ba mươi (20/5 21:10 → 23/5 chiều, 2.136 字)
+20/5 21:10, Souta đưa bản sửa ở hành lang: bốn trang luật `借命` ép còn nửa trang, thêm một trang mở đầu mới — lồng
+sắt trong bến tàu bỏ hoang, hai tay đấm quấn vải, đám con bạc cầm tiền. `Kaori` đọc tám phút, chỉ nói "稿子我收下了"
+và hẹn 23/5. Ngày 23/5, `连载会议` họp bảy người; Souta ngồi ngoài cửa kính, chỉ nghe lọt "连载腰斩". 15:45 cửa mở,
+`Kaori` mang ra签批单: bốn phiếu thuận ba phiếu chống, `4.800日元`/`枚` × 45 = `21万6.000`, không trang màu, `入稿`
+12:00 ngày 14/6, và luật `顺位` phải vào top 3 của số 30 mới được đưa vào `连载会议` tháng 10. `Ogata` nói thêm:
+`Mochizuki` đã sang tiệm bento ở `高田马场` rán croquette, nên 45 trang ấy Souta phải tự vẽ một mình. Tờ `予告` của
+số 30 đã in tên `《借命》`; `Kaori` nói "名字已经撤不下来了". Đoạn dừng ở bàn tay anh cầm签批单, tính ra 21 ngày.

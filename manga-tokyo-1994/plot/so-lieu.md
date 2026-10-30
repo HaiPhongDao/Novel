@@ -54,3 +54,8 @@ Mọi con số trong brief chép từ đây. Phép tính ghi rõ; số dẫn xu�
 - Hạn sửa: `21:00 ngày 20/5`. Hạn `入稿` kỳ cuối `《拳骨》`: `24/5`. Hạn `入稿` `读切` số `第30号`: `14/6`; số báo phát
   hành `24/6`; `顺位` của số đó in ở số `第34号` (giữa tháng 7).
 - `连载会议`: 15:00 ngày `23/5`, phòng họp cuối hành lang tầng ba.
+## Số của đoạn 003 (đã lên trang)
+
+`4.800日元`/`枚` × 45 = `21万6.000日元` (trả sau khi số 30 phát hành) · `入稿` 12:00 ngày `14/6` · phát hành `24/6` ·
+`连载会议` 7 người, `4–3` · `顺位` số 30 in ở số 34 (giữa tháng 7) · từ `24/5` tới `14/6` = `21 ngày` (31−24+14−? kiểm:
+24/5→31/5 = 7 ngày, +14 = 21 ✓).
