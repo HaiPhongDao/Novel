@@ -1,4 +1,4 @@
-# Novel — xưởng viết truyện mạng
+﻿# Novel — xưởng viết truyện mạng
 
 Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gemini) viết chính văn tiếng Trung theo từng **đoạn** (~2000 字); Tác giả quyết. Luật làm việc: [`AGENT.md`](AGENT.md).
 

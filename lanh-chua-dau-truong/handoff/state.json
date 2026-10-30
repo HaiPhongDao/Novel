@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "last_chapter": 0,
+  "story": "西幻领主 / 竞技经营：锈环镇，埃斯特兰王国南境；人名一律写罗马字（Orin、Bram、Grik、Sabine、Voss、Aldric），地名、头衔、术语写汉字"
+ },
+ "scene_bridge": {
+  "time": "秋分前第40天，清晨",
+  "where": "锈环斗兽场北门外的沙地",
+  "present": "Orin 站在沙地边；Voss 带 12 名骑兵在门外；Bram 站在木栏旁；Grik 被铁链拴在栏柱下",
+  "last_beat": "",
+  "pending": "Voss 宣读 120 金币的债契，Grik 在抵押物清单第七项，明日押往灰角城发卖"
+ },
+ "timeline": {
+  "relative_time": "秋分前 40 天；斗兽场三年未办赛，特许状随时可能作废",
+  "chapter_log": []
+ },
+ "already_told": [],
+ "ledger": [
+  {
+   "item": "债契",
+   "value": "120 金币（100 本金 + 20 利息），秋分到期，债权人：灰角郡伯爵 Gremont",
+   "as_of": 0
+  },
+  {
+   "item": "金库",
+   "value": "4 金币 12 银",
+   "as_of": 0
+  },
+  {
+   "item": "粮仓",
+   "value": "黑麦面粉 12,000 斤，每人每日 1 斤，1,100 人可撑 11 天",
+   "as_of": 0
+  },
+  {
+   "item": "斗兽场",
+   "value": "3,000 席，可售 900 席；三座外门坍塌；北半场积水",
+   "as_of": 0
+  },
+  {
+   "item": "斗兽账房",
+   "value": "未激活（尚未张贴任何场次）；仅 Orin 可见",
+   "as_of": 0
+  }
+ ],
+ "named_entities": [
+  {
+   "name": "判斗",
+   "category": "law",
+   "status": "需执事印章，限于节庆日，默认打到认输或见血"
+  },
+  {
+   "name": "特许状",
+   "category": "law",
+   "status": "每年四个赛日；赛日收入归领地；秋分前不办赛则作废"
+  }
+ ]
+}
