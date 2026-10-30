@@ -82,3 +82,15 @@ Kết quả trên một SI 7 anchor: **chỉ 1 anchor dạy thoại thật** —
 Hệ quả: nếu cảnh cần lượt **25–35 字 mang một con số và một điều kiện** (mặc cả, xin việc, báo giá) thì SI **không có mẫu nào** cho hình dạng đó — model chỉ có mẫu lượt ngắn, nên lượt ngắn ra đúng kiểu "rỗng" dù prompt đầy dữ kiện. Mẫu có sẵn (đo trên `mau-tham-khao.txt`): chương 粮食交易 4 lượt · trung vị 26,5 字; chương có biến cố 33 lượt · trung vị 28 · 14 thẻ; chương chào hỏi xã giao 22 lượt · trung vị 12 (dùng để so, không dùng làm mẫu cho cảnh mặc cả).
 
 Hai cách chữa, chọn theo ngân sách: (a) **amend hai câu luật có sẵn** — câu hỏi của MC mang dữ kiện hắn đã có + con số hắn nghi; câu từ chối gọi tên người trước mặt kèm lý do/con số; thêm một dòng "giữa hai lượt, một dòng người nghe *quyết* gì"; (b) **thêm một anchor thật** cắt từ chương mặc cả của mẫu — đắt hơn: SI đang 17,6k ký tự, thêm anchor là +800 và bài học cũ là SI phình thì văn tụt (xem `si-cau-truc.md` mục 10). Ghi rõ chọn cách nào và vì sao vào `log.md` trước khi chạy lại.
+
+## 8. Nội dung anchor cũng dạy thể loại, không chỉ dạy nhịp
+
+Anchor chép từ một chương nói về **tác phẩm tiểu chúng** sẽ kéo truyện về hướng đó: SI của làn manga dùng anchor chương
+3 của bộ mẫu — đoạn tranh luận về 《未麻的部屋》, một phim tâm lý — và bản mở truyện đầu tiên ra đúng một truyện ngắn
+tâm lý/trinh thám, trái đơn đặt hàng "tránh tiểu chúng". `soat_van.py` không bắt được lỗi này vì nó chỉ đếm tật câu.
+
+- Trước khi dán anchor, đọc **nội dung** cửa sổ: nó nói về tác phẩm gì, thể loại gì, có tên tác phẩm lạ không. Truyện
+  cần mainstream thì chọn cửa sổ nói về `读者调查表`, `顺位`, `稿费`, `截稿` — bộ mẫu nào cũng có.
+- Né cửa sổ có tên tác phẩm thật hoặc tên nhân vật đặc trưng của bộ mẫu; nếu buộc phải dùng, cắt trước dòng có tên.
+- Một SI dựng lại cho truyện cùng làn nhưng khác đơn đặt hàng thì **đổi chương lấy anchor** (5 anchor của truyện trước
+  lấy chương 1–5 thì truyện mới lấy 11, 16, 27, 93), giữ nguyên kỹ thuật của từng slot.

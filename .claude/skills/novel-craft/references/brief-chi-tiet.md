@@ -40,3 +40,22 @@ Cùng SI, cùng khung ba dòng của Tác giả, chỉ đổi phần dữ kiện
 - Cái giá: dài hơn (+55% so với "khoảng 2000 chữ") và Writer tự đặt thêm chi tiết (nghề kiếp trước, giá đồ, chuyện
   cũ) — soát canon kỹ hơn, sửa tay những chỗ đụng bible.
 - Đo nhanh độ "checklist": tách đoạn văn kể (không có “), đếm tỷ lệ đoạn có con số và số đoạn ≥40 字.
+
+## Tác phẩm trong truyện: cấp thể loại bằng hình, không bằng nhãn
+
+Truyện có nhân vật làm nghệ thuật (manga, phim, tiểu thuyết trong truyện) thì brief **phải nói thể loại của tác phẩm
+đó**, nhưng cách nói quyết định bản ra:
+
+| Cách ghi trong brief | Bản ra | Hậu quả |
+|---|---|---|
+| Không ghi thể loại | Writer tự đặt nhãn: `奇幻悬疑分类` (002-a), `悬疑动作` (003-a) | Nhãn trôi khỏi ý Tác giả (yêu cầu "tránh trinh thám") và cả lập luận của cảnh dựng trên nhãn đó |
+| Ghi bằng câu phủ định ("không phải truyện trinh thám") | Writer chép nguyên vế phủ định vào văn: `不是坐在事务所里拆解信件的悬疑故事` (003-b) | Câu dặn của Agent thành câu văn của người kể — đúng lỗi KN22 |
+| Ghi khẳng định + cấp **hình ảnh** của thể loại | `那是一座设在废弃船坞里的八角铁笼，地面上泼洒着发黑的血迹。` (003-c) | Người đọc thấy thể loại qua cảnh, không ai phải nói tên nó |
+
+Đo được trong một truyện (cùng SI, cùng cửa sổ độ dài): thêm đúng một câu khẳng định ("`《借命》` là battle manga võ đài
+đường phố") vào brief 002 → bản ra gọi đúng thể loại, `字/câu` 28,0 → 22,0, hình thức sạch; và ở 003, bản có hình ảnh
+thay cho nhãn ra 0 so sánh của người kể trong khi hai bản kia mỗi bản 2.
+
+**Dữ kiện canon đã chốt cũng phải nằm trong brief, không chỉ trong bible**: 003-b viết `你原来的那两位助手` trong khi
+canon chỉ có một `Mochizuki` và cậu đã đi tiệm bento — Writer tự nhân đôi số người và đổi chỗ đến. Brief ghi "không còn
+`助手` nào, `Mochizuki` đã đi tiệm bento ở X" thì bản sau mới đúng.
