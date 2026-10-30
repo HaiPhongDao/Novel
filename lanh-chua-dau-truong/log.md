@@ -12,4 +12,4 @@
 - `verify_anchors.py`: 5/5 anchor khớp nguyên văn nguồn.
 - `soat_van.py` từng anchor: 0 phủ định lặp, 0 so sánh người kể, 0 nhãn ngữ điệu, 0 khuôn 实, 0 từ hiện đại.
 - Phần dán 8.478 → **7.887** ký tự sau khi cắt anchor 1/3/4 và 6 câu luật không cần.
-2026-10-31 | doan-001 | Chốt đoạn 001 "Tờ khế trên cổng" (3.239 字, AI Studio 194s) | Vượt cửa sổ brief 30% (Writer tự nhẩm 2.200–2.400); giữ bản sau khi cắt khối tính sổ lặp; sửa 8 chỗ (số học 28 银, chuỗi tiền 5 和ng 2 银, tay trái Bram, 4 nhãn ngữ điệu, 3 từ hiện đại, 郡律/男爵大人) | Duyệt: Agent
+2026-10-31 | doan-001 | Chốt đoạn 001 "Tờ khế trên cổng" (3.239 字, AI Studio 194s) | Vượt cửa sổ brief 30% (Writer tự nhẩm 2.200–2.400); giữ bản sau khi cắt khối tính sổ lặp; sửa 8 chỗ (số học 28 银, chuỗi tiền 5 vàng 2 银, tay trái Bram, 4 nhãn ngữ điệu, 3 từ hiện đại, 郡律/男爵大人) | Duyệt: Agent
