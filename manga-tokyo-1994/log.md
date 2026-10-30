@@ -1,5 +1,15 @@
 # Decision Log — manga-tokyo-1994
 
+## Hợp đồng lượt 31/10 (Tác giả: 'Mở truyện từ đầu, dựng SI v5, chạy và chốt trọn vòng 3 đoạn đầu 001 → 003')
+
+| Ô | Nội dung |
+|---|---|
+| Kết quả | Truyện mới manga-tokyo-1994 có bible + SI v5 + 3 đoạn đã chốt và push, nối liền nhau |
+| Kiểm chứng | mỗi đoạn: soat_brief XANH + cong_doan xanh + review bằng đọc + git rev-list --count HEAD ^origin/<branch> = 0 |
+| Không được đổi | bible, dàn ý, SI, glossary sau khi đã chốt đoạn trước (chỉ thêm dữ kiện Writer vừa đặt) |
+| Phạm vi | manga-tokyo-1994/ + README.md gốc + log.md; tài liệu chung commit riêng |
+| Dừng và hỏi khi | cần đổi canon/trục; một đoạn viết lại quá 2 lần; hết quota mọi acc |
+
 2026-10-31 | khoi-dong | Mở truyện mới `manga-tokyo-1994` trên nhánh `thu-v5-manga-tokyo-1998` theo đơn của Tác giả (xuyên qua · kiếp trước MC thuần người Nhật · ngành manga · tránh loại tiểu chúng như trinh thám). Chọn Phương án A trong `archive/phuong-an-tien-de.md`: bối cảnh tháng 5/1994, nhà xuất bản hư cấu `青葉出版` + tuần san hư cấu `《周刊少年疾风》`, MC là hoạ sĩ bị `腰斩`, trục "sống sót bằng độ phổ cập" | Lý do: khác trục `manga-tokyo-1998` (vào nghề bằng giải thưởng), và biến chỉ dẫn "tránh tiểu chúng" thành xung đột nội tại: `编辑长` Ogata đòi loại truyện để đoạt giải, Souta đưa battle manga đại chúng, độc giả bỏ phiếu | Duyệt: Tác giả (đơn đặt hàng), Agent (phương án)
 2026-10-31 | do-mau | Dùng lại số đo bộ mẫu `我在泡沫东京画漫画.txt` đã đo cho `manga-tokyo-1998` (214 chương, 2.045 字/chương trung bình, trời kể 80,1%, câu kể 22,0 字, thẻ thoại 0,10/lượt) vì cùng bộ mẫu, cùng làn | Lý do: đo lại không đổi kết quả; tiết kiệm một vòng | Duyệt: Agent
 2026-10-31 | bible | Dựng bible: overview (hợp đồng độc giả, quỹ kết cục, rủi ro), glossary (bảng thể chế + đơn vị theo KN34), characters (5 người, trần tên cho 3 đoạn đầu), world (luật cứng + hợp đồng bàn tay vàng KN10), plot (arcs, outline 001–003, so-lieu, threads) | Lý do: AGENT.md mục 11 | Duyệt: Agent
