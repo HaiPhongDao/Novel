@@ -30,3 +30,10 @@
 
 ## Giọng
 - Người kể đứng về phía Orin, châm một câu mỗi đoạn; câu 22–30 chữ; số phải có đơn vị.
+
+## Đoạn 001 — bổ sung canon
+- Grik được mua đứt với giá 1 和ng, không còn là vật thế chấp; Orin tuyên bố nó là "đấu sĩ ăn lúa của đấu trường".
+- Gươm nghi lễ của cha Orin: bán cho Voss 1 和ng 10 银 (Voss mặc cả từ 1 和ng 4 银).
+- Bảng 【斗兽账房】 hiện lần đầu ngay sau khi Grik được thả; in 5 dòng; chỉ Orin thấy.
+- Từ mới của Writer (đã vào glossary): 判斗节, 黑鹰印, 火漆印, 郡律.
+- Bram cụt hai ngón tay **trái**; mắt trái mù.

@@ -2,4 +2,4 @@
 
 | Phiên | Ngày | SI | Model | Đoạn | Ghi chú |
 |---|---|---|---|---|---|
-| (chưa có) | — | `gemini/system-instruction-v1.md` | Gemini 3.8 Flash (AI Studio) | — | — |
+| 1 | 2026-10-31 | `gemini/system-instruction-v1.md` | Gemini 3.8 Flash, thinking High (AI Studio) | 001 | 194s, 3.239 字 |

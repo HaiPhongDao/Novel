@@ -31,6 +31,7 @@ Tên phụ chỉ đặt khi cần: đấu sĩ trong danh sách Bram gọi bằng
 
 | Viết trong văn | Nghĩa |
 |---|---|
+| 判斗节 | ngày hội đấu (Writer đặt trong đoạn 001; dùng thay 判斗 khi nói về cả ngày hội) |
 | 判斗 | trận đấu pháp đình: đấu công khai hợp pháp trong ngày hội, cần ấn của 执事; mặc định đánh đến **nhận thua hoặc chảy máu đầu tiên**, muốn đánh đến chết phải có giấy cam kết của cả hai bên |
 | 特许状 | đặc quyền của lãnh địa: 4 ngày hội đấu/năm, giữ tiền vé và 1/10 quỹ cược; mất nếu trước 秋分 không tổ chức ngày hội nào |
 | 秋分 | ngày thu phân, hạn khế nợ và hạn đặc quyền |
@@ -43,6 +44,9 @@ Tên phụ chỉ đặt khi cần: đấu sĩ trong danh sách Bram gọi bằng
 | 圣堂 | nhà thờ của thị trấn |
 | 斤 | đơn vị khối lượng; 1 người ăn 1 斤/ngày |
 
+| 黑鹰印 | ấn chim ưng đen của bá tước 灰角郡, đóng trên khế nợ và văn thư |
+| 火漆印 | con dấu sáp đỏ, dùng kèm ấn của 执事 |
+| 郡律 | luật của quận 灰角郡 |
 ## 4. Tiền và giá
 
 - **1 金币 = 20 银币 = 400 铜币.**
