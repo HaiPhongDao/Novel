@@ -45,3 +45,11 @@
 - Voss (canon mới, thay đề nghị "mua đấu trường"): cầm cố địa khế lấy 60 vàng + xóa nửa nợ; Orin từ chối. Ghi T12.
 - Bram: huy hiệu vô địch là **獠牙圆徽** (không phải chim ưng), đã đặt lên bảng để nhận trận Grik.
 - 名声 của đấu trường: **臭** (một vụ dàn xếp đủ phá uy tín).
+
+## Đoạn 003 — bổ sung canon
+- Grik mài ba viên sỏi trong 7 ngày chờ; một viên dùng để hạ Bram; hai viên còn lại.
+- Bram: đầu gối trái bị phá, không đánh được nữa; chuyển sang giữ cổng/trông nom.
+- Grik vào 教区名册: giết hắn phải đền 2 vàng cho 圣堂; hai xương sườn gãy, cần dưỡng.
+- 名声 của đấu trường: **响**; 账上 **10 vàng 8 银**; kho **4.080 斤** (6 ngày).
+- Voss mang hợp đồng 秋分赛: trợ cấp 60 vàng, quận lấy nửa vé, quán quân quận vào thẳng chung kết; Orin **chưa ký** (đoạn 004 mở bằng quyết định).
+- Bảng có dòng 下一场: Grik 对 quán quân 灰角郡 9%/91%.

@@ -12,6 +12,7 @@
 |---|---|---|---|---|---|
 | 001 | `briefs/doan-001.md` | `chapters/doan-001.md` | 3.239 字 | `reviews/doan-001.md` | ✅ ĐẠT (sửa nhẹ 8 chỗ) |
 | 002 | `briefs/doan-002.md` | `chapters/doan-002.md` | 2.251 字 | `reviews/doan-002.md` | ✅ ĐẠT (sửa nhẹ 8 chỗ) |
+| 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | 1.835 字 | `reviews/doan-003.md` | ✅ ĐẠT (sửa nhẹ 5 chỗ; −12% độ dài) |
 
 ## Khác truyện cùng thể loại trong repo
 

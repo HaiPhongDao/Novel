@@ -29,3 +29,15 @@ Chưa có đoạn nào được duyệt. Sau khi chốt đoạn 001, chép vào 
 
 **Câu chốt**
 > Bram 伸出断了二指的左手，将那枚沉重的铜质徽章摘下，用力按向挂着羊皮名册的糙木板正中。
+
+**Mở bằng vật, nối đúng khoảnh khắc trước**
+> Orin 看着那枚压在羊皮纸上的生锈獠牙徽章，指尖悬在木板边缘没有落下。
+
+**Chuẩn bị được cài trước, không phải deus ex machina**
+> Grik 缩在排水沟旁，用磨石反复打磨三枚鹅卵石，直到石面没有棱角。
+
+**Trận đấu quyết bằng một thứ nhìn thấy được**
+> 一枚磨圆的鹅卵石脱手飞出，在沙层上方掠出灰线，直奔老兵受力的左膝。
+
+**Câu trả nợ một người vừa thua**
+> “去把膝盖骨正过来，大门少不了你看。”

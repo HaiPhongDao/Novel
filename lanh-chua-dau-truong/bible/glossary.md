@@ -51,6 +51,8 @@ Tên phụ chỉ đặt khi cần: đấu sĩ trong danh sách Bram gọi bằng
 | 治安所 | sở tuần phòng của quận 灰角郡, do Voss cầm đầu |
 | 主教 | giám mục, cấp trên của 执事 Aldric |
 | 教区 | giáo xứ của 圣堂, nơi giữ sổ tên người |
+| 秋分赛 | giải đấu mùa thu do quận 灰角郡 tổ chức tại sân của lãnh địa, có trợ cấp và quán quân quận vào thẳng chung kết |
+| 真实胜率 | tỷ lệ thắng thật, dòng do 斗兽账房 in ra, chỉ Orin thấy |
 ## 4. Tiền và giá
 
 - **1 金币 = 20 银币 = 400 铜币.**
