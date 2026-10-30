@@ -10,8 +10,7 @@ Vai trò, phân quyền và cấu trúc thư mục nằm trong `AGENT.md` của 
 ghi **cách làm**: thứ tự việc, lệnh chạy được, và những bẫy đã trả giá. Mỗi luật ở đây là một câu + lý do ngắn;
 số đo và câu chuyện đằng sau nằm trong `references/` (bản đồ ở cuối).
 
-Skill này do Agent tự bảo trì (mục 9). Nguồn gốc: bài học Hermes Agent tích luỹ trong `novel-craft` 1.7
-(209 lần vá), đã lọc lại theo luật viết bài học của Hermes.
+Skill này do Agent tự bảo trì (mục 9); bài học tích luỹ từ `novel-craft` 1.7 (209 lần vá).
 
 ## Khi nào dùng
 
@@ -62,10 +61,10 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
   dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
 - **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,
   để Writer tự đặt tên vật. Gạch đầu dòng cụt và chữ rút gọn được dịch thành từ lạ: "phủ" → 官邸 dùng như bộ máy,
-  máy dịch ra "biệt thự định giá". Glossary phải có từ cho cả nơi ở lẫn bộ máy cai trị.
+  máy dịch ra "biệt thự định giá". Glossary phải có từ cho cả nơi ở, bộ máy cai trị, **đơn vị đo và thể chế** — thiếu thì Writer lấy 六合/磅, 公国/行省 của Tàu (KN34).
 - **Không dặn "đáp bằng phép tính"** — Writer ném nguyên bài toán vào văn; đưa con số như sự thật của cảnh.
 - **Khối nối tiếp do gói cấp** (`build_pack.py` dán đuôi đoạn trước; truyện cũ dùng `noi_doan.py`): 7–10 dòng cuối (~150–200 字) của bản **đã duyệt** (`python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`),
-  câu "viết tiếp từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Thiếu khối này thì 5/5 mối nối đứt.
+  câu "viết tiếp từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Chép khối này bằng script, không gõ lại tay — gõ lại làm lệch nguyên văn, Writer nối lệch. Thiếu khối này thì 5/5 mối nối đứt.
 - **Không câu tiếng Trung nào trong brief** ngoài tên riêng/thuật ngữ ngắn — Writer chép nguyên làm mở đoạn, mọi điểm thành điểm giả.
 - **Không đánh số beat, không giao nội dung từng lượt thoại** — giọng chết ở prompt. Số lượt và độ dày thoại do phạm vi
   thời gian + số người có mặt quyết; muốn thoại dày thì mở phạm vi, thêm người.
@@ -155,8 +154,7 @@ Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
 - Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
   (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
 - Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
-- **Dấu hiệu đếm được dày trong mẫu chưa chắc là luật cả đoạn**: nó có thể chỉ dồn ở một loại cảnh (thoại kịch bản
-  `X：“…”` chỉ ở cảnh cãi nhanh). Trước khi nâng thành nguyên tắc + anchor, xem nó nằm ở cảnh nào và hỏi Tác giả.
+- **Dấu hiệu đếm được dày trong mẫu có thể chỉ dồn ở một loại cảnh** — xem nó ở đâu trước khi nâng thành luật (`references/si-cau-truc.md`).
 - **Danh sách ví dụ trợ từ (呢, 吧…) trong luật thoại bị Writer nhồi vào mọi lượt**; bỏ một chữ khỏi danh sách không đủ — phải có hạn mức (phần lớn lượt không trợ từ, 呢 ≤2/đoạn). Luật thẻ thoại, thước chủ ngữ, số đo: `references/si-cau-truc.md` mục 12–13.
 - Không bịa anchor; kiểm bằng `scripts/verify_anchors.py` — `references/si-anchors.md`.
 - Nghi SI "không làm việc" → test trên cảnh mẫu có đáp án, hai cảnh khác loại — `references/si-test-tren-mau.md`.
@@ -177,12 +175,9 @@ Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references
 - **Dàn ý sau đoạn mở cũng bám từng chương bộ mẫu**: mỗi đoạn một màn phô diễn → người chứng kiến hiểu sai theo cách
   nghĩ của họ → MC thắng thấy rõ, một con số lớn. Đoạn chỉ có mua bán, ký kết, đếm sổ thì Tác giả đọc ra "bình bình,
   một đống thiết lập" dù văn sạch; luật bible chặn công nghệ đi nhanh là nguyên nhân gốc — chặn bằng giá, đừng chặn bằng nhịp.
-- **Đoạn mở lane xuyên việt: chép thứ tự của chương 1 bộ mẫu, không dựng cảnh tỉnh dậy.** 骑砍 mẫu mở nửa năm sau khi
-  xuyên qua: nơi chốn → đã bao lâu → bảng cho làm được gì → một nhận định được/mất kiểu kể chuyện cười → số liệu thế
-  giới → cảnh đang chạy. Bắt mở lúc tỉnh dậy + cho phản ứng nhịp riêng thì Tác giả đọc ra "cố làm ra vẻ, chỉ đúng 1
-  câu" (vòng SI 3–4); đưa nghề kiếp trước vào prompt thì Writer nhắc lại 2–8 lần mỗi bản. Prompt chạy được: hướng D3
-  ở `ky-kham-lanh-chua/gemini/test/vong-si-6/` (cả 3 hướng Tác giả chấm Đạt). Đọc nguyên chương 1 bộ mẫu trước khi soạn
-  prompt đoạn mở.
+- **Đoạn mở lane xuyên việt: chép thứ tự của chương 1 bộ mẫu, không dựng cảnh tỉnh dậy** (骑砍: nơi chốn → bao
+  lâu → bảng → một nhận định tự giễu → số liệu → cảnh đang chạy). Đưa nghề kiếp trước vào prompt thì Writer nhắc lại
+  2–8 lần/bản. Thứ tự đầy đủ + prompt chạy được: `references/mo-truyen-va-the-loai.md`.
 
 Chi tiết: `references/mo-truyen-va-the-loai.md`, `references/mo-truyen-moi.md`, `references/sang-van.md`.
 
