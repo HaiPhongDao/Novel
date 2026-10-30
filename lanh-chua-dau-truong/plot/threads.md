@@ -1,4 +1,4 @@
-﻿# Threads — tuyến mở, cài cắm ↔ payoff
+# Threads — tuyến mở, cài cắm ↔ payoff
 
 | ID | Tuyến / chi tiết cài | Cài ở | Dự kiến payoff | Trạng thái |
 |---|---|---|---|---|

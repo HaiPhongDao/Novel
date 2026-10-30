@@ -1,4 +1,4 @@
-﻿# Style guide — giọng văn, ngôi kể, trình bày
+# Style guide — giọng văn, ngôi kể, trình bày
 
 ## 1. Register
 - Giọng **nhanh, nói nhiều, tự giễu, nặng số**. Người kể đứng về phía Orin, được châm một câu mỗi đoạn, câu châm phải rơi vào một người trong cảnh hoặc vào chính Orin.

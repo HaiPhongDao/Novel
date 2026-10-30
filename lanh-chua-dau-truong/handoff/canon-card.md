@@ -1,4 +1,4 @@
-﻿# Canon card — thẻ thiết lập (đoạn 0)
+# Canon card — thẻ thiết lập (đoạn 0)
 
 ## Truyện
 - Tên: **Lãnh Chúa Đấu Trường** (领主：从破产斗兽场开始).

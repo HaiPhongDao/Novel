@@ -1,4 +1,4 @@
-﻿# Outline — dàn ý theo đoạn
+# Outline — dàn ý theo đoạn
 
 Đơn vị: đoạn ~2.300–2.600 字. Mỗi đoạn một tình huống, đổi một trạng thái, dừng giữa mạch.
 

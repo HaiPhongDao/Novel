@@ -1,4 +1,4 @@
-﻿# Novel — xưởng viết truyện mạng
+# Novel — xưởng viết truyện mạng
 
 Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gemini) viết chính văn tiếng Trung theo từng **đoạn** (~2000 字); Tác giả quyết. Luật làm việc: [`AGENT.md`](AGENT.md).
 
@@ -11,6 +11,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | Thư mục | Truyện | Trạng thái |
 |---|---|---|
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
+| [`lanh-chua-dau-truong/`](lanh-chua-dau-truong/README.md) | Lãnh Chúa Đấu Trường — nhà sản xuất sự kiện xuyên vào nam tước phá sản, mở lại đấu trường bằng vé, tỷ lệ cược và một con goblin thế chấp | Đã chốt 001–003 (黄金三章), SI v5 7.887 ký tự |
 
 ## Cấu trúc
 

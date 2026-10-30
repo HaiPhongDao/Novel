@@ -1,4 +1,4 @@
-﻿SI v1 — lanh-chua-dau-truong (dựng từ writer/SI-template v5, 31/10/2026)
+SI v1 — lanh-chua-dau-truong (dựng từ writer/SI-template v5, 31/10/2026)
 
 Nguồn anchor: `goblin/哥布林，从刀剑砍到枪炮-2025101901.txt` (5 anchor nguyên văn, 5 chương khác nhau: ch.46, 44, 48, 47, 45).
 Bộ mẫu đo: goblin (500 chương dùng được; 31,2 字/câu, thoại 19%), lam-game (1.038 chương; 34,5 字/câu, thoại 24%, 1,9 khối 【】/chương), soi-xam (251 chương; 20,6 字/câu, thoại 29%, 3,7 khối 【】/chương). Chọn register goblin vì truyện là 领主/种田 có bảng và đám đông; nhịp câu 22–30.

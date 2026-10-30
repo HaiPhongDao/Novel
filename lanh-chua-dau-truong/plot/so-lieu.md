@@ -1,4 +1,4 @@
-﻿# Sổ số liệu đoạn 001–003 (Agent dựng, chờ Tác giả duyệt)
+# Sổ số liệu đoạn 001–003 (Agent dựng, chờ Tác giả duyệt)
 
 Mọi con số trong brief chép từ đây. Mọi dòng bảng 【】 trong brief phải khớp phép tính dưới đây.
 Đơn vị: **1 vàng = 20 银 = 400 铜**; 1 斤 mạch = 1 铜.

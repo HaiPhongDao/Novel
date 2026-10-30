@@ -1,4 +1,4 @@
-﻿# lanh-chua-dau-truong — Lãnh Chúa Đấu Trường (领主：从破产斗兽场开始)
+# lanh-chua-dau-truong — Lãnh Chúa Đấu Trường (领主：从破产斗兽场开始)
 
 - **Logline:** Ở thị trấn biên 锈环镇 (vương quốc 埃斯特兰), Orin — một nhà sản xuất sự kiện hiện đại xuyên vào con trai thứ của nam tước vừa chết — thừa kế một lãnh địa phá sản: 1.100 dân, kho lương 11 ngày, một 斗兽场 3.000 chỗ nửa sập, 4 vàng 12 银 trong rương, tờ khế nợ **120 vàng** đến hạn 秋分 còn **40 ngày**, và một điều khoản đặc quyền: 4 ngày hội đấu/năm, mất nếu trước 秋分 không tổ chức nổi một ngày hội có ấn 执事. Anh mở lại đấu trường bằng một trò chơi cũ: ghế, vé, tỷ lệ cược và một con goblin làm vật thế chấp.
 - **Thể loại:** Tây huyễn lãnh chúa + kinh doanh đấu trường + bảng sổ cái. **Trục:** kinh tế máu và tiền (khác 灰石哨所 phòng thủ công binh và chip kỹ sư hạ tầng).

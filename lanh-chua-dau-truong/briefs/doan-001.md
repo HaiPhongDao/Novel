@@ -1,4 +1,4 @@
-﻿Viết đoạn mở đầu cho truyện mới, 2.100–2.500 字, bằng tiếng Trung.
+Viết đoạn mở đầu cho truyện mới, 2.100–2.500 字, bằng tiếng Trung.
 
 Mở: rạng sáng, sân cát trước cổng bắc 锈环斗兽场, sương muối còn đọng trên cát; Voss đứng trên bậc đá đọc to tờ khế nợ, Grik bị xích vào cột gỗ bên cạnh.
 

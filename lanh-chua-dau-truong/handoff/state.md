@@ -1,4 +1,4 @@
-﻿# State — đoạn 0 (trước đoạn 001)
+# State — đoạn 0 (trước đoạn 001)
 
 ## Người
 - **Orin** — nam tước 锈环领, 24 tuổi, người xuyên việt từ nghề sản xuất sự kiện/giải đấu; cha chết 3 tháng trước, gia tộc chia tài sản, anh nhận phần đất rách.

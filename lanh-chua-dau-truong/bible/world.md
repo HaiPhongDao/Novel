@@ -1,4 +1,4 @@
-﻿# World — bối cảnh và luật cứng
+# World — bối cảnh và luật cứng
 
 ## 1. Bối cảnh
 - Vương quốc **埃斯特兰**, vùng biên nam giáp **南荒** (hoang địa của man tộc và thú). Không có gunpowder; sắt, thép, nỏ, ngựa chiến là chuẩn.

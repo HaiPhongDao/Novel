@@ -1,4 +1,4 @@
-﻿# Review Đoạn 001 — Lãnh Chúa Đấu Trường
+# Review Đoạn 001 — Lãnh Chúa Đấu Trường
 
 - **Bản thảo:** `chapters/doan-001-a.md` (chốt thành `chapters/doan-001.md`)
 - **Số chữ (字):** 3.239 字 — brief 2.100–2.500, **vượt 30%** (Writer tự nhẩm 2.200–2.400 trong thinking; `cham_doan` không có cổng độ dài). Bản đã cắt một khối tính sổ lặp sau bảng; phần còn lại không đệm.

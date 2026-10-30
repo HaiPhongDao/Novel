@@ -1,4 +1,4 @@
-﻿# Overview — Lãnh Chúa Đấu Trường (领主：从破产斗兽场开始)
+# Overview — Lãnh Chúa Đấu Trường (领主：从破产斗兽场开始)
 
 ## 1. Logline
 Ở thị trấn biên ải 锈环镇 của vương quốc 埃斯特兰, Orin — một nhà sản xuất sự kiện/giải đấu hiện đại xuyên vào thân xác con trai thứ của một nam tước vừa chết — thừa kế một lãnh địa phá sản: 1.100 dân, kho lương 11 ngày, một 斗兽场 nửa sập 3.000 chỗ, 4 đồng vàng 12 bạc trong rương, và một tờ khế nợ 120 đồng vàng đến hạn đúng ngày 秋分 còn 40 ngày nữa; trong rương đặc quyền còn một điều khoản: lãnh địa được giữ 4 ngày hội đấu mỗi năm, và mất đặc quyền nếu trước 秋分 không tổ chức nổi một ngày hội có ấn của 执事.

@@ -1,4 +1,4 @@
-﻿# Glossary — tên riêng, xưng hô, thuật ngữ
+# Glossary — tên riêng, xưng hô, thuật ngữ
 
 Chính văn giữ **tên người bằng chữ Latin** (Orin, Bram, Grik, Sabine, Voss, Aldric); **địa danh, chức tước, thuật ngữ bằng chữ Hán**. Cột 中文 chỉ để đối chiếu, không chép vào prompt dưới dạng câu.
 
