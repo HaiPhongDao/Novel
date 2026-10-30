@@ -57,9 +57,7 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
 
 ## 2. Luật brief (luôn áp dụng)
 
-- **Ngắn ở phần dặn cách viết, đủ ở phần dữ kiện.** Dữ kiện thiết lập (thân phận, ngoại hình, xưng hô, nơi chốn, số
-  đang chạy) nằm trong State JSON — tên Hán kèm Latin trong ngoặc — không xếp ở đầu brief; Writer đọc phần đầu
-  prompt làm trọng tâm. Thiếu dữ kiện thì lỗi chuyển từ văn sang canon.
+- **Ngắn ở phần dặn cách viết, cách ly Writer khỏi raw State JSON.** Dữ kiện thiết lập (thân phận, xưng hô, nơi chốn, số đang chạy) nằm trong State JSON — đây là bộ nhớ của Agent, tuyệt đối không dán raw JSON vào brief; brief chỉ rút 1–2 sự thật sống của cảnh đó thành 3–5 câu tiếng Việt tự nhiên. Nhồi quá nhiều việc hoặc dán raw JSON khiến Writer chạy theo checklist, kích hoạt chế độ mặc định của LLM (so sánh sáo rỗng, phình độ dài).
 - **Brief mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng.** "Mở ngay sau câu X" hay mục "Mở" làm Writer
   dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
 - **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,

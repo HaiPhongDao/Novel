@@ -89,6 +89,7 @@ ai thuộc đoạn sau.
 
 ## Luật đi kèm
 
+- **State JSON là bộ nhớ của Agent, tuyệt đối không dán raw JSON vào brief.** Khi có `handoff/state.json`, brief được giải phóng hoàn toàn khỏi các khối nối tiếp, xưng hô, người có mặt và sổ số; brief trở lại nguyên dạng 3–5 câu tình huống + 1 dòng Khoá + 1 câu Dừng ở, giúp Writer tập trung 100% vào nhịp văn của SI.
 - **Không có dòng nào bảo MC nghĩ gì, cảm thấy gì, hay "hãy thể hiện" điều gì.** Chỉ sự thật, thứ trong tay mỗi
   bên, chỗ dừng. Dòng "chỗ để cái đầu kiếp trước thắng" là bẫy: nó viết hộ cái đầu MC và lặp dữ kiện.
 - **Người có mặt và xưng hô chép từ bible vào State**; nhân vật mới chưa có trong bible thì ghi vào State, chốt đoạn
