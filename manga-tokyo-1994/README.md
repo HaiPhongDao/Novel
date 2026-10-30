@@ -29,3 +29,4 @@ phẩm để ban giám khảo trao giải.
 | Đoạn | Brief | Bản thảo | Số chữ (字) | Review | Trạng thái |
 |---|---|---|---|---|---|
 | 001 | `briefs/doan-001-c.md` (chốt từ 4 bản) | `chapters/doan-001.md` | 2.593 字 | `reviews/doan-001.md` | ✅ ĐẠT (sửa chính tả `覚書`) |
+| 002 | `briefs/doan-002-b.md` (chốt từ 2 bản) | `chapters/doan-002.md` | 1.903 字 | `reviews/doan-002.md` | ✅ ĐẠT |

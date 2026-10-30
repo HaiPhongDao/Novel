@@ -3,7 +3,7 @@
 ## Kisaragi Souta — hoạ sĩ tuần san bị cắt truyện (MC)
 
 - **Tuổi:** 27 tuổi (sinh 1967). Thân xác này sinh ra ở `群馬县`, lên Tokyo năm 19 tuổi.
-- **Ngoại hình:** ngón giữa tay phải chai và ám mực; tóc rối, áo sơ mi sờn cổ.
+- **Ngoại hình:** ngón giữa tay phải chai và ám mực; tóc rối, áo sơ mi sờn cổ; bản thảo mang đi buộc bằng dây cao su.
 - **Kiếp trước:** hoạ sĩ manga người Nhật (tên khác, không dùng trong văn), chết tháng 11/2024 ở tuổi 39, sau khi bộ
   truyện cuối cùng của mình cũng bị cắt. Tỉnh dậy trong thân xác Souta ngày 2/5/1994 (11 ngày trước đoạn 001).
 - **Nghề hiện tại:** hoạ sĩ `连载` của `《周刊少年疾风》`; bộ `《拳骨》` (boxing, 58 `话`, mười bốn tháng), `顺位` tuần
@@ -38,6 +38,7 @@
 ## Ogata — tổng biên tập `《周刊少年疾风》`
 
 - **Tuổi:** 51. Mười chín năm ở toà soạn, bốn năm làm `编辑长`.
+- **Ngoại hình:** tóc hoa râm chải ngược, kính gọng vàng, bút đỏ trong túi áo ngực.
 - **Giỏi:** nhìn ra một tác phẩm "để đời"; quan hệ với ban giám khảo, hội nhà văn, các giải thưởng; biết cách nói
   một câu làm cả phòng họp im.
 - **Lý lẽ đúng một nửa:** tạp chí hạng năm không thể thắng ba ông lớn bằng bài đánh giống họ; muốn có tác giả giỏi
@@ -53,7 +54,8 @@
 
 ## Sakaki Ryou — hoạ sĩ `《白鲸》`, hạng 3
 
-- **Tuổi:** 24. Debut năm 21 tuổi, `《白鲸》` đang ở năm thứ hai, hạng 3, đã có `单行本` ba tập, `3万部` mỗi lần in.
+- **Tuổi:** 24 tuổi. Debut năm 21 tuổi, `《白鲸》` đang ở năm thứ hai, hạng 3, đã có `单行本` ba tập, `3万部` mỗi lần in.
+- **Ngoại hình:** sơ mi trắng phẳng, cười đúng lúc.
 - **Giỏi:** vẽ đẹp; viết được loại truyện vừa đại chúng vừa được giới phê bình khen (bộ của anh là "battle manga có
   chiều sâu"); nói chuyện trước mặt cấp trên rất khéo.
 - **Không biết:** nghề này đang tụt; rằng anh là con bài của Ogata; rằng Souta từng từ chối làm trợ lý cho anh

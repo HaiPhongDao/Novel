@@ -58,6 +58,16 @@ chuyện đó; không ai khác trong truyện biết.
    chốt ai, nên nó thành cái cớ để `Sakaki Ryou` và `Ogata` tranh nhau ở 002–003.
 9. `覚書` (đã lên trang ở 001): ký thì được quyền đặc biệt trình `分镜稿` lên `编辑长`; rớt thì phải theo điều động
    của nhà xuất bản sang xưởng khác làm `助手` toàn thời gian để trừ nợ — tức từ tác giả xuống làm thợ.
+   Xưởng được chỉ định trong điều khoản là xưởng của `Sakaki Ryou` (đã lên trang ở 002).
+
+## 5b. Tác phẩm trong truyện
+
+- **`《拳骨》`** — boxing, 58 `话`, của Souta, bị `腰斩` ở số `第27号`.
+- **`《借命》`** — battle manga đương đại, 45 trang `读切` cho số `第30号`. Nhân vật chính là tay đấm đường phố trong
+  chợ đen; hắn lập khế với người đã chết để mượn quãng đời còn lại, đổi lấy sức mạnh bùng nổ. Mỗi lần mượn, một món
+  nợ hiện trên lòng bàn tay như vết mực bỏng. Luật: **mượn một năm, trả hai năm**. Bốn trang luật (12–15 trong bản
+  `分镜稿` đầu) bị `Ogata` đánh đỏ; bản sửa phải nén thành nửa trang.
+- **`《白鲸》`** — của `Sakaki Ryou`, hạng 3, đã có ba tập `单行本`.
 
 ## 6. Những thứ thuộc đoạn sau (ranh giới cứng cho 001–003)
 

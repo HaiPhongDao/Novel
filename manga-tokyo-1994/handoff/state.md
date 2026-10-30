@@ -2,11 +2,11 @@
 
 Cập nhật sau mỗi đoạn chốt. Số chi tiết ở `plot/so-lieu.md`, thẻ thiết lập ở `canon-card.md`.
 
-## Sau đoạn 001 (13/5/1994, 09:54)
+## Sau đoạn 002 (19/5/1994, chiều)
 
-- **Thời gian:** 13/5/1994 (金), 09:54. Còn hai trang (18, 19) chưa lên mực, hạn giao 10:00.
-- **Nơi:** nhà Souta, `杉并区阿佐谷`.
-- **Người:** Souta, `Fujisawa Kaori` (vừa tới lấy trang), `Mochizuki` (đã封箱, sẽ đi tuần sau).
-- **Việc đang treo:** tờ `覚書` nằm trên bàn, chưa ký; hạn `分镜稿` 21:00 ngày 18/5 (ba đêm).
-- **Ai biết gì:** `Kaori` biết món `预支` `89万1.900`; `Mochizuki` không biết. Không ai biết Souta đã đổi người.
-- **Tiền:** `3万8.000日元`; nợ `预支` `89万1.900`.
+- **Thời gian:** 19/5/1994 (木), khoảng 16:00. Hạn sửa `分镜稿` 21:00 ngày 20/5.
+- **Nơi:** `青葉出版` tầng ba, cạnh bàn `编辑长`.
+- **Người:** Souta, `Fujisawa Kaori` (đang ôm 45 trang), `Ogata` (bút đỏ trên trang thứ tư), `Sakaki Ryou` (ở cửa).
+- **Việc đang treo:** bốn trang luật `借命` bị đánh đỏ, phải cắt còn nửa trang; `Kaori` đã nhận thay anh.
+- **Ai biết gì:** `Kaori` và `Ogata` biết phần đánh giá quý bị ghim vào hồ sơ; `Sakaki` không biết. Không ai biết Souta đã đổi người.
+- **Tiền:** `3万8.000日元`; nợ `预支` `89万1.900`; `读切` `4.800日元`/`枚` × 45.

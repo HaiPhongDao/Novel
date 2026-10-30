@@ -7,8 +7,8 @@ Mọi con số trong brief chép từ đây. Phép tính ghi rõ; số dẫn xu�
 | đoạn | thời gian | người có mặt | tiền mặt trong nhà | `预支` còn nợ | `顺位` |
 |---|---|---|---|---|---|
 | 001 | 13/5/1994 (金) 03:40 → 10:20, nhà Souta ở `阿佐谷` | Souta, Mochizuki, Fujisawa Kaori | `3万8.000日元` | `108万日元` | `19位`/20 (phiếu của số `第20号`) |
-| 002 | 19/5 (木) 14:00 → 20/5 (金) 21:10, `青葉出版` tầng ba | Souta, Fujisawa Kaori, Ogata, Sakaki Ryou | `1万2.000日元` | `108万日元` | in ở số `第25号`: `19位` tuần thứ tư |
-| 003 | 20/5 (金) 21:10 → 23/5 (月) 15:40, hành lang tầng ba + phòng họp | Souta, Fujisawa Kaori, Ogata, (Sakaki qua cửa kính) | `1万2.000日元` | `108万日元` | không đổi |
+| 002 | 13/5 09:54 → 20/5 (金) 21:10, `青葉出版` tầng ba | Souta, Fujisawa Kaori, Ogata, Sakaki Ryou | `3万8.000日元` | `89万1.900日元` | in ở số `第25号`: `19位` tuần thứ tư |
+| 003 | 20/5 (金) 21:10 → 23/5 (月) 15:40, hành lang tầng ba + phòng họp | Souta, Fujisawa Kaori, Ogata, (Sakaki qua cửa kính) | `3万8.000日元` | `89万1.900日元` | không đổi |
 
 **Phép tính nền (chép nguyên vào brief khi cần):**
 - Một kỳ: `5.500日元` × `19枚` = `104.500日元`. Một tháng bốn kỳ: `104.500` × 4 = `41万8.000日元`.
@@ -45,3 +45,12 @@ Mọi con số trong brief chép từ đây. Phép tính ghi rõ; số dẫn xu�
 `108万` → `89万1.900` · `5.500 日元/枚` · `41万8.000`/tháng · `20万9.000` (2 kỳ) · `18万8.100` (sau thuế 10%) ·
 `46万部`, hạng 5 · `20 部 连载` · `第58话` · `第22期 18名 / 第23期 20名 / 第24期 19名` · `第27期 6月3日` ·
 `21:00 18/5` · `700 日元/giờ` (tiệm bento).
+
+## Số của 002–003 (dùng trong brief)
+
+- `分镜稿` `《借命》`: 45 trang, buộc dây cao su; `读切` trả `4.800日元`/`枚` → 45 × 4.800 = `21万6.000日元`, trả sau khi
+  số báo phát hành.
+- `Ogata` đọc 45 trang trong 6 phút, đánh dấu đỏ 4 trang (đều là trang luật).
+- Hạn sửa: `21:00 ngày 20/5`. Hạn `入稿` kỳ cuối `《拳骨》`: `24/5`. Hạn `入稿` `读切` số `第30号`: `14/6`; số báo phát
+  hành `24/6`; `顺位` của số đó in ở số `第34号` (giữa tháng 7).
+- `连载会议`: 15:00 ngày `23/5`, phòng họp cuối hành lang tầng ba.
