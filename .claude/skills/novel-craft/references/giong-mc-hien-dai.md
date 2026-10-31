@@ -114,3 +114,39 @@ Bốn hình dạng prompt, cùng một cảnh nông nghiệp/đời thường, c
 Cái giá: không dữ kiện thì Writer tự đặt canon (tuổi, diện tích, 经验, và kéo beat chương sau vào chương 1); còn dữ kiện **dạng danh sách số** thì câu vụn và lượt thoại mỏng (17,4 字/câu, 34 lượt/13,8) — danh sách số đọc như checklist, đúng cơ chế đã đo ở mục 3.
 
 Cấu hình đề xuất: **prompt 3 dòng của Tác giả + 3–5 dòng dữ kiện viết thành câu sự thật ngắn** (ai, bao nhiêu, còn mấy ngày, tỷ giá, khối bảng in nguyên dạng), không beat, không đếm lượt thoại, không phán "chỗ thắng". Sau khi chạy, kiểm bốn chỗ Writer tự đặt khi thiếu dữ kiện: tuổi/tuổi nghề, diện tích hay số người, tỷ giá tiền–hàng, và beat nào bị kéo từ chương sau vào.
+
+
+## 8. Bài học thực chiến từ Manga Tokyo 2000 (Đoạn 001: Tam giác sai lầm qua 3 lần chạy)
+
+Ghi nhận ngày 31/10/2026 trên truyện `manga-tokyo-2000` (đô thị văn ngu, xuyên việt Tokyo 2000, SI v5):
+
+### Bảng số đo và lỗi qua 3 lần chạy
+
+| Lần | Hình dạng Prompt / Brief | 字 | 字/câu | Điểm văn (`soat_van.py`) | Hiện tượng & Lỗi gặp phải | Đánh giá của Tác giả |
+|---|---|---|---|---|---|---|
+| **v1** (bản A/B/C) | Brief thuần dữ kiện sự việc + SI v5 kìm nén (không có chức năng giọng) | 2.917 | 24,1 | 34/34 | **Trôi tuột, thiếu sảng điểm:** MC thụ động như khúc gỗ ngầu lòi, Morishita tự kinh ngạc tự cược cả tiền thưởng cuối năm; thiếu hẳn góc nhìn tương lai, tucao thời đại cũ. | *“Mọi thứ xảy ra quá trôi... MC là người xuyên việt nhưng không thấy góc nhìn từ hắn nhiều lắm? Cái điểm sảng... không phải là biết trước xu hướng, góc nhìn ưu việt của người tương lai, đánh giá châm chọc thời đại cũ sao?”* |
+| **v2** (bản sửa) | Brief nhồi kịch bản chi tiết: chỉ đạo MC chê 3 điểm, Morishita bắt bẻ bằng 7 thư từ chối, MC dồn ép đe dọa mất ghế + sửa SI PART 1 §2 | 3.850 | 25,3 | 34/34 | **Soạn sẵn kịch bản, nhồi rác vào prompt:** Prompt phình lên 4.000 từ. Agent viết hộ thoại và cảm xúc. MC biến thành loa phát thanh diễn thuyết, mất tính tự nhiên. | *“Brief này đang phạm lỗi 'soạn sẵn kịch bản / sổ kết quả' và nhồi rác vào prompt... Chuyển toàn bộ số liệu vào state.json. Viết lại brief tối giản để Writer và SI tự đấu trí.”* |
+| **v3** (bản tối giản + pack) | Brief 3 câu tình huống tối giản + dán nguyên gói Handoff Pack (Canon Card + Voice Anchor + State JSON thô 120 dòng) | 2.238 | 23,5 | 34/34 | **Ngộ độc dữ kiện, văn loạn xạ nhảy cóc:** Model Gemini bị quá tải thông tin, coi State JSON như checklist cần thanh lý. Hai nhân vật xa lạ lúc 2h45 sáng vừa gặp nhau đã xả liên thanh: 36 tiếng, 38 vạn bản, 50% tiền cọc 88.000, cấu trúc kịch bản 2 tầng, Kurosawa Daiki... Thoại nhảy cóc liên tục, không có nhịp thở hay tương tác hành vi người thật. | *“Càng không đạt, viết quá loạn xạ.”* |
+
+### Cơ chế đằng sau: Vì sao sửa lỗi này lại đẻ ra lỗi kia?
+
+1. **Từ Trôi tuột sang Soạn sẵn kịch bản (v1 → v2):**
+   - Khi phát hiện văn thiếu ma sát và thiếu điểm sảng, Agent có xu hướng 'cầm tay chỉ việc', viết hộ từng đòn đánh tâm lý của MC vào brief.
+   - Hậu quả: Prompt biến thành kịch bản phân cảnh đóng đinh, tước đoạt quyền tự suy luận của Writer và kích hoạt chế độ 'dịch từng gạch đầu dòng' của LLM.
+2. **Từ Soạn sẵn kịch bản sang Ngộ độc dữ liệu / Loạn xạ (v2 → v3):**
+   - Khi được yêu cầu tối giản brief và chuyển dữ liệu sang State JSON, Agent đã thực hiện máy móc bằng cách gom cả Canon card, Voice anchor và bảng JSON thô vào tin nhắn mở đầu (`session-start.md`).
+   - Ở đoạn 001, model chưa có ngữ cảnh chạy trước. Khi nhìn thấy một bảng JSON đầy ắp số liệu chi tiết và mối quan hệ, cơ chế 'chú ý' (attention) của LLM bị phân tán: nó cố gắng nhét tất cả các con số vào cuộc đối thoại đầu tiên để 'không bỏ sót dữ kiện'.
+   - Kết quả: Nhân vật hành xử như hai nhân viên văn phòng đang đọc báo cáo tài chính lúc nửa đêm, các chủ đề nhảy từ hạn in kẽm sang cấu trúc kịch bản rồi sang phó tổng biên tập chỉ trong 4-5 lượt thoại.
+
+### Quy tắc chốt (Actionable Rules)
+
+1. **Đoạn mở đầu (001) tuyệt đối không dán raw State JSON vào prompt:**
+   - State JSON chỉ là kho lưu trữ của Agent để đối chiếu sau khi sinh văn.
+   - Prompt đoạn 001 chỉ cần: Dòng tag thể loại + chức năng giọng (mượn đầu óc hiện đại tucao/giáng chiều) + 3 câu tình huống sống tại chỗ (vật lý, tiền nợ trước mắt, người đối diện mang vấn đề gì đến).
+2. **Ma sát thật phải đi từ hành vi vật lý đến nghề nghiệp, không đi từ thuyết trình:**
+   - Bước 1: Giao dịch vật lý (lon cà phê, tiền thối, ngón tay ám mực).
+   - Bước 2: Quan sát và buột miệng một câu nghề nghiệp (chỉ ra một vết gạch chéo hoặc chi tiết nhỏ, không nói hết bức tranh lớn).
+   - Bước 3: Nghi ngờ và phòng thủ tự nhiên của người đối diện (không phải màn bắt bẻ hùng biện).
+   - Bước 4: Lật giở sản phẩm thật (bản vẽ/trang giấy) để hình ảnh tự thuyết phục, không để MC giảng bài về lý thuyết làm phim.
+3. **Cổng kỹ thuật (34/34 văn phong) không chứng minh cảnh viết đạt:**
+   - Điểm soát từ ngữ và nhịp câu chỉ là điều kiện cần. Phải luôn đọc thẩm định cảnh theo tương tác hành vi trước khi báo cáo.

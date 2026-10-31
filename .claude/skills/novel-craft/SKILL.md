@@ -40,7 +40,7 @@ Skill này do Agent tự bảo trì (mục 9); bài học tích luỹ từ `nove
    --glossary <truyen>/bible/glossary.md` (truyện mẫu B thêm `--mau-b`). CHẶN = sửa brief, không chạy — brief ghi
    sẵn kết cục, lý lẽ, nhãn tính cách thì Writer dịch nguyên thành văn (kiểm toán `test-gemini-moi`).
 3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
-4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]`. Đỏ = bỏ bản
+4. **Cổng máy và cổng người**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]` và `soat_van.py` chỉ là điều kiện cần (chặn sáo rỗng, từ cấm, nhịp câu vụn). Bản đạt 34/34 điểm văn phong vẫn có thể bị loại vì "viết quá loạn xạ" do nhân vật nhảy cóc dữ kiện hoặc thiếu tương tác người thật (KN36). Đỏ = bỏ bản
    (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc. Câu cuối kết bằng `——`
    khi brief bảo dừng giữa một cú lao là cổng bắt nhầm: đọc ba dòng cuối, đủ cảnh thì giữ và ghi vào review.
 5. **Review bằng đọc** (mục 4), ghi vào đúng `reviews/doan-XXX.md` của đoạn đó, kèm bảng số.
@@ -56,7 +56,8 @@ cùng chat — nó chép lại 77% bản cũ của chính nó.
 
 ## 2. Luật brief (luôn áp dụng)
 
-- **Ngắn ở phần dặn cách viết, cách ly Writer khỏi raw State JSON.** Dữ kiện thiết lập (thân phận, xưng hô, nơi chốn, số đang chạy) nằm trong State JSON — đây là bộ nhớ của Agent, tuyệt đối không dán raw JSON vào brief; brief chỉ rút 1–2 sự thật sống của cảnh đó thành 3–5 câu tiếng Việt tự nhiên. Nhồi quá nhiều việc hoặc dán raw JSON khiến Writer chạy theo checklist, kích hoạt chế độ mặc định của LLM (so sánh sáo rỗng, phình độ dài).
+- **Ngắn ở phần dặn cách viết, cách ly Writer khỏi raw State JSON.** Dữ kiện thiết lập (thân phận, xưng hô, nơi chốn, số đang chạy) nằm trong State JSON — đây là bộ nhớ của Agent, tuyệt đối không dán raw JSON vào brief; brief chỉ rút 1–2 sự thật sống của cảnh đó thành 3–5 câu tiếng Việt tự nhiên. Nhồi quá nhiều việc hoặc dán raw JSON khiến Writer chạy theo checklist, kích hoạt chế độ mặc định của LLM (so sánh sáo rỗng, phình độ dài). Đặc biệt ở **đoạn mở đầu (001)**, tuyệt đối không dán cả gói Canon/State/Voice đồ sộ vào prompt: model bị ngộ độc dữ liệu sẽ biến nhân vật thành máy đọc checklist, vừa gặp đã xả liên thanh toàn bộ số liệu và giải mã kịch bản, làm văn nhảy cóc và loạn xạ (KN35).
+- **Ma sát thật phải xuất phát từ hành vi vật lý, không phải thuyết trình.** Tạo xung đột bằng vật trao tay (tiền thối, lon cà phê, vết mực trên ngón), thái độ nghi ngờ nghề nghiệp, và mồi nhử một điểm nhỏ. Tuyệt đối không soạn sẵn lý lẽ chê bai hay để MC diễn thuyết giảng đạo; để hình ảnh trên bản vẽ tự thuyết phục người xem.
 - **Brief mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng.** "Mở ngay sau câu X" hay mục "Mở" làm Writer
   dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
 - **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,
