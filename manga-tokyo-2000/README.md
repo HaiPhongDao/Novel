@@ -18,5 +18,5 @@
 | Đoạn | Brief | Bản thảo | Số chữ (字) | Review | Trạng thái |
 |---|---|---|---|---|---|
 | 001 | `briefs/doan-001-b.md` (chốt từ 3 bản) | `chapters/doan-001.md` | 2.917 字 | `reviews/doan-001.md` | ✅ ĐẠT |
-| 002 | `briefs/doan-002.md` | `chapters/doan-002.md` | — | `reviews/doan-002.md` | Đang chạy |
-| 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | — | `reviews/doan-003.md` | Chờ |
+| 002 | `briefs/doan-002.md` | `chapters/doan-002.md` | 2.244 字 | `reviews/doan-002.md` | ✅ ĐẠT |
+| 003 | `briefs/doan-003.md` | `chapters/doan-003.md` | — | `reviews/doan-003.md` | Đang chạy |

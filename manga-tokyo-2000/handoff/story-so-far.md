@@ -1,4 +1,7 @@
 # Story So Far — manga-tokyo-2000
 
-## Đoạn 001 (Đã chốt)
+## Đoạn 001 (18/10/2000, 2.917 字)
 Đêm 18/10/2000, tại tiệm manga café 《Manga Club Tanaka》 ở Kanda. Hayakawa Ryo (23 tuổi, người xuyên việt) đang trực ca đêm, đối mặt với tờ thông báo nợ tiền nhà 72.000日元 của Takahashi (hạn chót 12:00 ngày 23/10) và trong người chỉ còn 4.600日元. Nữ biên tập viên Morishita Chinatsu (25 tuổi, Bạch Viên Xã) ghé tiệm mua cà phê lon sau khi bị một tác giả kỳ cựu bỏ dở hợp đồng khiến bán nguyệt san 《青年世纪》 số 21 (38万部) bị hổng 32 trang one-shot (读切). Nhìn thấy tập phân cảnh 32 trang 《摄影机不要停！》 của Ryo trên quầy, Morishita bị sốc trước bố cục góc máy điện ảnh và nhịp lật trang nghẹt thở. Cô đập danh thiếp hẹn Ryo 15:30 ngày 19/10 mang bản thảo tới tòa soạn Bạch Viên Xã.
+
+## Đoạn 002 (19/10/2000, 2.244 字)
+15:30 ngày 19/10/2000, Ryo mang tập phân cảnh 32 trang tới tòa soạn Bạch Viên Xã. Biên tập trưởng Kurosawa Daiki (48 tuổi, đầu đinh, hút Seven Stars) lật bản thảo trong 4 phút, chỉ trích gay gắt nhịp tranh cắt cảnh quá nhanh, từ chối mạo hiểm ở số kỷ niệm 38万部. Morishita liều mạng đem tiền thưởng quý ra bảo lãnh. Ryo không cãi lý thuyết mà phân tích cơ chế mắt nhìn Z-pattern của độc giả và con số 32 trang vừa khít khung in (tiết kiệm 24 vạn yên so với tác giả cũ). Kurosawa ra điều kiện sắt đá: đúng 5 ngày (18:00 ngày 24/10) phải nộp đủ 32 trang vẽ mực hoàn chỉnh có dán lưới. Kurosawa ký phiếu tiếp nhận dự bị; Morishita giao 32 tờ giấy chuyên dụng B4 cho Ryo.

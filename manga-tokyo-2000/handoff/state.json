@@ -1,23 +1,26 @@
 {
   "story": "manga-tokyo-2000",
-  "segment": 0,
-  "timeline": "2000-10-18 02:30",
-  "location": "东京都千代田区神田，漫画喫茶《Manga Club Tanaka》",
+  "segment": 2,
+  "timeline": "2000-10-19 15:40",
+  "location": "东京都千代田区神田锦町，白圆社大楼九层《青年世纪》编辑部",
   "protagonist": {
     "name": "Hayakawa Ryo",
     "age": 23,
     "cash_yen": 4600,
     "rent_debt_yen": 72000,
     "rent_deadline": "2000-10-23 12:00",
-    "rejected_submissions": 7,
-    "manuscript_in_progress": "《摄影机不要停！》 (分镜 32页)"
+    "manuscript_task": "32页 B4原稿绘制（含贴网点）",
+    "submission_deadline": "2000-10-24 18:00"
   },
   "editor": {
     "name": "Morishita Chinatsu",
-    "age": 25,
-    "magazine": "《青年世纪》",
-    "publisher": "白圆社",
-    "status": "新人编辑，无连载作家"
+    "role": "担当编辑",
+    "guarantee": "第四季度全额奖金冲抵印刷损失"
+  },
+  "editor_in_chief": {
+    "name": "Kurosawa Daiki",
+    "age": 48,
+    "condition": "迟到一分钟或线条不耐锌版冲洗即作废"
   },
   "rates": {
     "page_rate_yen": 5500,
