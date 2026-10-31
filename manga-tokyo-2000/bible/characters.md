@@ -3,10 +3,12 @@
 ## 1. Hayakawa Ryo (早川亮) — Nhân vật chính
 
 - **Tuổi:** 23 tuổi.
-- **Thân phận:** Người xuyên việt từ thế kỷ 21, nhập vào một thanh niên nghèo sống tại gác xép Kanda (神田), làm việc ca đêm ở tiệm manga café 《Manga Club Tanaka》.
-- **Ngoại hình:** Thon gầy, tóc đen hơi rối, mắt có quầng thâm do thức đêm vẽ tranh, bàn tay phải có vết chai đặc trưng ở ngón giữa và vết mực ăn sâu vào kẽ móng tay.
-- **Tính cách:** Điềm tĩnh, thực tế, nói ít làm nhiều, có óc quan sát sắc sảo của đạo diễn storyboard. Không bao biện, khi bị từ chối chỉ hỏi đúng nguyên nhân số liệu.
-- **Bàn tay vàng:** Không có hệ thống. Sở hữu ký ức và tư duy phân cảnh điện ảnh đời sau (camera movements, jump cut, close-up, góc máy cực đoan) và khả năng nắm bắt nhịp kịch tính sinh tồn/hành động. Kỹ năng vẽ tay của nguyên chủ ở mức khá, vừa đủ để hiện thực hóa phân cảnh.
+- **Thân phận:** Người xuyên việt từ thế kỷ 21, làm ca đêm tại tiệm manga café 《Manga Club Tanaka》 ở Kanda.
+- **Kiếp trước:** Đạo diễn phân cảnh (Storyboard Director) kiêm họa sĩ truyện tranh thương mại với hơn 10 năm kinh nghiệm ở thế kỷ 21. Nắm vững công thức dẫn dắt thị giác, nhịp cắt cảnh dồn dập, cú máy one-shot và các cú bẻ lái cấu trúc (meta-twist).
+- **Nguyên chủ:** Học viên khoa mỹ thuật chuyên môn, có 3 năm kinh nghiệm làm trợ lý vẽ bối cảnh và kẻ đường tốc độ cho các studio manga tại Tokyo. Phản xạ cơ bắp cực tốt, tay cầm bút G cứng cáp, ngón giữa chai sần và ám mực, nhưng bế tắc sáng tạo và liên tục bị từ chối 7 lần.
+- **Cơ sở năng lực sau 9 ngày:** Khớp tư duy đạo diễn hiện đại vào phản xạ cơ bắp có sẵn của nguyên chủ, dùng thời gian ca đêm mài giũa lại nét vẽ để phóng tác ra 32 trang phân cảnh 《摄影机不要停！》.
+- **Ngoại hình:** Thon gầy, quầng mắt thâm, bàn tay phải có vết chai đặc trưng ở ngón giữa và vết mực khai minh ăn sâu vào kẽ móng tay.
+- **Tính cách:** Điềm tĩnh, thực tế, nói năng tự nhiên có hơi thở người thật, dùng hình ảnh trên trang vẽ để thuyết phục đối phương thay vì thuyết trình lý thuyết.
 
 ## 2. Morishita Chinatsu (森下千夏) — Nữ biên tập viên
 
