@@ -1,0 +1,23 @@
+[
+  {
+    "si": "D:/Harness/Novel/manga-tokyo-2000/gemini/si-dan-gemini.txt",
+    "prompt": "D:/Harness/Novel/manga-tokyo-2000/briefs/doan-001-a.md",
+    "out": "D:/Harness/Novel/manga-tokyo-2000/archive/doan-001-a-raw.md",
+    "think_out": "D:/Harness/Novel/manga-tokyo-2000/archive/thinking-001-a.md",
+    "note": "manga-tokyo-2000 001-a (facts-first)"
+  },
+  {
+    "si": "D:/Harness/Novel/manga-tokyo-2000/gemini/si-dan-gemini.txt",
+    "prompt": "D:/Harness/Novel/manga-tokyo-2000/briefs/doan-001-b.md",
+    "out": "D:/Harness/Novel/manga-tokyo-2000/archive/doan-001-b-raw.md",
+    "think_out": "D:/Harness/Novel/manga-tokyo-2000/archive/thinking-001-b.md",
+    "note": "manga-tokyo-2000 001-b (reading storyboard focus)"
+  },
+  {
+    "si": "D:/Harness/Novel/manga-tokyo-2000/gemini/si-dan-gemini.txt",
+    "prompt": "D:/Harness/Novel/manga-tokyo-2000/briefs/doan-001-c.md",
+    "out": "D:/Harness/Novel/manga-tokyo-2000/archive/doan-001-c-raw.md",
+    "think_out": "D:/Harness/Novel/manga-tokyo-2000/archive/thinking-001-c.md",
+    "note": "manga-tokyo-2000 001-c (tactile & close-up focus)"
+  }
+]
