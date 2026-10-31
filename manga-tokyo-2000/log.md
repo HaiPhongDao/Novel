@@ -14,3 +14,4 @@
 2026-10-31 | do-mau | Dùng lại số đo bộ mẫu 我在泡沫东京画漫画.txt (214 chương, 2.045 字/chương trung bình, lời kể 80,1%, câu kể 22,0 字, thẻ thoại 0,10/lượt) | Duyệt: Agent
 2026-10-31 | doan-001 | Chạy 3 bản chọn hình dạng prompt (A: 2.817 字, B: 2.917 字, C: 3.728 字). Chốt Bản B làm chapters/doan-001.md (74/100, canon 10/10, 0 thiếu số, 0 so sánh, median đoạn 33 chữ sát mẫu) | Review đạt | Duyệt: Agent
 2026-10-31 | doan-002 | Chạy Writer Gemini bản 1 (2.294 字, 144s, acc /u/0). Sửa nhẹ 6 so sánh người kể + 2 nhãn ngữ điệu theo BANS SI v5 -> văn 34/34 tuyệt đối, 27,2 字/câu, chốt làm chapters/doan-002.md (2.244 字) | Kurosawa ra điều kiện 5 ngày nộp 32 trang mực hoàn chỉnh có dán lưới (18:00 ngày 24/10) | Duyệt: Agent
+2026-10-31 | doan-003 | Chạy Writer Gemini bản 1 (2.227 字, 209s, acc /u/0). 0 so sánh, 0 实, 0 nhãn ngữ điệu, văn 34/34 tuyệt đối, số học khớp 100% (4.600 + 88.000 - 72.000 = 20.600 日元). Hoàn thành trọn vẹn 黄金三章 (001 -> 003) | Duyệt: Agent

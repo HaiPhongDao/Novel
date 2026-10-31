@@ -1,31 +1,33 @@
 {
   "story": "manga-tokyo-2000",
-  "segment": 2,
-  "timeline": "2000-10-19 15:40",
-  "location": "东京都千代田区神田锦町，白圆社大楼九层《青年世纪》编辑部",
+  "segment": 3,
+  "timeline": "2000-10-24 18:45",
+  "location": "东京都千代田区神田，神田邮政局门口街道",
   "protagonist": {
     "name": "Hayakawa Ryo",
     "age": 23,
-    "cash_yen": 4600,
-    "rent_debt_yen": 72000,
-    "rent_deadline": "2000-10-23 12:00",
-    "manuscript_task": "32页 B4原稿绘制（含贴网点）",
-    "submission_deadline": "2000-10-24 18:00"
+    "cash_yen": 20600,
+    "rent_debt_yen": 0,
+    "rent_status": "已全额结清（72000日元）",
+    "completed_manuscript": "《摄影机不要停！》 (32页 B4原稿，已入稿)",
+    "advance_received_yen": 88000
   },
   "editor": {
     "name": "Morishita Chinatsu",
     "role": "担当编辑",
-    "guarantee": "第四季度全额奖金冲抵印刷损失"
+    "status": "稿件已交排版组连夜制版，准备11月7日见刊"
   },
   "editor_in_chief": {
     "name": "Kurosawa Daiki",
-    "age": 48,
-    "condition": "迟到一分钟或线条不耐锌版冲洗即作废"
+    "role": "编辑长",
+    "action": "已签署入稿盖章并特批发放50%预付款"
   },
-  "rates": {
-    "page_rate_yen": 5500,
-    "target_pages": 32,
-    "total_rate_yen": 176000,
-    "advance_50_yen": 88000
+  "magazine": {
+    "name": "《青年世纪》",
+    "issue": "第21期（千禧年特大号）",
+    "circulation": 380000,
+    "cover_price_yen": 320,
+    "release_date": "2000-11-07",
+    "target": "读者调查表速报前五名"
   }
 }
