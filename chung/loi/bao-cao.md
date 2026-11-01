@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **44** · Lần quan sát: **140** · Can thiệp: **23** · Đích đã đặt: **20**
+- Kiểu lỗi: **44** · Lần quan sát: **141** · Can thiệp: **24** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **0/23** (0%)
+- Can thiệp đã đo: **0/24** (0%)
 
-- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **5** · Chưa đo: **18**
+- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **5** · Chưa đo: **19**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -23,12 +23,12 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 31 | 21 | I-0004 · SI · chưa rõ · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
+| E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 9 | 1 | — |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
-| E-SCENE-01 | Thoại cụt, chưa trọn ý | 5 | 1 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
 | E-CANON-02 | Xưng hô / register sai bối cảnh | 3 | 1 | I-0010 · SI · chưa rõ · chưa đo |
 | E-GATE-01 | Máy soát bỏ sót | 3 | 1 | I-0015 · TOOL · chưa rõ · chưa đo |

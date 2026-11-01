@@ -151,6 +151,13 @@ HƯỚNG DẪN ĐIỀN
    theo anchor. Chỗ duy nhất còn được dùng số là **hạn mức cho một giọng bắt buộc phải xuất hiện** ("once a segment
    at most"), vì đó là số đếm sự kiện, không phải số đo văn.
 
+4b. **Anchor thoại phải có câu hỏi thật và câu đáp mang tin.** Anchor thoại toàn lượt 2–4 chữ (`“发声。”` `“嗯？”`
+   `“不是。”`) **dạy Writer viết cụt** — Tác giả đã bắt đúng lỗi này hai lần (`si-khung.md`; `manga-v7` 01/11:
+   *"Thoại không đạt. Trống không, rút gọn, cụt quá nhiều"*). Chọn đoạn có: một câu hỏi mà người kia phải trả lời,
+   câu đáp có số/giá/hạn, và một lượt người nói tự giải thích bằng giọng của họ. Đừng chọn đoạn mà lượt ngắn là
+   xác nhận rỗng (`是。` `对。` `今天。`). Cùng lỗi đó cũng nằm ở **luật**: "short and snappy", "blunt refusals"
+   trong SI dạy cụt mạnh hơn anchor — viết luật bằng lời ("mỗi lượt trả lời lượt trước và mang thêm một sự thật").
+
 5. BANS — đúng 5 dòng, mỗi dòng nói thứ đúng trước rồi mới nói thứ không có. Không liệt kê từ cụ thể (SI cũ cấm
    眸子/一丝 thì văn ra đúng mấy chữ đó), không nhắc công cụ soát: bản SI ghi "Checked by machine tools" ra 实 = 0
    nhưng 整整/足足/死死 = 3,0/1.000 字 — Writer né regex bằng từ họ hàng. Danh sách từ để bắt nằm ở
