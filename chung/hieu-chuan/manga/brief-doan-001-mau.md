@@ -6,7 +6,7 @@ Bối cảnh thời đại (dữ kiện để giữ cho đúng, không cần k�
 
 Đạo cụ và thao tác. Quyển sổ tiếp nhận đóng bìa cứng, con dấu ngày, khay nhựa đựng hồ sơ, phong bì B4 đựng 32 trang bản thảo, băng dính giấy, ghim kẹp. Thao tác có thể khai thác: đóng dấu lên phiếu, gỡ ghim, đếm trang, ghi số thứ tự vào sổ, đẩy khay qua bên kia quầy, dán băng dính lên mép phong bì.
 
-Trạng thái riêng. Kurokawa sáng nay vừa bị biên tập trưởng hỏi về danh sách tác giả của cô — ba năm, không giữ được ai. Cô xuống quầy vì không muốn ngồi ở bàn, và trong lúc đi thang máy cô thầm nghĩ nếu hôm nay có chuyện gì bất thường xảy ra thì cũng đỡ buồn ngủ. Akiyama chỉ có một mối bận tâm: bản thảo này có được đọc hay không; anh đã chuẩn bị sẵn ba câu trả lời cho ba câu hỏi mà anh đoán sẽ bị hỏi, và không chuẩn bị gì cho câu hỏi thứ tư.
+Trạng thái riêng. Kurokawa sáng nay vừa bị biên tập trưởng hỏi về danh sách tác giả của cô — ba năm, không giữ được ai. Cô xuống quầy thay vì ngồi ở bàn. Trong lúc đi thang máy, cô nghĩ hôm nay có gì bất thường thì cũng đỡ buồn ngủ. Akiyama chỉ có một mối bận tâm: bản thảo này có được đọc hay không; anh đã chuẩn bị sẵn ba câu trả lời cho ba câu hỏi mà anh đoán sẽ bị hỏi, và không chuẩn bị gì cho câu hỏi thứ tư.
 
 Ba biến cho mỗi người khi nói (không giao lời thoại). Kurokawa: muốn biết anh ta nộp hộ ai và vì sao không đi cửa hẹn trước; không muốn nhận trách nhiệm đọc một bản thảo vô danh; tay đang cầm con dấu và quyển sổ. Akiyama: muốn có một số tiếp nhận để chứng minh đã nộp đúng hạn; không muốn nói ra chuyện Uesugi không biết; tay đang giữ mép phong bì và không buông ra.
 
@@ -14,6 +14,6 @@ Khoá: Kurokawa đóng dấu nhận và ghi số vào sổ; Akiyama lấy lại 
 
 Dừng ở Akiyama gấp cuống phiếu làm đôi, cho vào túi áo ngực, rồi quay người đi về phía thang máy.
 
-Người có mặt: Kurokawa Midori — biên tập viên phụ trách, 33 tuổi, tóc dài búi lỏng, ngón tay ám vệt thuốc, nói thẳng; Akiyama Satoru — 23 tuổi, trợ lý thực tập, mặt trắng, mắt sâu, bình tĩnh, chuẩn bị trước mọi câu trả lời.
+Người có mặt: Kurokawa Midori — biên tập viên phụ trách, 33 tuổi, tóc dài búi lỏng, ngón tay ám vệt thuốc, nói thẳng; Akiyama Satoru — 23 tuổi, trợ lý thực tập, mặt trắng, mắt sâu, đã chuẩn bị sẵn ba câu trả lời cho ba câu hỏi anh đoán sẽ bị hỏi.
 Xưng hô: Kurokawa gọi Akiyama là Akiyama桑, tự xưng 我; Akiyama gọi Kurokawa là 黑川小姐, tự xưng 我.
 Sổ đầu đoạn: bản thảo 32 trang; Akiyama lương tháng 70.000 円; giải thưởng tuyển chọn 1.000.000 円, gần tuyển chọn 500.000 円, khuyến khích 200.000 円; hạn nộp đợt nửa đầu năm là hết hôm nay; Kurokawa 33 tuổi, vào nghề bảy năm.
