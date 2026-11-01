@@ -170,6 +170,15 @@ HƯỚNG DẪN ĐIỀN
    Luật sinh ra để chữa đúng một bản thảo không vào SI. Các "dòng thêm vào SI" trong `si-cau-truc.md` mục 6–8, 12–13
    là ứng viên, cùng phải qua cổng này.
 
+6b. **Sửa bằng BỎ, không bằng THAY** (Tác giả 01/11). Khi một lỗi xuất hiện, việc đầu tiên không phải thêm luật —
+   mà tìm **luật đang gây ra nó** và bỏ. "Sửa" ở đây nghĩa là xoá dòng, không phải viết lại dòng đó cho khéo hơn:
+   đổi một câu cấm thành một câu cấm khác vẫn là cấm, model vẫn bị dẫn đi cùng một hướng. Quy trình: bỏ một dòng →
+   chạy lại **đúng brief cũ** 2 lần → nếu lỗi cũ **không quay lại** thì dòng đó không cần, và đó là kết quả tốt hơn
+   (SI ngắn đi mà lỗi không tái phát). Chỉ khi bỏ mà lỗi quay lại mới được thêm luật để dạy.
+   Hệ quả về hình thức: **principle là hướng dẫn NÊN làm**, không phải danh sách cấm. "Narration carries what the
+   observer notices first, what they would rather avoid" là principle; "never write a general truth" là luật cấm —
+   cái sau vừa xoá mất bối cảnh thời đại mà bộ mẫu dùng rất nhiều. Ô dành cho cấm là BANS, đúng 5 dòng.
+
 7. Không đưa vào SI: dữ kiện (xưng hô, tỷ giá, giá cả, ai chết), nhãn tính cách, bối cảnh, tên mục của brief (SI phải
    chạy được với cả mẫu A lẫn mẫu B — AGENT.md mục 4), câu ví dụ sai, tính từ phẩm chất mô tả cách viết (plain, flat,
    concrete… — Writer diễn chúng vào câu: "平板无波", "扎得极实"). Ngoại lệ: FIXED CONVENTIONS mục 2 dùng tên của

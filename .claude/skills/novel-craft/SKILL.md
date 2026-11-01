@@ -183,10 +183,10 @@ v5 nằm ở 98,5–99,7% trần: ngân sách đang bị dùng như **hạn mứ
   có Tác giả duyệt**, 2 ghi "Duyệt: Agent", 3 không ghi. `Duyệt: Agent` chấp nhận được cho SI chưa có đoạn
   nào — nhưng phải ghi, và cập nhật số ký tự vào README **cùng commit**.
 
-**Cổng xét luật mới vào SI** (dừng ở nấc đầu tiên đúng): (1) do brief/thiếu dữ kiện → sửa brief/glossary/state;
-(2) mới gặp một lần → `review-blacklist` + ghi sổ; (3) lặp ở **≥2 lần chạy với brief khác nhau** → một dòng PART 2
-**thay** một dòng cũ, dòng bị thay ghi vào `log.md` kèm mã can thiệp; (4) chưa có phép thử thì chưa được coi là
-đã chữa. Cổng có từ 29/10 mà **chưa lần nào được dùng đúng**: grep `gỡ|bỏ luật|thay dòng` trên mọi `log.md` ra
+**Cổng xét luật mới vào SI** — **bỏ trước, thêm sau**: (1) **bỏ** dòng luật đang gây lỗi, chạy lại đúng brief cũ —
+không tái phát thì xong (ngắn lại là tốt); (2) do brief/thiếu dữ kiện → sửa brief/glossary/state;
+(3) mới gặp một lần → `review-blacklist` + ghi sổ; (4) lặp ở **≥2 lần chạy với brief khác nhau** → một dòng
+PART 2 **thay** một dòng cũ, ghi `log.md` kèm mã can thiệp; (5) chưa có phép thử thì chưa được coi là đã chữa. Cổng có từ 29/10 mà **chưa lần nào được dùng đúng**: grep `gỡ|bỏ luật|thay dòng` trên mọi `log.md` ra
 0 dòng theo khuôn, trong khi `ky-kham-lanh-chua` đã đi từ 15 lên 25 dòng PART 2.
 
 **Phép thử SI**: chạy lại **đúng brief cũ**, chat mới, **2 lần**, không thêm dòng nào vào prompt; biên độ là
