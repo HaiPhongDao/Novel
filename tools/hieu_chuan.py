@@ -216,6 +216,9 @@ def cmd_so_sanh(argv):
     bang = _doc_bang()
     g = do(Path(a.goc).read_text(encoding="utf-8"))
     s = do(Path(a.sinh).read_text(encoding="utf-8"))
+    if s["han"] < 800:
+        print(f"LỖI: bản sinh chỉ có {s['han']} chữ Hán — cụt hoặc hỏng, không cần chẩn đoán.")
+        return 1
 
     hang = [("字/đoạn", "han_doan"), ("字/câu", "han_cau"), ("lượt thoại", "luot"),
             ("字/lượt thoại", "han_luot"), ("% đoạn có thoại", "ti_le_thoai"),
@@ -245,15 +248,16 @@ def cmd_so_sanh(argv):
 
     print()
     if hong:
-        print("PHÁN QUYẾT: KHÔNG ĐẠT — " + str(len(hong)) + " chỉ số ngoài biên độ mẫu ở đúng loại tật nó đo:")
+        print("CHẨN ĐOÁN (không phải điểm, không phải cổng) — mấy chỗ này lệch khỏi bộ mẫu:")
         for h in hong:
             print("  ·", h)
-        print("\nSố đo chỉ là cửa ải cơ học. Chưa được coi là chốt SI: vẫn phải cho Tác giả")
-        print("đọc file đọc cặp. Sửa MỘT biến rồi chạy lại 2 lần.")
-        return 1
-    print("PHÁN QUYẾT: số đo TRONG biên độ mẫu — nhưng đó KHÔNG phải bằng chứng văn hay.")
-    print("Đếm chữ không đo được tiểu thuyết. Việc còn lại, và là việc quyết định: Tác giả")
-    print("đọc file cặp (--doc-cap), rồi ghi vào sổ là ĐẠT hay chưa. Agent không tự chấm bước này.")
+        print("\nSố đo KHÔNG nói văn hay hay dở, và không được dùng làm đích trong SI:")
+        print("đưa con số nhịp vào SI thì Writer tối ưu cho con số (đo được: SI ghi 18–26 ra 11–15).")
+        print("Đọc `--doc-cap` rồi tự quyết. Muốn nhịp đúng thì sửa **anchor**, không sửa số.")
+        return 0
+    print("Chẩn đoán: các cột trên không lệch khỏi bộ mẫu. Đây cũng KHÔNG phải bằng chứng văn hay —")
+    print("đếm chữ không đo được tiểu thuyết. Việc quyết định vẫn là đọc `--doc-cap`, và nhịp thì do")
+    print("anchor gánh, không do khối số nào trong SI.")
     return 0
 
 

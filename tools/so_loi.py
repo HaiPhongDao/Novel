@@ -200,8 +200,10 @@ def cmd_can_thiep(argv):
     them(CAN_THIEP, rec)
     print(f"đã ghi {rec['id']}: {rec['tang']} cho {a.loi} -> {ket_luan}"
           + (f" ({so} biên độ)" if so is not None else " (chưa có số)"))
-    if rec["n"] < 2:
+    if rec["n"] < 2 and ket_luan in CAN_SO:
         print("  nhắc: n<2 nên chưa đủ bằng chứng; ghi 'chua-ro', đừng nâng thành luật.")
+    elif ket_luan == "tac-gia-bac":
+        print("  đã ghi lý do Tác giả bác — luật này không được thêm lại nếu không có chỉ dẫn mới.")
 
 
 def cmd_phan_quyet(argv):
@@ -287,12 +289,11 @@ def cmd_quet(argv):
             print(f"   {chi_so:<20}{r[chi_so]:>4} chỗ   {dens:>6.2f}/1.000   ", end="")
             if a.truyen and (a.truyen, chi_so) in dich:
                 d = dich[(a.truyen, chi_so)]
-                bd = d.get("bien_do") or max(0.05, d["gia_tri"] * 0.5)
-                lech = (dens - d["gia_tri"]) / bd
-                co = "TRÊN ĐÍCH" if lech > 1 else ("dưới đích" if lech < -1 else "trong đích")
-                print(f"đích {d['gia_tri']} ({d['nguon']})  lệch {lech:+.1f} nhiễu -> {co}")
+                # Chỉ nêu số của bộ mẫu để tham chiếu, KHÔNG chấm "trên/dưới đích": mật độ
+                # của một tật là chuyện của người đọc, không phải một ngưỡng phải đạt.
+                print(f"mẫu: {d['gia_tri']} ({d['nguon']})")
             else:
-                print("(chưa đặt đích)")
+                print("(chưa đo bộ mẫu)")
         print(f"   tb-chu-luot={r['tb-chu-luot']}  luot-thoai={r['luot-thoai']}  ti-le-thoai={r['ti-le-thoai']}%")
 
 

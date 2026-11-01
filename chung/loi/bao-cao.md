@@ -2,20 +2,20 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **44** · Lần quan sát: **140** · Can thiệp: **22** · Đích đã đặt: **20**
+- Kiểu lỗi: **44** · Lần quan sát: **140** · Can thiệp: **23** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **0/22** (0%)
+- Can thiệp đã đo: **0/23** (0%)
 
-- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **4** · Chưa đo: **18**
+- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **5** · Chưa đo: **18**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
 
 | Mã | Kiểu lỗi | Số chỗ | Số đợt | Can thiệp (tầng · kết luận · biên độ) |
 |---|---|---|---|---|
-| E-PROSE-07 | Câu cụt, chia đoạn quá vụn | 448 | 3 | I-0008 · SI · chưa rõ · chưa đo<br>I-0022 · SI · đề xuất · chưa đo |
+| E-PROSE-07 | Câu cụt, chia đoạn quá vụn | 448 | 3 | I-0008 · SI · chưa rõ · chưa đo<br>I-0022 · SI · đề xuất · chưa đo<br>I-0023 · SI · Tác giả bác · chưa đo |
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo |
 | E-PROSE-06 | Thẻ thoại mở đầu mọi lượt | 61 | 18 | I-0009 · SI · chưa rõ · chưa đo |
 | E-PROSE-03 | So sánh của người kể | 55 | 23 | — |
@@ -49,6 +49,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0018 | E-SI-04 | SI | SI v4 → v4.1: thêm hai câu về lời thoại (+362 ký tự) | do-va-hoc.md · Tác giả chấm 'không đạt, kém hơn bản trước'; đã trả SI về v4 |
 | I-0019 | E-SCENE-01 | SI | Siết 'lượt thoại tự đứng' quá tay thành thoại cụt | si-khung.md · Tác giả: 'cụt, trống không' |
 | I-0020 | E-GATE-02 | TOOL | Dùng điểm số làm kết luận ĐẠT; thêm bước đọc tương tác hành vi trước khi báo cáo | KN36 · 'Càng không đạt, viết quá loạn xạ' |
+| I-0023 | E-PROSE-07 | SI | Tac gia bac huong 'lay so do nhip lam cong chot SI': bo khoi LENGTH khoi writer/SI-template (v6), khong thay bang khoi so nao. Nhip do anchor va nguyen tac viet bang loi ganh | Tac gia 01/11: 'Con so dem la vo nghia trong van hoc. No chi khien Writer kem di thoi. Neu phan SI khac viet tot, Anchor dung thi khong can den khoi Length do.' |
 
 ## Đích của từng chỉ số (nguồn: mẫu / Tác giả / nội bộ)
 

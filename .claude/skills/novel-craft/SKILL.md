@@ -252,11 +252,11 @@ Mỗi đoạn trọn một vòng mục 1 rồi mới sang đoạn kế — gom c
 (một beat không còn xảy ra được) → ghi bảng lệch, soạn lại 2–3 đoạn kế, trình Tác giả.
 
 **Mở truyện — chốt SI trước, dựng truyện sau.** Trước `bible/` và `plot/outline.md` phải qua **bài kiểm tra SI
-trên nội dung bộ mẫu**: lấy biên độ 30 chương (`hieu_chuan.py do-chuong`), tách chương 1, viết brief chỉ có sự
-việc, chạy Writer 2 lần, rồi `hieu_chuan.py so-sanh --doc-cap …` — lệch biên độ thì trả `exit 1`. **Số đo chỉ là
-cửa ải cơ học, không đo được tiểu thuyết**; thứ chốt SI là Tác giả đọc file cặp rồi đồng ý. Dựng bible rồi mới
-thử SI là đổi bốn biến cùng lúc — ca `manga-tokyo-1996` lệch 5 SD ở 字/lượt thoại mà vẫn tự chấm ĐẠT
-(`chung/hieu-chuan/README.md`).
+trên nội dung bộ mẫu**: tách chương 1, viết brief chỉ có sự việc, chạy Writer 2 lần, ghép `doc-cap` rồi **Tác giả
+đọc cặp mẫu ↔ bản sinh**. **Không chấm bằng số:** con số nhịp trong SI chỉ khiến model tối ưu cho số (SI ghi
+`Sentence 18–26` → bản ra 11–15 字/câu; ghi `median 15` → không đoạn nào quá 21 chữ). SI từ v6 **không có khối
+LENGTH**; nhịp do **anchor** gánh, nên anchor phải có cả dòng ngắn lẫn đoạn mở ra. Quy trình:
+`chung/hieu-chuan/README.md`.
 
 Sau đó: đọc bảng truyện ở `README.md` gốc — truyện mới phải khác **trục**, không chỉ khác bối cảnh. Tác giả đã
 nói thể loại / "tùy bạn" = đã chốt: dựng luôn, không mở form thứ hai. 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu
