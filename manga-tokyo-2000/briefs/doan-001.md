@@ -1,47 +1,38 @@
-# PROMPT BRIEF: ĐOẠN 001 (KINETIC SCENE BRIEF)
+# PROMPT BRIEF: ĐOẠN 001 (SẢNG VĂN ĐÔ THỊ VĂN NGU — BẢN TÁI THIẾT KẾ)
 Tác giả kiến trúc: Argon (Co-founder / Master Architect)
-Quy chuẩn: Mẫu C — Kiến trúc 3 tầng (Kiểm toán Argon 01/11/2026)
+Thể loại: Webnovel / Đô thị Văn Ngu / Sảng văn (爽文)
 Mục tiêu độ dài: ~2000 chữ Hán (tiếng Trung)
 
 ---
 
 <read_only_ledger access="verify_only" narrate="false">
-# SILENT FACT SHEET (TRA CỨU CHỐNG MÂU THUẪN — CẤM THUYẾT MINH/HỒI TƯỞNG TRONG CHÍNH VĂN)
+# SILENT FACT SHEET (TRA CỨU CHỐNG MÂU THUẪN)
 - Protagonist: Takahashi Hayao (Romaji: Takahashi Hayao)
-- Role: Mangaka tự do / Họa sĩ vẽ gia công (asistanto) tại Tokyo
-- Current Location: Căn phòng trọ 6 tatami cũ kỹ tại Koenji, Tokyo
-- Timeline: Mùa đông năm 1999 (Tháng 11/1999), đêm khuya
-- Financial / Resource Ledger (Exact Figures):
-  + Tiền thuê nhà quá hạn 4 ngày: 48,000 yên
-  + Tiền mặt trong ví: 3,420 yên
-  + Tiền ứng trước bản thảo gia công: chưa về
-  + Nợ tiền giấy manuscript và mực: 2,100 yên
-- Already Told: [Đoạn mở đầu - Chưa có chi tiết nào được kể trước đó]
+- Role: Trợ lý vẽ manga kiêm người vẽ gia công ngầm tại Tokyo, bên trong nắm giữ linh hồn và kỹ năng đỉnh cao của đại sư manga tương lai (降维打击).
+- Current Location: Căn phòng trọ Koenji, Tokyo, Tháng 11/1999.
+- Antagonist/Pressure: Tanaka — gã trợ lý trưởng kiêm đầu nậu gia công tiểu ngạch hách dịch, chuyên ăn chặn tiền công và chèn ép trợ lý mới.
+- Target: 10,000 yên tiền công gia công 4 trang đô thị; chuẩn bị tung ra One-shot dự thi giải tân binh Shonen Jump.
 </read_only_ledger>
 
 <active_scene_brief target_length="2000_chars">
-### 1. CAMERA & TIME WINDOW
-- **Location:** Căn phòng trọ chật chội 6 tatami ngập mùi mực Pilot và giấy bản thảo cũ tại Koenji, Tokyo. Ánh đèn bàn 40W chập chờn.
-- **Time Span:** Khoảng 15 phút liên tục ngay trước bàn vẽ vào lúc nửa đêm mùa đông tháng 11/1999.
-- **POV Focus Lock:** 100% suy nghĩ của Takahashi Hayao bị chiếm dụng bởi thao tác vẽ gia công trước mắt, kiểm đếm chất lượng nét kẻ và bài toán sinh tồn thâm hụt tiền bạc.
+### 1. CÚ HOOK CỰC MẠNH NGAY MỞ ĐẦU (300 chữ đầu)
+- Mở đầu thẳng bằng tiếng đập cửa rầm rầm giữa đêm khuya tại căn phòng trọ Koenji. Tanaka đạp cửa bước vào, ném thẳng xấp bản thảo vẽ nền xuống sàn tatami trước mặt Hayao.
+- Tanaka hách dịch quát tháo: chê bai nét vẽ, dọa trừ sạch 10,000 yên tiền công, đòi mách "Suzuki-sensei" phong sát cấm cửa Hayao trong giới trợ lý Tokyo nếu không sửa xong trước 6h sáng.
+- Sự tương phản sảng văn: Căn phòng trọ tồi tàn, nhưng Takahashi Hayao ngước mắt lên không hề có vẻ sợ sệt của kẻ bần hàn, mà toát ra sự sắc lạnh, tĩnh lặng của một bậc thầy nắm giữ tiêu chuẩn nghệ thuật đỉnh cao đời sau (khí chất giả heo ăn hổ 扮猪吃虎).
 
-### 2. PROPS & PHYSICAL INVENTORY (Đạo cụ bắt buộc tương tác)
-- Bút G-pen mòn ngòi rít trên thớ giấy Kent.
-- Lọ mực Pilot dính cặn khô viền nắp.
-- Dao trổ cạo nét bản thảo.
-- Tờ hóa đơn tiền điện/tiền nhà đỏ rực bị vo viên nằm góc bàn.
-- Chồng bản thảo vẽ gia công dang dở phải giao trước 8h sáng mai.
+### 2. KINETIC BEATS (Trình tự vả mặt & Phô diễn kỹ thuật thần cấp)
+- **Beat 1 (Tiếp nhận & Vạch trần điểm mù của sensei):**
+  Tanaka chỉ tay vào khung tranh hống hách: "Cậu vẽ bóng đổ và phối cảnh kiểu gì mà làm lệch hẳn nhân vật chính của Suzuki-sensei?". Hayao nhặt bản thảo lên, liếc mắt 3 giây rồi chỉ thẳng 3 lỗi chết người của chính Suzuki-sensei: góc tụ 3 điểm phối cảnh bị gãy, tỷ lệ cơ thể nhân vật bị lệch trục, đường dẫn mắt (eye-tracking) của độc giả bị cắt đứt. Từng câu nói lạnh lùng, chuẩn xác như dao mổ giải phẫu khiến Tanaka nghẹn họng, không cãi lại được nửa lời.
+- **Beat 2 (Thị uy bằng ngòi bút — Màn trình diễn kỹ thuật áp đảo 降维打击):**
+  Không thèm nhiều lời tranh cãi, Hayao cầm cây bút G-pen. Cổ tay chuyển động với tốc độ và độ chuẩn xác kinh ngạc: không cần dùng thước, chỉ bằng vài đường nét dứt khoát và kỹ thuật đánh bóng (cross-hatching) điêu luyện, anh sửa lại toàn bộ chiều sâu không gian của tòa nhà. Khung tranh từ một mớ hỗn độn chết chóc lập tức bừng sáng, toát ra sức căng thị giác nghẹt thở. Tanaka đứng cạnh trợn tròn mắt, toát mồ hôi lạnh, bàng hoàng nhận ra trình độ này đè bẹp hoàn toàn tên "chủ bút" hắn đang bợ đỡ.
+- **Beat 3 (Đảo ngược vị thế & Đòi tiền sòng phẳng):**
+  Tanaka run rẩy, thái độ từ khinh mạt chuyển sang kinh sợ. Hayao ném trả bản thảo đã sửa xong, thản nhiên gõ ngón tay xuống bàn yêu cầu thanh toán đủ 10,000 yên tiền mặt ngay tại chỗ. Tanaka không dám ho he, lập tức móc ví đếm đủ tiền rồi ôm bản thảo vội vã tháo chạy.
+- **Beat 4 (Cú Hook mở ra tương lai chấn động):**
+  Sau khi cửa đóng, Hayao cất 10,000 yên vào túi. Anh mở ngăn kéo, rút ra tập bản thảo One-shot dự thi giải tân binh Shonen Jump của chính mình — một siêu phẩm manga kinh điển đời sau chuẩn bị làm chấn động toàn bộ giới manga Nhật Bản.
 
-### 3. KINETIC BEATS (Trình tự diễn tiến vi thao tác)
-- **Beat 1 (Phóng đại độ phân giải thao tác vật lý):**
-  Hayao khom lưng, tì cùi chỏ lên cạnh bàn gỗ sờn, kiểm tra độ sắc của đường nét rc (raster line) dưới ánh đèn bàn 40W chập chờn. Đầu ngòi bút G-pen khựng lại ở góc khung tranh do thớ giấy hơi ẩm vì lạnh. Thao tác nhúng mực, gạt cặn mực ở miệng lọ, kéo nét kẻ khung chính xác từng milimet.
-- **Beat 2 (Phẫu thuật con số — Trọng tâm tính toán):**
-  Ánh mắt liếc sang tờ hóa đơn tiền nhà 48,000 yên đã quá hạn 4 ngày. Nhẩm tính số trang gia công còn lại phải hoàn thành trước 8 giờ sáng mai để đổi lấy khoản tiền công ít ỏi đủ trả tiền gas và mua đồ ăn. Đối chiếu 3,420 yên còn lại trong ví với khoản nợ vật tư 2,100 yên.
-- **Beat 3 (Đấu tranh nội tâm thực tế qua hành động):**
-  Cơn đau nhói ở vùng cổ vai gáy do cúi vẽ nhiều giờ liền. Bàn tay trái siết chặt mép bàn khi đứng trước lằn ranh: tiếp tục cắm mặt vẽ thuê để kiếm cơm qua ngày hay rút tập bản thảo dự thi giải tân binh ra phác thảo lại từ đầu.
-- **Hard Camera Cut (Điểm dừng bắt buộc của đoạn):**
-  Tiếng gõ cửa khô khốc vang lên từ phía hành lang tatami bên ngoài, cắt đứt hoàn toàn tiếng quạt tản nhiệt của chiếc đèn bàn. Dừng ngay tại khoảnh khắc tiếng gõ cửa dội vào phòng.
+### 3. HARD CAMERA CUT
+- Ngòi bút G-pen mới sắc lẹm chấm vào mực, hạ thẳng xuống trang bìa bản thảo dự thi. Tiếng ngòi bút rít lên đầy uy lực trên giấy trắng tinh dứt khoát kết thúc đoạn 001.
 </active_scene_brief>
 
 [PRE-FLIGHT DIRECTIVE]
-Trong bước Thinking, hãy liệt kê: (1) Danh sách đạo cụ vật lý sẽ dùng trong 3 Beats, (2) Các phép tính con số cụ thể (48,000 yên, 3,420 yên, 2,100 yên), (3) Điểm dừng vật lý ở tiếng gõ cửa. Tuyệt đối không viết tóm tắt bối cảnh kiếp trước hay tiểu sử nhân vật. Bắt đầu thẳng bằng hành động vật lý của Hayao trước bàn vẽ.
+Viết theo chuẩn Sảng văn Đô thị Văn Ngu (Qidian/Fanqie). Nhịp điệu dồn dập, đối thoại sắc bén đanh thép, tương phản cực mạnh giữa hoàn cảnh bần hàn và kỹ năng thần cấp áp đảo. Đem lại cảm giác sướng (爽) mãnh liệt khi vạch trần điểm mù và phô diễn ngòi bút khiến đối phương sợ hãi!
