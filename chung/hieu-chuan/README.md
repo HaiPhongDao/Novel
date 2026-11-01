@@ -55,42 +55,36 @@ bằng số" — mà là **bỏ việc chấm bằng số**, để chỉ còn m�
 (「编辑部的生存法则是冰冷的」, 「在这个年份，东京不会同情…」, 「一个新人作者通常需要…」). Đây là thứ
 Tác giả gọi là "nói linh tinh", và trước giờ không cột nào đếm nó.
 
-## Ca thứ hai: hai bản `v1-ch01-a` / `v1-ch01-b` (manga-v7)
+## Ca thứ hai: bốn bản `v1`/`v2-ch01-a·b` (manga-v7)
 
-Hai bản, cùng một kiểu hỏng, **ngược** với ca 1996 — cả hai đều bị băm vụn:
+Chạy cùng một chương mẫu, đổi đúng một thứ: SI có con số nhịp hay không.
 
-| Chỉ số | Mẫu ch.1 | Bản A | Bản B | Biên độ |
-|---|---|---|---|---|
-| 字/đoạn | 19,7 | **10,4** | **13,8** | 18,8 – 30,9 |
-| 字/câu | 21,9 | **11,2** | **15,1** | 17,1 – 28,4 |
-| đoạn dài nhất | 93 | **21** | **38** | 67,7 – 104,6 |
-| 字/lượt thoại | 8,8 | 8,1 | 7,1 | 4,9 – 20,3 ✓ |
-| giảng huấn | 1,28 | 0,98 | 0,66 | 0 – 3,5 ✓ |
+| | 字/đoạn | 字/câu | đoạn dài nhất | 字/lượt thoại | giảng huấn |
+|---|---|---|---|---|---|
+| Mẫu ch.1 | 19,7 | 21,9 | **93** | 8,8 | 1,28 |
+| v1-a (SI: 10–25, median 15) | 10,4 | 11,2 | **21** | 8,1 | 0,98 |
+| v1-b | 13,8 | 15,1 | **38** | 7,1 | 0,66 |
+| v2-a (SI: 18–28, median 21) | 18,4 | 20,2 | **44** | 10,0 | 0,39 |
+| v2-b | **21,6** | **23,0** | **54** | 12,2 | 1,2 |
 
-Nhịp thoại đã **đúng** — đó là phần SI dạy được. Nhưng bản A **không có đoạn nào dài quá 21 chữ**;
-mẫu có đoạn 93 chữ. Cả hai bản chỉ viết câu một mệnh đề.
+Đọc bảng này cho đúng: **con số đúng bằng mẫu thì kéo được thống kê khớp mẫu gần như tuyệt đối** —
+v2-b ra 21,6 / 23,0 so với 19,7 / 21,9. Nên câu "số làm Writer kém đi" là quá mạnh và **không đúng với số liệu**.
+Điều đúng là:
 
-**Nguyên nhân nằm ngay trong SI, không phải ở Writer.** Mục LENGTH của SI ghi:
+- Con số *sai* (thấp hơn mẫu) kéo văn co lại theo (v1: 10–14 字/đoạn, không đoạn nào quá 21 chữ).
+- Con số *đúng* kéo thống kê khớp mẫu **mà trang vẫn không mở ra**: đoạn dài nhất 44–54 so với 93 của mẫu.
+- Và chính vì khớp số, bản v2 **được chấm ĐẠT** trong khi Tác giả đọc vẫn thấy chưa đạt.
 
-```
-- Sentence 18–26 characters, one or two clauses. Narration paragraphs are short
-  (median around 15 characters).
-- Dialogue turns are crisp, averaging 7–11 characters per turn.
-```
-
-Chữ "median around 15" lấy từ **chương 1**. Trung vị của **30 chương** là **21**, trung bình 25. Nên
-con số trong SI thấp hơn chuẩn bộ mẫu 30%. Và model còn viết ngắn hơn cả con số đó (10–14): khi mỗi
-đoạn là một mệnh đề thì câu cũng ngắn theo.
-
-**Bài học lặp lại lần thứ hai:** đừng lấy số của một chương bỏ vào SI.
-
-**Sửa gì: bỏ hẳn khối LENGTH.** Tác giả quyết định 01/11: *"Con số đếm là vô nghĩa trong văn học, nó chỉ khiến
-Writer kém đi. Nếu phần SI khác viết tốt, anchor đúng thì không cần khối Length."* Hai ca trên là bằng chứng:
-đưa số vào thì model tối ưu cho số, và còn viết ngắn hơn cả số. Muốn nhịp đúng thì **sửa anchor**, không sửa số.
+**Kết luận:** số làm Writer tối ưu cho số. Khớp thống kê không phải khớp văn, và khớp thống kê tạo cảm giác an
+toàn giả — đó mới là lý do bỏ nó, không phải "bỏ vì nó làm văn tệ hơn".
 
 ## Bỏ khối LENGTH
 
-Khối LENGTH đã bị xoá khỏi `writer/SI-template` (v6). Không thay bằng khối số khác — không có khối nào cả.
+Tác giả quyết định 01/11: *"Con số đếm là vô nghĩa trong văn học, nó chỉ khiến Writer kém đi. Nếu phần SI khác
+viết tốt, anchor đúng thì không cần khối Length."* Khối LENGTH đã bị xoá khỏi `writer/SI-template` (v6), và xoá
+luôn **mọi** con số nhịp rải ở chỗ khác (PART 1 mục 1, phần thoại) — vì bỏ riêng LENGTH thì bốn chỗ còn lại vẫn
+ra lệnh bằng số. Không thay bằng khối số khác: không có khối nào cả.
+
 Nhịp do hai thứ gánh:
 
 1. **Anchor**: mỗi nguyên tắc lời kể đi kèm một đoạn nguyên văn từ bộ mẫu có đúng nhịp muốn có, và **có cả đoạn
