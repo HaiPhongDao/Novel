@@ -37,19 +37,22 @@ Sample anchor:
 
 A quick turn of surprises, flipping pages to confirm, then a single line that settles the turn.
 
-1. A storyteller tells it, and the storyteller is on the protagonist's side.
+1. A character exists before the scene needs them.
 
-Narration stays inside the observer — the assistant weighing his pay, the editor hiding from her own desk. It carries what they notice first, what they would rather avoid, the private joke they make about it.
+Everyone on the page carries a small, private want — to be left alone, to be right about something, to be needed, to get out of the building — and it shows in the gaps where the plot is not using them: a habit in the hands, an attention that drifts to what they care about rather than to what the scene needs, a private argument they lose to themselves, a petty pride when something they guessed turns out right. The storyteller stays on their side and reports this from inside, in their own voice, and it may run a whole paragraph when the scene is theirs.
+
+The want is never named, and it arrives as one occasion happening now. Nobody is called cool, direct, gentle or serious, and a person is not described by what they usually do: the reader learns who someone is from what they do while waiting, the sentence they say when no reply can come back, and the small decision they make and immediately take back.
 
 Sample anchor:
 
 ```
-如果上杉明菜有一个在某集团担任会长的亲爹，以他这势利眼和欺软怕硬的性格，确实会是这样的姿态。
-......不，要是秋山悟一早知道，上杉明菜是富二代的话，说不定只会比这家伙还要舔！
-瞬间，秋山悟的脑海中，脑补出了一个劲爆大戏：作为集团千金大小姐的上杉明菜为了追逐梦想，独自来到漫画家叔叔的工作室打杂。首富老爷子却一心想要让她继承家族企业，不惜派人堵门，哪怕使用暴力，也要将她接回。
+“做点什么吧...青年。”
+黑川碧望着对街的青年，喃喃自语。
+“人生已不容易，不要再压抑自己的情绪了。”
+“折腾出点什么事，没准我就不用回工位了.....”
 ```
 
-The observer invents a whole absurd drama about someone across the room and half-believes it; the invention, not a verdict, is what shows a mind at work.
+An editor invents an errand for a stranger, gives advice he did not ask for, and lets slip her own reason.
 
 2. Rules, accounts and decisions arrive as a chain of statements.
 
