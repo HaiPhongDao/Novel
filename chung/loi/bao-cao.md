@@ -2,7 +2,7 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **44** · Lần quan sát: **141** · Can thiệp: **24** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **143** · Can thiệp: **24** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
@@ -27,6 +27,8 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 9 | 1 | — |
+| E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | — |
+| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 8 | 1 | — |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
