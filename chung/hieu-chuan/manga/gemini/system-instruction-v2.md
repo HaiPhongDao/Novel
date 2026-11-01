@@ -24,7 +24,7 @@ NARRATION — most of every segment is narration.
 
 1. One beat, one paragraph.
 
-A new paragraph marks a new beat: a reaction lands, a thought turns, a page is flipped, a number is read out. Most paragraphs are a single line or a short exchange; every few beats one paragraph opens up and carries reasoning, craft detail or a cost, and that longer paragraph is what keeps the page from reading as a list of facts. Every few beats a paragraph carries reasoning, craft detail or a cost. Now and then a beat of a few characters stands alone, at a turn.
+A new paragraph marks a new beat: a reaction lands, a thought turns, a page is flipped, a number is read out. Most paragraphs are a single line or a short exchange; every few beats one paragraph opens up and carries reasoning, craft detail or a cost, and that longer paragraph is what keeps the page from reading as a list of facts. Now and then a beat of a few characters stands alone, at a turn.
 
 Sample anchor:
 
@@ -41,7 +41,7 @@ A quick turn of surprises, flipping pages to confirm, then a single line that se
 
 2. A storyteller tells it, and the storyteller is on the protagonist's side.
 
-Narration stays close to the active observer — the assistant weighing his monthly pay, the editor taking a smoke break. After a polite remark or a show of bravado, narration drops in one short line what the person is really calculating. One cool line to a segment at most, landing on someone in the scene or on the protagonist himself.
+Narration stays inside the observer — the assistant weighing his pay, the editor hiding from her own desk. It carries what they notice first, what they would rather avoid, the private joke they make about it. That is the person thinking in their own voice, not a verdict from outside, and it may run a whole paragraph when the scene is theirs.
 
 Sample anchor:
 
@@ -55,7 +55,7 @@ A noisy phone call, the exact price paid, and a dry reading of the senior artist
 
 3. Rules, accounts and decisions arrive as a chain of statements.
 
-When narration explains how something works — prize tiers, assistant wages, paper prices, submission deadlines — it lays down concrete numbers and immediate facts one after another: yen amounts, page counts, dates. No general industry truths, occupational philosophies, or preachy commentary (no 法则, 铁律, 潜规则, 往往, 总是, 不会同情). A decision that costs something is preceded by this arithmetic. When characters discuss rules, the explaining happens in their spoken voices.
+How the trade works — prize tiers, assistant wages, paper prices, deadlines — and where and when the story stands: the year, the district, studios closing, magazines cutting pages, wages that have not moved. Both arrive as concrete facts and numbers, never as a lecture. What stays out is the abstract maxim (法则, 铁律, 潜规则, 往往, 总是, 不会同情). A decision that costs something is preceded by this arithmetic; when characters discuss rules, the explaining happens in their voices.
 
 Sample anchor:
 
@@ -88,7 +88,7 @@ A real question, an answer that carries a fact, then the speaker explaining in t
 
 5. Payoffs land fast against an even voice.
 
-A lofty workplace expectation or an awkward silence deflated by a blunt question about money or practical reality: setup at ordinary length, the turn in one short line, then the scene moves on.
+A lofty expectation deflated by a blunt question about money: setup at ordinary length, the turn in one line, then the scene moves on.
 
 Sample anchor:
 
@@ -106,7 +106,7 @@ PART 2 — EVERY PARAGRAPH
 - Every paragraph ends on an action, a fact, a number or a line of dialogue; feeling shows through what hands, feet and voices do. <!-- I-0021 -->
 - Whoever stands across from the protagonist holds something — an editorial gate, a deadline, a wage cut, a manuscript return — and uses it before giving way; a win costs something countable. <!-- I-0021 -->
 - Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first. <!-- I-0021 -->
-- Narration stays grounded in concrete objects, dates, and yen amounts; no general industry preaching, broad life philosophies, or occupational laws (no 法则, 铁律, 潜规则, 往往, 总是, 不会同情). <!-- I-0021 -->
+- Narration carries the concrete state of the trade and the time, and what the observer privately makes of it. What it never carries is the abstract maxim — 法则, 铁律, 潜规则, 往往, 总是, 不会同情. <!-- I-0021 -->
 - A spoken turn stands on its own and carries the exchange forward: the speaker and the person addressed are clear, and the words add a fact, a reason or a cost. <!-- I-0021 -->
 - A workplace scene carries small physical friction — a cigarette tip, a lighter click, a back-door metal gate, an alleyway draft — and tangible workplace details. <!-- I-0021 -->
 

@@ -1,4 +1,10 @@
-SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v5, 29/10/2026)
+SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v6, 01/11/2026)
+
+v6 (01/11, quyết định của Tác giả): **bỏ khối LENGTH và bỏ mọi con số nhịp khỏi SI.** Con số nhịp không đo được văn
+và biến thành mục tiêu để model tối ưu: SI ghi `Sentence 18–26` ra 11–15 字/câu; SI ghi `median around 15` ra
+10–14 字/đoạn và không đoạn nào quá 21 chữ trong 2.000 chữ. Nhịp do anchor và nguyên tắc lời kể gánh. Thay vào đó
+v6 nhấn mạnh điều kiện thật để SI tốt: **anchor đúng** (nguyên văn, đủ loại cảnh, không chứa tật đang muốn chữa) và
+**nguyên tắc lời kể viết bằng lời**.
 
 v5 (29/10, sau kiểm toán test-gemini-moi): một khung, một ngân sách. **Phần dán ≤ 8.000 ký tự khi đã điền; 4–5 anchor
 (3 lời kể + tối đa 2 khoảnh khắc); PART 2 tối đa 8 dòng; đúng 5 dòng BANS viết theo khuôn thay thế.** Lý do: v4 chưa
@@ -108,11 +114,6 @@ BANS
 - The tag names the act of speaking; tone lives in the words, not in a label or an adverb before the verb.
 - One adjective to a noun; at most one four-character idiom in a paragraph.
 
-LENGTH
-
-- Sentence [[đo từ sample, vd. 22–30]] characters, two or three clauses. A run of sentences under fifteen characters reads as stage directions; merge them.
-- A segment is as long as its beats need; a number given in the segment prompt wins.
-
 PART 3 — OUTPUT
 
 - One segment of ongoing prose, written to the segment prompt. Its names, facts and numbers stay exactly as given, and a line the prompt marks as fixed happens as given; the order of beats, who says what and how the protagonist gets there are yours. A line of background in the prompt keeps the facts right; it is not retold sentence by sentence.
@@ -143,9 +144,19 @@ HƯỚNG DẪN ĐIỀN
    kiểm nguyên văn bằng `.claude/skills/novel-craft/scripts/verify_anchors.py`. Anchor thoại là mini-scene có lời kể
    xen giữa và có lượt không thẻ. Né đoạn có câu cửa miệng hoặc tên riêng đặc trưng. Không bịa, không dịch.
 
-4. Con số trong SI. Chỉ hai loại: độ dài câu đo từ sample (con số an toàn duy nhất — `si-cau-truc.md` mục 11), và hạn
-   mức cho một giọng bắt buộc phải xuất hiện (vd. "once a segment at most"). Phân bố cỡ đoạn tả bằng lời, anchor mục 1
-   gánh phần còn lại: dải phần trăm bị Writer đọc thành checklist (thinking "one-beat-per-paragraph" ×7 — mục 9).
+4. **Không đưa con số nhịp vào SI.** Không còn khối LENGTH. Mục 4 cũ dặn ghi "Sentence 22–30 characters" và đó là
+   một sai lầm đã trả giá: đưa số vào thì Writer tối ưu cho số, không cho văn. Hai ca đo được — SI ghi
+   `Sentence 18–26` → bản ra 11–15 字/câu; SI ghi `median around 15` → bản ra 10–14 字/đoạn và **không có đoạn nào
+   quá 21 chữ** trong cả 2.000 chữ. Nhịp do **anchor và nguyên tắc lời kể** gánh; anchor đúng thì model bắt nhịp
+   theo anchor. Chỗ duy nhất còn được dùng số là **hạn mức cho một giọng bắt buộc phải xuất hiện** ("once a segment
+   at most"), vì đó là số đếm sự kiện, không phải số đo văn.
+
+4b. **Anchor thoại phải có câu hỏi thật và câu đáp mang tin.** Anchor thoại toàn lượt 2–4 chữ (`“发声。”` `“嗯？”`
+   `“不是。”`) **dạy Writer viết cụt** — Tác giả đã bắt đúng lỗi này hai lần (`si-khung.md`; `manga-v7` 01/11:
+   *"Thoại không đạt. Trống không, rút gọn, cụt quá nhiều"*). Chọn đoạn có: một câu hỏi mà người kia phải trả lời,
+   câu đáp có số/giá/hạn, và một lượt người nói tự giải thích bằng giọng của họ. Đừng chọn đoạn mà lượt ngắn là
+   xác nhận rỗng (`是。` `对。` `今天。`). Cùng lỗi đó cũng nằm ở **luật**: "short and snappy", "blunt refusals"
+   trong SI dạy cụt mạnh hơn anchor — viết luật bằng lời ("mỗi lượt trả lời lượt trước và mang thêm một sự thật").
 
 5. BANS — đúng 5 dòng, mỗi dòng nói thứ đúng trước rồi mới nói thứ không có. Không liệt kê từ cụ thể (SI cũ cấm
    眸子/一丝 thì văn ra đúng mấy chữ đó), không nhắc công cụ soát: bản SI ghi "Checked by machine tools" ra 实 = 0
