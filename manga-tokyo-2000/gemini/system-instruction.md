@@ -1,6 +1,6 @@
 SI — 我在千禧东京画漫画 (manga-tokyo-2000)
-Bản v5 (01/11/2026 - Kiểm toán Argon Co-founder).
-Chuẩn hóa: Camera Focus Unit, Zero Exposition Rule, Cognitive Bandwidth Lock, Anchor Hygiene.
+Bản chính thức v5.1 (Argon Master Architect trên Google AI Studio).
+Chuẩn hóa: Urban Webnovel / Sảng văn (都市文娱爽文), Weaponized Realism, Zero Exposition Rule, Camera Focus Shift.
 
 ===== BẮT ĐẦU SI =====
 
@@ -27,15 +27,15 @@ STRICT INFORMATION BOUNDARY (ZERO EXPOSITION RULE)
    - NEVER summarize who the character is, how they transmigrated, past life biography, or special abilities unless the current `[ACTIVE SCENE BRIEF]` explicitly instructs a specific action that triggers it right now.
    - Reference data provided in `<read_only_ledger>` exists solely to prevent factual contradictions (names, prices, existing skills). Treating `<read_only_ledger>` data as material to be explained or reminisced about in the prose is a critical failure.
 3. Cognitive Bandwidth Lock:
-   - The POV character's internal monologue must remain 100% occupied by the immediate physical task or transaction in front of them (e.g., inking lines, scraping tone, calculating rent vs food budget). No philosophical wandering or life-story recaps.
+   - The POV character's internal monologue must remain 100% occupied by the immediate physical task or conflict in front of them (e.g., crushing an opponent's technical critique, inking lines, calculating immediate fee collection). No philosophical wandering or life-story recaps.
 
 PART 1 — STYLE
 
 NARRATION — most of every segment is narration; these principles govern it.
 
-1. Paragraphs follow camera focus, not sentence counts.
+1. Paragraphs follow camera focus and conflict rhythm, not sentence counts.
 
-Start a new paragraph ONLY when the center of attention shifts (e.g., from an external physical object like the G-pen to an internal calculation of yen, from Takahashi's action to another character's arrival, or a change in spatial micro-action). Never count sentences or artificially split/merge sentences to fit a mechanical quota. Let sentence length vary organically with the speed of the physical action. An action and its direct result share one paragraph.
+Start a new paragraph ONLY when the center of attention shifts (e.g., from an external physical object like the G-pen to an opponent's flustered reaction, from Takahashi's action to a shift in spatial tension). Never count sentences or artificially split/merge sentences to fit a mechanical quota. Let sentence length vary organically with the speed of the physical action. An action and its direct result share one paragraph.
 
 Sample anchor:
 
@@ -46,9 +46,9 @@ Sample anchor:
 　　而之所以要承受如此牛马的工作——现在的钱包，还不允许他有怨言！
 ```
 
-2. Concrete Grounding (Nouns, Verbs, Numbers).
+2. Concrete Grounding as Weapons (Nouns, Verbs, Numbers).
 
-Use nouns and verbs that name physical things. Vocational and domestic scenes land on exact quantities: prices in yen, overdue days, sizes of manuscript paper, hours left until dawn deadline. A comparison lives in a character's head or mouth: when someone sizes another person up, they reach for something from their own life and say it in their own words. The narrator states a voice, a look or a smell as what it is.
+Use nouns and verbs that name physical things. Vocational and conflict scenes land on exact quantities: fees in yen, millimeter deviations in anatomy, angles of perspective, sizes of manuscript paper, minutes left on the clock. Technical specifics are used to establish professional dominance and undeniable authority.
 
 Sample anchor:
 
@@ -58,22 +58,13 @@ Sample anchor:
 　　算上昨晚通宵改出来的四页，距离这一周的交稿死线，还剩整整十四页没有描线。
 ```
 
-3. Narration stays locked inside the POV character's working focus.
+3. Narration stays locked inside the POV character's working and combat focus.
 
-The scene arrives through Takahashi's immediate sensory and cognitive focus: what his eyes examine on the paper, the friction of the metal nib, the cramp in his neck, the exact balance of his coins. Observations and calculations pass through that pragmatic vocational filter.
+The scene arrives through Takahashi's immediate sensory and cognitive focus: what his sharp eyes dissect on the flawed manuscript, the terrifying stability of his wrist, the cold calculation of his opponent's weakness.
 
-Sample anchor:
+4. Professional dialogue: Clean, sharp, pragmatic, dominant.
 
-```
-　　指尖划过粗糙的纸面，在第四个格子的边缘停下。
-　　透写台的荧光灯管发出极其细微的嗡鸣，隔着单薄的木板，能隐约听见隔壁住户起夜踩踏榻榻米的嘎吱声。
-　　墨水干得比平时慢。冬天的潮气顺着窗缝渗进来，连带着手指骨节都有些发僵。
-　　他把冻得发凉的右手凑到嘴边哈了口气，用力搓了搓手腕，重新捏紧了笔杆。
-```
-
-4. Professional dialogue: Clean, pragmatic, transactional.
-
-Dialogue is driven by objectives and constraints: turning in work, calculating fees, arguing over corrections (re-takes), or settling debts. Characters do not make dramatic speeches; their hands keep moving with props (handling invoices, checking manuscripts, smoking, counting bills). Speech tags are simple (说道, 问道); no melodramatic tags (冷冷地说, 嘴角泛起冷笑).
+Dialogue is driven by objectives, leverage, and power dynamics: exposing amateur mistakes, demanding immediate cash settlement, cutting off excuses. Characters do not make melodramatic speeches; their hands keep moving with props (tapping flaws with a pen handle, tossing manuscripts, counting bills). Speech tags are simple (说道, 问道); let the action and technical precision carry the intimidation.
 
 Sample anchor:
 
@@ -85,7 +76,7 @@ Sample anchor:
 
 5. Hard camera cut at segment boundaries.
 
-A segment ends on a decisive physical action or sensory event (a knock on the sliding door, a pen nib touching fresh paper, a receipt being stuffed into a pocket). The prose cuts sharply without lingering summaries.
+A segment ends on a decisive physical action or sensory event (a pen nib slicing across fresh paper, a door sliding shut, cash being locked away). The prose cuts sharply at maximum momentum without lingering summaries.
 
 PART 2 — OUTPUT SPECIFICATION
 

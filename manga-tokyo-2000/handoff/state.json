@@ -1,50 +1,45 @@
 {
   "meta": {
     "last_chapter": 0,
-    "story": "我在千禧东京画漫画 (manga-tokyo-2000), bối cảnh tháng 11/1999 tại Koenji, Tokyo; tên người viết Romaji (Takahashi Hayao, Tanaka), địa danh và tạp chí viết chữ Hán, quốc gia viết 日本"
+    "story": "我在千禧东京画漫画 (manga-tokyo-2000), bối cảnh tháng 12/1999 tại Koenji, Tokyo; tên người viết Romaji (Takahashi Hayao, Tanaka, Suzuki), địa danh và tạp chí viết chữ Hán, quốc gia viết 日本"
   },
   "scene_bridge": {
-    "time": "Tháng 11/1999, đêm khuya",
-    "where": "Phòng trọ 6 tatami tại Koenji, Tokyo",
+    "time": "Tháng 12/1999, 23:40 đêm đông",
+    "where": "Căn phòng trọ 4.5 tatami tại Koenji, Tokyo",
     "present": "Takahashi Hayao đang ngồi trước bàn vẽ",
     "last_beat": "Bắt đầu đoạn 001",
-    "pending": "Hoàn thành kiểm tra bản thảo gia công trước hạn 8h sáng"
+    "pending": "Tanaka đập cửa xông vào hạch sách bản thảo"
   },
   "timeline": {
-    "relative_time": "Tháng 11/1999",
+    "relative_time": "Tháng 12/1999",
     "chapter_log": []
   },
   "already_told": [],
   "ledger": [
     {
       "item": "Tiền mặt trong ví của Hayao",
-      "value": "3,420 yên",
+      "value": "320 yên",
       "as_of": 0
     },
     {
-      "item": "Tiền thuê nhà quá hạn",
-      "value": "48,000 yên (quá hạn 4 ngày)",
+      "item": "Tiền thuê nhà nợ",
+      "value": "28,000 yên",
       "as_of": 0
     },
     {
-      "item": "Nợ tiền giấy manuscript và mực",
-      "value": "2,100 yên",
-      "as_of": 0
-    },
-    {
-      "item": "Tiền ứng trước bản thảo gia công",
-      "value": "Chưa thanh toán",
+      "item": "Tiền công gia công 10 trang đợt này",
+      "value": "10,000 yên",
       "as_of": 0
     }
   ],
   "characters": {
     "Takahashi Hayao": {
-      "role": "Nhân vật chính, mangaka tự do / trợ lý vẽ gia công nghèo tại Koenji",
-      "status": "Túng thiếu, tập trung cao độ, chuẩn bị bản thảo dự thi tân binh"
+      "role": "Nhân vật chính, 19 tuổi, thợ vẽ gia công ngầm, nắm giữ linh hồn và kỹ năng đại tông sư manga tương lai",
+      "status": "Túng thiếu nhưng khí chất thâm trầm sắc bén, chuẩn bị nộp bản thảo giải Tezuka Shonen Jump"
     },
     "Tanaka": {
-      "role": "Người giao bản thảo gia công tiểu ngạch / thợ in",
-      "status": "Xuất hiện ở đoạn 002"
+      "role": "Trợ lý trưởng kiêm đầu nậu gia công tiểu ngạch cho tác giả tuyến ba Suzuki-sensei",
+      "status": "Hống hách, hách dịch, chuyên ăn chặn tiền công"
     }
   }
 }
