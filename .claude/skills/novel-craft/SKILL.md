@@ -42,8 +42,7 @@ Mỗi bước có một **cổng**: chưa qua thì không sang bước sau.
 4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước>]`. Đỏ = bỏ bản, đừng đo,
    đừng commit. Xanh chỉ là điều kiện cần (mục 6).
 5. **Đo và đọc** (mục 5), ghi vào đúng `reviews/doan-XXX.md` kèm bảng số và kết luận ĐẠT / SỬA NHẸ / VIẾT LẠI.
-6. **Ghi sổ lỗi** (mục 8): mỗi lỗi bắt được là một dòng quan sát. Bước hay bị bỏ nhất, và là bước làm các lần
-   sau khác đi.
+6. **Ghi sổ lỗi** (mục 8): mỗi lỗi bắt được là một dòng quan sát — bước hay bị bỏ nhất.
 7. **Chốt**: `python tools/chot_doan.py <truyen> <spec.py>` hoặc commit + push tay. Kiểm push bằng số:
    `git rev-list --count HEAD ^origin/<branch>` = 0 và `git status --short` không còn `?? <truyen>/`. Báo cáo Tác
    giả 3–5 dòng (số chữ, diễn biến, verdict, link), không dán cả bản 2.000 字 vào chat.
@@ -134,15 +133,13 @@ python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt
   Preferences` → `path`) và giữ bản cũ, nếu không extension reload code cũ. Quota: script xoay `/u/0 → /u/1 →
   /u/2`, ghi `tools/.aistudio_state.json` — ghi quota theo **email**, đừng theo số `/u/N`.
 
-Bẫy chi tiết (quota từng tài khoản, capture cụt, chuẩn hoá dòng trống): `references/chay-writer.md`.
+Bẫy chi tiết (quota, capture cụt, dòng trống): `references/chay-writer.md`.
 
 ## 5. Review và đo
 
-- **Đích là mật độ của bộ mẫu, không phải 0.** Đo bộ mẫu `我在泡沫东京画漫画.txt` (440.232 字 Hán): phủ định lặp
-  **1,39**/1.000 字, so sánh người kể **0,11**, khuôn 实 **0,03**, nhãn ngữ điệu **0,03**. Ba bộ mẫu khác cũng ở
-  1,37–1,78 cho phủ định → **2–3 cặp phủ định mỗi đoạn là bình thường**; 0 là dưới mẫu. Ngược lại so sánh người
-  kể và nhãn ngữ điệu ở 0,5–0,6 là cao gấp 5–20 lần mẫu — **đó mới là tật**. Xem đích ở
-  `chung/loi/muc-tieu.jsonl`; chưa có thì đo bộ mẫu rồi ghi vào.
+- **Đích là mật độ của bộ mẫu, không phải 0.** Bộ mẫu manga: phủ định lặp **1,39**/1.000 字 (chương của mình
+  0,31–0,59 = **dưới** mẫu), nhãn ngữ điệu **0,03** (0,11–0,62 = cao 4–20 lần mẫu). Nên 2–3 cặp phủ định mỗi
+  đoạn là bình thường; so sánh người kể và nhãn ngữ điệu mới là tật. Đích đầy đủ: `chung/loi/muc-tieu.jsonl`.
 - Đích có ba nguồn, phải ghi rõ: `mau` (bộ mẫu), `tac-gia` (Tác giả dặn — **thắng** mẫu), `noi-bo` (mốc của bản
   đã duyệt). Ba nguồn xung đột; không ghi rõ thì mỗi lần review là một lần tung đồng xu.
 - **Số đo là cổng.** Phán chất lượng bằng **đọc**: mở/giữa/kết × (ai muốn gì · cái gì đổi · câu đáng nhớ · chỗ
@@ -150,8 +147,7 @@ Bẫy chi tiết (quota từng tài khoản, capture cụt, chuẩn hoá dòng t
 - **Cột 0 không phải bằng chứng sạch.** `soat_van.py` bỏ sót `如…般`, `如铁`, `如鹰隼`, nhãn `平静地命令道`. Grep tay
   `如.{1,8}般|如铁|如鹰` và `(平静|冷冷|淡淡|轻声)地(说|道|命令|问|开口)` trước khi báo ĐẠT (KN30).
 - **Đo nhiễu trước khi nhận công.** Hai lần chạy y hệt lệch nhau ở độ dài và mật độ câu, gần như không lệch ở
-  chi tiết — chi tiết trùng không phải "chép". Quy về mật độ/1.000 字; chỉ coi là có tác dụng khi ra khỏi biên
-  độ. Thứ sinh tật là **lượng bình luận của người kể**, không phải số 字 — đừng chữa bằng cách cắt chữ.
+  chi tiết — chi tiết trùng không phải "chép". Quy về mật độ/1.000 字; chỉ coi là có tác dụng khi ra khỏi biên độ.
 - **Bản Tác giả khen có phần là lượt may**: chạy lại cùng prompt + SI không ra lại chất lượng đó — đừng coi
   prompt ấy là công thức chắc. **"Ngang nhau / đều đạt" là hết vòng tối ưu**: chốt một bản, ghi log, sang đoạn
   kế. **Tác giả chọn bản khác bản mình khuyên → lấy bản của họ làm gốc.**
@@ -164,8 +160,7 @@ Bẫy chi tiết (quota từng tài khoản, capture cụt, chuẩn hoá dòng t
 Mỗi cổng mù một phần: `cong_doan.py` không bắt văn loạn hay nhảy cóc dữ kiện; `soat_van.py` đếm được phủ định
 lặp, 得像…, khuôn 实, phần lớn nhãn ngữ điệu nhưng **bỏ sót** `如…般`, `平静地命令道`, câu cụt và số học;
 `soat_brief.py` bắt số học, lệch bible, chỗ dừng, tên chữ Hán nhưng **không** bắt ngân sách từ, tỷ lệ thoại, mức
-"checklist", và **CHẶN oan brief mẫu B đúng khung** (20/43 brief còn chưa được đối chiếu bible lần nào vì viết
-thẻ trong ngoặc); `cham_doan.py` chỉ có band văn phong làn 领主.
+"checklist", và bỏ qua bible với brief viết thẻ trong ngoặc (20/43); `cham_doan.py` chỉ có band làn 领主.
 
 ## 7. SI: nguồn → bản dựng → phép thử
 
@@ -212,13 +207,13 @@ Mục này thay vòng học cũ ("thấy tín hiệu → chọn file → viết 
 **đã thử gì, hiệu quả bao nhiêu, cái nào vô dụng** — nên sau 37 bài học, **0 can thiệp có đủ số đo**, và 14 luật
 đã ghi vẫn tái phạm (`chung/loi/bao-cao.md`).
 
-| File | Trả lời | Ghi khi nào |
-|---|---|---|
-| `chung/loi/loai-loi.jsonl` | Có kiểu lỗi nào, mã `E-*` là gì | Một lần, khi gặp kiểu lỗi mới |
-| `chung/loi/quan-sat.jsonl` | Lần này Writer mắc lỗi đó **mấy chỗ** | Mỗi lần review bắt được lỗi |
-| `chung/loi/can-thiep.jsonl` | Đã sửa **gì, ở tầng nào, hiệu quả ra sao** | Mỗi lần sửa; điền số sau khi chạy lại |
-| `chung/loi/muc-tieu.jsonl` | Đích của từng chỉ số, **do ai đặt** | Khi đo bộ mẫu hoặc Tác giả đặt mốc |
-| `chung/loi/bao-cao.md` | Bảng tổng hợp — sinh tự động | `python tools/so_loi.py bao-cao` |
+| File | Trả lời |
+|---|---|
+| `loai-loi.jsonl` | Có kiểu lỗi nào, mã `E-*` là gì |
+| `quan-sat.jsonl` | Lần này Writer mắc lỗi đó **mấy chỗ** |
+| `can-thiep.jsonl` | Đã sửa **gì, ở tầng nào, hiệu quả ra sao** |
+| `muc-tieu.jsonl` | Đích của từng chỉ số, **do ai đặt** |
+| `bao-cao.md` | Bảng tổng hợp — sinh tự động, không sửa tay |
 
 Bốn lệnh cuối mỗi phiên làm truyện (mẫu đầy đủ ở `chung/loi/README.md`):
 
@@ -256,10 +251,17 @@ lần, hết quota mọi acc, hoặc Tác giả nói "để tôi duyệt".
 Mỗi đoạn trọn một vòng mục 1 rồi mới sang đoạn kế — gom cả lô thì lỗi đoạn ba kéo bốn đoạn. Lệch cấu trúc với dàn ý
 (một beat không còn xảy ra được) → ghi bảng lệch, soạn lại 2–3 đoạn kế, trình Tác giả.
 
-**Mở truyện.** Đọc bảng truyện ở `README.md` gốc: truyện mới phải khác **trục**, không chỉ khác bối cảnh. Tác giả
-đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai. 黄金三章:
-入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc. Đoạn 001 chạy
-3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào review.
+**Mở truyện — chốt SI trước, dựng truyện sau.** Trước `bible/` và `plot/outline.md` phải qua **bài kiểm tra SI
+trên nội dung bộ mẫu**: tách chương 1 bộ mẫu (`hieu_chuan.py tach`), viết brief chỉ có sự việc, chạy Writer bằng
+SI đang muốn chốt, rồi so phân bố với nguyên văn (`hieu_chuan.py so-sanh`). Lệch nội dung là bình thường; **lệch
+phân bố nghĩa là SI chưa dạy được**. Chỉ dựng bible khi 字/lượt thoại, 字/đoạn, giảng huấn, so sánh người kể,
+nhãn ngữ điệu đã vào vùng mẫu — quy trình ở `chung/hieu-chuan/README.md`. Dựng bible rồi mới thử SI là đổi bốn
+biến cùng lúc (ca `manga-tokyo-1996`: 31,8 字/lượt so với 8,8 của mẫu, giảng huấn gấp 3).
+
+Sau đó: đọc bảng truyện ở `README.md` gốc — truyện mới phải khác **trục**, không chỉ khác bối cảnh. Tác giả đã
+nói thể loại / "tùy bạn" = đã chốt: dựng luôn, không mở form thứ hai. 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu
+có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc. Đoạn 001 chạy 3–4 bản để chọn **hình dạng
+prompt**, không để chọn câu chữ; bảng số của cả các bản vào review.
 
 **Bàn giao.** Mỗi session Writer tối đa **2 đoạn** (đoạn thứ 3 đã trôi giọng). Gói ở `<truyen>/handoff/`, ghép
 bằng `python tools/build_pack.py <truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session**.
