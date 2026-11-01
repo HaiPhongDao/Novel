@@ -44,14 +44,22 @@ def han(s):
 
 
 def doan(text):
+    """Tách đoạn theo đơn vị thật của văn Trung: mỗi dòng `　　` là một đoạn.
+
+    Bộ mẫu .txt và bản Writer trả về đều ngắt đoạn bằng dòng mới + hai khoảng trắng toàn
+    giác, không có dòng trống. Nếu chỉ tách theo dòng trống thì 211 dòng thành 12 "đoạn"
+    và cột 字/đoạn sai gấp 8 lần — đúng lỗi đã ghi ở manga-tokyo-1998/thu-v5-phat-hien.md.
+    """
     t = re.sub(r"^<!--.*?-->\s*", "", text, flags=re.S)
+    raw = [x for x in t.splitlines() if x.strip()]
+    # Kiểm trên dòng THÔ: str.strip() ăn luôn U+3000, nên nếu strip trước rồi mới kiểm
+    # "　　" thì không bao giờ khớp và cả chương bị gộp thành vài "đoạn" theo dòng trống.
+    thut = sum(1 for x in raw if x.startswith("　　"))
+    lines = [x.strip() for x in raw]
+    if lines and thut >= max(3, len(lines) // 2):
+        return lines
     paras = [p.strip() for p in re.split(r"\n\s*\n", t) if p.strip()]
-    # Bộ mẫu .txt ngắt đoạn bằng dòng mới + hai khoảng trắng toàn giác, không có dòng trống.
-    # Không có nhánh này thì cả chương thành 1 đoạn, và mọi cột "字/đoạn", "% đoạn có thoại"
-    # đều vô nghĩa (đúng lỗi đã ghi ở manga-tokyo-1998/thu-v5-phat-hien.md mục 4).
-    if len(paras) <= 1:
-        paras = [p.strip() for p in t.splitlines() if p.strip()]
-    return paras
+    return paras if len(paras) > 1 else lines
 
 
 def cau(text):
@@ -65,10 +73,16 @@ def do(text: str) -> dict:
     c_list = cau(QUOTE.sub("。", body))
     turns = [q.strip() for q in QUOTE.findall(body) if han(q) > 0]
     gh = GIANG_HUAN.findall(body)
+    dai = [han(x) for x in paras if han(x)]
+    ngan = sum(1 for v in dai if v < 12)
     return {
         "han": n_han,
         "doan": len(paras),
         "han_doan": round(n_han / len(paras), 1) if paras else 0,
+        # Đoạn dài nhất là chỉ số bắt bệnh "mỗi dòng một mệnh đề": bản băm vụn không bao
+        # giờ có đoạn dài, dù trung bình có thể vẫn trong biên độ.
+        "doan_max": max(dai) if dai else 0,
+        "ti_le_ngan": round(ngan / len(dai) * 100, 1) if dai else 0,
         "cau": len(c_list),
         "han_cau": round(sum(han(x) for x in c_list) / len(c_list), 1) if c_list else 0,
         "luot": len(turns),
@@ -115,7 +129,7 @@ def cmd_tach(argv):
 # chương 1 của bộ mẫu có 19,7 字/đoạn trong khi trung bình 30 chương là 24,9 — lấy một
 # chương làm chuẩn thì bản bình thường cũng bị coi là lệch, và ngược lại.
 BANG_MAU = ROOT / "chung" / "hieu-chuan" / "bang-mau.json"
-CHI_SO_GATE = ("han_doan", "han_cau", "luot", "han_luot", "giang_huan_1000")
+CHI_SO_GATE = ("han_doan", "han_cau", "luot", "han_luot", "giang_huan_1000", "doan_max")
 
 
 def cmd_do_chuong(argv):
@@ -205,7 +219,7 @@ def cmd_so_sanh(argv):
 
     hang = [("字/đoạn", "han_doan"), ("字/câu", "han_cau"), ("lượt thoại", "luot"),
             ("字/lượt thoại", "han_luot"), ("% đoạn có thoại", "ti_le_thoai"),
-            ("giảng huấn /1.000", "giang_huan_1000")]
+            ("giảng huấn /1.000", "giang_huan_1000"), ("đoạn dài nhất", "doan_max")]
     print(f"biên độ: {bang['so_chuong']} chương của {bang['nguon']} (TB ± 2SD)\n")
     print(f"{'chỉ số':<20}{'mẫu ch.1':>10}{'bản sinh':>10}{'biên độ':>18}   phán")
     print("-" * 68)

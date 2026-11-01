@@ -55,6 +55,56 @@ phán quyết thì người chạy tự kết luận, và nó kết luận theo 
 (「编辑部的生存法则是冰冷的」, 「在这个年份，东京不会同情…」, 「一个新人作者通常需要…」). Đây là thứ
 Tác giả gọi là "nói linh tinh", và trước giờ không cột nào đếm nó.
 
+## Ca thứ hai: hai bản `v1-ch01-a` / `v1-ch01-b` (manga-v7)
+
+Hai bản, cùng một kiểu hỏng, **ngược** với ca 1996 — cả hai đều bị băm vụn:
+
+| Chỉ số | Mẫu ch.1 | Bản A | Bản B | Biên độ |
+|---|---|---|---|---|
+| 字/đoạn | 19,7 | **10,4** | **13,8** | 18,8 – 30,9 |
+| 字/câu | 21,9 | **11,2** | **15,1** | 17,1 – 28,4 |
+| đoạn dài nhất | 93 | **21** | **38** | 67,7 – 104,6 |
+| 字/lượt thoại | 8,8 | 8,1 | 7,1 | 4,9 – 20,3 ✓ |
+| giảng huấn | 1,28 | 0,98 | 0,66 | 0 – 3,5 ✓ |
+
+Nhịp thoại đã **đúng** — đó là phần SI dạy được. Nhưng bản A **không có đoạn nào dài quá 21 chữ**;
+mẫu có đoạn 93 chữ. Cả hai bản chỉ viết câu một mệnh đề.
+
+**Nguyên nhân nằm ngay trong SI, không phải ở Writer.** Mục LENGTH của SI ghi:
+
+```
+- Sentence 18–26 characters, one or two clauses. Narration paragraphs are short
+  (median around 15 characters).
+- Dialogue turns are crisp, averaging 7–11 characters per turn.
+```
+
+Chữ "median around 15" lấy từ **chương 1**. Trung vị của **30 chương** là **21**, trung bình 25. Nên
+con số trong SI thấp hơn chuẩn bộ mẫu 30%. Và model còn viết ngắn hơn cả con số đó (10–14): khi mỗi
+đoạn là một mệnh đề thì câu cũng ngắn theo.
+
+**Bài học lặp lại lần thứ hai:** đừng lấy số của một chương bỏ vào SI. Đo 30 chương rồi mới ghi số.
+
+**Sửa gì:** thay khối LENGTH bằng số của 30 chương, và thêm một luật chặn chuỗi đoạn ngắn —
+xem mục "Khối LENGTH thay thế" bên dưới.
+
+## Khối LENGTH thay thế
+
+```
+LENGTH
+
+- Sentences run 18–28 characters, two or three clauses. The median paragraph is about
+  21 characters and the longest in a segment runs past 70: the page alternates a run of
+  short lines with a paragraph that opens up and carries a fact, a number or a cost.
+- Two short paragraphs never sit back to back more than twice; after two, one paragraph
+  of two or three sentences.
+- Dialogue turns average 5–13 characters. A turn is one sentence unless the speaker is
+  explaining or bargaining.
+- A segment is as long as its beats need; a number given in the segment prompt wins.
+```
+
+Bốn dòng này thay đúng bốn dòng cũ. Số lấy từ 30 chương: câu TB 22,7 (SD 2,8), đoạn TB 24,9,
+đoạn dài nhất TB 86, lượt thoại TB 12,6.
+
 ## Hai việc, đừng trộn
 
 | Việc | Ai làm | Căn cứ |
