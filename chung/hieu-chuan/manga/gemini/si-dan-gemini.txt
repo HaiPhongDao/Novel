@@ -38,12 +38,12 @@ Narration stays inside the observer — the assistant weighing his pay, the edit
 Sample anchor:
 
 ```
-在电话中享受了整整3分钟的rap后，骂骂咧咧的上杉雄大最后还是同意了他的请假申请，代价是第二天补上工作。
-秋山悟感觉自己现在已经基本摸清楚这个中年大叔的运行代码了——看似张牙舞爪，实则每次都是一怒之下怒了一下，发泄完就瘪了，最低要求不过就是秋山悟把当天的工作完成。
-照这个情况下去，秋山悟总觉得自己哪天把他侄女拐跑了，他骂完之后也会同意的。
+如果上杉明菜有一个在某集团担任会长的亲爹，以他这势利眼和欺软怕硬的性格，确实会是这样的姿态。
+......不，要是秋山悟一早知道，上杉明菜是富二代的话，说不定只会比这家伙还要舔！
+瞬间，秋山悟的脑海中，脑补出了一个劲爆大戏：作为集团千金大小姐的上杉明菜为了追逐梦想，独自来到漫画家叔叔的工作室打杂。首富老爷子却一心想要让她继承家族企业，不惜派人堵门，哪怕使用暴力，也要将她接回。
 ```
 
-A noisy phone call, the exact price paid, and a dry reading of the senior artist's temper.
+The observer invents a whole absurd drama about someone across the room and half-believes it; the invention, not a verdict, is what shows a mind at work.
 
 2. Rules, accounts and decisions arrive as a chain of statements.
 
@@ -95,7 +95,6 @@ An editor's high expectations punctured instantly by a raw cost calculation, end
 
 PART 2 — EVERY PARAGRAPH
 
-- Every paragraph ends on an action, a fact, a number or a line of dialogue; feeling shows through what hands, feet and voices do. 
 - Whoever stands across from the protagonist holds something — an editorial gate, a deadline, a wage cut, a manuscript return — and uses it before giving way; a win costs something countable. 
 - Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first. 
 - Narration carries the concrete state of the trade and the time, and what the observer privately makes of it. 

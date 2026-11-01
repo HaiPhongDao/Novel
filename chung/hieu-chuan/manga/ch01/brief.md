@@ -24,7 +24,7 @@ Người có mặt: Kurokawa Midori — biên tập viên tạp chí manga, tóc
 Xưng hô: Kurokawa gọi Akiyama là Akiyama桑, tự xưng 我; Akiyama gọi Kurokawa là Kurokawa桑, tự xưng 我.
 Bối cảnh thời đại (dữ kiện để giữ cho đúng, không cần kể hết). Đầu 1992 bong bóng kinh tế Nhật vỡ: một loạt công ty đóng cửa, ngân hàng phá sản, người mất việc hàng loạt; giá nhà và cổ phiếu rơi; trên đường phố Tokyo nhiều người lang thang không có việc làm. Sang 1993–1994 kinh tế vẫn đình đốn: sinh viên mới tốt nghiệp không tìm được việc là chuyện thường. Trong ngành xuất bản, tạp chí giấy vẫn còn là kênh chính, nhưng toà soạn siết chi phí, cắt số trang và hạn chế suất cho người mới.
 
-Trạng thái riêng của Kurokawa. Sáng nay cô bị gọi lên phòng biên tập trưởng vì ba năm liền không giữ được tác giả nào; cô xuống đây hút thuốc để không phải quay lại bàn làm việc. Cô tự thấy nghề của mình đang dậm chân tại chỗ.
+Trạng thái riêng của Kurokawa. Sáng nay cô bị gọi lên phòng biên tập trưởng vì ba năm liền không giữ được tác giả nào; cô xuống đây hút thuốc để không phải quay lại bàn làm việc, và trong lúc đứng đó cô thầm mong có chuyện gì xảy ra — chuyện gì cũng được — để khỏi phải về. Cô tự thấy nghề của mình đang dậm chân tại chỗ.
 
 Trạng thái riêng của Akiyama. Lương tháng 70.000 円, ăn ở xưởng; anh cần một khoản tiền để thôi làm thuê cho người khác.
 
