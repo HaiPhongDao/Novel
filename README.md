@@ -13,6 +13,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
 | [`lanh-chua-dau-truong/`](lanh-chua-dau-truong/README.md) | Lãnh Chúa Đấu Trường — nhà sản xuất sự kiện xuyên vào nam tước phá sản, mở lại đấu trường bằng vé, tỷ lệ cược và một con goblin thế chấp | Đã chốt 001–003 (黄金三章), SI v5 7.887 ký tự |
 | [`manga-tokyo-1994/`](manga-tokyo-1994/README.md) | Manga Tokyo 1994 — hoạ sĩ tuần san bị cắt truyện tỉnh dậy trong chính thân xác đó với ba mươi năm hậu kiến, phải giữ nghề bằng phiếu của độc giả chứ không bằng giải thưởng | Đã chốt 001–003 (黄金三章), SI v5 7.974 ký tự |
+| [manga-tokyo-1996/](manga-tokyo-1996/README.md) | Manga Tokyo 1996 — người xuyên việt cải tổ Media Mix đồ chơi và nhịp phân cảnh, đối đầu với Ủy ban Sản xuất ba bên và khoản đền bù 1,2 triệu yên | Khởi động: SI v5 7.849 ký tự, đang chạy 001–003 |
 | [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | Manga Tokyo 2000 — người xuyên việt mang tư duy phân cảnh điện ảnh đời sau nhập vào nhân viên ca đêm tiệm manga café nợ tiền trọ, chớp lấy suất one-shot 32 trang của bán nguyệt san thiên niên kỷ | Khởi động: SI v5 7.913 ký tự, đang chạy 001–003 |
 
 ## Cấu trúc
