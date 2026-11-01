@@ -2,32 +2,32 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **143** · Can thiệp: **25** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **143** · Can thiệp: **29** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **0/25** (0%)
+- Can thiệp đã đo: **0/29** (0%)
 
-- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **5** · Chưa đo: **20**
+- Hiệu quả (≥2.0 biên độ): **0** · Vô hiệu (<1.0 biên độ): **0** · Phản tác dụng: **0** · Bị Tác giả bác: **5** · Chưa đo: **24**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
 
 | Mã | Kiểu lỗi | Số chỗ | Số đợt | Can thiệp (tầng · kết luận · biên độ) |
 |---|---|---|---|---|
-| E-PROSE-07 | Câu cụt, chia đoạn quá vụn | 448 | 3 | I-0008 · SI · chưa rõ · chưa đo<br>I-0022 · SI · đề xuất · chưa đo<br>I-0023 · SI · Tác giả bác · chưa đo |
+| E-PROSE-07 | Câu cụt, chia đoạn quá vụn | 448 | 3 | I-0008 · SI · chưa rõ · chưa đo<br>I-0022 · SI · đề xuất · chưa đo<br>I-0023 · SI · Tác giả bác · chưa đo<br>I-0027 · SI · đề xuất · chưa đo |
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo |
 | E-PROSE-06 | Thẻ thoại mở đầu mọi lượt | 61 | 18 | I-0009 · SI · chưa rõ · chưa đo |
 | E-PROSE-03 | So sánh của người kể | 55 | 23 | — |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
-| E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 31 | 21 | I-0004 · SI · chưa rõ · chưa đo |
+| E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 31 | 21 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
-| E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · đề xuất · chưa đo |
+| E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · đề xuất · chưa đo<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 9 | 1 | — |
-| E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | — |
+| E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0026 · BRIEF · đề xuất · chưa đo |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 8 | 1 | I-0025 · SI · đề xuất · chưa đo |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |

@@ -12,9 +12,72 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
+
+# Cắt state theo cảnh (JIT pruning). Lý do: mọi thứ nằm trong context của Writer đều
+# được coi là "có việc để dùng", và cái gì không dùng được cho cảnh thì nó sẽ kể ra —
+# đo được ở KN35 (đoạn 001 dán cả gói State: model xả số liệu liên thanh, giải mã kịch bản).
+# Không đưa dữ liệu vào prompt là cách duy nhất chặn rò rỉ mà không cần thêm luật cấm.
+GIU_LUON = {"story", "segment", "timeline", "location", "scene_bridge", "already_told",
+            "ledger", "knowledge_map", "pov", "meta"}
+# Trong một mục được giữ, mấy khoá này giữ nguyên dù brief không nhắc (để không mất danh tính).
+GIU_TRONG_MUC = {"name", "age", "role", "status", "action", "pov"}
+
+
+def _tok(s) -> set:
+    s = unicodedata.normalize("NFD", str(s).lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return {w for w in re.split(r"[^a-z0-9]+", s) if len(w) > 2}
+
+
+def _gia_tri(obj):
+    if isinstance(obj, dict):
+        for v in obj.values():
+            yield from _gia_tri(v)
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from _gia_tri(v)
+    elif obj is not None:
+        yield str(obj)
+
+
+def _co_nhac(muc, brief_tok: set, ten_khoa: str) -> bool:
+    if _tok(ten_khoa) & brief_tok:
+        return True
+    for v in _gia_tri(muc):
+        if _tok(v) & brief_tok:
+            return True
+    return False
+
+
+def cat_theo_canh(state: dict, brief: str) -> tuple[dict, list[str]]:
+    """Trả (state đã cắt, danh sách đường dẫn bị bỏ)."""
+    brief_tok = _tok(brief)
+    giu, bo = {}, []
+    for k, v in state.items():
+        khoa_chuan = k.lower()
+        if khoa_chuan in GIU_LUON:
+            giu[k] = v
+            continue
+        if not _co_nhac(v, brief_tok, k):
+            bo.append(k)
+            continue
+        if isinstance(v, dict):
+            con, bo_con = {}, []
+            for k2, v2 in v.items():
+                if k2.lower() in GIU_TRONG_MUC or _co_nhac(v2, brief_tok, k2):
+                    con[k2] = v2
+                else:
+                    bo_con.append(k2)
+            giu[k] = con
+            bo += [f"{k}.{x}" for x in bo_con]
+        else:
+            giu[k] = v
+    return giu, bo
+
 
 INTRO = """# Tài liệu bàn giao — tiếp tục viết truyện
 
@@ -59,6 +122,8 @@ def main():
     ap.add_argument("story")
     ap.add_argument("--tail", type=int, default=900, help="số ký tự cuối đoạn gần nhất")
     ap.add_argument("--prompt", help="prompt đoạn kế (đường dẫn trong thư mục truyện) → handoff/session-start.md")
+    ap.add_argument("--giu-het", action="store_true",
+                    help="tắt cắt state theo cảnh (mặc định: chỉ nạp phần cảnh dùng tới)")
     args = ap.parse_args()
 
     story = Path(args.story)
@@ -75,11 +140,18 @@ def main():
             parts.append((ho / name).read_text(encoding="utf-8").strip())
     if sj.exists():
         state = json.loads(sj.read_text(encoding="utf-8"))
+        bo = []
+        if args.prompt and not args.giu_het:
+            brief = (story / args.prompt).read_text(encoding="utf-8") if (story / args.prompt).exists() else ""
+            if brief:
+                state, bo = cat_theo_canh(state, brief)
         parts.insert(2, "## 2. State (JSON — sự thật và con số đã xảy ra, lấy đây làm chuẩn)\n\n"
                      "Đoạn tiếp theo viết từ ngay sau `scene_bridge.last_beat`. Những gì trong `already_told` "
                      "người đọc đã biết: chỉ nhắc một chữ khi cần, không giải thích lại. Số liệu lấy theo `ledger`; "
                      "ai biết bí mật nào theo `knowledge_map`.\n\n"
                      + json.dumps(state, ensure_ascii=False, indent=1))
+        if bo:
+            print(f"cắt theo cảnh: bỏ {len(bo)} mục — {', '.join(bo)}")
     parts.append(
         f"## 5. Nguyên văn phần cuối đoạn {seg_no} (để nối mạch và giữ giọng)\n\n"
         + tail_text(seg, args.tail)

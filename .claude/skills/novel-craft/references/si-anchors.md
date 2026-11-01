@@ -94,3 +94,38 @@ tâm lý/trinh thám, trái đơn đặt hàng "tránh tiểu chúng". `soat_van
 - Né cửa sổ có tên tác phẩm thật hoặc tên nhân vật đặc trưng của bộ mẫu; nếu buộc phải dùng, cắt trước dòng có tên.
 - Một SI dựng lại cho truyện cùng làn nhưng khác đơn đặt hàng thì **đổi chương lấy anchor** (5 anchor của truyện trước
   lấy chương 1–5 thì truyện mới lấy 11, 16, 27, 93), giữ nguyên kỹ thuật của từng slot.
+
+## Tiệt trùng anchor: bộ lọc 4 bước (Tác giả 01/11)
+
+Anchor dạy mạnh hơn luật, nên anchor bẩn dạy tật. Trước khi dán, mỗi anchor phải qua:
+
+1. **Không phải đoạn mở chương/mở truyện có tóm tắt thiết lập.** Đoạn giới thiệu thân phận, hồi tưởng kiếp trước,
+   giải thích hệ thống dạy Writer xả bối cảnh — đúng lỗi KN35. Chọn đoạn nằm **giữa** một cảnh hành động.
+2. **Không có bộ ba phủ định / đối xứng giả** (`不是A，不是B，而是C`, `没有…也没有…`, `既不…也不…`). Regex của
+   `soat_van.py` bắt được cột `phu-dinh-lap-cau`; anchor phải ra 0.
+3. **Không có nhãn ngữ điệu** (`冷冷地说`, `淡淡道`, `嘴角勾起`, `叹了口气`). Thay bằng hành động tay: `他把发票折成
+   两半，推过桌面`. Cột `nhan-ngu-dieu` phải 0.
+4. **Không có tên tác phẩm/nhân vật đặc trưng của bộ mẫu**, và `verify_anchors.py` phải khớp nguyên văn n/n.
+
+## Ma trận chức năng: 4–5 anchor phải phủ 4 việc, không phải 5 đoạn hay
+
+Đếm số anchor không nói được gì; phủ chức năng mới nói được. Bộ 4–5 anchor chuẩn:
+
+| Slot | Chức năng | Dấu hiệu phải có |
+|---|---|---|
+| 1 | Thao tác nghề / tính toán sổ sách | tay làm một việc, con số đi kèm, không có đoạn nền |
+| 2 | Nội tâm + đọc tính cách người khác | một câu người kể tự giễu hoặc phán đoán, vẫn trong giọng nhân vật |
+| 3 | Sổ sách / giải thích giá | dữ kiện nối tiếp nhau, mỗi dòng thêm một con số hoặc một hệ quả |
+| 4 | Thoại va chạm | câu hỏi thật, câu đáp mang tin, thẻ thoại đặt đúng chỗ, 0 nhãn ngữ điệu |
+| 5 (tuỳ) | Chuyển nhịp + cắt cảnh | đoạn kết bằng một hành động dứt khoát, không đúc kết |
+
+Kiểm bằng máy, một lệnh cho cả bộ:
+
+```
+python - <<'PY'   # hoặc chép đoạn này vào tools/ nếu dùng thường xuyên
+# tách từng khối ``` của SI, chạy soat_van.scan, in 4 cột tật + số dòng
+PY
+```
+
+Bộ đang dùng cho `chung/hieu-chuan/manga` (5 anchor, chương 15/21/2/23/8) đã kiểm 01/11: **0 phủ định lặp, 0 so
+sánh người kể, 0 khuôn 实, 0 nhãn ngữ điệu** trên cả 5, và phủ đủ 4 chức năng trên.
