@@ -272,6 +272,8 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 | Ghi chú biên tập, yêu cầu Gemini sửa | ✅ | |
 | Cập nhật bible theo đoạn đã chốt | ✅ | |
 | Thêm nhân vật phụ / cảnh phụ không ảnh hưởng arc | ✅ (ghi log) | |
+| Thêm một dòng vào `review-blacklist`, ghi sổ lỗi | ✅ | |
+| **Đổi SI đang chạy** (luật văn phong của truyện) | | ✅ + `log.md` ghi `Duyệt:` và số ký tự trước/sau |
 | Thay đổi dàn ý, thứ tự sự kiện | | ✅ |
 | Thêm/bỏ nhân vật chính, đổi luật thế giới | | ✅ |
 | Twist, cái chết nhân vật quan trọng, kết truyện | | ✅ |
@@ -319,4 +321,6 @@ Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); 
 
 - Cách làm (thứ tự việc, lệnh, bẫy) nằm trong skill [`.claude/skills/novel-craft/SKILL.md`](.claude/skills/novel-craft/SKILL.md) — Claude Code tự nạp; Agent khác (Codex, Hermes) đọc file đó trước khi làm truyện. File này giữ vai trò và phân quyền; skill không chép lại luật ở đây.
 - Mỗi bản Writer trả về qua cổng máy trước khi đo/review: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước>]` (chặn bản cụt, ngắn bất thường, chép mẫu). Cổng xanh chưa phải ĐẠT.
-- Cuối mỗi phiên làm truyện, Agent chạy **vòng học** (mục 9 của skill): Tác giả sửa lưng, cách làm mới chạy được, hay luật sai → sửa thẳng skill (hoặc `chung/kinh-nghiem.md` nếu là phát hiện về cách viết), commit riêng `skill: …`.
+- Cuối mỗi phiên làm truyện, Agent chạy **vòng học** (mục 8 của skill), ghi vào **sổ lỗi** [`chung/loi/`](chung/loi/README.md): mỗi lỗi bắt được một dòng quan sát, mỗi lần sửa một dòng can thiệp, và chỉ khi đã đo trước/sau với biên độ nhiễu mới được kết luận `hieu-qua`. Bảng tổng hợp sinh bằng `python tools/so_loi.py bao-cao`.
+- **Một luật chỉ vào `SKILL.md` khi có can thiệp `hieu-qua` đo được, hoặc là chỉ dẫn trực tiếp của Tác giả.** Còn lại là giả thuyết: nằm ở `chung/review-blacklist.md` hoặc ở sổ lỗi. Can thiệp `vo-hieu` / `phan-tac-dung` phải gỡ ngay trong phiên đó.
+- Bài học tổng quát cho mọi Agent (Codex, Hermes) vẫn ghi ở [`chung/kinh-nghiem.md`](chung/kinh-nghiem.md) theo mục 12, nhưng **mỗi dòng KN phải trỏ tới một mã can thiệp** trong sổ; commit riêng `skill: …` / `so-loi: …`.

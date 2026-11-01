@@ -20,9 +20,13 @@ Trước khi chạy Writer:
 ```
 python tools/soat_brief.py <truyen>/briefs/doan-XXX.md --prev-brief <truyen>/briefs/doan-<trước>.md \
     --bible <truyen>/bible/characters.md --glossary <truyen>/bible/glossary.md
+python tools/soat_brief.py <truyen>/briefs/doan-XXX.md ... --mau-b     # truyện chạy mẫu B
 ```
 
+Mã thoát: `0` xanh · `1` có dòng CHẶN · `2` **lỗi script** (không phải "bị chặn" — đừng sửa brief vì nó).
 CHẶN = sửa brief, không chạy. CẢNH BÁO = đọc lại từng dòng; giữ thì ghi lý do vào review.
+Cổng này **không thể XANH trên một brief mẫu B đúng khung** nếu thiếu `--mau-b`: nó đòi chữ `Dừng` và coi tên
+khối `【Kết đoạn】` là "kết bằng hình ảnh".
 
 ```
 Viết tiếp đoạn tiếp theo, <cửa sổ độ dài Tác giả chấp nhận, ví dụ 2.000–2.500> 字, bằng tiếng Trung.

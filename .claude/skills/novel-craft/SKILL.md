@@ -1,246 +1,285 @@
 ---
 name: novel-craft
-description: "Làm truyện trong repo Novel: brief, chạy Writer, review, chốt, SI, mở truyện — và tự học sau mỗi phiên"
-version: 2.0.0
+description: "Làm truyện trong repo Novel: brief, chạy Writer, review, chốt, SI, mở truyện — và sổ lỗi để biết lần sửa nào có tác dụng"
+version: 3.0.0
 ---
 
-# Novel Craft — Agent quản lý truyện tự cải thiện
+# Novel Craft — cách làm truyện, và cách biết mình đã sửa đúng
 
-Vai trò, phân quyền và cấu trúc thư mục nằm trong `AGENT.md` của repo — skill này không chép lại. Skill này
-ghi **cách làm**: thứ tự việc, lệnh chạy được, và những bẫy đã trả giá. Mỗi luật ở đây là một câu + lý do ngắn;
-số đo và câu chuyện đằng sau nằm trong `references/` (bản đồ ở cuối).
+Vai trò, phân quyền, cấu trúc thư mục ở `AGENT.md` — skill này không chép lại. Ở đây ghi **cách làm** và **cách
+kiểm chứng**: thứ tự việc, lệnh chạy được, bẫy đã trả giá, và cách đo xem một lần sửa có thật sự làm văn tốt lên.
 
-Skill này do Agent tự bảo trì (mục 9); bài học tích luỹ từ `novel-craft` 1.7 (209 lần vá).
+Ba câu định vị:
 
-## Khi nào dùng
+1. **Brief quyết nội dung, SI quyết cách viết, review quyết đúng sai.** Sửa lẫn ba chỗ là mất dấu nguyên nhân.
+2. **Số đo là cổng, không phải điểm.** Bản 34/34 điểm vẫn bị Tác giả loại vì "viết quá loạn xạ" (KN36).
+3. **Không có biên độ nhiễu thì không có kết luận.** Cùng một SI đã cho ra cả 0 và 5 cặp phủ định ở hai lần chạy.
 
-- Viết brief, chạy Writer, review bản thảo, chốt/push một đoạn hay N đoạn liền.
-- Soạn/sửa SI, đo SI trên mẫu, tái dùng SI cho truyện khác.
-- Mở truyện mới, đổi thể loại.
-- Cuối mọi phiên làm truyện → mục 9 (vòng học).
+## 0. Năm phút đầu phiên
 
-## 0. Định vị trước khi ghi một file
-
-- Gốc repo = `git rev-parse --show-toplevel`. Có thể có nhiều bản clone trên một máy; làm ở bản có commit mới nhất
-  (`git log -1 --format=%ci`) và nói rõ đã ghi ở đâu.
-- Mỗi session đẩy lên một branch `ccr-*` riêng, `origin/HEAD` thường trỏ chỗ khác. Tìm branch đang làm bằng
-  `git for-each-ref --sort=-committerdate refs/remotes` + `git ls-tree -r --name-only <branch> | grep <truyen>/`.
-  Đưa Tác giả link theo branch (`.../blob/<branch>/...`), không tự đổi default branch.
-- Tác giả hay sửa thẳng trên GitHub web: không thấy file họ nói thì `git fetch --all` rồi tìm trên remote trước khi kết luận.
-- Đọc theo thứ tự: `AGENT.md` → `chung/kinh-nghiem.md` → `<truyen>/README.md` → `log.md` → `handoff/state.md` → review gần nhất.
+- Gốc repo = `git rev-parse --show-toplevel`; làm ở bản clone có commit mới nhất (`git log -1 --format=%ci`) và
+  nói rõ đã ghi ở đâu. Bản local có thể cũ hơn GitHub — `git fetch --all` trước. Nhánh đang làm:
+  `git for-each-ref --sort=-committerdate refs/remotes | head`; `origin/HEAD` thường trỏ chỗ cũ.
+- Đọc theo thứ tự: `AGENT.md` → `chung/kinh-nghiem.md` → `python tools/so_loi.py bao-cao` → `<truyen>/README.md`
+  → `log.md` → `handoff/state.md` → review gần nhất. Tác giả hay sửa thẳng trên GitHub web: không thấy file họ
+  nói thì fetch rồi tìm trên remote trước khi kết luận.
 
 ## 1. Vòng một đoạn
 
-1. **Trạng thái + sổ số.** Mọi con số trong brief chép từ `<truyen>/plot/so-lieu.md` (mẫu `templates/so-lieu-doan.md`); số riêng tư trong `Sổ đầu đoạn` phải gắn rõ chủ thể biết (`chỉ mình <Tên> biết`); sau khi chốt đoạn trước, quét các địa danh phụ/danh từ riêng mới do Writer vừa đặt để neo vào `Sổ đầu đoạn` hoặc `glossary.md` trước khi chạy `--new`;
-   số dẫn xuất (còn lại bao nhiêu, sau N ngày) tính bằng script, không nhẩm — Writer chép nguyên số sai.
-2. **Brief** ngay trước khi chạy đoạn đó, không viết trước cả lô (mục 2; khung `templates/brief-doan.md`).
-   Đoạn trước chưa có bản được duyệt mà Tác giả bảo viết tiếp: nối từ bản đã sửa hết lỗi canon gần nhất, ghi
-   tên bản gốc vào review + `log.md` — đoạn sau phụ thuộc vào bản đó, đổi bản gốc là phải chạy lại.
-   **Cổng brief**: `python tools/soat_brief.py <brief> --prev-brief <brief trước> --bible <truyen>/bible/characters.md
-   --glossary <truyen>/bible/glossary.md` (truyện mẫu B thêm `--mau-b`). CHẶN = sửa brief, không chạy — brief ghi
-   sẵn kết cục, lý lẽ, nhãn tính cách thì Writer dịch nguyên thành văn (kiểm toán `test-gemini-moi`).
-3. **Chạy Writer** (mục 3). Đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/` — `--out` ghi đè im lặng.
-4. **Cổng máy và cổng người**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước đã duyệt>]` và `soat_van.py` chỉ là điều kiện cần (chặn sáo rỗng, từ cấm, nhịp câu vụn). Bản đạt 34/34 điểm văn phong vẫn có thể bị loại vì "viết quá loạn xạ" do nhân vật nhảy cóc dữ kiện hoặc thiếu tương tác người thật (KN36). Đỏ = bỏ bản
-   (cụt, chép mẫu), đừng đo, đừng commit. Cổng chỉ chặn hỏng rõ — không thay việc đọc. Câu cuối kết bằng `——`
-   khi brief bảo dừng giữa một cú lao là cổng bắt nhầm: đọc ba dòng cuối, đủ cảnh thì giữ và ghi vào review.
-5. **Review bằng đọc** (mục 4), ghi vào đúng `reviews/doan-XXX.md` của đoạn đó, kèm bảng số.
-6. **Chốt**: `python tools/chot_doan.py <truyen> <spec.py>` hoặc commit + push tay; tài liệu chung commit riêng.
-   **Kiểm push bằng số**: `git rev-list --count HEAD ^origin/<branch>` = 0 và `git status --short` không còn `?? <truyen>/`
-   (thư mục truyện mới là untracked — commit vẫn thành công mà không có truyện).
-7. **Báo cáo** 3–5 dòng: số chữ, diễn biến, verdict, link GitHub. Không dán cả bản 2.000 字 vào chat. Khi so với mẫu
-   hay Tác giả chưa thấy chữ nào của bản nháp, kèm 2–3 cặp trích (nguyên văn ↔ bản sinh).
-8. **Vòng học** (mục 9).
+Mỗi bước có một **cổng**: chưa qua thì không sang bước sau.
 
-Đoạn hỏng → `git mv` vào `archive/`, sửa brief, chạy lại bằng chat mới (`--new`); không bảo Writer "viết lại" trong
-cùng chat — nó chép lại 77% bản cũ của chính nó.
+1. **Trạng thái + sổ số.** Số chép từ `<truyen>/plot/so-lieu.md`; số riêng tư gắn chủ thể biết (`chỉ mình <Tên>
+   biết`); số dẫn xuất **tính bằng script, không nhẩm** — Writer chép nguyên số sai. Quét tên riêng Writer vừa
+   đặt, neo vào `Sổ đầu đoạn` hoặc glossary trước khi chạy.
+2. **Brief ngay trước khi chạy đoạn đó**, không viết trước cả lô (mục 3). Cổng:
+   `python tools/soat_brief.py <brief> --prev-brief <brief trước> --bible <truyen>/bible/characters.md
+   --glossary <truyen>/bible/glossary.md` + **`--mau-b` nếu truyện chạy mẫu B** (thiếu cờ thì cổng chấm brief B
+   bằng thước của A và báo CHẶN oan). Mã thoát: `0` xanh · `1` có dòng CHẶN · `2` lỗi script — **`2` không phải
+   "bị chặn"**. CHẶN = sửa brief, không chạy.
+   Đoạn trước chưa duyệt mà Tác giả bảo viết tiếp: nối từ bản đã sửa hết lỗi canon gần nhất, ghi tên bản gốc
+   vào review + `log.md`.
+3. **Chạy Writer** (mục 4). Tên bản theo ký tự chưa dùng ở cả `chapters/` và `archive/` — `--out` ghi đè im lặng.
+4. **Cổng máy**: `python tools/cong_doan.py <bản> --prompt <brief> [--prev <đoạn trước>]`. Đỏ = bỏ bản, đừng đo,
+   đừng commit. Xanh chỉ là điều kiện cần (mục 6).
+5. **Đo và đọc** (mục 5), ghi vào đúng `reviews/doan-XXX.md` kèm bảng số và kết luận ĐẠT / SỬA NHẸ / VIẾT LẠI.
+6. **Ghi sổ lỗi** (mục 8): mỗi lỗi bắt được là một dòng quan sát. Bước hay bị bỏ nhất, và là bước làm các lần
+   sau khác đi.
+7. **Chốt**: `python tools/chot_doan.py <truyen> <spec.py>` hoặc commit + push tay. Kiểm push bằng số:
+   `git rev-list --count HEAD ^origin/<branch>` = 0 và `git status --short` không còn `?? <truyen>/`. Báo cáo Tác
+   giả 3–5 dòng (số chữ, diễn biến, verdict, link), không dán cả bản 2.000 字 vào chat.
 
-## 2. Luật brief (luôn áp dụng)
+Đoạn hỏng → `git mv` vào `archive/`, sửa brief, chạy lại bằng **chat mới** (`--new`); không bảo Writer "viết lại"
+trong cùng chat — nó chép lại 77% bản cũ của chính nó.
 
-- **Ngắn ở phần dặn cách viết, cách ly Writer khỏi raw State JSON.** Dữ kiện thiết lập (thân phận, xưng hô, nơi chốn, số đang chạy) nằm trong State JSON — đây là bộ nhớ của Agent, tuyệt đối không dán raw JSON vào brief; brief chỉ rút 1–2 sự thật sống của cảnh đó thành 3–5 câu tiếng Việt tự nhiên. Nhồi quá nhiều việc hoặc dán raw JSON khiến Writer chạy theo checklist, kích hoạt chế độ mặc định của LLM (so sánh sáo rỗng, phình độ dài). Đặc biệt ở **đoạn mở đầu (001)**, tuyệt đối không dán cả gói Canon/State/Voice đồ sộ vào prompt: model bị ngộ độc dữ liệu sẽ biến nhân vật thành máy đọc checklist, vừa gặp đã xả liên thanh toàn bộ số liệu và giải mã kịch bản, làm văn nhảy cóc và loạn xạ (KN35).
-- **Ma sát thật phải xuất phát từ hành vi vật lý, không phải thuyết trình.** Tạo xung đột bằng vật trao tay (tiền thối, lon cà phê, vết mực trên ngón), thái độ nghi ngờ nghề nghiệp, và mồi nhử một điểm nhỏ. Tuyệt đối không soạn sẵn lý lẽ chê bai hay để MC diễn thuyết giảng đạo; để hình ảnh trên bản vẽ tự thuyết phục người xem.
-- **Brief mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng.** "Mở ngay sau câu X" hay mục "Mở" làm Writer
-  dựng lại cảnh như chương mới; chỗ mở đã là đuôi đoạn trước trong gói.
-- **Viết tiếng Việt câu đầy đủ, tên Latin, danh xưng đủ chữ** ("phủ lãnh chúa", "cô có hai thợ phụ"); hạn chế chữ Hán,
-  để Writer tự đặt tên vật. Gạch đầu dòng cụt và chữ rút gọn được dịch thành từ lạ: "phủ" → 官邸 dùng như bộ máy,
-  máy dịch ra "biệt thự định giá". Glossary phải có từ cho cả nơi ở, bộ máy cai trị, **đơn vị đo và thể chế** — thiếu thì Writer lấy 六合/磅, 公国/行省 của Tàu (KN34).
-- **Không dặn "đáp bằng phép tính"** — Writer ném nguyên bài toán vào văn; đưa con số như sự thật của cảnh.
-- **Khối nối tiếp do gói cấp** (`build_pack.py` dán đuôi đoạn trước; truyện cũ dùng `noi_doan.py`): 7–10 dòng cuối (~150–200 字) của bản **đã duyệt** (`python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`),
-  câu "viết tiếp từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Chép khối này bằng script, không gõ lại tay — gõ lại làm lệch nguyên văn, Writer nối lệch. Thiếu khối này thì 5/5 mối nối đứt.
-- **Không câu tiếng Trung nào trong brief** ngoài tên riêng/thuật ngữ ngắn — Writer chép nguyên làm mở đoạn, mọi điểm thành điểm giả.
-- **Không đánh số beat, không giao nội dung từng lượt thoại** — giọng chết ở prompt. Số lượt và độ dày thoại do phạm vi
-  thời gian + số người có mặt quyết; muốn thoại dày thì mở phạm vi, thêm người.
-- **Khẳng định, không liệt kê cấm**: tối đa một câu phủ định — ba vế "không A, không B" ra đúng khuôn phủ định trong văn.
-- **Ranh giới viết ra**: "việc X thuộc đoạn sau" + trạng thái sự thật; thiếu thì Writer mở tuyến của đoạn 6–8 ngay đoạn 1.
-- **Độ dài là con số của brief**, không của SI: chép nguyên cửa sổ Tác giả chấp nhận, không đặt sàn (model đệm cho qua sàn).
-  Khi Tác giả nói độ dài tuỳ beat, số 字 chỉ là thông tin trong báo cáo.
-- **Khối định dạng 【】 chép nguyên cả dòng**; câu ngay sau khối chỉ nói con số đáng gì, rồi một việc anh làm tiếp.
-  Ghi sẵn nghĩa của số đó bằng một câu sự thật ("74, còn thiếu 26 để đào tạo một 村民") — để trống thì người kể
-  tự đặt mốc và đặt sai (gọi phần thiếu cho 村民 là `进阶`).
-- **MC trong lane xuyên việt**: đúng một dòng sự thật trơn (`X là người xuyên việt.`), không nghề cũ, không "chỗ thắng",
-  không gán tính cách — tính cách do Writer quyết.
-- **Mẫu là truyện xuyên việt mà MC của mình không xuyên** → brief phải có một dòng `X sinh ra ở thế giới này.`; bible
-  ghi thôi không đủ — Writer kéo motif xuyên không của mẫu vào ("上辈子", "从地球穿越") ngay khi brief im lặng.
-- **Giọng xuyên việt sống nhờ dòng chức năng giọng ở đầu prompt** (khung đặt hàng của Tác giả: độ dài · tag ·
-  "mượn lời MC phán xét cũ/mới"), không nhờ dòng sự thật ở cuối brief bảng việc. Tác giả đưa khung thì dùng nguyên.
-- **Một đoạn = một tình huống; dữ kiện ghi là "bối cảnh để giữ cho đúng, không cần kể hết".** Giao cả chuỗi sự
-  kiện của chương trong ~2.000 字 thì Writer kể mỗi dữ kiện thành một dòng rồi qua việc kế — Tác giả đọc ra
-  "checklist, không có khoảng trống" (đoạn kể ≥40 字: 0 → 19 khi chỉ còn một tình huống và dừng sớm). Đo:
-  `references/brief-chi-tiet.md` cuối file.
-- **Bible là nguồn canon**, không phải README; thấy lệch thì báo Tác giả.
+## 2. Sửa ở tầng nào — quyết định trước khi sửa
 
-Chi tiết + số đo: `references/brief-chi-tiet.md`, `references/si-cau-truc.md` mục 5–8.
+Sai ở đây thì mọi số đo sau đó vô nghĩa.
 
-## 3. Chạy Writer
+| Triệu chứng | Tầng | Sai tầng thì sao |
+|---|---|---|
+| Sai/thiếu **dữ kiện** (tuổi, giá, ai biết gì, ai có mặt) | **brief**, glossary, state | Luật SI ở lại, lỗi tái phạm ở cảnh khác |
+| Sai **luật thế giới**, canon, quan hệ | **bible** (Tác giả duyệt) + `log.md` | Sửa văn để khớp bible sai |
+| **Giọng, nhịp, khuôn câu** lặp ở ≥2 lần chạy với brief khác nhau | **SI**, một dòng PART 2 **thay** một dòng cũ | SI phình, luật mới lấy chú ý luật cũ, tổng lỗi không giảm |
+| Lỗi **mới gặp một lần**, chưa rõ có hệ thống | **review-blacklist** + sổ lỗi | Thành luật SI sau một quan sát = overfit |
+| Đo được nhưng **tool bỏ sót / bắt nhầm** | **tool**, hoặc grep tay rồi ghi vào review | Tin cột số 0 của tool (KN30) |
+
+Thứ tự thử, rẻ tới đắt: **brief → glossary → đúng một câu trong prompt → SI → tool**. Dừng ở tầng đầu tiên chứng
+minh được bằng số. Hai điều cấm:
+
+- **Cấm sửa tay văn của Writer rồi trình bản đó như kết quả.** Bản sửa tay dùng để *tìm ra* luật; bằng chứng phải
+  là một lần chạy lại đúng brief cũ, không thêm dòng nào (đo được: bản sửa tay 50 lượt/34,0 字 mỗi lượt so với bản
+  Writer cùng SI 32 lượt/24,0 字 — luật trong SI ăn hơn việc kéo dài từng câu).
+- **Cấm thêm dòng thứ hai diễn đạt cùng một ý.** Đọc lại chỗ định sửa; đã có thì làm mạnh câu cũ.
+
+## 3. Brief
+
+Hai hình dạng cùng tồn tại, ghi hình đang dùng ở `<truyen>/README.md`; đổi giữa chuyện phải có Tác giả đồng ý +
+`log.md`. Truyện mới: hỏi Tác giả.
+
+- **A — ngắn**: vài câu phương hướng + số liệu + chỗ dừng. Mặc định cho làn manga, `lam-game`, `vong-du`.
+- **B — đầy đủ**: thiết lập / tiền tình / điểm bắt buộc / tự do sáng tạo. Nhánh `de-quoc-1`, `lanh-chua-chip`.
+
+**Ngân sách thật.** Tính trên **phần dặn cách viết**, không tính ba khối dữ kiện bắt buộc (`Người có mặt`,
+`Xưng hô`, `Sổ đầu đoạn`). Đo 43 brief: phần dặn trung bình **468 từ**, **38/43 vượt 300** (mẫu A trung vị 444,
+cao nhất 738). Nguyên nhân không phải viết dài dòng mà là ba khối dữ kiện được thêm sau và không được tính vào
+ngân sách. Vì vậy: ghi số thật vào báo cáo, **đừng cắt xuống 300 từ bằng cách bỏ dữ kiện** — bỏ dữ kiện là đổi lỗi
+văn thành lỗi canon (prompt 19 dòng ra bản sạch tật nhưng `回大人` 0, `会长` 0, cha chết "năm ngày"). Muốn ngắn
+hơn thì cắt phần dặn cách viết, giữ hai dòng chặn quanh khối bảng và mọi dòng có số.
+
+Luật còn lại:
+
+- Mở bằng "Viết tiếp đoạn tiếp theo…" và chỉ ghi chỗ dừng. Một mục "Mở" làm Writer dựng lại cảnh như chương mới.
+- **Khối nối tiếp đứng đầu brief: tiếng Trung nguyên văn** 250–350 字 của bản **Tác giả đã duyệt**, câu "viết tiếp
+  từ đây, không chép lại câu nào", rồi mô tả bằng tiếng Việt chỗ dừng + việc đang treo. Cắt bằng
+  `python tools/noi_doan.py <đoạn-trước> --chars 300 --wrap`, không gõ lại tay; sau khi chạy kiểm chép bằng 4–5
+  câu đặc trưng (`grep -c '<câu>' <bản mới>` phải ra 0).
+- **Một tình huống, không một chuỗi sự kiện.** Dữ kiện ghi là "bối cảnh để giữ cho đúng, không cần kể hết"; dừng
+  sớm. Giao cả chương trong 2.000 字 thì mỗi dữ kiện thành một dòng, Tác giả đọc ra "checklist" (đoạn kể ≥40 字:
+  0 → 19 khi chỉ còn một tình huống).
+- **Khẳng định, không liệt kê cấm**; tối đa một câu phủ định. Ranh giới viết bằng sự thật thuộc đoạn sau ("câu
+  trả lời của anh thuộc đoạn 002"), không bằng "không viết A, không viết B".
+- **Không đánh số beat, không giao nội dung từng lượt thoại, không câu thoại mẫu.** Số lượt và độ dày thoại do
+  **phạm vi thời gian và số người có mặt** quyết; muốn thoại dày thì mở phạm vi, thêm người (prompt 6 beat → 14
+  lượt, MC 0 câu đùa; không prompt → 42 lượt, MC có giọng — KN32).
+- **Không dán raw State JSON hay cả gói bàn giao**; riêng đoạn 001 tuyệt đối không dán Canon/State/Voice — model
+  ngộ độc dữ kiện sẽ xả số liệu liên thanh và giải mã kịch bản (KN35).
+- **Mỗi nhân vật có mặt một dòng thân phận** (ai + vai + một dấu hiệu), và **một dòng xưng hô** trong mọi brief.
+  Thiếu thì Writer tự điền canon: phó quan 34 tuổi thành cậu hầu 16 tuổi.
+- **Không câu tiếng Trung nào ngoài khối nối tiếp và tên/thuật ngữ ngắn** — câu mẫu bị chép nguyên làm mở đoạn,
+  mọi điểm chấm trên bản đó thành điểm giả.
+- **Dòng đếm tỷ lệ thoại/lời kể**: có thì thoại dày hơn, không có thì Writer chẻ lời thành nhiều lượt ngắn. Đánh
+  đổi đã biết, không phải lỗi mới — cần thoại dày thì mở phạm vi cảnh. Bible là nguồn canon, không phải README.
+- Ghi đầu brief **các mã lỗi brief này đang bù** (`Bù: E-CANON-03`): khi lỗi đó thôi tái phạm, dòng bù ấy là ứng
+  viên cắt đầu tiên — không có dòng này thì brief chỉ phình ra.
+
+Số đo + ngoại lệ: `references/brief-chi-tiet.md`; khung: `templates/brief-doan.md`.
+
+## 4. Chạy Writer
 
 ```
-python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt --prompt <truyen>/briefs/doan-XXX.md --out <truyen>/chapters/doan-XXX-<bản>.md
+python tools/aistudio_run.py --new --si <truyen>/gemini/si-dan-gemini.txt
+    --prompt <truyen>/briefs/doan-XXX.md --out <truyen>/chapters/doan-XXX-<bản>.md
 ```
 
-- `--si` nhận nguyên file: tách phần dán (giữa `===== BẮT ĐẦU SI =====` và `===== HẾT SI =====`) ra file riêng.
-- Cần Edge mở + extension "Novel AI Studio bridge" (`tools/aistudio-ext`, cổng 127.0.0.1:8765 do chính script mở —
-  đừng curl để thử bridge). Một đoạn mất 2–7 phút: **chạy nền** (Bash `run_in_background`), chờ thông báo, đừng poll;
-  trong lúc chờ thì viết brief kế.
-- Đừng sửa `tools/aistudio-ext/` khi có job chạy (extension tự reload, job treo tới timeout). Nghi bridge hỏng →
-  probe 1 dòng SI + 1 dòng prompt, `--out tools/.probe/out.md`.
-- **Nhiều bản cùng lúc**: `--batch jobs.json` ([{si, prompt, out, note?, model?, thinking?}]), mỗi tài khoản /u/0–2 một tab.
-  Edge nạp extension từ `D:\ClaudeCode\aistudio-ext` (bản chép): sửa extension thì chép sang đó. AI Studio đang để chat
-  tạm (URL giữ `new_chat`), nên **gửi tiếp vào chat cũ không được** — đoạn kế chạy `--new` kèm tiền tình + nguyên văn cuối đoạn trước.
-- `Failed to generate content` / `No tab with id` là lỗi tạm: chạy lại y nguyên lệnh sau 20–45 giây.
-- "Extension không nhận việc sau 90s" sau một lần bị cắt → tiến trình cũ giữ cổng 8765: `netstat -ano | grep :8765`, `Stop-Process`.
-- Job treo >10 phút không file = tab rơi về trang đăng nhập Google: nhờ Tác giả đăng nhập, đừng sửa script.
-- `LỖI: No current window` = Edge chỉ còn tiến trình nền (startup boost), không có cửa sổ: mở một cửa sổ
-  (`Start-Process msedge -ArgumentList '--new-window','about:blank'`) rồi chạy lại y nguyên lệnh.
-- Quota: script xoay `/u/0 → /u/1 → /u/2`, ghi vào `tools/.aistudio_state.json`; đọc dòng `Google Account:` để biết acc nào.
-  Số `/u/N` ứng với tài khoản khác nhau trên mỗi máy — ghi quota theo email trong `log.md`, đừng theo số.
-- Extension được nạp từ thư mục ghi trong Edge (`Secure Preferences` → `path`), có thể là bản chép ngoài repo
-  (máy này: `D:\ClaudeCode\aistudio-ext`). Script tính hash từ `tools/aistudio-ext/` nên sửa trong repo vẫn làm
-  extension reload — nhưng nạp lại **code cũ**: sửa xong phải chép sang thư mục Edge nạp (giữ bản cũ để lùi).
-- Tài khoản bị từ chối quyền: lỗi in ngay trong lượt Model, không ở thanh thông báo; extension (từ 26/10) đọc lỗi đó,
-  xếp như hết quota và script xoay `/u/` kế tiếp. Vẫn treo → thử logic trên trang giả trước khi đụng tài khoản thật.
-- Bản ra không có dòng trống giữa đoạn: lưu raw vào `archive/`, chèn dòng trống trước dòng bắt đầu bằng `　　` (chỉ đổi khoảng trắng).
-- `--think-out <truyen>/archive/thinking-XXX.md` khi nghi SI bị hiểu sai — đọc thinking trước khi sửa SI.
+- Cần Edge mở + extension "Novel AI Studio bridge" (cổng 127.0.0.1:8765 do script mở — đừng curl thử bridge).
+  Một đoạn 2–7 phút: **chạy nền**, chờ thông báo, đừng poll; chờ thì viết brief kế.
+  `--batch jobs.json` để chạy nhiều bản; AI Studio để chat tạm nên **gửi tiếp vào chat cũ không được**.
+- `--think-out <truyen>/archive/thinking-XXX.md` khi nghi SI bị hiểu sai: thinking cho thấy model đang tự kiểm
+  cái gì (KN27). Đọc trước khi sửa SI.
+- Lỗi tạm, chạy lại y nguyên sau 20–45 giây: `Failed to generate content`, `No tab with id`, "Extension không nhận
+  việc sau 90s" (tiến trình cũ giữ cổng 8765: `netstat -ano | findstr :8765`, `Stop-Process`). Job treo >10 phút
+  không file = tab rơi về trang đăng nhập: nhờ Tác giả, đừng sửa script. `LỖI: No current window` = Edge chỉ còn
+  tiến trình nền: `Start-Process msedge -ArgumentList '--new-window','about:blank'`.
+- Đừng sửa `tools/aistudio-ext/` khi có job chạy; sửa thì chép sang thư mục Edge **thật sự nạp** (`Secure
+  Preferences` → `path`) và giữ bản cũ, nếu không extension reload code cũ. Quota: script xoay `/u/0 → /u/1 →
+  /u/2`, ghi `tools/.aistudio_state.json` — ghi quota theo **email**, đừng theo số `/u/N`.
 
-Chi tiết: `references/chay-writer.md`.
+Bẫy chi tiết (quota từng tài khoản, capture cụt, chuẩn hoá dòng trống): `references/chay-writer.md`.
 
-## 4. Đo và review
+## 5. Review và đo
 
-- **Số đo là cổng, không phải điểm.** Một bản 88/100 từng là ba câu Agent dán vào prompt. Số dùng để: bắt chép mẫu,
-  kiểm canon/số học, soát hồi quy khi sửa SI. Phán chất lượng bằng đọc: mở/giữa/kết × (ai muốn gì · cái gì đổi ·
-  câu đáng nhớ · chỗ người đọc bỏ qua), đặt cạnh mẫu — `references/doc-bang-doc.md`.
-- Công cụ: `tools/soat_van.py [--list]` (tật văn, bốn cột thoại), `tools/cham_doan.py --prompt <brief> --numbers "…" [--modern]`,
-  `.claude/skills/novel-craft/scripts/do_nhip_cau.py` (nhịp câu). Band của `cham_doan` là của lane 领主 — truyện có register
-  hay cửa sổ độ dài riêng thì báo cột số thật, nói rõ cột nào là nhiễu; 爽文 không chấm bằng band này.
-- **Cột 0 không phải bằng chứng sạch**: grep tay `如.{1,8}般|如铁|如鹰` và `(平静|冷冷|淡淡|轻声)地(说|道|命令|问|开口)` trước khi báo ĐẠT.
-- **Đo nhiễu trước khi nhận công**: cùng SI + prompt đã ra 0 và 5 cặp phủ định. Quy về mật độ/1.000 字, chỉ ĐẠT khi ra khỏi
-  biên độ hai lần chạy y hệt. Tật sinh từ đoạn nền/nội tâm, không từ số 字.
-- **Bản Tác giả khen có phần là lượt may**: cùng prompt + SI chạy lại không ra lại được chất lượng đó; đừng coi prompt ấy là công thức chắc, so ít nhất một lần chạy lại.
-- **Lỗi tầng luật chứng minh bằng một lần chạy Writer** cùng brief cũ ở chat mới, không bằng bản Agent sửa tay.
-- **Tác giả nói "ngang nhau / đều đạt" là hết vòng tối ưu** — chốt một bản, ghi log, sang đoạn kế.
-- **Tác giả chọn bản khác bản mình khuyên → lấy bản của họ làm gốc.**
-- Tật register/xưng hô sửa ở ba tầng: glossary (bảng tra) + SI (luật cho nó xuất hiện) + một dòng prompt — `references/register-tay-huyen.md`.
+- **Đích là mật độ của bộ mẫu, không phải 0.** Đo bộ mẫu `我在泡沫东京画漫画.txt` (440.232 字 Hán): phủ định lặp
+  **1,39**/1.000 字, so sánh người kể **0,11**, khuôn 实 **0,03**, nhãn ngữ điệu **0,03**. Ba bộ mẫu khác cũng ở
+  1,37–1,78 cho phủ định → **2–3 cặp phủ định mỗi đoạn là bình thường**; 0 là dưới mẫu. Ngược lại so sánh người
+  kể và nhãn ngữ điệu ở 0,5–0,6 là cao gấp 5–20 lần mẫu — **đó mới là tật**. Xem đích ở
+  `chung/loi/muc-tieu.jsonl`; chưa có thì đo bộ mẫu rồi ghi vào.
+- Đích có ba nguồn, phải ghi rõ: `mau` (bộ mẫu), `tac-gia` (Tác giả dặn — **thắng** mẫu), `noi-bo` (mốc của bản
+  đã duyệt). Ba nguồn xung đột; không ghi rõ thì mỗi lần review là một lần tung đồng xu.
+- **Số đo là cổng.** Phán chất lượng bằng **đọc**: mở/giữa/kết × (ai muốn gì · cái gì đổi · câu đáng nhớ · chỗ
+  người đọc bỏ qua), đặt cạnh mẫu — `references/doc-bang-doc.md`.
+- **Cột 0 không phải bằng chứng sạch.** `soat_van.py` bỏ sót `如…般`, `如铁`, `如鹰隼`, nhãn `平静地命令道`. Grep tay
+  `如.{1,8}般|如铁|如鹰` và `(平静|冷冷|淡淡|轻声)地(说|道|命令|问|开口)` trước khi báo ĐẠT (KN30).
+- **Đo nhiễu trước khi nhận công.** Hai lần chạy y hệt lệch nhau ở độ dài và mật độ câu, gần như không lệch ở
+  chi tiết — chi tiết trùng không phải "chép". Quy về mật độ/1.000 字; chỉ coi là có tác dụng khi ra khỏi biên
+  độ. Thứ sinh tật là **lượng bình luận của người kể**, không phải số 字 — đừng chữa bằng cách cắt chữ.
+- **Bản Tác giả khen có phần là lượt may**: chạy lại cùng prompt + SI không ra lại chất lượng đó — đừng coi
+  prompt ấy là công thức chắc. **"Ngang nhau / đều đạt" là hết vòng tối ưu**: chốt một bản, ghi log, sang đoạn
+  kế. **Tác giả chọn bản khác bản mình khuyên → lấy bản của họ làm gốc.**
+- Tật register/xưng hô sửa ở ba tầng: glossary (bảng tra) + SI (luật cho nó xuất hiện) + một dòng prompt. Dòng
+  glossary **không phải lệnh**: thêm `少爷` thì nó ra 9 lần, nhưng `小的` vẫn 0 vì không có luật nào ở SI.
+  Muốn một cách xưng hô *xuất hiện*, phải có câu ở SI hay prompt — `references/register-tay-huyen.md`.
 
-Chi tiết: `references/do-va-hoc.md`, `references/cham-diem-ban-thao.md`.
+## 6. Bốn cổng soát — và cái chúng không bắt được
 
-## 5. SI của truyện
+Mỗi cổng mù một phần: `cong_doan.py` không bắt văn loạn hay nhảy cóc dữ kiện; `soat_van.py` đếm được phủ định
+lặp, 得像…, khuôn 实, phần lớn nhãn ngữ điệu nhưng **bỏ sót** `如…般`, `平静地命令道`, câu cụt và số học;
+`soat_brief.py` bắt số học, lệch bible, chỗ dừng, tên chữ Hán nhưng **không** bắt ngân sách từ, tỷ lệ thoại, mức
+"checklist", và **CHẶN oan brief mẫu B đúng khung** (20/43 brief còn chưa được đối chiếu bible lần nào vì viết
+thẻ trong ngoặc); `cham_doan.py` chỉ có band văn phong làn 领主.
 
-- **Lời kể (70–85% văn bản) phải có nguyên tắc + anchor riêng, đứng trước mọi cảnh đặc biệt** — SI chỉ dạy cảnh đặc biệt thì Writer kể bằng giọng báo cáo và thoại nhiễm theo (`references/si-khung.md`, `writer/SI-template` v5).
-- Sửa SI phải có Tác giả duyệt + ghi `log.md`. Dựng SI mới từ `writer/SI-template` v5 — **phần dán ≤ 8.000 ký tự, 4–5 anchor,
-  PART 2 ≤ 8 dòng, 5 dòng BANS gọi tên lớp tật, không liệt kê từ, không nhắc máy soát** (Writer né regex bằng từ họ hàng:
-  实 → 整整/死死); giữ mọi đời cũ `system-instruction-vN.md`.
-- **Lỗi mới không tự thành luật SI**: do brief/dữ kiện → sửa brief/glossary; gặp một lần → review-blacklist; lặp ≥2 lần
-  chạy với brief khác nhau → một dòng PART 2 **thay** một dòng cũ (template v5 hướng dẫn 6).
-- **Chất lượng tụt qua nhiều vòng thì nghi luật tích tụ**: đo độ dài SI và prompt qua các đời; nếu cùng phình thì reset về
-  SI lõi và từ đó sửa bằng **cắt** một luật, không thêm — `references/si-cau-truc.md` mục 10.
-- Model chép hình thức tu từ của chính SI (chuỗi phủ định trong SI ra chuỗi phủ định trong văn).
-- Luật nhịp viết cả sàn và trần; luật dạng đếm được thì model đọc thành checklist — trừ khi cần một giọng **xuất hiện**
-  (câu tự giễu, câu châm): khi đó phải cho hạn mức đếm được.
-- Lệnh cấm đo từ chính bộ mẫu (thẻ thoại, số dòng bảng…), không chép từ đời SI hay truyện khác.
-- **Dấu hiệu đếm được dày trong mẫu có thể chỉ dồn ở một loại cảnh** — xem nó ở đâu trước khi nâng thành luật (`references/si-cau-truc.md`).
-- **Danh sách ví dụ trợ từ (呢, 吧…) trong luật thoại bị Writer nhồi vào mọi lượt**; bỏ một chữ khỏi danh sách không đủ — phải có hạn mức (phần lớn lượt không trợ từ, 呢 ≤2/đoạn). Luật thẻ thoại, thước chủ ngữ, số đo: `references/si-cau-truc.md` mục 12–13.
-- Không bịa anchor; kiểm bằng `scripts/verify_anchors.py` — `references/si-anchors.md`.
-- Nghi SI "không làm việc" → test trên cảnh mẫu có đáp án, hai cảnh khác loại — `references/si-test-tren-mau.md`.
-- Tác giả gửi link SI: repo private, đọc từ bản clone và nói rõ đời nào (+3–4 khác biệt).
-- **Test một lỗi Tác giả bảo sửa: 3 hướng khác nhau, mỗi hướng 1 bản, chỉ gửi 3 bản** (vd luật trong SI / neo nguyên văn
-  bộ mẫu / dồn vào prompt). Máy soát trước (tên lọt, số, thước đo của lỗi đó); bản chưa qua máy thì chạy lại, không gửi.
-  Tác giả đọc tối đa ~4 bản một vòng; 10–12 bản (2 lần × mỗi biến thể) là quá nhiều (27/10, ky-kham-lanh-chua).
+## 7. SI: nguồn → bản dựng → phép thử
 
-Chi tiết: `references/si-ghi-chu.md`, `references/tai-dung-si.md`, `references/si-khong-ban-tay-vang.md`, `references/giong-mc-hien-dai.md`.
+Khung duy nhất: `writer/SI-template` v5 (ngân sách, số anchor, PART 2, BANS — không chép lại ở đây). Đo bằng
+`python tools/dung_si.py <truyen>`: `len()` phần dán, số dòng từng mục, **và phần trăm ký tự anchor chiếm** — vì
+anchor nhiều chữ cũng là cách vượt ngân sách (`manga-tokyo-2000`: 2 anchor nhưng chiếm 43% phần dán). Hiện 4 SI
+v5 nằm ở 98,5–99,7% trần: ngân sách đang bị dùng như **hạn mức để lấp**.
 
-## 6. Mở truyện, thể loại
+**SI là nguồn + bản dựng, không phải một file văn xuôi.**
 
-- Đọc bảng truyện ở `README.md` gốc trước: truyện mới phải khác **trục**, không chỉ khác bối cảnh.
-- Tác giả đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai.
-- 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc.
-- Đoạn 001: chạy 3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào `reviews/doan-001.md`.
-- Mỗi thể loại một SI dựng từ dấu hiệu đo được của bộ mẫu; mẫu tải về có thể hỏng — đếm thân chương trước.
-- **Dàn ý sau đoạn mở cũng bám từng chương bộ mẫu**: mỗi đoạn một màn phô diễn → người chứng kiến hiểu sai theo cách
-  nghĩ của họ → MC thắng thấy rõ, một con số lớn. Đoạn chỉ có mua bán, ký kết, đếm sổ thì Tác giả đọc ra "bình bình,
-  một đống thiết lập" dù văn sạch; luật bible chặn công nghệ đi nhanh là nguyên nhân gốc — chặn bằng giá, đừng chặn bằng nhịp.
-- **Đoạn mở lane xuyên việt: chép thứ tự của chương 1 bộ mẫu, không dựng cảnh tỉnh dậy** (骑砍: nơi chốn → bao
-  lâu → bảng → một nhận định tự giễu → số liệu → cảnh đang chạy). Đưa nghề kiếp trước vào prompt thì Writer nhắc lại
-  2–8 lần/bản. Thứ tự đầy đủ + prompt chạy được: `references/mo-truyen-va-the-loai.md`.
+- `<truyen>/gemini/system-instruction-vN.md` là **nguồn**, có chú thích. Giữ **mọi đời** `vN`: hiện 4/5 truyện v5
+  chỉ còn `v1`, và `manga-tokyo-2000` bị viết lại (7.913 → 4.749 ký tự, mất BANS, LENGTH, PART 3 và cả neo độ dài
+  câu) mà **vẫn tên `v1`** — đời thật không có tên, README còn ghi "7.9xx ký tự, 4 anchor".
+- Mỗi dòng PART 2/BANS kết thúc bằng `<!-- I-xxxx -->` trỏ tới can thiệp đã sinh ra nó. Dòng không có mã là dòng
+  chưa có bằng chứng — ứng viên cắt đầu tiên.
+- `<truyen>/gemini/si-dan-gemini.txt` là **bản dựng** do `dung_si.py` sinh ra; không sửa tay. Đừng đưa
+  `system-instruction-vN.md` thẳng cho `--si`: không có code nào cắt marker, cả khối "HƯỚNG DẪN ĐIỀN" sẽ bị dán
+  vào model.
+- Sửa SI đang chạy cần **Tác giả duyệt** + `log.md` ghi `Duyệt:` và số ký tự trước/sau. Đo 5 SI v5: **0 bản ghi
+  có Tác giả duyệt**, 2 ghi "Duyệt: Agent", 3 không ghi. `Duyệt: Agent` chấp nhận được cho SI chưa có đoạn
+  nào — nhưng phải ghi, và cập nhật số ký tự vào README **cùng commit**.
 
-Chi tiết: `references/mo-truyen-va-the-loai.md`, `references/mo-truyen-moi.md`, `references/sang-van.md`.
+**Cổng xét luật mới vào SI** (dừng ở nấc đầu tiên đúng): (1) do brief/thiếu dữ kiện → sửa brief/glossary/state;
+(2) mới gặp một lần → `review-blacklist` + ghi sổ; (3) lặp ở **≥2 lần chạy với brief khác nhau** → một dòng PART 2
+**thay** một dòng cũ, dòng bị thay ghi vào `log.md` kèm mã can thiệp; (4) chưa có phép thử thì chưa được coi là
+đã chữa. Cổng có từ 29/10 mà **chưa lần nào được dùng đúng**: grep `gỡ|bỏ luật|thay dòng` trên mọi `log.md` ra
+0 dòng theo khuôn, trong khi `ky-kham-lanh-chua` đã đi từ 15 lên 25 dòng PART 2.
 
-## 7. Chạy N đoạn liên tiếp — hợp đồng
+**Phép thử SI**: chạy lại **đúng brief cũ**, chat mới, **2 lần**, không thêm dòng nào vào prompt; biên độ là
+chênh lệch giữa hai lần đó; so mật độ với **đích của bộ mẫu** (mục 5, mục 8). Test trên cảnh mẫu có đáp án khi
+nghi SI không làm việc, nhưng cảnh phải **ngoài anchor** và đổi tên — nếu không Writer chép lại chính anchor
+(`references/si-test-tren-mau.md`).
 
-Khi Tác giả nói "chạy tiếp N đoạn", ghi hợp đồng vào đầu `log.md` của lượt đó (kiểu `/goal` của Hermes) rồi mới chạy:
+Những điều đã biết, khỏi đo lại:
 
-| Ô | Nội dung mặc định |
-|---|---|
-| Kết quả | N đoạn mới đã chốt + push, nối liền nhau, đúng dàn ý |
-| Kiểm chứng | mỗi đoạn: `cong_doan.py` xanh + review bằng đọc ĐẠT/SỬA NHẸ + kiểm push bằng số |
-| Không được đổi | bible, dàn ý, SI, glossary, luật chung (chỉ đề xuất) |
-| Phạm vi | thư mục truyện đó + `log.md`; tài liệu chung commit riêng |
-| Dừng và hỏi khi | cần đổi canon/dàn ý; cùng một đoạn VIẾT LẠI 2 lần; hết quota mọi acc; Tác giả nói "để tôi duyệt" |
+- Model **chép hình thức tu từ của chính SI**; anchor chứa đúng tật thì dạy lại tật. Luật đếm được (dải phần
+  trăm, số lượt) bị đọc thành checklist — chỉ con số **độ dài câu đo từ mẫu** là an toàn.
+- Lời kể chiếm 70–85% văn bản và phải có nguyên tắc riêng, đứng trước cảnh đặc biệt; thiếu thì Writer kể bằng
+  giọng báo cáo. Chất lượng tụt qua nhiều vòng → nghi **luật tích tụ**, reset về SI lõi rồi sửa bằng **cắt**.
 
-Mỗi đoạn trọn một vòng mục 1 (brief → chạy → cổng → review → push) rồi mới sang đoạn kế — gom cả lô thì lỗi đoạn ba
-kéo bốn đoạn. Độ dày mỏng dần qua các đoạn là thật: cửa sổ độ dài và tỷ lệ thoại/lời kể ghi ở mọi brief.
-Lệch cấu trúc với dàn ý (một beat không còn xảy ra được) → ghi bảng lệch, soạn lại 2–3 đoạn kế, trình Tác giả.
+## 8. Sổ lỗi — vòng học bắt buộc
 
-## 8. Báo cáo và hỏi
+Mục này thay vòng học cũ ("thấy tín hiệu → chọn file → viết bài học"). Vòng cũ chỉ ghi **đã học gì**, không ghi
+**đã thử gì, hiệu quả bao nhiêu, cái nào vô dụng** — nên sau 37 bài học, **0 can thiệp có đủ số đo**, và 14 luật
+đã ghi vẫn tái phạm (`chung/loi/bao-cao.md`).
 
-- Hỏi Tác giả: bối cảnh đủ trả lời ngay, 2–3 phương án, khuyến nghị đứng đầu.
-- Chốt đoạn thì tự commit + push, không hỏi lại; đổi canon/luật chung thì hỏi.
-- Kết luận không ghi vào file thì mất: verdict + bảng số + quyết định vào `reviews/` và `log.md` trước khi push.
+| File | Trả lời | Ghi khi nào |
+|---|---|---|
+| `chung/loi/loai-loi.jsonl` | Có kiểu lỗi nào, mã `E-*` là gì | Một lần, khi gặp kiểu lỗi mới |
+| `chung/loi/quan-sat.jsonl` | Lần này Writer mắc lỗi đó **mấy chỗ** | Mỗi lần review bắt được lỗi |
+| `chung/loi/can-thiep.jsonl` | Đã sửa **gì, ở tầng nào, hiệu quả ra sao** | Mỗi lần sửa; điền số sau khi chạy lại |
+| `chung/loi/muc-tieu.jsonl` | Đích của từng chỉ số, **do ai đặt** | Khi đo bộ mẫu hoặc Tác giả đặt mốc |
+| `chung/loi/bao-cao.md` | Bảng tổng hợp — sinh tự động | `python tools/so_loi.py bao-cao` |
 
-Chi tiết: `references/git-va-ban-giao.md`.
+Bốn lệnh cuối mỗi phiên làm truyện (mẫu đầy đủ ở `chung/loi/README.md`):
 
-## 9. Vòng học cuối phiên (bắt buộc)
+```
+python tools/so_loi.py quan-sat --loi E-PROSE-03 --truyen X --doan 003 --so-lan 2
+python tools/so_loi.py can-thiep --loi E-PROSE-03 --tang SI --chi-so <chỉ số> --truoc 0.6 --sau 0.1 --bien-do 0.1 --n 2
+python tools/so_loi.py phan-quyet --id I-0021 --sau 0.1 --n 2
+python tools/so_loi.py bao-cao && python tools/so_loi.py kiem-tra
+```
 
-Chạy khi: chốt xong một đoạn/lô, Tác giả sửa lưng, hoặc trước khi kết thúc phiên làm truyện. Đây là bản tay của
-background review của Hermes.
+Năm luật của sổ:
 
-1. **Quét tín hiệu** trong phiên — một tín hiệu là đủ để phải ghi:
-   - Tác giả chê văn, cách làm, cách báo cáo ("đừng…", "lại thế", "không có cảm xúc") — tín hiệu mạnh nhất.
-   - Một cách làm/fix/lệnh mới chạy được sau khi cách cũ hỏng.
-   - Một luật trong skill này hoặc trong `chung/` tỏ ra sai, thiếu bước, lỗi thời.
-2. **Chọn chỗ ghi**, cái đầu tiên phù hợp:
-   1. Sửa đúng câu sai/thiếu trong `SKILL.md` này (luật luôn áp dụng) — sửa tại chỗ, không viết "UPDATE:" bên dưới.
-   2. Mở rộng một `references/<chủ đề>.md` đã có (chi tiết, số đo, bảng).
-   3. Phát hiện về **cách viết truyện** dùng chung cho mọi Agent (Codex, Hermes) → `chung/kinh-nghiem.md` theo mục 12 `AGENT.md`.
-   4. Sự thật riêng một truyện (tên, số, quyết định) → bible/log của truyện đó, **không** vào skill.
-3. **Cách viết một bài học**: luật tổng quát dạng mệnh lệnh + một vế "vì sao" (cơ chế), gắn vào bước nó ảnh hưởng.
-   Đọc lại chỗ định ghi trước — đã có thì làm mạnh câu cũ, không thêm bản thứ hai. Không ghi ngày, số commit, câu
-   trích dài; số đo chỉ giữ khi nó là bằng chứng của luật (và đặt ở reference, không ở `SKILL.md`).
-4. **Không ghi**: lỗi môi trường đã tự khỏi (chạy lại là được), câu kiểu "công cụ X hỏng", chuỗi thử thất bại chưa tìm
-   ra cách đúng, việc một lần.
-5. **Giữ dáng**: `SKILL.md` dưới ~20.000 ký tự (`wc -m`); vượt thì đẩy chi tiết sang reference. Không tạo reference
-   theo ngày/sự cố. "Không có gì để ghi" là được, nhưng không phải mặc định.
-6. Commit riêng: `skill: <điều vừa học>` và push cùng lượt.
+1. **Một lần sửa = một biến.** Cùng brief, hoặc cùng SI; đổi cả hai thì không quy được công cho cái nào.
+2. **Hiệu quả đo bằng "số lần biên độ nhiễu"**: `|trước − sau| / biên độ`. ≥2 → `hieu-qua` · <1 → `vo-hieu` ·
+   ngược chiều → `phan-tac-dung` · chưa đủ 2 lần chạy → `chua-ro`.
+3. **Luật trong SKILL này chỉ tồn tại nếu** có một can thiệp `hieu-qua`, **hoặc** là chỉ dẫn trực tiếp của Tác
+   giả. Mọi thứ khác là giả thuyết — nằm ở `review-blacklist` hoặc ở sổ. Đây là cơ chế giữ file này **ngắn lại**
+   khi bằng chứng tăng, thay vì dài ra.
+4. **`vo-hieu` / `phan-tac-dung` phải được gỡ ngay trong phiên đó** — gỡ dòng khỏi SI, gỡ câu khỏi brief, ghi lý
+   do vào `log.md`. Một giải pháp vô hiệu để nằm lại sẽ được thêm lại lần sau bởi một Agent khác.
+5. **Tác giả bác là bằng chứng hợp lệ, nhưng phải ghi nguyên văn câu bác** (`ket_luan: tac-gia-bac`); không có
+   câu bác thì lần sau không ai biết vì sao nó bị bỏ.
 
-## Bản đồ references
+Mỗi phiên kết bằng đọc bảng `bao-cao`: kiểu lỗi nào nhiều nhất, can thiệp nào đã đo, cái nào vô hiệu. Bảng không
+đổi thì phiên này **không học được gì** — nói thẳng, đừng thêm một dòng KN cho có. Bài học tổng quát ghi vào
+`chung/kinh-nghiem.md` (mục 12 `AGENT.md`), **phải trỏ tới một mã can thiệp**.
+
+## 9. Nhiều đoạn, mở truyện, bàn giao
+
+**Chạy N đoạn liền** — ghi hợp đồng vào đầu `log.md` rồi mới chạy: kết quả = N đoạn đã chốt + push, nối liền,
+đúng dàn ý; kiểm chứng = mỗi đoạn qua cổng máy + review bằng đọc + kiểm push bằng số; **không được đổi** bible,
+dàn ý, SI, glossary, luật chung (chỉ đề xuất); **dừng và hỏi** khi cần đổi canon/dàn ý, cùng một đoạn viết lại 2
+lần, hết quota mọi acc, hoặc Tác giả nói "để tôi duyệt".
+
+Mỗi đoạn trọn một vòng mục 1 rồi mới sang đoạn kế — gom cả lô thì lỗi đoạn ba kéo bốn đoạn. Lệch cấu trúc với dàn ý
+(một beat không còn xảy ra được) → ghi bảng lệch, soạn lại 2–3 đoạn kế, trình Tác giả.
+
+**Mở truyện.** Đọc bảng truyện ở `README.md` gốc: truyện mới phải khác **trục**, không chỉ khác bối cảnh. Tác giả
+đã nói thể loại / "tùy bạn" = đã chốt: dựng luôn (bible → SI → đoạn 001), không mở form thứ hai. 黄金三章:
+入局 → 加压 → 承诺; 300 字 đầu có người có tên gặp nguy + hạn chót; không mở bằng sổ sách/đo đạc. Đoạn 001 chạy
+3–4 bản để chọn **hình dạng prompt**, không để chọn câu chữ; bảng số của cả các bản vào review.
+
+**Bàn giao.** Mỗi session Writer tối đa **2 đoạn** (đoạn thứ 3 đã trôi giọng). Gói ở `<truyen>/handoff/`, ghép
+bằng `python tools/build_pack.py <truyen> --prompt briefs/doan-XXX.md` thành **một tin nhắn mở session**.
+Mọi quyết định phải nằm trong repo, không chỉ trong hội thoại.
+
+## 10. Báo cáo và hỏi
+
+Hỏi Tác giả thì nêu 2–3 phương án kèm khuyến nghị đứng đầu. Chốt đoạn thì tự commit + push; đổi canon/luật chung
+thì hỏi. Commit: `doan-XXX: chốt — …` · `prompt: …` · `review: …` · `skill: …` · `so-loi: …`; tài liệu chung
+commit riêng.
+
+## Bản đồ file
 
 | File | Khi nào đọc |
 |---|---|
-| `brief-chi-tiet.md` | viết brief, nhất là khi bản ra lệch canon/số/mối nối |
-| `chay-writer.md` | lỗi bridge, quota, capture cụt, chuẩn hoá dòng trống |
-| `do-va-hoc.md` | trước khi kết luận một lần sửa SI/prompt có tác dụng |
+| `chung/loi/bao-cao.md` · `chung/loi/README.md` | đầu và cuối phiên; khi ghi sổ, khi phân vân một kết luận đã đủ bằng chứng chưa |
+| `chung/review-blacklist.md` | khi review — lỗi để bắt, đối chiếu mã `E-*` |
+| `brief-chi-tiet.md` · `chay-writer.md` · `git-va-ban-giao.md` | viết brief; bẫy bridge/quota/capture; push, branch, bàn giao |
+| `do-va-hoc.md` | **trước khi kết luận** một lần sửa SI/prompt có tác dụng |
 | `cham-diem-ban-thao.md` · `doc-bang-doc.md` | chấm và trình bày review |
-| `si-cau-truc.md` | khung SI, vòng thử–đo, thoại, nhịp, reset SI |
-| `si-khung.md` · `si-anchors.md` · `si-test-tren-mau.md` | dựng SI mới, anchor, test trên mẫu |
-| `si-ghi-chu.md` · `tai-dung-si.md` · `si-khong-ban-tay-vang.md` | sửa/tái dùng SI, truyện không hệ thống |
-| `giong-mc-hien-dai.md` · `register-tay-huyen.md` | giọng MC xuyên việt; xưng hô, tước, tên riêng Tây huyễn |
-| `mo-truyen-va-the-loai.md` · `mo-truyen-moi.md` · `sang-van.md` | mở truyện, 黄金三章, 爽文, 骑砍 |
-| `git-va-ban-giao.md` | push, branch, bàn giao session |
+| `si-khung.md` · `si-cau-truc.md` · `si-anchors.md` · `si-test-tren-mau.md` · `si-ghi-chu.md` · `tai-dung-si.md` · `si-khong-ban-tay-vang.md` | dựng, sửa, test, tái dùng SI |
+| `giong-mc-hien-dai.md` · `register-tay-huyen.md` · `mo-truyen-va-the-loai.md` · `mo-truyen-moi.md` · `sang-van.md` | giọng MC xuyên việt; xưng hô Tây huyễn; mở truyện, 黄金三章, 爽文, 骑砍 |
 | `templates/brief-doan.md` · `templates/so-lieu-doan.md` | khung brief, sổ số liệu |
