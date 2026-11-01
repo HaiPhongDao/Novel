@@ -2,7 +2,7 @@ Viết lại chương này thành một đoạn truyện hoàn chỉnh, khoảng
 
 Đây là bài kiểm tra SI: viết đúng **cùng một chuỗi sự việc** dưới đây. Không thêm cảnh, không thêm nhân vật, không đổi kết cục.
 
-Tình huống. Một buổi chiều năm 1994, sau giờ làm, ở con hẻm sau toà soạn một nhà xuất bản lớn tại Tokyo (khu Bunkyo, Otowa). Kurokawa Midori — biên tập viên tạp chí manga, ngoài ba mươi — xuống đây hút thuốc cho khuây. Cô để ý một thanh niên đứng bên kia đường đã hơn một tiếng, mắt nhìn về phía cổng sau. Cô đoán mò vài khả năng, rồi tự nhủ kệ, chuyện gì tới thì tới.
+Tình huống. Một buổi chiều năm 1994, sau giờ làm, ở con hẻm sau toà soạn một nhà xuất bản lớn tại Tokyo (khu Bunkyo, Otowa). Kurokawa Midori — biên tập viên tạp chí manga, ngoài ba mươi — xuống đây hút thuốc cho khuây. Cô để ý một thanh niên đứng bên kia đường đã hơn một tiếng, mắt nhìn về phía cổng sau. Cô đoán mò vài khả năng, rồi tự nhủ kệ. Sau đó cô nhìn sang bên kia đường và lẩm bẩm một mình ba câu như đang nói với anh ta, dù anh ta không nghe thấy: câu đầu xúi anh ta làm gì đó đi; câu hai là lời khuyên đạo lý cho một người lạ (đại ý rằng đời đã khó rồi thì đừng nén cảm xúc nữa); câu ba để lộ lý do thật của chính cô — giá có chuyện gì xảy ra thì cô khỏi phải về bàn. Cô không nói to, và không chờ trả lời.
 
 Người thanh niên bước qua đường. Anh tên Akiyama Satoru, 23 tuổi, đang làm trợ lý thực tập trong xưởng vẽ của Uesugi — một tác giả đang đăng dài kỳ trên tạp chí của toà soạn này. Anh xưng là tới nộp bản thảo giúp Uesugi.
 
