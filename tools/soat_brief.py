@@ -18,11 +18,21 @@ va chạm, số cuối đoạn, lời/lý lẽ soạn sẵn, câu ý nghĩa, hì
 Hán, quá nhiều cảnh, số học sai, thẻ nhân vật lệch bible.
 
 CHẶN = sửa brief rồi mới chạy (mã thoát 1). CẢNH BÁO = đọc lại dòng đó. Cổng xanh chưa phải brief tốt.
+
+Mã thoát: 0 = xanh, 1 = có dòng CHẶN, 2 = lỗi khi chạy script. Mã 2 tách khỏi 1 vì trước đây một
+UnicodeEncodeError trên console Windows cũng trả 1, khiến Agent tưởng brief bị chặn.
 """
 import json
 import re
 import sys
 from pathlib import Path
+
+# Console Windows mặc định là cp1252: in mũi tên → hay chữ Hán sẽ crash, và crash từng trả đúng mã thoát
+# của "bị chặn". Ép UTF-8 ngay từ đầu.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 CHAN, CANH = "CHẶN", "CẢNH BÁO"
 HAN = r"一-鿿"
@@ -505,4 +515,10 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    sys.exit(main(sys.argv))
+    try:
+        sys.exit(main(sys.argv))
+    except SystemExit:
+        raise
+    except Exception as e:                                    # noqa: BLE001
+        print(f"LỖI khi chạy cổng: {type(e).__name__}: {e}", file=sys.stderr)
+        sys.exit(2)                                           # 2 = lỗi script, KHÔNG phải "bị chặn"
