@@ -27,7 +27,7 @@ Dùng khi Tác giả nghi "SI và prompt chưa thật sự làm việc". Soát b
 
 ## 3. Ba kết luận
 
-- **Neo độ dài câu là con số duy nhất nên có trong SI.** Một câu "in this register it lands around twenty to thirty characters; a longer one carries a list or a calculation" đưa câu về 28,3–28,8 chữ, sát gốc (28,1–34,0). Trước đó SI không có neo nào thì câu 39,5–47,8 chữ.
+- **[BỊ THAY 01/11 — KN37: không đưa con số nhịp vào SI]** Xem KN37. Ghi chép cũ: **neo độ dài câu từng được coi là con số duy nhất nên có trong SI.** Một câu "in this register it lands around twenty to thirty characters; a longer one carries a list or a calculation" đưa câu về 28,3–28,8 chữ, sát gốc (28,1–34,0). Trước đó SI không có neo nào thì câu 39,5–47,8 chữ.
 - **Neo độ dài lượt thoại thì phản tác dụng, và nó không phải nguyên nhân chính.** "a turn runs one sentence of ten to twenty-five characters" làm số lượt 17→41 và 4→32, tổng chữ cũng tăng: model đạt chỉ tiêu bằng cách **chẻ lời thành nhiều lượt ngắn** rồi thêm lời kể giữa các lượt. Bỏ con số thì cảnh đối thoại về 28 lượt (gốc 17) nhưng cảnh khế ước **vẫn 41 lượt** — tức con số không phải chỗ hỏng: brief của cảnh đó đã viết như một cuộc trao đổi. Chữa ở brief, xem mục 4.
 - **Đích là mật độ của mẫu, không phải 0.** Nguyên văn có 4 cặp phủ định ở cảnh đối thoại, 3 cặp + 1 so sánh ở cảnh khế ước — cùng cỡ với bản bị coi là bẩn. "0 cặp" không phải thành tích: so mật độ/1.000 chữ với mẫu, chỉ coi là lỗi khi lệch quá ~2 lần mẫu.
 
@@ -39,7 +39,7 @@ Bảng chọn tầng sửa:
 
 | triệu chứng | tầng sửa |
 |---|---|
-| câu quá dài / quá ngắn / mất nhịp | SI — neo độ dài câu |
+| câu quá dài / quá ngắn / mất nhịp | **anchor** (không dùng số — KN37) |
 | số lượt thoại nhiều hoặc ít, cảnh thành cuộc họp | brief — dòng tỷ lệ thoại/lời kể |
 | lượt thoại cụt, thiếu chủ ngữ hay người nhận | SI — "a turn stands on its own feet" |
 | xưng hô, tước vị, tiền tệ, ai còn sống, đã chôn chưa | `bible/glossary.md` + khối dữ kiện trong brief |

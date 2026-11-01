@@ -198,7 +198,7 @@ Viết luật nhịp thành **hai đầu**:
 - Trần: sau hai ba mệnh đề thì hết câu; sáu mệnh đề trong một câu là đọc báo cáo; một lượt thoại 2–3 câu, mỗi câu một dữ kiện.
 - Vùng đích đo được: 9–13% mệnh đề ≤4 chữ, 10–12 chữ/mệnh đề, 21–32 chữ/câu kể. Đo bằng `python .claude/skills/novel-craft/scripts/do_nhip_cau.py <bản thảo…>`.
 - Mở cảnh: Tác giả thường thích nhịp chậm (tỉnh → cơ thể → nhà → sân) hơn là mở bằng hành động dứt khoát; đừng mặc định "vào thẳng việc" là hay hơn.
-- Con số **an toàn duy nhất** trong SI là neo độ dài câu; neo số cho độ dài lượt thoại phản tác dụng — xem mục 11.
+- **[BỊ THAY 01/11 — KN37: không đưa con số nhịp vào SI]** Xem KN37. Ghi chép cũ (giữ làm bằng chứng): con số từng được coi là **an toàn duy nhất** trong SI là neo độ dài câu; neo số cho độ dài lượt thoại phản tác dụng — xem mục 11.
 
 ## 8. Nhịp gặp nhau (cảnh hai người)
 
@@ -262,7 +262,7 @@ Khi Tác giả nghi "SI và prompt chưa làm việc", soát bản thảo của 
 
 Tóm tắt điều đã đo được:
 
-- **Neo độ dài câu là con số duy nhất nên có trong SI**: câu 39,5–47,8 chữ (không neo) → 28,3–28,8 (có neo "twenty to thirty characters"), gốc 28,1–34,0.
+- **[BỊ THAY 01/11 — KN37: không đưa con số nhịp vào SI]** Xem KN37. **Neo độ dài câu từng được coi là con số duy nhất nên có trong SI**: câu 39,5–47,8 chữ (không neo) → 28,3–28,8 (có neo "twenty to thirty characters"), gốc 28,1–34,0.
 - **Neo độ dài lượt thoại phản tác dụng**: "one sentence of ten to twenty-five characters" làm số lượt 17→41 và 4→32, vì model chẻ lời thành nhiều lượt ngắn — bỏ số, giữ câu định tính và luật "phần giải thích ở lời kể".
 - **Đích là mật độ của mẫu, không phải 0**: nguyên văn có 3–4 cặp phủ định và 1 so sánh mỗi cảnh.
 - Khác biệt **điểm mở cảnh** không phải lỗi cần sửa: Tác giả thích mở chậm (xem mục 7).
