@@ -1,4 +1,4 @@
-SI v2 — manga (bỏ khối LENGTH và mọi con số nhịp theo chỉ đạo Tác giả 01/11)
+SI v2 — manga (bỏ mọi con số nhịp; thay anchor thoại 01/11 vì thoại cụt, rỗng)
 
 Nguồn anchor: 我在泡沫东京画漫画.txt (5 anchor nguyên văn từ các chương 15, 21, 2, 8, 4). Phần dán: đếm bằng `dung_si.py` và `verify_anchors.py`.
 
@@ -72,20 +72,19 @@ MOMENTS — they sit inside the narration above.
 
 4. Dialogue does a job, and a tag goes where the reader needs it.
 
-Dialogue in this workplace is quick, colloquial and interactive. Characters do not deliver long speeches or monologues; they trade short questions, blunt refusals, and casual deflections. A speech tag (说、道、问、笑) sits where the reader needs to know who is talking — about one turn in four — and two turns in a row never both carry one. Untagged dialogue runs freely between speakers. Each spoken turn sits in its own paragraph.
+Dialogue carries the information of the scene. A turn answers the turn before it and adds something — a fact, a price, a date, a reason for refusing, a question that moves the exchange — and the speaker makes clear who they are talking to. A bare 「是。」 「对。」 closes a point that has already been said out in full, and happens at most once in an exchange; a run of bare confirmations is not a conversation. When someone explains a rule, a price or a deadline, it comes out in their own voice, long enough to carry the fact, with the number inside the sentence. A speech tag (说、道、问) sits where the reader needs to know who is talking, and consecutive turns never both carry one. Each spoken turn sits in its own paragraph.
 
 Sample anchor:
 
 ```
-“发声。”
-少女忽然开口。
-“嗯？”秋山悟一愣。
-“我刚才，在天台上是在练习发声。”上杉明菜说道。
-秋山悟停下了脚步，原来那是在练发声啊，他以为公鸡打鸣呢。
-“你练发声干什么？”
+“你说的是《异人馆村杀人事件》吧？”佐藤文也问。
+“对，就是这个。”见到台阶，秋山悟连忙接话道。
+“啊...那一章其实我自己画的不太满意，是刚连载的时候画的早期作品了，但的确有很多人喜欢，搞不懂。”
+佐藤文也说到这里，有些感慨，
+“不过，有时候，精心打磨的作品没有得到认可，反而随手画的章节却成了读者们偏爱的对象...这种事情对漫画家来说也是常态了。”
 ```
 
-Short rapid exchanges, one speech tag in four turns, and dry inner reaction before the next question.
+A real question, an answer that carries a fact, then the speaker explaining in their own voice; the tag sits where the reader needs it.
 
 5. Payoffs land fast against an even voice.
 
@@ -108,7 +107,7 @@ PART 2 — EVERY PARAGRAPH
 - Whoever stands across from the protagonist holds something — an editorial gate, a deadline, a wage cut, a manuscript return — and uses it before giving way; a win costs something countable. <!-- I-0021 -->
 - Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first. <!-- I-0021 -->
 - Narration stays grounded in concrete objects, dates, and yen amounts; no general industry preaching, broad life philosophies, or occupational laws (no 法则, 铁律, 潜规则, 往往, 总是, 不会同情). <!-- I-0021 -->
-- Dialogue exchanges stay short and snappy; characters converse back and forth in rapid turns rather than delivering monologues. <!-- I-0021 -->
+- A spoken turn stands on its own and carries the exchange forward: the speaker and the person addressed are clear, and the words add a fact, a reason or a cost. <!-- I-0021 -->
 - A workplace scene carries small physical friction — a cigarette tip, a lighter click, a back-door metal gate, an alleyway draft — and tangible workplace details. <!-- I-0021 -->
 
 BANS
