@@ -1,10 +1,17 @@
-# Threads — manga-tokyo-1996
+# Threads Theo Dõi — manga-tokyo-1996
 
-| ID | Tuyến / Chi tiết cài cắm | Cài ở | Dự kiến payoff | Trạng thái |
-|---|---|---|---|---|
-| T-01 | Mẫu thử bánh răng kẹt khớp và gờ khuôn thừa 0.4mm | Đoạn 001 | Đoạn 002–003 (chứng minh cải tiến module) | Đang chạy |
-| T-02 | Tối hậu thư của Kuwata và nguy cơ đền bù 1.200.000 日元 | Đoạn 001 | Đoạn 003 (ký phụ lục gia hạn) | Đang chạy |
-| T-03 | Nợ lương Asakura 70.000 日元 và tiền nhà 68.000 日元 | Đoạn 001 | Đoạn 003 (tạm ứng séc toà soạn) | Đang chạy |
-| T-04 | Đơn đặt hàng đại lý kẹt ở 12.000 hộp | Đoạn 001 | Đoạn 006 (vượt mốc 50.000 hộp) | Đang chờ |
-| T-05 | Xưởng đúc khuôn Shizuoka và khủng hoảng dây chuyền | Đoạn 003 | Arc 2 (Đoạn 007–010) | Đang chờ |
-| T-06 | Đạo diễn Takashiro Mami và dự án TV Anime giờ vàng | Đoạn 002 | Arc 3 (Đoạn 019+) | Đang chờ |
+## Tuyến chính (Main Thread)
+- **T1: Cuộc chiến Oneshot 31 trang 《野犬之刃》**:
+  - Khởi đầu: Đoạn 001 (nhận tối hậu thư 14 ngày, hạn 17h 26/4/1996).
+  - Trạng thái: Chưa vẽ, vừa bị từ chối 45 trang cũ.
+  - Hạn chót: 17 giờ ngày 26 tháng 4 năm 1996.
+
+## Tuyến phụ (Sub-threads)
+- **T2: Khủng hoảng tài chính cá nhân**:
+  - Tiền túi còn: 4.200 日元.
+  - Nợ tiền phòng trọ Koenji: 48.000 日元 (hạn ngày 20/4).
+  - Nhuận bút kỳ vọng nếu được duyệt: 31 trang × 7.500 日元 = 232.500 日元.
+- **T3: Mối quan hệ thầy trò với Morikawa**:
+  - Thoát khỏi cái bóng phong cách cổ điển của Morikawa Masato để định hình phong cách bạo liệt, sắc lạnh riêng.
+- **T4: Tình bạn và sự hỗ trợ của trợ lý Asakura**:
+  - Lương trợ lý: 8.000 日元/ngày bao ăn mì ly.

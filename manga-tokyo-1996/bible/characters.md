@@ -1,36 +1,28 @@
-# Characters — manga-tokyo-1996
+# Danh Sách Nhân Vật — manga-tokyo-1996
 
-## Kamishiro Ren — hoạ sĩ manga kiêm thiết kế cơ giới (MC)
+## Kamishiro Ren — 23 tuổi, hoạ sĩ manga tân binh, cựu trợ lý 3 năm, ngón tay chai sần ám vệt mực Kuretake
 
-- **Tuổi:** 25 tuổi.
-- **Thân phận:** Họa sĩ manga chuyên vẽ cơ giới và minh họa kỹ thuật; kiếp trước là giám đốc mỹ thuật kiêm tổng giám chế IP đồ chơi/media mix tại Tokyo/Thượng Hải, qua đời ở tuổi 38 vào năm 2024.
-- **Ngoại hình:** Dáng người gầy, ngón trỏ và ngón giữa tay phải chai sần vì cầm bút sắt, móng tay ám vệt mực vẽ Kuretake.
-- **Tính cách:** Điềm tĩnh, thực dụng, sắc bén; không nói lý thuyết sáo rỗng, phản bác bằng cấu trúc bản vẽ và chi phí sản xuất.
+- **Tuổi**: 23 tuổi.
+- **Xuất thân**: Rời quê hương Niigata lên Tokyo lập nghiệp 3 năm trước. Làm trợ lý chính suốt 3 năm cho hoạ sĩ Morikawa Masato (chuyên vẽ cảnh bạo lực, cơ giới, bối cảnh phức tạp).
+- **Tính cách**: Lầm lì, kiên nhẫn, chịu khó, mang nỗi ám ảnh về việc chỉ là "cái bóng vẽ thuê". Khi đã cầm bút G vẽ thì quên ăn quên ngủ.
+- **Tình trạng hiện tại**: Tách ra vẽ riêng được 6 tháng. Tiền tiết kiệm cạn sạch còn 4.200 日元. Nợ tiền thuê căn phòng 6 chiếu ở Koenji 48.000 日元 đến hạn 20/4.
+- **Mục tiêu**: Hoàn thành oneshot 31 trang 《野犬之刃》(Lưỡi Đao Chó Hoang) trong 14 ngày để giành suất đăng trên số đặc biệt mùa hè của 《周刊少年SPARK》.
 
-## Nogami Shinji — biên tập viên phụ trách của Ren
+## Nogami Shinji — 32 tuổi, Phó ban biên tập 《周刊少年SPARK》 của Đại Đô Xã, mắt một mí sắc lạnh, nghiện thuốc lá Peace
 
-- **Tuổi:** 31 tuổi.
-- **Thân phận:** Biên tập viên phụ trách (担当编辑) của Ren tại nguyệt san 《月刊少年BRAVE》, NXB 大都社.
-- **Ngoại hình:** Mặc áo măng-tô xám dính nước mưa, kính gọng bạc trễ xuống sống mũi, miệng ngậm điếu thuốc Seven Stars chưa châm.
-- **Tính cách:** Tận tụy nhưng chịu nhiều áp lực từ toà soạn và nhà tài trợ đồ chơi; hay lo âu, nói nhanh.
+- **Tuổi**: 32 tuổi.
+- **Xuất thân**: Biên tập viên kỳ cựu đã đưa 2 bộ truyện manga hành động đạt kỷ lục phát hành hàng triệu bản.
+- **Tính cách**: Sắc bén, thực tế đến tàn nhẫn, ghét cay ghét đắng những tác phẩm vẽ khéo léo nhưng vô hồn giả tạo. Không khen vuốt ve hoạ sĩ, chỉ dùng sự thật và áp lực thị trường để ép hoạ sĩ bộc lộ năng lực thật.
+- **Vai trò đối với Ren**: Người thẳng thừng từ chối 45 trang bản thảo mô phỏng kỹ thuật của Ren, nhưng cũng là người nhìn ra lực cổ tay và sự chuẩn xác của Ren để trao cơ hội 14 ngày cho suất oneshot 31 trang trống.
 
-## Kuwata Daisuke — trưởng ban kế hoạch tập đoàn đồ chơi Teito
+## Asakura Ken — 20 tuổi, sinh viên trường mỹ thuật làm trợ lý tự do cạo tram và kẻ nét bối cảnh, đeo kính gọng tròn
 
-- **Tuổi:** 46 tuổi.
-- **Thân phận:** Trưởng ban Kế hoạch Phát triển Sản phẩm (企划开发部部长) của tập đoàn đồ chơi 帝都玩具.
-- **Ngoại hình:** Người đậm, vest xám than, đồng hồ kim loại Seiko nặng trịch, ngón tay thô ráp của kỹ sư xưởng cơ khí.
-- **Tính cách:** Lạnh lùng, thực dụng; chỉ tin vào đơn đặt hàng của đại lý đồ chơi và chi phí khuôn đúc kim loại.
+- **Tuổi**: 20 tuổi.
+- **Xuất thân**: Sinh viên khoa Hội họa Đại học Nghệ thuật Tokyo, đi làm thêm ngoài giờ để kiếm tiền mua hoạ cụ.
+- **Tính cách**: Nhanh nhẹn, thạo việc cạo tram và đi nét phối cảnh phụ, tính tình hiền lành, thẳng thắn chia sẻ cảm nhận của một độc giả trẻ tuổi.
+- **Mối quan hệ với Ren**: Được Ren thuê theo ngày (8.000 日元/ngày bao cơm). Dù biết Ren đang kẹt tiền nhưng vẫn tin vào nét vẽ của đàn anh và nhận lời giúp đỡ.
 
-## Asakura Ken — trợ lý xưởng vẽ của Ren
+## Morikawa Masato — 48 tuổi, mangaka kỳ cựu dòng hành động võ hiệp, thầy cũ của Ren
 
-- **Tuổi:** 20 tuổi.
-- **Thân phận:** Trợ lý xưởng vẽ của Ren, phụ trách nét cơ khí và dựng mẫu thử đồ chơi.
-- **Ngoại hình:** Tóc đầu đinh, áo thun xám dính dầu máy và mực vẽ, ngón tay quấn băng dán y tế.
-- **Tính cách:** Thật thà, đam mê mô hình xe đua; đang chịu áp lực nợ tiền nhà trọ và mong nhận lương.
-
-## Takashiro Mami — đạo diễn anime của Studio Karasu
-
-- **Tuổi:** 28 tuổi.
-- **Thân phận:** Đạo diễn anime trẻ của Studio Karasu, đơn vị gia công sản xuất TV Anime 《极速齿轮》 thuộc Ủy ban Sản xuất.
-- **Ngoại hình:** Tóc đen buộc đuôi ngựa gọn gàng, đeo kính gọng đỏ, cổ đeo thẻ công tác của đài truyền hình.
-- **Tính cách:** Tỉ mỉ, nhạy bén về thị giác chuyển động; quan tâm đặc biệt đến độ phức tạp của nét vẽ và số lượng bản vẽ chuyển động (作画张数).
+- **Tuổi**: 48 tuổi.
+- **Vai trò**: Tác giả của bộ truyện 28 tập vừa kết thúc trên 《周刊少年SPARK》. Lối vẽ cổ điển, chặt chẽ, từng rèn giũa cho Ren nền tảng phối cảnh và lực đè ngòi bút thép cực kỳ chuẩn xác nhưng cũng vô tình đóng khung Ren vào khuôn mẫu thợ vẽ.

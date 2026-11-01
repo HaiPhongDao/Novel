@@ -1,52 +1,44 @@
 Thoughts
 
-Reviewing the Genre
+Defining the Genre
 
-I'm focusing on the genre and style, zeroing in on the Chinese web novel characteristics. I'm exploring the 日漫业界, 玩具联动, and Media Mix elements, and comparing 起点/番茄 serials. The narrative style is limited omniscient with a brisk, conversational, and dryly ironic tone, incorporating realistic trade accounts.
+I'm focusing on defining the genre, aiming for a 90s Japanese manga workplace novel style, specifically a brisk, ironic serial narrative akin to Qidian/Fanqiao. The goal is to capture the essence of a 90's Japanese manga workplace novel translated into a Chinese web novel tone. I'm prioritizing tone and style to ensure an authentic experience.
 
-Defining the Parameters
+Refining Key Elements
 
-I'm now nailing down specifics like the word count range for the prose, and focusing on the setting. The details of the opening scene are set: Akihabara, late night, specific date, distinct smells. I've also established the core characters and how they address each other, and am thinking about Kamishiro Ren's unique experience.
+I'm now honing the specific stylistic choices. I've pinned down the use of simplified Chinese for the prose, and the name conventions: Latin for people, Chinese for everything else. The word count is 2,000-2,500 characters. The setting is set: 3 PM, April 12, 1996, in Kanda Jimbocho, at the Daitosha reception room, with a chilly spring rain. I'm opting for a limited omniscient POV, focusing on Kamishiro Ren, but occasionally dipping into Nogami Shinji's perspective. I've nailed down the key characters.
 
-Calculating the Stakes
+Detailing Financial Situation
 
-I've got the financial situation fully quantified now, and it's dire. I've pinned down the debts: Ren's facing a mountain of obligations. The 24,500 日元 in his wallet is a tiny drop compared to the 68,000 日元 rent, 70,000 日元 salary to Asakura, and 450,000 日元 publisher advance looming over him. The toy pre-orders are a disaster, and there is a massive breach penalty of 1,200,000 日元. I'm making sure to time stamp it precisely at 23:45 on March 15th, 1996.
+I'm now detailing the financial situation and key plot points. I've noted Ren's 4,200 yen, rent due, and a rejected manuscript. A new opportunity, a 31-page oneshot in SPARK's summer issue, has arisen due to a stomach perforation. The deadline is April 26th, and I've crunched the numbers on potential income and the page rate. Nogami's examining of the manuscript is the key plot stop.
 
-Analyzing the Escalation
+Analyzing the Feedback
 
-The situation has rapidly deteriorated. Asakura's demand for back pay and the landlord's visit highlight the immediate financial pressure. Then, Nogami's arrival with the fax and dismal order sheet from 帝都玩具 throws a wrench in the works. The ultimatum from Kuwata is critical: Ren has until 14:00 on March 16th to present an acceptable storyboard, or face project cancellation and a crippling 1,200,000 日元 penalty. Ren's craftsmanship and creative revisions offer a glimmer of hope amidst the crisis, and he is working on it diligently, until 03:15 AM.
+I've been analyzing the feedback on Ren's rejected manuscript from Nogami. The key points are the technical proficiency of the art, which is described as assistant quality, but lacking the author's passion and ambition. Nogami explicitly rejects the draft, offering an alternative: a 31-page oneshot opportunity in the summer issue, due to a creator's unfortunate illness. I have now defined the deadline.
 
-Planning the Confrontation
+Establishing Stylistic Conventions
 
-I'm now focusing on Ren's state before the review meeting. The storyboard is complete, the financial pressure is intense, and Asakura is asleep. The next segment will detail the lead-up to the confrontation, with less than ten hours remaining before the critical deadline. I'm keeping a close eye on the G-pen and the dripping black ink on the spinning gear.
+I'm now fully immersed in establishing strict style guidelines, focusing on a brisk, ironic narrative voice. I'm prioritizing brevity: one beat per paragraph, mostly short sentences. I'm focusing on a storyteller who is on the protagonist's side, with a dry, matter-of-fact tone. I've set up detailed rules for dialogue, punctuation, and sentence length to ensure stylistic consistency and clarity, with no intensifiers or adverbs. I'm following specific bans, like no comparisons and only one negation per paragraph max, to help guide the writing.
 
-Refining the Style
+Describing the Scene
 
-I'm solidifying the writing guidelines. Paragraphs will be crisp, usually one or two lines, with some expanding to three. The narration sticks closely to Ren with a dry, ironic tone and realistic trade elements. I'm adhering to specific conventions: names in Latin letters, places/companies in Chinese, and particular punctuation usage. The dialogue tags will be minimal, and I'll avoid intensifiers. Sentence length is being kept at 22-30 characters.
+I'm now describing the scene, focusing on Kamishiro Ren, the protagonist, and Nogami Shinji, the deputy editor. I'm visualizing the Daitosha reception room: Ren, stiff on the sofa, aged 23, and Nogami, 32, with his yellowed fingers. I've detailed the rejected manuscript, its physical attributes, and Nogami's critique. I'm focusing on the technical excellence, described as assistant quality, yet lacking the author's passion. I'm homing in on the stark contrast between technical perfection and the absence of emotional depth. The sound of flipping pages emphasizes the tension.
 
-Constructing the Narrative
+Assessing The Stakes
 
-I'm now drafting the scene-by-scene beats. I've set the atmosphere, focusing on the sensory details: the rain, the specific time, the smell of ink and plastic. I've established Ren's financial situation with a precise tally, and I'm describing Asakura's prototyping work on "Extreme Gears" with concise, sensory detail. I'm focusing on the first beat and the physical setting.
+I'm now fully immersed in the financial pressure Kamishiro Ren faces, juxtaposed against Nogami's offer. I feel Ren's grip on the worn bag strap, the weight of 4,200 yen in his wallet, and the looming deadline of April 20th. I visualize the chilling reality: unpaid rent means eviction. This dread sharply contrasts with Nogami's offer of a 31-page oneshot in SPARK's summer issue due to an emergency.
 
-Mapping the Tension
+Calculating the Offer
 
-I'm now detailing the escalating conflict. Asakura's back wages demand is immediate, compounded by Nogami's arrival and the dire fax from 帝都玩具. The cold rain, the fax, and the dismal order sheet are all intensifying the pressure. Kuwata's ultimatum sets a rigid deadline, creating high stakes. The pre-order numbers are a critical disaster, and I'm capturing the frustration in Nogami's demeanor, and the sound of a box, clicks onto the wooden floor, rolls to Ren's foot.
+I've quantified the opportunity. The editorial department seeks rapid, reliable drafts. The deadline is rigid: April 26th at 5 PM, which is a 14-day turnaround. Rookies earn 7,500 yen per page, translating to 232,500 yen for 31 pages. This solves Ren's financial woes, offering months of respite. However, that rapid 31 pages is a grueling ask for a new creator.
 
-Detailing the Conflict
+I'm now detailing Nogami's formal offer. He hands over the official Daitosha manuscript specification sheet, including the publication schedule. The terms are strict: storyboard approval within three days, with the final pencils and inks due by the 26th. If Ren is late, he faces a penalty or is blacklisted. The numbers—232,500 yen, 14 days, 31 pages—are now weighing in my mind.
 
-I'm now zeroing in on Kuwata's pointed remarks about the insulting order and the mold issues, and Ren's immediate, calm response. I'm focusing on the tactile details of the faulty gear, and Ren's precise, almost surgical, correction of the burr. Then I’m highlighting Ren's analysis of the root problem: the prototype's shortcomings, coupled with the unrealistic storyboard, and also setting up the drafting stage. I am now at beat 5.
+Evaluating the Dialogue
 
-Finalizing the Beats
+I am now carefully evaluating the dialogue. I'm focusing on Nogami's directive about Morikawa's background plates, wanting a real manga. I'm paying close attention to the clock at 15:45, emphasizing the passage of time. I'm focusing on Ren's exit: clutching the rejected manuscript and new specifications, walking through the lobby doors into the chilly Jimbocho.
 
-I've just finalized Beat 6, which ends at 03:15 AM with the storyboard complete. I’m zeroing in on the sensory details: the G-pen, the wet ink, Asakura asleep. I am now working on expanding the prose by 2,000 to 2,500 Chinese characters, focusing on the Mini 4WD era, ABS injection molding, and the tensions within the 1996 toy industry, including 大都社's editorial pressures and Kuwata Daisuke’s expectations. I will maintain the Latin character names.
-
-Implementing the Dialogue
-
-I am now focusing on the character interactions. I'm making sure to use the correct honorifics: Kamishiro-sensei, Asakura-kun, Nogami-san. I've double-checked the financial details and meeting specifics. I am now working on ensuring each beat will follow the styling guidelines precisely: two-space indent, one paragraph, minimal tags, a dry tone, and within the character count range. I will focus on the use of dialogue in particular.
-
-Analyzing the Word Count
-
-I'm now calculating the final word count, aiming for the 2,200 to 2,300 character range. I've broken down the sections, estimating approximately 350 characters for the intro, 400 for Asakura's scene, 450 for Nogami's arrival, and 550 for dialogue and the mechanical analysis. I'm focusing on the tactile details and immediate financial stress, to bring the initial beats to life within the constraints.
+I am now focusing on the stylistic consistency. I'm maintaining a brisk pace, with short sentences averaging 22-30 characters. The names remain exact, and I'm avoiding intensifiers. I'm ensuring one beat per paragraph, and checking the banned habits, like only one negation per paragraph. I'm working on maintaining a specific character count for the story.
 
 Collapse to hide model thoughts
 

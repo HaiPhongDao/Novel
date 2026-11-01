@@ -1,73 +1,42 @@
 # Glossary — manga-tokyo-1996
 
-## 1. Quy ước tên riêng
+## 1. Bảng đơn vị đo (Đo lường & Định mức nghề vẽ manga thập niên 90 — KN34)
 
-- **Tên người:** Viết bằng chữ Latin (Romaji) trong cả brief và chính văn tiếng Trung: `Kamishiro Ren`, `Nogami Shinji`, `Kuwata Daisuke`, `Takashiro Mami`, `Asakura Ken`.
-- **Địa danh, nhà xuất bản, hãng đồ chơi, đài truyền hình, chức danh, thuật ngữ ngành:** Viết bằng chữ Hán trong chính văn.
-- **Tên tác phẩm manga / dòng đồ chơi trong truyện:** Viết bằng chữ Hán trong dấu 《》 (`《极速齿轮》`, 《齿轮战士》).
-
-## 2. Nhân vật & xưng hô cố định
-
-| Nhân vật | Vai | Cách gọi người khác | Tự xưng |
+| Đơn vị | Ký hiệu / Chữ Hán | Định mức thực tế (1996) | Ghi chú nghề nghiệp |
 |---|---|---|---|
-| `Kamishiro Ren` | Họa sĩ manga kiêm thiết kế cơ giới, 25 tuổi, tiền kiếp qua đời năm 2024 ở tuổi 38; xưởng vẽ tại Akihabara | Gọi `Nogami Shinji` là `Nogami桑`; gọi `Kuwata Daisuke` là `Kuwata部长`; gọi `Asakura Ken` là `Asakura` | `我` |
-| `Nogami Shinji` | Biên tập viên phụ trách (担当编辑) của Ren tại Daitosha, 31 tuổi | Gọi Ren là `Kamishiro先生`; gọi `Kuwata Daisuke` là `Kuwata部长`; gọi `Asakura Ken` là `Asakura君` | `我` |
-| `Kuwata Daisuke` | Trưởng ban Kế hoạch Phát triển Sản phẩm của tập đoàn đồ chơi `帝都玩具`, 46 tuổi | Gọi Ren là `Kamishiro` (khi gắt) hoặc `Kamishiro先生` (lịch sự xã giao); gọi Nogami là `Nogami君` | `我` |
-| `Takashiro Mami` | Đạo diễn anime trẻ của Studio Karasu thuộc Ủy ban sản xuất, 28 tuổi | Gọi Ren là `Kamishiro老师`; gọi Kuwata là `Kuwata部长`; gọi Nogami là `Nogami桑` | `我` |
-| `Asakura Ken` | Trợ lý xưởng vẽ chuyên về nét cơ khí và dựng mẫu thử, 20 tuổi | Gọi Ren là `先生`; gọi Nogami là `Nogami桑` | `我` |
+| Đồng Yên | 日元 / 円 | Tiền phòng trọ: 48.000 日元/tháng; Bát ramen: 600 日元 | Đồng tiền sinh hoạt Tokyo |
+| Nhuận bút trang | 原稿料 (日元/页) | Tân binh: 7.000–8.000 日元/trang; Hoạ sĩ liên tái: 12.000–18.000 日元/trang | Trả theo từng trang bản thảo hoàn chỉnh |
+| Trang bản thảo | 页 | Khổ B4 (220mm × 310mm), giấy Kent 135kg | Giấy chuyên dụng vẽ manga |
+| Ô tranh | 格 | Bình quân 4–6 ô/trang; Đôi trang (跨页): 1–2 ô lớn | Đơn vị kể chuyện của manga |
+| Lương trợ lý | 助手费 (日元/天) | 8.000–10.000 日元/ngày bao cơm | Trợ lý bôi đen (beta) và dán tram |
+| Ngòi bút | 根 / 盒 | 1 hộp 10 ngòi G-pen Zebra: 1.200 日元 | Dùng mòn 1 ngòi sau 5–8 trang vẽ |
+| Tấm tram | 张 / 盒 | Tram lưới IC Screen: 450 日元/tấm | Giấy dán tạo bóng mờ và hoa văn |
+| Phiếu khảo sát | 调查表 / 投票 | 1 phiếu / số báo tuần san | Độc giả bình chọn 3 truyện yêu thích |
 
-## 3. Thể chế, cơ cấu tổ chức & quy trình ngành (KN34)
+## 2. Thể chế & Tổ chức xuất bản (KN34)
 
-| Tiếng Việt | Viết trong văn | Ghi chú |
-|---|---|---|
-| Nhà xuất bản | `大都社` | Hư cấu. Trụ sở tại `千代田区神田神保町`, tòa nhà 7 tầng |
-| Tạp chí nguyệt san thiếu niên | `《月刊少年BRAVE》` | Hư cấu. Phát hành ngày 6 hàng tháng, độ dày ~550 trang, lượng in `38万部` |
-| Tập đoàn sản xuất đồ chơi | `帝都玩具` | Hư cấu. Trụ sở tại `台东区浅草`, xưởng đúc khuôn nhựa tại `静冈` |
-| Đài truyền hình | `东海电视台` | Hư cấu. Kênh phát sóng hoạt hình khung 18:00 thứ Bảy |
-| Ủy ban Sản xuất Anime/Media Mix | `制作委员会` | Liên minh ba bên: NXB Daitosha + Hãng đồ chơi Teito + Đài truyền hình |
-| Ban biên tập | `编辑部` | Nơi làm việc của Nogami |
-| Trưởng ban biên tập (Tổng biên tập) | `编辑长` | Cấp trên của Nogami tại Daitosha |
-| Trưởng ban kế hoạch sản phẩm | `企划部长` | Chức danh của Kuwata Daisuke tại Teito Toys |
-| Đại lý bán sỉ đồ chơi (Nhật: Toiya) | `玩具问屋` / `问屋` | Hệ thống đại lý phân phối đồ chơi toàn quốc quyết định lượng hàng nhập |
-| Đơn đặt hàng trước từ đại lý | `问屋预订单` / `批发商预订量` | Chỉ số sống còn trước khi mở khuôn đúc nhựa |
-| Chi phí làm khuôn đúc kim loại | `金属模具费` / `模具成本` | Bộ khuôn thép ép phun nhựa ABS, giá từ 800万 đến 1.500万円 |
-| Phân cảnh nháp | `分镜稿` / `NAME` | Bản vẽ bố cục khung, thoại và góc máy do tác giả trình duyệt |
-| Nhuận bút trang vẽ | `原稿料` | Trả theo trang (`枚`), thanh toán vào ngày 25 tháng sau |
-| Tiền tạm ứng | `预支` | Khoản vay trước từ toà soạn trừ dần vào nhuận bút |
-| Tiền phạt vi phạm hợp đồng | `违约金` | Điều khoản bồi thường khi bỏ dở dự án |
-| Khung gầm dùng chung | `通用底盘` | Giải pháp cơ khí module hóa giảm chi phí sản xuất |
-| Nhựa kỹ thuật ép phun | `ABS树脂` / `工程塑料` | Vật liệu chính làm vỏ và bánh răng đồ chơi |
-| Mô-tơ truyền động | `130型微型马达` | Mô tơ chổi than mini chạy pin AA phổ biến thập niên 90 |
-| Ngòi bút vẽ manga | `G笔` (G-pen), `镝笔` (Kabura-pen) | Dụng cụ vẽ chính trên giấy `B4原稿纸` |
-| Trợ lý vẽ | `助手` | Người phụ việc do tác giả tự chi trả lương |
-| Hạn chót nộp bản thảo | `截稿` / `截稿日` | |
+- **Đại Đô Xã (大都社 - Daitosha)**: Nhà xuất bản manga lớn thứ hai Tokyo (hư cấu, tương đương Shueisha/Shogakukan), toạ lạc tại Thần Bảo Đinh (Kanda Jimbocho).
+- **Tuần san Thiếu niên SPARK (《周刊少年SPARK》)**: Tạp chí manga tuần san phát hành 3,8 triệu bản/tuần. Sau khi trụ cột manga võ hiệp dài kỳ kết thúc, lượng phát hành sụt giảm 12%, ban biên tập ráo riết tìm kiếm manga hành động gai góc mới.
+- **Biên tập bộ (编辑部)**:
+  - **Biên tập trưởng (编辑长)**: Người nắm quyền sinh sát duyệt serialization và quyết định trảm truyện.
+  - **Phó biên tập trưởng (副编辑长)**: Phụ trách các số đặc biệt và tuyển chọn tác phẩm tân binh.
+  - **Đảm đương biên tập (担当编辑 - Tantou)**: Người làm việc trực tiếp với hoạ sĩ, sửa name, giục bản thảo, quản lý tiến độ.
+- **Quy trình duyệt bản thảo**:
+  - **Phân cảnh thô (Name - 分镜稿)**: Bản vẽ phác thảo bố cục ô tranh, lời thoại trên giấy nháp. Biên tập viên phải duyệt Name mới được vẽ bản thảo thật.
+  - **Bản thảo chính thức (原稿 - Bản thảo nét mực)**: Vẽ mực đen Kuretake trên giấy Kent, đi nét bút G, bôi đen (beta), cạo tram, dán hoa văn.
+  - **Hội nghị liên tái (连载会议)**: Diễn ra 3 tháng một lần để chọn 2–3 bộ truyện mới thay thế các bộ truyện bị xếp chót bảng phiếu bầu.
 
-## 4. Địa danh
-
-| Tiếng Việt | Viết trong văn | Ghi chú |
-|---|---|---|
-| Khu Akihabara, Chiyoda, Tokyo | `千代田区秋叶原` | Nơi Ren thuê căn hộ làm xưởng vẽ, gần chợ linh kiện điện tử |
-| Phố sách Jimbocho, Tokyo | `神田神保町` | Trụ sở NXB Daitosha |
-| Khu Asakusa, Taito, Tokyo | `台东区浅草` | Trụ sở tập đoàn đồ chơi Teito Toys |
-| Tỉnh Shizuoka | `静冈县` | Thủ phủ công nghiệp khuôn mẫu và mô hình nhựa của Nhật Bản |
-| Tuyến tàu điện | `JR总武线`, `JR山手线` | Phương tiện di chuyển giữa Akihabara và Jimbocho/Asakusa |
-
-## 5. Đơn vị đo (KN34 — bắt buộc có trước đoạn 001)
-
-- **Tiền tệ:** `日元` (yên), `万円` (1 vạn yên = `10.000 日元`). Giá bìa nguyệt san `420日元`; giá bán lẻ 1 hộp đồ chơi 《极速齿轮》 `680日元`; vé tàu điện chặng ngắn `160日元`; lon cà phê máy bán tự động `110日元`.
-- **Đếm trang/bản vẽ:** `枚` (trang bản thảo giấy B4), `页` (trang in), `话` (chương).
-- **Đếm số lượng hàng hóa/sản phẩm:** `盒` (hộp đồ chơi), `箱` (thùng carton hàng 24 hộp), `套` (bộ linh kiện/bộ khuôn), `部` (bản in tạp chí).
-- **Đơn vị kỹ thuật cơ khí & mô hình:** `毫米` (mm, độ dày khớp mộng `1.2毫米`), `模数` (module bánh răng `0.5模`), `转速` (vòng/phút, `15.000转/分`), `伏特` (Volt, pin `1.5伏`).
-- **Thời gian:** `时` (giờ), `分` (phút), `秒` (giây), `日` (ngày), `月` (tháng).
-
-## 6. Con số cố định của tháng 3/1996 (chép từ `plot/so-lieu.md`, không tự đặt lại)
-
-- Tiền mặt trong ví của Ren đêm 15/3/1996: `24.500日元`.
-- Tiền thuê phòng xưởng vẽ tại Akihabara: `68.000日元`/tháng (đến hạn nộp ngày 20/3).
-- Lương trợ lý Asakura: `140.000日元`/tháng (đang nợ nửa tháng = `70.000日元`).
-- Khoản nợ tạm ứng toà soạn (`预支`): `450.000日元`.
-- Tiền nhuận bút trang (`原稿料`): `6.500日元`/`枚` đen trắng; chương 1 dài 45 trang = `292.500日元`.
-- Chi phí bộ khuôn đúc thép hợp kim: `1.200万日元` (nếu dùng cấu trúc module dùng chung khung gầm của Ren đề xuất thì giảm còn `720万日元`).
-- Đơn đặt hàng trước từ đại lý sỉ đồ chơi Kanto (`问屋预订单`): Hiện tại chỉ có `12.000盒`; ngưỡng tối thiểu của Kuwata để không hủy dự án là `50.000盒`.
-- Tiền phạt vi phạm hợp đồng nếu đơn phương bỏ dở: `120万日元`.
-- Hạn nộp 32 trang phân cảnh (分镜稿): **14:00 ngày 16/3/1996** tại phòng họp tầng 4 Daitosha.
+## 3. Thuật ngữ nghề vẽ manga (Tiếng Trung quy ước)
+- 分镜 (fēnjìng) / ネーム (Name): Bản phân cảnh phác thảo.
+- 原稿 (yuángǎo): Bản thảo nét mực chính thức.
+- G笔 (G-pen): Ngòi bút G chuyên dụng vẽ nét đậm nhạt sống động.
+- 丸笔 (Maru-pen): Ngòi bút tròn chuyên vẽ chi tiết khuôn mặt, mắt và nét mảnh.
+- 镝笔 (Kabura-pen): Ngòi bút thìa nét đều, ổn định.
+- 涂黑 (túhēi) / ベタ (Beta): Bôi đen mảng tóc hoặc bóng tối bằng cọ lông thỏ và mực nho.
+- 网点纸 (wǎngdiǎnzhǐ) / トーン (Screen Tone): Giấy tram dán tạo sắc độ xám.
+- 压感 (yāgǎn): Lực đè ngòi bút tạo độ dốc nét vẽ.
+- 跨页 (kuàyè): Trang đôi (2 trang liền nhau tạo đại cảnh hoành tráng).
+- 腰斩 (yāozhǎn): Trảm truyện — bị toà soạn cưỡng bức kết thúc do xếp hạng thấp.
+- 增刊 (zēngkān): Số phụ bản, số đặc biệt mùa hè phát hành thêm của tuần san.
+- 铁与血之歌 (tiěyǔxuèzhīgē): Tên tác phẩm bản thảo 45 trang bị từ chối của Ren.
+- 野犬之刃 (yěquǎnzhīrèn): Tên oneshot 31 trang mới Ren chuẩn bị sáng tác.
