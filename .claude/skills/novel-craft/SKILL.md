@@ -252,11 +252,11 @@ Mỗi đoạn trọn một vòng mục 1 rồi mới sang đoạn kế — gom c
 (một beat không còn xảy ra được) → ghi bảng lệch, soạn lại 2–3 đoạn kế, trình Tác giả.
 
 **Mở truyện — chốt SI trước, dựng truyện sau.** Trước `bible/` và `plot/outline.md` phải qua **bài kiểm tra SI
-trên nội dung bộ mẫu**: tách chương 1 bộ mẫu (`hieu_chuan.py tach`), viết brief chỉ có sự việc, chạy Writer bằng
-SI đang muốn chốt, rồi so phân bố với nguyên văn (`hieu_chuan.py so-sanh`). Lệch nội dung là bình thường; **lệch
-phân bố nghĩa là SI chưa dạy được**. Chỉ dựng bible khi 字/lượt thoại, 字/đoạn, giảng huấn, so sánh người kể,
-nhãn ngữ điệu đã vào vùng mẫu — quy trình ở `chung/hieu-chuan/README.md`. Dựng bible rồi mới thử SI là đổi bốn
-biến cùng lúc (ca `manga-tokyo-1996`: 31,8 字/lượt so với 8,8 của mẫu, giảng huấn gấp 3).
+trên nội dung bộ mẫu**: lấy biên độ 30 chương (`hieu_chuan.py do-chuong`), tách chương 1, viết brief chỉ có sự
+việc, chạy Writer 2 lần, rồi `hieu_chuan.py so-sanh --doc-cap …` — lệch biên độ thì trả `exit 1`. **Số đo chỉ là
+cửa ải cơ học, không đo được tiểu thuyết**; thứ chốt SI là Tác giả đọc file cặp rồi đồng ý. Dựng bible rồi mới
+thử SI là đổi bốn biến cùng lúc — ca `manga-tokyo-1996` lệch 5 SD ở 字/lượt thoại mà vẫn tự chấm ĐẠT
+(`chung/hieu-chuan/README.md`).
 
 Sau đó: đọc bảng truyện ở `README.md` gốc — truyện mới phải khác **trục**, không chỉ khác bối cảnh. Tác giả đã
 nói thể loại / "tùy bạn" = đã chốt: dựng luôn, không mở form thứ hai. 黄金三章: 入局 → 加压 → 承诺; 300 字 đầu

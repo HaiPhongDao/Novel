@@ -111,40 +111,136 @@ def cmd_tach(argv):
           "(ai, ở đâu, muốn gì, chuyện gì xảy ra, dừng ở đâu), không chép câu văn, không chép thoại.")
 
 
-def cmd_so_sanh(argv):
-    ap = _ap("so-sanh", "So bản sinh với nguyên văn mẫu")
+# Biên độ lấy từ NHIỀU chương mẫu, không từ một chương. Một chương chỉ là một mẫu thăm dò:
+# chương 1 của bộ mẫu có 19,7 字/đoạn trong khi trung bình 30 chương là 24,9 — lấy một
+# chương làm chuẩn thì bản bình thường cũng bị coi là lệch, và ngược lại.
+BANG_MAU = ROOT / "chung" / "hieu-chuan" / "bang-mau.json"
+CHI_SO_GATE = ("han_doan", "han_cau", "luot", "han_luot", "giang_huan_1000")
+
+
+def cmd_do_chuong(argv):
+    ap = _ap("do-chuong", "Đo nhiều chương mẫu để lấy biên độ thật cho từng chỉ số")
+    ap.add_argument("--file", required=True)
+    ap.add_argument("--so-chuong", type=int, default=30)
+    ap.add_argument("--out", default=str(BANG_MAU))
+    a = ap.parse_args(argv)
+    import json
+    import statistics
+    txt = Path(a.file).read_text(encoding="utf-8", errors="replace")
+    rows = []
+    for i in range(1, a.so_chuong + 1):
+        try:
+            rows.append(do(tach_mau(txt, i)))
+        except SystemExit:
+            break
+    if len(rows) < 5:
+        raise SystemExit("LỖI: cần ít nhất 5 chương để có biên độ")
+    bang = {"nguon": Path(a.file).name, "so_chuong": len(rows), "chi_so": {}}
+    print(f"đo {len(rows)} chương của {Path(a.file).name}")
+    print(f"{'chỉ số':<20}{'TB':>9}{'SD':>8}{'dưới':>9}{'trên':>9}")
+    for k in CHI_SO_GATE + ("ti_le_thoai",):
+        xs = [r[k] for r in rows]
+        m, sd = statistics.mean(xs), statistics.stdev(xs)
+        duoi, tren = max(0.0, m - 2 * sd), m + 2 * sd
+        bang["chi_so"][k] = {"tb": round(m, 3), "sd": round(sd, 3),
+                             "duoi": round(duoi, 3), "tren": round(tren, 3)}
+        print(f"{k:<20}{m:>9.2f}{sd:>8.2f}{duoi:>9.1f}{tren:>9.1f}")
+    Path(a.out).parent.mkdir(parents=True, exist_ok=True)
+    Path(a.out).write_text(json.dumps(bang, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
+    print(f"\nđã ghi {a.out}")
+    print("hai chỉ số tật (so sánh người kể, nhãn ngữ điệu) đo bằng `so_loi.py do-mau` trên cả bộ mẫu.")
+
+
+def _doc_bang():
+    import json
+    if not BANG_MAU.is_file():
+        raise SystemExit(
+            f"LỖI: chưa có {BANG_MAU.name}. Chạy trước:\n"
+            f"  python tools/hieu_chuan.py do-chuong --file 我在泡沫东京画漫画.txt")
+    return json.loads(BANG_MAU.read_text(encoding="utf-8"))
+
+
+def cmd_ghep_cap(argv):
+    """Sinh file đọc cặp: đoạn mẫu và đoạn sinh ở cùng vị trí tương đối.
+
+    Số đo chỉ ra chỗ lệch; muốn biết lệch thế nào phải ĐỌC hai bản cạnh nhau. File này ghép
+    sẵn 12 điểm để đọc mất vài phút thay vì cuộn hai file.
+    """
+    ap = _ap("ghep-cap", "Ghép các cặp đoạn để đọc cạnh nhau")
     ap.add_argument("--goc", required=True)
     ap.add_argument("--sinh", required=True)
+    ap.add_argument("--out", required=True)
+    ap.add_argument("--diem", type=int, default=12)
     a = ap.parse_args(argv)
+    g = doan(Path(a.goc).read_text(encoding="utf-8"))
+    s = doan(Path(a.sinh).read_text(encoding="utf-8"))
+
+    def tai(ps, ty):
+        return ps[min(len(ps) - 1, int(ty * len(ps)))] if ps else ""
+
+    L = ["# Đọc cặp — mẫu và bản sinh ở cùng vị trí", "",
+         "Số đo chỉ chỉ ra chỗ lệch. Ở đây bày ra để đọc: chỗ nào bản sinh nói thứ mẫu không nói,",
+         "hoặc bỏ thứ mẫu có, là chỗ SI chưa dạy được.", "",
+         "| Vị trí | Nguyên văn mẫu | Bản sinh |", "|---|---|---|"]
+    for i in range(a.diem):
+        ty = (i + 0.5) / a.diem
+        x = tai(g, ty)[:220].replace("|", "\\|")
+        y = tai(s, ty)[:220].replace("|", "\\|")
+        L.append(f"| {int(ty*100)}% | {x} | {y} |")
+    out = Path(a.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
+    print(f"đã ghi {out} ({a.diem} cặp)")
+
+
+def cmd_so_sanh(argv):
+    ap = _ap("so-sanh", "So bản sinh với biên độ nhiều chương mẫu và PHÁN QUYẾT")
+    ap.add_argument("--goc", required=True, help="nguyên văn một chương mẫu (để in cạnh)")
+    ap.add_argument("--sinh", required=True)
+    ap.add_argument("--doc-cap", default="", help="nếu có, ghi luôn file đọc cặp vào đây")
+    a = ap.parse_args(argv)
+    bang = _doc_bang()
     g = do(Path(a.goc).read_text(encoding="utf-8"))
     s = do(Path(a.sinh).read_text(encoding="utf-8"))
 
-    hang = [
-        ("chữ Hán", "han", ""),
-        ("số đoạn", "doan", ""),
-        ("字/đoạn", "han_doan", ""),
-        ("số câu", "cau", ""),
-        ("字/câu", "han_cau", ""),
-        ("lượt thoại", "luot", ""),
-        ("字/lượt thoại", "han_luot", ""),
-        ("% đoạn có thoại", "ti_le_thoai", "%"),
-        ("giảng huấn /1.000", "giang_huan_1000", ""),
-    ]
-    print(f"{'':<18}{'mẫu':>9}{'bản sinh':>11}{'lệch':>9}")
-    print("-" * 47)
-    for nhan, k, dv in hang:
-        x, y = g[k], s[k]
-        lech = (y / x - 1) * 100 if x else 0
-        print(f"{nhan:<18}{str(x)+dv:>9}{str(y)+dv:>11}{lech:>8.0f}%")
+    hang = [("字/đoạn", "han_doan"), ("字/câu", "han_cau"), ("lượt thoại", "luot"),
+            ("字/lượt thoại", "han_luot"), ("% đoạn có thoại", "ti_le_thoai"),
+            ("giảng huấn /1.000", "giang_huan_1000")]
+    print(f"biên độ: {bang['so_chuong']} chương của {bang['nguon']} (TB ± 2SD)\n")
+    print(f"{'chỉ số':<20}{'mẫu ch.1':>10}{'bản sinh':>10}{'biên độ':>18}   phán")
+    print("-" * 68)
+    hong = []
+    for nhan, k in hang:
+        b = bang["chi_so"].get(k)
+        if not b:
+            continue
+        y = s[k]
+        trong = b["duoi"] <= y <= b["tren"]
+        gate = k in CHI_SO_GATE
+        if not trong and gate:
+            hong.append(f"{nhan}: {y} ngoài [{b['duoi']}–{b['tren']}]")
+        dau = "OK" if trong else ("LỆCH" if gate else "(tham khảo)")
+        dai = f"{b['duoi']}–{b['tren']}"
+        print(f"{nhan:<20}{g[k]:>10}{y:>10}{dai:>18}   {dau}")
+
     print()
-    if s["giang_huan_vd"]:
-        print("chỗ giảng huấn trong bản sinh (mẫu để trống thì đó là tật):")
-        for v in s["giang_huan_vd"]:
-            print("  ·", v)
-    if g["giang_huan_vd"]:
-        print("mẫu cũng có (đừng coi là tật):", " · ".join(g["giang_huan_vd"]))
-    print("\nĐọc thêm bằng mắt: mở hai file cạnh nhau, so 3 đoạn đầu và 3 đoạn cuối — "
-          "chỗ nào bản sinh nói thứ mẫu không nói, đó là chỗ SI chưa dạy được.")
+    print("Hai chỉ số tật (so sánh người kể, nhãn ngữ điệu) không nằm trong bảng này —")
+    print("đo bằng `so_loi.py quet` và so với `chung/loi/muc-tieu.jsonl`.")
+    if a.doc_cap:
+        cmd_ghep_cap(["--goc", a.goc, "--sinh", a.sinh, "--out", a.doc_cap])
+
+    print()
+    if hong:
+        print("PHÁN QUYẾT: KHÔNG ĐẠT — " + str(len(hong)) + " chỉ số ngoài biên độ mẫu ở đúng loại tật nó đo:")
+        for h in hong:
+            print("  ·", h)
+        print("\nSố đo chỉ là cửa ải cơ học. Chưa được coi là chốt SI: vẫn phải cho Tác giả")
+        print("đọc file đọc cặp. Sửa MỘT biến rồi chạy lại 2 lần.")
+        return 1
+    print("PHÁN QUYẾT: số đo TRONG biên độ mẫu — nhưng đó KHÔNG phải bằng chứng văn hay.")
+    print("Đếm chữ không đo được tiểu thuyết. Việc còn lại, và là việc quyết định: Tác giả")
+    print("đọc file cặp (--doc-cap), rồi ghi vào sổ là ĐẠT hay chưa. Agent không tự chấm bước này.")
+    return 0
 
 
 def _ap(ten, mo_ta):
@@ -152,7 +248,8 @@ def _ap(ten, mo_ta):
     return argparse.ArgumentParser(prog=f"hieu_chuan.py {ten}", description=mo_ta)
 
 
-LENH = {"tach": cmd_tach, "so-sanh": cmd_so_sanh}
+LENH = {"tach": cmd_tach, "do-chuong": cmd_do_chuong,
+        "so-sanh": cmd_so_sanh, "ghep-cap": cmd_ghep_cap}
 
 
 def main(argv):
