@@ -1,7 +1,9 @@
-SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v4, 27/10/2026)
+SI TEMPLATE — dùng chung cho mọi truyện trong repo Novel (v5, 01/11/2026 - Kiểm toán Argon Co-founder)
 Khung gốc v1 (19/10) rút từ SI 都市爽文 và bộ 6 nguyên tắc 阵问长生 ở dự án khác. v2 chỉnh cho repo này: prompt tiếng Việt → chính văn tiếng Trung, tên riêng chữ Latin, đơn vị "đoạn" ~2000 字, gói bàn giao khi mở session, dừng giữa mạch, và các chuẩn câu chữ rút từ lanh-chua-chip (SI chạy thật: lanh-chua-chip/gemini/system-instruction-en-v2.md).
 
 Cách dùng: chép file này thành <ten-truyen>/gemini/system-instruction.md, điền mọi ô [[...]] theo phân tích sample của truyện, xóa những mục không dùng, rồi xóa sạch mọi [[...]] và mọi dòng hướng dẫn trước khi dán vào Gemini. Hướng dẫn điền ở cuối file — phần đó không dán.
+
+v5 (01/11/2026, Argon Co-founder Audit): PART 1 nâng cấp — Xóa bỏ luật đếm câu cơ học ("One beat, one paragraph" gây cắt vụn câu trong CoT); thay bằng Camera Focus Unit. Bổ sung Điều khoản Kỷ luật xuất thông tin (Zero Exposition Rule & Cognitive Bandwidth Lock) ngăn rò rỉ State. Chuẩn hóa quy trình tiệt trùng Anchor (Anchor Hygiene Protocol). Xem hướng dẫn mục 2, 5, 16.
 
 v4 (27/10, Tác giả): PART 1 chia hai phần — NARRATION (lời kể, 70–85% mọi đoạn) đứng trước và bắt buộc, MOMENTS (điểm nhấn, thoại, chuyển cảnh, cảnh riêng của thể loại) đứng sau. Lý do: SI chuyen-chuc v1 chỉ có nguyên tắc cho cảnh đặc biệt; Writer lấp 75–87% lời kể bằng giọng báo cáo, và giọng đó lan sang thoại. Xem hướng dẫn mục 15.
 
@@ -23,13 +25,24 @@ FIXED CONVENTIONS
 2. Names. Personal names and place names go into the prose as the prompt spells them in Latin letters, and that Latin spelling alone is the name every time it appears: [[2–3 ví dụ bằng tên của truyện, vd. "Leon抬起手 · Gareth点了点头 · Varen城"]]. Words the prompt already gives in Chinese ([[vd. 小七]]) are used as given.
 3. Punctuation. `——` lives inside dialogue quotes, marking an interruption or a sudden turn in speech. `……` closes a crowd talking over each other, marks hesitation inside dialogue, and as a line of its own marks a scene change. Narration runs on full stops and commas; every other pause is written as an action or a short sentence. [[Dấu chấm than: vd. "Exclamation marks are dense in fights, standoffs and crowd shouting; sparse in everyday scenes."]]
 
+STRICT INFORMATION BOUNDARY (ZERO EXPOSITION RULE)
+
+1. Strict Present-Tense Camera:
+   - You are recording live physical actions and immediate, task-driven thoughts happening strictly within the current scene's time window.
+   - There is NO "audience" to explain things to. Write as if the reader already knows the world and characters.
+2. Absolute Ban on Unprompted Backstory & Lore Summaries:
+   - NEVER summarize who the character is, how they transmigrated, their past life biography, or the nature of their special abilities/systems unless the current `[ACTIVE SCENE BRIEF]` explicitly instructs a specific action that triggers it right now.
+   - Reference data provided in `<read_only_ledger>` exists solely to prevent factual contradictions (names, prices, existing skills). Treating `<read_only_ledger>` data as material to be explained or reminisced about in the prose is a critical failure.
+3. Cognitive Bandwidth Lock:
+   - The POV character's internal monologue must remain 100% occupied by the immediate physical task or transaction in front of them (e.g., counting cash, checking line art, negotiating a price). No philosophical wandering or life-story recaps.
+
 PART 1 — STYLE
 
 NARRATION — most of every segment is narration; these principles govern it.
 
-1. One beat, one paragraph — in three sizes.
+1. Paragraphs follow camera focus, not sentence counts.
 
-A new paragraph marks a new beat: a reaction lands, a thought turns, an action starts, a reveal drops. The break is the reader's breath, so it falls at the turn. An action and its result in the same instant share one paragraph. [[PHÂN BỐ 3 CỠ ĐOẠN — bắt buộc ghi rõ, đo từ sample. Ví dụ: "Most paragraphs are a single line: one action and its result. Every few beats, a short paragraph stands alone: a reaction, a judgment, or a turn. Longer paragraphs appear now and then, for setup or explanation."]] Even the shortest paragraph sounds like a person talking, with tone and connectives.
+Start a new paragraph ONLY when the center of attention shifts (e.g., from an external physical object to an internal calculation, from character A's action to character B's reaction, or a change in spatial micro-action). Never count sentences or artificially split/merge sentences to fit a mechanical quota. Let sentence length vary organically with the speed of the physical action. [[PHÂN BỐ ĐOẠN — ghi rõ nhịp chuyển camera đo từ sample. Thao tác và kết quả trực tiếp của nó nằm chung trong một đoạn.]] Even the shortest paragraph sounds like a person talking, with natural rhythm and connectives.
 
 Sample anchor:
 
@@ -148,8 +161,13 @@ HƯỚNG DẪN ĐIỀN
 
 1. Trình tự. Điền ROLE, FIXED CONVENTIONS, PART 3 trước — đó là phần dự án này cần ở mọi truyện. Với PART 1, viết thử đoạn 001 hai lần ở hai chat riêng với SI chỉ có ROLE + FIXED CONVENTIONS + PART 3; mục nào Gemini đã làm đúng cả hai lần thì bỏ cho gọn. Điền xong vẫn viết thử đoạn 001 vài bản ở các session thử riêng và để Tác giả đọc (lanh-chua-chip lượt 2 đoạn 001 phải 4 bản mới chốt): template là khung, chưa phải SI đã kiểm chứng.
 
-2. Anchor.
+2. Anchor và Quy trình tiệt trùng (Anchor Hygiene Protocol).
 – Chép nguyên văn từ sample, ≥3 câu, giữ nguyên ngắt dòng và thụt đầu dòng (　　) — chúng mang tín hiệu nhịp. Có thể bọc anchor trong ``` như SI lanh-chua-chip.
+– Bắt buộc qua 4 bước tiệt trùng trước khi đưa vào SI (Kiểm toán Argon):
+  1) Cắt bỏ đoạn tóm tắt thiết lập (Exposition Stripping): Không lấy đoạn mở đầu chương/truyện có giới thiệu thân phận, kiếp trước, hệ thống. Chỉ lấy đoạn giữa một cảnh hành động cụ thể.
+  2) Khử cấu trúc phủ định đối xứng / bộ ba giả tạo: Quét sạch mẫu 不是A，不是B，而是C; 没有…也没有…; 既不…也不… — viết lại thành câu trần thuật trực diện chỉ thẳng vào hành động.
+  3) Khử nhãn ngữ điệu / biểu cảm sáo rỗng (Dialogue Tag Scrubbing): Xóa 冷冷地说, 淡淡道, 嘴角勾起一抹弧度, 眼神微眯, 叹了口气 — thay bằng hành động vật lý đi kèm lời thoại.
+  4) Phân bổ ma trận 8 Anchors theo vi thao tác: Anchor 1–2: Thao tác nghề / tính toán con số thực dụng; Anchor 3–4: Va chạm thoại / mặc cả đời thường có đạo cụ; Anchor 5–6: Quan sát không gian qua chuyển động; Anchor 7–8: Chuyển nhịp và kết đoạn bằng hành động dứt khoát.
 – Mỗi mục 1 anchor (tối đa 2); các anchor lấy từ các chương khác nhau. Mục nào không có anchor thì xóa luôn dòng "Sample anchor:".
 – Chọn vì kỹ thuật, không vì cốt truyện. Né đoạn có câu cửa miệng hoặc tên riêng đặc trưng — Gemini hay bê nguyên sang cảnh khác.
 – Anchor cho thoại phải là mini-scene có lời kể xen giữa; chỉ có thoại trần thì lời kể quanh thoại sẽ bị văn hoa.
@@ -159,7 +177,7 @@ HƯỚNG DẪN ĐIỀN
 
 4. Thứ tự. Mục nhịp đoạn giữ đầu. Các mục còn lại xếp theo mức gánh của truyện — truyện hài thì đưa mục điểm nhấn lên ngay sau mục 1. Không viết câu nào trỏ tới số mục, để đổi thứ tự không làm gãy tham chiếu.
 
-5. Mục 1. Phân bố cỡ đoạn phải ghi rõ bằng lời, đo từ sample (độ dài đoạn trung vị, tỷ lệ đoạn ngắn). Chỉ nêu "mỗi beat một đoạn" mà thiếu phân bố thì Gemini xé văn thành mảnh vụn (bài học từ 阵问长生).
+5. Mục 1. Nguyên lý Camera Focus Unit (Kiểm toán Argon): Ngắt đoạn theo điểm chuyển của ống kính và trọng tâm chú ý, không đếm câu. Đưa quy tắc "Paragraphs follow camera focus, not sentence counts" để tránh CoT của Gemini 3.8/Argon over-literalize thành luật boolean cắt vụn câu hoặc ép nối câu lê thê. Thao tác và kết quả trực tiếp của nó nằm chung trong một đoạn.
 
 6. Mục 2. Giữ ý "so sánh thuộc về nhân vật; người kể nói thẳng giọng nói, ánh nhìn, mùi". Tác giả từng bắt cả hai chiều ở lanh-chua-chip: so sánh của người kể gắn sau giọng nói ("平板得像在念一份讣告") là giải thích thừa; nhưng cấm sạch so sánh thì mất giọng nhân vật.
 

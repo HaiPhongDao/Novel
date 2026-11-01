@@ -96,10 +96,11 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
 
 ## 4. Mẫu Prompt viết đoạn cho Writer Gemini
 
-**Hai kiểu prompt cùng tồn tại — chọn theo truyện** (Tác giả chưa chốt một kiểu chung; cả hai đều có bằng chứng thử):
-- **Mẫu A — prompt ngắn** (Tác giả 23/10, nhánh `lam-game` → `vong-du`): chỉ phương hướng + số liệu. Mặc định cho truyện mở theo `lam-game`, `goblin` lượt 2, `vong-du` và các truyện cùng nhánh.
+**Ba kiểu prompt tồn tại trong repo:**
+- **Mẫu A — prompt ngắn** (Tác giả 23/10, nhánh `lam-game` → `vong-du`): chỉ phương hướng + số liệu.
 - **Mẫu B — prompt đầy đủ** (nhánh `de-quoc-1`: `de-quoc`, `khong-binh`, `soi-xam`, `lanh-chua-chip`): thiết lập / tiền tình / điểm bắt buộc / tự do sáng tạo.
-- Truyện nào đang chạy mẫu nào thì giữ mẫu đó; **đổi mẫu giữa truyện đang chạy phải có Tác giả đồng ý và ghi `log.md`**. Truyện mới: hỏi Tác giả. Hai kiểu dùng chung các nguyên tắc về sự việc, xưng hô, dừng giữa mạch.
+- **Mẫu C — Kinetic Scene Brief & Kiến trúc 3 tầng** (Kiểm toán Argon 01/11/2026): Tách biệt triệt để SI Hiến pháp ↔ Passive State JIT (`<read_only_ledger>`) ↔ Active Brief (`<active_scene_brief>`). Phóng đại độ phân giải thao tác vật lý (Micro-frictions & Props) để đạt ~2000 chữ tự nhiên, triệt tiêu hoàn toàn rò rỉ State (State Dumping). Khuyến nghị mặc định cho các truyện mới và mô hình Thinking High.
+- Truyện nào đang chạy mẫu nào thì giữ mẫu đó; **đổi mẫu giữa truyện đang chạy phải có Tác giả đồng ý và ghi `log.md`**. Truyện mới: chọn Mẫu C hoặc theo chỉ đạo Tác giả.
 
 ### Mẫu A — prompt ngắn
 Prompt viết bằng **tiếng Việt**, yêu cầu Gemini viết chính văn **bằng tiếng Trung**. Lưu tại `briefs/doan-XXX.md`.
@@ -181,6 +182,67 @@ Viết đoạn thứ N, khoảng 2000 chữ, bằng tiếng Trung.
 16. **Chỗ trống "người kia nghĩ gì" sẽ bị lấp bằng cách vào đầu người đó.** Nhân vật cần giữ bí mật → cho họ một hành động cụ thể để kết thúc phản ứng ("gật lia lịa rồi chạy ra hành lang").
 17. **Bàn tay vàng: ghi giới hạn giác quan ngay trong thiết lập của đoạn** (biết đúng những gì nhân vật chính thấy, nghe, ngửi…), nhất là cảnh đêm/xa — nếu không Writer tự cho nó dò nhiệt, theo dấu từ xa.
 18. **Khi nhân vật tính sổ, đưa sẵn con số tổng và khung so sánh đúng** (đủ X ngày / còn Y ngày tới mốc Z). Writer hay tính sai và đóng khung sai.
+
+### Mẫu C — Kinetic Scene Brief (Chuẩn kiến trúc 3 tầng - Kiểm toán Argon)
+
+Được thiết kế từ đợt kiểm toán hệ thống ngày 01/11/2026 của Argon (Co-founder / Master Architect) để khắc phục triệt để lỗi **Rò rỉ State (State Dumping)** và **Khoảng trống dung lượng (Token Budget Vacuum)** trên các mô hình Thinking High (Gemini 3.8 / Argon).
+
+#### 1. Nguyên lý phân tách 3 tầng (The 3-Tier Architecture)
+- **Tầng 1 (SI):** Hiến pháp & Kỷ luật Camera. Cố định cho cả bộ truyện. Chứa luật Focus Unit, Zero Exposition Rule, và 8 Anchors đã tiệt trùng. Tuyệt đối không chứa lore cụ thể, bí mật, hay luật đếm số câu cơ học.
+- **Tầng 2 (Passive State - `<read_only_ledger>`):** Sổ cái tra cứu tĩnh chống mâu thuẫn. Agent thực hiện **JIT Pruning** (chỉ nạp những gì diễn ra trong cửa sổ 15 phút của cảnh). Cấm viết văn xuôi tự sự kịch tính (de-narrativized key-values). Cảnh không dùng kiếp trước/bàn tay vàng → Agent cắt bỏ hoàn toàn khỏi context.
+- **Tầng 3 (Active Scene Brief - `<active_scene_brief>`):** Chỉ thị động học hiện trường. Thay vì giao rubric chấm điểm hay kịch bản thoại, Brief cung cấp **Đạo cụ (Props)** và **Vi ma sát vật lý (Micro-frictions)** để nhân vật tương tác, đủ dung lượng viết 2.000 chữ tự nhiên mà không cần hồi tưởng quá khứ.
+
+#### 2. Cấu trúc một gói Brief Mẫu C (Prompt gửi Writer)
+
+```xml
+<read_only_ledger access="verify_only" narrate="false">
+# SILENT FACT SHEET (TRA CỨU CHỐNG MÂU THUẪN — CẤM THUYẾT MINH/HỒI TƯỞNG TRONG CHÍNH VĂN)
+- Protagonist: [Tên nhân vật] | Role: [Thân phận hiện tại]
+- Physical State: [Vị trí đứng, đạo cụ cầm trên tay]
+- Financial/Resource Ledger (Exact Figures):
+  + [Con số cụ thể 1: Tiền/tài nguyên nhận được]
+  + [Con số cụ thể 2: Khoản nợ/chi phí bắt buộc]
+  + [Số dư thực tế sau khi bù trừ]
+- Already Told (Do Not Repeat): [Các chi tiết đã xuất hiện ở đoạn trước]
+</read_only_ledger>
+
+<active_scene_brief target_length="2000_chars">
+### 1. CAMERA & TIME WINDOW
+- **Location:** [Không gian hẹp cụ thể, ánh sáng, tiếng ồn nền]
+- **Time Span:** Khoảng 10–15 phút thực tế liên tục. Không nhảy cóc thời gian.
+- **POV Focus Lock:** Toàn bộ 100% suy nghĩ của POV bị chiếm dụng bởi thao tác/giao dịch thực tế trước mắt.
+
+### 2. PROPS & PHYSICAL INVENTORY (Đạo cụ bắt buộc tương tác)
+- [Đạo cụ 1: vật phẩm thao tác chính]
+- [Đạo cụ 2: giấy tờ/sổ tay/công cụ tính toán]
+- [Các khoản mục chi tiết cần đối chiếu]
+
+### 3. KINETIC BEATS (Trình tự diễn tiến vi thao tác)
+- **Beat 1 (Tiếp nhận & Kiểm đếm vật lý):** [Thao tác tiếp nhận, phản ứng cơ học]
+- **Beat 2 (Phẫu thuật con số / Thao tác trọng tâm):** [Mở rộng độ phân giải của quá trình tính toán, gạch xóa, so sánh số liệu]
+- **Beat 3 (Tương tác tại chỗ & Chốt quyết định ngắn hạn):** [Sắp xếp đồ vật/tiền bạc, xác lập mục tiêu ngay tiếp theo]
+
+### 4. DIALOGUE DYNAMICS (Nếu có thoại)
+- **POV Character:**
+  + *Mục tiêu (Objective):* [Mở miệng đòi gì, chốt con số nào?]
+  + *Thao tác đi kèm (Physical Business):* [Tay chân đang làm gì với đạo cụ?]
+- **Đối phương:**
+  + *Mục tiêu (Objective):* [Thủ tục gì, điều kiện gì?]
+  + *Thao tác đi kèm (Physical Business):* [Động tác vật lý đi kèm]
+
+### 5. HARD CAMERA CUT (Điểm dừng bắt buộc)
+- Dừng ngay tại một hành động vật lý dứt khoát kết thúc đoạn (gấp sổ, bước ra khỏi quầy, đút tay vào túi chạm xấp tiền...).
+</active_scene_brief>
+
+[PRE-FLIGHT DIRECTIVE]
+Trong bước Thinking, hãy liệt kê: (1) Danh sách đạo cụ vật lý sẽ dùng trong 3 Beats, (2) Các phép tính hoặc giao dịch cụ thể sẽ diễn ra, (3) Điểm dừng vật lý ở cuối đoạn. Tuyệt đối không lập dàn ý giới thiệu bối cảnh hay tóm tắt nhân vật.
+```
+
+#### 3. Quy trình vận hành chuẩn 4 bước (SOP)
+1. **Bước 1 — Agent Lọc State (JIT Pruning):** Trích xuất từ `master_state.json` chỉ những thực thể xuất hiện trong 15 phút của cảnh vào `<read_only_ledger>`. Không nạp lore chưa kích hoạt.
+2. **Bước 2 — Agent Cân đối Độ ma sát (Friction Budgeting):** Đảm bảo 3 Beats có đủ đạo cụ và thao tác chân tay thực tế để Writer có nguyên liệu triển khai ~2.000 chữ mà không bị đói token.
+3. **Bước 3 — Điều hướng luồng Thinking (Pre-flight Directive):** Luôn khóa luồng suy nghĩ của Writer vào đạo cụ và giao dịch vật lý thay vì tóm tắt thiết lập.
+4. **Bước 4 — Hậu kiểm & Cập nhật Sổ cái (Post-generation Audit):** Kiểm tra Hard Cut, đối chiếu con số sổ cái, quét xem có lộ giọng thuyết minh toàn tri không. Cập nhật kết quả vào `master_state.json`.
 
 ---
 
