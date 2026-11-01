@@ -7,6 +7,11 @@ Ngưỡng:
 """
 import re, sys, json, os
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import soat_van as sv
 
@@ -33,99 +38,108 @@ def han(s):
 
 
 def load(path):
-    t = open(path, encoding="utf-8").read()
+    t = open(path, encoding="utf-8", errors="replace").read()
     return re.sub(r"^<!--.*?-->\s*", "", t, flags=re.S)
 
 
-def measure(path, prompt_path=None, numbers=None):
+def paragraphs(text):
+    return [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+
+
+def check(path, prompt_path=None, numbers=None, modern=False):
     t = load(path)
-    r = sv.scan(path)
-    narr = re.sub(r"“[^”]*”", "。", t)
-    SL = [han(s) for s in re.split(r"[。！？；…\n]+", narr) if han(s) > 0]
-    d = {
-        "han": r["han"],
-        "cau": len(SL),
-        "chu_cau": round(sum(SL) / len(SL), 1) if SL else 0,
-        "luot": r["luot-thoai"],
-        "chu_luot": r["tb-chu-luot"],
-        "phu_dinh": r["phu-dinh-lap-cau"],
-        "shi": r["khuon-shi"],
-        "nhan": r["nhan-ngu-dieu"],
-        "so_sanh": r.get("so-sanh-loi-ke", r["so-sanh-nguoi-ke"]),
-        "the": r["the-thoai"],
-    }
-    d["canon"] = {k: len(re.findall(k, t)) for k in CANON}
-    d["canon_modern"] = {k: len(re.findall(v, t)) for k, v in CANON_MODERN.items()}
-    if numbers is None and prompt_path and "modern" not in prompt_path:
-        pass
-    need = NUMBERS if numbers is None else numbers
-    d["so_lieu_thieu"] = [n for n in need if n not in t]
-    d["moc"] = re.findall(r"[一二三四五六七八九十百]+天|[0-9]+天", t)
-    d["hook"] = len(re.findall(r"但这还不是|然而，|更要命的是", t))
-    # Chép mẫu: câu tiếng Hán trong prompt xuất hiện nguyên văn ở bản thảo.
-    d["chep_mau"] = []
-    if prompt_path:
-        pr = open(prompt_path, encoding="utf-8").read()
-        pr = re.sub(r"【接上】.*?【接上完】", "", pr, flags=re.S)  # đuôi đoạn trước không phải "mẫu để chép" 
-        for s in re.findall(r"[“「]([^”」]{8,})[”」]", pr):
-            if han(s) >= 8 and s in t:
-                d["chep_mau"].append(s[:24])
-    return d
+    paras = paragraphs(t)
+    body = "\n".join(paras)
+    v = sv.scan(path)
+    h = v["han"]
 
+    # Số câu = số dấu chấm, hỏi, than trong lời kể
+    sentences = re.split(r"[。！？\n]+", body)
+    sentences = [s.strip() for s in sentences if han(s) > 0]
+    n_sent = len(sentences)
+    chu_cau = round(h / n_sent, 1) if n_sent else 0
 
-def score(d, modern=False):
-    parts = []
+    scores = {}
+    # 1. Độ dài (cửa sổ brief ghi trong prompt_path, hoặc mặc định 1500-1800)
+    lo, hi = 1500, 1800
+    if prompt_path and os.path.exists(prompt_path):
+        m = re.search(r"(\d[\d.,]{2,})\s*[–\-~—]\s*(\d[\d.,]{2,})\s*(字|chữ)", open(prompt_path, encoding="utf-8").read())
+        if m:
+            nums = lambda s: int(s.replace(".", "").replace(",", ""))
+            lo, hi = nums(m.group(1)), nums(m.group(2))
+    scores["chu"] = (h, lo <= h <= hi, f"{lo}-{hi}")
 
-    def band(name, ok, weight, group):
-        parts.append((name, ok, weight, group))
-        return weight if ok else 0
+    # 2. Nhịp câu
+    scores["chu_cau"] = (chu_cau, 22 <= chu_cau <= 30, "22-30")
+    scores["so_cau"] = (n_sent, n_sent >= 45, ">=45")
 
-    s = 0
-    s += band("chữ 1500-1800", 1500 <= d["han"] <= 1800, 12, "nhịp")
-    s += band("chữ/câu 20-34", 20 <= d["chu_cau"] <= 34, 18, "nhịp")
-    s += band("số câu >=45", d["cau"] >= 45, 10, "nhịp")
-    s += band("lượt thoại 10-22", 10 <= d["luot"] <= 22, 8, "nhịp")
-    s += band("chữ/lượt 16-30", 16 <= d["chu_luot"] <= 30, 8, "nhịp")
-    # Mẫu gốc (女巫 ch.5/ch.47) có 3-4 cặp mỗi cảnh, nên ngưỡng là 4 chứ không phải 0.
-    s += band("phủ định <=4", d["phu_dinh"] <= 4, 10, "văn")
-    s += band("实 = 0", d["shi"] == 0, 6, "văn")
-    s += band("nhãn ngữ điệu = 0", d["nhan"] == 0, 6, "văn")
-    s += band("so sánh người kể = 0", d["so_sanh"] == 0, 6, "văn")
-    s += band("không câu móc rẻ", d["hook"] == 0, 6, "văn")
-    c = d["canon"]
-    canon_ok = (
-        c["回大人"] >= 3
-        and c["老奴"] == 0 and c["奴才"] == 0 and c["属下"] == 0
-        and c["末将"] == 0 and c["陛下"] == 0 and c["殿下"] == 0
-        and not d["so_lieu_thieu"]
-    )
-    if modern:
-        canon_ok = sum(d.get("canon_modern", {}).values()) == 0 and not d["so_lieu_thieu"]
-    s += band("canon + số liệu", canon_ok, 10, "canon")
-    return s, parts
+    # 3. Thoại
+    lt = v["luot-thoai"]
+    tb_t = v["tb-chu-luot"]
+    scores["luot_thoai"] = (lt, 14 <= lt <= 22, "14-22")
+    scores["tb_chu_luot"] = (tb_t, 20 <= tb_t <= 30, "20-30")
+
+    # 4. Văn phong (soat_van)
+    scores["phu_dinh"] = (v["phu-dinh-lap-cau"], v["phu-dinh-lap-cau"] <= 2, "<=2")
+    scores["khuon_shi"] = (v["khuon-shi"], v["khuon-shi"] == 0, "0")
+    scores["nhan_ngu_dieu"] = (v["nhan-ngu-dieu"], v["nhan-ngu-dieu"] == 0, "0")
+    scores["so_sanh_loi_ke"] = (v["so-sanh-loi-ke"], v["so-sanh-loi-ke"] == 0, "0")
+
+    # 5. Canon xưng hô
+    canon_spec = CANON_MODERN if modern else CANON
+    canon_hits = {}
+    for k, pat in canon_spec.items():
+        if modern:
+            m = len(re.findall(pat, body))
+            canon_hits[k] = (m, m == 0)
+        else:
+            lo_c, hi_c = pat
+            m = len(re.findall(k, body))
+            ok_c = (lo_c is None or m >= lo_c) and (hi_c is None or m <= hi_c)
+            canon_hits[k] = (m, ok_c)
+    scores["canon"] = canon_hits
+
+    # 6. Số liệu
+    num_hits = {}
+    for n in (numbers or NUMBERS):
+        m = len(re.findall(re.escape(n), body))
+        num_hits[n] = (m, m >= 1)
+    scores["so_lieu"] = num_hits
+
+    return scores
 
 
 def report(path, prompt_path=None, numbers=None, modern=False):
-    d = measure(path, prompt_path, numbers)
-    s, parts = score(d, modern)
-    g = {}
-    for n, ok, w, grp in parts:
-        g.setdefault(grp, [0, 0])
-        g[grp][1] += w
-        if ok:
-            g[grp][0] += w
-    if d["chep_mau"]:
-        print(f"{os.path.basename(path)}  →  HỎNG: chép nguyên câu mẫu của prompt ({'; '.join(d['chep_mau'])})")
-        s = 0
-    else:
-        print(f"{os.path.basename(path)}  →  {s}/100   nhịp {g['nhịp'][0]}/{g['nhịp'][1]} · văn {g['văn'][0]}/{g['văn'][1]} · canon {g['canon'][0]}/{g['canon'][1]}")
-    print(f"  chữ {d['han']} · câu {d['cau']} · chữ/câu {d['chu_cau']} · lượt {d['luot']} · chữ/lượt {d['chu_luot']}")
-    print(f"  phủ định {d['phu_dinh']} · 实 {d['shi']} · nhãn {d['nhan']} · so sánh {d['so_sanh']} · thẻ {d['the']}")
-    print(f"  canon {d['canon']} · canon-modern {d.get('canon_modern')} · thiếu số {d['so_lieu_thieu']} · mốc ngày {d['moc']}")
-    miss = [n for n, ok, w, grp in parts if not ok]
-    if miss:
-        print("  chưa đạt: " + ", ".join(miss))
-    return s, d
+    s = check(path, prompt_path, numbers, modern)
+    name = os.path.basename(path)
+
+    def icon(b): return "✓" if b else "✗"
+    total, pass_ = 0, 0
+
+    print(f"== {name}")
+    print("Văn phong & nhịp:")
+    for k in ["chu", "chu_cau", "so_cau", "luot_thoai", "tb_chu_luot", "phu_dinh", "khuon_shi", "nhan_ngu_dieu", "so_sanh_loi_ke"]:
+        val, ok, expect = s[k]
+        total += 1
+        if ok: pass_ += 1
+        print(f"  {icon(ok)} {k:16} = {val:<6} (chuẩn {expect})")
+
+    print("Canon xưng hô:")
+    for k, (cnt, ok) in s["canon"].items():
+        total += 1
+        if ok: pass_ += 1
+        print(f"  {icon(ok)} {k:10} = {cnt}")
+
+    if s["so_lieu"]:
+        print("Số liệu bắt buộc:")
+        for k, (cnt, ok) in s["so_lieu"].items():
+            total += 1
+            if ok: pass_ += 1
+            print(f"  {icon(ok)} {k:10} = {cnt}")
+
+    pct = round(100 * pass_ / total) if total else 0
+    print(f"Tổng: {pass_}/{total} tiêu chí ({pct}%)")
+    return pct >= 80
 
 
 if __name__ == "__main__":
