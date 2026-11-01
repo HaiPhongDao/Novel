@@ -22,6 +22,7 @@ Dùng:
         --truoc 7.3 --sau 3.8 --bien-do 0.8 --n 2
     python tools/so_loi.py phan-quyet --id I-0003 --sau 3.8 --n 2
     python tools/so_loi.py muc-tieu --truyen manga-tokyo-2000 --chi-so nhan-ngu-dieu --nguon mau --gia-tri 0.03
+    python tools/so_loi.py do-mau <truyen> --file <bo-mau.txt>   # đo bộ mẫu, ghi đích mọi chỉ số
     python tools/so_loi.py quet <ban.md> [...]     # đo bản nháp và so với đích đã đặt
 
 Không cần thư viện ngoài. Ghi UTF-8 không BOM, mỗi sự kiện một dòng, chỉ thêm (append).
@@ -436,6 +437,46 @@ def cmd_bao_cao(argv):
     print(f"\nđã ghi {BAO_CAO.relative_to(ROOT)}")
 
 
+def cmd_do_mau(argv):
+    """Đo bộ mẫu rồi ghi đích cho một truyện — một lệnh thay cho đo tay.
+
+    Truyện mới lấy mẫu từ một cuốn tiểu thuyết có sẵn; đích của mọi chỉ số phải là mật độ
+    của chính bộ mẫu đó, không phải 0. Không có bước này thì mỗi lần review là một lần tung
+    đồng xu: cùng một con số vừa có thể là "sạch" vừa có thể là "loãng".
+    """
+    ap = _ap("do-mau", "Đo bộ mẫu và ghi đích chỉ số cho một truyện")
+    ap.add_argument("truyen")
+    ap.add_argument("--file", required=True, help="đường dẫn .txt của bộ mẫu")
+    ap.add_argument("--bien-do", type=float, default=0.5,
+                    help="biên độ = bao nhiêu phần giá trị đích (mặc định 0.5); thay bằng số thật khi có 2 lần chạy y hệt")
+    a = ap.parse_args(argv)
+
+    mau = Path(a.file)
+    if not mau.is_file():
+        sys.exit(f"LỖI: không thấy {mau}")
+    sys.path.insert(0, str(ROOT / "tools"))
+    from soat_van import scan
+
+    r = scan(str(mau))
+    han = r["han"] or 1
+    chi_so = ("phu-dinh-lap-cau", "so-sanh-loi-ke", "khuon-shi",
+              "nhan-ngu-dieu", "the-thoai", "luot-cut")
+    cu = [x for x in doc(MUC_TIEU) if x["truyen"] != a.truyen]
+    moi = []
+    print(f"bộ mẫu {mau.name}: {r['han']} chữ Hán")
+    for c in chi_so:
+        gt = round(r[c] / han * 1000, 3)
+        bd = round(gt * a.bien_do, 3) if gt else None
+        moi.append({"truyen": a.truyen, "chi_so": c, "nguon": "mau", "gia_tri": gt,
+                    "bien_do": bd, "don_vi": "lần/1.000 chữ Hán",
+                    "ngay": date.today().isoformat(),
+                    "ghi_chu": f"đo từ {mau.name} bằng tools/soat_van.py"})
+        print(f"  {c:<20}{r[c]:>5} chỗ   {gt:>7.3f}/1.000")
+    ghi_lai(MUC_TIEU, cu + moi)
+    print(f"\nđã ghi {len(moi)} đích cho {a.truyen} (nguồn: mau)")
+    print("biên độ tạm = 50% giá trị đích; thay bằng số thật sau hai lần chạy y hệt.")
+
+
 def _ap(ten, mo_ta):
     import argparse
     p = argparse.ArgumentParser(prog=f"so_loi.py {ten}", description=mo_ta)
@@ -451,6 +492,7 @@ LENH = {
     "can-thiep": cmd_can_thiep,
     "phan-quyet": cmd_phan_quyet,
     "muc-tieu": cmd_muc_tieu,
+    "do-mau": cmd_do_mau,
     "quet": cmd_quet,
     "kiem-tra": cmd_kiem_tra,
     "bao-cao": cmd_bao_cao,

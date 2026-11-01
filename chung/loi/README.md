@@ -105,6 +105,18 @@ của truyện mạng Trung Quốc; đích "0 cặp" là đích sai, và mọi c
 5. Đọc `bao-cao`; can thiệp `vo-hieu`/`phan-tac-dung` → gỡ ngay.
 6. `kiem-tra` phải sạch trước khi commit.
 
+**Mở truyện mới: đặt đích bằng một lệnh, đừng đo tay.**
+
+```
+python tools/so_loi.py do-mau <truyen> --file <bo-mau.txt>
+```
+
+Nó chạy `soat_van.py` trên bộ mẫu, quy về mật độ/1.000 chữ Hán, và ghi 6 đích kèm nguồn `mau`. Làm bước này
+**trước** khi viết brief đầu tiên; không có đích thì mọi nhận xét "chỉ số cao/thấp" ở review đều không kiểm được.
+Biên độ mặc định = 50% giá trị đích — đó là số tạm, thay bằng số thật khi có hai lần chạy y hệt.
+
+Chạy lại lệnh này cho các truyện đã có thì nó **ghi đè** đích nguồn `mau` của đúng truyện đó, không đụng truyện khác.
+
 ## Dữ liệu lịch sử trong sổ này
 
 - 13 dòng `quan-sat` đầu là **đọc từ review và sổ kinh nghiệm** (nguồn ghi `KNxx`), không phải máy đo.

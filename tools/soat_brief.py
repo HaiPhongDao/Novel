@@ -2,7 +2,8 @@
 
 Dùng:
     python tools/soat_brief.py <brief.md> [<brief2.md> ...] [--prev-brief <brief đoạn trước>]
-        [--bible <truyen>/bible/characters.md] [--glossary <truyen>/bible/glossary.md] [--mau-b] [--goi] [--json]
+        [--bible <truyen>/bible/characters.md] [--glossary <truyen>/bible/glossary.md] [--mau-b] [--goi]
+        [--prev-chapter <chapters/doan-XXX.md>] [--json]
 
 Nhiều brief liền nhau: brief đứng trước trong danh sách làm brief trước của brief sau (định mức lương,
 tỷ giá, khẩu phần, số cũ, hình dạng chỗ dừng được mang theo).
@@ -11,6 +12,9 @@ tỷ giá, khẩu phần, số cũ, hình dạng chỗ dừng được mang theo
          thứ cả hai mẫu cùng cấm. Đổi mẫu của truyện đang chạy cần Tác giả duyệt — cổng không tự đổi.
 --goi    brief chạy qua gói build_pack.py (State JSON + đuôi đoạn trước): không đòi dòng xưng hô và khối nối.
          Tự bật khi có <truyen>/handoff/state.json.
+--prev-chapter
+         so khối 【接上】 với 6 dòng cuối của bản ĐÃ DUYỆT; lệch thì CHẶN (noi-lech). Không có cờ này thì
+         khối nối chỉ được kiểm sự tồn tại, không kiểm nội dung.
 
 Bắt thứ brief giao cho Writer mà Writer sẽ dịch nguyên thành văn — kiểm toán test-gemini-moi 29/10,
 khung và lý do ở `.claude/skills/novel-craft/templates/brief-doan.md`: beat đánh số, nhãn tính cách, kết cục
@@ -118,6 +122,7 @@ GOI_Y = {
     "chua-co-bible": "Nhân vật chưa có trong bible: ghi canon sau khi chốt đoạn.",
     "thieu": "Thiếu khối bắt buộc của khung brief.",
     "khoa": "Tối đa một dòng 'Khoá:'.",
+    "noi-lech": "Khối nối phải chép nguyên văn đuôi bản ĐÃ DUYỆT — không dán bản nháp, không gõ lại tay.",
 }
 
 
@@ -161,6 +166,26 @@ def is_panel(s):
 
 def strip_panel(s):
     return re.sub(r"【[^】\n]*[：:][^】\n]*】", " ", s)
+
+
+# Tên khối của khung brief (【Kết đoạn】, 【Mở đầu và chỗ dừng】, "Kết đoạn:") là nhãn cấu trúc,
+# không phải câu văn. Chấm nó bằng từ điển văn xuôi là báo CHẶN oan — mẫu B bắt buộc phải có
+# khối 【Kết đoạn】, nên trước đây cổng không thể XANH trên một brief mẫu B đúng khung.
+NHAN_KHOI = re.compile(
+    r"^\s*[-•*]?\s*(?:【\s*(?P<a>[^】\n:：]{1,40})\s*】|(?P<b>[^:：\n]{1,40})\s*[:：])\s*$"
+)
+
+# Mọi cách đánh dấu chỗ dừng của cả hai mẫu. Thiếu "Kết đoạn"/"chỗ dừng" thì mẫu B bị báo
+# "không có chỗ dừng" dù khung của nó bắt buộc dùng đúng chữ đó.
+DIEM_DUNG = re.compile(r"Dừng|Kết đoạn|đoạn kết|chỗ dừng", re.I)
+
+
+def nhan_khoi(s):
+    m = NHAN_KHOI.match(s.strip())
+    if not m:
+        return False
+    nhan = (m.group("a") or m.group("b") or "").strip()
+    return 0 < len(nhan.split()) <= 6
 
 
 def doc_bible(path):
@@ -231,6 +256,8 @@ def scan(path, ctx, bible=None, glossary=None):
         s = strip_panel(ln)
         khoa = re.match(r"^\s*[-•]?\s*Kho[áa]\s*[:：]", s, re.I)
         mo = re.match(r"^\s*[-•]?\s*Mở\s*[:：]", s, re.I)
+        if nhan_khoi(s):
+            continue
         for check, rx in LEXICON.items():
             if (check == "ket-cuc" and khoa) or (check in ("hinh-anh", "ket-hinh-anh") and mo):
                 continue
@@ -441,8 +468,8 @@ def scan(path, ctx, bible=None, glossary=None):
 
     # 9. Khối bắt buộc, dòng Khoá, hình dạng chỗ dừng.
     body = "\n".join(ln for _, ln in lines)
-    if not re.search(r"Dừng", body):
-        hit("thieu", CHAN, 0, "không có chỗ dừng ('Dừng ở …')")
+    if not DIEM_DUNG.search(body):
+        hit("thieu", CHAN, 0, "không có chỗ dừng ('Dừng ở …' / '【Kết đoạn】')")
     if not goi and not re.search(r"gọi\b.{1,40}?\blà\b|tự xưng|Xưng hô", body, re.I):
         hit("thieu", CANH, 0, "không có dòng xưng hô")
     if not re.search(rf"(?:{NUM})\s*(?:–|-|đến)\s*(?:{NUM})\s*(?:字|chữ)|khoảng\s*(?:{NUM})\s*(?:字|chữ)", body):
@@ -457,9 +484,11 @@ def scan(path, ctx, bible=None, glossary=None):
     dung, keo = [], 0
     for _, ln in lines:
         s = ln.strip()
-        if re.search(r"Dừng|đoạn kết", s, re.I):
+        if DIEM_DUNG.search(s) and not nhan_khoi(s):
             dung.append(s)
             keo = 3
+        elif nhan_khoi(s) and keo == 0:
+            continue
         elif keo and s and not s.startswith("【") and not re.match(r"\d+[.)]\s", s):
             dung.append(s)
             keo -= 1
@@ -474,6 +503,23 @@ def scan(path, ctx, bible=None, glossary=None):
 
     if ctx.pop("khau_phan_ha_sau", False):
         ctx["khau_phan_ha"] = True
+
+    # 10. Khối nối tiếp phải là đuôi của bản ĐÃ DUYỆT, không phải bản nháp dán tay.
+    # Không có cổng này thì khối 【接上】 chỉ chứng minh brief viết sau đoạn trước, không chứng
+    # minh nó nối đúng bản đã duyệt — dán bản nháp là Writer nối vào chỗ chưa ai duyệt.
+    pc = ctx.get("prev_chapter")
+    if pc and Path(pc).is_file():
+        blk = re.search(r"【接上】(.*?)【接上完】", text, re.S)
+        if blk:
+            noi = re.sub(r"\s+", "", blk.group(1))
+            cuoi = [re.sub(r"\s+", "", x) for x in Path(pc).read_text(encoding="utf-8").splitlines() if x.strip()]
+            mau = [x for x in cuoi[-6:] if len(x) >= 8]
+            if mau:
+                khop = sum(1 for x in mau if x in noi)
+                if khop < max(3, len(mau) - 1):
+                    hit("noi-lech", CHAN, 0,
+                        f"khối nối khớp {khop}/{len(mau)} dòng cuối của {Path(pc).name}")
+
     ctx["prev"] = text
     hits.sort(key=lambda h: (h["level"] != CHAN, h["line"]))
     verdict = CHAN if any(h["level"] == CHAN for h in hits) else (CANH if hits else "XANH")
@@ -484,7 +530,7 @@ def main(argv):
     args, opt = [], {}
     it = iter(argv[1:])
     for a in it:
-        if a in ("--prev-brief", "--bible", "--glossary"):
+        if a in ("--prev-brief", "--bible", "--glossary", "--prev-chapter"):
             opt[a] = next(it, None)
         elif a.startswith("--"):
             opt[a] = True
@@ -495,7 +541,8 @@ def main(argv):
         return 2
     bible = doc_bible(opt["--bible"]) if opt.get("--bible") else None
     glossary = doc_glossary(opt["--glossary"]) if opt.get("--glossary") else None
-    ctx = {"tien": {}, "dung": [], "mau_b": opt.get("--mau-b"), "goi": opt.get("--goi")}
+    ctx = {"tien": {}, "dung": [], "mau_b": opt.get("--mau-b"), "goi": opt.get("--goi"),
+           "prev_chapter": opt.get("--prev-chapter")}
     if opt.get("--prev-brief"):
         scan(opt["--prev-brief"], ctx, bible, glossary)
     rows = [scan(a, ctx, bible, glossary) for a in args]

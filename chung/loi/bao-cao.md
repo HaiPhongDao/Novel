@@ -2,7 +2,7 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **42** · Lần quan sát: **132** · Can thiệp: **20** · Đích đã đặt: **12**
+- Kiểu lỗi: **42** · Lần quan sát: **132** · Can thiệp: **20** · Đích đã đặt: **14**
 
 ## Tỉ lệ có bằng chứng
 
@@ -64,3 +64,5 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | manga-tokyo-2000 | so-sanh-loi-ke | 0.114 lần/1.000 chữ Hán | mau |
 | manga-tokyo-2000 | khuon-shi | 0.034 lần/1.000 chữ Hán | mau |
 | manga-tokyo-2000 | nhan-ngu-dieu | 0.03 lần/1.000 chữ Hán | mau |
+| manga-tokyo-2000 | the-thoai | 1.329 lần/1.000 chữ Hán | mau |
+| manga-tokyo-2000 | luot-cut | 6.401 lần/1.000 chữ Hán | mau |

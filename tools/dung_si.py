@@ -151,8 +151,9 @@ def main(argv):
     if n > TRAN:
         print(f"  VƯỢT TRẦN: {n} > {TRAN} — dấu hiệu luật tích tụ, phải reset về SI lõi rồi sửa bằng cắt")
         return 2
-    if n > NGAN_SACH:
-        print(f"  CẢNH BÁO: vượt ngân sách {n - NGAN_SACH} ký tự — thêm một dòng thì phải bỏ một dòng")
+    if n > NGAN_SACH or van_de:
+        if n > NGAN_SACH:
+            print(f"  CẢNH BÁO: vượt ngân sách {n - NGAN_SACH} ký tự — thêm một dòng thì phải bỏ một dòng")
         return 1
     return 0
 
