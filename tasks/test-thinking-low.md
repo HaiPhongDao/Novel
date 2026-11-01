@@ -1,0 +1,1 @@
+Với bối cảnh Tokyo tháng 10 năm 2000 trong dự án truyện tranh '我在千禧东京画漫画' (manga-tokyo-2000), bạn hãy giải thích ngắn gọn trong 2-3 gạch đầu dòng: Tại sao việc nhân vật chính chọn kịch bản phim 'One Cut of the Dead' (摄影机不要停！) để vẽ thành manga dự thi giải tân binh lại tạo ra hiệu ứng đảo ngược bất ngờ (twist) đối với các biên tập viên?

@@ -1,0 +1,924 @@
+{
+  "id": "a39258186f0440af8dae09a85ee18987",
+  "ok": true,
+  "probe": [
+    {
+      "aria": "Google apps",
+      "cls": "gb_C",
+      "tag": "A",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "Google Account: Hải Phong Đào  \n(ohi.phong@gmail.com), Google membership",
+      "cls": "gb_C gb_bb gb_aa gb_W",
+      "tag": "A",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "side-nav-menu-button hide-on-print with-pill-ui",
+      "tag": "DIV",
+      "testId": "chat-app",
+      "text": "Gemini"
+    },
+    {
+      "aria": "New chat",
+      "cls": "side-nav-sparkle-button",
+      "tag": "A",
+      "testId": "side-nav-sparkle-button",
+      "text": "Gemini"
+    },
+    {
+      "aria": "Open sidebar",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "side-nav-sparkle-button",
+      "text": ""
+    },
+    {
+      "aria": "Search chats",
+      "cls": "x1n2onr6 x16tdsg8 x1717udv x47umbl x5lhr3w x16ye13r x1a2a7pz",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "search"
+    },
+    {
+      "aria": "Close sidebar",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "overflow-container",
+      "tag": "DIV",
+      "testId": "overflow-container",
+      "text": "New chat Library Images Scheduled Customize More Notebooks New notebook All Phân"
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "new-chat-button",
+      "text": "New chat"
+    },
+    {
+      "aria": "Search chats",
+      "cls": "x1n2onr6 x16tdsg8 x1717udv x47umbl x5lhr3w x16ye13r x1a2a7pz",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "search"
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "library-side-nav-entry-button",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "images-side-nav-entry-button",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "library-side-nav-entry-button",
+      "text": "Library"
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "images-side-nav-entry-button",
+      "text": "Images"
+    },
+    {
+      "aria": "",
+      "cls": "overflow-nav-item",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "overflow-side-nav-entry-button",
+      "text": "More"
+    },
+    {
+      "aria": "More",
+      "cls": "mat-mdc-list-item mdc-list-item mat-mdc-tooltip-trigger gem-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "More"
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-POPOVER",
+      "testId": "overflow-popover-menu",
+      "text": ""
+    },
+    {
+      "aria": "Loading Gems and Recent conversations",
+      "cls": "mat-mdc-progress-spinner mdc-circular-progress mat-progress-",
+      "tag": "MAT-PROGRESS-SPINNER",
+      "testId": "loading-content-spinner",
+      "text": ""
+    },
+    {
+      "aria": "Toggle Notebooks",
+      "cls": "expandable-section-header",
+      "tag": "BUTTON",
+      "testId": "expandable-section-toggle",
+      "text": "Notebooks"
+    },
+    {
+      "aria": "",
+      "cls": "toggle-icon",
+      "tag": "GEM-ICON",
+      "testId": "expandable-section-toggle-icon",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "expandable-section-content",
+      "tag": "DIV",
+      "testId": "expandable-section-content",
+      "text": "New notebook"
+    },
+    {
+      "aria": "",
+      "cls": "ng-star-inserted",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "new-notebook-button",
+      "text": "New notebook"
+    },
+    {
+      "aria": "",
+      "cls": "expanded ng-star-inserted",
+      "tag": "EXPANDABLE-SECTION",
+      "testId": "chats-expandable-section",
+      "text": "All Phân tích yêu cầu tạo AI Architect Tạo Tính Cách Phân Thân Cực Đoan AI Fact"
+    },
+    {
+      "aria": "Toggle All",
+      "cls": "expandable-section-header",
+      "tag": "BUTTON",
+      "testId": "expandable-section-toggle",
+      "text": "All"
+    },
+    {
+      "aria": "",
+      "cls": "toggle-icon",
+      "tag": "GEM-ICON",
+      "testId": "expandable-section-toggle-icon",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "conversation-filter-button gem-button gem-button-badge-size-",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "conversation-status-filter-button",
+      "text": ""
+    },
+    {
+      "aria": "Filter",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "expandable-section-content",
+      "tag": "DIV",
+      "testId": "expandable-section-content",
+      "text": "Phân tích yêu cầu tạo AI Architect Tạo Tính Cách Phân Thân Cực Đoan AI Fact Bloc"
+    },
+    {
+      "aria": "",
+      "cls": "sidenav-style-updates ng-tns-c1538338380-8 ia-redesign side-",
+      "tag": "CONVERSATIONS-LIST",
+      "testId": "all-conversations",
+      "text": "Phân tích yêu cầu tạo AI Architect Tạo Tính Cách Phân Thân Cực Đoan AI Fact Bloc"
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 always-show-hovered-trailing-content ha",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Phân tích yêu cầu tạo AI Architect"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Phân tích yêu cầu tạo AI Architect",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 always-show-hovered-trailing-content ha",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Tạo Tính Cách Phân Thân Cực Đoan"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Tạo Tính Cách Phân Thân Cực Đoan",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 always-show-hovered-trailing-content ha",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "AI Fact Block Optimization Discussion"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for AI Fact Block Optimization Discussion",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Kiểm Tra Kết Nối Hệ Thống"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Kiểm Tra Kết Nối Hệ Thống",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Hỗ Trợ Cải Tiến Source Code"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Hỗ Trợ Cải Tiến Source Code",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Dịch hướng dẫn ChatGPT sang tiếng Việt"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Dịch hướng dẫn ChatGPT sang tiếng Việt",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Hướng Dẫn Tạo Dự Án Trong ChatGPT"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Hướng Dẫn Tạo Dự Án Trong ChatGPT",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Lấy Tên Truyện Shudugu"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Lấy Tên Truyện Shudugu",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Khắc phục lỗi đọc truyện shudugu"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Khắc phục lỗi đọc truyện shudugu",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Cách xóa ảnh Google Photos"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Cách xóa ảnh Google Photos",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Xóa chùm chìa khóa khỏi ảnh"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Xóa chùm chìa khóa khỏi ảnh",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Untitled"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Untitled",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Ảnh Base Công Nghiệp Palworld"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Ảnh Base Công Nghiệp Palworld",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Tải EhViewer APK Bản Mới Nhất"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Tải EhViewer APK Bản Mới Nhất",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Chèn Logo Ecopark Trắng Vào Ảnh"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Chèn Logo Ecopark Trắng Vào Ảnh",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Sói hài hước đòi tiền chuyển khoản"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Sói hài hước đòi tiền chuyển khoản",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Gợi Ý Quán Sinh Nhật Gần Nhà"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Gợi Ý Quán Sinh Nhật Gần Nhà",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Nhận diện chữ tiếng Việt trên ảnh"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Nhận diện chữ tiếng Việt trên ảnh",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "\"Unite\" Nghĩa Tiếng Việt"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for \"Unite\" Nghĩa Tiếng Việt",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Yêu Cầu Bài Hát Việt Phong Cách Trần Dịch Tấn"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Yêu Cầu Bài Hát Việt Phong Cách Trần Dịch Tấn",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Xác nhận đã nhận và sẵn lòng hỗ trợ"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Xác nhận đã nhận và sẵn lòng hỗ trợ",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Tìm quán sửa điện thoại gần Ecopark"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Tìm quán sửa điện thoại gần Ecopark",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Chỉnh sửa ảnh chấm công bị mờ"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Chỉnh sửa ảnh chấm công bị mờ",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Xử lý sự cố an ninh tại Ecopark"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Xử lý sự cố an ninh tại Ecopark",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Chỉnh cho tôi ảnh này. Người áo xanh nước biển, đổi thành dáng đang chụp ảnh (ch"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Chỉnh cho tôi ảnh này.\nNgười áo xanh nước biển, đổi thành dáng đang chụp ảnh (chụp phạt) người ngồi trong quầy",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1538338380-8 has-hovered-trailing-content ng-star-in",
+      "tag": "GEM-NAV-LIST-ITEM",
+      "testId": "conversation",
+      "text": "Tạo hình ảnh chân thật. Cận cảnh một con chó đã cắn mất phần điểm bài kiểm tra c"
+    },
+    {
+      "aria": "",
+      "cls": "mat-mdc-menu-trigger gem-conversation-actions-menu-button ge",
+      "tag": "GEM-ICON-BUTTON",
+      "testId": "actions-menu-button",
+      "text": ""
+    },
+    {
+      "aria": "More options for Tạo hình ảnh chân thật. Cận cảnh một con chó đã cắn mất phần điểm bài kiểm tra của tôi",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "Settings",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "announcement-banner-container",
+      "tag": "DIV",
+      "testId": "announcement-banner-container",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "chat-history enable-lm-fast-follows enable-lm-fast-follows-p",
+      "tag": "INFINITE-SCROLLER",
+      "testId": "chat-history-container",
+      "text": "Where should we start? Clean up my calendar for me Create an image of a floating"
+    },
+    {
+      "aria": "",
+      "cls": "gds-display-m ng-star-inserted",
+      "tag": "H1",
+      "testId": "message",
+      "text": "Where should we start?"
+    },
+    {
+      "aria": "",
+      "cls": "card-button",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Clean up my calendar for me"
+    },
+    {
+      "aria": "Dismiss suggestion",
+      "cls": "dismiss-suggestion-button ng-star-inserted",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "card-button",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Create an image of a floating astronaut"
+    },
+    {
+      "aria": "Dismiss suggestion",
+      "cls": "dismiss-suggestion-button ng-star-inserted",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "card-button",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Practice casual English dialogue"
+    },
+    {
+      "aria": "Dismiss suggestion",
+      "cls": "dismiss-suggestion-button ng-star-inserted",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "Scroll to bottom",
+      "cls": "back-to-bottom-fab",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "Upload & tools",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "text-input-field_textarea-inner ng-tns-c1585027545-4",
+      "tag": "DIV",
+      "testId": "textarea-inner",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "ng-tns-c1585027545-4 textarea-wrapper",
+      "tag": "DIV",
+      "testId": "textarea-wrapper",
+      "text": ""
+    },
+    {
+      "aria": "Open mode picker, currently Argon",
+      "cls": "mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger input",
+      "tag": "BUTTON",
+      "testId": "bard-mode-menu-button",
+      "text": "Argon"
+    },
+    {
+      "aria": "",
+      "cls": "logo-pill-label-container input-area-switch-label ng-star-in",
+      "tag": "DIV",
+      "testId": "logo-pill-label-container",
+      "text": "Argon"
+    },
+    {
+      "aria": "Dictate (^⇧D)",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "mat-ripple gem-segmented-button-action ng-star-inserted",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Chat"
+    },
+    {
+      "aria": "",
+      "cls": "mat-ripple gem-segmented-button-action ng-star-inserted",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Task"
+    },
+    {
+      "aria": "",
+      "cls": "gds-body-s empty-disclaimer desktop-spacing ng-star-inserted",
+      "tag": "P",
+      "testId": "empty-disclaimer",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "mdc-button mat-mdc-button-base mat-badge mat-tonal-button ma",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": "Get app"
+    },
+    {
+      "aria": "Listen",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    },
+    {
+      "aria": "",
+      "cls": "buttons-container ng-star-inserted",
+      "tag": "DIV",
+      "testId": "temp-chat-button-container",
+      "text": ""
+    },
+    {
+      "aria": "Temporary chat",
+      "cls": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-",
+      "tag": "BUTTON",
+      "testId": "",
+      "text": ""
+    }
+  ],
+  "url": "https://gemini.google.com/u/1/app?pageId=none"
+}

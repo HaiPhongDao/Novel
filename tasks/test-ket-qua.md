@@ -1,0 +1,1 @@
+Tôi đã nhận được tin nhắn kiểm tra từ hệ thống Novel Agent, và lưu ý rằng tôi không có thông tin hiển thị về một "chế độ thinking" cụ thể nào mà hoạt động như một mô hình ngôn ngữ lớn xử lý trực tiếp yêu cầu của bạn.
