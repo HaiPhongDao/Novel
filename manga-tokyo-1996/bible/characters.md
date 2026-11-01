@@ -27,3 +27,10 @@
 - **Thân phận:** Trợ lý xưởng vẽ của Ren, phụ trách nét cơ khí và dựng mẫu thử đồ chơi.
 - **Ngoại hình:** Tóc đầu đinh, áo thun xám dính dầu máy và mực vẽ, ngón tay quấn băng dán y tế.
 - **Tính cách:** Thật thà, đam mê mô hình xe đua; đang chịu áp lực nợ tiền nhà trọ và mong nhận lương.
+
+## Takashiro Mami — đạo diễn anime của Studio Karasu
+
+- **Tuổi:** 28 tuổi.
+- **Thân phận:** Đạo diễn anime trẻ của Studio Karasu, đơn vị gia công sản xuất TV Anime 《极速齿轮》 thuộc Ủy ban Sản xuất.
+- **Ngoại hình:** Tóc đen buộc đuôi ngựa gọn gàng, đeo kính gọng đỏ, cổ đeo thẻ công tác của đài truyền hình.
+- **Tính cách:** Tỉ mỉ, nhạy bén về thị giác chuyển động; quan tâm đặc biệt đến độ phức tạp của nét vẽ và số lượng bản vẽ chuyển động (作画张数).
