@@ -9,7 +9,17 @@
 
 ## Writer
 
-- SI đang dùng: `gemini/system-instruction-v1.md` — dựng từ `writer/SI-template` v5, phần dán 7.9xx ký tự, 4 anchor nguyên văn từ chương 7, 30, 25, 10 của bộ mẫu, `verify_anchors.py` 4/4 khớp, `soat_van.py` sạch. Bản dán: `gemini/si-dan-gemini.txt`.
+- SI đang dùng: `gemini/system-instruction-v3.md` (**4.749 ký tự** phần dán, **2 anchor**, chiếm 43% phần dán).
+  Bản dán: `gemini/si-dan-gemini.txt` (dựng bằng `python tools/dung_si.py manga-tokyo-2000`, đừng sửa tay).
+- **Lịch sử đời SI** (phục hồi 01/11 từ git; trước đó hai lần viết lại không đổi tên file nên đời thật không có tên):
+  | Đời | Ký tự | Ghi chú |
+  |---|---|---|
+  | v1 (`f118d09`) | 8.156 | dựng từ `writer/SI-template` v5, 4 anchor, đủ BANS + LENGTH + PART 3 |
+  | v2 (`5f0e8e7`) | 2.773 | "tinh gọn": bỏ PART 2, BANS, LENGTH, PART 3 |
+  | v3 (`6bccaa3`) | 4.749 | v2 + anchor dài (1.080/877 ký tự), 2 anchor chiếm 43% phần dán |
+- **Nợ cấu trúc phải trả trước khi thêm luật** (`dung_si.py` đang trả mã thoát 1): 0 dòng BANS (khung đòi đúng 5),
+  0 dòng PART 2, chỉ 2 anchor, và **mất neo độ dài câu** — `si-test-tren-mau.md` gọi đó là con số an toàn duy nhất
+  nên có trong SI. Phục hồi cần Tác giả duyệt (bảng phân quyền `AGENT.md` §8).
 - Khác biệt so với `manga-tokyo-1994` và `manga-tokyo-1998`: Genre context là thị trường tạp chí thanh niên năm 2000 (chuyển giao thiên niên kỷ, internet ADSL sơ khai, khủng hoảng tạp chí giấy trước đa phương tiện); anchor lấy từ các chương khác để tránh trùng lặp; quy ước tên Latin trong văn Trung.
 - Lỗi riêng để soát: `gemini/review-blacklist.md`.
 
