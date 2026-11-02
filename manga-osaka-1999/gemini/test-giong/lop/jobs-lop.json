@@ -1,0 +1,114 @@
+[
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-a.md",
+  "note": "lop L (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-b.md",
+  "note": "lop L (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-N.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-N-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-N-a.md",
+  "note": "lop L-N (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-N.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-N-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-N-b.md",
+  "note": "lop L-N (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-1-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-1-a.md",
+  "note": "lop L-1 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-1-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-1-b.md",
+  "note": "lop L-1 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-2.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-2-a.md",
+  "note": "lop L-2 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-2.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-2-b.md",
+  "note": "lop L-2 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-3.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-3-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-3-a.md",
+  "note": "lop L-3 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-3.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-3-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-3-b.md",
+  "note": "lop L-3 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-4.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-4-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-4-a.md",
+  "note": "lop L-4 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-4.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-4-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-4-b.md",
+  "note": "lop L-4 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-P2.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-P2-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-P2-a.md",
+  "note": "lop L-P2 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-P2.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-P2-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-P2-b.md",
+  "note": "lop L-P2 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-B.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-B-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-B-a.md",
+  "note": "lop L-B (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-B.txt",
+  "prompt": "chung/hieu-chuan/manga/ch01/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch01-L-B-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-ch01-L-B-b.md",
+  "note": "lop L-B (b)"
+ }
+]
