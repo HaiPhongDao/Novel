@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **143** · Can thiệp: **31** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **143** · Can thiệp: **32** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **3/31** (10%)
+- Can thiệp đã đo: **3/32** (9%)
 
-- Hiệu quả (≥2.0 biên độ): **1** · Vô hiệu (<1.0 biên độ): **1** · Phản tác dụng: **1** · Bị Tác giả bác: **5** · Chưa đo: **23**
+- Hiệu quả (≥2.0 biên độ): **1** · Vô hiệu (<1.0 biên độ): **1** · Phản tác dụng: **1** · Bị Tác giả bác: **5** · Chưa đo: **24**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -24,7 +24,7 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
-| E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo |
+| E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 9 | 1 | I-0025 · SI · phản tác dụng · 0.95× |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
