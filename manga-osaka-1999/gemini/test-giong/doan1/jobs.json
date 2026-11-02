@@ -1,0 +1,16 @@
+[
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13R0B.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/doan1/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/doan1/L-13R0B-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/doan1/thinking-L-13R0B-a.md",
+  "note": "doan1 thu, L-13R0B (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13R0B.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/doan1/brief.md",
+  "out": "manga-osaka-1999/gemini/test-giong/doan1/L-13R0B-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/doan1/thinking-L-13R0B-b.md",
+  "note": "doan1 thu, L-13R0B (b)"
+ }
+]
