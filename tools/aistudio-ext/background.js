@@ -1,4 +1,4 @@
-// Hỏi aistudio_run.py có việc không (long-poll), làm việc trong một tab AI Studio riêng, gửi kết quả về.
+// Hỏi aistudio_run.py và hoi_argon.py có việc không (long-poll), làm việc trong một tab AI Studio hoặc Gemini Web, gửi kết quả về.
 // Service worker tắt sau ~30s rảnh: alarm đánh thức mỗi 30s, và mỗi vòng gọi một API extension để giữ nó sống.
 const SERVER = 'http://127.0.0.1:8765';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -66,24 +66,43 @@ const post = (path, body) => fetch(SERVER + path, {
 async function runJob(job) {
   const log = msg => post('/log', { id: job.id, msg });
   let tabId;
+  let isReused = false;
+  const isGeminiWeb = Boolean(job.url && job.url.includes('gemini.google.com'));
+  const pageScript = isGeminiWeb ? 'gemini_page.js' : 'page.js';
+
   try {
-    tabId = await openTab(job.id, job.url);
-    const info = await call(tabId, 'prepare', job);
-    log(`mở ${info.url} | ${info.account}`);
-    await call(tabId, 'send', job);
-    // Xong khi request GenerateContent đã kết thúc và chữ đứng yên qua hai lần kiểm (hoặc có lỗi).
-    // Dự phòng: chữ đứng yên 30s cũng coi là xong; 60s chưa có request nào thì thôi, để collect báo lỗi.
+    if (isGeminiWeb && job.reuseTab !== false) {
+      const tabs = await chrome.tabs.query({ url: "*://gemini.google.com/*" });
+      if (tabs.length > 0) {
+        tabId = tabs[0].id;
+        isReused = true;
+        await editTabs(t => { t[job.id] = tabId; });
+        await keepAwake(tabId);
+        log(`dùng lại tab Gemini Web đang mở (id ${tabId})`);
+      }
+    }
+    if (!tabId) {
+      tabId = await openTab(job.id, job.url);
+    }
+    if (job.action === 'probe') {
+      const probeRes = await callScript(tabId, pageScript, 'prepare', job);
+      await post('/result', { id: job.id, ok: true, ...probeRes });
+      return;
+    }
+    const info = await callScript(tabId, pageScript, 'prepare', job);
+    log(`kết nối ${info.url || job.url}`);
+    await callScript(tabId, pageScript, 'send', job);
+
+    // Xong khi request đã kết thúc và chữ đứng yên qua hai lần kiểm (hoặc có lỗi).
     const deadline = Date.now() + job.timeoutMin * 60000;
     const sent = Date.now();
-    // Request đã xong mà 20s không có chữ (lỗi in trong lượt Model, kiểu chưa gặp) cũng coi là xong để collect báo lỗi.
     let lastLen = -1, stillSince = Date.now(), emptySince = 0;
     for (;;) {
       await sleep(3000);
       if (!(await alive(job.id))) throw new Error('script đã dừng, bỏ việc');
-      const s = await call(tabId, 'status');
+      const s = await callScript(tabId, pageScript, 'status');
       if (s.textLen !== lastLen) stillSince = Date.now();
-      if (s.textLen > 0 && Date.now() - stillSince > 30000) break;
-      // Có lỗi mà chưa có chữ trả lời: thôi chờ, để collect báo lỗi (quota/denied thì script xoay tài khoản).
+      if (s.textLen > 0 && Date.now() - stillSince > 25000) break;
       if (s.err && s.textLen === 0) break;
       if (!s.running) {
         if (s.err || (s.started && s.textLen > 0 && s.textLen === lastLen)) break;
@@ -96,12 +115,14 @@ async function runJob(job) {
       lastLen = s.textLen;
       if (Date.now() > deadline) throw new Error(`quá ${job.timeoutMin} phút chưa xong`);
     }
-    const out = await call(tabId, 'collect');
+    const out = await callScript(tabId, pageScript, 'collect');
     await post('/result', { id: job.id, ok: true, account: info.account, ...out });
   } catch (e) {
     await post('/result', { id: job.id, ok: false, kind: e.kind || 'error', error: String(e.message || e) });
   } finally {
-    await closeTab(job.id);
+    if (!isReused) {
+      await closeTab(job.id);
+    }
   }
 }
 
@@ -119,7 +140,7 @@ async function removeTab(tabId) {
   await chrome.tabs.remove(tabId).catch(() => {});
 }
 
-// Xong việc thì gỡ debugger và đóng tab làm việc; chat đã tự lưu trên AI Studio, lần sau mở lại theo URL.
+// Xong việc thì gỡ debugger và đóng tab làm việc; chat đã tự lưu trên web, lần sau mở lại theo URL.
 async function closeTab(jobId) {
   const tabId = (await getTabs())[jobId];
   if (tabId) await removeTab(tabId);
@@ -140,7 +161,8 @@ async function openTab(jobId, url) {
   for (;;) {
     const tab = await chrome.tabs.get(tabId);
     if (tab.status === 'complete') {
-      if (!tab.url.startsWith('https://aistudio.google.com/')) throw new Error(`chưa đăng nhập: ${url} → ${tab.url}`);
+      const allowed = tab.url.startsWith('https://aistudio.google.com/') || tab.url.startsWith('https://gemini.google.com/');
+      if (!allowed) throw new Error(`chưa đăng nhập: ${url} → ${tab.url}`);
       await keepAwake(tabId);
       return tabId;
     }
@@ -149,8 +171,8 @@ async function openTab(jobId, url) {
   }
 }
 
-// Tab ẩn (chạy nền, Edge bị che, máy khoá) thì AI Studio huỷ GenerateContent: gắn debugger và giả lập
-// tab đang được dùng. Edge hiện thanh "đang được gỡ lỗi" trong lúc chạy.
+// Tab ẩn (chạy nền, Edge bị che, máy khoá) thì trình duyệt có thể hoãn JS: gắn debugger và giả lập
+// tab đang được dùng.
 async function keepAwake(tabId) {
   const target = { tabId };
   await chrome.debugger.attach(target, '1.3').catch(e => {
@@ -160,9 +182,9 @@ async function keepAwake(tabId) {
   await chrome.debugger.sendCommand(target, 'Page.setWebLifecycleState', { state: 'active' }).catch(() => {});
 }
 
-// Chạy một bước của page.js trong trang (world MAIN để bắt được nút "Copy as markdown").
-async function call(tabId, name, arg) {
-  await chrome.scripting.executeScript({ target: { tabId }, world: 'MAIN', files: ['page.js'] });
+// Chạy một bước của page script trong trang
+async function callScript(tabId, scriptFile, name, arg) {
+  await chrome.scripting.executeScript({ target: { tabId }, world: 'MAIN', files: [scriptFile] });
   const [res] = await chrome.scripting.executeScript({
     target: { tabId }, world: 'MAIN', args: [name, arg ?? null],
     func: (n, a) => window.__novel[n](a),

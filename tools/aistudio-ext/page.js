@@ -77,7 +77,13 @@
     if (!find()) {  // mặc định chỉ hiện "Featured"; model cũ hơn nằm trong "All"
       [...document.querySelectorAll('button, [role=tab]')].find(b => b.innerText.trim() === 'All')?.click();
     }
-    const row = await waitFor(find, 10000, `model ${model}`);
+    let row;
+    try {
+      row = await waitFor(find, 5000, `model ${model}`);
+    } catch {
+      const allNames = [...document.querySelectorAll('ms-model-carousel-row')].map(r => r.innerText.trim().split('\n')[0]).join(', ');
+      throw new Error(`không thấy model ${model}; các model đang có trên AI Studio: [${allNames}]`);
+    }
     row.querySelector('button.content-button').click();
     await sleep(1000);
     if ($('ms-model-carousel-row')) closePanel();
