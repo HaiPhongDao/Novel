@@ -1,0 +1,16 @@
+[
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1D3.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/brief-ch27-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/tron27-L-1D3-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-tron27-L-1D3-a.md",
+  "note": "brief ch27 tron, L-1D3 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1D3.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/brief-ch27-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/tron27-L-1D3-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/thinking-tron27-L-1D3-b.md",
+  "note": "brief ch27 tron, L-1D3 (b)"
+ }
+]
