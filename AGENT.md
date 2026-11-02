@@ -86,6 +86,8 @@ Quy ước đặt tên: chữ thường, không dấu, nối bằng `-`; số đ
      Agent+Tác giả       Agent          Gemini              Agent         Gemini            Agent (+Tác giả duyệt)
 ```
 
+Truyện **đã chốt đoạn** đi vòng này, chi tiết ở skill mục 1. Truyện **mới** không vào vòng này trước khi SI qua bài hiệu chuẩn (`chung/hieu-chuan/README.md`) và Tác giả đọc ĐẠT. Ba đoạn đầu của làn đó vận hành theo `chung/hieu-chuan/prompt-agent-writer.md`: brief sáu khối, hai lần chạy, không sửa SI, không chấm ĐẠT bằng số.
+
 1. **Lập kế hoạch** — Agent đối chiếu `plot/outline.md`, `plot/threads.md`, `bible/timeline.md`; xác định mục tiêu đoạn: đẩy mâu thuẫn arc tới đâu (neo arc), đổi trạng thái nào, dừng ở việc dở nào ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 4–7). Thay đổi so với dàn ý → hỏi Tác giả.
 2. **Prompt** — Agent viết `briefs/doan-XXX.md` theo mẫu ở mục 4. Prompt phải tự đủ: Gemini không cần đọc thêm gì ngoài prompt.
 3. **Gemini viết** — Gemini trả bản thảo vào `chapters/doan-XXX.md`.
@@ -222,8 +224,9 @@ Nguyên tắc: chỉ rõ vị trí (trích câu tiếng Trung), nêu vấn đề
 
 ## 11. Khởi động dự án (khi bible còn trống)
 
-Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); SI của truyện điền từ `writer/SI-template`. Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
-0. (Nên làm) Mổ xẻ 1–2 truyện top cùng thể loại theo [`chung/mo-xe-truyen.md`](chung/mo-xe-truyen.md); chỉ mang sang kỹ thuật.
+Chép khung: `cp -r _mau-truyen <ten-truyen>` (đọc `_mau-truyen/README.md`); SI của truyện điền từ `writer/SI-template` v6. Thêm truyện vào bảng ở `README.md` gốc. Rồi Agent cùng Tác giả hoàn thành theo thứ tự:
+
+0. **Hiệu chuẩn SI trên một chương bộ mẫu** — [`chung/hieu-chuan/README.md`](chung/hieu-chuan/README.md). Tác giả chưa đọc ĐẠT thì chưa làm bible. Mổ xẻ truyện mẫu ([`chung/mo-xe-truyen.md`](chung/mo-xe-truyen.md)) chỉ mang sang kỹ thuật, làm trong lúc chờ bài hiệu chuẩn.
 1. `bible/overview.md` — logline 1 câu, premise 1 đoạn, thể loại, chủ đề, đối tượng độc giả, **hợp đồng độc giả**, **quỹ kết cục và bậc thang** ([`chung/xay-dung-truyen.md`](chung/xay-dung-truyen.md) mục 1, 3).
 2. `bible/glossary.md` — tên riêng và xưng hô bằng tiếng Trung (văn phong đã có system instruction của Gemini).
 3. `bible/characters/` — nhân vật chính, phản diện, 3–5 nhân vật phụ quan trọng.

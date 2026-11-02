@@ -1,6 +1,8 @@
 # Anchor cho SI: tìm sách mẫu, chép nguyên văn, kiểm
 
-Dùng khi SI cần 4–5 đoạn mẫu (anchor) tiếng Trung thật, đúng register (`writer/SI-template` v5: 3 lời kể + tối đa 2 khoảnh khắc). Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
+Dùng khi SI cần 4–5 đoạn mẫu (anchor) tiếng Trung thật, đúng register (`writer/SI-template` v6: 3 lời kể + tối đa 2 khoảnh khắc, không con số nhịp). Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
+
+Hai mục agent vận hành phải đọc trước khi đổi anchor: [Tiệt trùng anchor](#tiệt-trùng-anchor) và [Ma trận chức năng](#ma-trận-chức-năng).
 
 ## 1. Chọn sách mẫu
 
@@ -95,37 +97,31 @@ tâm lý/trinh thám, trái đơn đặt hàng "tránh tiểu chúng". `soat_van
 - Một SI dựng lại cho truyện cùng làn nhưng khác đơn đặt hàng thì **đổi chương lấy anchor** (5 anchor của truyện trước
   lấy chương 1–5 thì truyện mới lấy 11, 16, 27, 93), giữ nguyên kỹ thuật của từng slot.
 
-## Tiệt trùng anchor: bộ lọc 4 bước (Tác giả 01/11)
+## Tiệt trùng anchor
 
-Anchor dạy mạnh hơn luật, nên anchor bẩn dạy tật. Trước khi dán, mỗi anchor phải qua:
+Anchor dạy mạnh hơn luật. Dán xong mới quét là đã dạy tật vào SI.
 
-1. **Không phải đoạn mở chương/mở truyện có tóm tắt thiết lập.** Đoạn giới thiệu thân phận, hồi tưởng kiếp trước,
-   giải thích hệ thống dạy Writer xả bối cảnh — đúng lỗi KN35. Chọn đoạn nằm **giữa** một cảnh hành động.
-2. **Không có bộ ba phủ định / đối xứng giả** (`不是A，不是B，而是C`, `没有…也没有…`, `既不…也不…`). Regex của
-   `soat_van.py` bắt được cột `phu-dinh-lap-cau`; anchor phải ra 0.
-3. **Không có nhãn ngữ điệu** (`冷冷地说`, `淡淡道`, `嘴角勾起`, `叹了口气`). Thay bằng hành động tay: `他把发票折成
-   两半，推过桌面`. Cột `nhan-ngu-dieu` phải 0.
-4. **Không có tên tác phẩm/nhân vật đặc trưng của bộ mẫu**, và `verify_anchors.py` phải khớp nguyên văn n/n.
+Trước khi một cửa sổ được đưa vào SI:
 
-## Ma trận chức năng: 4–5 anchor phải phủ 4 việc, không phải 5 đoạn hay
+1. `python tools/soat_van.py <cửa-sổ>` ra **0** ở cả bốn cột tật (phủ định lặp, so sánh người kể, khuôn 实, nhãn ngữ điệu). Còn hit thì đổi cửa sổ, đừng cắt tay từng câu cho sạch regex.
+2. Thoại trong cửa sổ phải có câu hỏi thật và câu đáp mang số, giá hoặc hạn. Lượt `是。` `对。` `今天。` dạy thoại cụt — Tác giả đã bắt lỗi này trên manga-v7 (01/11).
+3. Không nhãn tính cách, không bộ ba phủ định, không câu "short / blunt" nếu cửa sổ đó được dùng làm mẫu nhịp thoại.
+4. Đọc nội dung cửa sổ (mục 8): nó dạy thể loại nào. Sai đơn đặt hàng thì đổi chương, dù bốn cột tật đã sạch.
 
-Đếm số anchor không nói được gì; phủ chức năng mới nói được. Bộ 4–5 anchor chuẩn:
+`verify_anchors.py` chỉ chứng minh nguyên văn. Sạch tật là việc của bước này.
 
-| Slot | Chức năng | Dấu hiệu phải có |
+Hai điều từ bản nhánh mặc định (01/11), chưa có trong bốn bước trên: đoạn mở chương/mở truyện có tóm tắt thiết lập dạy Writer xả bối cảnh (KN35) — chọn đoạn nằm giữa một cảnh; và không dùng cửa sổ có tên tác phẩm hay nhân vật đặc trưng của bộ mẫu.
+
+## Ma trận chức năng
+
+Năm anchor, bốn việc phải có mặt. Thiếu một việc thì Writer không có mẫu cho việc đó và quay về luật suông.
+
+| Việc | Trong cửa sổ phải thấy | Slot |
 |---|---|---|
-| 1 | Thao tác nghề / tính toán sổ sách | tay làm một việc, con số đi kèm, không có đoạn nền |
-| 2 | Nội tâm + đọc tính cách người khác | một câu người kể tự giễu hoặc phán đoán, vẫn trong giọng nhân vật |
-| 3 | Sổ sách / giải thích giá | dữ kiện nối tiếp nhau, mỗi dòng thêm một con số hoặc một hệ quả |
-| 4 | Thoại va chạm | câu hỏi thật, câu đáp mang tin, thẻ thoại đặt đúng chỗ, 0 nhãn ngữ điệu |
-| 5 (tuỳ) | Chuyển nhịp + cắt cảnh | đoạn kết bằng một hành động dứt khoát, không đúc kết |
+| Thao tác nghề / tính toán | tay chạm đạo cụ, đếm, đóng dấu, lật trang | lời kể |
+| Nội tâm nhân vật | muốn riêng, tự cãi rồi đổi ý, không bị gọi tên tính cách | lời kể |
+| Sổ sách / giá | đơn giá, lương, hạn, tổng — chuỗi câu nêu số | lời kể |
+| Thoại va chạm | lượt sau trả lời lượt trước và thêm một sự thật | khoảnh khắc |
+| Nhịp trang | một đoạn ngắn đứng cạnh một đoạn mở ra | có thể nằm trong bất kỳ anchor nào ở trên |
 
-Kiểm bằng máy, một lệnh cho cả bộ:
-
-```
-python - <<'PY'   # hoặc chép đoạn này vào tools/ nếu dùng thường xuyên
-# tách từng khối ``` của SI, chạy soat_van.scan, in 4 cột tật + số dòng
-PY
-```
-
-Bộ đang dùng cho `chung/hieu-chuan/manga` (5 anchor, chương 15/21/2/23/8) đã kiểm 01/11: **0 phủ định lặp, 0 so
-sánh người kể, 0 khuôn 实, 0 nhãn ngữ điệu** trên cả 5, và phủ đủ 4 chức năng trên.
+Mỗi việc một chương khác nhau. Anchor thứ năm không được trùng việc của bốn anchor kia chỉ để lấp ngân sách 8.000 ký tự.

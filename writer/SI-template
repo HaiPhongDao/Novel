@@ -135,9 +135,10 @@ HƯỚNG DẪN ĐIỀN
    hiệu luật tích tụ (`si-cau-truc.md` mục 10). Khi điền đủ 5 anchor, mỗi chú thích dưới anchor gói gọn trong 1 câu (~20–25 từ); thiếu chỗ thì cắt dòng PART 2 và chữ nguyên tắc trước, giữ anchor.
 
 2. Thứ tự điền. ROLE, FIXED CONVENTIONS, PART 3 trước; viết thử đoạn 001 hai bản ở hai chat với chỉ ba phần đó; điền
-   PART 1 vào đúng chỗ Writer trượt. Mục 1–3 (lời kể) luôn giữ, kể cả khi bản thử "đã đúng": lời kể là 70–85% mọi đoạn,
-   thiếu nguyên tắc cho nó thì Writer kể bằng giọng báo cáo (chuyen-chuc SI v1, `si-khung.md`). Mục 4–5 chỉ giữ khi
-   bản thử hổng đúng chỗ đó.
+   PART 1 vào đúng chỗ Writer trượt. **Không giữ mục 1–3 chỉ vì lời kể chiếm phần lớn đoạn.** Câu "thiếu nguyên tắc thì
+   Writer kể bằng giọng báo cáo" là giả thuyết từ một SI cũ (`si-khung.md`), chưa phải phép thử bỏ một dòng trên SI
+   đang chạy. Một mục PART 1 chỉ được coi là có tác dụng khi bỏ đúng mục đó — anchor giữ nguyên — làm lời kể thành
+   báo cáo ở hai lần chạy. Chưa có cặp đó thì ghi `chưa-xác-nhận`, kể cả khi bản thử trông ổn. Mục 4–5 cũng vậy.
 
 3. Anchor. 4–5 cái: 3 lời kể (mục 1–3) + tối đa 2 khoảnh khắc (mục 4–5). Mỗi anchor 3–6 đoạn liên tiếp, chép nguyên
    văn từ sample (giữ ngắt dòng, `　　`), mỗi cái một chương khác nhau; quét bằng `tools/soat_van.py` phải ra 0 tật;
