@@ -1,0 +1,30 @@
+[
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13R0.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-don.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/don-L-13R0-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-don-L-13R0-a.md",
+  "note": "ch107 brief don, L-13R0 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13R0.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-don.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/don-L-13R0-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-don-L-13R0-b.md",
+  "note": "ch107 brief don, L-13R0 (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-don.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/don-L-13-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-don-L-13-a.md",
+  "note": "ch107 brief don, L-13 (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-13.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-don.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/don-L-13-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-don-L-13-b.md",
+  "note": "ch107 brief don, L-13 (b)"
+ }
+]
