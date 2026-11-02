@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **160** · Can thiệp: **38** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **164** · Can thiệp: **40** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **9/38** (24%)
+- Can thiệp đã đo: **9/40** (22%)
 
-- Hiệu quả (≥2.0 biên độ): **4** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **2** · Bị Tác giả bác: **5** · Chưa đo: **24**
+- Hiệu quả (≥2.0 biên độ): **4** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **2** · Bị Tác giả bác: **7** · Chưa đo: **24**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -22,13 +22,13 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 31 | 21 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
-| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 22 | 6 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9× |
+| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 22 | 6 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
+| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 14 | 7 | I-0030 · SI · đề xuất · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
-| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 10 | 3 | I-0030 · SI · đề xuất · chưa đo |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
@@ -64,6 +64,8 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0019 | E-SCENE-01 | SI | Siết 'lượt thoại tự đứng' quá tay thành thoại cụt | si-khung.md · Tác giả: 'cụt, trống không' |
 | I-0020 | E-GATE-02 | TOOL | Dùng điểm số làm kết luận ĐẠT; thêm bước đọc tương tác hành vi trước khi báo cáo | KN36 · 'Càng không đạt, viết quá loạn xạ' |
 | I-0023 | E-PROSE-07 | SI | Tac gia bac huong 'lay so do nhip lam cong chot SI': bo khoi LENGTH khoi writer/SI-template (v6), khong thay bang khoi so nao. Nhip do anchor va nguyen tac viet bang loi ganh | Tac gia 01/11: 'Con so dem la vo nghia trong van hoc. No chi khien Writer kem di thoi. Neu phan SI khac viet tot, Anchor dung thi khong can den khoi Length do.' |
+| I-0039 | E-PROSE-12 | SI | Muc 2 PART 1 (luat, so, quyet dinh thanh chuoi cau) them vao SI loi. Tac gia doc 02/11: 'L2 vo dung, co khi con phan tac dung'. Giang huan 0,15 -> 0,65 (1,7 bien do, cung chieu) | manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-a/b, ch01-L-4-a/b (bang-so.md) |
+| I-0040 | E-SI-04 | SI | Muc 4 PART 1 (cu bat roi nhanh) them vao SI loi. Tac gia doc 02/11: 'L4 la cua prompt ma' — cu bat do brief quyet, khong can khoi SI | manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-a/b, ch01-L-4-a/b (bang-so.md) |
 
 ## Giải pháp đã chứng minh — được phép thành luật trong SKILL
 
