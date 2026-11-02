@@ -1,0 +1,30 @@
+[
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1E3B.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/L-1E3B-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-L-1E3B-a.md",
+  "note": "ch107 brief tron, L-1E3B (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1E3B.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/L-1E3B-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-L-1E3B-b.md",
+  "note": "ch107 brief tron, L-1E3B (b)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1E3BS.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/L-1E3BS-a.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-L-1E3BS-a.md",
+  "note": "ch107 brief tron, L-1E3BS (a)"
+ },
+ {
+  "si": "manga-osaka-1999/gemini/test-giong/lop/si-L-1E3BS.txt",
+  "prompt": "manga-osaka-1999/gemini/test-giong/lop/ch107/brief-tron.md",
+  "out": "manga-osaka-1999/gemini/test-giong/lop/ch107/L-1E3BS-b.md",
+  "think_out": "manga-osaka-1999/gemini/test-giong/lop/ch107/thinking-L-1E3BS-b.md",
+  "note": "ch107 brief tron, L-1E3BS (b)"
+ }
+]
