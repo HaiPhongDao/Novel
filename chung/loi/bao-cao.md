@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **164** · Can thiệp: **42** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **164** · Can thiệp: **43** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **9/42** (21%)
+- Can thiệp đã đo: **9/43** (21%)
 
-- Hiệu quả (≥2.0 biên độ): **4** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **4** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **26**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -26,7 +26,7 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
-| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 14 | 7 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo |
+| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 14 | 7 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
