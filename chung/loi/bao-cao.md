@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **47** · Lần quan sát: **169** · Can thiệp: **47** · Đích đã đặt: **20**
+- Kiểu lỗi: **48** · Lần quan sát: **170** · Can thiệp: **48** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **14/47** (30%)
+- Can thiệp đã đo: **15/48** (31%)
 
-- Hiệu quả (≥2.0 biên độ): **5** · Vô hiệu (<1.0 biên độ): **7** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **5** · Vô hiệu (<1.0 biên độ): **8** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -37,6 +37,7 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-GATE-01 | Máy soát bỏ sót | 4 | 2 | I-0015 · TOOL · chưa rõ · chưa đo |
 | E-CANON-02 | Xưng hô / register sai bối cảnh | 3 | 1 | I-0010 · SI · chưa rõ · chưa đo |
 | E-SCENE-04 | MC thuyết trình, văn chạy checklist | 3 | 1 | I-0017 · BRIEF · Tác giả bác · chưa đo |
+| E-BRIEF-08 | Brief cho người lạ trò chuyện ngay, không có lý do để người kia chịu nghe | 1 | 1 | — |
 | E-EDGE-04 | Nhịp câu lệch chuẩn bộ mẫu | 1 | 1 | I-0013 · SI · chưa rõ · chưa đo<br>I-0035 · SI · hiệu quả · 2.64×<br>I-0041 · SI · Tác giả bác · chưa đo |
 | E-GATE-02 | Cổng xanh nhưng văn hỏng | 1 | 1 | I-0020 · TOOL · Tác giả bác · chưa đo |
 
@@ -57,6 +58,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0044 | E-SCENE-07 | SI | 0.0 → 0.0 | 0.5 | vo-hieu |
 | I-0046 | E-PROSE-13 | SI | 0.35 → 0.0 | 0.69 | vo-hieu |
 | I-0047 | E-SI-05 | SI | 0.0 → 1.0 | 2.0 | vo-hieu |
+| I-0048 | E-SI-05 | SI | 1.0 → 0.5 | 2.0 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 | I-0038 | E-PROSE-06 | SI | 0.5 → 14.0 | 8.0 | phan-tac-dung |
 
