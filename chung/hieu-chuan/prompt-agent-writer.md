@@ -24,13 +24,13 @@ Làn này nghe file này và README hiệu chuẩn. Skill mục 1–8 dành cho 
 
 ## SI phải dùng
 
-`chung/hieu-chuan/manga/gemini/si-dan-gemini.txt` (7.972 ký tự, 5 anchor, PART 2 5 dòng).
+`chung/hieu-chuan/manga/gemini/si-dan-gemini.txt` (8.210 ký tự, 5 anchor, PART 2 5 dòng — từ 02/11 đã trả lại bó câu cấm I-0025).
 
 **KHÔNG sửa SI này trong 3 đoạn đầu.** Đóng băng là để khỏi thêm luật vào lúc nhiễu giữa hai lần chạy còn lớn hơn mức một dòng mới chứng minh được. Không phải vì từng nguyên tắc đã được xác nhận.
 
 Đọc `chung/hieu-chuan/manga/gemini/principles-trang-thai.md` trước khi tin một dòng PART 1, PART 2 hoặc BANS. Mười lăm dòng đó đều `chưa-xác-nhận`. I-0024 và I-0025 đổi cả bó, nên không quy được công cho một dòng.
 
-Chỉ một quyết định đã có người chịu: **không con số nhịp** (Tác giả 01/11, I-0023). "Nguyên tắc viết bằng lời thay cho câu cấm" chưa được chứng minh; I-0025 bỏ bó câu cấm thì giảng huấn tăng. "Anchor dạy mạnh hơn luật" cũng chưa tách được khỏi luật, vì lần chạy có số chưa bao giờ bỏ luật mà giữ anchor.
+Chỉ một quyết định đã có người chịu: **không con số nhịp** (Tác giả 01/11, I-0023). "Nguyên tắc viết bằng lời thay cho câu cấm" chưa được chứng minh; I-0025 bỏ bó câu cấm thì giảng huấn tăng, nên bó đó đã được trả lại (02/11). "Anchor dạy mạnh hơn luật" cũng chưa tách được khỏi luật, vì lần chạy có số chưa bao giờ bỏ luật mà giữ anchor.
 
 ## Viết brief cho từng đoạn
 

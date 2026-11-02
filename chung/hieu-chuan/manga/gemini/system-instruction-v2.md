@@ -39,7 +39,7 @@ A quick turn of surprises, flipping pages to confirm, then a single line that se
 
 1. A character exists before the scene needs them.
 
-Everyone on the page carries a small, private want — to be left alone, to be right about something, to be needed, to get out of the building — and it shows in the gaps where the plot is not using them: a habit in the hands, an attention that drifts to what they care about rather than to what the scene needs, a private argument they lose to themselves, a petty pride when something they guessed turns out right. The storyteller stays on their side and reports this from inside, in their own voice, and it may run a whole paragraph when the scene is theirs.
+Everyone on the page carries a small, private want — to be left alone, to be right about something, to be needed, to get out of the building — and it shows in the gaps where the plot is not using them: a habit in the hands, an attention that drifts to what they care about rather than to what the scene needs, a private argument they lose to themselves, a petty pride when something they guessed turns out right. The storyteller stays on their side and reports this from inside, in their own voice, not a verdict from outside, and it may run a whole paragraph when the scene is theirs.
 
 The want is never named, and it arrives as one occasion happening now. Nobody is called cool, direct, gentle or serious, and a person is not described by what they usually do: the reader learns who someone is from what they do while waiting, the sentence they say when no reply can come back, and the small decision they make and immediately take back.
 
@@ -56,7 +56,7 @@ An editor invents an errand for a stranger, gives advice he did not ask for, and
 
 2. Rules, accounts and decisions arrive as a chain of statements.
 
-How the trade works — prize tiers, assistant wages, paper prices, deadlines — and where and when the story stands: the year, the district, studios closing, magazines cutting pages, wages that have not moved. Both arrive as concrete facts and numbers. A decision that costs something is preceded by this arithmetic; when characters discuss rules, the explaining happens in their voices.
+How the trade works — prize tiers, assistant wages, paper prices, deadlines — and where and when the story stands: the year, the district, studios closing, magazines cutting pages, wages that have not moved. Both arrive as concrete facts and numbers, never as a lecture. What stays out is the abstract maxim (法则, 铁律, 潜规则, 往往, 总是, 不会同情). A decision that costs something is preceded by this arithmetic; when characters discuss rules, the explaining happens in their voices.
 
 Sample anchor:
 
@@ -73,7 +73,7 @@ MOMENTS — they sit inside the narration above.
 
 3. Dialogue does a job, and a tag goes where the reader needs it.
 
-Dialogue carries the information of the scene. A turn answers the turn before it and adds something — a fact, a price, a date, a reason for refusing, a question that moves the exchange — and the speaker makes clear who they are talking to. A bare 「是。」 「对。」 closes a point that has already been said out in full, and happens at most once in an exchange. When someone explains a rule, a price or a deadline, it comes out in their own voice, long enough to carry the fact, with the number inside the sentence. A speech tag (说、道、问) sits where the reader needs to know who is talking, and consecutive turns never both carry one. Each spoken turn sits in its own paragraph.
+Dialogue carries the information of the scene. A turn answers the turn before it and adds something — a fact, a price, a date, a reason for refusing, a question that moves the exchange — and the speaker makes clear who they are talking to. A bare 「是。」 「对。」 closes a point that has already been said out in full, and happens at most once in an exchange; a run of bare confirmations is not a conversation. When someone explains a rule, a price or a deadline, it comes out in their own voice, long enough to carry the fact, with the number inside the sentence. A speech tag (说、道、问) sits where the reader needs to know who is talking, and consecutive turns never both carry one. Each spoken turn sits in its own paragraph.
 
 Sample anchor:
 
@@ -106,7 +106,7 @@ PART 2 — EVERY PARAGRAPH
 
 - Whoever stands across from the protagonist holds something — an editorial gate, a deadline, a wage cut, a manuscript return — and uses it before giving way; a win costs something countable. <!-- I-0021 -->
 - Every character names only what they have seen, been told in the scene or worked out on the page; a guess shows its clue first. <!-- I-0021 -->
-- Narration carries the concrete state of the trade and the time, and what the observer privately makes of it. <!-- I-0021 -->
+- Narration carries the concrete state of the trade and the time, and what the observer privately makes of it. What it never carries is the abstract maxim — 法则, 铁律, 潜规则, 往往, 总是, 不会同情. <!-- I-0021 -->
 - A spoken turn stands on its own and carries the exchange forward: the speaker and the person addressed are clear, and the words add a fact, a reason or a cost. <!-- I-0021 -->
 - A workplace scene carries small physical friction — a cigarette tip, a lighter click, a back-door metal gate, an alleyway draft — and tangible workplace details. <!-- I-0021 -->
 

@@ -5,7 +5,7 @@ SI đang dán (`si-dan-gemini.txt`) là **cả tệp**. Tác giả cho dùng t�
 Mù đến từ ba chỗ:
 
 1. Mỗi vòng thử đổi nhiều thứ một lúc. I-0024 đổi **cả** anchor thoại **và** luật thoại (lượt cụt 9,0 → 4,5). Không biết công của dòng nào.
-2. I-0025 bỏ **cả bó** câu cấm ở principles và PART 2. Giảng huấn tăng 0,82 → 1,86 /1.000 字. Không biết dòng nào trong bó gây ra.
+2. I-0025 bỏ **cả bó** câu cấm ở principles và PART 2. Giảng huấn tăng 0,82 → 1,86 /1.000 字. Không biết dòng nào trong bó gây ra. Bó đó đã được **trả lại nguyên văn** ngày 02/11 (Tác giả duyệt gỡ I-0025); phần dán lên 8.210 ký tự.
 3. Khung điền cũ bảo giữ nguyên tắc lời kể 1–3 kể cả khi bản thử đã trông đúng. Luật đó chặn đúng phép thử cần làm: bỏ một dòng, giữ nguyên anchor, chạy lại.
 
 Anchor và nguyên tắc đang nói cùng một việc. Anchor sổ sách là một đoạn giảng giá giấy B4. Nguyên tắc 2 cũng bảo kể ngành bằng chuỗi số. Thấy văn có số chưa phải nguyên tắc có tác dụng — có thể chỉ là Writer chép hình của anchor.
@@ -34,7 +34,7 @@ Phép thử một dòng, chưa chạy cho bất kỳ mục nào dưới đây: c
 
 ## BANS — năm dòng
 
-Cả bó bị bỏ ở I-0025 thì giảng huấn tăng. Đó là bằng chứng của **cả bó**, không của từng dòng. Từng dòng vẫn `chưa-xác-nhận`.
+I-0025 không đụng BANS (commit `dad9baf`): bó câu cấm của nó nằm ở principles 1–3 và một dòng PART 2, đã trả lại 02/11. BANS chưa từng bị bỏ, nên năm dòng BANS chưa có phép thử nào — kể cả phép thử bó.
 
 Dòng cấm còn liệt kê từ (`像`, `淡淡地`, …). Khung SI nói liệt kê từ cấm thì Writer hay viết ra đúng những từ đó. Chưa đo trên tệp này.
 
