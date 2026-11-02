@@ -16,6 +16,8 @@ Nguồn: gom từ SI cũ (mục 三, 四, 五) của `lanh-chua-chip` và các l
 
 Khẩu lệnh ngắn có thể đúng chức năng. Đọc liền cuộc trao đổi để xét mạch ý; không chấm bằng hạn mức số chữ. Nếu brief chỉ cho một người ra lệnh và người khác thực hiện, cần sửa cơ hội đối đáp trong cảnh, không chỉ thêm tính từ “lưu loát” vào SI.
 
+- Nhãn thái độ bằng danh từ trừu tượng (Tác giả bắt 03/11, manga-osaka-1999): "取而代之的是资深编辑面对现实问题时的清醒与严苛", "的审视与玩味", "的讥诮与了然". Thái độ phải hiện qua mặt, tay, giọng; mẫu viết gọn "老人眼神中的和蔼，被一股犀利所取代". E-PROSE-13.
+
 ## Kết đoạn / cấu trúc
 - Câu chốt, câu đúc kết, câu "nâng tầm" cuối đoạn; hồi ứng "khéo" cuối đoạn.
 - Câu giải thích cảm xúc mà hành động đã thể hiện (解释潜台词).

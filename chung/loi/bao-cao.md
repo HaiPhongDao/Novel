@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **164** · Can thiệp: **44** · Đích đã đặt: **20**
+- Kiểu lỗi: **47** · Lần quan sát: **167** · Can thiệp: **45** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **9/44** (20%)
+- Can thiệp đã đo: **12/45** (27%)
 
-- Hiệu quả (≥2.0 biên độ): **4** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **27**
+- Hiệu quả (≥2.0 biên độ): **5** · Vô hiệu (<1.0 biên độ): **5** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -26,12 +26,13 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
-| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 14 | 7 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · chưa đo<br>I-0044 · SI · vô hiệu · chưa đo |
+| E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 14 | 7 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
+| E-PROSE-13 | Nhan thai do bang danh tu truu tuong | 5 | 3 | I-0045 · SI · hiệu quả · 11.75× |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
 | E-GATE-01 | Máy soát bỏ sót | 4 | 2 | I-0015 · TOOL · chưa rõ · chưa đo |
 | E-CANON-02 | Xưng hô / register sai bối cảnh | 3 | 1 | I-0010 · SI · chưa rõ · chưa đo |
@@ -52,6 +53,8 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0026 | E-SCENE-03 | BRIEF | 23.0 → 28.5 | 6.5 | vo-hieu |
 | I-0033 | E-PROSE-12 | SI | 0.73 → 0.67 | 1.45 | vo-hieu |
 | I-0034 | E-PROSE-12 | SI | 1.255 → 0.68 | 0.64 | vo-hieu |
+| I-0043 | E-SCENE-07 | SI | 0.0 → 0.0 | 0.5 | vo-hieu |
+| I-0044 | E-SCENE-07 | SI | 0.0 → 0.0 | 0.5 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 | I-0038 | E-PROSE-06 | SI | 0.5 → 14.0 | 8.0 | phan-tac-dung |
 
@@ -73,6 +76,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | Can thiệp | Lỗi | Tầng | Trước → Sau | Biên độ | Hiệu quả | n |
 |---|---|---|---|---|---|---|
 | I-0037 | E-PROSE-01 | SI | 0.85 → 0.0 | 0.06 | 14.17× | 2 |
+| I-0045 | E-PROSE-13 | SI | 0.29 → 0.76 | 0.04 | 11.75× | 2 |
 | I-0024 | E-SCENE-01 | SI | 9.0 → 4.5 | 0.5 | 9.0× | 2 |
 | I-0036 | E-PROSE-03 | SI | 1.06 → 0.0 | 0.36 | 2.94× | 2 |
 | I-0035 | E-EDGE-04 | SI | 47.2 → 29.75 | 6.6 | 2.64× | 2 |
