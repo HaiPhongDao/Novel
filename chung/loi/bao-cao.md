@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **46** · Lần quan sát: **149** · Can thiệp: **33** · Đích đã đặt: **20**
+- Kiểu lỗi: **46** · Lần quan sát: **157** · Can thiệp: **34** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **4/33** (12%)
+- Can thiệp đã đo: **5/34** (15%)
 
-- Hiệu quả (≥2.0 biên độ): **1** · Vô hiệu (<1.0 biên độ): **2** · Phản tác dụng: **1** · Bị Tác giả bác: **5** · Chưa đo: **24**
+- Hiệu quả (≥2.0 biên độ): **1** · Vô hiệu (<1.0 biên độ): **3** · Phản tác dụng: **1** · Bị Tác giả bác: **5** · Chưa đo: **24**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -22,11 +22,12 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 31 | 21 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
+| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 22 | 6 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9× |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
-| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 12 | 2 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04× |
+| E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 10 | 3 | I-0030 · SI · đề xuất · chưa đo |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
@@ -37,11 +38,11 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-SCENE-04 | MC thuyết trình, văn chạy checklist | 3 | 1 | I-0017 · BRIEF · Tác giả bác · chưa đo |
 | E-GATE-02 | Cổng xanh nhưng văn hỏng | 1 | 1 | I-0020 · TOOL · Tác giả bác · chưa đo |
 
-### Chưa từng có quan sát (25 kiểu)
+### Chưa từng có quan sát (24 kiểu)
 
 Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc chưa gặp, hoặc gặp mà không ghi — cả hai đều là lỗ hổng của sổ, không phải bằng chứng là đã hết lỗi.
 
-`E-BRIEF-01` Brief chứa mệnh đề nhân quả/diễn giải · `E-BRIEF-03` Brief dán raw State JSON / cả gói bàn giao · `E-BRIEF-04` Brief có câu tiếng Trung dài · `E-BRIEF-05` Brief thiếu khối nối tiếp · `E-BRIEF-06` Brief thiếu thân phận / dòng xưng hô · `E-BRIEF-07` Brief thiếu tỷ lệ thoại / lời kể · `E-CANON-01` Số liệu hoặc phép tính sai · `E-CANON-04` Bàn tay vàng vượt hợp đồng · `E-CANON-05` Tên riêng sai hoặc mượn từ anchor · `E-CANON-06` Nhân vật biết điều chưa được biết · `E-EDGE-01` Mối nối đứt giữa hai đoạn · `E-EDGE-02` Kết đoạn khép tròn · `E-EDGE-03` Độ dài lệch cửa sổ brief · `E-EDGE-04` Nhịp câu lệch chuẩn bộ mẫu · `E-EDGE-05` Đoạn mở bằng tên người quá dày · `E-PROSE-08` Giải thích thừa, câu chốt ý cuối đoạn · `E-PROSE-09` Sáo ngữ bộ mẫu và lượng từ mơ hồ · `E-PROSE-10` Từ phẩm chất của SI lọt vào văn · `E-SCENE-02` Thoại không chủ ngữ, không người nhận · `E-SCENE-03` Nhân vật chỉ nói việc · `E-SCENE-05` Điểm nhìn vượt ranh giới · `E-SCENE-06` Cảnh quyền lực leo thang sai · `E-SI-02` Anchor chứa đúng tật đang muốn chữa · `E-SI-04` Luật tích tụ, SI phình, chú ý loãng · `E-SI-05` SI thiếu nguyên tắc cho lời kể
+`E-BRIEF-01` Brief chứa mệnh đề nhân quả/diễn giải · `E-BRIEF-03` Brief dán raw State JSON / cả gói bàn giao · `E-BRIEF-04` Brief có câu tiếng Trung dài · `E-BRIEF-05` Brief thiếu khối nối tiếp · `E-BRIEF-06` Brief thiếu thân phận / dòng xưng hô · `E-BRIEF-07` Brief thiếu tỷ lệ thoại / lời kể · `E-CANON-01` Số liệu hoặc phép tính sai · `E-CANON-04` Bàn tay vàng vượt hợp đồng · `E-CANON-06` Nhân vật biết điều chưa được biết · `E-EDGE-01` Mối nối đứt giữa hai đoạn · `E-EDGE-02` Kết đoạn khép tròn · `E-EDGE-03` Độ dài lệch cửa sổ brief · `E-EDGE-04` Nhịp câu lệch chuẩn bộ mẫu · `E-EDGE-05` Đoạn mở bằng tên người quá dày · `E-PROSE-08` Giải thích thừa, câu chốt ý cuối đoạn · `E-PROSE-09` Sáo ngữ bộ mẫu và lượng từ mơ hồ · `E-PROSE-10` Từ phẩm chất của SI lọt vào văn · `E-SCENE-02` Thoại không chủ ngữ, không người nhận · `E-SCENE-03` Nhân vật chỉ nói việc · `E-SCENE-05` Điểm nhìn vượt ranh giới · `E-SCENE-06` Cảnh quyền lực leo thang sai · `E-SI-02` Anchor chứa đúng tật đang muốn chữa · `E-SI-04` Luật tích tụ, SI phình, chú ý loãng · `E-SI-05` SI thiếu nguyên tắc cho lời kể
 
 ## Giải pháp vô hiệu hoặc phản tác dụng — phải gỡ, không được nâng thành luật
 
@@ -49,6 +50,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 |---|---|---|---|---|---|
 | I-0026 | E-SCENE-03 | BRIEF | 23.0 → 28.5 | 6.5 | vo-hieu |
 | I-0033 | E-PROSE-12 | SI | 0.73 → 0.67 | 1.45 | vo-hieu |
+| I-0034 | E-PROSE-12 | SI | 1.255 → 0.68 | 0.64 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 
 ## Giải pháp đã bị Tác giả bác (không gỡ thì sẽ được thêm lại)
