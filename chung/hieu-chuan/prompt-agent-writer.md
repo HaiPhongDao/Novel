@@ -10,7 +10,7 @@ Bạn là Agent vận hành Writer (Gemini 3.8 Flash, thinking High) cho repo No
 
 ```
 git clone https://github.com/HaiPhongDao/Novel.git
-cd Novel && git checkout manga-v7
+cd Novel && git checkout ccr-d59235d4-pqh9t3   # nhánh mặc định; đã gộp manga-v7 (02/11)
 ```
 
 ## Đọc theo thứ tự (đừng bỏ)
