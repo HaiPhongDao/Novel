@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **47** · Lần quan sát: **167** · Can thiệp: **45** · Đích đã đặt: **20**
+- Kiểu lỗi: **47** · Lần quan sát: **168** · Can thiệp: **46** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **12/45** (27%)
+- Can thiệp đã đo: **13/46** (28%)
 
-- Hiệu quả (≥2.0 biên độ): **5** · Vô hiệu (<1.0 biên độ): **5** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **5** · Vô hiệu (<1.0 biên độ): **6** · Phản tác dụng: **2** · Bị Tác giả bác: **8** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -30,9 +30,9 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
+| E-PROSE-13 | Nhan thai do bang danh tu truu tuong | 7 | 4 | I-0045 · SI · hiệu quả · 11.75×<br>I-0046 · SI · vô hiệu · 0.51× |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
-| E-PROSE-13 | Nhan thai do bang danh tu truu tuong | 5 | 3 | I-0045 · SI · hiệu quả · 11.75× |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
 | E-GATE-01 | Máy soát bỏ sót | 4 | 2 | I-0015 · TOOL · chưa rõ · chưa đo |
 | E-CANON-02 | Xưng hô / register sai bối cảnh | 3 | 1 | I-0010 · SI · chưa rõ · chưa đo |
@@ -55,6 +55,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0034 | E-PROSE-12 | SI | 1.255 → 0.68 | 0.64 | vo-hieu |
 | I-0043 | E-SCENE-07 | SI | 0.0 → 0.0 | 0.5 | vo-hieu |
 | I-0044 | E-SCENE-07 | SI | 0.0 → 0.0 | 0.5 | vo-hieu |
+| I-0046 | E-PROSE-13 | SI | 0.35 → 0.0 | 0.69 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 | I-0038 | E-PROSE-06 | SI | 0.5 → 14.0 | 8.0 | phan-tac-dung |
 
