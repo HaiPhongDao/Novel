@@ -1,0 +1,62 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B2.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X02.md",
+  "note": "X02"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B3.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X03.md",
+  "note": "X03"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-A0.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X05.md",
+  "note": "X05"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B5.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X06.md",
+  "note": "X06"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B3.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X07.md",
+  "note": "X07"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B4.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X08.md",
+  "note": "X08"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X09.md",
+  "note": "X09"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B5.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X10.md",
+  "note": "X10"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-A0.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X11.md",
+  "note": "X11"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\si-B1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-1\\X12.md",
+  "note": "X12"
+ }
+]

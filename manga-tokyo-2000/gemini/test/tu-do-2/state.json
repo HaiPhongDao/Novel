@@ -1,0 +1,195 @@
+{
+ "meta": {
+  "last_chapter": 3,
+  "story": "1995年东京漫画界；人名写罗马字，地名、公司、杂志写汉字，国家写日本"
+ },
+ "scene_bridge": {
+  "time": "同日上午，窗外下着细密秋雨",
+  "where": "集英社内部员工电梯里，正往四楼编辑部上",
+  "present": "Sasagawa双手夹着装原稿的黑色防水纸夹；Hayakawa单手插兜靠在轿厢壁上",
+  "last_beat": "Hayakawa看着跳动的红色楼层数字，心里想：下周二的房租，有戏了",
+  "pending": "电梯到四楼，Sasagawa要把原稿拍到副编辑长面前"
+ },
+ "timeline": {
+  "relative_time": "Hayakawa穿越后整整三周；投稿当天",
+  "chapter_log": [
+   {
+    "chapter": 1,
+    "summary": "通宵赶稿，Hayakawa二十分钟修好跨页背景震住Shibata；清晨带原稿出门去集英社"
+   },
+   {
+    "chapter": 2,
+    "summary": "坐中央线到集英社登记带稿投稿；值班编辑Sasagawa只给十分钟，读完45页被震住"
+   },
+   {
+    "chapter": 3,
+    "summary": "Hayakawa说出Okamoto工作室；为45页辩护；问奖金到账、说出房租；Sasagawa带他上四楼见副编辑长"
+   }
+  ]
+ },
+ "already_told": [
+  "Okamoto工作室通宵赶稿的样子",
+  "前世是猝死的资深分镜师，穿越成同名同姓的二十岁穷小子",
+  "原主家当：四叠半合租房、停机PHS卡、存折21300円",
+  "Hayakawa修跨页背景震住Shibata",
+  "《消失的四十分钟》的内容和来历",
+  "邮寄投稿会被埋没，所以要当面去编辑部",
+  "坐中央线去神保町、集英社大厅登记",
+  "带稿上门叫“持込”，编辑部必须接待",
+  "《消失的四十分钟》全篇剧情（松本课长被困电梯、四个问题、实习生烧炭自杀、最后一句“从一开始就没打算让你活下来”）",
+  "Sasagawa读稿被震住",
+  "Okamoto Katsutoshi的底细（十年前棒球漫画，三流周刊垫底，酒鬼）",
+  "剧本分镜作画全是Hayakawa一人",
+  "为什么画45页（倒计时心理发酵）",
+  "邮寄投稿初审会被实习生筛掉",
+  "入选奖金100万円的分量",
+  "房租缺口8700円"
+ ],
+ "ledger": [
+  {
+   "item": "Hayakawa时薪",
+   "value": "750円",
+   "as_of": 1
+  },
+  {
+   "item": "通宵工钱",
+   "value": "8000日元（今晚的）",
+   "as_of": 1
+  },
+  {
+   "item": "存折余额",
+   "value": "21300円",
+   "as_of": 1
+  },
+  {
+   "item": "房租",
+   "value": "38000円，下周二交",
+   "as_of": 1
+  },
+  {
+   "item": "随身现金",
+   "value": "买了一罐110円咖啡后剩几枚硬币，一张中央线月票",
+   "as_of": 2
+  },
+  {
+   "item": "青年漫画大赏奖金",
+   "value": "入选（最高荣誉）100万円",
+   "as_of": 3
+  },
+  {
+   "item": "奖金到账",
+   "value": "下个月底出结果，公布后第二个月才到账",
+   "as_of": 3
+  },
+  {
+   "item": "房租缺口",
+   "value": "存折21300+通宵工钱8000=29300，差8700円",
+   "as_of": 3
+  }
+ ],
+ "deadlines": [
+  "房租38000円｜下周二｜Hayakawa（房东抠门，交不上就锁门扔东西）",
+  "青年漫画大赏结果｜下个月底｜集英社"
+ ],
+ "main_character": {
+  "name": "Hayakawa",
+  "identity": "二十岁，Okamoto工作室入职不到一个月的实习助手；穿越者",
+  "traits": [
+   "前世是商业漫画流水线上干了十几年的资深分镜师，数位屏前心梗猝死",
+   "原主美术专科学校辍学，漂到东京想当漫画家",
+   "画技：两点透视、交叉排线极稳，不用橡皮",
+   "苍白清秀，黑眼圈重，右手沾满碳素墨水"
+  ],
+  "status": [
+   "连着通宵二十多个小时",
+   "跟着Sasagawa上四楼"
+  ],
+  "knowledge": [
+   "前世网络时代的作品",
+   "新人投稿一般走邮寄，每年上千部"
+  ]
+ },
+ "knowledge_map": [
+  {
+   "secret": "Hayakawa是穿越者",
+   "knows": [
+    "Hayakawa"
+   ],
+   "not_known_to": [
+    "所有人"
+   ]
+  },
+  {
+   "secret": "Hayakawa今天来集英社投稿",
+   "knows": [
+    "Hayakawa",
+    "Sasagawa",
+    "集英社前台",
+    "会客区两个等候的新人"
+   ],
+   "not_known_to": [
+    "Okamoto",
+    "Shibata"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "name": "Okamoto Katsutoshi",
+   "role": "工作室主人，《周刊少年Action》连载漫画家",
+   "notes": "《周刊少年Action》连载《热血九人》；十年前靠棒球漫画走红，现画风老旧、读者排名垫底，酒鬼，透视靠助手",
+   "speech": "Hayakawa叫他Okamoto老师",
+   "last_seen": 1
+  },
+  {
+   "name": "Shibata",
+   "role": "Okamoto工作室首席助手",
+   "notes": "深黑眼圈，抽七星烟，修女主角脸部线稿；觉得Hayakawa今晚开窍了",
+   "speech": "叫Hayakawa为Hayakawa、你小子；Hayakawa叫他Shibata桑",
+   "last_seen": 1
+  },
+  {
+   "name": "Sasagawa Kenji",
+   "role": "《周刊Young Jump》第一编辑部编辑",
+   "notes": "二十七八岁，鸟窝头，戴眼镜，马克杯；读完原稿后想当场带去见副编辑长，申请预支连载准备金",
+   "speech": "叫Hayakawa为Hayakawa君；Hayakawa叫他Sasagawa桑",
+   "last_seen": 3
+  }
+ ],
+ "places": [
+  "Okamoto工作室（中野区，六叠，有榻榻米和二手皮沙发）",
+  "集英社大楼（千代田区神保町）",
+  "集英社一楼大厅（前台两位接待小姐，角落玻璃茶几会客区）"
+ ],
+ "objects": [
+  {
+   "name": "《消失的四十分钟》原稿",
+   "holder": "Sasagawa（黑色防水纸夹里）",
+   "notes": "45页B4原稿，短篇悬疑心理漫画，黑色防水布包着的硬纸夹，在双肩包里"
+  },
+  {
+   "name": "Sasagawa的名片",
+   "holder": "Hayakawa",
+   "notes": "《周刊Young Jump》第一编辑部 Sasagawa Kenji"
+  }
+ ],
+ "rules": {
+  "world": [
+   "1995年，泡沫破裂后的东京"
+  ],
+  "mechanics": [],
+  "hard_limits": [
+   "Hayakawa不向任何人透露穿越"
+  ]
+ },
+ "open_threads": [
+  "副编辑长看稿 [ch3]",
+  "预支连载准备金能否特批 [ch3]",
+  "房租下周二 [ch1]",
+  "Okamoto工作室还不知道他投稿 [ch3]"
+ ],
+ "conflicts": [
+  "[ch1] 梅雨 vs 十月 → 以十月秋雨为准",
+  "[ch1][ch2] 牛仔外套 vs [ch3] 旧卫衣 → 牛仔外套里穿卫衣"
+ ]
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-2\\si-moi.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\W01.md",
+  "note": "W01"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\si-mo-dau.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\W02.md",
+  "note": "W02"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-2\\si-moi.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\W03.md",
+  "note": "W03"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\si-mo-dau.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\prompt.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-3\\W04.md",
+  "note": "W04"
+ }
+]

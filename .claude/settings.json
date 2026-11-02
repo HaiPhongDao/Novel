@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./lam-game/全能游戏设计师.txt)",
+      "Read(./goblin/哥布林，从刀剑砍到枪炮-2025101901.txt)",
+      "Read(./soi-xam/斩神：代理灰太狼，概念神也是神⊙1-255.txt)",
+      "Read(./我在泡沫东京画漫画.txt)"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\si-H1.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\prompt-H1.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\V01.md",
+  "note": "V01"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\si-H2.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\prompt-H2.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\V02.md",
+  "note": "V02"
+ },
+ {
+  "si": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\si-H3.txt",
+  "prompt": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\prompt-H3.txt",
+  "out": "D:\\ClaudeCode\\Novel\\ky-kham-lanh-chua\\gemini\\test\\vong-si-4\\V03.md",
+  "note": "V03"
+ }
+]
