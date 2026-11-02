@@ -38,13 +38,17 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 
 ## Mở truyện mới
 
+Chốt SI trên một chương bộ mẫu trước (`chung/hieu-chuan/README.md`). Tác giả đọc ĐẠT rồi mới chép khung:
+
 ```bash
 cp -r _mau-truyen ten-truyen-moi
 ```
 
-Rồi làm theo hướng dẫn ở đầu `ten-truyen-moi/README.md` (điền bible, điền SI từ `writer/SI-template`, quiz) và thêm một dòng vào bảng "Các truyện" ở trên.
+Rồi làm theo hướng dẫn ở đầu `ten-truyen-moi/README.md` (điền bible, điền SI từ `writer/SI-template` v6, quiz) và thêm một dòng vào bảng "Các truyện" ở trên. Ba đoạn đầu vận hành theo `chung/hieu-chuan/prompt-agent-writer.md`.
 
 ## Một vòng đoạn
+
+Truyện đã có đoạn chốt:
 
 1. Viết `<truyện>/briefs/doan-XXX.md` theo mẫu ở AGENT.md mục 4.
 2. Mở session mới: `python tools/build_pack.py <truyện> --prompt briefs/doan-XXX.md` → dán `handoff/session-start.md` vào Writer (đoạn thứ 2 trong cùng session thì dán thẳng prompt).

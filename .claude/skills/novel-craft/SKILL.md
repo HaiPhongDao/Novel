@@ -1,7 +1,7 @@
 ---
 name: novel-craft
-description: "Làm truyện trong repo Novel: brief, chạy Writer, review, chốt, SI, mở truyện — và sổ lỗi để biết lần sửa nào có tác dụng"
-version: 3.0.0
+description: "Làm truyện trong repo Novel: hiệu chuẩn SI trước, brief, chạy Writer hai lần, đọc, sổ lỗi — và biết lần sửa nào có tác dụng"
+version: 3.1.0
 ---
 
 # Novel Craft — cách làm truyện, và cách biết mình đã sửa đúng
@@ -14,6 +14,29 @@ Ba câu định vị:
 1. **Brief quyết nội dung, SI quyết cách viết, review quyết đúng sai.** Sửa lẫn ba chỗ là mất dấu nguyên nhân.
 2. **Số đo là cổng, không phải điểm.** Bản 34/34 điểm vẫn bị Tác giả loại vì "viết quá loạn xạ" (KN36).
 3. **Không có biên độ nhiễu thì không có kết luận.** Cùng một SI đã cho ra cả 0 và 5 cặp phủ định ở hai lần chạy.
+   Hai lần chạy y hệt trên làn manga còn lệch 1.673 và 2.329 chữ.
+
+## Pipeline — làm đúng làn
+
+Hai làn. Trộn là mất dấu nguyên nhân.
+
+**Làn mở truyện** (manga-v7 và truyện mới): làm theo `chung/hieu-chuan/README.md`, vận hành theo
+`chung/hieu-chuan/prompt-agent-writer.md`.
+
+1. Tách một chương bộ mẫu, viết brief chỉ có sự việc, dựng SI từ `writer/SI-template` **v6** (không khối LENGTH,
+   không con số nhịp). Chạy Writer **hai chat mới**. Ghép `doc-cap`. **Tác giả đọc** rồi mới được gọi là ĐẠT.
+2. Chưa ĐẠT thì sửa anchor hoặc một nguyên tắc viết bằng lời (mục 6b). Không thêm số, không dựng bible.
+3. Tác giả ĐẠT rồi mới có `bible/` và `plot/outline.md`. AGENT.md mục 11 làm bible trước — bước đó bỏ qua.
+4. **Ba đoạn đầu không sửa SI đã chốt.** Nhiễu giữa hai lần chạy lớn hơn mức một dòng luật mới chứng minh được.
+5. Brief sáu khối, mẫu `chung/hieu-chuan/manga/brief-doan-001-mau.md`: tình huống · bối cảnh thời đại · đạo cụ và
+   thao tác · trạng thái riêng · ba biến khi nói · điểm dừng. Chất liệu, không nhãn tính cách.
+6. Mỗi brief hai lần chạy. Đọc bốn việc trong prompt bàn giao. Số chỉ để khoanh vùng.
+7. Ghi sổ (mục 8). Một lần sửa = một biến.
+
+**Làn truyện đã chốt đoạn** (mẫu A hoặc B): vòng mục 1. Không đè SI hiệu chuẩn lên SI truyện đã duyệt.
+
+Lệch nhau thì: làn mở truyện nghe prompt bàn giao và `hieu-chuan/README.md`; làn đã chạy nghe mục 1–8 file này.
+Đừng giao ba đoạn đầu cho agent `novel-doan`: agent đó sửa tay chính văn và không đọc skill.
 
 ## 0. Năm phút đầu phiên
 
@@ -142,8 +165,9 @@ Bẫy chi tiết (quota, capture cụt, dòng trống): `references/chay-writer.
   đoạn là bình thường; so sánh người kể và nhãn ngữ điệu mới là tật. Đích đầy đủ: `chung/loi/muc-tieu.jsonl`.
 - Đích có ba nguồn, phải ghi rõ: `mau` (bộ mẫu), `tac-gia` (Tác giả dặn — **thắng** mẫu), `noi-bo` (mốc của bản
   đã duyệt). Ba nguồn xung đột; không ghi rõ thì mỗi lần review là một lần tung đồng xu.
-- **Số đo là cổng.** Phán chất lượng bằng **đọc**: mở/giữa/kết × (ai muốn gì · cái gì đổi · câu đáng nhớ · chỗ
-  người đọc bỏ qua), đặt cạnh mẫu — `references/doc-bang-doc.md`.
+- **Số đo khoanh vùng, không chấm hay.** Phán chất lượng bằng **đọc**: mở/giữa/kết × (ai muốn gì · cái gì đổi ·
+  câu đáng nhớ · chỗ người đọc bỏ qua), đặt cạnh mẫu — `references/doc-bang-doc.md`. Làn mở truyện: mật độ là kính
+  lúp, câu ĐẠT chỉ do Tác giả (`chung/hieu-chuan/README.md`). Làn đã chạy: mật độ là cổng hồi quy, không phải điểm.
 - **Cột 0 không phải bằng chứng sạch.** `soat_van.py` bỏ sót `如…般`, `如铁`, `如鹰隼`, nhãn `平静地命令道`. Grep tay
   `如.{1,8}般|如铁|如鹰` và `(平静|冷冷|淡淡|轻声)地(说|道|命令|问|开口)` trước khi báo ĐẠT (KN30).
 - **Đo nhiễu trước khi nhận công.** Hai lần chạy y hệt lệch nhau ở độ dài và mật độ câu, gần như không lệch ở
@@ -161,10 +185,28 @@ Mỗi cổng mù một phần: `cong_doan.py` không bắt văn loạn hay nhả
 lặp, 得像…, khuôn 实, phần lớn nhãn ngữ điệu nhưng **bỏ sót** `如…般`, `平静地命令道`, câu cụt và số học;
 `soat_brief.py` bắt số học, lệch bible, chỗ dừng, tên chữ Hán nhưng **không** bắt ngân sách từ, tỷ lệ thoại, mức
 "checklist", và bỏ qua bible với brief viết thẻ trong ngoặc (20/43); `cham_doan.py` chỉ có band làn 领主.
+Không cổng nào trong bốn cổng này được phép kết luận ĐẠT — I-0020, Tác giả bác chấm bằng điểm.
+
+## 6b. Sửa bằng bỏ trước, thay sau
+
+SI đã chốt của làn manga nằm ở `chung/hieu-chuan/manga/gemini/si-dan-gemini.txt`. Trong ba đoạn đầu của truyện
+thật, file đó đóng băng. Đóng băng không xác nhận principles: mười lăm dòng PART 1 / PART 2 / BANS đều
+`chưa-xác-nhận` (`chung/hieu-chuan/manga/gemini/principles-trang-thai.md`).
+
+Khi được phép sửa, theo thứ tự:
+
+1. **Bỏ** đúng một dòng đang nghi dạy lỗi: con số nhịp, câu luật kiểu "short and snappy", anchor có tật, hoặc một
+   dòng trong bó I-0025. I-0025 bỏ cả bó câu cấm và giữ hướng dẫn "nên làm"; giảng huấn tăng 0,82 → 1,86 /1.000 字.
+   Bó đó phản tác dụng. Từng dòng trong bó vẫn chưa tách được.
+2. **Thay** một dòng PART 2 bằng đúng một dòng khác chỉ sau khi bước bỏ đã chạy hai lần và vẫn lệch. Không thêm
+   dòng thứ hai cùng ý. Dòng bị thay ghi vào `log.md` kèm mã can thiệp — cổng ở `writer/SI-template`, mục điền 6.
+3. `vo-hieu` hoặc `phan-tac-dung` thì gỡ trong phiên đó (mục 8, luật 4).
 
 ## 7. SI: nguồn → bản dựng → phép thử
 
-Khung duy nhất: `writer/SI-template` v5 (ngân sách, số anchor, PART 2, BANS — không chép lại ở đây). Đo bằng
+Khung đang điền: `writer/SI-template` **v6** (01/11, Tác giả: bỏ LENGTH và mọi con số nhịp; I-0023). Ngân sách,
+số anchor, PART 2, BANS nằm trong file đó — không chép lại ở đây. v5 là đời cũ: còn neo độ dài câu, và neo đó
+**không** được coi là số an toàn. Đo bằng
 `python tools/dung_si.py <truyen>`: `len()` phần dán, số dòng từng mục, **và phần trăm ký tự anchor chiếm** — vì
 anchor nhiều chữ cũng là cách vượt ngân sách (`manga-tokyo-2000`: 2 anchor nhưng chiếm 43% phần dán). Hiện 4 SI
 v5 nằm ở 98,5–99,7% trần: ngân sách đang bị dùng như **hạn mức để lấp**.
@@ -172,8 +214,8 @@ v5 nằm ở 98,5–99,7% trần: ngân sách đang bị dùng như **hạn mứ
 **SI là nguồn + bản dựng, không phải một file văn xuôi.**
 
 - `<truyen>/gemini/system-instruction-vN.md` là **nguồn**, có chú thích. Giữ **mọi đời** `vN`: hiện 4/5 truyện v5
-  chỉ còn `v1`, và `manga-tokyo-2000` bị viết lại (7.913 → 4.749 ký tự, mất BANS, LENGTH, PART 3 và cả neo độ dài
-  câu) mà **vẫn tên `v1`** — đời thật không có tên, README còn ghi "7.9xx ký tự, 4 anchor".
+  chỉ còn `v1`, và `manga-tokyo-2000` bị viết lại (7.913 → 4.749 ký tự, mất BANS, PART 3) mà **vẫn tên `v1`** —
+  đời thật không có tên. Mất BANS hoặc PART 2 là nợ cấu trúc. Mất LENGTH thì không phục hồi.
 - Mỗi dòng PART 2/BANS kết thúc bằng `<!-- I-xxxx -->` trỏ tới can thiệp đã sinh ra nó. Dòng không có mã là dòng
   chưa có bằng chứng — ứng viên cắt đầu tiên.
 - `<truyen>/gemini/si-dan-gemini.txt` là **bản dựng** do `dung_si.py` sinh ra; không sửa tay. Đừng đưa
@@ -197,9 +239,14 @@ nghi SI không làm việc, nhưng cảnh phải **ngoài anchor** và đổi t�
 Những điều đã biết, khỏi đo lại:
 
 - Model **chép hình thức tu từ của chính SI**; anchor chứa đúng tật thì dạy lại tật. Luật đếm được (dải phần
-  trăm, số lượt) bị đọc thành checklist — chỉ con số **độ dài câu đo từ mẫu** là an toàn.
-- Lời kể chiếm 70–85% văn bản và phải có nguyên tắc riêng, đứng trước cảnh đặc biệt; thiếu thì Writer kể bằng
-  giọng báo cáo. Chất lượng tụt qua nhiều vòng → nghi **luật tích tụ**, reset về SI lõi rồi sửa bằng **cắt**.
+  trăm, số lượt, 字/câu) bị đọc thành checklist. Số còn được phép trong SI là hạn mức một giọng bắt buộc phải
+  xuất hiện ("once a segment at most") — đó là đếm sự kiện, không phải đo văn. Nhịp do anchor gánh
+  (`references/si-anchors.md`, mục Tiệt trùng và Ma trận chức năng).
+- Lời kể chiếm 70–85% văn bản. Câu "vì thế phải có nguyên tắc riêng, thiếu thì thành giọng báo cáo" là giả thuyết
+  (`si-khung.md`), không phải phép thử bỏ một dòng. Trên SI manga, mọi principle đang `chưa-xác-nhận`:
+  `chung/hieu-chuan/manga/gemini/principles-trang-thai.md`. Chốt cả tệp SI là Tác giả cho dùng tệp, không phải từng
+  dòng đã có tác dụng, vô dụng, hay phản tác dụng. Phép thử một dòng: cùng brief, cùng anchor, bỏ đúng một khối
+  chữ, hai lần chạy. Chất lượng tụt qua nhiều vòng → nghi **luật tích tụ**, cắt một dòng rồi đo, không thêm.
 
 ## 8. Sổ lỗi — vòng học bắt buộc
 
@@ -282,6 +329,7 @@ commit riêng.
 | `brief-chi-tiet.md` · `chay-writer.md` · `git-va-ban-giao.md` | viết brief; bẫy bridge/quota/capture; push, branch, bàn giao |
 | `do-va-hoc.md` | **trước khi kết luận** một lần sửa SI/prompt có tác dụng |
 | `cham-diem-ban-thao.md` · `doc-bang-doc.md` | chấm và trình bày review |
+| `chung/hieu-chuan/README.md` · `chung/hieu-chuan/prompt-agent-writer.md` | làn mở truyện: chốt SI, rồi vận hành Writer |
 | `si-khung.md` · `si-cau-truc.md` · `si-anchors.md` · `si-test-tren-mau.md` · `si-ghi-chu.md` · `tai-dung-si.md` · `si-khong-ban-tay-vang.md` | dựng, sửa, test, tái dùng SI |
 | `giong-mc-hien-dai.md` · `register-tay-huyen.md` · `mo-truyen-va-the-loai.md` · `mo-truyen-moi.md` · `sang-van.md` | giọng MC xuyên việt; xưng hô Tây huyễn; mở truyện, 黄金三章, 爽文, 骑砍 |
 | `templates/brief-doan.md` · `templates/so-lieu-doan.md` | khung brief, sổ số liệu |

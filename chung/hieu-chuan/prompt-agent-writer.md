@@ -15,22 +15,22 @@ cd Novel && git checkout manga-v7
 
 ## Đọc theo thứ tự (đừng bỏ)
 
-1. `.claude/skills/novel-craft/SKILL.md` — bản 3.0. Kỹ mục 2 (sửa ở tầng nào), mục 6b (sửa bằng BỎ, không bằng THAY), mục 8 (sổ lỗi).
-2. `chung/hieu-chuan/README.md` — vì sao SI được chốt trên nội dung bộ mẫu.
-3. `references/si-anchors.md` — mục "Tiệt trùng anchor" và "Ma trận chức năng".
+1. `.claude/skills/novel-craft/SKILL.md` — bản 3.1. Đọc mục Pipeline trước. Rồi mục 2 (sửa ở tầng nào), mục 6b (bỏ trước, thay sau), mục 8 (sổ lỗi).
+2. `chung/hieu-chuan/README.md` — vì sao SI được chốt trên nội dung bộ mẫu, và vì sao số không được chấm ĐẠT.
+3. `.claude/skills/novel-craft/references/si-anchors.md` — mục "Tiệt trùng anchor" và "Ma trận chức năng".
 4. `chung/loi/bao-cao.md` — sổ lỗi: cái gì đã thử, cái gì vô hiệu.
+
+Làn này nghe file này và README hiệu chuẩn. Skill mục 1–8 dành cho truyện đã chốt đoạn. Đừng giao ba đoạn đầu cho agent `novel-doan`.
 
 ## SI phải dùng
 
 `chung/hieu-chuan/manga/gemini/si-dan-gemini.txt` (7.972 ký tự, 5 anchor, PART 2 5 dòng).
 
-**KHÔNG sửa SI này trong 3 đoạn đầu.** Nó được chốt sau ~10 vòng thử; mọi thay đổi bây giờ là đoán, vì nhiễu giữa hai lần chạy y hệt lớn hơn mức cải thiện.
+**KHÔNG sửa SI này trong 3 đoạn đầu.** Đóng băng là để khỏi thêm luật vào lúc nhiễu giữa hai lần chạy còn lớn hơn mức một dòng mới chứng minh được. Không phải vì từng nguyên tắc đã được xác nhận.
 
-Ba luật SI đã trả giá để có:
+Đọc `chung/hieu-chuan/manga/gemini/principles-trang-thai.md` trước khi tin một dòng PART 1, PART 2 hoặc BANS. Mười lăm dòng đó đều `chưa-xác-nhận`. I-0024 và I-0025 đổi cả bó, nên không quy được công cho một dòng.
 
-- **Không con số nhịp** (không "sentence 18–26 chars", không "median 15"). Đưa số vào thì model tối ưu cho số, và trang không mở ra.
-- **Nguyên tắc viết bằng lời**, không phải danh sách cấm. Ô dành cho cấm là BANS, đúng 5 dòng.
-- **Anchor dạy mạnh hơn luật.** 4–5 anchor phải phủ 4 việc: thao tác nghề/tính toán · nội tâm nhân vật · sổ sách/giá · thoại va chạm. Anchor có nhãn ngữ điệu hoặc bộ ba phủ định thì loại (`soat_van.py` phải ra 0 ở cả 4 cột tật).
+Chỉ một quyết định đã có người chịu: **không con số nhịp** (Tác giả 01/11, I-0023). "Nguyên tắc viết bằng lời thay cho câu cấm" chưa được chứng minh; I-0025 bỏ bó câu cấm thì giảng huấn tăng. "Anchor dạy mạnh hơn luật" cũng chưa tách được khỏi luật, vì lần chạy có số chưa bao giờ bỏ luật mà giữ anchor.
 
 ## Viết brief cho từng đoạn
 

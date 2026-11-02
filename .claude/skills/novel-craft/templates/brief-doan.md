@@ -1,6 +1,9 @@
 # Brief một đoạn — khung copy-paste (mẫu A, bản 29/10 sau kiểm toán `test-gemini-moi`)
 
-Khung này là **mẫu A** (AGENT.md mục 4). Truyện đang chạy mẫu B giữ khung mẫu B; đổi mẫu giữa truyện cần Tác
+**Làn mở truyện (manga-v7 và truyện đang hiệu chuẩn)** không dùng khung bên dưới. Dùng sáu khối ở
+`chung/hieu-chuan/prompt-agent-writer.md`, mẫu đã điền: `chung/hieu-chuan/manga/brief-doan-001-mau.md`.
+
+Khung này là **mẫu A** (AGENT.md mục 4) cho truyện đã chạy. Truyện đang chạy mẫu B giữ khung mẫu B; đổi mẫu giữa truyện cần Tác
 giả duyệt.
 
 Brief giao **tình huống**, không giao **kết quả**. Agent quyết: chuyện gì đang treo, người đối diện có gì trong

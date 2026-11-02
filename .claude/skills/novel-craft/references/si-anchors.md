@@ -1,6 +1,8 @@
 # Anchor cho SI: tìm sách mẫu, chép nguyên văn, kiểm
 
-Dùng khi SI cần 4–5 đoạn mẫu (anchor) tiếng Trung thật, đúng register (`writer/SI-template` v5: 3 lời kể + tối đa 2 khoảnh khắc). Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
+Dùng khi SI cần 4–5 đoạn mẫu (anchor) tiếng Trung thật, đúng register (`writer/SI-template` v6: 3 lời kể + tối đa 2 khoảnh khắc, không con số nhịp). Template cấm bịa và cấm dịch, nên anchor phải lấy từ sách đã đọc được nguyên văn.
+
+Hai mục agent vận hành phải đọc trước khi đổi anchor: [Tiệt trùng anchor](#tiệt-trùng-anchor) và [Ma trận chức năng](#ma-trận-chức-năng).
 
 ## 1. Chọn sách mẫu
 
@@ -94,3 +96,30 @@ tâm lý/trinh thám, trái đơn đặt hàng "tránh tiểu chúng". `soat_van
 - Né cửa sổ có tên tác phẩm thật hoặc tên nhân vật đặc trưng của bộ mẫu; nếu buộc phải dùng, cắt trước dòng có tên.
 - Một SI dựng lại cho truyện cùng làn nhưng khác đơn đặt hàng thì **đổi chương lấy anchor** (5 anchor của truyện trước
   lấy chương 1–5 thì truyện mới lấy 11, 16, 27, 93), giữ nguyên kỹ thuật của từng slot.
+
+## Tiệt trùng anchor
+
+Anchor dạy mạnh hơn luật. Dán xong mới quét là đã dạy tật vào SI.
+
+Trước khi một cửa sổ được đưa vào SI:
+
+1. `python tools/soat_van.py <cửa-sổ>` ra **0** ở cả bốn cột tật (phủ định lặp, so sánh người kể, khuôn 实, nhãn ngữ điệu). Còn hit thì đổi cửa sổ, đừng cắt tay từng câu cho sạch regex.
+2. Thoại trong cửa sổ phải có câu hỏi thật và câu đáp mang số, giá hoặc hạn. Lượt `是。` `对。` `今天。` dạy thoại cụt — Tác giả đã bắt lỗi này trên manga-v7 (01/11).
+3. Không nhãn tính cách, không bộ ba phủ định, không câu "short / blunt" nếu cửa sổ đó được dùng làm mẫu nhịp thoại.
+4. Đọc nội dung cửa sổ (mục 8): nó dạy thể loại nào. Sai đơn đặt hàng thì đổi chương, dù bốn cột tật đã sạch.
+
+`verify_anchors.py` chỉ chứng minh nguyên văn. Sạch tật là việc của bước này.
+
+## Ma trận chức năng
+
+Năm anchor, bốn việc phải có mặt. Thiếu một việc thì Writer không có mẫu cho việc đó và quay về luật suông.
+
+| Việc | Trong cửa sổ phải thấy | Slot |
+|---|---|---|
+| Thao tác nghề / tính toán | tay chạm đạo cụ, đếm, đóng dấu, lật trang | lời kể |
+| Nội tâm nhân vật | muốn riêng, tự cãi rồi đổi ý, không bị gọi tên tính cách | lời kể |
+| Sổ sách / giá | đơn giá, lương, hạn, tổng — chuỗi câu nêu số | lời kể |
+| Thoại va chạm | lượt sau trả lời lượt trước và thêm một sự thật | khoảnh khắc |
+| Nhịp trang | một đoạn ngắn đứng cạnh một đoạn mở ra | có thể nằm trong bất kỳ anchor nào ở trên |
+
+Mỗi việc một chương khác nhau. Anchor thứ năm không được trùng việc của bốn anchor kia chỉ để lấp ngân sách 8.000 ký tự.
