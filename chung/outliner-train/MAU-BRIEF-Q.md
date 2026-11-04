@@ -1,5 +1,7 @@
 # Mẫu brief Q (04/11/2026 — GIẢ THUYẾT, xem QUY-TAC.md)
 
+Khung này không chọn thể loại hộ: dựng cảnh từ hợp đồng thể loại và chỗ sướng trước (QUY-TAC Q15), rồi mới điền khung.
+
 Chép khung này; thay phần trong ngoặc. Ví dụ đã chạy: `ch22/brief-Q.md`.
 
 ```

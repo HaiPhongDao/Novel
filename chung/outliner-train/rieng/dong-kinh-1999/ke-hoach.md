@@ -1,11 +1,13 @@
 # Kế hoạch 3 cảnh — dong-kinh-1999 (Outliner chọn; mỗi phiên làm một cảnh)
 
-## Cảnh 1 — Bàn vẽ, sáng (MỘT NGƯỜI MỘT MÌNH) — làm ở phiên đầu
-- Ai muốn gì: Ren tỉnh dậy gục trên bàn vẽ, má dính giấy, đèn bàn còn sáng; sờ bàn tìm điện thoại không thấy; muốn chứng minh đây là mơ hoặc trò đùa (nhéo tay, đau thật) rồi tìm lối ra khỏi phòng. Nhịp: nửa đầu nhẹ, hơi hài.
-- Chuyện lật: cầm bút G gạch thử một nét lên mép giấy để biết mơ hay thật; bàn tay tự chạy ra nét trơn một hơi mà tay cậu (quen bảng số) chưa từng vẽ được; từ đó chậm và lạnh. Tay biết hơn đầu, như tay người lạ mượn cậu để vẽ.
-- Chỉ lộ ở cuối: cậu bỏ bút, đứng dậy đi tìm lối ra, liếc thấy tờ lịch treo tường ghi 1999; trước đó không nêu năm, thời đại, hay chữ "xuyên".
-- Người đọc mang ra: thân xác này vẽ giỏi hơn chủ hồn; có 24 trang chưa lên mực, hạn 6 giờ chiều nay; vì sao ở đây chưa có lời đáp.
-- Vật trong phòng, chỉ chừng này: bàn vẽ, đèn bàn, hộp bút, lọ mực, chồng 24 trang, tờ lịch.
+Hợp đồng độc giả (Tác giả chỉ dẫn 04/11/2026): 爽文 truyện mạng. MC giỏi, chủ động, tính toán, tự giễu; mỗi cảnh có một vấn đề có hạn, một quyết định dám, một chỗ sướng; kết bằng việc đang dở. Không văn thanh. Cảnh 2, 3 rà lại theo hợp đồng này (QUY-TAC Q15) trước khi viết brief.
+
+## Cảnh 1 — Bàn vẽ, 9 giờ sáng (MỘT NGƯỜI) — làm lại v2 sau lời chê; v1 là bản văn thanh, không đạt
+- Ai muốn gì: Ren nhận ký ức của thân xác và biết ngay mình ở 东京 năm 1999, 26 tuổi. Việc cấp bách: 24 trang phác chì phải nộp trước 6 giờ chiều (còn chín tiếng; trễ là hết suất năm nay). Cậu muốn nộp một bản thắng, không phải một bản cho có.
+- Chuyện lật: cậu lật cả 24 trang bằng mắt người làm nghề, phán ba chỗ chết (trang đầu không có lý do để lật sang trang hai; nhân vật chính không muốn gì; kết đoán được từ trang ba). Hai đường: sửa cho đỡ tệ, hoặc vẽ lại cả bản trong chín tiếng. Cậu thử bút G: tay chạy một nét trơn; thân xác có tay, cậu có đầu, ghép lại thì làm được.
+- Chỉ lộ ở cuối: cậu chọn đường khó, vẽ lại cả bản: rút trang đầu bản cũ ra, trải giấy trắng, đặt bút.
+- Người đọc mang ra: MC giỏi và dám cược; bàn tay vàng là đầu của người làm nghề cộng tay của thân xác; muốn xem bản mới ra sao.
+- Vật chỉ gọi tên: bàn vẽ, hộp bút, lọ mực, chồng 24 trang.
 
 ## Cảnh 2 — Quán cà phê trước tòa soạn, chiều cùng ngày (HAI NGƯỜI, CÓ ĐIỀU GIẤU)
 - Ai muốn gì: Noguchi muốn đọc 24 trang ngay tại bàn để quyết có đưa lên Ebina không; Ren muốn cô đừng thấy mình khác Shiraki cũ.

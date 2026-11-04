@@ -29,3 +29,6 @@ Mỗi mục ≤ 6 dòng: việc làm · kết quả (ĐÃ CHẠY / CHƯA KIỂM)
 - Hỏng: 1.377 chữ Hán xin 1.600; nhịp "hài" ghi nhãn → phẳng; danh sách vật "chỉ chừng này" bị thêm giường, dép, hành lang (Q14 mới); NT1/NT2 chép sát câu nội dung tôi viết.
 - CHƯA KIỂM: Q13 ở nội dung ý trần; cảnh 2 (hai người có điều giấu) và cảnh 3 (≥ 3 người); toàn bộ là giả thuyết, 1 cảnh. Tiền đề, tên, sự thật cố định do Outliner tự chọn, Tác giả chưa duyệt.
 - Context ~150k lúc chốt; tuần 49%. Brief tránh "Tokyo/manga" để qua grep (tiền đề có hai chữ này); chưa biết Tác giả chấp nhận cách tránh đó.
+- Tác giả chấm cảnh 1 v1 KHÔNG ĐẠT: văn thanh của tác giả nghệ thuật, không phải truyện mạng/爽文. Lỗi gốc ở Outliner: dựng cảnh quanh tâm trạng, MC bị động, tính từ cảm giác trong brief, kết bằng điều độc giả đã biết (QUY-TAC Q15, chỉ dẫn trực tiếp của Tác giả).
+- ĐÃ CHẠY canh-1 v2 (brief dựng lại theo hợp đồng 爽: vấn đề có hạn, MC phán và chọn dám, hai chỗ sướng, kết bằng hành động): giọng sang truyện mạng rõ, BB 5 ✔ / 1 ~. Còn dư ~1/4 chữ tả phòng (Q14, 2/2 lượt), khối phân tích như báo cáo (Q12), địa danh/số liệu bịa (`cham-v2.md`).
+- CHƯA KIỂM: Tác giả chưa chấm v2; bỏ tên vật khỏi brief có chặn được đoạn tả không; cảnh 2, 3 phải dựng lại theo Q15 trước khi viết brief. Toàn bộ là giả thuyết, 1 cảnh.

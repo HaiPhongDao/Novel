@@ -1,5 +1,7 @@
 # Chấm cảnh 1 — v1 (04/11/2026; 1 lần chạy; 1.377 chữ Hán, xin 1.600; 172 s)
 
+**Tác giả chấm KHÔNG ĐẠT (04/11/2026): văn thanh của tác giả nghệ thuật, không phải truyện mạng/爽文. Lỗi nằm ở kế hoạch và brief của Outliner (QUY-TAC Q15), không ở Writer. Phép chấm bên dưới (BB 8/8) đo đúng thước của tôi nhưng thước sai thể loại; đừng dùng nó làm bằng chứng cho Q6, Q13.** Bản làm lại: `cham-v2.md`.
+
 Chấm theo `thuoc.md` đã viết trước, rồi đọc tay toàn bản. **Tất cả là GIẢ THUYẾT** (1 cảnh).
 
 ## BB (8 ý) — 8 ✔ / 0 ~ / 0 ✘
