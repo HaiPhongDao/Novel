@@ -1,0 +1,8 @@
+[
+  {
+    "si": "chung/outliner-train/si-dong-bang.txt",
+    "prompt": "chung/outliner-train/rieng/dong-kinh-1999/canh-1/brief.md",
+    "out": "chung/outliner-train/rieng/dong-kinh-1999/canh-1/v1.md",
+    "think_out": "chung/outliner-train/rieng/dong-kinh-1999/canh-1/think-v1.md"
+  }
+]

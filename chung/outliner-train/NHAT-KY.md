@@ -23,3 +23,9 @@ Mỗi mục ≤ 6 dòng: việc làm · kết quả (ĐÃ CHẠY / CHƯA KIỂM)
 - ĐÃ CHẠY ch22/v3-dau (brief-dau có mục Nội tâm): tiếng lòng của cả hai ra, "bom hạt nhân đánh muỗi" ở trong đầu, dừng đúng, không lộ sớm (`ch22/cham-v3.md`). Tác giả chưa đọc v3 (chờ).
 - CHƯA KIỂM: Q13 (nội tâm cần mục riêng) — 1/4 chương; brief v3 chép sát ý gốc nên chưa biết ngưỡng rút gọn. Tên lại kanji sai chữ (黑川绿): cần Tác giả xét SI/anchor.
 - Tự trách: `dap-an.json` không có nhóm nội tâm nên chấm v2-Q là ✔ khi hình ảnh bị nói to. Từ nay mỗi dap-an thêm nhóm NT.
+
+## 04/11/2026 (phiên truyện riêng dong-kinh-1999, cảnh 1)
+- ĐÃ CHẠY `rieng/dong-kinh-1999/canh-1/v1` (tiền đề Tác giả một dòng; cảnh MỘT NGƯỜI; 1 lần): BB 8 ✔ / 0 ~ / 0 ✘; nội tâm rút gọn 3/3 chỗ ra đúng vị trí; không lộ năm sớm, dừng đúng ở "1999"; grep tên bộ mẫu rỗng. Chi tiết `canh-1/cham.md`.
+- Hỏng: 1.377 chữ Hán xin 1.600; nhịp "hài" ghi nhãn → phẳng; danh sách vật "chỉ chừng này" bị thêm giường, dép, hành lang (Q14 mới); NT1/NT2 chép sát câu nội dung tôi viết.
+- CHƯA KIỂM: Q13 ở nội dung ý trần; cảnh 2 (hai người có điều giấu) và cảnh 3 (≥ 3 người); toàn bộ là giả thuyết, 1 cảnh. Tiền đề, tên, sự thật cố định do Outliner tự chọn, Tác giả chưa duyệt.
+- Context ~150k lúc chốt; tuần 49%. Brief tránh "Tokyo/manga" để qua grep (tiền đề có hai chữ này); chưa biết Tác giả chấp nhận cách tránh đó.
