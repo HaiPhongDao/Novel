@@ -1,0 +1,9 @@
+[
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch22/brief-dau.md",
+  "out": "chung/outliner-train/ch22/v3-dau.md",
+  "think_out": "chung/outliner-train/ch22/think-v3-dau.md",
+  "note": "outliner-train ch22 v3 dau (noi tam)"
+ }
+]

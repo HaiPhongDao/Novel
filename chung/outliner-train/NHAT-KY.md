@@ -18,3 +18,8 @@ Mỗi mục ≤ 6 dòng: việc làm · kết quả (ĐÃ CHẠY / CHƯA KIỂM)
 - Giả thuyết mới (CHƯA KIỂM, 1 chương): Q11 chỗ chỉ ghi nhãn → Writer trả nhãn/đổi lý do; Q12 nội dung để thành dòng hồ sơ → chép gần nguyên văn, nén thành loạt (bài giảng thành danh sách). Q9: tên Latin là theo SI Quy tắc 2; kèm kanji làm Writer cân nhắc ≥ 10 vòng, kết quả không đổi.
 - Việc kế: ch30 (hội nghị nhiều người) hoặc ch45 (độc thoại nội tâm); viết lại brief theo Q11/Q12 (nội dung bằng câu, kèm lời đáp của người nghe, tên chỉ Latin) rồi xem có sửa được các ô ~/✘ không.
 - Chưa commit gì (thư mục + `tools/outl_*.py` vẫn untracked). Context phiên ~150k; hạn mức tuần 47%.
+
+## 04/11/2026 (ch22 đoạn đầu, theo yêu cầu Tác giả)
+- ĐÃ CHẠY ch22/v3-dau (brief-dau có mục Nội tâm): tiếng lòng của cả hai ra, "bom hạt nhân đánh muỗi" ở trong đầu, dừng đúng, không lộ sớm (`ch22/cham-v3.md`). Tác giả chưa đọc v3 (chờ).
+- CHƯA KIỂM: Q13 (nội tâm cần mục riêng) — 1/4 chương; brief v3 chép sát ý gốc nên chưa biết ngưỡng rút gọn. Tên lại kanji sai chữ (黑川绿): cần Tác giả xét SI/anchor.
+- Tự trách: `dap-an.json` không có nhóm nội tâm nên chấm v2-Q là ✔ khi hình ảnh bị nói to. Từ nay mỗi dap-an thêm nhóm NT.
