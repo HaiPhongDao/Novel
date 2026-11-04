@@ -1,0 +1,23 @@
+[
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch09/brief-C.md",
+  "out": "chung/outliner-train/ch09/v1-C.md",
+  "think_out": "chung/outliner-train/ch09/think-v1-C.md",
+  "note": "outliner-train ch09 v1 C"
+ },
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch09/brief-M.md",
+  "out": "chung/outliner-train/ch09/v1-M.md",
+  "think_out": "chung/outliner-train/ch09/think-v1-M.md",
+  "note": "outliner-train ch09 v1 M"
+ },
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch09/brief-K.md",
+  "out": "chung/outliner-train/ch09/v1-K.md",
+  "think_out": "chung/outliner-train/ch09/think-v1-K.md",
+  "note": "outliner-train ch09 v1 K"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "chuong": 54,
+  "tieu_de": "编辑部评审结果，驳回！ (kết quả chấm của biên tập bộ bị trả lại)",
+  "han_goc": 2196,
+  "dung": "B7",
+  "don_vi": [
+    {"id": "A1", "nhom": "BB", "mo_ta": "Kato nói tác phẩm này mới chỉ là 'chuẩn vào chọn' mà YM trình Bộ; Oda sốc, lật xem 《森之骨》, thất vọng (ở JP còn không vào vòng cuối)", "kw": ["准入选"], "kw2": ["森之骨", "最终候补", "候补"]},
+    {"id": "A2", "nhom": "BB", "mo_ta": "Lý do 'an toàn': không khớp đề tài, ẩn dụ tư bản nguy hiểm, giải do Cục Văn hoá tham gia, họ muốn truyện an toàn hợp đề", "kw": ["资本主义", "隐喻", "危险", "安全", "契合", "贴合"]},
+    {"id": "A3", "nhom": "BB", "mo_ta": "Oda tưởng hiểu (phải cân bằng thương mại/chính trị); Kato phủ nhận: chọn lựa quan trọng hơn nỗ lực, ở lại ban biên tập hôi thối chỉ được kết cục này", "kw": ["选择比努力", "恶臭", "垃圾"]},
+    {"id": "A4", "nhom": "BB", "mo_ta": "Kato đổi mặt, đập bàn mắng: ban biên tập chỉ lo đoán ý trên thay vì đưa truyện hay thì xong đời; Oda choáng", "kw": ["拍桌", "拍了一下桌", "揣测上意", "完蛋"]},
+    {"id": "A5", "nhom": "BB", "mo_ta": "Kato hỏi Oda hiểu 'người và thiên nhiên' mấy phần; Oda đáp: phần lớn là 'người và xã hội' (thần thối, sông bị lấp, nhà tắm)", "kw": ["人与社会"], "kw2": ["腐烂神", "琥珀主", "河流", "汤屋"]},
+    {"id": "A6", "nhom": "BB", "mo_ta": "Kato: người-xã hội và người-tự nhiên không xung đột; nhà tắm = chủ nghĩa tiêu dùng với tài nguyên thiên nhiên, mọi thứ thành hàng hoá", "kw": ["并不冲突", "不冲突", "消费主义", "商品"]},
+    {"id": "A7", "nhom": "BB", "mo_ta": "Vô Diện = bóng ma tư bản / ham muốn phình vô hạn của con người", "kw": ["无脸男"], "kw2": ["欲望", "幽灵"]},
+    {"id": "A8", "nhom": "BB", "mo_ta": "Cái tên của Chihiro = bản sắc chân thật; quên tên = đứt khỏi tự nhiên/gốc rễ; tìm lại tên = nối lại; cuộc phiêu lưu là quá trình nối lại", "kw": ["名字"], "kw2": ["断裂", "连接", "本真", "根源"]},
+    {"id": "A9", "nhom": "PH", "mo_ta": "Phản diện không bị diệt mà hoà giải/cân bằng = tuần hoàn, cộng sinh của tự nhiên quan phương Đông", "kw": ["和解", "平衡", "循环", "共存"]},
+    {"id": "A10", "nhom": "BB", "mo_ta": "Oda hỏi rốt cuộc đúng sai; Kato: không phân đúng sai, nhiều cách đọc; nếu bàn đúng sai thì chỉ người sáng tác có tư cách", "kw": ["不分对错", "对错", "多重", "有资格"]},
+    {"id": "A11", "nhom": "BB", "mo_ta": "Oda nhìn bìa: tác giả Akiyama Satoru; Kato: tác giả nộp cho giải 'người và thiên nhiên' nên mọi lời ông nói đều thành lập → lời chê 'không hợp đề' không đứng vững", "kw": ["秋山悟"], "kw2": ["站不住脚", "成立", "贴题", "奔着"]},
+    {"id": "A12", "nhom": "BB", "mo_ta": "Oda nghĩ 'trưởng thành' mới là chữ hợp nhất; tác giả có thể đã đoán trước mọi tranh cãi; ghi nhớ tên Akiyama, quyết đến Tokyo gặp", "kw": ["成长"], "kw2": ["记住", "东京", "认识"]},
+    {"id": "B1", "nhom": "BB", "mo_ta": "Quán thịt nướng cách nhà xuất bản 200 m (Văn Kinh, Tokyo); Kurokawa áo da đen, vén mái, xắn tay, tự trở thịt bằng kẹp", "kw": ["烤肉"], "kw2": ["皮夹克", "夹克", "刘海", "夹子", "袖子"]},
+    {"id": "B2", "nhom": "BB", "mo_ta": "Akiyama bước vào, cô đứng dậy chào; báo tin: kết quả chấm của biên tập bộ bị Bộ Văn hoá trả lại, điểm tên yêu cầu duyệt lại", "kw": ["打回", "驳回"], "kw2": ["重审", "重新评审", "文化部"]},
+    {"id": "B3", "nhom": "PH", "mo_ta": "Lần đầu tiên kết quả của nhà xuất bản bị Bộ trả lại, trước đó trong giới chưa từng nghe", "kw": ["头一次", "第一次", "闻所未闻", "前所未有"]},
+    {"id": "B4", "nhom": "BB", "mo_ta": "Cô mừng khó giấu, hả hê thay cậu; chạy trước chạy sau chỉ để chờ kết quả này; chờ 'một bước lên mây' cần thêm một hai tuần lên men; háo hức", "kw": ["扬眉吐气", "忙前忙后", "一飞冲天", "一两周", "发酵", "名声大噪"]},
+    {"id": "B5", "nhom": "BB", "mo_ta": "Cô nhận ra cậu mặt không cảm xúc, lạnh; lần đầu cô thấy vẻ đáng sợ đó ở cậu; cô sững", "kw": ["面无表情", "冷漠", "愣住", "第一次", "可怕"]},
+    {"id": "B6", "nhom": "BB", "mo_ta": "Cậu ngồi xuống, ngẩng mắt âm u: 'Tôi đã đi gặp ông Okada, ông ấy kể hết với tôi rồi'", "kw": ["冈田"], "kw2": ["一切都", "全都", "都跟我说"]},
+    {"id": "B7", "nhom": "BB", "mo_ta": "Câu cuối: 'Chị đã lừa tôi, đúng không?'", "kw": ["骗了我", "骗我", "欺骗", "瞒着我"]},
+    {"id": "T1", "nhom": "TX", "mo_ta": "Phản ứng của Oda: ngay cả triết gia mắng người cũng thẳng thừng", "kw": ["哲学家"], "kw2": ["心直口快", "骂"]},
+    {"id": "T2", "nhom": "TX", "mo_ta": "Kato giảng say sưa, văng nước bọt, khác hẳn giọng ru ngủ trong lớp", "kw": ["唾沫", "越说越激动", "催眠"]}
+  ]
+}

@@ -1,0 +1,9 @@
+[
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch54/brief-Q.md",
+  "out": "chung/outliner-train/ch54/v1-Q.md",
+  "think_out": "chung/outliner-train/ch54/think-v1-Q.md",
+  "note": "outliner-train ch54 v1 Q"
+ }
+]

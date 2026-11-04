@@ -1,0 +1,19 @@
+{
+  "chuong": 9,
+  "tieu_de": "编辑请吃饭 (bữa tối biên tập mời)",
+  "han_goc": 1738,
+  "dung": "U8",
+  "don_vi": [
+    {"id": "U1", "nhom": "BB", "mo_ta": "Kurokawa mời Akiyama ăn ở quán yakitori gần Kodansha; lần đầu cậu được biên tập mời với tư cách hoạ sĩ, vui vì khỏi trả tiền", "kw": ["烧鸟", "串烧", "居酒屋", "烤鸡"]},
+    {"id": "U2", "nhom": "BB", "mo_ta": "Ngoài đời Kurokawa ăn mặc khác hẳn toà soạn (áo da, boots, trang điểm khói, tóc mái); Akiyama không nhận ra", "kw": ["皮衣", "皮夹克", "烟熏", "长筒靴", "没认出", "认不出", "判若两人", "刘海"]},
+    {"id": "U3", "nhom": "BB", "mo_ta": "Dáng vẻ ở công ty là mặt nạ để hoà nhập công sở; cậu khó coi hai hình ảnh là một người", "kw": ["面具", "融入职场", "伪装"]},
+    {"id": "U4", "nhom": "PH", "mo_ta": "Quản lý quán quen cô (gọi Kurokawa老师, hỏi lại mời hoạ sĩ), khen cậu trẻ; xin phòng riêng tatami", "kw": ["榻榻米", "包间", "包厢", "黑川老师"]},
+    {"id": "U5", "nhom": "BB", "mo_ta": "Cậu tự gọi món (có tim gà/hỏi nội tạng) và nhận uống bia, chưa uống từ khi xuyên việt", "kw": ["生啤", "啤酒", "内脏", "鸡心", "鸡皮"]},
+    {"id": "U6", "nhom": "BB", "mo_ta": "Cô hỏi về xưởng Uesugi và cậu học vẽ kinh dị ở đâu; cậu lảng tránh vì không nói được nguồn", "kw": ["上杉"], "kw2": ["惊悚", "恐怖", "哪里学", "从哪"]},
+    {"id": "U7", "nhom": "BB", "mo_ta": "Ăn gần no, cậu nêu việc chính: hội nghị thẩm tra biên tập tuần sau, cô nắm mấy phần", "kw": ["评审会议", "编辑部评审", "几成", "把握"]},
+    {"id": "U8", "nhom": "BB", "mo_ta": "Cô tuyên bố dùng quyền đề cử nội bộ cho 《未麻的部屋》 bỏ qua hội nghị biên tập, vào thẳng ban chung khảo (cược lớn)", "kw": ["内推", "跳过", "越过", "绕过", "直达", "直接送"], "kw2": ["最终评审", "评委会", "终审"]},
+    {"id": "F1", "nhom": "TX", "mo_ta": "Cô nói cay về thời cuộc ('đáng lẽ khủng hoảng chết thêm nhiều người') rồi chữa 'đùa'", "kw": ["再死", "死多点", "开玩笑"]},
+    {"id": "F2", "nhom": "TX", "mo_ta": "Đàn ông xung quanh bị khí thế của cô dập ý bắt chuyện", "kw": ["搭讪"]},
+    {"id": "F3", "nhom": "TX", "mo_ta": "Cậu ăn thoả mãn, quen cơm hộp giảm giá cửa hàng tiện lợi", "kw": ["便利店", "打折便当"]}
+  ]
+}

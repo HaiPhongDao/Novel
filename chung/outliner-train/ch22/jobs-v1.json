@@ -1,0 +1,16 @@
+[
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch22/brief-P.md",
+  "out": "chung/outliner-train/ch22/v1-P.md",
+  "think_out": "chung/outliner-train/ch22/think-v1-P.md",
+  "note": "outliner-train ch22 v1 P"
+ },
+ {
+  "si": "chung/outliner-train/si-dong-bang.txt",
+  "prompt": "chung/outliner-train/ch22/brief-K.md",
+  "out": "chung/outliner-train/ch22/v1-K.md",
+  "think_out": "chung/outliner-train/ch22/think-v1-K.md",
+  "note": "outliner-train ch22 v1 K"
+ }
+]

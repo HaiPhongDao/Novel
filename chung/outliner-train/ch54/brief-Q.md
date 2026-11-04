@@ -1,0 +1,23 @@
+Viết một đoạn truyện khoảng 2.000 字, bằng tiếng Trung. Hai cảnh nối nhau, ngăn bằng một dấu ngắt cảnh (...).
+
+Đường chính. Cảnh 1, Kumamoto, một giảng đường đại học đã vắng người sau buổi giảng; chỉ có giáo sư Kato Naotake và Oda Eiichiro. Đoạn mở ngay sau khi Oda khen tác phẩm giáo sư đưa; ông cười như đã đoán trước và nói: bản này mới chỉ là "准入选" mà tạp chí YM trình lên Bộ Văn hoá. Oda sốc, lật sang tác phẩm được chọn 《森之骨》, thất vọng, hỏi vì sao. Đoạn lật khi giáo sư đưa lý do "an toàn" rồi Oda tưởng đã hiểu ra; ông gạt đi, đổi mặt, đập bàn mắng ban biên tập; sau đó cuộc nói chuyện rẽ sang một lớp nghĩa nằm dưới mà Oda chưa nhìn ra, ông càng nói càng hăng, Oda choáng rồi vỡ ra. Cảnh 1 khép khi ông nói không có đúng sai, nếu phải nói thì chỉ người sáng tác có tư cách, mà tác giả đã nộp bài đúng cho giải này nên lời chê "lạc đề" không đứng được; Oda nhìn tên tác giả trên bìa, Akiyama Satoru, thầm ghi nhớ, quyết lên Tokyo sẽ tìm gặp.
+Cảnh 2, cùng lúc ở Tokyo, một quán thịt nướng cách toà nhà chính của nhà xuất bản khoảng 200 m. Mở: Kurokawa Midori tự trở thịt trên vỉ, thấy Akiyama Satoru bước vào thì đứng dậy chào. Lật: cô báo tin vui, kết quả chấm giải của ban biên tập vừa bị Bộ Văn hoá trả lại, yêu cầu duyệt lại, lần đầu tiên trong giới; cô khó giấu nụ cười, hả hê thay cậu, háo hức chờ ngày cậu nổi (cần thêm một hai tuần); cô nói dồn một mạch cho tới khi nhận ra mặt cậu không có biểu cảm, lạnh, lần đầu cô thấy cậu như thế, và cô khựng lại. Khép: cậu ngồi xuống, ngẩng đôi mắt âm u lên, nói đã đi gặp ông Okada và ông ấy kể hết rồi, rồi hỏi cô có phải đã lừa cậu.
+Vì sao kết quả bị trả lại, ai ra tay, ông Okada đã kể gì, cô đã giấu điều gì, thủ tục duyệt của Bộ, nội dung 《森之骨》 và cốt truyện 《千与千寻》 thuộc các đoạn khác: đoạn này chỉ gọi tên.
+
+Chỉ lộ ở câu cuối: việc Akiyama đã biết cô giấu cậu một chuyện, và biết qua ông Okada. Trước đó cả lời kể lẫn lời thoại chưa nói ra và chưa ám chỉ: cô vui trọn vẹn, cậu chỉ hiện ra lạnh, không có chữ nào nói vì sao. Chuyện cô giấu là gì cũng không nêu, kể cả ở câu cuối.
+
+Nhịp cảnh. Cảnh 1: mở bình thường, bẻ gắt đột ngột ở giữa (cú đổi mặt của ông là chỗ hài, Oda choáng), rồi say sưa; Oda đi từ thất vọng sang choáng, mở mang, ngưỡng mộ. Cảnh 2: sáng, ấm, cô nói dồn; rồi lặng. Nặng nhất ở câu cuối.
+
+Tiền tình (giữ cho đúng, không kể lại): YM trình Bộ Văn hoá 《森之骨》 là tác phẩm "入选", 《千与千寻》 là "准入选" (chỉ nhắc trong một câu, không kể số tác phẩm hay cách chọn). Giải manga "人与自然" do Cục Văn hoá cùng lập kế hoạch; kết quả chấm của từng tạp chí phải được Bộ duyệt mới công bố (chỉ nhắc trong một câu, không tả thủ tục). Kato là triết gia môi trường, cố vấn chính của Bộ cho giải này; Oda biết điều đó. Oda vừa đọc xong 《千与千寻》 trước mặt giáo sư và đã nói nó đáng là số một. 《千与千寻》 là truyện của Akiyama nộp cho giải này qua Kurokawa.
+
+Hồ sơ dùng được (chọn dùng khi cảnh cần; không bắt buộc đủ, không theo thứ tự này):
+- Kato: khi Oda kết luận "người sáng tác còn phải tính cân bằng thương mại, chính trị", ông đáp: ý tôi là chọn đúng chỗ quan trọng hơn cố gắng, ở lại một ban biên tập hôi thối thì chỉ nhận kết cục này, rồi nụ cười hiền biến mất, ông đập bàn quát. Khi giảng lớp nghĩa dưới, ông lấy ba thứ trong truyện: nhà tắm là chủ nghĩa tiêu dùng với tài nguyên thiên nhiên, nơi mọi thứ thành hàng hoá; Vô Diện là bóng ma tư bản và cũng là ham muốn phình vô hạn của con người; cái tên của Chihiro là bản sắc chân thật, quên tên là đứt khỏi tự nhiên và gốc rễ, tìm lại tên là nối lại (mỗi thứ một hai câu thoại, không thêm lý thuyết khác). Giọng giảng lúc ấy khác hẳn giọng ru ngủ trong lớp, nước bọt văng.
+- Oda: khi bị mắng bất ngờ, cậu nghĩ ngay cả triết gia mắng người cũng thẳng thừng. Khi nghe lớp nghĩa dưới, cậu thấy xem thêm mười lần cũng chưa chắc ngộ ra. Khi nghĩ lại về tác phẩm, chữ đơn giản nhất cậu thấy hợp là "trưởng thành".
+- Kurokawa: khi vui đến mức khó giấu, cô nói liền một mạch, chỉ khựng khi nhận ra người đối diện không đáp.
+- Akiyama: lúc này không nói gì thêm ngoài hai câu cuối.
+
+Dừng ngay sau câu hỏi cuối của Akiyama.
+
+Người có mặt: Cảnh 1: Kato Naotake (加藤尚武), giáo sư triết học, tóc bạc, dáng hiền; Oda Eiichiro (尾田荣一郎), 19 tuổi, sinh viên năm nhất, hoạ sĩ manga trẻ, trước giờ chỉ đọc Jump. Cảnh 2: Kurokawa Midori, biên tập viên phụ trách Akiyama, hơn ba mươi tuổi; Akiyama Satoru, 23 tuổi, hoạ sĩ.
+Xưng hô: Kato gọi Oda là 尾田君, tự xưng 我; Oda gọi Kato là 教授, tự xưng 我. Kurokawa gọi Akiyama là 秋山君 hoặc 秋山桑, tự xưng 我; Akiyama gọi Kurokawa là 黑川小姐, riêng ở câu cuối cậu bỏ kính xưng, nói thẳng 你.
+Sổ đầu đoạn: Oda 19 tuổi; Akiyama 23 tuổi; 《千与千寻》; 《森之骨》; "入选", "准入选"; giải "人与自然"; 文化部, 文化厅; 《YM》; 《JP》 (Jump); 汤屋, 无脸男; 编辑部; 冈田先生 (Okada).
