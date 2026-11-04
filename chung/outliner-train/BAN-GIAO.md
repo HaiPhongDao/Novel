@@ -24,4 +24,4 @@
 - Brief Novel không giao agent con viết (memory `novel-brief-khong-giao-agent-con`); agent con chỉ để đọc/khoanh.
 
 ## 3. Mở phiên mới
-Dán `PROMPT-PHIEN-MOI.md` (nguyên văn). Mỗi phiên một chương; xong thì cập nhật mục 0 và 1 ở trên rồi mở phiên mới.
+Dán `PROMPT-PHIEN-MOI.md` (nguyên văn; chương bộ mẫu) hoặc `PROMPT-PHIEN-RIENG.md` (truyện riêng, không chương gốc, điền tiền đề). Mỗi phiên một chương; xong thì cập nhật mục 0 và 1 ở trên rồi mở phiên mới.
