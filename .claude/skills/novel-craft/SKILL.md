@@ -25,6 +25,9 @@ Hai làn. Trộn là mất dấu nguyên nhân.
 
 1. Tách một chương bộ mẫu, viết brief chỉ có sự việc, dựng SI từ `writer/SI-template` **v6** (không khối LENGTH,
    không con số nhịp). Chạy Writer **hai chat mới**. Ghép `doc-cap`. **Tác giả đọc** rồi mới được gọi là ĐẠT.
+   Khung Tác giả đã thấy "ổn" (03/11): bản gọn FIXED + mục 1 (nhân vật) + mục 3 (thoại) + BANS + PART 3, **không
+   ROLE** (`chung/outliner-train/si-dong-bang.txt`). Tác giả bác mục 2, mục 4 và khối NARRATION (I-0039, I-0040,
+   I-0041). Bộ mẫu khác thì đổi anchor và FIXED 2, giữ chữ các mục; truyện có bàn tay vàng thêm PART 4.
 2. Chưa ĐẠT thì sửa anchor hoặc một nguyên tắc viết bằng lời (mục 6b). Không thêm số, không dựng bible.
 3. Tác giả ĐẠT rồi mới có `bible/` và `plot/outline.md`. AGENT.md mục 11 làm bible trước — bước đó bỏ qua.
 4. **Ba đoạn đầu không sửa SI đã chốt.** Nhiễu giữa hai lần chạy lớn hơn mức một dòng luật mới chứng minh được.
@@ -46,6 +49,10 @@ Lệch nhau thì: làn mở truyện nghe prompt bàn giao và `hieu-chuan/READM
 - Đọc theo thứ tự: `AGENT.md` → `chung/kinh-nghiem.md` → `python tools/so_loi.py bao-cao` → `<truyen>/README.md`
   → `log.md` → `handoff/state.md` → review gần nhất. Tác giả hay sửa thẳng trên GitHub web: không thấy file họ
   nói thì fetch rồi tìm trên remote trước khi kết luận.
+- **Tiết kiệm token** (Tác giả 05/11: "Bạn phải dùng Graphify để tiết kiệm token"). Hỏi luật, quy trình, sổ lỗi
+  trong `chung/` thì chạy `graphify query "<câu hẹp>" --budget 800–1500` ở gốc repo trước, rồi chỉ đọc đúng đoạn
+  graph trỏ tới. Graph chỉ phủ `chung/` (dựng 04/11); file đổi sau đó: `/graphify chung --update`. File dài ngoài
+  graph: Grep lấy số dòng rồi Read `offset/limit`, không đọc nguyên file. Thinking của Writer: grep, không đọc hết.
 
 ## 1. Vòng một đoạn
 
@@ -97,6 +104,10 @@ minh được bằng số. Hai điều cấm:
 
 Hai hình dạng cùng tồn tại, ghi hình đang dùng ở `<truyen>/README.md`; đổi giữa chuyện phải có Tác giả đồng ý +
 `log.md`. Truyện mới: hỏi Tác giả.
+
+**Dựng cảnh quanh hợp đồng thể loại, không quanh tâm trạng** (Tác giả 04/11, `chung/outliner-train/QUY-TAC.md`
+Q15). Brief lấy "hoang mang → lạnh dần" làm xương sống thì ra văn thanh, không ra truyện mạng. Trước khi điền
+khung: vấn đề có hạn → MC phán và chọn dám → chỗ sướng → dừng ở việc đang dở; brief không chứa tính từ cảm giác.
 
 - **A — ngắn**: vài câu phương hướng + số liệu + chỗ dừng. Mặc định cho làn manga, `lam-game`, `vong-du`.
 - **B — đầy đủ**: thiết lập / tiền tình / điểm bắt buộc / tự do sáng tạo. Nhánh `de-quoc-1`, `lanh-chua-chip`.
