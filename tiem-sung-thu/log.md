@@ -8,3 +8,8 @@
   - Bản a: 2.447 字 (125s), cổng máy XANH, điểm văn 34/34 tuyệt đối, 0 rò anchor, 0 từ BANS, nhịp điệu tự nhiên, chiều sâu tâm lý và quyết định tương lai mạch lạc.
   - Bản b: 3.052 字 (103s), cổng máy XANH.
   - Review chi tiết tại `reviews/doan-001.md`.
+- **2026-11-05 (Tiếp tục):** Tác giả lưu ý: "writer đang viết đoạn cuối kiểu hơi kết".
+  - Nhận diện lỗi: Writer có thói quen kết hạ màn điện ảnh (kéo còi tàu, chim bay, độc thoại vĩ mô, dấn thân vào biển người để bắt đầu...).
+  - Xử lý: Gọt sạch đoạn kết điện ảnh/tổng kết triết lý trong `doan-001-a.md`, chuyển thành "dừng giữa mạch" (Lâm Dịch đạp xe lao dốc, tiếng quát của con buôn chợ cá đập vào mặt, bóp thắng gấp in vệt bùn ngay trước thùng gỗ bốc mùi tanh nồng từ bùn đáy rạn san hô). Điểm máy 88/100, 2.384 字, điểm văn 34/34 tuyệt đối.
+  - Bổ sung quy tắc chống kết hạ màn vào `bible/style-guide.md`.
+  - Chính thức chốt Đoạn 001.

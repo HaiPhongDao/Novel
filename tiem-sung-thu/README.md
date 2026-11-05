@@ -7,3 +7,10 @@
 - **Bộ mẫu kỹ thuật:** 《神宠供应商》 (ch1–140).
 - **SI đang dùng:** `gemini/system-instruction-v3.md` (SI Argon Gemini 7.630 ký tự, `si-dan-gemini.txt`).
 - **Khung brief:** Mẫu A sáu khối (`briefs/doan-001.md` và `briefs/doan-001-zh.md`).
+
+## Tiến độ các đoạn
+
+| Đoạn | Brief | Chạy máy | Bản chọn | Trạng thái |
+|---|---|---|---|---|
+| 001 | `briefs/doan-001.md` | `aistudio_run.py` (Flash, thinking High) | `chapters/doan-001-a.md` (2.384 字, điểm văn 34/34) | ✅ ĐÃ CHỐT |
+| 002 | `briefs/doan-002.md` | — | — | ⏳ Đang chuẩn bị brief |

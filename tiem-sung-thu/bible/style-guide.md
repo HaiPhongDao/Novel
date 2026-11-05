@@ -12,3 +12,7 @@
   【个体天赋】：…
   Sau đó là nhận định dứt khoát của MC ("靠，极品！").
 - **Cấm:** Cấm bi kịch hoá, cấm viết văn nghệ tả cảnh u ám sầu thảm, cấm triết lý suông xa vời đời sống.
+- **Quy tắc ngắt đoạn (Dừng giữa mạch — Chống kết kiểu hạ màn / hơi kết):**
+  - Cấm kết đoạn bằng độc thoại tổng kết tương lai/đạo lý kiểu vĩ mô (vd: `只要能从垃圾堆里刨出...连个门槛都算不上`).
+  - Cấm lia máy quay ra phong cảnh xa xăm (còi tàu hú, chim bay, hoàng hôn, sương mù tan) hoặc câu kết dạng `一头扎进了人流里开启...`.
+  - Phải dừng bằng một động tác vật lý đang diễn ra hoặc một va chạm tức thời chưa ngã ngũ (thắng gấp xe trước sọt hàng tanh tưởi, tay chạm vào lớp vỏ bùn, nghe tiếng thét giá, con số dị thường vừa lóe lên).

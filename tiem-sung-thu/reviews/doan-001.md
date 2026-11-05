@@ -28,7 +28,8 @@ Brief `briefs/doan-001.md` (chuẩn 6 khối, mở đầu tự nhiên, không v�
    - Quẹt thẻ còn 1.350 联盟币 (bát mì cá đã 15–20 tệ).
    - Nhìn sang toà nhà rực rỡ của 凯旋宠业: Thấy quảng cáo ấu thú 30.000 联盟币 + hợp đồng thức ăn độc quyền bóc lột. Lâm Dịch tự nhủ: Kiếp trước làm việc kiệt sức cho tư bản chưa đủ sao mà kiếp này đi làm nô lệ?
    - Tính toán mạch lạc: Với 1.350 tệ, đường sống duy nhất là tận dụng mắt dữ liệu + kiến thức di truyền đi ra chợ cảng cá 七星港 lùng sục trong đống "phế phẩm" (残次品) để tìm hạt giống thần sủng.
-5. **Điểm dừng đẹp:**
-   - 7:30 sáng, còi tàu viễn dương xé toạc màn sương; Lâm Dịch khoá cửa xưởng, dắt chiếc xe đạp cũ đạp xuống dốc, hòa vào dòng người và mùi cá tanh nồng của bến cảng.
+5. **Khắc phục lỗi 'hơi kết' (Dừng giữa mạch thay vì hạ màn điện ảnh):**
+   - Bản nháp ban đầu của Writer có xu hướng kết thúc kiểu hạ màn: kéo còi tàu, chim bay, độc thoại vĩ mô (`只要能从垃圾堆里刨出...连个门槛都算不上`), rồi dắt xe hòa vào biển người (`一头扎进了码头早市...`).
+   - Đã gọt sạch đoạn kết điện ảnh/tổng kết triết lý: Thay bằng hành động vật lý dở dang — đạp xe lao dốc, tiếng rao hàng của tiểu thương ném thẳng vào tai (`刚拉上来的深海暗礁泥底货！...半小时后全当杂鱼料绞了——！！`), Lâm Dịch bóp thắng gấp in vệt bùn trên đá, xe dừng khựng ngay trước chiếc thùng gỗ bốc mùi tanh nồng. Mạch truyện mở toang sang Đoạn 002.
 
-**Kết luận:** Bản a hoàn hảo về nhịp điệu, không gian tâm lý, độ dài và văn phong. Sẵn sàng chốt làm Đoạn 001 chính thức!
+**Kết luận:** Bản a sau khi gọt đuôi đạt 2.384 字, điểm văn 34/34 tuyệt đối, mở đầu chắc nịch, dừng giữa mạch chuẩn webnovel. Chốt làm Đoạn 001 chính thức!
