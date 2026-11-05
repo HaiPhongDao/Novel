@@ -8,11 +8,12 @@
 - **Thể loại bộ mẫu:** 御兽 + 繁育, thế giới biển sau mạt thế mưa lớn. MC xuyên việt, kiếp trước là thợ lai tạo thú
   cưng, có 「数据之眼」 nhìn ra thiên phú ẩn của biến dị thú; giọng nhanh, MC tự giễu, chuỗi giá/cấp tiến hoá, bảng
   【种族】… in khi nhìn một con thú.
-- **SI đang dùng:** `gemini/system-instruction-v1.md` (5.468 ký tự `len()`) → bản dán `gemini/si-dan-gemini.txt`, dựng bằng
-  `python tools/dung_si.py sung-thu --version 1` (luôn ghi `--version 1`: không có cờ thì script lấy v2). v2 (= v1 bỏ
-  BANS, 5.025) giữ làm lưu trữ — I-0049 vô hiệu, đã gỡ 05/11.
-  Khung gọn L-13R0B của làn manga (FIXED + mục 1 + mục 3 + BANS 4 dòng + PART 3, không ROLE) + PART 4 bàn tay vàng.
-  3 anchor nguyên văn: ch14 (mục 1), ch35 (mục 3), ch11 (PART 4) — `verify_anchors.py` 3/3, `soat_van.py` 0 tật.
+- **SI đang dùng (05/11):** `gemini/system-instruction-v3.md` = **nguyên văn SI của Argon Gemini** (7.630 ký tự) →
+  bản dán `gemini/si-dan-gemini.txt` (`python tools/dung_si.py sung-thu`). Tác giả đọc bản X ch3: "Đó, bản X…";
+  "Cập nhật repo đi". Chưa ĐẠT chính thức: ch5/ch8 chờ đọc. Đo: I-0059 hiệu quả, I-0060 chưa rõ, I-0061 brief Argon
+  một mình vô hiệu. Lỗi còn mở: dài +50–90%; rò anchor (奶牛 · 虎鲸 · 珍珠 ở ch5, 怪鳞鱼 ở ch8); mức giọng gần cố định.
+  Đời cũ giữ làm lưu trữ: v1 (khung gọn manga, 5.468) và v2 (v1 bỏ BANS) — cả năm lượt v1–v5 đều ra giọng người
+  ngoài (I-0049…I-0058). Vì sao: `gemini/test-giong/v4/phan-tich-si-v1.md` và `chung/kinh-nghiem.md` KN38.
 - **Bài thử:** chương 3 「神宠供应商」 (2.822 字, ba tiệm bán 中位种). Đáp án + brief:
   `chung/hieu-chuan/than-sung/ch03/`. Bảng biên độ 30 chương của bộ mẫu: `chung/hieu-chuan/than-sung/bang-mau.json`.
 - **Khung brief cho truyện thật:** chưa chọn (mẫu A hay B) — hỏi Tác giả sau khi SI ĐẠT. Ba đoạn đầu chạy theo
