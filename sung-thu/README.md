@@ -27,6 +27,9 @@
 | v3 A | v1 · **thinking Low** | `ch03/brief.md` | `gemini/test-giong/v3/A-a.md` (3.322 字), `A-b.md` (3.834 字) | **`gemini/test-giong/v3/doc-v3-ch03.md`** (bảng v1 · v2 · A · B · C) · `v3/gemini-doc-A.md` (44/44) | chờ đọc |
 | v3 B | v1 · High | `v3/brief-B.md` = brief + **thẻ giọng** | `v3/B-a.md` (2.579 字), `B-b.md` (3.328 字) | `doc-v3-ch03.md` · `v3/gemini-doc-B.md` (54/54) | chờ đọc |
 | v3 C | `v3/si-C.txt` = v1, **anchor mục 1 → ch16** (5.642) | `ch03/brief.md` | `v3/C-a.md` (3.280 字), `C-b.md` (3.498 字) | `doc-v3-ch03.md` · `v3/gemini-doc-C.md` (52/52) | chờ đọc |
+| v4 E | `v4/si-E.txt` = v1 + **ví dụ brief → văn ch2** (10.612) | `ch03/brief.md` | `v4/E-a.md` (3.104 字), `E-b.md` (3.537 字) | **`gemini/test-giong/v4/doc-v4-ch03.md`** (bảng v1 · E · N · EN) · `v4/gemini-doc-E.md` (54/54) | **bác** ("Đều không đạt") |
+| v4 N | `v4/si-N.txt` = v1 **sửa người kể** (6.168) | `ch03/brief.md` | `v4/N-a.md` (3.239 字), `N-b.md` (3.564 字) | `doc-v4-ch03.md` · `v4/gemini-doc-N.md` (44/44) | **bác** |
+| v4 EN | `v4/si-EN.txt` = ví dụ + sửa người kể (11.312) | `ch03/brief.md` | `v4/EN-a.md` (3.645 字), `EN-b.md` (3.642 字) | `doc-v4-ch03.md` · `v4/gemini-doc-EN.md` (49/49) | **bác** |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
@@ -43,6 +46,12 @@ Agent đọc v3 (ba biến so với v1, mỗi biến hai chat): **không biến 
 B ≥ A > C: thẻ chỉ chuyển được từ khoá (靠 ở cả hai câu cuối), anchor ch16 làm đoạn dài ra (C-a 91 字/đoạn). Chỗ
 duy nhất có giọng là chỗ brief ghi "một câu trong đầu" / "tự hỏi" → đề xuất biến kế ở tầng BRIEF: ghi các khoảnh
 khắc của MC thành "một câu trong đầu cậu" thay vì "cậu tính ra" (chi tiết trong `v3/doc-v3-ch03.md`).
+
+Agent đọc v4 (ba bản SI sửa người kể, mỗi bản hai chat; Tác giả bác cả ba): **0 câu ngôi một (我) trong lời kể** ở cả
+sáu bản; tiếng lòng MC chỉ ra ở câu cuối (N-b, EN-a/b: 合着…) và từ 颜控; ！+？ lời kể TB E 0 · N 0,44 · EN 0,41 (gốc
+5,31) — I-0053 0,5×, I-0054 0,72×, I-0055 0,64×, đều `vo-hieu`. Ví dụ ch2 trong SI bị bỏ qua (0 chữ rò, 0 giọng); E
+giữ BANS nên thinking soát phủ định/so sánh 69/60 lần, N/EN bớt còn 18/26 · 6/2. Xếp EN ≥ N > E. SI dán vẫn v1; sửa
+chuyển sang tầng prompt ở v5 (chi tiết trong `v4/doc-v4-ch03.md`).
 
 ## Số đo bộ mẫu (30 chương đầu, TB ± 2SD) — chỉ để khoanh vùng, không chấm
 
