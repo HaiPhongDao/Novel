@@ -1,0 +1,25 @@
+extension nhận việc, đang chạy 1 việc
+extension nhận việc, đang chạy 2 việc
+extension nhận việc, đang chạy 3 việc
+kết nối https://aistudio.google.com/u/0/prompts/new_chat
+kết nối https://aistudio.google.com/u/1/prompts/new_chat
+kết nối https://aistudio.google.com/u/2/prompts/new_chat
+thinking: 28519 ký tự → sung-thu/gemini/test-giong/v5/thinking-P1-b.md
+sung-thu/gemini/test-giong/v5/P1-b.md | 2826 chữ Hán | 256s | /u/1 | https://aistudio.google.com/u/1/prompts/new_chat
+extension nhận việc, đang chạy 4 việc
+kết nối https://aistudio.google.com/u/1/prompts/new_chat
+thinking: 28762 ký tự → sung-thu/gemini/test-giong/v5/thinking-P1-a.md
+sung-thu/gemini/test-giong/v5/P1-a.md | 3367 chữ Hán | 279s | /u/0 | https://aistudio.google.com/u/0/prompts/new_chat
+extension nhận việc, đang chạy 4 việc
+kết nối https://aistudio.google.com/u/0/prompts/new_chat
+thinking: 31666 ký tự → sung-thu/gemini/test-giong/v5/thinking-P2-a.md
+sung-thu/gemini/test-giong/v5/P2-a.md | 4055 chữ Hán | 286s | /u/2 | https://aistudio.google.com/u/2/prompts/new_chat
+extension nhận việc, đang chạy 4 việc
+kết nối https://aistudio.google.com/u/2/prompts/new_chat
+thinking: 21700 ký tự → sung-thu/gemini/test-giong/v5/thinking-P2-b.md
+sung-thu/gemini/test-giong/v5/P2-b.md | 3548 chữ Hán | 206s | /u/1 | https://aistudio.google.com/u/1/prompts/new_chat
+thinking: 27120 ký tự → sung-thu/gemini/test-giong/v5/thinking-P3-a.md
+sung-thu/gemini/test-giong/v5/P3-a.md | 3801 chữ Hán | 239s | /u/0 | https://aistudio.google.com/u/0/prompts/new_chat
+thinking: 27396 ký tự → sung-thu/gemini/test-giong/v5/thinking-P3-b.md
+sung-thu/gemini/test-giong/v5/P3-b.md | 3110 chữ Hán | 245s | /u/2 | https://aistudio.google.com/u/2/prompts/new_chat
+xong 6/6 | lỗi: không | chưa chạy (hết quota): không
