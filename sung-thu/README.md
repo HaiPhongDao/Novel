@@ -8,8 +8,9 @@
 - **Thể loại bộ mẫu:** 御兽 + 繁育, thế giới biển sau mạt thế mưa lớn. MC xuyên việt, kiếp trước là thợ lai tạo thú
   cưng, có 「数据之眼」 nhìn ra thiên phú ẩn của biến dị thú; giọng nhanh, MC tự giễu, chuỗi giá/cấp tiến hoá, bảng
   【种族】… in khi nhìn một con thú.
-- **SI đang thử:** `gemini/system-instruction-v2.md` (= v1 bỏ BANS, 5.025 ký tự) → bản dán `gemini/si-dan-gemini.txt`.
-  v1: `gemini/system-instruction-v1.md` (5.468 ký tự `len()`, dựng lại bằng `python tools/dung_si.py sung-thu --version 1`).
+- **SI đang dùng:** `gemini/system-instruction-v1.md` (5.468 ký tự `len()`) → bản dán `gemini/si-dan-gemini.txt`, dựng bằng
+  `python tools/dung_si.py sung-thu --version 1` (luôn ghi `--version 1`: không có cờ thì script lấy v2). v2 (= v1 bỏ
+  BANS, 5.025) giữ làm lưu trữ — I-0049 vô hiệu, đã gỡ 05/11.
   Khung gọn L-13R0B của làn manga (FIXED + mục 1 + mục 3 + BANS 4 dòng + PART 3, không ROLE) + PART 4 bàn tay vàng.
   3 anchor nguyên văn: ch14 (mục 1), ch35 (mục 3), ch11 (PART 4) — `verify_anchors.py` 3/3, `soat_van.py` 0 tật.
 - **Bài thử:** chương 3 「神宠供应商」 (2.822 字, ba tiệm bán 中位种). Đáp án + brief:
@@ -23,6 +24,9 @@
 |---|---|---|---|---|---|
 | v1 | v1 (5.468) | `ch03/brief.md` | `gemini/test-giong/v1-ch03-a.md` (3.646 字), `-b.md` (2.769 字) | **`gemini/test-giong/doc-v1-ch03.md`** (cùng sự việc, ba bản) · `gemini-doc-v1-ch03.md` (Gemini đọc, 51/51 trích thật) · `doc-cap-v1-ch03-a.md`, `-b.md` (theo vị trí) | chờ đọc |
 | v2 | v2 = v1 bỏ BANS (5.025) | `ch03/brief.md` | `gemini/test-giong/v2-ch03-a.md` (4.180 字), `-b.md` (4.205 字) | **`gemini/test-giong/doc-v2-ch03.md`** (bảng v1 ↔ v2) · `gemini-doc-v2-ch03.md` (Gemini đọc, 45/45 trích thật) | chờ đọc |
+| v3 A | v1 · **thinking Low** | `ch03/brief.md` | `gemini/test-giong/v3/A-a.md` (3.322 字), `A-b.md` (3.834 字) | **`gemini/test-giong/v3/doc-v3-ch03.md`** (bảng v1 · v2 · A · B · C) · `v3/gemini-doc-A.md` (44/44) | chờ đọc |
+| v3 B | v1 · High | `v3/brief-B.md` = brief + **thẻ giọng** | `v3/B-a.md` (2.579 字), `B-b.md` (3.328 字) | `doc-v3-ch03.md` · `v3/gemini-doc-B.md` (54/54) | chờ đọc |
+| v3 C | `v3/si-C.txt` = v1, **anchor mục 1 → ch16** (5.642) | `ch03/brief.md` | `v3/C-a.md` (3.280 字), `C-b.md` (3.498 字) | `doc-v3-ch03.md` · `v3/gemini-doc-C.md` (52/52) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
@@ -32,6 +36,13 @@ Agent đọc v2: bỏ BANS đổi phần bề mặt (so sánh, phủ định v�
 lại tiếng lòng MC** (mất 4/5 sự việc; ！+？ lời kể 0,18 → 0,48 /1.000, gốc 5,31 — I-0049 `vo-hieu`, 0,83 biên độ),
 và tệ hơn ở độ dài (+48%), 字/câu (34,1/39,4), giảng huấn (1,91/1,66, vượt khoảng). Chờ Tác giả: trả BANS về (luật 4
 của sổ) hay giữ v2; Agent khuyến nghị về v1 rồi thử đổi anchor mục 1 (chi tiết trong `doc-v2-ch03.md`).
+
+Agent đọc v3 (ba biến so với v1, mỗi biến hai chat): **không biến nào trả lại giọng riêng**. Tiếng lòng MC vẫn mất
+4/5 chỗ ở cả sáu bản (C-a 5/5); nhân viên tiệm 疾风 không có tiếng lòng ở cả sáu, kể cả khi thẻ dặn; ！+？ lời kể
+0,26–0,86 /1.000 (gốc 5,31) — I-0050 (Low) 0,28×, I-0051 (thẻ) 0,75×, I-0052 (anchor) 0,71×, đều `vo-hieu`. Xếp
+B ≥ A > C: thẻ chỉ chuyển được từ khoá (靠 ở cả hai câu cuối), anchor ch16 làm đoạn dài ra (C-a 91 字/đoạn). Chỗ
+duy nhất có giọng là chỗ brief ghi "một câu trong đầu" / "tự hỏi" → đề xuất biến kế ở tầng BRIEF: ghi các khoảnh
+khắc của MC thành "một câu trong đầu cậu" thay vì "cậu tính ra" (chi tiết trong `v3/doc-v3-ch03.md`).
 
 ## Số đo bộ mẫu (30 chương đầu, TB ± 2SD) — chỉ để khoanh vùng, không chấm
 
