@@ -14,7 +14,8 @@
 | 劣质废宠 | Liệt Chất Phế Sủng | Thú cưng dị tật phế phẩm |
 | 雷火亲和 | Lôi Hoả Thân Hoà | Thiên phú ẩn thân hoà lôi hoả |
 | 隐性 | Ẩn Tính | Gen hoặc đặc tính lặn/ẩn giấu |
-| 雷炎神鸟 | Lôi Viêm Thần Điểu | Thần điểu lôi hoả, hình thái tiến hoá siêu phàm của quạ đen |
+| 铁羽雷鸦 | Thiết Vũ Lôi Nha | Quạ sấm lông sắt, hình thái tiến hoá biến dị Nhất Giai |
+| 雷炎神鸟 | Lôi Viêm Thần Điểu | Thần điểu lôi hoả, hình thái tiến hoá cực hạn chung điểm |
 | 上位超凡种 | Thượng Vị Siêu Phàm Chủng | Đẳng cấp chủng tộc siêu phàm bậc cao |
 | 联盟币 | Liên Minh Tệ | Đơn vị tiền tệ chính thức |
 | 次元秘境 | Thứ Nguyên Bí Cảnh | Các vết nứt không gian chứa dị thú và khoáng vật quý |
