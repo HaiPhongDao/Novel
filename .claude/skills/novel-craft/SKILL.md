@@ -146,6 +146,12 @@ Luật còn lại:
   Thiếu thì Writer tự điền canon: phó quan 34 tuổi thành cậu hầu 16 tuổi.
 - **Không câu tiếng Trung nào ngoài khối nối tiếp và tên/thuật ngữ ngắn** — câu mẫu bị chép nguyên làm mở đoạn,
   mọi điểm chấm trên bản đó thành điểm giả.
+- **Brief phải đọc hiểu được ngay — Tác giả đọc brief như người viết đọc** (Tác giả 05/11, `sung-thu` đoạn 001: "Dở
+  quá, nhiều từ ngữ bạn viết ra bằng tiếng việt nó khó hiểu quá? Đến tôi còn chẳng đang biết bạn muốn viết cái gì";
+  E-BRIEF-09, I-0062). Brief sáu khối tiếng Việt chen chữ Hán giữa câu, nhãn khung ("Khoá", "Ba biến", "Sổ đầu
+  đoạn"), câu dài nhiều mệnh đề là hỏng. **Đang thử** cùng nội dung bằng brief tiếng Trung và tiếng Anh
+  (`sung-thu/briefs/doan-001-zh.md`, `-en.md`); khi Tác giả chấm thì sửa dòng này và dòng trên. `soat_brief.py`
+  chỉ đọc brief tiếng Việt: với brief zh/en, CHẶN `cau-tieng-trung` và `thieu` (chỗ dừng) là do ngôn ngữ, không phải lỗi.
 - **Dòng đếm tỷ lệ thoại/lời kể**: có thì thoại dày hơn, không có thì Writer chẻ lời thành nhiều lượt ngắn. Đánh
   đổi đã biết, không phải lỗi mới — cần thoại dày thì mở phạm vi cảnh. Bible là nguồn canon, không phải README.
 - Ghi đầu brief **các mã lỗi brief này đang bù** (`Bù: E-CANON-03`): khi lỗi đó thôi tái phạm, dòng bù ấy là ứng
