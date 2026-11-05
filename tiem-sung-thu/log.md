@@ -13,3 +13,8 @@
   - Xử lý: Gọt sạch đoạn kết điện ảnh/tổng kết triết lý trong `doan-001-a.md`, chuyển thành "dừng giữa mạch" (Lâm Dịch đạp xe lao dốc, tiếng quát của con buôn chợ cá đập vào mặt, bóp thắng gấp in vệt bùn ngay trước thùng gỗ bốc mùi tanh nồng từ bùn đáy rạn san hô). Điểm máy 88/100, 2.384 字, điểm văn 34/34 tuyệt đối.
   - Bổ sung quy tắc chống kết hạ màn vào `bible/style-guide.md`.
   - Chính thức chốt Đoạn 001.
+- **2026-11-05 (Đoạn 002):** Chạy thử nghiệm 2 bản Đoạn 002:
+  - Bản a (Brief tiếng Việt): 3.669 字 (141s), điểm máy 62/100, hơi dài.
+  - Bản b (Fact-sheet tiếng Trung phi tự sự theo khung SI): 2.493 字 (109s), điểm máy 82/100, văn 28/34, 0 rò anchor, 0 từ BANS, lượt thoại 19.
+  - Điểm dừng ngắt mạch hoàn hảo: Cắt phén ngay khi tia tĩnh điện xanh lam châm buốt ngón tay Lâm Dịch (`滋啦——！`), hoàn toàn không có câu hạ màn hay triết lý tổng kết.
+  - Chọn Bản b chốt làm Đoạn 002 chính thức.

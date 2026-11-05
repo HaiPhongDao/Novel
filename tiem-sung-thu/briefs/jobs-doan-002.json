@@ -1,0 +1,4 @@
+[
+ {"si": "tiem-sung-thu/gemini/si-dan-gemini.txt", "prompt": "tiem-sung-thu/briefs/doan-002.md", "out": "tiem-sung-thu/chapters/doan-002-a.md", "think_out": "tiem-sung-thu/chapters/thinking/doan-002-a.md", "thinking": "High", "note": "tiem-sung-thu doan-002 lan a (brief TV)"},
+ {"si": "tiem-sung-thu/gemini/si-dan-gemini.txt", "prompt": "tiem-sung-thu/briefs/doan-002-zh.md", "out": "tiem-sung-thu/chapters/doan-002-b.md", "think_out": "tiem-sung-thu/chapters/thinking/doan-002-b.md", "thinking": "High", "note": "tiem-sung-thu doan-002 lan b (brief ZH fact-sheet)"}
+]

@@ -13,4 +13,5 @@
 | Đoạn | Brief | Chạy máy | Bản chọn | Trạng thái |
 |---|---|---|---|---|
 | 001 | `briefs/doan-001.md` | `aistudio_run.py` (Flash, thinking High) | `chapters/doan-001-a.md` (2.384 字, điểm văn 34/34) | ✅ ĐÃ CHỐT |
-| 002 | `briefs/doan-002.md` | — | — | ⏳ Đang chuẩn bị brief |
+| 002 | `briefs/doan-002-zh.md` | `aistudio_run.py` (Flash, thinking High) | `chapters/doan-002-b.md` (2.493 字, điểm văn 28/34) | ✅ ĐÃ CHỐT |
+| 003 | `briefs/doan-003.md` | — | — | ⏳ Đang chuẩn bị |
