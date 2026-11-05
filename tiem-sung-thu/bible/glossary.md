@@ -39,6 +39,7 @@
 | 种族异能 | Dị năng chủng tộc |
 | 个体天赋 | Cá thể thiên phú (普通天赋 · 优秀天赋 · 稀有天赋 · 极品天赋 · 传说天赋 · 神话天赋) |
 | 碧波螺 | Ốc Bích Ba (远古旋角螺幼卵) |
+| 岩壳蟹 | Cua vỏ đá (thú cảnh nhỏ trong bể xưởng) |
 | 黏液气泡 | Bọt khí chất nhầy |
 | 自感电容 | Tự Cảm Điện Dung (cực phẩm thiên phú) |
 | 怒涛雷铠 | Nộ Đào Lôi Khải (truyền thuyết thiên phú) |

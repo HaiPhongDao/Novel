@@ -1,29 +1,34 @@
-# Review đoạn 001 — hai lần chạy Writer (Gemini 3.8 Flash, thinking High)
+# Review đoạn 001 — Khởi đầu mới (Gemini 3.8 Flash, thinking High)
 
-Brief `briefs/doan-001.md` (chuẩn 6 khối theo cấu trúc SI, `soat_brief` 0 CHẶN) · SI `gemini/si-dan-gemini.txt` (v3 = SI Argon, 7.630 ký tự) · 2 chat mới song song (`briefs/jobs-doan-001.json`). Cổng `cong_doan.py --modern`: Cả hai **XANH**, không cụt.
+Brief `briefs/doan-001.md` (chuẩn 6 khối, mở đầu tự nhiên, không vội vã, `soat_brief` **XANH 0 CHẶN 0 CẢNH BÁO**) · SI `gemini/si-dan-gemini.txt` (v3 Argon, 7.630 ký tự) · Cổng máy `cong_doan.py --modern`: **XANH (2.447 字, điểm văn 34/34)**.
 
-| Chỉ số | Bản a | Bản b | Ghi chú |
+| Chỉ số | Bản a | Bản b | Chuẩn bộ mẫu |
 |---|---|---|---|
-| **Số chữ Hán** | 2.816 字 (+40%) | 3.501 字 (+75%) | Yêu cầu ~2.000 字; bản a gọn và sát độ dài hơn |
-| **Thời gian chạy** | 117s | 159s | Chạy nền song song |
-| **Lượt thoại** | 17 lượt | 19 lượt | Thoại tự nhiên, mang số liệu thực |
-| **Chữ/câu** | 26.1 | 23.4 | Nằm trong khoảng chuẩn bộ mẫu (14.8 – 29.5) |
-| **Rò tên anchor** | **0** | **0** | Tuyệt đối sạch (không rò 奶牛, 虎鲸, 洛羽...) |
-| **Từ BANS** | **0** | **0** | Tuyệt đối sạch (không 心里明白, không 淡然...) |
-| **Cổng máy** | **XANH** (82/100) | **XANH** (82/100) | Đạt chuẩn để đọc |
+| **Số chữ Hán** | **2.447 字** | 3.052 字 | 1.800 – 2.800 字 |
+| **Điểm máy** | **88/100 (văn 34/34 tuyệt đối)** | 70/100 | ≥ 70 |
+| **Chữ/câu** | **24.5** | 22.3 | 14.8 – 29.5 |
+| **Lượt thoại** | **18 lượt** | 23 lượt | 16 – 64 |
+| **Rò tên anchor** | **0** | **0** | 0 |
+| **Từ cấm BANS** | **0** | **0** | 0 |
 
-## Phân tích bốn việc đọc
+## Khắc phục triệt để lỗi vội vã / mục đích tính
 
-1. **Khắc phục lỗi "văn nghệ u ám" của bản Claude cũ:**
-   - Hoàn toàn rũ bỏ bối cảnh chuồng chó rỉ sét, lò thiêu huỷ, giày rách, tro tàn.
-   - Mở màn bằng sự va chạm dứt khoát tại quầy gỗ xưởng sủng thú, mùi gió biển cảng cá 七星港, tiếng còi tàu viễn dương.
-2. **"Thoải mái bày ra" đúng chất bộ mẫu 《神宠供应商》:**
-   - Dữ kiện xuyên việt được khẳng định tự nhiên: Lâm Dịch mang góc nhìn chuyên gia di truyền học kiếp trước nhìn thấu mánh khoé bóc lột của tập đoàn Khải Hoàn (凱旋寵業 - bán ấu thú rập khuôn 30.000 联盟币 + khoá gen + ép mua thức ăn độc quyền).
-   - Mắt nhìn nhặt mót (捡漏): Phát hiện quả trứng ốc bích ba (碧波螺) bám đá vôi xù xì bị coi là trứng phế phẩm (残次品) ở sạp cá của lão Mộc (老木).
-   - In bảng 【数据之眼】 dứt khoát 6 trường, không dấu ngoặc kép, chốt hạ bằng tiếng lòng trần trụi: `靠，极品！`.
-   - Tính toán sòng phẳng (算账): Mặc cả 250 联盟币 tặng kèm túi tôm khô, số dư thẻ từ 1.350 → 1.100 联盟币.
-3. **So sánh hai bản:**
-   - **Bản a (2.816 字):** Gọn gàng, nhịp điệu nhanh, vào thẳng hành động, thoại đanh gọn, mô tả ốc sên lôi điện như "披着螺蛳壳的微型核弹" (vi hạt nhân đội lốt vỏ ốc). Rất sát yêu cầu độ dài.
-   - **Bản b (3.501 字):** Thoại dày dặn hơn, tăng thêm tương tác giữa Lâm Dịch và 唐棠 (Đường Đường khuyên bán xưởng mở tiệm tạp hoá, Lâm Dịch cười bảo 7 ngày còn dài chán); phần kết có câu chốt rất ngầu: *"小东西，剩下的这七天，咱们可有的折腾了。"*. Tuy nhiên dài hơn bản a.
+1. **Không gian cho cú sốc xuyên việt và tiếp nhận thực tại:**
+   - Lâm Dịch thức dậy bên quầy gỗ cũ đóng muối biển, nhớ lại cái chết đột quỵ trước kính hiển vi phòng thí nghiệm di truyền kiếp trước.
+   - Tiếp nhận ký ức nguyên chủ: Cha mẹ mất tích nửa năm trước ở Vực Sâu, để lại xưởng sủng thú trống trơn và slot khế ước 0/1.
+   - Tự giễu rất duyên dáng: Cứ ngỡ xuyên việt làm vương làm tướng, ai ngờ nhận ngay "địa ngục khai cục".
+2. **Thử nghiệm bàn tay vàng tự nhiên:**
+   - Đi tới bể kính nuôi tạm trong góc xưởng, nhìn con cua đá nhỏ `岩壳蟹`.
+   - 「数据之眼」 kích hoạt, in bảng 6 trường chuẩn: phát hiện thiên phú劣质 `甲壳脆化` (vỏ giòn dễ nứt).
+   - MC cười trừ: Con cua này tiệm chiên vỉa hè còn chê ít thịt, hèn chi xưởng của cha mẹ ế ẩm suýt không đủ tiền thuê nhà.
+3. **Thực tế ập tới (Đường Đường đưa trát):**
+   - Hạn 7 ngày (ngày 25) nộp 10.000 联盟币 phí bến bãi hoặc qua kỳ thẩm định Cấp 2.
+   - 唐棠 có biểu cảm ngạc nhiên `唐棠：？？？` khi thấy Lâm Dịch không hề hoảng sợ hay cầu xin, hỏi rõ quy định rồi ký xoẹt biên bản.
+4. **Định hình quyết định tương lai (Logic ra ngoài khảo sát):**
+   - Quẹt thẻ còn 1.350 联盟币 (bát mì cá đã 15–20 tệ).
+   - Nhìn sang toà nhà rực rỡ của 凯旋宠业: Thấy quảng cáo ấu thú 30.000 联盟币 + hợp đồng thức ăn độc quyền bóc lột. Lâm Dịch tự nhủ: Kiếp trước làm việc kiệt sức cho tư bản chưa đủ sao mà kiếp này đi làm nô lệ?
+   - Tính toán mạch lạc: Với 1.350 tệ, đường sống duy nhất là tận dụng mắt dữ liệu + kiến thức di truyền đi ra chợ cảng cá 七星港 lùng sục trong đống "phế phẩm" (残次品) để tìm hạt giống thần sủng.
+5. **Điểm dừng đẹp:**
+   - 7:30 sáng, còi tàu viễn dương xé toạc màn sương; Lâm Dịch khoá cửa xưởng, dắt chiếc xe đạp cũ đạp xuống dốc, hòa vào dòng người và mùi cá tanh nồng của bến cảng.
 
-**Agent đề xuất:** Cả hai bản đều đạt chất lượng vượt trội so với bản cũ. Đề xuất Tác giả chọn **Bản a** vì nhịp gọn và độ dài sát chuẩn hơn; hoặc nếu thích thoại dày dặn và tính cách nhân vật bung toả hơn thì chọn **Bản b**.
+**Kết luận:** Bản a hoàn hảo về nhịp điệu, không gian tâm lý, độ dài và văn phong. Sẵn sàng chốt làm Đoạn 001 chính thức!
