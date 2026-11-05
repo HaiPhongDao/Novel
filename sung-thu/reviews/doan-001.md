@@ -36,3 +36,28 @@ Lời kể nói bằng giọng MC, tiếng lòng trần ngoài “”: b «合�
 
 **Agent xếp:** b > a. b sát brief, sát độ dài, ít bịa luật; a thoại dày hơn và cuộc gọi sống hơn nhưng dài gấp đôi và
 xả bối cảnh. Câu ĐẠT là của Tác giả.
+
+## Vòng 2 — brief tiếng Trung và tiếng Anh (Tác giả 05/11)
+
+Tác giả bác hai bản trên: "Dở quá, nhiều từ ngữ bạn viết ra bằng tiếng việt nó khó hiểu quá? Đến tôi còn chẳng đang
+biết bạn muốn viết cái gì. Thử 2 cách khác Tiếng Trung và Tiếng Anh xem" (E-BRIEF-09, I-0062). Cùng nội dung, chia mục,
+câu rõ: `briefs/doan-001-zh.md`, `briefs/doan-001-en.md`. SI không đổi. Mỗi brief 2 chat mới (en-a và zh-b chạy lại sau
+lỗi Gemini / treo).
+
+| Bản | 字 | vượt | lượt | rò anchor / BANS | bảng thừa | xả dữ kiện |
+|---|---|---|---|---|---|---|
+| vi-a | 4.341 | +117% | 28 | 他配 | nhiều + thẻ | có |
+| vi-b | 2.695 | +35% | 13 | 他配 · 低等普通级 | lồng 16 đủ | không |
+| zh-a | 3.996 | +100% | 17 | 下位普通种 · 平静×2 | nửa lồng 9 + thiên phú bịa 杂色 | đầu cảnh |
+| **zh-b** | 2.697 | +35% | 10 | **0** | **0** | giữa cảnh (dòng 67–77) |
+| en-a | 3.661 | +83% | 18 | 极品史诗 · 平静 | thẻ + tin nhắn thành 【】 | có |
+| en-b | 3.170 | +58% | 20 | 他配 · 这钱给谁赚不是赚 · 君王 | 0 | không |
+
+- **Chép brief:** zh-a/zh-b chỉ chép nguyên lời chú thích trong bảng thiên phú (đúng chỗ phải in) và một câu luật
+  «从登记入站的时间算起» (zh-b). Không câu mở đoạn nào lấy từ brief — rủi ro "brief tiếng Trung bị chép" không xảy ra ở 2 lần này.
+- **Ngôn ngữ brief có đổi gì không — chưa nói được bằng số.** Hai lần chạy cùng brief chênh nhau 1.300 字 (zh), 500 字 (en),
+  lớn hơn chênh giữa các ngôn ngữ. Độ dài vượt trung bình: vi 76% · zh 68% · en 71% (I-0063, I-0064 `chua-ro`).
+- **Đọc:** zh-b sạch và gọn nhất — tiếng lòng «什么路子？！» «说白了就是个移动扫码器。» «买得起的看不上，看得上的买不起»,
+  MC giấu 蔡德旺 việc bớt một con, dừng ở «不过……管他呢。». Điểm trừ: một khối dữ kiện thế giới chen giữa cảnh. en-b:
+  mở tốt nhất (大黄 trong ~300 字 đầu), bảng thú khác chỉ một câu; nhưng lặp khuôn anchor hai lần.
+- **Agent xếp:** zh-b > en-b > vi-b > zh-a ≈ en-a > vi-a. Câu ĐẠT là của Tác giả.
