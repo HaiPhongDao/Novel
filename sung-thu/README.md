@@ -8,7 +8,8 @@
 - **Thể loại bộ mẫu:** 御兽 + 繁育, thế giới biển sau mạt thế mưa lớn. MC xuyên việt, kiếp trước là thợ lai tạo thú
   cưng, có 「数据之眼」 nhìn ra thiên phú ẩn của biến dị thú; giọng nhanh, MC tự giễu, chuỗi giá/cấp tiến hoá, bảng
   【种族】… in khi nhìn một con thú.
-- **SI đang thử:** `gemini/system-instruction-v1.md` → bản dán `gemini/si-dan-gemini.txt` (5.468 ký tự `len()`).
+- **SI đang thử:** `gemini/system-instruction-v2.md` (= v1 bỏ BANS, 5.025 ký tự) → bản dán `gemini/si-dan-gemini.txt`.
+  v1: `gemini/system-instruction-v1.md` (5.468 ký tự `len()`, dựng lại bằng `python tools/dung_si.py sung-thu --version 1`).
   Khung gọn L-13R0B của làn manga (FIXED + mục 1 + mục 3 + BANS 4 dòng + PART 3, không ROLE) + PART 4 bàn tay vàng.
   3 anchor nguyên văn: ch14 (mục 1), ch35 (mục 3), ch11 (PART 4) — `verify_anchors.py` 3/3, `soat_van.py` 0 tật.
 - **Bài thử:** chương 3 「神宠供应商」 (2.822 字, ba tiệm bán 中位种). Đáp án + brief:
@@ -21,10 +22,16 @@
 | Lần | SI | Brief | Bản sinh | Đọc cặp | Tác giả |
 |---|---|---|---|---|---|
 | v1 | v1 (5.468) | `ch03/brief.md` | `gemini/test-giong/v1-ch03-a.md` (3.646 字), `-b.md` (2.769 字) | **`gemini/test-giong/doc-v1-ch03.md`** (cùng sự việc, ba bản) · `gemini-doc-v1-ch03.md` (Gemini đọc, 51/51 trích thật) · `doc-cap-v1-ch03-a.md`, `-b.md` (theo vị trí) | chờ đọc |
+| v2 | v2 = v1 bỏ BANS (5.025) | `ch03/brief.md` | `gemini/test-giong/v2-ch03-a.md` (4.180 字), `-b.md` (4.205 字) | **`gemini/test-giong/doc-v2-ch03.md`** (bảng v1 ↔ v2) · `gemini-doc-v2-ch03.md` (Gemini đọc, 45/45 trích thật) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
 BANS và số chữ. Đề xuất biến kế: bỏ BANS (chi tiết trong `doc-v1-ch03.md`).
+
+Agent đọc v2: bỏ BANS đổi phần bề mặt (so sánh, phủ định về gần gốc; nhãn điềm tĩnh 5/2 → 0/1) nhưng **không trả
+lại tiếng lòng MC** (mất 4/5 sự việc; ！+？ lời kể 0,18 → 0,48 /1.000, gốc 5,31 — I-0049 `vo-hieu`, 0,83 biên độ),
+và tệ hơn ở độ dài (+48%), 字/câu (34,1/39,4), giảng huấn (1,91/1,66, vượt khoảng). Chờ Tác giả: trả BANS về (luật 4
+của sổ) hay giữ v2; Agent khuyến nghị về v1 rồi thử đổi anchor mục 1 (chi tiết trong `doc-v2-ch03.md`).
 
 ## Số đo bộ mẫu (30 chương đầu, TB ± 2SD) — chỉ để khoanh vùng, không chấm
 
