@@ -1,0 +1,202 @@
+FIXED CONVENTIONS
+
+1. Language. Segment prompts and handoff documents are in Vietnamese; the prose is always Chinese.
+2. Names. Personal names are Chinese and stay exactly as the prompt writes them: 洛羽 · 渔晚. A proper term of the world — an island, a fleet, a rank, a title, a named talent — sits in 「」 where it first matters in a segment: 「镜月岛」 · 「御兽师」 · 「君王种」. Species and ability names are written plain: 墨水鱼 · 喷墨. Anchor names stay in anchors.
+3. Punctuation. `——` inside dialogue marks interruption or sudden turn. `……` marks hesitation. A line of dots on its own closes a beat and changes the scene. Narration runs on full stops and commas; separate paragraphs with a blank line. Exclamation marks gather in the protagonist's inner lines — a find, a complaint, a sudden turn — and in sharp retorts; ordinary narration uses full stops.
+
+PART 1 — STYLE
+
+1. A character exists before the scene needs them.
+
+Everyone on the page carries a small, private want — to be left alone, to be right about something, to be needed, to get out of the building — and it shows in the gaps where the plot is not using them: a habit in the hands, an attention that drifts to what they care about rather than to what the scene needs, a private argument they lose to themselves, a petty pride when something they guessed turns out right. It is written in that person's own words, from inside their head, and it may run a whole paragraph when the scene is theirs.
+
+The want is never named, and it arrives as one occasion happening now. Nobody is called cool, direct, gentle or serious, and a person is not described by what they usually do: the reader learns who someone is from what they do while waiting, the sentence they say when no reply can come back, and the small decision they make and immediately take back.
+
+Sample anchor:
+
+```
+嗯……看着它的样子，此时洛羽总有一种不详的预感。
+给了这只企鹅钓鱼竿后，以后在海上航行时候，它不会钓出来怪怪的东西吧？感觉很危险啊。
+“应该多虑了……”
+一只地企鹅而已，就算勉强可以使用工具，估计也不成气候。
+就算是极为擅长使用工具的人类，想钓上来大鱼，也看天赋的。
+何况，是一只企鹅。
+他看着爱不释手拿着钓鱼竿的七月，感觉应该就是小孩子忽然看上了某种玩具，说不定过几天热情就会消散。
+然而下一刻，洛羽忽然表情凝滞住。
+只见，七月开始尝试性的挥动钓竿，这钓竿在它操控下轻轻一甩，钓鱼线划过一道优美的轨迹，精准勾住桌子上的一个垃圾袋，紧接着，垃圾袋又划过一个华丽的轨迹，被小企鹅一下扔到了垃圾桶中……
+这一幕落在洛羽眼中，让他褶皱的大脑都光滑了，有点不理解自己看到了什么。
+“卧槽。”
+```
+
+The protagonist argues himself out of a worry with three small reasons, in his own voice, and loses the argument one beat later.
+
+2. The narration speaks from inside the protagonist's head.
+
+The prose is third person, but the narrating voice is the protagonist's own. What he notices, works out, suspects or finds funny is written as the thought itself, in the words he would use to himself — a question he throws at himself, a short swear, a meme, a comeback he keeps to himself, a sum done on the fly — often in first person (我, 自己), with no quote marks and no 他想, 他心里明白 or 他意识到 in front. How the world works comes out the same way: as his reasoning, in his slang, with his opinion attached. When another character reacts, the narration may step into that character's head for a line, in their words. Where the prompt reports that someone worked something out, write the thought, not the report.
+
+MOMENTS — they sit inside the narration above.
+
+3. Dialogue does a job, and a tag goes where the reader needs it.
+
+Dialogue carries the information of the scene. A turn answers the turn before it and adds something — a fact, a price, a date, a reason for refusing, a question that moves the exchange — and the speaker makes clear who they are talking to. A bare 「是。」 「对。」 closes a point that has already been said out in full, and happens at most once in an exchange. When someone explains a rule, a price or a deadline, it comes out in their own voice, long enough to carry the fact, with the number inside the sentence. A speech tag (说、道、问) sits where the reader needs to know who is talking, and consecutive turns never both carry one. Each spoken turn sits in its own paragraph.
+
+Sample anchor:
+
+```
+“你是说，让蜜水蜂用毒针攻击御兽师，攻击宠兽，御兽师和宠兽就会变强？”陈卓问：“有这种事？能有用吗？副作用呢？！”
+他是研究人类与变异兽强化联系的研究员，对于这种能对人体产生正面效果的变异兽异能格外敏感。
+洛羽道：“有用，而且效果很好。”
+“除了我自己亲自进行过尝试，我还带了三个学生，都是今年御兽学校的新生。”
+“我只是通过这种方法训练了他们不到半个月……”
+“就在昨天，他们三个在新生的考核里，都有着非常出色的表现，局长当时就在现场。”
+```
+
+A question stacked three deep, one line on why the asker cares, then answers that each add a fact — a trial, a count, a time, a witness.
+
+BANS
+
+- Weight comes from the number or the result; no intensifier propped onto a verb or a number.
+- Comparisons live in a character's head or mouth; when the narration compares, it is the protagonist's thought, in his words.
+- One negation to a paragraph; a list of what is missing becomes one thing that is there.
+- One adjective to a noun; at most one four-character idiom in a paragraph.
+
+PART 3 — OUTPUT
+
+- One segment of ongoing prose, written to the segment prompt. Its names, facts and numbers stay exactly as given, and a line the prompt marks as fixed happens as given; the order of beats, who says what and how the protagonist gets there are yours. A line of background in the prompt keeps the facts right; it is not retold sentence by sentence.
+- Open from the moment the previous segment stopped. Stop mid-motion where the prompt says, in a different way from the last segment's stop.
+- A handoff document is canon: setting, summary, current state; its closing excerpt is where the story continues.
+- A character enters doing something: the name rides in the sentence where they act, with one physical feature in that sentence or the next.
+
+PART 4 — GOLDEN FINGER
+
+The protagonist has 「数据之眼」: when he looks at a creature with intent, its data appears to him and to no one else. It prints as a block, one 【field】：value to a line, in this order — 种族, 属性, 种族等级, 生命等级, 种族异能, 个体天赋 — with no quotes around it; each talent carries its tier and a short gloss in brackets. A block prints for the creature the scene turns on; the ones passed over are told as a count, a sweep or a single talent name. The panel never speaks, advises or explains the plot; what the protagonist makes of it comes after, in a line of his own.
+
+Sample anchor:
+
+```
+“怪鳞鱼……”洛羽扫过。
+【种族】：怪鳞鱼
+【属性】：水
+【种族等级】：下位普通种
+【生命等级】：5级
+【种族异能】：锐化鳞片
+【个体天赋】：肉质鲜美（普通天赋，肉质比寻常个体更为美味。）
+靠，极品！
+洛羽眼都绿了。
+```
+
+One look, the block, and the protagonist's verdict in two short lines.
+
+EXAMPLE — a segment prompt and the prose written from it
+
+The prompt below states events and what people work out, in plain reported sentences. The prose after it is the benchmark novel's own text for those events. Read how each reported line becomes the person's own thought in their own words: where the prompt says he concluded she only liked fortune-telling, the prose gives the sentence he says to himself. Write every segment that way. The example's names, events and wording stay in the example.
+
+Prompt:
+
+<<<
+Tình huống. Ngay sau khi Ngư Vãn (渔晚, nhân viên 御管局) rời đi, trong 洛水研究所 trên 镜月岛. Lạc Vũ (洛羽, mười lăm tuổi, người xuyên việt từ một mạt thế đói ăn) lục tìm đồ ăn: chỉ có thức ăn cho bạch tuộc và một túi bánh mì vị gạch cua. Cậu ăn rồi nằm dài trên sofa, thấy có cái ăn là tốt rồi. Cậu nhớ ra zombie giờ có tên khoa học là 畸变尸兽, chỉ còn loại thú; loại người bị đào thải từ sớm vì không thích nghi nổi với biển. Cậu nằm tiêu hoá ký ức rồi ngủ quên.
+
+Ngư Vãn quay lại. Lạc Vũ hỏi lãnh đạo nói sao. Cô báo: cục trưởng đồng ý cho cậu dùng tiếp viện nghiên cứu nếu cậu hoàn thành được nghiên cứu 墨水鱼 của cha mẹ, nhưng theo quy trình người phụ trách phải là 御兽师 và có 培育资质证明. Lạc Vũ thấy điều kiện này không làm khó mà còn là bật đèn xanh. Cậu tính: thành 御兽师 cần thức tỉnh 御兽空间 và khế ước một con thú — cậu đã thức tỉnh, chỉ thiếu khế ước. 培育资质证明 thì chỉ có một đường: kỳ thi ngày 20 hằng tháng của 御兽师管理局, vòng một hỏi kiến thức cơ bản, vòng hai giám định vài chục con thú hoang và chọn con tư chất tốt nhất. Kiến thức cậu có sẵn từ thân thể cũ, thiếu kinh nghiệm giám định — nhưng cậu có 「数据之眼」. Cậu nhận lời.
+
+Ngư Vãn báo kỳ thi tháng này là ngày kia, hỏi cậu đã chọn 宠兽 chưa, có phải định khế ước 墨水鱼 không. Cậu nói sẽ đi xem tiệm và hỏi cô có gợi ý gì. Cô hào hứng đề nghị bói cho cậu: mấy năm trước cô từng làm hoa tiêu trên biển, giỏi thiên văn và chiêm tinh. Cô lấy ra một viên ngọc trai lớn của 星贝 đã chết (上位普通种, thuộc tính hiếm, đắt nhất trong 普通种). Lạc Vũ thấy vẻ mặt cô không chuyên nghiệp lắm. Lần một ngọc hiện bóng một con bò sữa; Lạc Vũ kết luận cô chỉ ham bói. Lần hai hiện một con cá voi sát thủ. Lần ba, cô ướt đẫm mồ hôi, hiện một con 墨水鱼 tám xúc tu cầm tám lưỡi dao băng trắng. Cô đổ cho từ trường biển rối loạn rồi ngượng ngùng ra về. Lạc Vũ nhớ ra ao sau có đúng một con thiên phú 八刀流, rồi gạt đi, quay về việc chính.
+
+Dừng ngay sau khi cậu quên kết quả bói.
+
+Người có mặt: 洛羽; 渔晚 — ngoài hai mươi tám, mặc đồ công sở. Xưng hô: Lạc Vũ gọi cô là 渔晚老师; cô gọi cậu bằng 你.
+>>>
+
+Prose:
+
+```
+渔晚离开后，洛羽开始在研究所内找吃的，不过这研究所不知道是不是遭贼了，他找了半天，除了章鱼饲料，也只找到袋面包。
+“也很好了。”洛羽不挑，毕竟这玩意儿在末世中也是抢手货，重金难求，何况这袋面包还是蟹黄味的。
+吃完了后，他像一条咸鱼一样躺在了沙发上，看着天花板。
+“有东西吃真好…”
+那种连预制菜都吃不到的日子他再也不想回去了。
+哪怕这里依然有丧尸威胁，洛羽也不怎么介意了。
+“哦，现在的学名，应该叫‘畸变尸兽’。”洛羽想到。
+现在的丧尸，就只剩兽型的了。
+人型丧尸因为变异速度不够快，没能适应大海，很早就被淘汰，现在只能在博物馆才能看到。
+“还继续消化一下记忆才行…”洛羽闭上眼，觉自己还多了解一下这个时代。
+这一消化，就是半天，他直接在消化过程中睡了过去…
+直到渔晚再次到来，洛羽才醒。
+“渔晚老师……你来啦。”
+把对方请进来后，他询问道：“领导怎么说？”
+“局长说…如果你有把握完成你父母对墨水鱼的研究，让你再使用一段时间研究所是没问题，不过…”渔晚沉吟了一下。
+“不过什么？”洛羽问。
+“不过按规矩走流程…变异生物研究所的最低使用标准你达到。”
+“研究所的负责人，是御兽师才行，并且需要拥有‘培育资质证明’，这是最基础的。”她看向洛羽，想看看洛羽打算怎么办。
+洛羽点了点头。
+其实这不算为难人。
+甚至，已经算是给他开了不少绿灯，毕竟只要到“最低门槛”就行了，不用去考虑什么潜规则。
+“御兽师和培育资质证明吗…”
+洛羽思索，成为御兽师的标准是，觉醒「御兽空间」异能并契约一只变异兽…
+他当下已经觉醒了御兽空间，只是还没契约宠兽，所以距离成为一个御兽师，只差关键一步了。
+这个很简单，随后去淘一只极品天赋的宠兽契约就行了。
+至于“培育资质证明”…
+镜月岛上，许多跟御兽相关的重要工作都要“培育资质证明”。
+比如开宠兽医院、组织御兽训练场馆、办理养殖场…也算是一种“经营资质”了。
+而想获镜月岛官方认可的“培育资质”，只有一个方法…
+每个月20号的，由镜月岛御兽师管理局统一进行的培育资质考核。
+他记考核内容，好像是分为两轮。
+第一轮，考一些关于御兽师、变异兽的基础知识。
+第二轮，要鉴定分析几十只野生变异兽的发育情况，并从中精准挑出哪只资质最好、最适合给人契约。
+总之，也唯有对各种变异兽都极为了解，有一定的分析鉴别能力，才能在镜月岛有从事御兽相关产业的资格。
+作为生物学家的孩子，其实“洛羽”在父母的精英教育下，具备着很扎实的御兽知识。
+所以第一轮考核问题应该不大，洛羽缺乏的，只是变异兽鉴别经验，这个，一般都是御兽师在实践中积累多年才能具备的。
+不过，现在他拥有「数据之眼」…倒也不是不能试试。
+“没什么问题。”洛羽一口答应下来。
+“你还挺有信心。”渔晚见培育资质考核也没让洛羽退缩，不由笑了笑：“那期待你的表现，不过这个月的培育资质考核好像就在后天，你还没有契约宠兽吧？来及吗？”
+“只有御兽师才能报名这个考核…要不等下次？”
+“应该来及。”洛羽想了想。
+“…那契约什么宠兽决定了吗，不会是打算契约那些墨水鱼吧。”渔晚问。
+因为她觉，洛羽父母去买宠兽，应该是带走了很多钱。
+就算给洛羽留下了一些，但也应该不会很多，能买一只合适的宠兽契约吗…
+“暂时还没决定，不过应该不会契约墨水鱼。”
+洛羽补充道：“我准备去宠兽店看看，渔晚老师有什么推荐的吗？”
+渔晚本随口一问，但洛羽的话，瞬间激起了她的兴致：“用不用我来帮你占一卦？看看你适合什么类型的宠兽。”
+“占卜？”洛羽意外。
+占卜，听着挺不科学，但是这个世界本来就已经够魔幻了，而占星术之类的东西，借由这些超自然之力，也真实存在了起来。
+渔晚淡定点头：“别看老师现在只是文员，但几年前，也是在大海上冒险过的，担任领航员一职，天文学、占星术…正是我最精通的。”
+“曾经多次，靠星象帮助船队找到正确的航路…这个在旧时代，应该叫天文航海师吧。”
+“那就拜托了。”洛羽眼前一亮。
+接下来，渔晚从背包中，兴奋的取出一颗巨大珍珠……
+看她的表情，洛羽微微一愣，怎么感觉对方…不太专业的样子。
+“这是星贝死亡后留下的珍珠，具有沟通星空的力量。”渔晚说明。
+星贝，上位普通种，但由于属性稀有，能借助星辰之力制造幻影，价值在普通种里面也是最昂贵的，直追君王种。
+洛父洛母前往沧澜岛，其实就是想买到这样类似的极品宠兽。
+接下来，洛羽各种配合，有问必答。
+渔晚鼓捣半天，最后神棍一样，认真看着发光的珍珠。
+最终，珍珠上出现了一种黑白色调的动物虚影。
+看样子，应该是牛类。
+“这是…奶牛？！怎么会是奶牛，我不是把范围缩小到镜月岛了吗…奶牛这种生物，估计没多少地方有了吧。”渔晚不解。
+洛羽看着她，实锤了，对方确实不专业，想给他占卜，纯瘾大。
+要是真准，至于沦落到来御管局当个跑腿？
+宠兽奶牛……让他去开牧场吗。
+渔晚陷入沉思，抱歉道：“不好意思……我们再来试一次。”
+“好…”
+不一会儿，又是一只黑白配色的动物出现在了大珍珠上。
+洛羽沉默了，渔晚也沉默了。
+只见，是一头变异虎鲸。
+洛羽微笑，虎鲸在大海里也算上顶级猎手了，变异后高低是君王种，他配契约吗？！
+“事不过三，马上准了，你看，已经占到海洋生物了…”
+“最后一次！”渔晚严肃道：“这次一定行。”
+她不信邪一样再次占卜，汗水都已经把头发、衣服浸湿。
+片刻后，珍珠上依然出现了一道黑白身影…
+这次，是一条墨水鱼，八条触手各握着一把白色冰刀的虚像…
+终于靠谱点了！但又没完全靠谱！
+靠谱点了是因为总算是镜月岛能找到的海洋生物了，可却是…洛羽早早排除的战5渣八爪鱼…而且，造型还这么葩。
+“我懂了…”渔晚不好意思的看着洛羽：“可能是最近海洋磁场太紊乱了，看那些丧尸诡异的活动迹象就知道了。”
+“占星术受到影响…以我现在的精神力…似乎无法排除磁场干扰…”
+“没事，没事。”洛羽道：“可恶的磁场，耽误我进步。”
+“祝你顺利，就不打扰你了。”占卜失败，渔晚灰溜溜离开。
+“怪人一个，我就知道没用，不过…”望着对方离去的背影，洛羽忽然目光一凝。
+最后一个占卜…
+八刀流墨水鱼？
+后院池塘里…不就正好有个八刀流天赋的个体吗！
+“干嘛啊洛羽，你难道还真信了那占卜不成？”洛羽片刻后摇了摇头。
+算了，正事要紧…接下来…该去寻找自己的宠兽了。
+然后，就是培育资质考核。
+一套流程下来，虽然有点折腾，但起码有了保住研究所的方法…
+不一会儿，占卜结果就被洛羽抛之脑后。
+```

@@ -1,0 +1,44 @@
+[
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-E.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/E-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-E-a.md",
+  "note": "sung-thu hc ch03 v4 E lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-E.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/E-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-E-b.md",
+  "note": "sung-thu hc ch03 v4 E lan b"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-N.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/N-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-N-a.md",
+  "note": "sung-thu hc ch03 v4 N lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-N.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/N-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-N-b.md",
+  "note": "sung-thu hc ch03 v4 N lan b"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-EN.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/EN-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-EN-a.md",
+  "note": "sung-thu hc ch03 v4 EN lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v4/si-EN.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v4/EN-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v4/thinking-EN-b.md",
+  "note": "sung-thu hc ch03 v4 EN lan b"
+ }
+]
