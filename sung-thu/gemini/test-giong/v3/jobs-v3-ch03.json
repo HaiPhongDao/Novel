@@ -1,0 +1,50 @@
+[
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v3/A-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-A-a.md",
+  "thinking": "Low",
+  "note": "sung-thu hieu-chuan ch03 v3 bien A lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v3/A-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-A-b.md",
+  "thinking": "Low",
+  "note": "sung-thu hieu-chuan ch03 v3 bien A lan b"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v3/brief-B.md",
+  "out": "sung-thu/gemini/test-giong/v3/B-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-B-a.md",
+  "thinking": "High",
+  "note": "sung-thu hieu-chuan ch03 v3 bien B lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v3/brief-B.md",
+  "out": "sung-thu/gemini/test-giong/v3/B-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-B-b.md",
+  "thinking": "High",
+  "note": "sung-thu hieu-chuan ch03 v3 bien B lan b"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v3/si-C.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v3/C-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-C-a.md",
+  "thinking": "High",
+  "note": "sung-thu hieu-chuan ch03 v3 bien C lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v3/si-C.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v3/C-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v3/thinking-C-b.md",
+  "thinking": "High",
+  "note": "sung-thu hieu-chuan ch03 v3 bien C lan b"
+ }
+]
