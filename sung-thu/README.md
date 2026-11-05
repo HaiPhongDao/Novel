@@ -30,6 +30,9 @@
 | v4 E | `v4/si-E.txt` = v1 + **ví dụ brief → văn ch2** (10.612) | `ch03/brief.md` | `v4/E-a.md` (3.104 字), `E-b.md` (3.537 字) | **`gemini/test-giong/v4/doc-v4-ch03.md`** (bảng v1 · E · N · EN) · `v4/gemini-doc-E.md` (54/54) | **bác** ("Đều không đạt") |
 | v4 N | `v4/si-N.txt` = v1 **sửa người kể** (6.168) | `ch03/brief.md` | `v4/N-a.md` (3.239 字), `N-b.md` (3.564 字) | `doc-v4-ch03.md` · `v4/gemini-doc-N.md` (44/44) | **bác** |
 | v4 EN | `v4/si-EN.txt` = ví dụ + sửa người kể (11.312) | `ch03/brief.md` | `v4/EN-a.md` (3.645 字), `EN-b.md` (3.642 字) | `doc-v4-ch03.md` · `v4/gemini-doc-EN.md` (49/49) | **bác** |
+| v5 P1 | v1 (5.468) | `v5/brief-P1.md` = "Viết tiếp" + **nối tiếp đuôi ch2** | `v5/P1-a.md` (3.367 字), `P1-b.md` (2.826 字) | **`gemini/test-giong/v5/doc-v5-ch03.md`** (bảng v1 · P1 · P2 · P3) · `v5/gemini-doc-P1.md` (63/63) | chờ đọc |
+| v5 P2 | v1 | `v5/brief-P2.md` = P1 + **ví dụ ch2 trong prompt** | `v5/P2-a.md` (4.055 字), `P2-b.md` (3.548 字) | `doc-v5-ch03.md` · `v5/gemini-doc-P2.md` (40/40) | chờ đọc |
+| v5 P3 | v1 | `v5/brief-P3.md` = P2 + **7 chỗ đánh dấu dịp nội tâm** | `v5/P3-a.md` (3.801 字), `P3-b.md` (3.110 字) | `doc-v5-ch03.md` · `v5/gemini-doc-P3.md` (49/49) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
@@ -52,6 +55,13 @@ sáu bản; tiếng lòng MC chỉ ra ở câu cuối (N-b, EN-a/b: 合着…) v
 5,31) — I-0053 0,5×, I-0054 0,72×, I-0055 0,64×, đều `vo-hieu`. Ví dụ ch2 trong SI bị bỏ qua (0 chữ rò, 0 giọng); E
 giữ BANS nên thinking soát phủ định/so sánh 69/60 lần, N/EN bớt còn 18/26 · 6/2. Xếp EN ≥ N > E. SI dán vẫn v1; sửa
 chuyển sang tầng prompt ở v5 (chi tiết trong `v4/doc-v4-ch03.md`).
+
+Agent đọc v5 (sửa ở prompt, SI v1): **P3 (đánh dấu dịp nội tâm) là bản đầu tiên trả lại tiếng lòng MC** — giữ 4/5 và
+3/5 chỗ của gốc (v1–v4 và P1/P2: 0–2), P3-b năm câu trong đầu ("合着在这儿等着我呢" · "靠，真就一个极品天赋都没有？"), P3-a
+lần đầu có tiếng lòng nhân viên 疾风. Nhưng Writer đặt chúng trong ngoặc “” + thẻ 洛羽在心底暗骂, gốc viết trần trong lời kể,
+nên chỉ số sổ (！+？ lời kể) không thấy: I-0056 P1 0,42×, I-0057 P2 0,11×, I-0058 P3 0,69×, đều `vo-hieu`. P1 không đổi
+giọng (trừ câu cuối P1-b), P2 tệ nhất (0/5; ví dụ lại bị bỏ qua). Xếp P3 > P1 > P2. Biến kế gợi ý: giữ P3, thêm dòng
+"câu trong đầu viết thẳng vào lời kể, không ngoặc kép, không thẻ" (chi tiết trong `v5/doc-v5-ch03.md`).
 
 ## Số đo bộ mẫu (30 chương đầu, TB ± 2SD) — chỉ để khoanh vùng, không chấm
 
