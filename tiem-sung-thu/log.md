@@ -13,8 +13,14 @@
   - Xử lý: Gọt sạch đoạn kết điện ảnh/tổng kết triết lý trong `doan-001-a.md`, chuyển thành "dừng giữa mạch" (Lâm Dịch đạp xe lao dốc, tiếng quát của con buôn chợ cá đập vào mặt, bóp thắng gấp in vệt bùn ngay trước thùng gỗ bốc mùi tanh nồng từ bùn đáy rạn san hô). Điểm máy 88/100, 2.384 字, điểm văn 34/34 tuyệt đối.
   - Bổ sung quy tắc chống kết hạ màn vào `bible/style-guide.md`.
   - Chính thức chốt Đoạn 001.
-- **2026-11-05 (Đoạn 002):** Chạy thử nghiệm 2 bản Đoạn 002:
-  - Bản a (Brief tiếng Việt): 3.669 字 (141s), điểm máy 62/100, hơi dài.
-  - Bản b (Fact-sheet tiếng Trung phi tự sự theo khung SI): 2.493 字 (109s), điểm máy 82/100, văn 28/34, 0 rò anchor, 0 từ BANS, lượt thoại 19.
-  - Điểm dừng ngắt mạch hoàn hảo: Cắt phén ngay khi tia tĩnh điện xanh lam châm buốt ngón tay Lâm Dịch (`滋啦——！`), hoàn toàn không có câu hạ màn hay triết lý tổng kết.
-  - Chọn Bản b chốt làm Đoạn 002 chính thức.
+- **2026-11-05 (Tái thiết lập toàn diện theo yêu cầu Tác giả):**
+  - Tác giả phản hồi bản biển cả: "Chán nhỉ? Nó kiểu không trên không dưới vậy. Không quá tốt để tôi làm tiếp, không dở để tôi biết sửa ở đâu. Tạo lại đoạn 1 theo truyện mẫu xem. Đổi kim thủ chỉ/ đổi sủng thú/đổi thiết lập thế giới".
+  - Chuyển đổi thiết lập theo lựa chọn của Tác giả:
+    - Bối cảnh: Đô thị hiện đại Linh Khí Khôi Phục & Thứ Nguyên Bí Cảnh (Giang Thành, Khu Thanh Lam).
+    - Kim thủ chỉ: 【Sủng Thú Nhân Sinh Mô Phỏng Khí】 (宠兽人生模拟器 / 无限推演).
+    - Sủng thú: Quạ đen què cánh (残翼黑鸦) tiến hoá Lôi Diễm Thần Điểu (雷炎神鸟).
+  - Viết lại Đoạn 001 bám sát truyện mẫu 《神宠供应商》: Sủng thú hiện diện tương tác ngay từ đầu trong xưởng -> Mô phỏng trích xuất lộ tuyến thần thoại -> Trát đòi nợ 7 ngày của Hiệp Hội -> Quyết tâm không làm nô lệ cho tập đoàn Bát Hoang -> Cắt mạch bằng tia điện giật ngón tay.
+  - Kết quả chạy Writer:
+    - Bản a (Brief TV): 2.368 字, điểm máy 64/100, văn 28/34.
+    - Bản b (Fact-sheet ZH theo SI): 2.539 字, điểm máy 88/100, **điểm văn 34/34 tuyệt đối**, 0 rò anchor, 0 từ cấm BANS, nhịp thoại 16 lượt cực đẹp.
+  - Chọn Bản b chốt chính thức làm Đoạn 001.

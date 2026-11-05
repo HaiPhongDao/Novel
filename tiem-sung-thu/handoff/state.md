@@ -1,11 +1,11 @@
-# Trạng thái hiện tại (State) — 《深海饲育屋》
+# Trạng thái hiện tại (State) — 《都市神级饲育屋：我的宠兽能无限模拟》
 
-- **Đoạn vừa chốt:** Đoạn 002 (doan-002-b.md).
-- **Thời gian trong truyện:** 8 giờ sáng, ngày 18 tháng 5 năm 76 Tân Hải Dương Kỷ.
-- **Địa điểm:** Chợ cá Cảng Thất Tinh (七星港早市), bên chiếc xe đạp chở hàng cũ cạnh sạp lão Mộc.
-- **Nhân vật:** Lâm Dịch (18 tuổi), người xuyên việt mang chuyên môn di truyền/bồi dục + 「数据之眼」; Lão Mộc (55 tuổi, Mộc Đức Hải, ngư dân).
-- **Tài chính của Lâm Dịch:** 1.100 联盟币 (vốn 1.350 - chi 250 tiền mua trứng ốc).
-- **Đạo cụ mang theo:** 1 trứng ốc Bích Ba Thoa (huyết mạch Viễn Cổ Toàn Giác Loa, song hệ Thuỷ + Lôi, thiên phú 【自感电容】 + 【怒涛雷铠】) bọc giẻ dính dầu máy nằm trong giỏ sắt xe đạp; 1 gói tôm khô nhỏ bọc giấy báo cũ.
-- **Slot khế ước:** 0/1 (chưa khế ước, trứng chưa nở).
-- **Tình trạng phôi thai:** Đang phóng tĩnh điện xanh lam làm tê buốt ngón tay Lâm Dịch.
-- **Áp lực trước mắt:** Hạn 7 ngày (ngày 25) phải nộp 10.000 联盟币 phí gia hạn hoặc đạt chuẩn xưởng bồi dục Cấp 2. Tập đoàn Khải Hoàn (凯旋宠业) đang dòm ngó khu đất.
+- **Đoạn vừa chốt:** Đoạn 001 (doan-001-b.md).
+- **Thời gian trong truyện:** 9 giờ 20 sáng, ngày 18 tháng 6 năm 120 Tân Lịch.
+- **Địa điểm:** Tiệm bồi dục gia truyền 「青岚宠兽屋」, Khu Thanh Lam, Giang Thành (江城市青岚区).
+- **Nhân vật:** Lâm Dịch (18 tuổi), người xuyên việt mang chuyên môn thuật toán sinh học + 【宠兽人生模拟器】; 残翼黑鸦 (Quạ đen què cánh, vừa cắn nổ tia điện xanh lam trên kìm).
+- **Tài chính của Lâm Dịch:** 2.350 联盟币 (chưa tiêu).
+- **Slot khế ước:** 0/1 (chưa chính thức khế ước, chuẩn bị khế ước).
+- **Sủng thú sở hữu:** 残翼黑鸦 (thú tiềm năng Cửu Tiêu Lôi Diễm Thần Điểu).
+- **Áp lực trước mắt:** Hạn 7 ngày (ngày 25) phải nộp 50.000 联盟币 phí duy trì xưởng hoặc có sủng thú đạt chuẩn Nhất Giai của Hiệp Hội, nếu không tiệm sẽ bị niêm phong đấu giá cho tập đoàn đối thủ Bát Hoang Sủng Nghiệp (八荒宠业).
+- **Mục tiêu tiếp theo (Đoạn 002):** Dùng tiền đi gom nguyên liệu phế thải (xỉ đá lôi minh, bột ớt lửa, dầu máy), tiến hành khế ước linh hồn và kích hoạt bồi dục bước 1 cho quạ đen!

@@ -1,30 +1,36 @@
 Mở đầu truyện, khoảng 2.000 字, bằng tiếng Trung.
 
-Tình huống. 7 giờ sáng ngày 18 tháng 5, tại xưởng bồi dục 「临海宠兽坊」 ở ven bến cảng 七星港. Lâm Dịch (林弈, 18 tuổi) tỉnh lại bên quầy gỗ cũ bám muối biển, tiếp nhận dòng ký ức của nguyên chủ. Bố mẹ của thân xác này mất tích nửa năm trước trong chuyến khảo sát Vực Sâu, để lại xưởng bồi dục gia truyền đóng cửa im lìm, không một bóng khách. Lâm Dịch tự giễu chuyện kiếp trước làm việc kiệt sức trong phòng nghiên cứu di truyền, nay thức dậy trong thân xác một cậu thiếu niên nợ nần ngập đầu. Lâm Dịch bước tới bên bể kính nuôi tạm trong xưởng, tập trung nhìn vào một con thú nhỏ 岩壳蟹 đang bò dưới đáy cát. Dưới đáy mắt lóe lên dòng dữ liệu, bản mệnh thiên phú 「数据之眼」 kích hoạt, in ra bảng thuộc tính sáu trường. Chuyên môn lai tạo và di truyền học kiếp trước hiển thị thành trực giác dữ liệu rõ ràng. Đúng lúc đó, tiếng gõ cửa vang lên. 唐棠 (19 tuổi), giám định viên tập sự của 七星港务局, bước vào đặt tập biên bản kiểm toán có đóng dấu đỏ lên mặt bàn gỗ. Sự thật tống đạt: Hạn chót 7 ngày (ngày 25) xưởng phải nộp 10.000 联盟币 phí gia hạn bến bãi hoặc phải vượt qua kỳ thẩm định bồi dục Cấp 2 của Hiệp Hội, quá hạn thì bến bãi sẽ bị thu hồi và bán đấu giá. 唐棠 nhắc việc tập đoàn 凯旋宠业 đối diện đang nộp đơn mua lại khu đất này, gợi ý phương án chuyển nhượng sớm lấy tiền trang trải. Lâm Dịch hỏi rõ các mốc thủ tục, cầm bút ký nhận biên bản. Sau khi 唐棠 rời đi, Lâm Dịch quẹt thẻ ngân hàng kiểm tra số dư: Còn đúng 1.350 联盟币. Nhìn sang toà nhà rực rỡ của 凯旋宠业 đối diện, thấy bảng quảng cáo ấu thú Tinh Anh 3 vạn 联盟币 kèm hợp đồng trói buộc thức ăn và khoá gen. Lâm Dịch tính toán con đường tương lai: Không bán xưởng làm thuê cho tập đoàn; muốn thoát hiểm trước ngày 25 cần dùng chuyên môn bồi dục kiếp trước kết hợp mắt dữ liệu để tự tay bồi dục thần sủng; với 1.350 联盟币 trong túi, cần phải ra chợ cảng cá 七星港 khảo sát thực địa tìm nguồn hàng phế phẩm để nhặt mót. Lâm Dịch lấy chìa khoá dắt chiếc xe đạp chở hàng cũ ra khỏi xưởng, khoá cửa bước ra đường.
+Tình huống. 9 giờ sáng ngày 18 tháng 6, tại xưởng bồi dục 「青岚宠兽屋」 ở Khu Thanh Lam, Giang Thành. Lâm Dịch (林弈, 18 tuổi) tỉnh lại bên bàn làm việc bám bụi linh thạch, tiếp nhận dòng ký ức của nguyên chủ. Bố mẹ của thân xác này mất tích một năm trước trong Bí Cảnh Cấp S, để lại xưởng bồi dục gia truyền đóng cửa im lìm, không một bóng khách. Lâm Dịch tự giễu chuyện kiếp trước làm việc kiệt sức trong viện thuật toán di truyền sinh học, nay thức dậy trong thân xác một cậu thiếu niên nợ nần ngập đầu. Trên giá sắt gỉ trong xưởng, con quạ đen què cánh 残翼黑鸦 đang nghiêng đầu dùng con mắt đỏ ngầu mổ côm cốp vào thanh sắt. Lâm Dịch tập trung nhìn vào nó, kích hoạt kim thủ chỉ 【宠兽人生模拟器】. Mắt hiện lên bảng thuộc tính sáu trường, phát hiện cánh trái teo tóp bẩm sinh kèm huyết mạch ẩn lôi hoả. Ngay dưới bảng, giao diện mô phỏng mở ra trả về kết quả tiến hoá ẩn: 【Lôi Diễm Thần Điểu】 kèm danh mục vật liệu rẻ tiền. Đúng lúc đó, tiếng gõ cửa vang lên. 宋佳琪 (22 tuổi), cán bộ kiểm định tập sự của 御兽协会, bước vào đặt tập biên bản kiểm toán có đóng dấu đỏ lên mặt bàn gỗ. Sự thật tống đạt: Hạn chót 7 ngày (ngày 25) xưởng phải nộp 50.000 联盟币 phí duy trì tư cách hoặc phải chứng minh có sủng thú đạt chuẩn Nhất Giai có giá trị thương mại, quá hạn thì xưởng sẽ bị thu hồi và bán đấu giá. 宋佳琪 nhắc việc tập đoàn 八荒宠业 đối diện đang nộp đơn xin mua lại khu đất này, gợi ý phương án chuyển nhượng sớm lấy tiền trang trải. Lâm Dịch hỏi rõ các mốc thủ tục, cầm bút ký nhận biên bản. Sau khi 宋佳琪 rời đi, Lâm Dịch quẹt thẻ ngân hàng kiểm tra số dư: Còn đúng 2.350 联盟币. Nhìn sang toà nhà rực rỡ của 八荒宠业 đối diện, thấy bảng quảng cáo ấu thú Lôi Điêu thuần huyết giá 50 vạn 联盟币 kèm hợp đồng trói buộc thức ăn. Lâm Dịch tính toán con đường tương lai: Không bán xưởng làm thuê cho tập đoàn; muốn thoát hiểm trước ngày 25 cần dùng công thức mô phỏng vừa trích xuất để tự tay bồi dục thần sủng; với 2.350 联盟币 trong túi, đủ để gom đống nguyên liệu phế thải về phối chế. Lâm Dịch cầm kìm mỏ nhọn gắp một mẩu dây đồng bước tới trước giá sắt của con quạ.
 
-Bối cảnh thời đại. Năm 76 Tân Hải Dương Kỷ (新海洋纪), đại dương bao phủ 90% diện tích thế giới sau trận đại hồng thuỷ viễn cổ; 七星港 là cảng biển sầm uất thuộc Quần đảo Thải Lam (采蓝群岛), đầy ắp tàu hơi nước, thương đoàn và ngự thú sư thám hiểm. Ngự thú sư 16 tuổi thức tỉnh bản mệnh thiên phú và không gian ngự thú, cấp 见习 có 1 slot khế ước (0/1). Bản mệnh công khai của Lâm Dịch là E级「微光感知」, thực chất là 「数据之眼」. Tập đoàn 凯旋宠业 lũng đoạn thị trường, bán ấu thú rập khuôn giá cắt cổ (từ 3 vạn 联盟币) kèm hợp đồng trói buộc thức ăn và năng lượng; những cá thể biến dị hoặc trứng vôi hoá khó nở bị dán nhãn 残次品, bán rẻ ở chợ cá làm đồ tươi sống hoặc làm thức ăn gia súc. Một tô mì cá ở cảng giá 15–20 联盟币; phí gia hạn bến bãi 10.000 联盟币; tài khoản Lâm Dịch có 1.350 联盟币.
+Bối cảnh thời đại. Năm 120 Tân Lịch, thế giới hiện đại sau thời kỳ Linh Khí Khôi Phục, các Thứ Nguyên Bí Cảnh rải rác ngoài vành đai thành phố Giang Thành. Ngự thú sư 18 tuổi hoàn thành thức tỉnh, cấp 见习 có 1 slot khế ước (0/1). Bản mệnh công khai của Lâm Dịch là F级「精神微芒」, thực chất là 【宠兽人生模拟器】. Tập đoàn 八荒宠业 lũng đoạn thị trường, bán ấu thú rập khuôn giá cắt cổ (từ 50 vạn 联盟币) kèm hợp đồng trói buộc thức ăn; những cá thể tàn phế bị dán nhãn 劣质废宠 và bị đem tiêu huỷ. Một tô mì bò ở phố giá 20–25 联盟币; phí duy trì xưởng 50.000 联盟币; tài khoản Lâm Dịch có 2.350 联盟币.
 
-Đạo cụ và thao tác. Quầy gỗ tiếp khách tróc sơn bám vệt muối trắng, bể kính nuôi tạm đóng rêu xanh đáy rải cát biển, con cua nhỏ 岩壳蟹 giơ hai càng cọ vào thành kính, tập biên bản kiểm toán có đóng dấu đỏ của 七星港务局, bút máy ngòi kim loại của 唐棠, thẻ hội viên kiêm tài khoản ngân hàng của Lâm Dịch (màn hình đọc thẻ hiện số 1.350 联盟币), chìa khoá cổng xưởng xâu bằng dây thép, chiếc xe đạp chở hàng cũ khung sắt kêu cót két. Thao tác: Xoa thái dương tiếp nhận ký ức, gõ nhẹ ngón tay lên thành kính bể nuôi ngắm con cua đá, ký nhận vào góc biên bản, nhận lại thẻ ngân hàng nhét vào túi áo gió, đẩy cánh cửa xưởng, dắt xe đạp qua bậc thềm bước ra ngoài bến cảng.
+Đạo cụ và thao tác. Bàn làm việc gỗ cũ bám bụi linh thạch, giá sắt gỉ sét có thanh đòn ngang, con quạ đen 残翼黑鸦 lông xơ xác mổ vào đinh sắt, tập biên bản kiểm toán có đóng dấu đỏ của 御兽协会, bút máy kim loại của 宋佳琪, thẻ ngân hàng của Lâm Dịch (màn hình đọc thẻ hiện số 2.350 联盟币), sợi dây đồng và kìm mỏ nhọn trên bàn. Thao tác: Xoa thái dương tiếp nhận ký ức, gõ nhẹ ngón tay lên mặt bàn ngắm con quạ đen, ký nhận vào góc biên bản, nhận lại thẻ nhét vào túi áo, cầm chiếc kìm gắp mẩu dây đồng đưa về phía giá sắt.
 
-Bảng của con cua đá (in đúng các trường này theo khung của SI PART 4):
-【种族】：岩壳蟹
-【属性】：水、土
+Bảng của con quạ đen và mô phỏng (in đúng các trường này theo khung của SI PART 4):
+【种族】：残翼黑鸦
+【属性】：暗、风
 【种族等级】：下位普通种
-【生命等级】：2级
-【种族异能】：坚硬甲壳
-【个体天赋】：甲壳脆化（劣质天赋 — lớp vỏ bị thiếu hụt khoáng chất vôi hoá, giảm khả năng chịu lực va đập）
-Lời kể chốt hạ ngay sau bảng bằng giọng tự giễu của Lâm Dịch về chất lượng sủng thú của xưởng cũ trước khi có khách gõ cửa.
+【生命等级】：1级
+【种族异能】：暗影匿迹
+【个体天赋】：1、残翼（劣质）
+2、雷火亲和（隐性）
+Mô phỏng tương lai trả về lộ tuyến tiến hoá: 雷炎神鸟 cấp 上位超凡种, cần 3 mẩu đá lôi minh phế phẩm, nửa lượng bột ớt lửa và một ít dầu máy.
+Lời kể chốt hạ ngay sau bảng bằng giọng tự giễu của Lâm Dịch về con chim phế trước khi có tiếng gõ cửa.
 
-Trạng thái riêng. Lâm Dịch là người xuyên việt vừa tỉnh lại sau cơn chấn động ký ức, đứng trước xưởng bồi dục gia truyền trống trơn sau khi bố mẹ mất tích nửa năm trước ở Vực Sâu; slot khế ước vẫn để trống 0/1. 唐棠 vừa nhận ca kiểm toán bến tàu buổi sáng, mang nhiệm vụ thông báo đúng hạn luật định.
+Trạng thái riêng. Lâm Dịch là người xuyên việt vừa tỉnh lại sau cơn chấn động ký ức, đứng trước tiệm gia truyền trống trơn sau khi bố mẹ mất tích 1 năm trước ở Bí Cảnh; slot khế ước 0/1. 宋佳琪 vừa nhận ca kiểm toán buổi sáng, mang nhiệm vụ thông báo đúng hạn luật định.
 
 Ba biến cho mỗi người khi nói.
-Lâm Dịch: Muốn tìm hiểu rõ quy chế kiểm toán và thời hạn cụ thể của bến bãi; không muốn để lộ thân phận người xuyên việt và con mắt nhìn thấu dữ liệu; tay đang cầm cây bút máy ký tên trên biên bản.
-唐棠: Muốn Lâm Dịch hiểu rõ hạn chót ngày 25 và khả năng bị siết nợ; không muốn nói ra việc 凯旋宠业 đã nộp hồ sơ xin ưu tiên thu hồi mảnh đất này; tay đang giữ mép cặp hồ sơ.
+Lâm Dịch: Muốn tìm hiểu rõ quy chế kiểm toán và thời hạn cụ thể; không muốn để lộ thân phận người xuyên việt và giao diện mô phỏng; tay đang cầm cây bút máy ký tên trên biên bản.
+宋佳琪: Muốn Lâm Dịch hiểu rõ hạn chót ngày 25 và nguy cơ bị thu hồi mặt bằng; không muốn nói ra việc 八荒宠业 đã nộp hồ sơ xin ưu tiên thâu tóm khu đất này; tay đang giữ mép cặp hồ sơ.
 
-Khoá: Lâm Dịch ký xong biên bản, trả lại bút máy cho 唐棠; nhét thẻ ngân hàng vào túi áo.
+Khoá: Lâm Dịch ký xong biên bản, trả lại bút máy cho 宋佳琪; nhét thẻ ngân hàng vào túi áo.
 
-Dừng ở: 7 giờ 30 sáng, tiếng còi tàu vang lên từ ngoài vụng biển; Lâm Dịch khoá cửa xưởng bồi dục, dắt chiếc xe đạp chở hàng cũ xuống bậc thềm, đạp bàn đạp hòa vào dòng người tấp nập của bến cảng 七星港 để bắt đầu cuộc khảo sát thị trường.
+Dừng ở: Lâm Dịch cầm kìm kẹp mẩu dây đồng đưa lại gần giá sắt; con quạ đen chớp mắt đỏ lừ, há mỏ đớp mạnh vào lõi đồng làm bắn ra một tia lửa điện xanh lép bép chạm vào đầu ngón tay Lâm Dịch.
 
-Người có mặt: 林弈 — 18 tuổi, người xuyên việt, chủ xưởng 「临海宠兽坊」, 见习御兽师, mặc áo khoác gió màu xám tro dính vài vệt dầu máy; 唐棠 — 19 tuổi, giám định viên tập sự 七星港务局, tóc đuôi ngựa, đeo kính tròn viền bạc, đồng phục thanh tra xanh sẫm.
-Xưng hô: 林弈 gọi 唐棠 là 唐专员, tự xưng 我; 唐棠 gọi 林弈 là 林坊主 hoặc 小林.
-Sổ đầu đoạn: Hạn 7 ngày (ngày 25); phí bến bãi 10.000 联盟币; tài khoản 1.350 联盟币; slot khế ước 0/1; ấu thú Tinh Anh của 凯旋宠业 từ 3 vạn 联盟币; tô mì cá 15–20 联盟币.
+Người có mặt:
+林弈 — 18 tuổi, người xuyên việt, chủ xưởng 「青岚宠兽屋」, 见习御兽师, mặc áo hoodie xám sờn gấu dính vết dầu máy;
+宋佳琪 — 22 tuổi, cán bộ kiểm định tập sự chi nhánh Khu Thanh Lam thuộc 御兽协会, tóc ngắn ngang vai, mặc đồng phục xám bạc viền xanh, đeo kính gọng đen.
+
+Xưng hô: 林弈 gọi 宋佳琪 là 宋专员, tự xưng 我; 宋佳琪 gọi 林弈 là 林店长 hoặc 小林, xưng 我.
+
+Sổ đầu đoạn: Hạn 7 ngày (ngày 25); phí duy trì 50.000 联盟币; tài khoản 2.350 联盟币; slot khế ước 0/1; ấu thú Lôi Điêu thuần huyết của 八荒宠业 50 vạn 联盟币; tô mì bò 20–25 联盟币.

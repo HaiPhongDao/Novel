@@ -1,11 +1,9 @@
-# 林弈 (Lâm Dịch)
+# Lâm Dịch (林弈) — Nhân vật chính
 
-- **Tuổi:** 18
-- **Thân phận:** Chủ xưởng bồi dục 「临海宠兽坊」, 见习御兽师 (0/1 → 1/1).
-- **Xuất thân:** Chuyên gia nhân giống và di truyền học dị chủng xuyên không. Thừa kế xưởng bồi dục ven cảng 七星港.
-- **Bàn tay vàng:** 「数据之眼」 (hiển thị 6 trường thuộc tính chuẩn của thú và tiềm năng ẩn). Công khai: E级「微光感知」.
-- **Tài sản đầu truyện:** 1.350 联盟币 tiền mặt trong thẻ; một xưởng bồi dục cũ có bể nuôi nước mặn; 1 chiếc xe đạp chở hàng cũ.
-- **Khế ước thú cưng:**
-  1. 烁雷 (碧波螺 / 远古旋角螺) — Thuỷ + Lôi, thiên phú 【自感电容】 + 【怒涛雷铠】.
-- **Tính cách:** Thực dụng, hài hước, thích tính toán lời lỗ bằng tiền mặt, ghét thói làm màu rỗng tuếch, bảo vệ sủng thú như người nhà.
-- **Thói quen lời nói:** Thích nói thẳng, tự trào trong đầu ("靠，极品！", "合着在这儿等我呢"), khi bàn chuyện kinh doanh thì đếm rành rọt từng đồng.
+- **Tuổi:** 18.
+- **Thân phận:** Người xuyên việt, vừa tốt nghiệp trung học, 见习御兽师, chủ xưởng 「青岚宠兽屋」 tại Khu Thanh Lam, Giang Thành.
+- **Tiền kiếp:** Kỹ sư phân tích dữ liệu sinh học và thuật toán mô phỏng di truyền kiếp trước, làm việc kiệt sức qua đời.
+- **Ngoại hình / Trang phục:** Dáng người mảnh khảnh nhưng rắn rỏi, mặc áo hoodie màu xám tro sờn mép dính vài vệt dầu máy bồi dục, ngón tay thon dài quen cầm kẹp giải phẫu và bấm phím.
+- **Bản mệnh thiên phú công khai:** F级「精神微芒」 (chỉ có khả năng cảm ứng tinh thần cực yếu).
+- **Kim thủ chỉ thực sự:** 【宠兽人生模拟器】 (Sủng Thú Nhân Sinh Mô Phỏng Khí) — Khi kích hoạt, hiển thị dữ liệu gốc 6 trường và có khả năng tiến hành mô phỏng diễn biến cuộc đời, huấn luyện, đột biến và tiến hoá của sủng thú trong tương lai mà không tốn chi phí thực tế; kết thúc mô phỏng có thể trích xuất route tiến hoá thần thoại hoặc phần thưởng năng lực.
+- **Tính cách:** Khẩu ngữ hiện đại sắc sảo, tự giễu và châm biếm nội tâm (吐槽), tính toán tiền bạc rõ ràng rành mạch, ghét bị tư bản bóc lột, hành động quyết đoán, ưa thực tế hơn lý thuyết suông.

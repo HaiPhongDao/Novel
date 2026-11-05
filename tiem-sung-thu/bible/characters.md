@@ -2,21 +2,14 @@
 
 > Dùng cho `tools/soat_brief.py --bible tiem-sung-thu/bible/characters.md` và chép vào dòng `Người có mặt` của brief.
 
-## 林弈 — MC, chủ xưởng 「临海宠兽坊」
-- 18 tuổi, người xuyên việt, chủ xưởng 「临海宠兽坊」, 见习御兽师, mặc áo khoác gió màu xám tro dính vài vệt dầu máy; thẻ hội viên ghi 本命天赋 E级「微光感知」.
-- Biết nghề: Chuyên gia di truyền và lai tạo sinh vật dị chủng kiếp trước xuyên không, thừa kế xưởng gia truyền của cha mẹ mất tích; rành giải phẫu, đặc tính khoáng vật và phối phương thức ăn dị thú.
-- Muốn: Giữ xưởng bồi dục trước hạn 7 ngày, tìm được ấu thú tiềm năng cực phẩm với giá trong túi tiền (1.350 联盟币). Giấu: Thân phận người xuyên việt và 「数据之眼」 đọc được tiềm năng ẩn, route tiến hoá.
+## 林弈 — MC, chủ xưởng 「青岚宠兽屋」
+- 18 tuổi, người xuyên việt, chủ xưởng 「青岚宠兽屋」, 见习御兽师, mặc áo hoodie xám sờn gấu dính vết dầu máy; thẻ hội viên ghi 本命天赋 F级「精神微芒」; xưng hô: 林店长, 小林.
+- Biết nghề: Chuyên gia phân tích dữ liệu sinh học và lập trình viên kiếp trước xuyên không, thừa kế tiệm bồi dục của cha mẹ mất tích 1 năm trước trong Bí Cảnh; sở hữu kim thủ chỉ 【宠兽人生模拟器】.
+- Muốn: Giữ xưởng bồi dục trước hạn 7 ngày, bồi dục quạ đen què cánh thành thần điểu, kiếm tiền trang trải sinh hoạt. Giấu: Thân phận người xuyên việt và Bảng mô phỏng nhân sinh sủng thú.
 
-## 唐棠 — Giám định viên tập sự 七星港务局
-- 19 tuổi, giám định viên tập sự 七星港务局, tóc đuôi ngựa, đeo kính tròn viền bạc, đồng phục thanh tra xanh sẫm; tay kẹp cặp da và bút máy kim loại.
-- Muốn: Tống đạt thông báo kiểm toán đúng thời hạn luật định và nhắc nhở thời hạn ngày 25. Giấu: 凯旋宠业 đã chuẩn bị sẵn hồ sơ thu mua bến bãi này.
+## 宋佳琪 — Giám sát viên tập sự Hiệp Hội Ngự Thú
+- 22 tuổi, cán bộ kiểm định tập sự chi nhánh Khu Thanh Lam thuộc 御兽协会, tóc ngắn ngang vai, mặc đồng phục xám bạc viền xanh, đeo kính gọng đen; tay kẹp cặp hồ sơ và con dấu đỏ; xưng hô: 宋专员.
+- Muốn: Tống đạt thông báo kiểm toán đúng thời hạn luật định và thu hồi các xưởng không đạt chuẩn. Giấu: Đang bị cấp trên gây áp lực buộc phải hoàn thành chỉ tiêu thu hồi đất cho 八荒宠业.
 
-## 老木 — Ngư dân chợ cá Cảng Thất Tinh
-- 55 tuổi (木德海), ngư dân chợ cá, da rám nắng, mặc áo gi-lê bảo hộ sờn mép; tay cầm khăn vải lau vảy cá.
-- Muốn: Thanh lý sọt trứng lạ kéo lưới được để lấy tiền dầu máy cho tàu trước khi chợ trưa tan. Giấu: Sọt trứng này vớt nhầm ở rạn san hô ngầm nguy hiểm.
-
-## 崔雷虎 — Quản lý chi nhánh Cảng Thất Tinh của 凯旋宠业
-- 35 tuổi, quản lý tập đoàn độc quyền, mặc vest xám bóng lộn, đeo đồng hồ mạ vàng; chuyên ép giá thu mua các xưởng bồi dục tư nhân.
-
-## 烁雷 — Sủng thú đầu tiên (Ốc Vặn Đại Đế)
-- 碧波螺 (远古旋角螺幼卵), hệ Thuỷ + Lôi; háu ăn, thích cắn dây điện nạp pin, tự tin muốn làm bá chủ biển sâu.
+## 残翼黑鸦 — Sủng thú đầu tiên (sau đặt tên Cửu Tiêu)
+- 残翼黑鸦 (Quạ đen què cánh, sau này tiến hoá Cửu Tiêu Lôi Diễm Thần Điểu), thuộc tính Ám + Phong (ẩn Lôi + Hoả); cánh trái bị tật teo bẩm sinh không bay được, mắt đỏ hung dữ, tính cách lì lợm thích cắn dây điện nạp điện giải ngứa.
