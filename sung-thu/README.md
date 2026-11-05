@@ -1,7 +1,12 @@
-# sung-thu — truyện mới, bộ mẫu 《神宠供应商》
+# sung-thu — 《弃宠收容站》 (Trạm Thu Dung Thú Bỏ), bộ mẫu 《神宠供应商》
 
-- **Trạng thái:** bước 0 hiệu chuẩn SI **ĐẠT** (Tác giả 05/11, đọc ch5/ch8 với SI v3: "Đạt"). Bước kế: dựng bible,
-  dàn ý, tên truyện (AGENT.md mục 11) — mở phiên bằng `sung-thu/prompt-phien-moi.md`.
+- **Trạng thái:** bước 0 hiệu chuẩn SI **ĐẠT** (05/11). Bible + dàn ý **chờ Tác giả duyệt** (05/11): đọc
+  `bible/overview.md` → `plot/arcs.md` → `plot/outline.md` → `bible/characters.md` → `bible/world.md` →
+  `bible/glossary.md`. Duyệt rồi mới viết đoạn 001.
+- **Truyện:** 都市御兽 · tiến hoá · xây thế lực. 宁川 hiện đại; 许野 (22) nhân viên cuối của 第七收容站, thiên phú
+  công khai E级「鉴定」 = 「数据之眼」 thật; thú đầu 大黄 (田园犬, 「天狗血脉」). Mổ xẻ bộ mẫu: `../mo-xe/than-sung/`.
+- **Khung brief:** ba đoạn đầu brief sáu khối (`chung/hieu-chuan/prompt-agent-writer.md`); từ đoạn 004 **mẫu A
+  (ngắn)** — Tác giả chọn 05/11.
 - **Bộ mẫu:** 《神宠供应商》 — 轻泉流响, chương 1–140, `sung-thu/神宠供应商(1-140章).txt` (UTF-8, 516.707 ký tự).
   Tách được 138 chương; ch69 và ch86 có tiêu đề lệch khuôn. Chưa commit toàn văn (AGENT.md mục 2: không commit toàn
   văn truyện mẫu) — chỉ commit chương đáp án.
@@ -16,7 +21,7 @@
   ngoài (I-0049…I-0058). Vì sao: `gemini/test-giong/v4/phan-tich-si-v1.md` và `chung/kinh-nghiem.md` KN38.
 - **Bài thử:** chương 3 「神宠供应商」 (2.822 字, ba tiệm bán 中位种). Đáp án + brief:
   `chung/hieu-chuan/than-sung/ch03/`. Bảng biên độ 30 chương của bộ mẫu: `chung/hieu-chuan/than-sung/bang-mau.json`.
-- **Khung brief cho truyện thật:** chưa chọn (mẫu A hay B) — hỏi Tác giả sau khi SI ĐẠT. Ba đoạn đầu chạy theo
+- **Khung brief cho truyện thật:** mẫu A (Tác giả 05/11). Ba đoạn đầu chạy theo
   `chung/hieu-chuan/prompt-agent-writer.md` (brief sáu khối, hai lần chạy, không sửa SI).
 
 ## Bài hiệu chuẩn
