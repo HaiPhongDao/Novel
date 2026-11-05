@@ -33,6 +33,9 @@
 | v5 P1 | v1 (5.468) | `v5/brief-P1.md` = "Viết tiếp" + **nối tiếp đuôi ch2** | `v5/P1-a.md` (3.367 字), `P1-b.md` (2.826 字) | **`gemini/test-giong/v5/doc-v5-ch03.md`** (bảng v1 · P1 · P2 · P3) · `v5/gemini-doc-P1.md` (63/63) | chờ đọc |
 | v5 P2 | v1 | `v5/brief-P2.md` = P1 + **ví dụ ch2 trong prompt** | `v5/P2-a.md` (4.055 字), `P2-b.md` (3.548 字) | `doc-v5-ch03.md` · `v5/gemini-doc-P2.md` (40/40) | chờ đọc |
 | v5 P3 | v1 | `v5/brief-P3.md` = P2 + **7 chỗ đánh dấu dịp nội tâm** | `v5/P3-a.md` (3.801 字), `P3-b.md` (3.110 字) | `doc-v5-ch03.md` · `v5/gemini-doc-P3.md` (49/49) | chờ đọc |
+| **v6 X** | `v6/si-argon.txt` (Argon, 7.630) | `v6/brief-argon.md` (Argon) | **`v6/X-a.md`** (4.713 字), `X-b.md` (5.426 字) | **`gemini/test-giong/v6/doc-v6-ch03.md`** (bảng v1 · P3 · X · S · B, 7 chỗ kiểm, 8 câu đùa) · `v6/gemini-doc-X.md` (43/43) | chờ đọc |
+| v6 S | `v6/si-argon.txt` | `ch03/brief.md` (gốc) | `v6/S-a.md` (4.460 字), `S-b.md` (4.279 字) | `doc-v6-ch03.md` · `v6/gemini-doc-S.md` (64/64) | chờ đọc |
+| v6 B | v1 (5.468) | `v6/brief-argon.md` | `v6/B-a.md` (3.591 字), `B-b.md` (3.069 字) | `doc-v6-ch03.md` · `v6/gemini-doc-B.md` (46/46) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
@@ -62,6 +65,13 @@ lần đầu có tiếng lòng nhân viên 疾风. Nhưng Writer đặt chúng t
 nên chỉ số sổ (！+？ lời kể) không thấy: I-0056 P1 0,42×, I-0057 P2 0,11×, I-0058 P3 0,69×, đều `vo-hieu`. P1 không đổi
 giọng (trừ câu cuối P1-b), P2 tệ nhất (0/5; ví dụ lại bị bỏ qua). Xếp P3 > P1 > P2. Biến kế gợi ý: giữ P3, thêm dòng
 "câu trong đầu viết thẳng vào lời kể, không ngoặc kép, không thẻ" (chi tiết trong `v5/doc-v5-ch03.md`).
+
+Agent đọc v6 (đề xuất Argon Gemini + hai đối chứng): **SI Argon là bản SI đầu tiên làm lời kể nói bằng giọng MC** —
+！+？ lời kể X 2,33/3,13 · S 2,02/3,27 (gốc 5,31; mọi bản trước ≤ 0,56), tiếng lòng trần ngoài ngoặc, có 店员：？？？; B
+(SI v1 + brief Argon) 0,28/0,33, tiếng lòng lại vào ngoặc. I-0059 X 3,19× `hieu-qua`, I-0060 S 1,98× `chua-ro`, I-0061 B
+0,36× `vo-hieu`. Bảy chỗ kiểm Argon: X-a 7/7, X-b 6+1~, S 2–1, B 2. Lưu ý: brief Argon có bản Việt 8/8 câu đùa của gốc,
+X-a dịch ngược ra 7/8 (ba câu gần nguyên văn) — phần đùa đúng gốc phần lớn là dịch từ brief; S (brief gốc) tự đặt câu
+đùa riêng. Giá: X dài +67/+92% (chi tiết trong `v6/doc-v6-ch03.md`).
 
 ## Số đo bộ mẫu (30 chương đầu, TB ± 2SD) — chỉ để khoanh vùng, không chấm
 
