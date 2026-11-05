@@ -36,6 +36,7 @@
 | **v6 X** | `v6/si-argon.txt` (Argon, 7.630) | `v6/brief-argon.md` (Argon) | **`v6/X-a.md`** (4.713 字), `X-b.md` (5.426 字) | **`gemini/test-giong/v6/doc-v6-ch03.md`** (bảng v1 · P3 · X · S · B, 7 chỗ kiểm, 8 câu đùa) · `v6/gemini-doc-X.md` (43/43) | chờ đọc |
 | v6 S | `v6/si-argon.txt` | `ch03/brief.md` (gốc) | `v6/S-a.md` (4.460 字), `S-b.md` (4.279 字) | `doc-v6-ch03.md` · `v6/gemini-doc-S.md` (64/64) | chờ đọc |
 | v6 B | v1 (5.468) | `v6/brief-argon.md` | `v6/B-a.md` (3.591 字), `B-b.md` (3.069 字) | `doc-v6-ch03.md` · `v6/gemini-doc-B.md` (46/46) | chờ đọc |
+| **v6 khác** (ch5, ch8) | `v6/si-argon.txt` | `ch05/brief.md`, `ch08/brief.md` (gốc, chỉ sự việc) | **`v6/khac/ch05-a.md`** (4.737 字), `ch05-b.md` (4.952), `ch08-a.md` (4.556), `ch08-b.md` (4.305) | **`v6/khac/doc-ch05-ch08.md`** · `gemini-doc-ch05.md` (52/52), `gemini-doc-ch08.md` (46/46) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
