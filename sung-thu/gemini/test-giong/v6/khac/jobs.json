@@ -1,0 +1,34 @@
+[
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch05/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/khac/ch05-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/khac/thinking-ch05-a.md",
+  "thinking": "High",
+  "note": "sung-thu hc ch05 v6 SI Argon + brief goc lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch05/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/khac/ch05-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/khac/thinking-ch05-b.md",
+  "thinking": "High",
+  "note": "sung-thu hc ch05 v6 SI Argon + brief goc lan b"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch08/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/khac/ch08-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/khac/thinking-ch08-a.md",
+  "thinking": "High",
+  "note": "sung-thu hc ch08 v6 SI Argon + brief goc lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch08/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/khac/ch08-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/khac/thinking-ch08-b.md",
+  "thinking": "High",
+  "note": "sung-thu hc ch08 v6 SI Argon + brief goc lan b"
+ }
+]
