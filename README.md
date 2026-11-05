@@ -15,6 +15,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`manga-tokyo-1994/`](manga-tokyo-1994/README.md) | Manga Tokyo 1994 — hoạ sĩ tuần san bị cắt truyện tỉnh dậy trong chính thân xác đó với ba mươi năm hậu kiến, phải giữ nghề bằng phiếu của độc giả chứ không bằng giải thưởng | Đã chốt 001–003 (黄金三章), SI v5 7.974 ký tự |
 | [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | Manga Tokyo 2000 — người xuyên việt mang tư duy phân cảnh điện ảnh đời sau nhập vào nhân viên ca đêm tiệm manga café nợ tiền trọ, chớp lấy suất one-shot 32 trang của bán nguyệt san thiên niên kỷ | Khởi động: SI v5 7.913 ký tự, đang chạy 001–003 |
 | [`sung-thu/`](sung-thu/README.md) | 《弃宠收容站》 Trạm Thu Dung Thú Bỏ — nhân viên cuối của trạm thu dung sắp bị dẹp ở thành phố hiện đại nhìn thấu huyết mạch ẩn của thú bị vứt, cho tiến hoá và dựng thế lực từ đống "phế sủng" (bộ mẫu 《神宠供应商》) | Hiệu chuẩn SI ĐẠT (05/11). Bible + dàn ý chờ Tác giả duyệt; khung brief mẫu A |
+| [`tiem-sung-thu/`](tiem-sung-thu/README.md) | 《深海饲育屋》 Tiệm Bồi Dục Biển Sâu — thợ lai tạo xuyên vào chủ xưởng ven cảng Cảng Thất Tinh sắp bị siết nợ, dùng 「Dữ Liệu Chi Nhãn」 nhặt mót trứng dị biến cổ đại ở chợ cá, tự tay bồi dục thần sủng biển sâu (bộ mẫu 《神宠供应商》) | Khởi tạo 05/11, chung SI Argon v3, Bible + Dàn ý Arc 1 + Brief 001 sẵn sàng |
 
 ## Cấu trúc
 
