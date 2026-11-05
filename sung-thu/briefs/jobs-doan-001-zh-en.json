@@ -1,0 +1,6 @@
+[
+ {"si": "sung-thu/gemini/si-dan-gemini.txt", "prompt": "sung-thu/briefs/doan-001-zh.md", "out": "sung-thu/chapters/doan-001-zh-a.md", "think_out": "sung-thu/chapters/thinking/doan-001-zh-a.md", "thinking": "High", "note": "sung-thu doan-001 brief zh lan a"},
+ {"si": "sung-thu/gemini/si-dan-gemini.txt", "prompt": "sung-thu/briefs/doan-001-en.md", "out": "sung-thu/chapters/doan-001-en-a.md", "think_out": "sung-thu/chapters/thinking/doan-001-en-a.md", "thinking": "High", "note": "sung-thu doan-001 brief en lan a"},
+ {"si": "sung-thu/gemini/si-dan-gemini.txt", "prompt": "sung-thu/briefs/doan-001-zh.md", "out": "sung-thu/chapters/doan-001-zh-b.md", "think_out": "sung-thu/chapters/thinking/doan-001-zh-b.md", "thinking": "High", "note": "sung-thu doan-001 brief zh lan b"},
+ {"si": "sung-thu/gemini/si-dan-gemini.txt", "prompt": "sung-thu/briefs/doan-001-en.md", "out": "sung-thu/chapters/doan-001-en-b.md", "think_out": "sung-thu/chapters/thinking/doan-001-en-b.md", "thinking": "High", "note": "sung-thu doan-001 brief en lan b"}
+]
