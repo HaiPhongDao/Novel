@@ -53,6 +53,10 @@ Lệch nhau thì: làn mở truyện nghe prompt bàn giao và `hieu-chuan/READM
   trong `chung/` thì chạy `graphify query "<câu hẹp>" --budget 800–1500` ở gốc repo trước, rồi chỉ đọc đúng đoạn
   graph trỏ tới. Graph chỉ phủ `chung/` (dựng 04/11); file đổi sau đó: `/graphify chung --update`. File dài ngoài
   graph: Grep lấy số dòng rồi Read `offset/limit`, không đọc nguyên file. Thinking của Writer: grep, không đọc hết.
+- **Chữ Trung giao Gemini đọc trước** (Tác giả 05/11 chọn "Dựng lối Gemini đọc"): `python tools/doc_gemini.py
+  doc-cap | tom-tat | tim-anchor …` (`chung/doc-gemini/README.md`). Mọi nhận định kèm câu trích, script kiểm từng câu;
+  mã `3` = có câu trích không thấy → không tin báo cáo. Agent đọc báo cáo và đúng đoạn được trích; câu ĐẠT vẫn do
+  Tác giả. Lần thử đầu (sung-thu v1 ch3): 51/51 câu trích thật, khớp kết luận Agent đọc tay và bắt thêm hai chỗ.
 
 ## 1. Vòng một đoạn
 
