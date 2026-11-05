@@ -45,3 +45,4 @@
 | 残次品 | Hàng phế phẩm / lỗi mốt |
 | 官方进化路线 | Tuyến tiến hoá chính thức |
 | 隐藏进化路线 | Tuyến tiến hoá ẩn |
+| 穿越者 | Người xuyên việt |
