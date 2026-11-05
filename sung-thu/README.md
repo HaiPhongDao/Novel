@@ -1,7 +1,7 @@
 # sung-thu — truyện mới, bộ mẫu 《神宠供应商》
 
-- **Trạng thái:** làn mở truyện, **bước 0 — hiệu chuẩn SI** (`chung/hieu-chuan/README.md`). Chưa có bible, dàn ý,
-  tên truyện: Tác giả đọc bài hiệu chuẩn và nói ĐẠT thì mới dựng.
+- **Trạng thái:** bước 0 hiệu chuẩn SI **ĐẠT** (Tác giả 05/11, đọc ch5/ch8 với SI v3: "Đạt"). Bước kế: dựng bible,
+  dàn ý, tên truyện (AGENT.md mục 11) — mở phiên bằng `sung-thu/prompt-phien-moi.md`.
 - **Bộ mẫu:** 《神宠供应商》 — 轻泉流响, chương 1–140, `sung-thu/神宠供应商(1-140章).txt` (UTF-8, 516.707 ký tự).
   Tách được 138 chương; ch69 và ch86 có tiêu đề lệch khuôn. Chưa commit toàn văn (AGENT.md mục 2: không commit toàn
   văn truyện mẫu) — chỉ commit chương đáp án.
@@ -10,7 +10,7 @@
   【种族】… in khi nhìn một con thú.
 - **SI đang dùng (05/11):** `gemini/system-instruction-v3.md` = **nguyên văn SI của Argon Gemini** (7.630 ký tự) →
   bản dán `gemini/si-dan-gemini.txt` (`python tools/dung_si.py sung-thu`). Tác giả đọc bản X ch3: "Đó, bản X…";
-  "Cập nhật repo đi". Chưa ĐẠT chính thức: ch5/ch8 chờ đọc. Đo: I-0059 hiệu quả, I-0060 chưa rõ, I-0061 brief Argon
+  "Cập nhật repo đi"; ch5/ch8: "Đạt". SI chốt cho ba đoạn đầu. Đo: I-0059 hiệu quả, I-0060 chưa rõ, I-0061 brief Argon
   một mình vô hiệu. Lỗi còn mở: dài +50–90%; rò anchor (奶牛 · 虎鲸 · 珍珠 ở ch5, 怪鳞鱼 ở ch8); mức giọng gần cố định.
   Đời cũ giữ làm lưu trữ: v1 (khung gọn manga, 5.468) và v2 (v1 bỏ BANS) — cả năm lượt v1–v5 đều ra giọng người
   ngoài (I-0049…I-0058). Vì sao: `gemini/test-giong/v4/phan-tich-si-v1.md` và `chung/kinh-nghiem.md` KN38.

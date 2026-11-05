@@ -2,7 +2,7 @@
 SI v3 — sung-thu. NGUYÊN VĂN đề xuất của Argon Gemini (`gemini/test-giong/v6/si-argon.txt`), Tác giả giao Argon bằng
 `sung-thu/prompt-argon.md` và dán lại 05/11/2026. Agent không sửa chữ nào.
 Duyệt: Tác giả — đọc bản X ch3: "Đó, bản X tại sao Argon làm được còn bạn thì không?"; "Cập nhật repo đi" (05/11).
-Chưa phải ĐẠT chính thức của bài hiệu chuẩn: ch5/ch8 (`gemini/test-giong/v6/khac/`) chờ Tác giả đọc.
+Hiệu chuẩn ĐẠT: Tác giả đọc ch5/ch8 (`gemini/test-giong/v6/khac/`): "Đạt" (05/11). Chốt cho ba đoạn đầu.
 
 Đo (sổ lỗi): I-0059 hieu-qua (X: SI + brief Argon, ch3, ！+？ lời kể 2,33/3,13 /1.000; v1 0/0,36; gốc 5,32) ·
 I-0060 chua-ro (S: SI Argon + brief gốc chỉ sự việc, 2,02/3,27) · I-0061 vo-hieu (B: SI v1 + brief Argon).
