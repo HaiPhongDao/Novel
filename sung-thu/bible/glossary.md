@@ -53,6 +53,11 @@
 | Hiệp hội Ngự thú phân hội 宁川 | 御兽协会宁川分会 |
 | thú đoàn dân gian / công hội | 民间兽团 / 公会 (三级 · 二级 · 一级) |
 | Hội liên hiệp bằng sáng chế tiến hoá | 进化专利联合会 (chưa lộ tới arc 4) |
+| Điều lệ quản lý thú lang thang | 《流浪兽管理条例》 |
+| slot khế ước | 契约位 (vd 0/1, 1/1) |
+| ấn khế ước (hiện trên mu bàn tay) | 契约纹 |
+| cáo tuyết (loài hộp mù 开元) | 雪绒狐 |
+| thiên phú "Tâm sương" (lồng 9) | 霜心 |
 | chó ta | 田园犬 |
 | huyết mạch Thiên Cẩu | 天狗血脉 |
 

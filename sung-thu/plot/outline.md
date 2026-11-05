@@ -6,7 +6,7 @@
 | Đoạn | Arc | Chuyện chính | Trạng thái đổi | Loại | Dừng |
 |---|---|---|---|---|---|
 | 001 | 1 | 6:40, lồng 17 hết 公示期 lúc 9:00. Mắt in thêm 个体天赋; 许野 đọc dãy lồng, thấy 「天狗血脉」 ở 大黄, đặt slot duy nhất, khế ước ngay trong lồng | thân phận (có thú khế ước) · thông tin | xung đột–sướng | Hạn chót: 8:52 còi xe 净城 ngoài cổng |
-| 002 | 1 | 蔡德旺 đếm lồng. 许野 lật sổ: 8 con đăng ký buổi chiều, luật tính theo giờ → xe phải quay lại 16:30; bỏ 1.200 元 nhận nuôi 6 con mắt chọn (con xấu nhất). Còn 12 con lên xe | tài nguyên (−1.200) · rủi ro | xung đột–sướng | Lời hứa: 蔡德旺 "四点半我准时来" |
+| 002 | 1 | 蔡德旺 đếm lồng. 许野 lật sổ: 8 con đăng ký buổi chiều, luật tính theo giờ → xe phải quay lại 16:30; bỏ 1.000 元 nhận nuôi 5 con mắt chọn (có 雪绒狐 lồng 9), còn 140 元. Còn 13 con lên xe | tài nguyên (−1.000) · rủi ro | xung đột–sướng | Lời hứa: 蔡德旺 "四点半我准时来" |
 | 003 | 1 | 卢振东 mang giấy dẹp trạm ngày 30, 韩骁 đo đất. 韩骁 nhìn con chó ta trên thẻ khế ước. 许野 hỏi điều kiện giữ trạm: 兽团 đăng ký + 4,5 vạn quý đầu + không tồn lồng quá hạn → nhận | mục tiêu (12 ngày / 4,5 vạn) · quan hệ (đối đầu 韩骁) | leo thang ngầm | Hạn chót + vật: 宋柚 đứng ngoài cổng ôm lồng xách |
 | 004 | 1 | 宋柚 tới 弃养 灰团鼠 (hàng lỗi 开元, còn nợ 11 kỳ). Mắt đọc: thiên phú ẩn 「暗影潜行」. 许野 từ chối nhận, đề nghị đổi: vào đoàn, chạy nhiệm vụ cùng anh | quan hệ · thông tin | gắn kết | Xin – chưa đáp |
 | 005 | 1 | 葛茜茜 đến quay "những ngày cuối của trạm thu dung". 许野 đổi kịch bản: livestream nhận nuôi, anh chọn thú cho người xem | mục tiêu (nguồn tiền) | xây thế lực | Hành động bị cắt: người nhận nuôi đầu tiên gọi vào |

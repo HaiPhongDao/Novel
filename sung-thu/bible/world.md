@@ -18,6 +18,8 @@
    một con là chiếm slot; huỷ khế ước làm cả người lẫn thú trọng thương. 许野 chỉ có **1 slot** tới khi lên 中级.
 2. **Thú không khế ước vẫn nuôi được** (thú cảnh, thú gác) nhưng không vào 御兽空间, không phát huy hết 异能. Thế lực
    của MC lớn bằng cách **giao thú cho người** (thành viên khế ước) — không bằng một mình MC chứa hết.
+   Cách khế ước: 御兽师 đặt lòng bàn tay lên trán con thú; con thú không kháng cự thì 契约纹 hiện trên mu bàn tay
+   người, thẻ 御兽师 đổi 契约位 (vd 0/1 → 1/1). Thú của trạm phải trả phí nhận nuôi trước khi khế ước.
 3. **Cấp thú.** 种族等级 7 bậc; mỗi bậc có trần 生命等级: 普通级 ≤20 · 精英级 ≤40 · 统领级 ≤60 · 领主级 ≤80 ·
    王级 ≤100 · 皇级, 神话级 không ai đo được. Muốn qua trần phải **tiến hoá**.
 4. **Tiến hoá** cần đủ trần cấp + 进化条件 (vật liệu, môi trường, sự kiện). Mỗi loài có 官方进化路线 đăng ký ở

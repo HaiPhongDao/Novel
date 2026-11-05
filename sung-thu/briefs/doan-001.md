@@ -1,0 +1,21 @@
+Mở đầu truyện, khoảng 2.000 字, bằng tiếng Trung.
+
+Tình huống. 6 giờ 40 sáng ngày 18, dãy lồng A của 第七收容站 — trạm thu dung thú cuối 窑厂路, khu 老窑 phía nam 宁川. 许野, 22 tuổi, nhân viên duy nhất còn lại của trạm, đang cho ăn đợt cuối 27 con hết 公示期 lúc 9 giờ hôm nay; 9 giờ xe tải trắng của 净城生物 tới chở cả 27 con đi 无害化处理. Lồng 17 là 大黄 — con chó ta lông vàng, tai trái cụp, 城管 bắt trên 窑厂路 đúng 9 giờ sáng bảy ngày trước. Sáng nay, lúc 许野 nhìn vào lồng 17, thiên phú 「鉴定」 của anh không in bốn dòng như hai năm nay mà in sáu dòng: thêm 种族异能 và 个体天赋. Anh đi hết dãy lồng để thử — con nào cũng ra sáu dòng. Trong 27 con, gần hết chỉ có thiên phú thường; một con ở lồng 9 có thứ đáng để ý; con ở lồng 17 có thứ đáng đặt cả slot khế ước duy nhất. Trước 8 giờ 52, 许野 trả 200 元 phí nhận nuôi qua mã của trạm rồi khế ước 大黄 ngay trong lồng.
+
+Bối cảnh thời đại (dữ kiện để giữ cho đúng, không cần kể hết). Năm 52 kỷ 兽潮, 52 năm sau khi 天裂 mở trên trời; 宁川 1.200 万 dân, ba vòng tường, ngoài tường là 野区. Đời sống trong tường như đô thị bây giờ: điện thoại, trả tiền bằng mã, xe điện giao đồ ăn. Người 16 tuổi thức tỉnh, được 御兽协会 chấm 本命天赋 từ S tới E, ghi lên thẻ. 见习御兽师 chỉ có 1 slot khế ước; khế ước rồi thì slot đó mất cho tới khi lên 中级, phải mất nhiều năm. Điều lệ quản lý thú lang thang của thành phố: thú vô chủ trong tường phải vào trạm thu dung, 公示期 7×24 giờ tính từ giờ đăng ký nhập trạm, hết hạn không ai nhận thì giao 净城生物 xử lý. Công ty 开元宠业 bán 宠兽盲盒 1.288 元 một hộp; con không đạt chuẩn của họ bị tính là 残次 và đưa vào trạm, trên lồng dán mác vàng của 开元. Một quả trứng 精英级 ở chợ thú giá khoảng 3,2 vạn 元. 区 đã báo trạm sẽ đóng cửa ngày 30 tháng này.
+
+Đạo cụ và thao tác. Bảng kẹp kẹp danh sách 27 con hết hạn (giấy in, cột số lồng, loài, giờ nhập trạm), xô thức ăn hạt và cái muôi nhôm, chùm chìa khoá lồng đeo ở thắt lưng, thẻ 御兽师 của 许野 (mặt sau: 本命天赋 E级「鉴定」, 契约位 0/1), điện thoại (số dư 1.340 元), mã thu tiền của trạm dán ở cửa phòng trực. Khế ước: 御兽师 đặt lòng bàn tay lên trán con thú, con thú không kháng cự thì 契约纹 hiện trên mu bàn tay người, thẻ đổi thành 契约位 1/1. Thao tác có thể khai thác: mở khoá lồng, đổ hạt vào bát, gạch tên trên danh sách, quét mã, lật thẻ, đặt tay qua song lồng.
+
+Bảng của 大黄 (in đúng các trường này, theo khung của SI): 种族 田园犬 · 属性 土 · 种族等级 普通级 · 生命等级 6级 · 种族异能 撕咬 · 个体天赋 hai cái: 看家 (普通天赋 — ở trên địa bàn của mình thì mọi năng lực tăng nhẹ) và 天狗血脉 (传说天赋 — trong người ngủ một dòng máu 天狗 rất mỏng, đủ điều kiện thì có thể phản tổ tiến hoá). Lồng 9: một con 雪绒狐 hàng 残次 của 开元, lông đen (loài này chuẩn là lông trắng); thiên phú thứ hai của nó là 霜心 (稀有天赋 — hàn khí trong người kết thành lõi). Các con còn lại chỉ cần đếm hoặc lướt qua; không in thêm bảng nào ngoài 大黄.
+
+Trạng thái riêng. 许野 vừa hết ca đêm, ở luôn phòng trực của trạm; bảy ngày nay đã gọi hết danh sách người muốn nhận nuôi, không ai tới. Hai năm làm 见习御兽师, 0 khế ước: tiền không đủ mua con tốt, còn slot thì anh không bỏ vào con kém. 大黄 bảy ngày nay cứ tới giờ cho ăn là ngồi sẵn ở cửa lồng. Khoảng 8 giờ 30, 蔡德旺 — tài xế 净城生物 — gọi điện xác nhận số lượng và giờ tới.
+
+Ba biến cho mỗi người khi nói (không giao lời thoại). 许野: muốn giữ con chó và biết thêm con mắt này đọc được gì; không muốn nói ra cho ai việc 「鉴定」 vừa in thêm hai dòng; tay đang cầm bảng kẹp và chùm chìa khoá. 蔡德旺 (qua điện thoại): muốn chở đủ 27 con, về sớm; không muốn nói ra công ty tính tiền theo đầu con; tay đang giữ vô lăng, tai nghe đang mở kịch radio.
+
+Khoá: khế ước thành trước 8 giờ 52; thẻ của 许野 đổi thành 契约位 1/1; trên danh sách còn 26 con.
+
+Dừng ở: 8 giờ 52, còi xe tải vang ngoài cổng sắt; 许野 nhét thẻ vào túi áo, cầm bảng kẹp đi ra cổng.
+
+Người có mặt: 许野 — 22 tuổi, nhân viên hợp đồng của trạm, 见习御兽师 hai năm, 0 khế ước; áo khoác công nhân màu cam in chữ 收容站 bạc màu, mu bàn tay dán ba miếng băng cá nhân; 大黄 — 田园犬 lông vàng, tai trái cụp, lồng 17; 蔡德旺 — 50 tuổi, tài xế 净城生物, đeo găng cao su vàng, cắm tai nghe nghe kịch radio.
+Xưng hô: 许野 gọi 蔡德旺 là 蔡师傅, xưng 我; 蔡德旺 gọi 许野 là 小许; 许野 gọi con chó là 大黄.
+Sổ đầu đoạn: 27 con hết 公示期 lúc 9:00; xe 净城生物 tới 9:00; trạm đóng cửa ngày 30 (hôm nay ngày 18); số dư 1.340 元, phí nhận nuôi 200 元/con; slot khế ước 0/1 trước, 1/1 sau; trứng 精英级 ~3,2 vạn 元; hộp mù 开元 1.288 元.
