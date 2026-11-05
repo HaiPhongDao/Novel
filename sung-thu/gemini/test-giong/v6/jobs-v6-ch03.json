@@ -1,0 +1,44 @@
+[
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "sung-thu/gemini/test-giong/v6/brief-argon.md",
+  "out": "sung-thu/gemini/test-giong/v6/X-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-X-a.md",
+  "note": "sung-thu hc ch03 v6 X lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "sung-thu/gemini/test-giong/v6/brief-argon.md",
+  "out": "sung-thu/gemini/test-giong/v6/X-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-X-b.md",
+  "note": "sung-thu hc ch03 v6 X lan b"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/S-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-S-a.md",
+  "note": "sung-thu hc ch03 v6 S lan a"
+ },
+ {
+  "si": "sung-thu/gemini/test-giong/v6/si-argon.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v6/S-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-S-b.md",
+  "note": "sung-thu hc ch03 v6 S lan b"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v6/brief-argon.md",
+  "out": "sung-thu/gemini/test-giong/v6/B-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-B-a.md",
+  "note": "sung-thu hc ch03 v6 B lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v6/brief-argon.md",
+  "out": "sung-thu/gemini/test-giong/v6/B-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v6/thinking-B-b.md",
+  "note": "sung-thu hc ch03 v6 B lan b"
+ }
+]
