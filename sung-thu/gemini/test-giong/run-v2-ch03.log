@@ -1,0 +1,9 @@
+extension nhận việc, đang chạy 1 việc
+extension nhận việc, đang chạy 2 việc
+kết nối https://aistudio.google.com/u/1/prompts/new_chat
+kết nối https://aistudio.google.com/u/0/prompts/new_chat
+thinking: 10166 ký tự → sung-thu/gemini/test-giong/thinking-v2-ch03-a.md
+sung-thu/gemini/test-giong/v2-ch03-a.md | 4180 chữ Hán | 142s | /u/0 | https://aistudio.google.com/u/0/prompts/new_chat
+thinking: 20564 ký tự → sung-thu/gemini/test-giong/thinking-v2-ch03-b.md
+sung-thu/gemini/test-giong/v2-ch03-b.md | 4205 chữ Hán | 191s | /u/1 | https://aistudio.google.com/u/1/prompts/new_chat
+xong 2/2 | lỗi: không | chưa chạy (hết quota): không

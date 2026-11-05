@@ -1,0 +1,16 @@
+[
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v2-ch03-a.md",
+  "think_out": "sung-thu/gemini/test-giong/thinking-v2-ch03-a.md",
+  "note": "sung-thu hieu-chuan ch03 SI v2 lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/than-sung/ch03/brief.md",
+  "out": "sung-thu/gemini/test-giong/v2-ch03-b.md",
+  "think_out": "sung-thu/gemini/test-giong/thinking-v2-ch03-b.md",
+  "note": "sung-thu hieu-chuan ch03 SI v2 lan b"
+ }
+]
