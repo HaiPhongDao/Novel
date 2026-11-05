@@ -27,7 +27,9 @@ Hai làn. Trộn là mất dấu nguyên nhân.
    không con số nhịp). Chạy Writer **hai chat mới**. Ghép `doc-cap`. **Tác giả đọc** rồi mới được gọi là ĐẠT.
    Khung Tác giả đã thấy "ổn" (03/11): bản gọn FIXED + mục 1 (nhân vật) + mục 3 (thoại) + BANS + PART 3, **không
    ROLE** (`chung/outliner-train/si-dong-bang.txt`). Tác giả bác mục 2, mục 4 và khối NARRATION (I-0039, I-0040,
-   I-0041). Bộ mẫu khác thì đổi anchor và FIXED 2, giữ chữ các mục; truyện có bàn tay vàng thêm PART 4.
+   I-0041). Khung đó là của làn manga — **đừng mang chữ của nó sang bộ mẫu khác giọng**: `sung-thu` giữ chữ các mục,
+   chỉ đổi anchor, năm lượt (I-0049…I-0058) đều ra giọng người đứng ngoài; SI viết lại cả bản từ giọng bộ mẫu (Argon,
+   `sung-thu/gemini/system-instruction-v3.md`) mới ra (I-0059, Tác giả: "Đó, bản X…"). Bàn tay vàng thêm PART 4.
 2. Chưa ĐẠT thì sửa anchor hoặc một nguyên tắc viết bằng lời (mục 6b). Không thêm số, không dựng bible.
 3. Tác giả ĐẠT rồi mới có `bible/` và `plot/outline.md`. AGENT.md mục 11 làm bible trước — bước đó bỏ qua.
 4. **Ba đoạn đầu không sửa SI đã chốt.** Nhiễu giữa hai lần chạy lớn hơn mức một dòng luật mới chứng minh được.
@@ -262,6 +264,22 @@ Những điều đã biết, khỏi đo lại:
   `chung/hieu-chuan/manga/gemini/principles-trang-thai.md`. Chốt cả tệp SI là Tác giả cho dùng tệp, không phải từng
   dòng đã có tác dụng, vô dụng, hay phản tác dụng. Phép thử một dòng: cùng brief, cùng anchor, bỏ đúng một khối
   chữ, hai lần chạy. Chất lượng tụt qua nhiều vòng → nghi **luật tích tụ**, cắt một dòng rồi đo, không thêm.
+
+Đã trả giá ở `sung-thu` (05/11, KN38 — năm lượt SI vô hiệu, SI viết lại cả bản thì ra giọng, I-0059):
+
+- **Dòng dấu câu dạy người kể đứng ngoài.** "Narration runs on full stops and commas … exclamation marks gather in
+  the protagonist's inner lines" bị Writer đọc thành "lời kể chỉ dùng dấu chấm, dấu phẩy" (thinking v1). Bộ mẫu kể
+  tiếng lòng trần thì FIXED 3 phải nói tiếng lòng nằm trần ngoài “”, và ？ ！ dùng ngay trong lời kể.
+- **Anchor dạy giọng phải có tiếng lòng trần trong lời kể.** Anchor để câu tự nhủ trong ngoặc («“卧槽。”») dạy Writer
+  đóng ngoặc tiếng lòng. Lọc anchor bằng `soat_van.py` = 0 loại oan các cửa sổ dày giọng nhất khi chính bộ mẫu có
+  phủ định / so sánh trong giọng MC — đo mật độ của gốc trước khi dùng cổng đó làm bộ lọc.
+- **Một biến mỗi lần để quy công, không để tìm lời giải.** ≥3 vòng một biến đều vô hiệu → lỗi do nhiều dòng cùng
+  gây: viết lại cả SI từ giọng bộ mẫu, hoặc giao model khác một prompt chỉ có vấn đề + ràng buộc + đã thử
+  (`sung-thu/prompt-argon.md`), rồi mới tách dòng nào ăn.
+- **Đọc thinking theo từng dòng SI** (Writer hiểu dòng đó thành gì), không chỉ grep từ khoá. Đếm tiếng lòng cả trần
+  lẫn trong ngoặc: chỉ số chỉ đếm ngoài “” đã bỏ sót v5 P3.
+- Kết luận "prompt quyết, SI không" sau v4 là **sai**: SI Argon + brief chỉ có sự việc ra giọng (I-0060), brief Argon
+  + SI cũ thì không (I-0061).
 
 ## 8. Sổ lỗi — vòng học bắt buộc
 
