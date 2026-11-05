@@ -2,7 +2,7 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **49** · Lần quan sát: **202** · Can thiệp: **52** · Đích đã đặt: **20**
+- Kiểu lỗi: **49** · Lần quan sát: **205** · Can thiệp: **52** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
@@ -20,7 +20,7 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo<br>I-0037 · SI · hiệu quả · 14.17× |
 | E-PROSE-03 | So sánh của người kể | 55 | 23 | I-0036 · SI · hiệu quả · 2.94× |
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 53 | 31 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo |
-| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 42 | 12 | I-0049 · SI · vô hiệu · 0.83×<br>I-0050 · TOOL · vô hiệu · 0.28×<br>I-0051 · BRIEF · vô hiệu · 0.75×<br>I-0052 · SI · vô hiệu · 0.71× |
+| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 45 | 15 | I-0049 · SI · vô hiệu · 0.83×<br>I-0050 · TOOL · vô hiệu · 0.28×<br>I-0051 · BRIEF · vô hiệu · 0.75×<br>I-0052 · SI · vô hiệu · 0.71× |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 24 | 17 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |

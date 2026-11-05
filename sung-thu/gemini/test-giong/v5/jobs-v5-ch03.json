@@ -1,0 +1,44 @@
+[
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P1.md",
+  "out": "sung-thu/gemini/test-giong/v5/P1-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P1-a.md",
+  "note": "sung-thu hc ch03 v5 P1 lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P1.md",
+  "out": "sung-thu/gemini/test-giong/v5/P1-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P1-b.md",
+  "note": "sung-thu hc ch03 v5 P1 lan b"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P2.md",
+  "out": "sung-thu/gemini/test-giong/v5/P2-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P2-a.md",
+  "note": "sung-thu hc ch03 v5 P2 lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P2.md",
+  "out": "sung-thu/gemini/test-giong/v5/P2-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P2-b.md",
+  "note": "sung-thu hc ch03 v5 P2 lan b"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P3.md",
+  "out": "sung-thu/gemini/test-giong/v5/P3-a.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P3-a.md",
+  "note": "sung-thu hc ch03 v5 P3 lan a"
+ },
+ {
+  "si": "sung-thu/gemini/si-dan-gemini.txt",
+  "prompt": "sung-thu/gemini/test-giong/v5/brief-P3.md",
+  "out": "sung-thu/gemini/test-giong/v5/P3-b.md",
+  "think_out": "sung-thu/gemini/test-giong/v5/thinking-P3-b.md",
+  "note": "sung-thu hc ch03 v5 P3 lan b"
+ }
+]
