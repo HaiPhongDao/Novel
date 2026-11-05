@@ -2,7 +2,7 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **49** · Lần quan sát: **182** · Can thiệp: **49** · Đích đã đặt: **20**
+- Kiểu lỗi: **49** · Lần quan sát: **184** · Can thiệp: **49** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
@@ -25,8 +25,8 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 22 | 6 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 18 | 11 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
+| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 17 | 6 | I-0049 · SI · vô hiệu · 0.83× |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
-| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 15 | 4 | I-0049 · SI · vô hiệu · 0.83× |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 10 | 4 | — |
