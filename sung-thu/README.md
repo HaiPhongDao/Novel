@@ -20,7 +20,7 @@
 
 | Lần | SI | Brief | Bản sinh | Đọc cặp | Tác giả |
 |---|---|---|---|---|---|
-| v1 | v1 (5.468) | `ch03/brief.md` | `gemini/test-giong/v1-ch03-a.md` (3.646 字), `-b.md` (2.769 字) | **`gemini/test-giong/doc-v1-ch03.md`** (cùng sự việc, ba bản) · `doc-cap-v1-ch03-a.md`, `-b.md` (theo vị trí) | chờ đọc |
+| v1 | v1 (5.468) | `ch03/brief.md` | `gemini/test-giong/v1-ch03-a.md` (3.646 字), `-b.md` (2.769 字) | **`gemini/test-giong/doc-v1-ch03.md`** (cùng sự việc, ba bản) · `gemini-doc-v1-ch03.md` (Gemini đọc, 51/51 trích thật) · `doc-cap-v1-ch03-a.md`, `-b.md` (theo vị trí) | chờ đọc |
 
 Agent đọc v1: đúng chuỗi sự việc và số, bảng 【】 đúng; **sai giọng** — văn trang trọng, MC điềm tĩnh (淡然/平静 出言),
 mất tiếng lòng hài của bộ mẫu (！/？ trong lời kể 2,8/2,5 → ~0 /1.000 字), câu dài gần gấp đôi. Thinking chỉ tự kiểm
