@@ -49,7 +49,8 @@ Dưới đây là thống kê chi tiết toàn bộ các bộ truyện và phân
 | Nhóm Branch | Tên Branch | Ahead / Behind so với Default | Trạng thái nội dung | Khuyến nghị hành động |
 |---|---|:---:|---|---|
 | **Branch Default** | `ccr-d59235d4-pqh9t3` | **0 / 0** | Giữ tài liệu dùng chung, công cụ và các truyện vận hành chính | **Giữ làm nhánh default** (hoặc đổi tên thành `main`) |
-| **Nhánh truyện độc lập** | `ky-si` | +54 / -182 | Chứa `ky-si` đoạn 001–026 | Giữ nguyên hoặc gộp thư mục `ky-si/` về default |
+| **Nhánh truyện độc lập** | `co-dai` | +1 / -0 | Chứa khởi tạo truyện Cổ Đại (26 files, SI v6) | Nhánh truyện mới mở từ default |
+| | `ky-si` | +54 / -182 | Chứa `ky-si` đoạn 001–026 | Giữ nguyên hoặc gộp thư mục `ky-si/` về default |
 | | `lam-game` | +88 / -179 | Chứa `lam-game` đoạn 001–010 (107 files) | Giữ nguyên hoặc gộp thư mục `lam-game/` về default |
 | | `de-quoc-1` | +72 / -169 | Chứa `khong-binh` đoạn 001–009 (218 files) | Giữ nguyên hoặc gộp thư mục `khong-binh/` về default |
 | | `soi-xam` | +11 / -170 | Chứa `soi-xam` phiên bản mới (60 files) | Giữ nguyên hoặc gộp thư mục `soi-xam/` về default |

@@ -29,6 +29,7 @@ Các branch này chứa văn bản chính thức, dàn ý và tài liệu riêng
 
 | Branch | Bộ truyện chính | Tiến độ & Số file | Ghi chú |
 |---|---|---|---|
+| `co-dai` | `co-dai` | Khởi tạo nhánh mới (26 files), sẵn sàng khung bible & SI-template v6 | Nhánh truyện cổ đại mới mở từ default |
 | `ky-si` | `ky-si` | Đã chốt đến **đoạn 026** (285 files) | Bộ truyện dài nhất về số đoạn; độc lập hoàn toàn |
 | `lam-game` | `lam-game` | Đã chốt **đoạn 001–010** (107 files) | Bản 2 bắt đầu tay không; nhiều bản thử nghiệm Writer |
 | `de-quoc-1` | `khong-binh`, `de-quoc`, `soi-xam` | `khong-binh` chốt **đoạn 009** (218 files) | Phát triển nhánh riêng với State JSON, brief Tác giả |
