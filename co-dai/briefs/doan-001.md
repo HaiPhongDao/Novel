@@ -26,19 +26,14 @@ Bối cảnh thời đại:
 Triều Đại Tề Đại Hưng năm Cảnh Hòa thứ sáu `景和六年`, thiên tai dịch bệnh, biên thùy bắc cương chiến sự liên miên, thuế má khắc nghiệt. Thôn Thanh Thạch `青石村` nằm biệt lập dưới chân dãy núi Thương Long `苍龙岭`, mùa đông tuyết phủ dày ngập mắt cá chân, giá rét thấu xương. Thú dữ gấu lợn trên núi thường đói khát mò xuống kiếm ăn; người trong thôn chỉ dám quanh quẩn chân núi nhặt cành khô.
 
 Đạo cụ và thao tác:
-- Khối dữ liệu bảng độ thuần thục `【技能熟练度面板】` hiện độc lập bằng các dòng ngoặc vuông:
-【姓名：陆青】
-【寿元：17/65】
-【技能：】
-【采樵：入门（85/100）】
-【套索陷阱：入门（92/100）】
-【射术：未入门（20/100）】
+- Khối dữ liệu bảng độ thuần thục `【技艺熟练度面板】` hiện độc lập bằng các dòng ngoặc vuông khi Lục Thanh tĩnh tâm kiểm tra:
+　　【技艺：采樵（入门 85/100）】
+　　【技艺：陷阱（入门 92/100）】
+　　【技艺：射术（未入门 20/100）】
 - Thao tác: Bện dây thòng lọng gai đôi, mài dao rựa trên đá mài, ném hòn đá cuội xua tàn tro, giắt đao sau lưng, cầm cung gỗ du 5 đấu và giỏ tên.
-- Các dòng thông báo tăng điểm kinh nghiệm và đột phá:
-【你编织了一具双股双扣麻绳套索，陷阱经验+3】
-【你布置了一具隐蔽雪窝套索，陷阱经验+2】
-【套索陷阱经验达到上限，晋升为：熟练（1/200）】
-【获得特性：兽迹辨识（对雪地爪印与草木折痕感知敏锐，能辨析野兽折返路径）】
+- Khi hoàn thành đặt bẫy tuyết trên sườn núi, khối dữ liệu cập nhật bước đột phá:
+　　【技艺：陷阱（熟练 1/200）】
+Bảng chỉ in đúng hai lần trong đoạn (lúc kiểm tra ban đầu và lúc đột phá mốc then chốt), không có thông báo pop-up game rác; kinh nghiệm và phán đoán dấu vết thể hiện qua tay nghề và đôi mắt thợ săn.
 - Động tác hạ gà rừng bằng một mũi tên dứt khoát, dùng dây gai trói chân gà bọc vào bao bố, rút dao rựa chém phập vào thân cây bạch dương dọa lùi đối thủ.
 
 Trạng thái riêng:

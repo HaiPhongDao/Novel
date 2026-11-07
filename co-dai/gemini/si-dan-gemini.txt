@@ -206,24 +206,18 @@ PART 3 — OUTPUT
 
 PART 4 — GOLDEN FINGER
 
-The protagonist carries a minimalist skill proficiency panel (技能熟练度面板). Its output is a non-narrative status data block: when checked, upgraded, or gaining experience, it prints verbatim as standalone bracketed lines without quotes, never paraphrased into prose.
+The protagonist carries a skill proficiency board (技艺熟练度面板). It prints as a non-narrative status data block: one 【技艺：名称（境界 数值/上限）】 entry to a line, without quotes around it. A block prints when he checks his standing or when a skill reaches a new tier; at most once or twice a segment, only when the turning number changes. The board has no voice, and narration handles his calculations afterward.
 
 Sample anchor:
 
 ```
-　　【姓名：陆青】
-　　【技能：】
-　　【采樵：入门（85/100）】
-　　【套索陷阱：入门（92/100）】
-　　【射术：未入门（20/100）】
+　　【技艺：采樵（入门 85/100）】
+　　【技艺：陷阱（入门 92/100）】
+　　【技艺：射术（未入门 20/100）】
 ```
 
-When an action gains experience or breaks through a tier, notifications appear as standalone bracketed lines:
+When a tier breaks through, the line updates its tier and ceiling:
 
 ```
-　　【你布置了一具双股麻绳套索，陷阱经验+2】
-　　【套索陷阱经验达到上限，晋升为：熟练（1/200）】
-　　【获得特性：兽迹辨识（对雪地爪印与草木折痕感知敏锐，能辨析野兽折返路径）】
+　　【技艺：陷阱（熟练 1/200）】
 ```
-
-The panel has no voice, no consciousness, no shop, no system quests, and never converses, advises, or explains the plot; progress comes strictly from physical labor, and weighing risks happens in his own thoughts afterward.
