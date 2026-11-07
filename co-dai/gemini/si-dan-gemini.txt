@@ -100,42 +100,31 @@ MOMENTS — they sit inside the narration above.
 
 3. Dialogue does a job, and a tag goes where the reader needs it.
 
-Warnings name snow and terrain; bargaining names age, teeth, and copper coins; excuses cover how prey or goods were found. Orders and questions take spoken shape and name who they address: 都什么价 · 老伯是行家 · 两万五千文，真不能再低了. A tag (开口, 道, 问, 说道, 皱眉) sits about one turn in three, never on two consecutive turns by one speaker.
+Turns are complete statements anchored in domestic survival and mountain reality: dividing prey, winter grain, borrowing gear, and family arithmetic. A turn stands on its own feet: answers the previous turn, names the person or relation, and carries a reason or a count. Questions carry what the speaker suspects: 你怎么找到狍子的？ · 卖的钱你留一半，剩下买粟米够不够吃一冬？ Orders and decisions take spoken shape with reasons and particles: 剥皮吃肉，留一半，剩下的在村里卖了 · 咱家里十日吃一次肉如何？ A tag (开口, 道, 问, 摇头, 皱眉) sits about one turn in three, never on two consecutive turns by one speaker.
 
 Sample anchor:
 
 ```
-　　他连忙弯了弯腰，笑容满面：“骡子现在价不算贵，你看看想选哪头。”
-　　钱盛让开身子，引着江尘去窝棚后。
-　　里面有四头驴、三头骡子，一匹老马。
-　　江尘不考虑驴马，目光落在三头骡子上。
-　　一头有毛色驳杂的青骡，一头灰扑扑的老骡。
-　　最边上，则是一头毛发油光的黑骡。此刻正低头嚼着干草，耳朵时不时扇两下。
-　　精神头很足，本来搭到背上的草席都被甩到地上了。
-　　“都什么价？”
-　　“青骡两万六千文，黑骡三万文，那匹老骡一万文您就能牵走。”
-　　江尘挑眉：“这价你还说便宜？我们转了几家，你这儿是最贵的。”
-　　钱盛急了：“那您得看牲口好坏啊！我这骡子都是喂上好料养的，比别家的能多干活好几年。”
-　　江尘不懂牲畜，江有林却早有准备。
-　　说话时，凑上去扒开骡子的牙口细看了，江田也跟着走进去打量。
-　　钱盛连忙跟上，江有林每看一处，钱盛就解释一处。
-　　等江有林看完，才回来开口：“确实都养得不错，这两头骡子都三岁差不多，正是干活的年纪。”
-　　听到这话，钱盛笑得灿烂：“老伯是行家！您买我家骡子，多花的钱，不出一年就能靠干活赚回来。”
-　　江尘看向两头年轻的骡子，问：“青骡和黑骡有啥区别？”
-　　除了毛色，他看着体型没差多少。
-　　钱盛解释，“黑骡毛色纯，青骡毛色杂，其实真干起活来力气差不多；
-　　“非要挑的话，黑骡耐力强些，拉车上山也不吃力。”
-　　“那就要黑骡，您给个实在价，合适我们现在就牵走。”
-　　虽然说差别不大，但黑骡毛色纯黑顺滑，脊背肌肉隆起，看着就威武不少。
-　　怎么说也是家里第一辆 “车”，总得选个顺眼的。
-　　随着江尘谈到价格，接下来就是砍价环节。
-　　江尘不懂牲畜，这事全权交给江有林了。
-　　两人纠缠了半个多时辰，江家一家人两次假装转身要走，又重新回来，最后还报出了王宝和的名号。
-　　快一个时辰，钱盛才擦着额头的汗开口：“两万五千文，真不能再低了。”
-　　这价格比青骡还便宜一千文。
+　　江有林从屋里走出来，看到地上的狍子，吃了一惊：“你怎么找到狍子的？”
+　　作为老猎户，他自然知道，只要能靠近，以江尘的箭术，猎到狍子不算难。
+　　可小黑山虽叫“小”，却也分南峰北峰。
+　　就算大雪天踪迹明显，只用一天就找到狍子，难度也不小。
+　　“运气好而已。”江尘摊摊手，没法解释，全推到运气上。
+　　江有林上下打量他一番，最后点头：“打猎，运气确实重要。”
+　　江田喜滋滋地看着狍子：“明日拿城里卖了？”
+　　说完又补了句，“你还没娶妻，卖的钱你留一半，剩下买粟米应该够吃一冬。”
+　　“不成。”江尘却摇头：“剥皮，吃肉，留一半，剩下的在村里卖了吧。”
+　　“留一半？”陈巧翠不由咋舌。一半得有二十多斤肉，吃到什么时候去？
+　　她现在的心思，还停留在一个月吃一顿肉菜就算日子有滋有味了。
+　　“以后中午、晚上都要有肉，一天按一斤肉的标准吧。”
+　　江有林轻咳一声，“寻常人家，一月吃一次肉就不错了，咱家里，十日吃一次如何？”
+　　说完又加上一句：“里正他们家，也就这个标准了。”
+　　“你放心，卖狍子的银子给你留着，日后娶妻用得上。”
+　　连老爹都反对，江尘索性搬出性子：“打了不吃，那我打猎干啥？不如继续当泼皮算了。”
+　　一听江尘又要当泼皮，江有林顿时慌了：“好好好，按你说的来！按你说的来！”
 ```
 
-Inspecting three mules behind the shed, checking their three-year-old teeth, and haggling for nearly a double-hour down to twenty-five thousand coins.
+Weighing twenty catties of roe deer meat against winter grain, bargaining domestic standards down from daily meat to every ten days, and yielding to the threat of returning to a layabout.
 
 4. Payoffs land fast against an even voice.
 
