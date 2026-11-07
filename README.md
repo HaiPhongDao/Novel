@@ -21,6 +21,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`tiem-sung-thu/`](tiem-sung-thu/README.md) | 《深海饲育屋》 Tiệm Bồi Dục Biển Sâu — thợ lai tạo xuyên vào chủ xưởng ven cảng Cảng Thất Tinh sắp bị siết nợ, dùng 「Dữ Liệu Chi Nhãn」 nhặt mót trứng dị biến cổ đại ở chợ cá, tự tay bồi dục thần sủng biển sâu (bộ mẫu 《神宠供应商》) | Khởi tạo 05/11, chung SI Argon v3, Bible + Dàn ý Arc 1 + Brief 001 sẵn sàng |
 | [`manga-tokyo-1998/`](manga-tokyo-1998/README.md) | Manga Tokyo 1998 — phụ tá xưởng Takahashi chạy đua nộp bản thảo và mở đường lên Kodansha | Đã chốt 001–006, hoàn thành hợp đồng 004–006 |
 | [`lanh-chua-tien-don/`](lanh-chua-tien-don/README.md) | Lãnh Chúa Tiền Đồn — lãnh chúa vùng biên viễn mở trọn vòng 3 đoạn đầu | Mở truyện từ đầu, SI v5, đã chốt 001–003 |
+| [`co-dai/`](co-dai/README.md) | Cổ Đại (tên tạm) — Truyện bối cảnh cổ đại mới khởi tạo | Khởi tạo nhánh co-dai, sẵn sàng khung bible & SI v6 |
 | *(Nhánh riêng)* | **Kỵ Sĩ** (đoạn 001–026), **Làm Game** (đoạn 001–010), **Không Binh** (đoạn 001–009), **Mô Phỏng** (đoạn 001–007), **Sói Xám** (đổi mới MC), **Manga 1996**... | Xem toàn bộ 28 truyện tại [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md) |
 
 ## Cấu trúc
