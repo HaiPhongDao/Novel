@@ -2,6 +2,9 @@
 
 Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gemini) viết chính văn tiếng Trung theo từng **đoạn** (~2000 字); Tác giả quyết. Luật làm việc: [`AGENT.md`](AGENT.md).
 
+> 📊 **Báo cáo tổng kết dự án & kiểm kê 28 truyện:** Xem [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md)  
+> 🗺️ **Bản đồ 29 branch & trạng thái tích hợp:** Xem [`chung/ban-do-branch.md`](chung/ban-do-branch.md)
+
 ## Kinh nghiệm dùng chung
 
 Đọc [sổ kinh nghiệm](chung/kinh-nghiem.md) trước khi lập brief, sửa SI, chạy Writer hoặc review. Bài học được tổng hợp từ cả truyện cũ và mới, có [nguồn và tình trạng](chung/nguon-kinh-nghiem.md), phân biệt quy tắc chung với ngoại lệ từng truyện. [Cách đồng bộ giữa các branch](chung/dong-bo-kinh-nghiem.md) dùng commit tài liệu chung riêng.
@@ -16,6 +19,9 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | Manga Tokyo 2000 — người xuyên việt mang tư duy phân cảnh điện ảnh đời sau nhập vào nhân viên ca đêm tiệm manga café nợ tiền trọ, chớp lấy suất one-shot 32 trang của bán nguyệt san thiên niên kỷ | Khởi động: SI v5 7.913 ký tự, đang chạy 001–003 |
 | [`sung-thu/`](sung-thu/README.md) | 《弃宠收容站》 Trạm Thu Dung Thú Bỏ — nhân viên cuối của trạm thu dung sắp bị dẹp ở thành phố hiện đại nhìn thấu huyết mạch ẩn của thú bị vứt, cho tiến hoá và dựng thế lực từ đống "phế sủng" (bộ mẫu 《神宠供应商》) | Hiệu chuẩn SI ĐẠT (05/11). Bible + dàn ý chờ Tác giả duyệt; khung brief mẫu A |
 | [`tiem-sung-thu/`](tiem-sung-thu/README.md) | 《深海饲育屋》 Tiệm Bồi Dục Biển Sâu — thợ lai tạo xuyên vào chủ xưởng ven cảng Cảng Thất Tinh sắp bị siết nợ, dùng 「Dữ Liệu Chi Nhãn」 nhặt mót trứng dị biến cổ đại ở chợ cá, tự tay bồi dục thần sủng biển sâu (bộ mẫu 《神宠供应商》) | Khởi tạo 05/11, chung SI Argon v3, Bible + Dàn ý Arc 1 + Brief 001 sẵn sàng |
+| [`manga-tokyo-1998/`](manga-tokyo-1998/README.md) | Manga Tokyo 1998 — phụ tá xưởng Takahashi chạy đua nộp bản thảo và mở đường lên Kodansha | Đã chốt 001–006, hoàn thành hợp đồng 004–006 |
+| [`lanh-chua-tien-don/`](lanh-chua-tien-don/README.md) | Lãnh Chúa Tiền Đồn — lãnh chúa vùng biên viễn mở trọn vòng 3 đoạn đầu | Mở truyện từ đầu, SI v5, đã chốt 001–003 |
+| *(Nhánh riêng)* | **Kỵ Sĩ** (đoạn 001–026), **Làm Game** (đoạn 001–010), **Không Binh** (đoạn 001–009), **Mô Phỏng** (đoạn 001–007), **Sói Xám** (đổi mới MC), **Manga 1996**... | Xem toàn bộ 28 truyện tại [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md) |
 
 ## Cấu trúc
 

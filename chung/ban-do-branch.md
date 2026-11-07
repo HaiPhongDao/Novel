@@ -1,32 +1,72 @@
 # Bản đồ branch
 
-Cập nhật 2026-10-28. Branch mặc định: `ccr-d59235d4-pqh9t3` — giữ **tài liệu và công cụ dùng chung** (mọi thứ ở gốc repo + `.claude/`), không phải bản mới nhất của từng truyện. Phần chung đã gom về đây ngày 28/10 từ các branch bên dưới; từ nay sửa phần chung thì commit riêng ở đây (xem [`dong-bo-kinh-nghiem.md`](dong-bo-kinh-nghiem.md)).
+Cập nhật: 07/11/2026.
+Branch mặc định hiện tại: `ccr-d59235d4-pqh9t3` — giữ **tài liệu, quy trình, công cụ dùng chung mới nhất** (mọi thứ ở gốc repo + `.claude/` + `tools/` + `writer/SI-template`) cùng các bộ truyện đang vận hành chính.
 
-## Branch giữ nội dung truyện (không xoá)
+---
 
-| Branch | Giữ gì | Ghi chú |
+## 1. Branch mặc định: `ccr-d59235d4-pqh9t3`
+- **Vai trò:** Trung tâm điều hành repo, chuẩn hóa toàn bộ công cụ tự động hóa, kỹ năng `novel-craft` (v3.1.0), mẫu SI v5/v6, và các truyện đang chạy thử nghiệm / hiệu chuẩn mới nhất.
+- **Các truyện hiện có trên branch này:**
+  * `sung-thu` (Trạm Thu Dung Thú Bỏ — SI Argon v3 ĐẠT, đoạn 001–002, 172 files)
+  * `tiem-sung-thu` (Tiệm Bồi Dục Biển Sâu — khởi tạo Arc 1, brief 001, đoạn 001–002, 48 files)
+  * `lanh-chua-chip` (Lãnh Chúa Mang Chip — lượt 2: chốt đoạn 001–015, 179 files)
+  * `manga-tokyo-1998` (Manga Tokyo 1998 — chốt đoạn 001–006, 69 files)
+  * `lanh-chua-dau-truong` (Lãnh Chúa Đấu Trường — chốt đoạn 001–003, 43 files)
+  * `lanh-chua-tien-don` (Lãnh Chúa Tiền Đồn — chốt đoạn 001–003, 40 files)
+  * `manga-tokyo-1994` (Manga Tokyo 1994 — chốt đoạn 001–003, 61 files)
+  * `manga-tokyo-2000` (Manga Tokyo 2000 — chốt đoạn 001–003, 58 files)
+  * `manga-osaka-1999` (Manga Osaka 1999 — 173 files)
+  * `goblin` (99 files)
+  * `mo-xe` (tài liệu giải phẫu truyện mẫu)
+  * `lam-game`, `soi-xam` (bản khung stub, nội dung đầy đủ nằm tại branch riêng)
+
+---
+
+## 2. Branch giữ nội dung truyện độc lập (chưa gộp vào default)
+
+Các branch này chứa văn bản chính thức, dàn ý và tài liệu riêng của từng bộ truyện chưa được đồng bộ hết vào branch default:
+
+| Branch | Bộ truyện chính | Tiến độ & Số file | Ghi chú |
+|---|---|---|---|
+| `ky-si` | `ky-si` | Đã chốt đến **đoạn 026** (285 files) | Bộ truyện dài nhất về số đoạn; độc lập hoàn toàn |
+| `lam-game` | `lam-game` | Đã chốt **đoạn 001–010** (107 files) | Bản 2 bắt đầu tay không; nhiều bản thử nghiệm Writer |
+| `de-quoc-1` | `khong-binh`, `de-quoc`, `soi-xam` | `khong-binh` chốt **đoạn 009** (218 files) | Phát triển nhánh riêng với State JSON, brief Tác giả |
+| `soi-xam` | `soi-xam` | Đổi mới nội dung: MC xuyên việt + phân thân điên (60 files) | SI v4, brief 001 bản i/j + review vòng 4 |
+| `manga` | `manga-tokyo-2000`, `ky-kham-lanh-chua` | 75 files `manga-tokyo-2000` + thư mục `tasks/` | Chứa bản nháp mở rộng, test tự do 2 |
+| `manga-v6` | `manga-tokyo-1996` | Đã xong **đoạn 001 c** (45 files) | Hướng 1 (nghề vẽ manga) |
+| `mo-phong` | `Mo-phong` | Đã chốt **đoạn 001–007** (68 files) | Cùng SHA `3f1ba78` với `ccr-2764b3e9` |
+| `quet-kinh-cac` | `quet-kinh-cac` | Test 001 v0-01 (27 files) | Chạy thử bằng `aistudio_run.py` |
+| `vong-du` | `vong-du`, `chuyen-chuc`, `lanh-chua-khoa-hoc`, `nong-trang-ma-phap`, `toan-dan-pho-ban`, `tram-cuoi`, `vo-dich`, `ky-kham-*` | Nhánh lưu trữ tổng hợp 9 truyện cũ (875 files) | Nhánh dài nhất lịch sử trước đợt tách 28/10; toàn bộ tool đã gom về default |
+| `test-gemini-lanh-chua` | `ky-kham-lanh-chua` | Hoàn thành đoạn 005 | Nhánh kiểm nghiệm Gemini trên Kỳ khảm |
+| `test-gemini-moi` | `ky-kham-lanh-chua` | Đề xuất SI v13 theo SI-template v5 | Thử nghiệm cấu trúc SI |
+| `ccr-c7a945af-p2nhgt` | `bao-thuc-android` | App APK báo thức lặp + GitHub Action (8 files) | Dự án công cụ phụ trợ |
+
+---
+
+## 3. Branch thử nghiệm đã tích hợp trọn vẹn (Ahead = 0)
+
+Các branch này không còn commit nào chưa có trên default branch:
+- `manga-v7`: Thử nghiệm skill 3.1 pipeline (đã vào default).
+- `thu-v5-manga-tokyo-1998`: Cập nhật anchor từ chương 2 & 3 bộ mẫu (đã vào default).
+
+---
+
+## 4. Branch phiên làm việc tự sinh (`ccr-*`) và bản sao cũ
+
+> **Nguyên tắc quản lý:** Các branch `ccr-*` là branch phiên làm việc tự sinh của Claude Code / Agent. Xoá branch là quyền của Tác giả, Agent không tự xoá.
+
+| Branch | Trạng thái tích hợp | Khuyến nghị xử lý |
 |---|---|---|
-| `vong-du` | Nhánh dài nhất: `vong-du`, `chuyen-chuc`, `ky-kham-*`, `lanh-chua-khoa-hoc`, `nong-trang-ma-phap`, `toan-dan-pho-ban`, `tram-cuoi`, `vo-dich`… | Bản skill/tools/extension mới nhất ở đây (commit 28/10) — đã gom sang mặc định |
-| `de-quoc` | Như `vong-du` trừ commit extension cuối | Lùi 1 commit so với `vong-du` |
-| `de-quoc-1` | `de-quoc`, `khong-binh`, `soi-xam`… + agent `novel-doan`, `viet_doan.sh`, `soat_tat.py`, `state-extractor.md` | Đường phát triển riêng với State JSON; đã gom phần chung sang mặc định |
-| `soi-xam` | `soi-xam` (xuyên việt + phân thân điên, SI v4) | Có ba bài học skill — đã gom |
-| `lam-game` | `lam-game`, `goblin` | Truyện chưa nằm ở nhánh nào dài hơn |
-| `mo-phong` / `ccr-2764b3e9-jenlb1` | `Mo-phong` | Cùng SHA `3f1ba78` |
-| `ky-si` | `ky-si` | |
-| `quet-kinh-cac` | `quet-kinh-cac` | |
-| `lanh-chua-chip` | `lanh-chua-chip` gộp 001–010 | Cùng SHA với `claude/blissful-mayer-n29fgq` |
-| `ccr-c7a945af-p2nhgt` | `bao-thuc-android` (APK báo thức) | Dự án phụ |
-
-## Branch chỉ là tổ tiên hoặc bản sao — đã nằm trọn trong branch khác
-
-| Branch | Nằm trong |
-|---|---|
-| `ccr-d2085077-uo0a5j` | `de-quoc`, `vong-du` |
-| `ccr-c1f4a1ad-f0r3vj`, `ccr-eba1eaae-jpkac2`, `ccr-af860613-ltvtlq` | `lam-game`, `de-quoc`, `vong-du` |
-| `ccr-06ebc233-7uywq9`, `ccr-984caee6-w5xqdg` | `lam-game` |
-| `claude/blissful-mayer-n29fgq` | cùng SHA `lanh-chua-chip` |
-| `ccr-1e58ca50-qbknn3` | cùng SHA `tai-lieu-chung` (đã gom `giu-nhat-quan`, `mo-xe-truyen`, `xay-dung-truyen`, `ra_soat.py`, mẫu truyện) |
-| `ccr-c601460e-xuvt03` | đã gom `nghien-cuu-outliner.md`; phần còn lại (`gemini_write.py` bản 183 dòng) là bản cũ của bản 213 dòng |
-| `ccr-50ce3fcb-ewd9hm` | đã gom (bản sao của `ccr-2764b3e9-jenlb1`) |
-
-Các branch `ccr-*` là branch phiên làm việc tự sinh. Xoá được khi Tác giả đồng ý; **xoá branch là việc của Tác giả**, Agent không tự xoá.
+| `claude/blissful-mayer-n29fgq` | Cùng SHA với `lanh-chua-chip` (đoạn 001–010) | Có thể xoá an toàn (default đã có đoạn 015) |
+| `ccr-1e58ca50-qbknn3` | Cùng SHA với `tai-lieu-chung` | Có thể xoá an toàn (tài liệu đã gom về default) |
+| `ccr-2764b3e9-jenlb1` | Cùng SHA với `mo-phong` | Có thể xoá an toàn (đã có branch `mo-phong`) |
+| `ccr-50ce3fcb-ewd9hm` | Bản sao của `ccr-2764b3e9` | Có thể xoá an toàn |
+| `ccr-06ebc233-7uywq9` | Bản nháp prompt đoạn 002 `lam-game` | Đã nằm trong `lam-game` |
+| `ccr-984caee6-w5xqdg` | Update đoạn 005 `lam-game` | Đã nằm trong `lam-game` |
+| `ccr-c1f4a1ad-f0r3vj` | Mở session S3 `lam-game` | Đã nằm trong `lam-game` |
+| `ccr-af860613-ltvtlq` | Sửa proxy `gemini_write.py` | Đã gom vào `tools/` trên default |
+| `ccr-c601460e-xuvt03` | Nghiên cứu Outliner | Đã gom `chung/nghien-cuu-outliner.md` |
+| `ccr-d2085077-uo0a5j` | Bản sửa extension | Đã gom vào extension trên default |
+| `soat-brief` | Thử nghiệm công cụ `soat_brief.py` | Đã gom công cụ lên default |
+| `de-quoc` | Tổ tiên lùi 1 commit so với `vong-du` | Đã bao trùm bởi `vong-du` và `de-quoc-1` |
