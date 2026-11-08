@@ -1,10 +1,7 @@
 Viết tiếp đoạn tiếp theo, 2.000–2.500 字, bằng tiếng Trung.
 
-Tình huống. Sáng ngày 5, bờ mương Đông. Con lợn đã chết trong hố từ đêm ngày 4; Tần Dã, Ngưu Nhị, Khâu Lão Thuyên và Liễu thẩm kéo nó lên bờ mương. Lý chính La mang cái cân đòn của làng tới. Thịt sạch sau khi bỏ nội tạng nặng 96 cân, da lợn để riêng. Khâu Lão Thuyên có luống củ bị lật, Ngưu Nhị muốn có cặp nanh, Liễu thẩm có ba miệng ăn; nhà Tần còn hai ngày nữa tới hạn nộp 240 văn cho Lữ Tứ, trong túi chỉ có 11 văn. Chiều cùng ngày, các nhà cân lại phần của mình ở sân nhà Tần.
+Tình huống. Chiều ngày 3, ruộng củ của Khâu Lão Thuyên và góc ruộng đậu nhà Tần. Đêm trước, có một con vật lật tung nửa luống củ của Khâu Lão Thuyên; dấu chân trên đất ẩm ven mương rộng bằng bàn tay người lớn, nanh đã xới đất thành rãnh. Từ khi nhà họ Lữ cấm cả thôn vào núi, thú rừng không còn bị săn, và ruộng đậu nhà Tần là chỗ xanh gần nhất. Tần Dã chưa từng đối mặt một con lợn rừng; thân xác này đã thấy một lần từ xa. Anh muốn chặn nó trước khi nó lật nốt ruộng đậu, thứ nhà anh không thể mất, và anh lo có người bị thương. Tần Dã, Ngưu Nhị, Khâu Lão Thuyên và Liễu thẩm đào một cái hố ở góc ruộng đậu, trên lối con vật đi, sâu năm 尺, rộng bốn 尺, cắm cọc nhọn bằng cành táo gai dưới đáy và phủ ván bằng cành khô cùng lá đậu. Khâu Lão Thuyên có một cái đinh ba sắt cũ; nhà Tần chỉ có cái liềm. Đêm ngày 4, bốn người thay phiên canh ở bờ mương.
 
-Khoá: nhà Tần giữ 55 cân, bốn người còn lại (Khâu Lão Thuyên, Ngưu Nhị, Liễu thẩm, lý chính La) chia 41 cân.
+Khoá: con lợn xuống ruộng đêm ngày 4 và nặng chừng một trăm cân.
 
-Dừng ở lúc lý chính La nói xe bò của ông sẽ ra huyện vào sáng mai, phiên chợ ngày thứ sáu, và hỏi trong sân ai đi cùng. Chuyện ai đi và đi mang gì thuộc đoạn sau.
-
-Bảng (in một lần, khi kỹ năng qua bậc, đúng nguyên dạng):
-【技艺：剥皮（入门 1/100）】
+Dừng ở lúc con lợn rơi xuống hố, gầm lên, và một cọc gỗ bên thành hố gãy đôi. Việc nó có thoát lên hay không thuộc đoạn sau.

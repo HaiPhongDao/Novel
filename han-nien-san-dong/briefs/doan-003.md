@@ -1,7 +1,7 @@
 Viết tiếp đoạn tiếp theo, 2.000–2.500 字, bằng tiếng Trung.
 
-Tình huống. Sáng ngày 1, trên sườn dốc phía trên ruộng đậu nhà Tần. Lý chính La, Liễu thẩm và Khâu Lão Thuyên đi cùng Tần Dã từ bờ ruộng lên tới mốc đá và đã đếm bước xong; lý chính mang theo cuốn sổ của làng và cây bút lông. Lữ Lục đang tuần trên sườn núi đã thấy cả nhóm đứng quanh mốc đá, và hắn chạy xuống cổng núi báo. Lữ Tứ lên tới nơi cùng Lữ Lục khi lý chính chưa kịp gấp sổ. Trong tay Lữ Tứ có cây gậy gỗ táo, bên hông là cái cân đòn; ông thuộc lòng những gì đại quản sự nhà họ Lữ dặn và không đọc được chữ trong khế. Ông muốn biết dân thôn đang làm gì quanh mốc đá của nhà họ Lữ, muốn xem thẻ núi của Tần Dã, và muốn biết con thỏ bị lột da bên mương sáng nay là con thỏ nào. Một con nằm trong nồi nhà họ Tần từ sáng, con kia còn nằm trên bàn đá ở sân lý chính.
+Tình huống. Sáng ngày 1, sân nhà lý chính La, rồi sườn dốc phía trên ruộng nhà Tần. Lý chính La (61 tuổi) đang ngồi ăn cháo loãng ngoài sân; Liễu thẩm và Khâu Lão Thuyên (55 tuổi, ruộng sát mương) đứng chờ xin ông chia chút kê cứu đói. Lý chính giữ trong rương gỗ bản sao khế mà huyện lập khi bán núi Hắc Thạch cho nhà họ Lữ; cả thôn chỉ nghe Lữ Tứ nói mốc đá là ranh núi, chưa ai nghe ông đọc nguyên văn. Tần Dã đặt con thỏ lên bàn đá của lý chính ngay trước mặt ông. Anh muốn có một người làm chứng có sổ sách, và anh lo ông không chịu mở rương; lý chính muốn giữ yên với nhà họ Lữ mà cũng muốn có thịt cho nhà ông, và ông đang tính con thỏ này sẽ đổi về cho ông những phiền phức nào. Sau khi nghe khế, cả nhóm cùng lên sườn dốc đếm bước từ bờ ruộng tới mốc đá; lý chính mang theo cuốn sổ của làng và cây bút lông.
 
-Khoá: lý chính La ghi con số hai mươi ba bước vào sổ của làng.
+Khoá: lý chính La đọc nguyên văn câu về ranh núi trong khế, trước mặt hàng xóm.
 
-Dừng ở lúc Lữ Tứ đã xuống nửa dốc, quay lại nói với Tần Dã rằng ngày thứ bảy ông sẽ đến thu 240 văn, và Tần Dã chưa trả lời. Việc dân thôn sau đó nói với nhau những gì thuộc đoạn sau.
+Dừng ở lúc Lữ Lục, đang tuần trên sườn núi phía trên, thấy cả nhóm đứng gần mốc đá, quay người chạy xuống phía cổng núi. Chuyện Lữ Tứ lên tới thuộc đoạn sau.

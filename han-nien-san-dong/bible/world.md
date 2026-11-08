@@ -7,6 +7,7 @@ Năm đại hạn thứ hai, đầu hạ. Thung lũng thôn Lão Nha Ao khô n�
 - Khế bán núi (bản sao do lý chính giữ) có một câu về ranh: núi tính **từ mốc đá trở lên**; đất dưới mốc đá là **ruộng dân** của dân thôn.
 - Mốc đá của ruộng nhà Tần cách bờ ruộng **hai mươi ba bước**. Mọi chuyện "ruộng — núi" tính từ con số này.
 - Vào núi phải có thẻ núi (80 văn/năm); thú săn **trong núi** nộp bảy phần ở cổng núi; cái cân của Lữ Tứ hụt hai lạng mỗi cân (người trong thôn đều biết, không ai cãi).
+- Tiền phạt quá hạn: ruộng đậu ba mẫu bị thu trừ nợ (Lữ Tứ cùng lý chính định giá). Đó là tài sản duy nhất của nhà Tần ngoài cái nhà.
 - Bảng kỹ nghệ chỉ in số. Tần Dã không giải thích với ai; người ngoài thấy cậu "làm quen tay".
 - Tần Dã không có cung, không có dao củi lúc mở truyện. Việc săn dùng bẫy thòng lọng bằng dây gai và vật dụng trong nhà.
 
