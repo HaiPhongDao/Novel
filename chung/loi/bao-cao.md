@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **50** · Lần quan sát: **273** · Can thiệp: **64** · Đích đã đặt: **20**
+- Kiểu lỗi: **50** · Lần quan sát: **285** · Can thiệp: **67** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **30/64** (47%)
+- Can thiệp đã đo: **33/67** (49%)
 
-- Hiệu quả (≥2.0 biên độ): **6** · Vô hiệu (<1.0 biên độ): **21** · Phản tác dụng: **2** · Bị Tác giả bác: **9** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **7** · Vô hiệu (<1.0 biên độ): **22** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -16,40 +16,42 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | Mã | Kiểu lỗi | Số chỗ | Số đợt | Can thiệp (tầng · kết luận · biên độ) |
 |---|---|---|---|---|
 | E-PROSE-07 | Câu cụt, chia đoạn quá vụn | 448 | 3 | I-0008 · SI · chưa rõ · chưa đo<br>I-0022 · SI · đề xuất · chưa đo<br>I-0023 · SI · Tác giả bác · chưa đo<br>I-0027 · SI · đề xuất · chưa đo |
-| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 112 | 35 | I-0049 · SI · vô hiệu · 0.83×<br>I-0050 · TOOL · vô hiệu · 0.28×<br>I-0051 · BRIEF · vô hiệu · 0.75×<br>I-0052 · SI · vô hiệu · 0.71×<br>I-0053 · SI · vô hiệu · 0.5×<br>I-0054 · SI · vô hiệu · 0.72×<br>I-0055 · SI · vô hiệu · 0.64×<br>I-0056 · BRIEF · vô hiệu · 0.42×<br>I-0057 · BRIEF · vô hiệu · 0.11×<br>I-0058 · BRIEF · vô hiệu · 0.69×<br>I-0059 · SI · hiệu quả · 3.19×<br>I-0060 · SI · chưa rõ · 1.98×<br>I-0061 · BRIEF · vô hiệu · 0.36× |
+| E-PROSE-14 | Giọng trang trọng thay giọng khẩu ngữ của bộ mẫu (mất tiếng lòng MC) | 113 | 36 | I-0049 · SI · vô hiệu · 0.83×<br>I-0050 · TOOL · vô hiệu · 0.28×<br>I-0051 · BRIEF · vô hiệu · 0.75×<br>I-0052 · SI · vô hiệu · 0.71×<br>I-0053 · SI · vô hiệu · 0.5×<br>I-0054 · SI · vô hiệu · 0.72×<br>I-0055 · SI · vô hiệu · 0.64×<br>I-0056 · BRIEF · vô hiệu · 0.42×<br>I-0057 · BRIEF · vô hiệu · 0.11×<br>I-0058 · BRIEF · vô hiệu · 0.69×<br>I-0059 · SI · hiệu quả · 3.19×<br>I-0060 · SI · chưa rõ · 1.98×<br>I-0061 · BRIEF · vô hiệu · 0.36× |
 | E-PROSE-06 | Thẻ thoại mở đầu mọi lượt | 105 | 22 | I-0009 · SI · chưa rõ · chưa đo<br>I-0038 · SI · phản tác dụng · 1.69× |
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo<br>I-0037 · SI · hiệu quả · 14.17× |
-| E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 59 | 37 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo |
-| E-PROSE-03 | So sánh của người kể | 55 | 23 | I-0036 · SI · hiệu quả · 2.94× |
+| E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 65 | 39 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo<br>I-0066 · SI · vô hiệu · 0.5× |
+| E-PROSE-03 | So sánh của người kể | 56 | 24 | I-0036 · SI · hiệu quả · 2.94× |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 35 | 28 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
-| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 27 | 10 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
+| E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 32 | 2 | I-0021 · SI · đề xuất · chưa đo<br>I-0065 · SI · phản tác dụng · 1.2× |
+| E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 28 | 11 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
-| E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 22 | 12 | — |
-| E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 21 | 1 | I-0021 · SI · đề xuất · chưa đo |
+| E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 23 | 13 | — |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
-| E-EDGE-03 | Độ dài lệch cửa sổ brief | 10 | 10 | — |
+| E-EDGE-03 | Độ dài lệch cửa sổ brief | 11 | 11 | — |
 | E-PROSE-13 | Nhan thai do bang danh tu truu tuong | 9 | 5 | I-0045 · SI · hiệu quả · 11.75×<br>I-0046 · SI · vô hiệu · 0.51× |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
 | E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 8 | 5 | — |
 | E-CANON-04 | Bàn tay vàng vượt hợp đồng | 7 | 4 | — |
+| E-SCENE-04 | MC thuyết trình, văn chạy checklist | 7 | 3 | I-0017 · BRIEF · Tác giả bác · chưa đo<br>I-0067 · SI · hiệu quả · 2.81× |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
 | E-GATE-01 | Máy soát bỏ sót | 4 | 2 | I-0015 · TOOL · chưa rõ · chưa đo |
 | E-CANON-02 | Xưng hô / register sai bối cảnh | 3 | 1 | I-0010 · SI · chưa rõ · chưa đo |
-| E-SCENE-04 | MC thuyết trình, văn chạy checklist | 3 | 1 | I-0017 · BRIEF · Tác giả bác · chưa đo |
 | E-BRIEF-08 | Brief cho người lạ trò chuyện ngay, không có lý do để người kia chịu nghe | 1 | 1 | — |
+| E-EDGE-02 | Kết đoạn khép tròn | 1 | 1 | — |
 | E-EDGE-04 | Nhịp câu lệch chuẩn bộ mẫu | 1 | 1 | I-0013 · SI · chưa rõ · chưa đo<br>I-0035 · SI · hiệu quả · 2.64×<br>I-0041 · SI · Tác giả bác · chưa đo |
 | E-GATE-02 | Cổng xanh nhưng văn hỏng | 1 | 1 | I-0020 · TOOL · Tác giả bác · chưa đo |
+| E-SI-05 | SI thiếu nguyên tắc cho lời kể | 1 | 1 | I-0047 · SI · vô hiệu · 0.5×<br>I-0048 · SI · vô hiệu · 0.25× |
 
-### Chưa từng có quan sát (21 kiểu)
+### Chưa từng có quan sát (19 kiểu)
 
 Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc chưa gặp, hoặc gặp mà không ghi — cả hai đều là lỗ hổng của sổ, không phải bằng chứng là đã hết lỗi.
 
-`E-BRIEF-01` Brief chứa mệnh đề nhân quả/diễn giải · `E-BRIEF-03` Brief dán raw State JSON / cả gói bàn giao · `E-BRIEF-04` Brief có câu tiếng Trung dài · `E-BRIEF-05` Brief thiếu khối nối tiếp · `E-BRIEF-06` Brief thiếu thân phận / dòng xưng hô · `E-BRIEF-07` Brief thiếu tỷ lệ thoại / lời kể · `E-BRIEF-09` Brief tiếng Việt khó hiểu, người đọc không biết muốn viết gì · `E-CANON-01` Số liệu hoặc phép tính sai · `E-CANON-06` Nhân vật biết điều chưa được biết · `E-EDGE-01` Mối nối đứt giữa hai đoạn · `E-EDGE-02` Kết đoạn khép tròn · `E-EDGE-05` Đoạn mở bằng tên người quá dày · `E-PROSE-08` Giải thích thừa, câu chốt ý cuối đoạn · `E-PROSE-10` Từ phẩm chất của SI lọt vào văn · `E-SCENE-02` Thoại không chủ ngữ, không người nhận · `E-SCENE-03` Nhân vật chỉ nói việc · `E-SCENE-05` Điểm nhìn vượt ranh giới · `E-SCENE-06` Cảnh quyền lực leo thang sai · `E-SI-02` Anchor chứa đúng tật đang muốn chữa · `E-SI-04` Luật tích tụ, SI phình, chú ý loãng · `E-SI-05` SI thiếu nguyên tắc cho lời kể
+`E-BRIEF-01` Brief chứa mệnh đề nhân quả/diễn giải · `E-BRIEF-03` Brief dán raw State JSON / cả gói bàn giao · `E-BRIEF-04` Brief có câu tiếng Trung dài · `E-BRIEF-05` Brief thiếu khối nối tiếp · `E-BRIEF-06` Brief thiếu thân phận / dòng xưng hô · `E-BRIEF-07` Brief thiếu tỷ lệ thoại / lời kể · `E-BRIEF-09` Brief tiếng Việt khó hiểu, người đọc không biết muốn viết gì · `E-CANON-01` Số liệu hoặc phép tính sai · `E-CANON-06` Nhân vật biết điều chưa được biết · `E-EDGE-01` Mối nối đứt giữa hai đoạn · `E-EDGE-05` Đoạn mở bằng tên người quá dày · `E-PROSE-08` Giải thích thừa, câu chốt ý cuối đoạn · `E-PROSE-10` Từ phẩm chất của SI lọt vào văn · `E-SCENE-02` Thoại không chủ ngữ, không người nhận · `E-SCENE-03` Nhân vật chỉ nói việc · `E-SCENE-05` Điểm nhìn vượt ranh giới · `E-SCENE-06` Cảnh quyền lực leo thang sai · `E-SI-02` Anchor chứa đúng tật đang muốn chữa · `E-SI-04` Luật tích tụ, SI phình, chú ý loãng
 
 ## Giải pháp vô hiệu hoặc phản tác dụng — phải gỡ, không được nâng thành luật
 
@@ -76,8 +78,10 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0061 | E-PROSE-14 | BRIEF | 0.18 → 0.31 | 0.36 | vo-hieu |
 | I-0063 | E-BRIEF-09 | BRIEF | 76.0 → 68.0 | 82.0 | vo-hieu |
 | I-0064 | E-BRIEF-09 | BRIEF | 76.0 → 71.0 | 82.0 | vo-hieu |
+| I-0066 | E-PROSE-05 | SI | 3.5 → 2.0 | 3.0 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 | I-0038 | E-PROSE-06 | SI | 0.5 → 14.0 | 8.0 | phan-tac-dung |
+| I-0065 | E-EDGE-06 | SI | 20.5 → 26.75 | 5.2 | phan-tac-dung |
 
 ## Giải pháp đã bị Tác giả bác (không gỡ thì sẽ được thêm lại)
 
@@ -102,6 +106,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0024 | E-SCENE-01 | SI | 9.0 → 4.5 | 0.5 | 9.0× | 2 |
 | I-0059 | E-PROSE-14 | SI | 0.18 → 2.73 | 0.8 | 3.19× | 2 |
 | I-0036 | E-PROSE-03 | SI | 1.06 → 0.0 | 0.36 | 2.94× | 2 |
+| I-0067 | E-SCENE-04 | SI | 36.2 → 43.5 | 2.6 | 2.81× | 2 |
 | I-0035 | E-EDGE-04 | SI | 47.2 → 29.75 | 6.6 | 2.64× | 2 |
 
 ## Đích của từng chỉ số (nguồn: mẫu / Tác giả / nội bộ)
