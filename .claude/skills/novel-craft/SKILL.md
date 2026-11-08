@@ -216,7 +216,12 @@ Không cổng nào trong bốn cổng này được phép kết luận ĐẠT �
 một danh sách — **chỉ để khoanh vùng**. Đã thử và bị bác: một dòng BANS nêu đích danh ~15 cụm (SI-R, SI-R2) hạ số đếm
 6,6–16 → 0,9–7,4 /1.000 字 nhưng Tác giả đọc: "Chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose nữa chứ"
 (I-0068, I-0071 `tac-gia-bac`). Thinking ghi "checking for banned phrases… replacing them with suitable alternatives":
-cấm từ thì Writer thay từ, văn cứng đi, giọng AI vẫn còn. Số đếm giảm không phải bằng chứng đã chữa.
+cấm từ thì Writer thay từ, văn cứng đi, giọng AI vẫn còn. Số đếm giảm không phải bằng chứng đã chữa. Tìm nguồn trước khi cấm:
+`tat_ai.py nguon --mau <bộ mẫu> --tu SI=<SI> --tu prompt=<gói/brief> <bản…>` cho biết mỗi từ lạ nằm sẵn trong SI, trong
+gói, hay do Writer tự đặt. Ở `han-nien-san-dong`, chữ cổ (鱼鳞册 · 庄头 · 红契) chép từ danh sách từ trong SI; chữ "không biết từ
+đâu" (套子 · 荒坡 · 界碑) là Writer tự đặt cho thứ brief tiếng Việt không ghi chữ Trung. Sửa: bảng chữ bộ mẫu
+(`<truyen>/bible/tu-mau.md`) + dòng "Chữ cố định" trong brief + SI chỉ liệt kê chữ bộ mẫu dùng — từ lạ 12,6–18,9 → 0,6–3,2
+/1.000 字 (I-0072).
 
 ## 6b. Sửa bằng bỏ trước, thay sau
 
