@@ -29,7 +29,7 @@ Khuôn kiểm: brief giữ dạng tình huống + một dòng Khoá + Dừng ở
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (v2, 3.636 字; v1 ở `archive/`) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) (trơn) | [`chapters/doan-002.md`](chapters/doan-002.md) (v2, 5.010 字; v1 ở `archive/`) | [`reviews/doan-002.md`](reviews/doan-002.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
-| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | — | — | ⏳ |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) (trơn) | [`chapters/doan-003.md`](chapters/doan-003.md) (5.054 字) | [`reviews/doan-003.md`](reviews/doan-003.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | — | — | ⏳ |
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | — | — | ⏳ |
 | 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | — | — | ⏳ |
