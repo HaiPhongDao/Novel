@@ -10,18 +10,25 @@
 - **Mẫu prompt:** mẫu A (khung `.claude/skills/novel-craft/templates/brief-doan.md`). Brief 001 mang đủ thiết lập vì chưa có State; từ 002 trở đi Writer đọc State.
 - **Lỗi riêng để soát:** `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
-## Việc kế (chờ Tác giả)
+## Việc kế (bàn giao cho phiên mới — 08/11, Tác giả: "cứ ra brief và chạy, chi phí gần như miễn phí, tôi lười đọc brief")
 
-1. Duyệt tên truyện, tên nhân vật (`bible/glossary.md`), premise (`bible/overview.md`) và dàn ý arc 1 (`plot/outline.md`).
-2. Đọc brief 001–009 trong `briefs/` (chín brief đã qua cổng `tools/soat_brief.py --goi`: không dòng CHẶN; còn cảnh báo "hai cảnh" ở 005 và 008, chủ ý giữ). Brief 001 viết lại 08/11 theo nhịp ch1–ch3 bộ mẫu.
-3. Đã chạy 001 (08/11, 1 bản). Tác giả đọc rồi quyết ĐẠT hay không; `handoff/state.json` đã dựng ở dạng nháp; brief 002–003 đã sửa cho khớp bản 001, 004–009 còn sửa dần theo bản thảo (mỗi session Writer chỉ 2 đoạn).
+Đã chạy 001 (v2) và 002; chờ Tác giả đọc và quyết ĐẠT. Còn **003–009**. Mỗi đoạn một lượt, **một phiên Writer mới** (gói bàn giao + brief), đọc, sửa tên riêng, cập nhật State, rồi mới sang đoạn kế:
+
+1. Đọc `../AGENT.md` mục 5c → file này → `log.md` → `handoff/state.json` → `reviews/doan-002.md` (đừng đọc cả chương cũ).
+2. `python -I -X utf8 tools/build_pack.py han-nien-san-dong --tail 2500 --prompt briefs/doan-00N.md` rồi
+   `python tools/aistudio_run.py --new --si han-nien-san-dong/gemini/si-dan-gemini.txt --prompt han-nien-san-dong/handoff/session-start.md --out han-nien-san-dong/chapters/doan-00N.md --timeout 22` (chạy nền, **một** lệnh chờ; cần Edge mở với extension).
+3. Gỡ dòng `<!-- ... -->` đầu file; `python tools/cong_doan.py <bản> --prompt <brief>`. **ĐỎ "bản cụt" (câu cuối kết bằng dấu phẩy) = lỗi mạng AI Studio: chuyển bản vào `archive/` rồi chạy lại** (đã gặp ở 002).
+4. Đọc bản; sửa tên riêng sai bằng thay thế (được phép); ghi `reviews/doan-00N.md`; cập nhật `handoff/state.json` (scene_bridge, ledger, conflicts); **sửa brief N+1 cho khớp bản Writer vừa viết** (Writer tự đặt chi tiết rất nhiều); commit + push.
+5. Chỉ ghi tên đã thấy trong cảnh; nếu Writer đặt tên trùng nhân vật khác trong bible (ví dụ 邱老栓) thì đổi tên bản Writer, không đổi bible.
+
+Khuôn kiểm: brief giữ dạng tình huống + một dòng Khoá + Dừng ở; không thêm lời thoại mẫu, không liệt kê thông tin cho NPC "kể" (bài học Liễu thẩm).
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (3.279 字, 1 bản) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ (đề xuất) | ⏳ chờ Tác giả đọc |
-| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | — | — | ⏳ |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (v2, 3.636 字; v1 ở `archive/`) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) (4.908 字) | [`reviews/doan-002.md`](reviews/doan-002.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | — | — | ⏳ |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | — | — | ⏳ |
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | — | — | ⏳ |

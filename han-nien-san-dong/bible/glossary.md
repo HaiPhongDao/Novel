@@ -12,7 +12,7 @@
 | Khâu Lão Thuyên | 邱老栓 | 55 tuổi, ruộng sát mương |
 | Ngưu Nhị | 牛二 | 20 tuổi, thanh niên trong thôn |
 | Lữ Tứ | 吕四 | người gác núi (山门管事), 38 tuổi, giữ cân |
-| Lữ Lục | 吕六 | gia đinh nhà họ Lữ, 20 tuổi, đi theo Lữ Tứ |
+| Lữ Lục | 吕六 | cháu xa của đại quản sự nhà họ Lữ, chuyên đo ruộng thu tô, đi theo Lữ Tứ (Writer đặt ở 001, nhận làm canon) |
 | Lữ Đức Tường | 吕德祥 | đại quản sự nhà họ Lữ (chưa xuất hiện trước đoạn 008) |
 | Lão Nha Ao | 老鸦坳 | thôn |
 | Núi Hắc Thạch | 黑石岭 | dãy núi bị bán |

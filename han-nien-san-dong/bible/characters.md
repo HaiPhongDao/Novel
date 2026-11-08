@@ -23,7 +23,7 @@
 - 20 tuổi, to xương, nói to, tay lúc nào cũng cầm cái gì đó để xoay.
 
 ## Lữ Tứ — người gác núi
-- 38 tuổi, mặc áo vải xanh có thêu chữ 吕 ở ngực, đeo cái cân đòn bên hông, cầm gậy gỗ táo. Không biết chữ, thuộc lòng lời đại quản sự dặn.
+- 38 tuổi, mặc áo vải xanh có thêu chữ 吕 ở ngực, đeo cái cân đòn bên hông, cầm cây gậy (水火棍), có dắt hai con chó lớn. Không biết chữ, thuộc lòng lời đại quản sự dặn.
 
-## Lữ Lục — gia đinh
-- 20 tuổi, đi sau Lữ Tứ nửa bước, vác xẻng và gậy.
+## Lữ Lục — cháu xa của đại quản sự
+- 20 tuổi, chuyên đo ruộng thu tô cho nhà họ Lữ, đi sau Lữ Tứ nửa bước, vác xẻng và gậy, hay cầm sợi dây thừng thắt nút để đo.
