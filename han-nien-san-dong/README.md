@@ -12,7 +12,7 @@
 
 ## Việc kế — thoại trước (09/11, Tác giả: "sửa này trước chốt đã")
 
-Giọng chữ (thổ ngữ, chữ cổ, cụm sáo, "giọng AI"): SI-R, SI-R2 **Tác giả bác** ("chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose") — chờ chọn hướng mới; đếm tật bằng `python tools/tat_ai.py dem --ds han-nien-san-dong/gemini/tat-giong-ai.txt <bản>` — [`gemini/test-giong/doc-giong.md`](gemini/test-giong/doc-giong.md). Thoại: Tác giả "hơi ổn rồi, để về sau test thêm". Bốn lượt thử thoại: [`gemini/test-giong/doc-thoai.md`](gemini/test-giong/doc-thoai.md). Chờ Tác giả đọc bản ch3 và trả lời: thoại kiểu đó có đạt không. SI đang dùng không đổi. Việc giữ mạch (dưới đây) làm sau khi thoại chốt.
+Giọng chữ (thổ ngữ, chữ cổ, cụm sáo, "giọng AI"): SI-R, SI-R2 **Tác giả bác** ("chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose") — Tác giả chọn giao Argon: [`prompt-argon.md`](prompt-argon.md), chờ đề xuất; đếm tật bằng `python tools/tat_ai.py dem --ds han-nien-san-dong/gemini/tat-giong-ai.txt <bản>` — [`gemini/test-giong/doc-giong.md`](gemini/test-giong/doc-giong.md). Thoại: Tác giả "hơi ổn rồi, để về sau test thêm". Bốn lượt thử thoại: [`gemini/test-giong/doc-thoai.md`](gemini/test-giong/doc-thoai.md). Chờ Tác giả đọc bản ch3 và trả lời: thoại kiểu đó có đạt không. SI đang dùng không đổi. Việc giữ mạch (dưới đây) làm sau khi thoại chốt.
 
 ## Việc kế — giữ mạch giữa các đoạn (cập nhật 09/11 — DỪNG chạy Writer, chờ Tác giả duyệt cách sửa)
 
