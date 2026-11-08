@@ -10,26 +10,27 @@
 - **Mẫu prompt:** mẫu A (khung `.claude/skills/novel-craft/templates/brief-doan.md`). Brief 001 mang đủ thiết lập vì chưa có State; từ 002 trở đi Writer đọc State.
 - **Lỗi riêng để soát:** `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
-## Việc kế (bàn giao cho phiên mới — 08/11, Tác giả: "cứ ra brief và chạy, chi phí gần như miễn phí, tôi lười đọc brief")
+## Việc kế (cập nhật 09/11 — DỪNG chạy Writer, chờ Tác giả duyệt cách sửa)
 
-Đã chạy 001 (v2) và 002; chờ Tác giả đọc và quyết ĐẠT. Còn **003–009**. Mỗi đoạn một lượt, **một phiên Writer mới** (gói bàn giao + brief), đọc, sửa tên riêng, cập nhật State, rồi mới sang đoạn kế:
+**Vấn đề (xem `log.md`, dòng 09/11 'VẤN ĐỀ'):** 002 và 003 hiện có viết lại/tóm tắt lại chuyện đoạn trước, lặp ý, thiếu liên kết. Nguyên nhân: mỗi đoạn chạy phiên Writer mới (`--new`) chỉ với State + 2.500 ký tự cuối; brief nhắc lại việc cũ; `canon-card.md` lộ sẵn '23 bước' và nội dung khế.
 
-1. Đọc `../AGENT.md` mục 5c → file này → `log.md` → `handoff/state.json` → `reviews/doan-002.md` (đừng đọc cả chương cũ).
-2. `python -I -X utf8 tools/build_pack.py han-nien-san-dong --tail 2500 --prompt briefs/doan-00N.md` rồi
-   `python tools/aistudio_run.py --new --si han-nien-san-dong/gemini/si-dan-gemini.txt --prompt han-nien-san-dong/handoff/session-start.md --out han-nien-san-dong/chapters/doan-00N.md --timeout 22` (chạy nền, **một** lệnh chờ; cần Edge mở với extension).
-3. Gỡ dòng `<!-- ... -->` đầu file; `python tools/cong_doan.py <bản> --prompt <brief>`. **ĐỎ "bản cụt" (câu cuối kết bằng dấu phẩy) = lỗi mạng AI Studio: chuyển bản vào `archive/` rồi chạy lại** (đã gặp ở 002).
-4. Đọc bản; sửa tên riêng sai bằng thay thế (được phép); ghi `reviews/doan-00N.md`; cập nhật `handoff/state.json` (scene_bridge, ledger, conflicts); **sửa brief N+1 cho khớp bản Writer vừa viết** (Writer tự đặt chi tiết rất nhiều); commit + push.
-5. Chỉ ghi tên đã thấy trong cảnh; nếu Writer đặt tên trùng nhân vật khác trong bible (ví dụ 邱老栓) thì đổi tên bản Writer, không đổi bible.
+**Hướng sửa đề xuất (chưa chạy, chờ Tác giả):**
+1. Gỡ hai câu lộ trước khỏi `handoff/canon-card.md` ('khế bán núi tính núi từ mốc đá trở lên…', 'mốc đá cách bờ ruộng hai mươi ba bước').
+2. Viết lại brief 002/003 chỉ ghi **việc mới**, mở bằng hành động nối ngay câu cuối đoạn trước; không nhắc 240 văn, kê, Lữ Lục, chuyện nhà Vương nếu đoạn trước đã kể.
+3. Chạy 002 và 003 **trong cùng một chat** (`aistudio_run.py --new …` cho 002, rồi `--chat <URL chat đó>` cho 003; 2 đoạn/phiên theo `../AGENT.md` mục 5c); 004+005 một chat mới, cứ thế.
+4. Review thêm một mục 'tóm tắt lại / lặp ý đoạn trước'. Bản 002/003 hiện tại giữ nguyên, chuyển `archive/` khi chạy lại (bản 002 v1 và State sau 002 v1 đã có ở `archive/`).
 
-Khuôn kiểm: brief giữ dạng tình huống + một dòng Khoá + Dừng ở; không thêm lời thoại mẫu, không liệt kê thông tin cho NPC "kể" (bài học Liễu thẩm).
+**Trạng thái brief:** 002, 003, 004 là brief trơn (cần sửa theo mục 2); 005–009 vẫn là bản dài cũ — viết lại trơn rồi mới chạy. Chưa chạy 004 (không có file). Đã đọc/ghi: 002 (5.010 字), 003 (5.054 字), State tới 003.
+
+Quy trình mỗi đoạn (vẫn dùng): `build_pack.py … --tail 2500 --prompt briefs/doan-00N.md` rồi `aistudio_run.py` (chạy nền, **một** lệnh chờ; cần Edge mở với extension); gỡ dòng `<!-- -->` đầu file; `cong_doan.py`; đỏ 'bản cụt' (câu cuối kết bằng dấu phẩy) = lỗi mạng AI Studio, chuyển bản vào `archive/` rồi chạy lại. Chỉ sửa **tên riêng** sai bằng thay thế; ghi review, State, log; commit + push; không tự chốt ĐẠT. Nếu Writer đặt tên trùng nhân vật khác trong bible thì đổi tên trong bản Writer, không đổi bible.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (v2, 3.636 字; v1 ở `archive/`) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
-| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) (trơn) | [`chapters/doan-002.md`](chapters/doan-002.md) (v2, 5.010 字; v1 ở `archive/`) | [`reviews/doan-002.md`](reviews/doan-002.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
-| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) (trơn) | [`chapters/doan-003.md`](chapters/doan-003.md) (5.054 字) | [`reviews/doan-003.md`](reviews/doan-003.md) — SỬA NHẸ | ⏳ chờ Tác giả đọc |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (v2, 3.636 字; v1 ở `archive/`) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ → đề xuất VIẾT LẠI (09/11) | ⏳ chờ Tác giả |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) (trơn) | [`chapters/doan-002.md`](chapters/doan-002.md) (v2, 5.010 字; v1 ở `archive/`) | [`reviews/doan-002.md`](reviews/doan-002.md) — SỬA NHẸ → đề xuất VIẾT LẠI (09/11) | ⏳ chờ Tác giả |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) (trơn) | [`chapters/doan-003.md`](chapters/doan-003.md) (5.054 字) | [`reviews/doan-003.md`](reviews/doan-003.md) — SỬA NHẸ → đề xuất VIẾT LẠI (09/11) | ⏳ chờ Tác giả |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | — | — | ⏳ |
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | — | — | ⏳ |
 | 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | — | — | ⏳ |

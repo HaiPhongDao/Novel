@@ -16,3 +16,6 @@
 
 ## Verdict
 **SỬA NHẸ → đã sửa tên riêng.** ĐẠT do Tác giả quyết. Chưa chốt.
+
+## Bổ sung 09/11 — lỗi Agent bỏ sót (Tác giả chỉ ra)
+- ❌ **Tóm tắt lại và lặp ý đoạn trước.** Đoạn 1–2 đã kể: bị đánh, nợ 240 văn, chuyện Vương Lão Thật, 23 bước → 003 kể lại ở dòng 37 và 151–163; `二十三步` lặp 8 lần. Nguyên nhân và hướng sửa: `log.md` dòng 09/11 'VẤN ĐỀ'. Verdict đổi: **VIẾT LẠI** (đề xuất, chờ Tác giả duyệt cách sửa).

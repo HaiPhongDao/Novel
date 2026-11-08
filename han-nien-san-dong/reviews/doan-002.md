@@ -13,3 +13,6 @@
 
 ## Verdict
 **SỬA NHẸ → đã sửa tên riêng.** ĐẠT do Tác giả quyết. Chưa chốt.
+
+## Bổ sung 09/11 — lỗi Agent bỏ sót (Tác giả chỉ ra)
+- ❌ **Tóm tắt lại và lặp ý đoạn trước.** Đoạn 1 đã kể: ý nghĩ nguyên chủ, Lữ Lục đo đất, 240 văn/3 cân rưỡi kê/11 văn → 002 kể lại ở dòng 25–37 và 161–165; `二十三步` lặp 6 lần. Nguyên nhân và hướng sửa: `log.md` dòng 09/11 'VẤN ĐỀ'. Verdict đổi: **VIẾT LẠI** (đề xuất, chờ Tác giả duyệt cách sửa).
