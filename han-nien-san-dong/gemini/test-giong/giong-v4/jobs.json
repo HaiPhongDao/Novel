@@ -1,0 +1,37 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-003-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-003-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-003-a.md",
+  "note": "han-nien argon-tu 003 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-003-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-003-b.md",
+  "note": "han-nien argon-tu 003 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-001-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-001-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-001-a.md",
+  "note": "han-nien argon-tu 001 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-001-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-001-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-001-b.md",
+  "note": "han-nien argon-tu 001 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v3/si-argon.txt",
+  "prompt": "han-nien-san-dong/briefs/doan-001.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AR-001o-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AR-001o-a.md",
+  "note": "han-nien do treo: SI argon + brief 001 goc"
+ }
+]

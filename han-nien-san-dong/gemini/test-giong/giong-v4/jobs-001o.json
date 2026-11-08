@@ -1,0 +1,16 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-001o-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-001o-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-001o-a.md",
+  "note": "han-nien argon-tu 001 brief goc lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v4/si-AT.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/giong-v4/prompt-001o-cd.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v4/AT-001o-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v4/thinking-AT-001o-b.md",
+  "note": "han-nien argon-tu 001 brief goc lan b"
+ }
+]
