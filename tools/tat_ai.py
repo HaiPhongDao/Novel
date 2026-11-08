@@ -15,7 +15,12 @@ Hai lệnh:
       kể, ngoài “”). In số lần /1.000 字 theo nhóm cho mỗi bản; --mau in thêm mức của bộ mẫu; --list in từng chỗ kèm
       ngữ cảnh.
 
+  python tools/tat_ai.py nguon --mau <bộ mẫu> --tu SI=<file SI> --tu prompt=<file prompt> [--tu glossary=…] <bản…>
+      Mỗi cụm Writer dùng mà bộ mẫu hiếm/không có: nằm trong nguồn nào (SI, prompt, glossary…) hay "model tự đặt".
+      Cụm đến từ SI/prompt thì sửa ở nguồn đó; cụm "model tự đặt" mới là việc của SI (anchor, cách nói) hay BANS.
+
 Không phải trọng tài: số chỉ để biết bản nào nên chạy lại, câu ĐẠT vẫn do Tác giả.
+Danh sách cấm từ trong SI đã bị Tác giả bác (I-0068, I-0071): dùng tool này để tìm nguồn, không để lập danh sách cấm.
 """
 import argparse
 import collections
@@ -120,6 +125,45 @@ def cmd_dem(a):
                 print(f"      [{nhom}] …{ctx}…")
 
 
+def cmd_nguon(a):
+    """Mỗi cụm lạ trong bản Writer (bộ mẫu hiếm hoặc không có) đến từ đâu: SI, prompt/brief, hay model tự đặt."""
+    mau = doc(Path(a.mau))
+    Hm = han(mau)
+    nguon = {}
+    for spec in a.tu:
+        ten, _, p = spec.partition("=")
+        nguon[ten] = doc(Path(p))
+    W = [(Path(f).name, doc(Path(f))) for f in a.ban]
+    gw, df = collections.Counter(), collections.Counter()
+    for _, w in W:
+        for n in (2, 3, 4):
+            g = grams(w, n)
+            gw.update(g)
+            df.update(set(g))
+    Hw = sum(han(w) for _, w in W)
+    gm = collections.Counter()
+    for n in (2, 3, 4):
+        gm.update(grams(mau, n))
+    hang = collections.defaultdict(list)
+    seen = []
+    for k, c in sorted(gw.items(), key=lambda x: -x[1]):
+        if c < a.min_lan or df[k] < a.min_ban or any(ch in a.loai_chu for ch in k):
+            continue
+        rm = 1000 * gm[k] / Hm
+        rw = 1000 * c / Hw
+        if gm[k] > a.max_mau or rm * a.gap > rw:
+            continue
+        if any(k in s or s in k for s in seen):
+            continue
+        seen.append(k)
+        o = [ten for ten, t in nguon.items() if k in t]
+        hang[" + ".join(o) if o else "model tự đặt"].append(f"{k}({c}/{gm[k]})")
+    print(f"{len(W)} bản · cụm Writer dùng ≥{a.min_lan} lần mà bộ mẫu dùng ≤{a.max_mau} lần · (số lần Writer / số lần bộ mẫu)")
+    for o in sorted(hang, key=lambda x: (x == "model tự đặt", x)):
+        print(f"## {o} — {len(hang[o])} cụm")
+        print("  " + " · ".join(hang[o][: a.top]))
+
+
 def main(argv):
     ap = argparse.ArgumentParser(prog="tat_ai.py")
     sub = ap.add_subparsers(dest="lenh", required=True)
@@ -135,8 +179,18 @@ def main(argv):
     d.add_argument("--mau")
     d.add_argument("--list", action="store_true")
     d.add_argument("ban", nargs="+")
+    g = sub.add_parser("nguon")
+    g.add_argument("--mau", required=True)
+    g.add_argument("--tu", action="append", default=[], help="tên=file nguồn (SI, prompt, glossary…), lặp được")
+    g.add_argument("--min-lan", type=int, default=2)
+    g.add_argument("--min-ban", type=int, default=1)
+    g.add_argument("--gap", type=float, default=8)
+    g.add_argument("--max-mau", type=int, default=3, help="chỉ lấy cụm bộ mẫu dùng ≤ chừng này lần")
+    g.add_argument("--top", type=int, default=80)
+    g.add_argument("--loai-chu", default="")
+    g.add_argument("ban", nargs="+")
     a = ap.parse_args(argv)
-    {"quet": cmd_quet, "dem": cmd_dem}[a.lenh](a)
+    {"quet": cmd_quet, "dem": cmd_dem, "nguon": cmd_nguon}[a.lenh](a)
 
 
 if __name__ == "__main__":
