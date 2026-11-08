@@ -8,6 +8,7 @@
 ## Writer
 
 - **SI đang dùng:** `gemini/system-instruction.md` (khung SI v6 chuẩn thể loại điền văn sơn dã độ thuần thục).
+- **SI đề xuất v2 (08/11, chưa dán):** `gemini/test-giong/v2/si-v2.md` → `si-v2.txt` (7.895 ký tự) — viết lại cả bản từ giọng bộ mẫu theo cách sung-thu (I-0059). Lý do: `gemini/phan-tich-si.md`. Bài thử ch4: `../chung/hieu-chuan/loan-the/ch04/`, job `gemini/test-giong/v2/jobs-ch04.json`. Chờ Tác giả.
 - **Lỗi riêng để soát:** `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
 ## Trạng thái

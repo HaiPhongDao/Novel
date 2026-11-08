@@ -1,0 +1,30 @@
+[
+ {
+  "si": "co-dai/gemini/test-giong/v2/si-v2.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch04/brief.md",
+  "out": "co-dai/gemini/test-giong/v2/V2-ch04-a.md",
+  "think_out": "co-dai/gemini/test-giong/v2/thinking-V2-ch04-a.md",
+  "note": "co-dai hc ch04 V2 lan a"
+ },
+ {
+  "si": "co-dai/gemini/test-giong/v2/si-v2.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch04/brief.md",
+  "out": "co-dai/gemini/test-giong/v2/V2-ch04-b.md",
+  "think_out": "co-dai/gemini/test-giong/v2/thinking-V2-ch04-b.md",
+  "note": "co-dai hc ch04 V2 lan b"
+ },
+ {
+  "si": "co-dai/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch04/brief.md",
+  "out": "co-dai/gemini/test-giong/v2/CU-ch04-a.md",
+  "think_out": "co-dai/gemini/test-giong/v2/thinking-CU-ch04-a.md",
+  "note": "co-dai hc ch04 CU lan a"
+ },
+ {
+  "si": "co-dai/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch04/brief.md",
+  "out": "co-dai/gemini/test-giong/v2/CU-ch04-b.md",
+  "think_out": "co-dai/gemini/test-giong/v2/thinking-CU-ch04-b.md",
+  "note": "co-dai hc ch04 CU lan b"
+ }
+]
