@@ -14,13 +14,13 @@
 
 1. Duyệt tên truyện, tên nhân vật (`bible/glossary.md`), premise (`bible/overview.md`) và dàn ý arc 1 (`plot/outline.md`).
 2. Đọc brief 001–009 trong `briefs/` (chín brief đã qua cổng `tools/soat_brief.py --goi`: không dòng CHẶN; còn cảnh báo "hai cảnh" ở 005 và 008, chủ ý giữ). Brief 001 viết lại 08/11 theo nhịp ch1–ch3 bộ mẫu.
-3. Chạy 001 (`python tools/aistudio_run.py --new --si han-nien-san-dong/gemini/si-dan-gemini.txt --prompt han-nien-san-dong/briefs/doan-001.md --out han-nien-san-dong/chapters/doan-001.md`), Tác giả đọc; rồi dựng `handoff/state.json` theo `chung/state-extractor.md` và **sửa brief 002–009 cho khớp bản thảo** trước khi chạy tiếp (mỗi session Writer chỉ 2 đoạn).
+3. Đã chạy 001 (08/11, 1 bản). Tác giả đọc rồi quyết ĐẠT hay không; `handoff/state.json` đã dựng ở dạng nháp; brief 002–003 đã sửa cho khớp bản 001, 004–009 còn sửa dần theo bản thảo (mỗi session Writer chỉ 2 đoạn).
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | — | — | ⏳ chưa chạy |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (3.279 字, 1 bản) | [`reviews/doan-001.md`](reviews/doan-001.md) — SỬA NHẸ (đề xuất) | ⏳ chờ Tác giả đọc |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | — | — | ⏳ |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | — | — | ⏳ |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | — | — | ⏳ |
