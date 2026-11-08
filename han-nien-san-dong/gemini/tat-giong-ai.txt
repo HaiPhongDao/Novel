@@ -1,0 +1,39 @@
+# Tật "giọng AI" của Writer — han-nien-san-dong. Đếm: python tools/tat_ai.py dem --ds han-nien-san-dong/gemini/tat-giong-ai.txt <bản…>
+# Mỗi dòng: nhóm<TAB>regex<TAB>ghi chú. 'LK:' = chỉ đếm ở lời kể (ngoài “”).
+# Nguồn: 09/11, 25 bản Writer so với 182 chương 《乱世荒年》 (tools/tat_ai.py quet); Tác giả bắt 实打实 · 语气平稳得很 · 直往…里钻.
+# Số trong ghi chú: bộ mẫu → Writer, lần /1.000 字 (số bản Writer có).
+
+nhan	实打实	0,01 → 0,13 (9/25) · Tác giả "thật sự"
+nhan	结结实实|严严实实|实实在在	0 → 0,21 (10/25)
+nhan	紧实	0 → 0,27 (13/25)
+nhan	整整	0,02 → 0,57 (22/25)
+nhan	足足	0,03 → 0,19 (15/25)
+nhan	沉甸甸	0,01 → 0,23 (13/25)
+nhan	清清楚楚|明明白白	→ 18/25 · 8/25 bản
+nhan	猛地	0,12 → 1,37 (21/25)
+nhan	死死	0,03 → 0,84 (19/25)
+nhan	狠狠	0,02 → 0,37
+nhan	硬生生	0,03 → 0,23
+nhan	得厉害|得要命	0 → 0,12
+giong	LK:(语气|语调|声音|神色|脸色|神情|眼神|目光)[^，。！？“”]{0,4}得很	Tác giả "đắc nhận": 语气平稳得很 (mẫu dùng 得很 trong lời nhân vật: 眼馋得很)
+giong	LK:(神色|语气|语调|声音)(平静|平稳|沉稳|淡淡|冷冷)	nhãn lạnh của MC
+giong	平得像|眼神极静|冷眼看着|冷冷注视	nhãn lạnh của MC
+can	浑浊的眼	0,01 → (16/25)
+can	干瘪	0 → (17/25)
+can	枯瘦的	(11/25)
+can	嘴唇哆嗦|嘴唇直哆嗦|哆嗦着嘴唇	(12/25)
+can	颤巍巍	(10/25)
+can	喉结	(14/25) · 喉结滚动
+can	眼珠子	0,01 → 0,28 (14/25)
+can	拧成[^，。]{0,2}疙瘩|拧成一团|拧成死结	(13/25)
+can	清了清[^，。]{0,2}嗓子	(11/25)
+can	悬在半空	(11/25)
+can	冷不丁	(16/25)
+can	静得[^，。]{0,6}(听见|能听)|落针可闻|死一般(的)?(寂静|安静|沉寂)	(15/25)
+can	倒吸[^，。]{0,2}凉气
+can	往[^，。！？“”]{0,6}?里(钻|灌)	Tác giả "直往鼻孔里钻 hầu như bản nào cũng có"
+can	方向狂奔|狂奔而去	(11/25)
+can	白纸黑字	(11/25)
+can	一字一顿	(5/25)
+dia	俺|瞅|后生|老汉|老夫|做甚|作甚|他娘的	E-PROSE-15
+dia	外头|后头|上头|底下|昨儿|日头	mẫu: 外边 · 后面 · 上面 · 下面 · 昨天 · 太阳

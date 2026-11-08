@@ -1,0 +1,30 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v2/si-R2.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v2/R2-003-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v2/thinking-R2-003-a.md",
+  "note": "han-nien giong R2 003 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v2/si-R2.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v2/R2-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v2/thinking-R2-003-b.md",
+  "note": "han-nien giong R2 003 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v2/si-R2.txt",
+  "prompt": "han-nien-san-dong/briefs/doan-001.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v2/R2-001-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v2/thinking-R2-001-a.md",
+  "note": "han-nien giong R2 001 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/giong-v2/si-R2.txt",
+  "prompt": "han-nien-san-dong/briefs/doan-001.md",
+  "out": "han-nien-san-dong/gemini/test-giong/giong-v2/R2-001-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/giong-v2/thinking-R2-001-b.md",
+  "note": "han-nien giong R2 001 lan b"
+ }
+]
