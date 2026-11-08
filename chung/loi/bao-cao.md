@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **51** · Lần quan sát: **289** · Can thiệp: **70** · Đích đã đặt: **20**
+- Kiểu lỗi: **51** · Lần quan sát: **290** · Can thiệp: **71** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **36/70** (51%)
+- Can thiệp đã đo: **37/71** (52%)
 
-- Hiệu quả (≥2.0 biên độ): **8** · Vô hiệu (<1.0 biên độ): **23** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **9** · Vô hiệu (<1.0 biên độ): **23** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -21,7 +21,7 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo<br>I-0037 · SI · hiệu quả · 14.17× |
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 65 | 39 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo<br>I-0066 · SI · vô hiệu · 0.5× |
 | E-PROSE-03 | So sánh của người kể | 56 | 24 | I-0036 · SI · hiệu quả · 2.94× |
-| E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 41 | 7 | I-0068 · SI · hiệu quả · 5.04×<br>I-0070 · BRIEF · vô hiệu · 0.13× |
+| E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 44 | 8 | I-0068 · SI · hiệu quả · 5.04×<br>I-0070 · BRIEF · vô hiệu · 0.13×<br>I-0071 · SI · hiệu quả · 35.5× |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 35 | 28 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 32 | 2 | I-0021 · SI · đề xuất · chưa đo<br>I-0065 · SI · phản tác dụng · 1.2× |
@@ -103,6 +103,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 
 | Can thiệp | Lỗi | Tầng | Trước → Sau | Biên độ | Hiệu quả | n |
 |---|---|---|---|---|---|---|
+| I-0071 | E-PROSE-09 | SI | 6.68 → 1.0 | 0.16 | 35.5× | 2 |
 | I-0037 | E-PROSE-01 | SI | 0.85 → 0.0 | 0.06 | 14.17× | 2 |
 | I-0045 | E-PROSE-13 | SI | 0.29 → 0.76 | 0.04 | 11.75× | 2 |
 | I-0024 | E-SCENE-01 | SI | 9.0 → 4.5 | 0.5 | 9.0× | 2 |
