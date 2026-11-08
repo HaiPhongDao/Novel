@@ -211,11 +211,12 @@ lặp, 得像…, khuôn 实, phần lớn nhãn ngữ điệu nhưng **bỏ só
 Không cổng nào trong bốn cổng này được phép kết luận ĐẠT — I-0020, Tác giả bác chấm bằng điểm.
 
 **Tật "giọng AI" và thổ ngữ** (Tác giả 09/11: "văn mẫu viết bằng bạch thoại văn"; đọc 30 câu qua DocTTS đã bắt
-实打实 · 语气平稳得很 · 直往鼻孔里钻 — "giọng AI… tồn tại cảm rất lớn"). Bốn cổng trên không có cột cho chúng. Đếm bằng
-`python tools/tat_ai.py dem --ds <truyen>/gemini/tat-giong-ai.txt <bản…>` trước khi đưa bản cho Tác giả; danh sách
-mỗi truyện lấy từ `tat_ai.py quet --mau <bộ mẫu> <các bản Writer>` (cụm gấp ≥8 lần bộ mẫu, lặp ở nhiều bản), không
-đoán. `han-nien-san-dong`: bộ mẫu 0,44 /1.000 字, SI cũ 6,6–16,2; một dòng BANS nêu đích danh các cụm (SI-R2) hạ
-xuống 0,9–7,4 (I-0071 hiệu quả). Hai lần chạy cùng SI vẫn lệch 3 lần → bản nào cao thì chạy lại chat mới, không sửa tay.
+实打实 · 语气平稳得很 · 直往鼻孔里钻 — "giọng AI… tồn tại cảm rất lớn"). Bốn cổng trên không có cột cho chúng.
+`python tools/tat_ai.py quet --mau <bộ mẫu> <các bản Writer>` tìm cụm Writer dùng gấp nhiều lần bộ mẫu; `dem` đếm
+một danh sách — **chỉ để khoanh vùng**. Đã thử và bị bác: một dòng BANS nêu đích danh ~15 cụm (SI-R, SI-R2) hạ số đếm
+6,6–16 → 0,9–7,4 /1.000 字 nhưng Tác giả đọc: "Chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose nữa chứ"
+(I-0068, I-0071 `tac-gia-bac`). Thinking ghi "checking for banned phrases… replacing them with suitable alternatives":
+cấm từ thì Writer thay từ, văn cứng đi, giọng AI vẫn còn. Số đếm giảm không phải bằng chứng đã chữa.
 
 ## 6b. Sửa bằng bỏ trước, thay sau
 
