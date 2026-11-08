@@ -210,6 +210,13 @@ lặp, 得像…, khuôn 实, phần lớn nhãn ngữ điệu nhưng **bỏ só
 "checklist", và bỏ qua bible với brief viết thẻ trong ngoặc (20/43); `cham_doan.py` chỉ có band làn 领主.
 Không cổng nào trong bốn cổng này được phép kết luận ĐẠT — I-0020, Tác giả bác chấm bằng điểm.
 
+**Tật "giọng AI" và thổ ngữ** (Tác giả 09/11: "văn mẫu viết bằng bạch thoại văn"; đọc 30 câu qua DocTTS đã bắt
+实打实 · 语气平稳得很 · 直往鼻孔里钻 — "giọng AI… tồn tại cảm rất lớn"). Bốn cổng trên không có cột cho chúng. Đếm bằng
+`python tools/tat_ai.py dem --ds <truyen>/gemini/tat-giong-ai.txt <bản…>` trước khi đưa bản cho Tác giả; danh sách
+mỗi truyện lấy từ `tat_ai.py quet --mau <bộ mẫu> <các bản Writer>` (cụm gấp ≥8 lần bộ mẫu, lặp ở nhiều bản), không
+đoán. `han-nien-san-dong`: bộ mẫu 0,44 /1.000 字, SI cũ 6,6–16,2; một dòng BANS nêu đích danh các cụm (SI-R2) hạ
+xuống 0,9–7,4 (I-0071 hiệu quả). Hai lần chạy cùng SI vẫn lệch 3 lần → bản nào cao thì chạy lại chat mới, không sửa tay.
+
 ## 6b. Sửa bằng bỏ trước, thay sau
 
 SI đã chốt của làn manga nằm ở `chung/hieu-chuan/manga/gemini/si-dan-gemini.txt`. Trong ba đoạn đầu của truyện
