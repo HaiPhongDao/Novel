@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **51** · Lần quan sát: **290** · Can thiệp: **71** · Đích đã đặt: **20**
+- Kiểu lỗi: **51** · Lần quan sát: **292** · Can thiệp: **72** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **37/71** (52%)
+- Can thiệp đã đo: **38/72** (53%)
 
-- Hiệu quả (≥2.0 biên độ): **9** · Vô hiệu (<1.0 biên độ): **23** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **10** · Vô hiệu (<1.0 biên độ): **23** · Phản tác dụng: **3** · Bị Tác giả bác: **11** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -22,13 +22,14 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 65 | 39 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo<br>I-0066 · SI · vô hiệu · 0.5× |
 | E-PROSE-03 | So sánh của người kể | 56 | 24 | I-0036 · SI · hiệu quả · 2.94× |
 | E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 44 | 8 | I-0068 · SI · hiệu quả · 5.04×<br>I-0070 · BRIEF · vô hiệu · 0.13×<br>I-0071 · SI · hiệu quả · 35.5× |
+| E-PROSE-15 | Thổ ngữ / chữ cổ lệch bạch thoại của bộ mẫu | 44 | 3 | I-0069 · SI · chưa rõ · 1.17× |
+| E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 36 | 2 | I-0072 · BRIEF · hiệu quả · 2.2× |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 35 | 28 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 32 | 2 | I-0021 · SI · đề xuất · chưa đo<br>I-0065 · SI · phản tác dụng · 1.2× |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 28 | 11 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 23 | 13 | — |
-| E-PROSE-15 | Thổ ngữ / chữ cổ lệch bạch thoại của bộ mẫu | 22 | 2 | I-0069 · SI · chưa rõ · 1.17× |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
@@ -37,7 +38,6 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
 | E-CANON-04 | Bàn tay vàng vượt hợp đồng | 7 | 4 | — |
 | E-SCENE-04 | MC thuyết trình, văn chạy checklist | 7 | 3 | I-0017 · BRIEF · Tác giả bác · chưa đo<br>I-0067 · SI · hiệu quả · 2.81× |
-| E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
 | E-PROSE-02 | Khuôn tương phản 不是…而是 / 既…也 | 6 | 6 | — |
 | E-SI-01 | Luật trong SI bị chép thành hình thức tu từ | 5 | 1 | — |
 | E-GATE-01 | Máy soát bỏ sót | 4 | 2 | I-0015 · TOOL · chưa rõ · chưa đo |
@@ -98,6 +98,8 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0040 | E-SI-04 | SI | Muc 4 PART 1 (cu bat roi nhanh) them vao SI loi. Tac gia doc 02/11: 'L4 la cua prompt ma' — cu bat do brief quyet, khong can khoi SI | manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-a/b, ch01-L-4-a/b (bang-so.md) |
 | I-0041 | E-EDGE-04 | SI | Khoi NARRATION (nhip doan) keo 字/doan ve khoang mau (I-0035) nhung Tac gia bac ca huong: 'Con so khong quan trong, cau dai hay ngan khong anh huong den chat luong van. Khong can SI ve van de nay.' Khong dua khoi NARRATION vao SI | Tac gia 02/11 sau I-0035 |
 | I-0062 | E-BRIEF-09 | BRIEF | Brief sáu khối tiếng Việt cho đoạn 001 (sung-thu) | Tác giả 05/11: 'Dở quá, nhiều từ ngữ bạn viết ra bằng tiếng việt nó khó hiểu quá? Đến tôi còn chẳng đang biết bạn muốn viết cái gì. Thử 2 cách khác Tiếng Trung và Tiếng Anh xem' |
+| I-0068 | E-PROSE-09 | SI | SI-R: BAN 4 (tieng dong dung rieng, dang bi vi pham 10/21 ban) thay bang 'no stock close-ups or intensifiers reused' neu dich danh 浑浊的眼睛/嘴唇哆嗦/颤巍巍/直往鼻孔里钻/猛地/死死/整整/结结实实. Cuong dieu /1000 tren pack-003: 5,15 · 5,85 -> 3,49 · 0,79 · 0,71 · 2,90 (R+RP, n=4); can canh sao 1,39 · 1,46 -> 0,81 · 0,53 · 0,47 · 0 | han-nien-san-dong/gemini/test-giong/doc-giong.md |
+| I-0071 | E-PROSE-09 | SI | SI-R2 = SI-R + BAN 4 noi rong (实打实, 紧实, 沉甸甸, 清清楚楚, 干瘪, 喉结滚动, 冷不丁; 'let the number carry the weight') + BAN 3 them 神色平静, 语气平稳得很 + FIXED 1 viet 外边/后面/下面/昨天. Tong tat (tools/tat_ai.py, gemini/tat-giong-ai.txt) /1000: brief 001 6,60 · 6,76 -> 1,12 · 0,89; pack 003 16,23 · 15,24 -> 2,25 · 7,43 (bo mau 0,44) | han-nien-san-dong/gemini/test-giong/doc-giong.md |
 
 ## Giải pháp đã chứng minh — được phép thành luật trong SKILL
 
@@ -112,6 +114,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0036 | E-PROSE-03 | SI | 1.06 → 0.0 | 0.36 | 2.94× | 2 |
 | I-0067 | E-SCENE-04 | SI | 36.2 → 43.5 | 2.6 | 2.81× | 2 |
 | I-0035 | E-EDGE-04 | SI | 47.2 → 29.75 | 6.6 | 2.64× | 2 |
+| I-0072 | E-CANON-03 | BRIEF | 15.75 → 1.9 | 6.3 | 2.2× | 2 |
 
 ## Đích của từng chỉ số (nguồn: mẫu / Tác giả / nội bộ)
 
