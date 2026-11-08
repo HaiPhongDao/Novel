@@ -10,7 +10,11 @@
 - **Mẫu prompt:** mẫu A (khung `.claude/skills/novel-craft/templates/brief-doan.md`). Brief 001 mang đủ thiết lập vì chưa có State; từ 002 trở đi Writer đọc State.
 - **Lỗi riêng để soát:** `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
-## Việc kế (cập nhật 09/11 — DỪNG chạy Writer, chờ Tác giả duyệt cách sửa)
+## Việc kế — thoại trước (09/11, Tác giả: "sửa này trước chốt đã")
+
+Bốn lượt thử thoại, chưa chốt được: [`gemini/test-giong/doc-thoai.md`](gemini/test-giong/doc-thoai.md). Chờ Tác giả đọc bản ch3 và trả lời: thoại kiểu đó có đạt không. SI đang dùng không đổi. Việc giữ mạch (dưới đây) làm sau khi thoại chốt.
+
+## Việc kế — giữ mạch giữa các đoạn (cập nhật 09/11 — DỪNG chạy Writer, chờ Tác giả duyệt cách sửa)
 
 **Vấn đề (xem `log.md`, dòng 09/11 'VẤN ĐỀ'):** 002 và 003 hiện có viết lại/tóm tắt lại chuyện đoạn trước, lặp ý, thiếu liên kết. Nguyên nhân: mỗi đoạn chạy phiên Writer mới (`--new`) chỉ với State + 2.500 ký tự cuối; brief nhắc lại việc cũ; `canon-card.md` lộ sẵn '23 bước' và nội dung khế.
 

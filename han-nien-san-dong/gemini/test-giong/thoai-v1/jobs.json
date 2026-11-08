@@ -1,0 +1,37 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v1/si-A.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v1/A-003-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v1/thinking-A-003-a.md",
+  "note": "han-nien thoai A 003 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v1/si-A.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v1/A-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v1/thinking-A-003-b.md",
+  "note": "han-nien thoai A 003 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v1/si-AB.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v1/AB-003-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v1/thinking-AB-003-a.md",
+  "note": "han-nien thoai AB 003 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v1/si-AB.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v1/AB-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v1/thinking-AB-003-b.md",
+  "note": "han-nien thoai AB 003 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/si-dan-gemini.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v1/prompt-003.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v1/V2-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v1/thinking-V2-003-b.md",
+  "note": "han-nien thoai V2 003 lan b (doi chung; lan a = chapters/doan-003.md)"
+ }
+]

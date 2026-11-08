@@ -1,0 +1,16 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/si-dan-gemini.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v4/prompt-003-nuoc-di.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v4/V2-nd-003-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v4/thinking-V2-nd-003-a.md",
+  "note": "han-nien brief nuoc di 003 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/si-dan-gemini.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/thoai-v4/prompt-003-nuoc-di.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v4/V2-nd-003-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v4/thinking-V2-nd-003-b.md",
+  "note": "han-nien brief nuoc di 003 lan b"
+ }
+]

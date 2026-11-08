@@ -1,0 +1,30 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch03/brief.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v3/V2-ch03-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v3/thinking-V2-ch03-a.md",
+  "note": "han-nien hc ch03 V2 lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/si-dan-gemini.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch03/brief.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v3/V2-ch03-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v3/thinking-V2-ch03-b.md",
+  "note": "han-nien hc ch03 V2 lan b"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v2/si-E.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch03/brief.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v3/E-ch03-a.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v3/thinking-E-ch03-a.md",
+  "note": "han-nien hc ch03 E lan a"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/test-giong/thoai-v2/si-E.txt",
+  "prompt": "chung/hieu-chuan/loan-the/ch03/brief.md",
+  "out": "han-nien-san-dong/gemini/test-giong/thoai-v3/E-ch03-b.md",
+  "think_out": "han-nien-san-dong/gemini/test-giong/thoai-v3/thinking-E-ch03-b.md",
+  "note": "han-nien hc ch03 E lan b"
+ }
+]
