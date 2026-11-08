@@ -2,13 +2,13 @@
 
 Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.jsonl` rồi sinh lại.
 
-- Kiểu lỗi: **50** · Lần quan sát: **285** · Can thiệp: **67** · Đích đã đặt: **20**
+- Kiểu lỗi: **51** · Lần quan sát: **289** · Can thiệp: **70** · Đích đã đặt: **20**
 
 ## Tỉ lệ có bằng chứng
 
-- Can thiệp đã đo: **33/67** (49%)
+- Can thiệp đã đo: **36/70** (51%)
 
-- Hiệu quả (≥2.0 biên độ): **7** · Vô hiệu (<1.0 biên độ): **22** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
+- Hiệu quả (≥2.0 biên độ): **8** · Vô hiệu (<1.0 biên độ): **23** · Phản tác dụng: **3** · Bị Tác giả bác: **9** · Chưa đo: **25**
 
 
 ## Kiểu lỗi, số lần, và cái gì đã được thử
@@ -21,19 +21,20 @@ Sinh bằng `python tools/so_loi.py bao-cao`. Đừng sửa tay; sửa file `.js
 | E-PROSE-01 | Phủ định lặp / song song | 66 | 30 | I-0001 · SI · chưa rõ · chưa đo<br>I-0037 · SI · hiệu quả · 14.17× |
 | E-PROSE-05 | Nhãn ngữ điệu thay nội dung | 65 | 39 | I-0004 · SI · chưa rõ · chưa đo<br>I-0029 · SI · đề xuất · chưa đo<br>I-0066 · SI · vô hiệu · 0.5× |
 | E-PROSE-03 | So sánh của người kể | 56 | 24 | I-0036 · SI · hiệu quả · 2.94× |
+| E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 41 | 7 | I-0068 · SI · hiệu quả · 5.04×<br>I-0070 · BRIEF · vô hiệu · 0.13× |
 | E-PROSE-11 | Từ hiện đại lọt bối cảnh | 35 | 19 | — |
 | E-SCENE-07 | Nhan vat vo hon (chi day kich ban) | 35 | 28 | I-0030 · SI · đề xuất · chưa đo<br>I-0042 · SI · đang thử · chưa đo<br>I-0043 · SI · vô hiệu · 0.0×<br>I-0044 · SI · vô hiệu · 0.0× |
 | E-EDGE-06 | Luot thoai dai, thieu nhip trao doi | 32 | 2 | I-0021 · SI · đề xuất · chưa đo<br>I-0065 · SI · phản tác dụng · 1.2× |
 | E-PROSE-12 | Nguoi ke giang giai (chan ly chung, giai thich nganh) | 28 | 11 | I-0025 · SI · phản tác dụng · 0.95×<br>I-0033 · SI · vô hiệu · 0.04×<br>I-0034 · SI · vô hiệu · 0.9×<br>I-0039 · SI · Tác giả bác · chưa đo |
 | E-SI-03 | Neo đếm được bị đọc thành checklist | 24 | 2 | I-0011 · SI · chưa rõ · chưa đo<br>I-0014 · SI · chưa rõ · chưa đo |
 | E-CANON-05 | Tên riêng sai hoặc mượn từ anchor | 23 | 13 | — |
+| E-PROSE-15 | Thổ ngữ / chữ cổ lệch bạch thoại của bộ mẫu | 22 | 2 | I-0069 · SI · chưa rõ · 1.17× |
 | E-SCENE-01 | Thoại cụt, chưa trọn ý | 17 | 2 | I-0005 · BRIEF · chưa rõ · chưa đo<br>I-0019 · SI · Tác giả bác · chưa đo<br>I-0024 · SI · hiệu quả · 9.0×<br>I-0028 · BRIEF · đề xuất · chưa đo |
 | E-BRIEF-02 | Brief đánh số beat hoặc giao nội dung thoại | 14 | 1 | I-0016 · BRIEF · chưa rõ · chưa đo<br>I-0032 · BRIEF · chưa rõ · chưa đo |
 | E-PROSE-04 | Khuôn 'động từ + 实' | 12 | 8 | I-0003 · SI · chưa rõ · chưa đo |
 | E-EDGE-03 | Độ dài lệch cửa sổ brief | 11 | 11 | — |
 | E-PROSE-13 | Nhan thai do bang danh tu truu tuong | 9 | 5 | I-0045 · SI · hiệu quả · 11.75×<br>I-0046 · SI · vô hiệu · 0.51× |
 | E-EDGE-07 | Thieu boi canh thoi dai va nghe o doan mo | 8 | 1 | I-0031 · BRIEF · đề xuất · chưa đo |
-| E-PROSE-09 | Sáo ngữ bộ mẫu và lượng từ mơ hồ | 8 | 5 | — |
 | E-CANON-04 | Bàn tay vàng vượt hợp đồng | 7 | 4 | — |
 | E-SCENE-04 | MC thuyết trình, văn chạy checklist | 7 | 3 | I-0017 · BRIEF · Tác giả bác · chưa đo<br>I-0067 · SI · hiệu quả · 2.81× |
 | E-CANON-03 | Thiếu đơn vị đo / thể chế trong glossary | 6 | 1 | — |
@@ -79,6 +80,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0063 | E-BRIEF-09 | BRIEF | 76.0 → 68.0 | 82.0 | vo-hieu |
 | I-0064 | E-BRIEF-09 | BRIEF | 76.0 → 71.0 | 82.0 | vo-hieu |
 | I-0066 | E-PROSE-05 | SI | 3.5 → 2.0 | 3.0 | vo-hieu |
+| I-0070 | E-PROSE-09 | BRIEF | 2.14 → 1.8 | 2.7 | vo-hieu |
 | I-0025 | E-PROSE-12 | SI | 0.82 → 1.86 | 1.1 | phan-tac-dung |
 | I-0038 | E-PROSE-06 | SI | 0.5 → 14.0 | 8.0 | phan-tac-dung |
 | I-0065 | E-EDGE-06 | SI | 20.5 → 26.75 | 5.2 | phan-tac-dung |
@@ -104,6 +106,7 @@ Kiểu lỗi đã đăng ký nhưng chưa có lần nào được ghi. Hoặc ch
 | I-0037 | E-PROSE-01 | SI | 0.85 → 0.0 | 0.06 | 14.17× | 2 |
 | I-0045 | E-PROSE-13 | SI | 0.29 → 0.76 | 0.04 | 11.75× | 2 |
 | I-0024 | E-SCENE-01 | SI | 9.0 → 4.5 | 0.5 | 9.0× | 2 |
+| I-0068 | E-PROSE-09 | SI | 5.5 → 1.97 | 0.7 | 5.04× | 4 |
 | I-0059 | E-PROSE-14 | SI | 0.18 → 2.73 | 0.8 | 3.19× | 2 |
 | I-0036 | E-PROSE-03 | SI | 1.06 → 0.0 | 0.36 | 2.94× | 2 |
 | I-0067 | E-SCENE-04 | SI | 36.2 → 43.5 | 2.6 | 2.81× | 2 |
