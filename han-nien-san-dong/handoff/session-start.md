@@ -33,18 +33,18 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
   "story": "古代荒年种田文：老鸦坳，黑石岭被县里卖给吕家；人名、地名、头衔一律写汉字"
  },
  "scene_bridge": {
-  "time": "第0天傍晚（大旱第二年初夏）；罚款限期还剩约六天半",
+  "time": "第0天傍晚（大旱第二年初夏）；罚款限期还剩约七天",
   "where": "老鸦坳秦家茅屋内",
-  "present": "秦野刚下炕，站在门后柴堆旁，右手攥着整卷粗麻绳（在腕上绕了两圈），左手握着锈镰刀；奶奶坐在灶边摸地上的骨针，嘴里念叨“这可咋办”",
-  "last_beat": "秦野握紧锈镰刀柄，把麻绳在腕子上绕了两圈，挺直脊梁",
-  "pending": "秦野带绳和镰刀出门；他仍认定唯一活路是再进黑石岭，但想先去看吕六今早站的地方（豆田上方土梁）"
+  "present": "秦野握着整卷粗麻绳和缺口锈镰刀，麻绳在腕上绕了两圈；奶奶坐在灶台边低头摸掉在地上的骨针；柳婶刚拿着借来的小半斤粟米跑回家",
+  "last_beat": "秦野挺直单薄的脊梁，握紧刀柄，准备出门",
+  "pending": "秦野带麻绳和镰刀出门；他以为活路只有再进黑石岭"
  },
  "timeline": {
   "relative_time": "第0天傍晚；第7天吕四来收罚款",
   "chapter_log": [
    {
     "chapter": 1,
-    "summary": "秦野醒来读完原主记忆，否决煮盐酿酒；面板因绳结出现；柳婶借米换吕六量地消息；他拿绳和镰刀起身"
+    "summary": "醒来读记忆，否决煮盐酿酒；面板因绳结出现；柳婶借米换吕六量地消息；拿绳和镰刀起身"
    }
   ]
  },
@@ -62,52 +62,31 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
  ],
  "ledger": [
   {
-   "item": "铜钱（奶奶枕下布包）",
+   "item": "铜钱（奶奶布包）",
    "value": "11文",
    "as_of": 1
   },
   {
-   "item": "掺糠粟米（泥陶罐）",
-   "value": "约3斤半（4斤减去借给柳婶的小半斤）",
+   "item": "掺糠粟米",
+   "value": "约3斤半",
    "as_of": 1
   },
   {
    "item": "罚款",
-   "value": "240文，限七天，今天是第1天",
+   "value": "240文，限七天，今天是第0天傍晚（还剩约7天）",
    "as_of": 1
   },
   {
-   "item": "山牌",
-   "value": "80文/年（旧价30文）",
+   "item": "面板",
+   "value": "陷阱 入门41/100；剥皮 未入门12/100；种田 入门30/100",
    "as_of": 1
   },
   {
-   "item": "粟米价",
-   "value": "9文/斤",
-   "as_of": 1
-  },
-  {
-   "item": "生肉价（县城）",
-   "value": "10文/斤；三斤山兔30文；山门只给12文",
+   "item": "价格",
+   "value": "粟米9文/斤；县城肉10文/斤，兔30文；山门兔12文；山牌80文；山课七成；秤少二两",
    "as_of": 1
   }
  ],
- "main_character": {
-  "name": "秦野",
-  "status": [
-   "饥饿",
-   "无刀无弓，铁丝套和柴刀被吕四收走",
-   "暂时认定活路在黑石岭"
-  ],
-  "knowledge": [
-   "原主全部记忆",
-   "山牌、山课、秤、罚三倍的规矩",
-   "界石曾被吕家往里挪三十步（王家）",
-   "县城兔价与山门价差",
-   "面板三行：陷阱入门41/100、剥皮未入门12/100、种田入门30/100",
-   "柳婶说吕六拿结绳在豆地上方土梁量地"
-  ]
- },
  "knowledge_map": [
   {
    "secret": "秦野是穿越者",
@@ -256,12 +235,14 @@ Bạn là Writer của truyện này. Các đoạn trước bạn đã viết �
 
 Viết tiếp đoạn tiếp theo, 2.000–2.500 字, bằng tiếng Trung.
 
-Tình huống. Chạng vạng ngày 0 đến rạng sáng ngày 1. Tần Dã bước ra khỏi nhà với cuộn dây gai và cái liềm, nghĩ rằng đường duy nhất của mình là lại vào núi, nhưng trước hết anh muốn xem chỗ Lữ Lục đã đứng ngó xuống sáng nay. Ruộng đậu ba mẫu ven mương Đông (东沟) nằm ngay trên lối anh đi. Cả thung lũng khô nứt, đây là mảnh xanh duy nhất, và thú rừng chỉ xuống chỗ có cây xanh; luống đậu có lối thỏ đi, phân thỏ và cây đậu bị gặm cụt. Từ ký ức nguyên chủ, anh biết mốc đá đầu tiên của nhà họ Lữ trên núi Hắc Thạch (黑石岭) nằm trên sườn dốc phía trên ruộng; anh chưa biết khế viết gì về ranh núi. Anh muốn có thịt trước khi ba cân rưỡi kê hết và muốn việc săn nằm ngoài tầm của Lữ Tứ; anh lo Lữ Lục, gia đinh nhà họ Lữ đi tuần trên sườn núi, nhìn thấy anh. Anh dừng lại ở ruộng, đo bước từ bờ ruộng lên tới mốc đá, đặt ba cái bẫy thòng lọng trên lối thỏ, rồi về nhà ngủ. Rạng sáng anh ra xem: hai cái có thỏ rừng nặng chừng ba cân, cái thứ ba đứt dây, đầu dây còn dính lông vàng. Anh lột da hai con thỏ ngay bên mương, lần đầu làm việc này bằng tay của thân xác này, rồi mang một con về cho bà nội nấu: đây là bữa có thịt đầu tiên của hai bà cháu từ đầu năm. Bà nội hỏi anh học cách đặt bẫy ở đâu.
+Chạng vạng ngày 0 đến rạng sáng ngày 1. Tần Dã ra khỏi nhà với cuộn dây gai và cái liềm; anh nghĩ đường sống duy nhất là lại vào núi, nhưng trước hết muốn xem sườn dốc nơi Lữ Lục đã đứng ngó xuống sáng nay. Ruộng đậu ba mẫu của nhà Tần ven mương Đông (东沟) nằm ngay trên lối đi: cả thung lũng khô nứt, đây là mảnh xanh duy nhất, luống đậu có lối thỏ đi, phân thỏ và cây đậu bị gặm cụt. Từ ký ức nguyên chủ, anh biết mốc đá đầu tiên của nhà họ Lữ nằm trên sườn dốc phía trên ruộng. Anh muốn có thịt trước khi ba cân rưỡi kê hết, và muốn việc săn nằm ngoài tầm mắt Lữ Tứ; anh sợ Lữ Lục nhìn thấy mình. Anh đo bước từ bờ ruộng lên tới mốc đá, đặt ba bẫy thòng lọng trên lối thỏ, rồi về ngủ. Rạng sáng anh ra xem: hai bẫy có thỏ rừng nặng chừng ba cân, bẫy thứ ba đứt dây, đầu dây dính lông vàng. Anh lột da hai con ngay bên mương, gói thịt bằng mảnh vải thô, và mang một con về cho bà nội nấu: bữa có thịt đầu tiên của hai bà cháu từ đầu năm. Bà nội hỏi anh học đặt bẫy ở đâu.
 
-Khoá: cả ba cái bẫy nằm trong ruộng nhà Tần, dưới mốc đá hai mươi ba bước.
+Từ bờ ruộng lên đến mốc đá là hai mươi ba bước; cả ba bẫy nằm trong ruộng nhà Tần, dưới mốc.
 
-Dừng ở lúc Tần Dã xách con thỏ còn lại ra khỏi cửa đi về phía nhà lý chính La, bà nội đứng ở cửa nhìn theo. Chuyện ở nhà lý chính thuộc đoạn sau.
-
-Bảng (in một lần, sau khi lột da xong, đúng nguyên dạng từng dòng; số đầu đoạn lấy từ State, dòng sẽ đổi trong đoạn thì để …):
+Bảng (in một lần, sau khi lột da xong, đúng nguyên dạng; số lấy từ State, dòng sẽ đổi trong đoạn thì để …):
 【技艺：陷阱（入门 …/100）】
 【技艺：剥皮（未入门 …/100）】
+
+Dừng ở lúc Tần Dã xách con thỏ còn lại ra khỏi cửa đi về phía nhà lý chính, bà nội đứng ở cửa nhìn theo.
+
+Tên cố định: lý chính họ La (罗里正); huyện là 县城 (không phải 镇); Khâu Lão Thuyên (邱老栓) còn sống; núi Hắc Thạch (黑石岭); Lữ Tứ (吕四), Lữ Lục (吕六).
