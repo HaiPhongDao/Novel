@@ -1,6 +1,8 @@
 # Giọng chữ — thổ ngữ, chữ cổ, cụm sáo (09/11)
 
-## Mới nhất: SI-R2
+## Mới nhất: SI-R2 — Tác giả bác
+
+Tác giả đọc: "Chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose nữa chứ". Số đếm dưới đây giảm nhưng không phải bằng chứng đã chữa. Thinking R2: Writer kiểm và thay từ bị cấm → văn cứng.
 
 Tác giả gửi ảnh DocTTS: "thật sự" = **实打实** (有实打实的劲道 · 气血实打实充盈些), "đắc nhận" = **得很** (语气平稳得很).
 Bản đó là R-003-a, tức SI-R vẫn còn tật. Bộ mẫu cũng dùng 得很, nhưng chỉ trong lời nhân vật (眼馋得很 · 肉疼得很); Writer
