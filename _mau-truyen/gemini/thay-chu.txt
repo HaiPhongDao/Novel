@@ -1,0 +1,3 @@
+# Chữ Writer hay viết sai => chữ đúng của truyện. Mỗi dòng một cặp; `python tools/lam.py viet` tự thay sau mỗi lần chạy.
+# Thêm một dòng khi cùng một chữ sai lần thứ hai. Chỉ dùng cho tên riêng và danh từ cố định (thay mù toàn văn).
+# 大青山 => 黑石岭

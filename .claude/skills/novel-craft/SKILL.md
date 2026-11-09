@@ -1,10 +1,14 @@
 ---
 name: novel-craft
-description: "Làm truyện trong repo Novel: hiệu chuẩn SI trước, brief, chạy Writer hai lần, đọc, sổ lỗi — và biết lần sửa nào có tác dụng"
+description: "CHỈ cho làn chỉnh giọng của repo Novel (QUY-TRINH.md mục 4–5): dựng/sửa/hiệu chuẩn SI, đo một lần sửa có tác dụng không, sổ lỗi. Viết đoạn mới hằng ngày KHÔNG nạp skill này — đọc QUY-TRINH.md."
 version: 3.1.0
 ---
 
 # Novel Craft — cách làm truyện, và cách biết mình đã sửa đúng
+
+> **Từ 10/11/2026 skill này là tài liệu của làn chỉnh giọng.** Viết đoạn mới theo `QUY-TRINH.md` (làn sản xuất:
+> SI đóng băng, một bản mỗi đoạn, không sổ lỗi, không đo). Chỗ nào skill lệch `QUY-TRINH.md` thì `QUY-TRINH.md`
+> thắng — kể cả trần của làn chỉnh giọng: một vấn đề, tối đa 2 phương án × 1 bản, Tác giả chọn là đóng.
 
 Vai trò, phân quyền, cấu trúc thư mục ở `AGENT.md` — skill này không chép lại. Ở đây ghi **cách làm** và **cách
 kiểm chứng**: thứ tự việc, lệnh chạy được, bẫy đã trả giá, và cách đo xem một lần sửa có thật sự làm văn tốt lên.

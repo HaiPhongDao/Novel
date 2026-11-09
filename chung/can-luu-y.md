@@ -13,7 +13,7 @@ Gom từ skill `novel-craft`, các sổ `chung/` và log các truyện (28/10). 
 - `--out` của `aistudio_run.py` **ghi đè im lặng**: đặt tên bản theo ký tự chưa dùng ở cả `chapters/` và `chapters/archive/`. — skill mục 1
 - Đừng sửa `tools/aistudio-ext/` khi có job đang chạy (extension tự reload, job treo tới timeout). "Extension không nhận việc sau 90s" → tiến trình cũ giữ cổng 8765. Job treo >10 phút không file = tab rơi về trang đăng nhập Google, nhờ Tác giả đăng nhập. — skill mục 3
 - `Failed to generate content` / `No tab with id` là lỗi tạm: chạy lại nguyên lệnh sau 20–45 giây. `Permission denied` = tài khoản hết quota (script tự xoay tài khoản).
-- Edge nạp extension từ bản chép ở máy Tác giả (`D:\ClaudeCode\aistudio-ext`): sửa extension trong repo thì phải chép sang đó. — skill mục 3
+- Edge nạp extension thẳng từ `D:/Claude/Novel/tools/aistudio-ext` (kiểm 10/11): giữ bản clone đó ở nhánh `main` và chạy Writer từ đó; chạy từ clone/worktree khác thì extension vẫn là bản của `D:/Claude/Novel`. — skill mục 3
 - Gemini API qua cloud: key cất ở **Network secret** của môi trường (header tuỳ chỉnh, host `generativelanguage.googleapis.com`), không vào chat; gọi `streamGenerateContent` vì `generateContent` bị 502 qua proxy. — [`gemini-api.md`](gemini-api.md)
 
 ## Brief và SI

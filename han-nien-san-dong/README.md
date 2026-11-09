@@ -10,6 +10,10 @@
 - **Mẫu prompt:** mẫu A (khung `.claude/skills/novel-craft/templates/brief-doan.md`). Brief 001 mang đủ thiết lập vì chưa có State; từ 002 trở đi Writer đọc State.
 - **Lỗi riêng để soát:** `gemini/review-blacklist.md` (+ `../chung/review-blacklist.md`).
 
+## Từ 10/11 — làm theo [`QUY-TRINH.md`](../QUY-TRINH.md)
+
+Chạy đoạn: `python tools/lam.py viet han-nien-san-dong <N>` (dán nguyên văn 2 đoạn trước + thẻ + brief, không dán State JSON — đúng hướng sửa "giữ mạch" bên dưới, không phụ thuộc `--chat`). Chữ sai lặp lại: [`gemini/thay-chu.txt`](gemini/thay-chu.txt). Lời chê về giọng còn treo đã gom vào [`no-giong.md`](no-giong.md); các mục "Việc kế" bên dưới là ghi chép 09/11, chờ Tác giả quyết: chạy lại 001–003 thành lô đầu của quy trình mới, hay giữ và viết tiếp 004.
+
 ## Việc kế — thoại trước (09/11, Tác giả: "sửa này trước chốt đã")
 
 Giọng chữ (thổ ngữ, chữ cổ, cụm sáo, "giọng AI"): SI-R, SI-R2 **Tác giả bác** ("chẳng thấy thay đổi gì mấy, còn giảm chất lượng prose") — Tác giả chọn giao Argon: [`prompt-argon.md`](prompt-argon.md) → đã có [`de-xuat-argon.md`](de-xuat-argon.md). Tác giả: "đọc thuận hơn vài phần", còn từ lạ → dò nguồn, sửa bằng bảng chữ bộ mẫu ([`bible/tu-mau.md`](bible/tu-mau.md)) + dòng "Chữ cố định" trong brief + SI-AT, chờ Tác giả đọc: [`gemini/test-giong/doc-tu.md`](gemini/test-giong/doc-tu.md) kèm SI và gói bàn giao sạch tại [`gemini/test-giong/giong-v3/`](gemini/test-giong/giong-v3/); đếm tật bằng `python tools/tat_ai.py dem --ds han-nien-san-dong/gemini/tat-giong-ai.txt <bản>` — [`gemini/test-giong/doc-giong.md`](gemini/test-giong/doc-giong.md). Thoại: Tác giả "hơi ổn rồi, để về sau test thêm". Bốn lượt thử thoại: [`gemini/test-giong/doc-thoai.md`](gemini/test-giong/doc-thoai.md). Chờ Tác giả đọc bản ch3 và trả lời: thoại kiểu đó có đạt không. SI đang dùng không đổi. Việc giữ mạch (dưới đây) làm sau khi thoại chốt.

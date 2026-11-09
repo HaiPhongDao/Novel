@@ -1,7 +1,8 @@
 #!/bin/bash
 # Viết một đoạn thẳng vào chapters/: ghép gói (State JSON + đuôi đoạn trước) + brief, chạy Writer trên AI Studio, soát tật.
+# ĐỜI CŨ — dùng `python tools/lam.py viet <truyen> <N>` (QUY-TRINH.md). Giữ để tra.
 # Dùng (Git Bash, từ gốc repo):  bash tools/viet_doan.sh <ten-truyen> <NNN> <SI tương đối trong thư mục truyện> [tail=2500]
-# Cần: Edge mở với extension "Novel AI Studio bridge"; tools/aistudio_run.py ở repo chính D:/ClaudeCode/Novel.
+# Cần: Edge mở với extension "Novel AI Studio bridge"; chạy từ bản clone mà Edge nạp extension (D:/Claude/Novel).
 # Tài khoản thử theo thứ tự ACC (mặc định 2,0,1). Quá 11 phút không xong thì aistudio_run tự báo lỗi.
 set -u
 S=$1; N=$2; SI=$3; TAIL=${4:-2500}
@@ -22,7 +23,7 @@ import json,sys
 r,s,n,si,pr=sys.argv[1:6]
 json.dump([{'si':f'{r}/{s}/{si}','prompt':f'{r}/{s}/{pr}','out':f'{r}/{s}/chapters/doan-{n}.md','note':''}],open(f'{r}/{s}/handoff/.jobs-{n}.json','w'))
 " "$ROOT" "$S" "$N" "$SI" "$PROMPT"
-(cd /d/ClaudeCode/Novel && python -I -X utf8 tools/aistudio_run.py --batch "$J" --timeout 8 --accounts "${ACC:-2,0,1}")
+(cd "$ROOT" && python -I -X utf8 tools/aistudio_run.py --batch "$J" --timeout 8 --accounts "${ACC:-2,0,1}")
 rm -f "$J"
 F="$S/chapters/doan-$N.md"
 [ -f "$F" ] || { echo "THIẾU $F — Writer không trả bài (xem dòng lỗi phía trên)"; exit 1; }

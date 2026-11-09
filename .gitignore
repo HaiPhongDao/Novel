@@ -1,2 +1,5 @@
 .aistudio_state.json
 __pycache__/
+
+# prompt vừa gửi Writer (lam.py viet ghi đè mỗi lần chạy)
+*/handoff/prompt-gui.md

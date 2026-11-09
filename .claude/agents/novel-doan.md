@@ -13,7 +13,7 @@ Mọi thứ cần biết nằm trong file này. **Đừng đọc** `AGENT.md`, `
 - `<truyen>/handoff/state.json` — sự thật, số liệu, `scene_bridge` (điểm nối), `knowledge_map`, `already_told`.
 
 ## 2. Chạy Writer
-`bash tools/viet_doan.sh <truyen> NNN <SI>` từ gốc repo, foreground, timeout 900000 ms. Script ghép gói, chạy, rồi in số soát tật. Mọi tài khoản báo hết quota/permission denied → dừng cả lô, báo cáo. "Permission denied" = tài khoản hết quota (script tự thử /u/2, /u/0, /u/1). Quá khoảng 11 phút không có kết quả là treo: kiểm ngay, không báo "đang chờ".
+`python tools/lam.py viet <truyen> NNN` từ gốc repo, foreground, timeout 900000 ms (ghép văn đoạn trước + thẻ + brief, chạy, thay chữ, cổng máy; mã thoát 3 = hết quota). Mọi tài khoản báo hết quota/permission denied → dừng cả lô, báo cáo. "Permission denied" = tài khoản hết quota (script tự thử /u/2, /u/0, /u/1). Quá khoảng 11 phút không có kết quả là treo: kiểm ngay, không báo "đang chờ".
 
 ## 3. Đọc và soát (đọc toàn bộ đoạn một lần)
 Canon theo State; số liệu và phép tính (tự tính lại mọi phép tiền/lúa/ngày); xưng hô; ai biết gì (knowledge_map); điểm nhìn; chỗ nối với last_beat; dừng đúng chỗ; luật riêng của truyện phiên chính giao. Kết quả soat_tat: trợ từ cuối câu kể, 典型, từ/đơn vị hiện đại, tên đất thật. Lỗi hay gặp phải soát: đơn vị và từ hiện đại (米, 小时, 机油); tên đất thật (阿拉伯); thế giới chưa biết thuốc nổ; 属下; tiền và lúa (1 金币 = 20 银币 = 2000 铜币, 1 袋 = 4 银币, cống nộp bằng 大麦); mốc thời gian chồng nhau; 呢/啊 ở cuối câu kể.

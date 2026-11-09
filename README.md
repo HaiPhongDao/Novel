@@ -1,66 +1,46 @@
 # Novel — xưởng viết truyện mạng
 
-Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gemini) viết chính văn tiếng Trung theo từng **đoạn** (~2000 字); Tác giả quyết. Luật làm việc: [`AGENT.md`](AGENT.md).
+Agent viết brief và giữ canon; Writer (Gemini trên AI Studio) viết chính văn tiếng Trung theo từng **đoạn**
+(~2.000–2.500 字); Tác giả nghe, chê, chốt.
 
-> 📊 **Báo cáo tổng kết dự án & kiểm kê 28 truyện:** Xem [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md)  
-> 🗺️ **Bản đồ 29 branch & trạng thái tích hợp:** Xem [`chung/ban-do-branch.md`](chung/ban-do-branch.md)
-
-## Kinh nghiệm dùng chung
-
-Đọc [sổ kinh nghiệm](chung/kinh-nghiem.md) trước khi lập brief, sửa SI, chạy Writer hoặc review. Bài học được tổng hợp từ cả truyện cũ và mới, có [nguồn và tình trạng](chung/nguon-kinh-nghiem.md), phân biệt quy tắc chung với ngoại lệ từng truyện. [Cách đồng bộ giữa các branch](chung/dong-bo-kinh-nghiem.md) dùng commit tài liệu chung riêng.
-
-## Các truyện
-
-| Thư mục | Truyện | Trạng thái |
-|---|---|---|
-| [`lanh-chua-chip/`](lanh-chua-chip/README.md) | Lãnh Chúa Mang Chip — kỹ sư xuyên vào cậu con thứ bị đày ra biên giới, mang theo một con chip hỏng 61% | Lượt 2: đã chốt đoạn 001–015 |
-| [`lanh-chua-dau-truong/`](lanh-chua-dau-truong/README.md) | Lãnh Chúa Đấu Trường — nhà sản xuất sự kiện xuyên vào nam tước phá sản, mở lại đấu trường bằng vé, tỷ lệ cược và một con goblin thế chấp | Đã chốt 001–003 (黄金三章), SI v5 7.887 ký tự |
-| [`manga-tokyo-1994/`](manga-tokyo-1994/README.md) | Manga Tokyo 1994 — hoạ sĩ tuần san bị cắt truyện tỉnh dậy trong chính thân xác đó với ba mươi năm hậu kiến, phải giữ nghề bằng phiếu của độc giả chứ không bằng giải thưởng | Đã chốt 001–003 (黄金三章), SI v5 7.974 ký tự |
-| [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | Manga Tokyo 2000 — người xuyên việt mang tư duy phân cảnh điện ảnh đời sau nhập vào nhân viên ca đêm tiệm manga café nợ tiền trọ, chớp lấy suất one-shot 32 trang của bán nguyệt san thiên niên kỷ | Khởi động: SI v5 7.913 ký tự, đang chạy 001–003 |
-| [`sung-thu/`](sung-thu/README.md) | 《弃宠收容站》 Trạm Thu Dung Thú Bỏ — nhân viên cuối của trạm thu dung sắp bị dẹp ở thành phố hiện đại nhìn thấu huyết mạch ẩn của thú bị vứt, cho tiến hoá và dựng thế lực từ đống "phế sủng" (bộ mẫu 《神宠供应商》) | Hiệu chuẩn SI ĐẠT (05/11). Bible + dàn ý chờ Tác giả duyệt; khung brief mẫu A |
-| [`tiem-sung-thu/`](tiem-sung-thu/README.md) | 《深海饲育屋》 Tiệm Bồi Dục Biển Sâu — thợ lai tạo xuyên vào chủ xưởng ven cảng Cảng Thất Tinh sắp bị siết nợ, dùng 「Dữ Liệu Chi Nhãn」 nhặt mót trứng dị biến cổ đại ở chợ cá, tự tay bồi dục thần sủng biển sâu (bộ mẫu 《神宠供应商》) | Khởi tạo 05/11, chung SI Argon v3, Bible + Dàn ý Arc 1 + Brief 001 sẵn sàng |
-| [`manga-tokyo-1998/`](manga-tokyo-1998/README.md) | Manga Tokyo 1998 — phụ tá xưởng Takahashi chạy đua nộp bản thảo và mở đường lên Kodansha | Đã chốt 001–006, hoàn thành hợp đồng 004–006 |
-| [`lanh-chua-tien-don/`](lanh-chua-tien-don/README.md) | Lãnh Chúa Tiền Đồn — lãnh chúa vùng biên viễn mở trọn vòng 3 đoạn đầu | Mở truyện từ đầu, SI v5, đã chốt 001–003 |
-| [`han-nien-san-dong/`](han-nien-san-dong/README.md) | Hạn Niên Săn Đồng (tên tạm) — người thời hiện đại nhập vào thiếu niên làng nợ 240 văn tiền phạt núi, nhận ra khế bán núi chỉ tính từ mốc đá trở lên nên săn thú ngay trên ruộng đậu nhà mình (SI v2 của `co-dai`) | Khởi tạo 08/11: bible tối thiểu, dàn ý arc 1 (8 đoạn), brief 001–008 chờ Tác giả duyệt |
-| [`co-dai/`](co-dai/README.md) | Cổ Đại (tên tạm) — Truyện bối cảnh cổ đại mới khởi tạo | Khởi tạo nhánh co-dai, sẵn sàng khung bible & SI v6 |
-| *(Nhánh riêng)* | **Kỵ Sĩ** (đoạn 001–026), **Làm Game** (đoạn 001–010), **Không Binh** (đoạn 001–009), **Mô Phỏng** (đoạn 001–007), **Sói Xám** (đổi mới MC), **Manga 1996**... | Xem toàn bộ 28 truyện tại [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md) |
-
-## Cấu trúc
-
-| Ở đâu | Cái gì |
-|---|---|
-| `AGENT.md` | Luật chung: vai trò, quy trình mỗi đoạn, mẫu prompt + nguyên tắc, checklist review, git |
-| `chung/quy-trinh-ban-giao.md` | Gói bàn giao và chuyển session Writer |
-| `chung/ai-studio.md` | Agent tự chạy Writer trên Google AI Studio qua Claude in Chrome |
-| `chung/review-blacklist.md` | Lỗi văn chung để soát khi review |
-| `chung/kinh-nghiem.md`, `chung/nguon-kinh-nghiem.md` | Sổ bài học dùng chung và nguồn của chúng ([`dong-bo-kinh-nghiem.md`](chung/dong-bo-kinh-nghiem.md) — cách đồng bộ) |
-| `chung/gemini-api.md` | Chạy Writer bằng Gemini API (`tools/gemini_write.py`) |
-| `chung/state-extractor.md` | Quy tắc trích State JSON sau mỗi đoạn |
-| `chung/xay-dung-truyen.md`, `chung/mo-xe-truyen.md`, `chung/giu-nhat-quan.md`, `chung/tham-khao-ngoai.md`, `chung/nghien-cuu-outliner.md` | Xây dựng truyện dài, mổ xẻ truyện mẫu, giữ nhất quán, tham khảo ngoài, nghiên cứu khâu Outliner |
-| `chung/can-luu-y.md` | Những điều cần lưu ý khi làm việc trên repo này (bẫy môi trường, quy ước) |
-| `chung/ban-do-branch.md` | Bản đồ branch: branch nào giữ gì, cái nào đã gộp |
-| `.claude/skills/novel-craft/` | Skill của Agent: cách làm + vòng tự học (`SKILL.md` và `references/`) |
-| `.claude/agents/novel-doan.md` | Agent con chạy liền một lô đoạn từ brief đã viết sẵn |
-| `tools/` | `build_pack.py` (ghép gói / tin nhắn mở session), `chot_doan.py` (chốt đoạn + commit + push), `gop_doan.py` (gộp mỗi 10 đoạn), `aistudio_run.py` + `aistudio-ext/` (chạy Writer trên AI Studio qua extension Edge), `gemini_write.py` (Writer qua Gemini API — [`chung/gemini-api.md`](chung/gemini-api.md)), `viet_doan.sh` (một đoạn: ghép gói → chạy → soát), `cong_doan.py` / `soat_van.py` / `soat_tat.py` / `cham_doan.py` / `noi_doan.py` / `ra_soat.py` (cổng máy, đếm tật, chấm, nối, rà soát), `bao_thuc.py`, `set_clip.ps1` / `save_clip.ps1`, `ollama_write.py` |
-| `writer/SI-template` | SI mẫu dùng chung — điền ô `[[...]]` cho từng truyện |
-| `_mau-truyen/` | Khung thư mục để chép khi mở truyện mới |
-| `<ten-truyen>/` | Mọi thứ của riêng một truyện: bible, plot, briefs, chapters, reviews, handoff, SI + lỗi riêng (`gemini/`), archive, log |
-
-## Mở truyện mới
-
-Chốt SI trên một chương bộ mẫu trước (`chung/hieu-chuan/README.md`). Tác giả đọc ĐẠT rồi mới chép khung:
+**Bắt đầu ở [`QUY-TRINH.md`](QUY-TRINH.md)** — một trang, đủ để làm ra đoạn mới. Nhánh làm việc duy nhất: `main`.
 
 ```bash
-cp -r _mau-truyen ten-truyen-moi
+python tools/lam.py viet <truyen> <N>               # ghép prompt, chạy Writer, thay chữ, cổng máy
+python tools/lam.py doc  <truyen> <N1> <N2>         # một file cho Tác giả nghe
+python tools/lam.py chot <truyen> <N1> <N2> -m "…"  # README + log + commit + push
+python tools/lam.py bang --ghi                      # cập nhật bảng dưới đây
 ```
 
-Rồi làm theo hướng dẫn ở đầu `ten-truyen-moi/README.md` (điền bible, điền SI từ `writer/SI-template` v6, quiz) và thêm một dòng vào bảng "Các truyện" ở trên. Ba đoạn đầu vận hành theo `chung/hieu-chuan/prompt-agent-writer.md`.
+## Tiến độ
 
-## Một vòng đoạn
+Sinh bằng `python tools/lam.py bang --ghi`; không sửa tay. "Đã chốt tới" đọc từ bảng trạng thái trong README của
+từng truyện. Truyện cũ ở nhánh khác (ky-si 001–026, lam-game 001–010, khong-binh 001–009, Mo-phong 001–007…):
+[`chung/ban-do-branch.md`](chung/ban-do-branch.md).
 
-Truyện đã có đoạn chốt:
+<!-- bang:dau -->
+| Truyện | Đã viết tới | Đã chốt tới | Tổng 字 | Đụng tới gần nhất |
+|---|---|---|---|---|
+| [`han-nien-san-dong/`](han-nien-san-dong/README.md) | 003 | — | 13.697 | 2026-11-09 |
+| [`co-dai/`](co-dai/README.md) | 001 | — | 3.696 | 2026-11-07 |
+| [`manga-tokyo-2000/`](manga-tokyo-2000/README.md) | 003 | 003 | 7.388 | 2026-10-31 |
+| [`manga-tokyo-1994/`](manga-tokyo-1994/README.md) | 003 | 003 | 6.632 | 2026-10-31 |
+| [`lanh-chua-dau-truong/`](lanh-chua-dau-truong/README.md) | 003 | 003 | 7.325 | 2026-10-31 |
+| [`lanh-chua-tien-don/`](lanh-chua-tien-don/README.md) | 003 | 003 | 8.708 | 2026-10-30 |
+| [`manga-tokyo-1998/`](manga-tokyo-1998/README.md) | 006 | 006 | 17.882 | 2026-10-29 |
+| [`lanh-chua-chip/`](lanh-chua-chip/README.md) | 015 | 015 | 47.514 | 2026-10-23 |
+<!-- bang:cuoi -->
 
-1. Viết `<truyện>/briefs/doan-XXX.md` theo mẫu ở AGENT.md mục 4.
-2. Mở session mới: `python tools/build_pack.py <truyện> --prompt briefs/doan-XXX.md` → dán `handoff/session-start.md` vào Writer (đoạn thứ 2 trong cùng session thì dán thẳng prompt).
-3. Lưu bản thảo vào `<truyện>/chapters/doan-XXX.md`, review theo AGENT.md mục 5.
-4. Đạt: `python tools/chot_doan.py <truyện> <spec.py>`. Hỏng: chuyển bản hỏng + prompt vào `archive/`, sửa prompt, quay lại bước 2.
+## Ở đâu có gì
+
+| Ở đâu | Cái gì | Khi nào đọc |
+|---|---|---|
+| `QUY-TRINH.md` | Hai làn (sản xuất / chỉnh giọng), vòng một lô 3 đoạn, cách xử lý lời chê, git | Mọi phiên |
+| `<truyen>/README.md` | Trạng thái từng đoạn + "Việc kế" | Mọi phiên làm truyện đó |
+| `<truyen>/` | `briefs/` · `chapters/` · `doc/` (file gửi Tác giả nghe) · `handoff/canon-card.md` · `gemini/` (SI, `thay-chu.txt`) · `no-giong.md` · `bible/` · `plot/` · `log.md` · `archive/` | |
+| `AGENT.md` | Vai trò và phân quyền (mục 1, 7, 8, 9) | Khi cần quyết ai được đổi gì |
+| `tools/lam.py` | Lệnh của làn sản xuất; gọi `aistudio_run.py` + `aistudio-ext/` (Edge), `cong_doan.py`, `gop_doan.py` | |
+| `tools/gop_y.py` · `chung/gop-y-khi-nghe.md` | Phiếu góp ý DocTTS → đúng file:dòng | Khi Tác giả gửi phiếu |
+| `.claude/skills/novel-craft/` · `chung/hieu-chuan/` · `writer/SI-template` · `tools/dung_si.py` | Dựng, sửa, hiệu chuẩn SI | Chỉ ở làn chỉnh giọng / mở truyện |
+| `chung/loi/` · `chung/kinh-nghiem.md` · các file `chung/` khác | Sổ lỗi và bài học của ba tuần thử nghiệm | Tra cứu khi chỉnh giọng; không đọc ở làn sản xuất |
+| `_mau-truyen/` | Khung thư mục chép khi mở truyện mới (QUY-TRINH.md mục 5) | |

@@ -1,0 +1,4 @@
+# Chữ Writer hay viết sai => chữ đúng của truyện. Mỗi dòng một cặp; lam.py viet tự thay sau mỗi lần chạy.
+大青山 => 黑石岭
+大齐律 => 官律
+大魏天德 => 天德

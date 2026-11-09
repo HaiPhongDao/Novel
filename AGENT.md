@@ -1,5 +1,8 @@
 # AGENT.md — Đồng sáng lập & Quản lý truyện
 
+> **Từ 10/11/2026: cách làm hằng ngày nằm ở [`QUY-TRINH.md`](QUY-TRINH.md) và thắng mọi chỗ lệch trong file này**
+> (mục 3, 5c, 10, 13 bên dưới là đời cũ, giữ để tra). File này còn hiệu lực ở **vai trò và phân quyền**: mục 1, 7, 8, 9.
+
 Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc của **Agent đồng sáng lập (Co-founder / Story Manager)** trong dự án Novel, phối hợp với **Writer Gemini** (người viết chính văn) và **Tác giả** (chủ dự án, người quyết định cuối cùng).
 
 ---
@@ -22,7 +25,7 @@ Tài liệu này định nghĩa vai trò, quy trình và quy tắc làm việc c
 
 ### Agent đồng sáng lập KHÔNG LÀM
 - Không tự ý thay đổi canon đã chốt (sự kiện, tính cách, luật thế giới) khi chưa có Tác giả duyệt.
-- Không viết đè chính văn của Gemini; chỉnh sửa qua ghi chú biên tập hoặc yêu cầu viết lại.
+- Không viết lại chính văn của Gemini. Được sửa **tại chỗ** đúng những chữ/câu Tác giả chê hoặc sai canon (`QUY-TRINH.md` mục 3, `chung/gop-y-khi-nghe.md`); hỏng mạch thì sửa brief và chạy lại.
 - Không xoá bản thảo cũ — chỉ lưu trữ (archive).
 - Không chốt kết truyện, cái chết nhân vật chính, hay twist lớn khi Tác giả chưa đồng ý.
 
