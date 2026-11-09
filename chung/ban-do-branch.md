@@ -1,7 +1,9 @@
 # Bản đồ branch
 
-Cập nhật: 07/11/2026.
-Branch mặc định hiện tại: `ccr-d59235d4-pqh9t3` — giữ **tài liệu, quy trình, công cụ dùng chung mới nhất** (mọi thứ ở gốc repo + `.claude/` + `tools/` + `writer/SI-template`) cùng các bộ truyện đang vận hành chính.
+Cập nhật: 10/11/2026.
+**Branch mặc định và nhánh làm việc duy nhất: `main`** (từ 10/11; = `han-nien-san-dong` + `co-dai` + `QUY-TRINH.md` + `tools/lam.py`). Mọi việc mới commit thẳng lên `main` — xem [`../QUY-TRINH.md`](../QUY-TRINH.md) mục 6.
+Các bảng dưới là ảnh chụp 07/11: chỗ nào ghi "branch mặc định `ccr-d59235d4-pqh9t3`" thì nay là nhánh cũ, nội dung của nó đã nằm trong `main`. `han-nien-san-dong` và `co-dai` cũng đã nằm trong `main`.
+Máy Tác giả: push bằng tài khoản HaiPhongDao lưu trong Windows Credential Manager (`D:/Claude/Novel` đã đặt `credential.https://github.com.helper = manager` trong config riêng của repo); `gh` đang đăng nhập DHaiPhong chỉ đọc được.
 
 ---
 
