@@ -22,6 +22,7 @@ Agent (Claude) giữ canon, lập dàn ý, viết prompt và review; Writer (Gem
 | [`manga-tokyo-1998/`](manga-tokyo-1998/README.md) | Manga Tokyo 1998 — phụ tá xưởng Takahashi chạy đua nộp bản thảo và mở đường lên Kodansha | Đã chốt 001–006, hoàn thành hợp đồng 004–006 |
 | [`lanh-chua-tien-don/`](lanh-chua-tien-don/README.md) | Lãnh Chúa Tiền Đồn — lãnh chúa vùng biên viễn mở trọn vòng 3 đoạn đầu | Mở truyện từ đầu, SI v5, đã chốt 001–003 |
 | [`han-nien-san-dong/`](han-nien-san-dong/README.md) | Hạn Niên Săn Đồng (tên tạm) — người thời hiện đại nhập vào thiếu niên làng nợ 240 văn tiền phạt núi, nhận ra khế bán núi chỉ tính từ mốc đá trở lên nên săn thú ngay trên ruộng đậu nhà mình (SI v2 của `co-dai`) | Khởi tạo 08/11: bible tối thiểu, dàn ý arc 1 (8 đoạn), brief 001–008 chờ Tác giả duyệt |
+| [`co-dai/`](co-dai/README.md) | Cổ Đại (tên tạm) — Truyện bối cảnh cổ đại mới khởi tạo | Khởi tạo nhánh co-dai, sẵn sàng khung bible & SI v6 |
 | *(Nhánh riêng)* | **Kỵ Sĩ** (đoạn 001–026), **Làm Game** (đoạn 001–010), **Không Binh** (đoạn 001–009), **Mô Phỏng** (đoạn 001–007), **Sói Xám** (đổi mới MC), **Manga 1996**... | Xem toàn bộ 28 truyện tại [`chung/tong-ket-du-an.md`](chung/tong-ket-du-an.md) |
 
 ## Cấu trúc
