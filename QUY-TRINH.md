@@ -27,13 +27,15 @@ việc chỉnh giọng.
 
 Trước khi làm: `git pull --rebase` trên nhánh `main`. Lặp ba lần các bước 1–3, rồi 4–6 một lần cho cả lô.
 
-1. **Brief trơn** `<truyen>/briefs/doan-NNN.md`, viết ngay trước khi chạy đoạn đó (không viết trước cả lô):
-   - dòng đầu: `Viết tiếp đoạn tiếp theo, 2.000–2.500 字, bằng tiếng Trung.`
-   - một đoạn văn 4–8 câu **chỉ gồm việc mới**: ai có mặt, mỗi người muốn gì / lo gì, chuyện gì xảy ra. Việc
-     đoạn trước đã kể thì không nhắc lại — Writer đọc nguyên văn đoạn trước ở ngay trên brief.
-   - `Dừng ở lúc …` (một việc đang dở).
-   - `Tên cố định: …` — tên người, địa danh, đồ vật kèm chữ Trung. Thứ gì brief gọi bằng tiếng Việt mà không kèm
-     chữ Trung thì Writer tự đặt chữ, mỗi lần một khác.
+1. **Brief trần** `<truyen>/briefs/doan-NNN.md`, viết ngay trước khi chạy đoạn đó (Tác giả 10/11: "vấn đề lớn nhất có
+   thể vẫn là brief"; truyện `luu-dan` chạy kiểu này ra 5 đoạn trong hai giờ):
+   - Đoạn 001: ba dòng — độ dài và ngôn ngữ, thể loại, một câu MC là ai và đang kẹt chuyện gì. Tên người, tên đất,
+     người thân, giá cả để Writer tự đặt; **canon ghi theo điều Writer đã viết**, vào `handoff/canon-card.md`.
+   - Từ 002: `Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung.` Thêm tối đa một câu hướng đi **chỉ khi
+     truyện cần rẽ** theo dàn ý (một việc xảy ra, không phải kịch bản cả đoạn), và dòng dữ kiện nào Writer sẽ quên
+     (số tiền còn lại, hạn còn mấy ngày). Writer đã đọc nguyên văn 2 đoạn trước ở ngay trên brief.
+   - **Brief không có câu phủ định.** Đo 10/11: brief viết "không nhắc một lời…", "vào không gõ" thì bản ra 0,54 cụm
+     phủ định song song (没…也没… · 既没…也没…) trên 1.000 字; hai bản brief trần ra 0,00; bộ mẫu 0,08. Viết điều *có*.
    - Không đánh số nhịp, không câu thoại mẫu, không nhãn tính cách, không dặn cách viết (đó là việc của SI).
 2. **Chạy**: `python tools/lam.py viet <truyen> <N>` (2–7 phút, chạy nền, đừng poll). Lệnh tự ghép prompt = nguyên
    văn 2 đoạn liền trước + `handoff/canon-card.md` + brief; mở chat mới; thay chữ theo `gemini/thay-chu.txt`; qua
