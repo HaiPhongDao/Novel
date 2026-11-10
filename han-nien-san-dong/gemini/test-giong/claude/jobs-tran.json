@@ -1,0 +1,12 @@
+[
+ {
+  "si": "han-nien-san-dong/gemini/si-claude.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/claude/brief-tran-001.md",
+  "out": "han-nien-san-dong/gemini/test-giong/claude/T1-001.md"
+ },
+ {
+  "si": "han-nien-san-dong/gemini/si-claude-b.txt",
+  "prompt": "han-nien-san-dong/gemini/test-giong/claude/brief-tran-001.md",
+  "out": "han-nien-san-dong/gemini/test-giong/claude/T2-001.md"
+ }
+]

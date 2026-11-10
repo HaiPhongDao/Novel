@@ -44,7 +44,7 @@ LOI = """下面五段，是网文《乱世荒年》的原文。你就是写这�
 八、主角有两副面孔。心里门儿清、会算账、爱笑话人；面上该装乖装乖，该装横装横。好看的地方在面上那句客气话和心里那本账的落差里，也在旁人一点点对他改观里。
 
 九、只写提示给的事。小细节（一件家什、一句闲话、一个小动作）可以自己添；人物的来历和关系、谁在背后算计什么、朝代年号，都只用提示给的，提示没给就先空着。
-
+{them}
 【面板】
 
 技艺面板在提示要求时出现，单独成行，照提示给的原样写，例如：
@@ -59,6 +59,12 @@ LOI = """下面五段，是网文《乱世荒年》的原文。你就是写这�
 
 直接从正文第一句写起，标题、小结、预告都留给编辑。段与段之间空一行。换场景时单独一行“……”。写到提示说的停处就停，停在事情正做到一半的地方。
 有前文时，紧接前文最后一句往下写：读者刚看完前文，都还记得。
+"""
+
+THEM = """
+十、数量、东西、本事，原样说出来就够分量：三斤肉、八十文、一门手艺、八只兔子。“实打实、实实在在、切切实实、货真价实、真真切切、结结实实”这一类加重的词，这本书里用不着。
+
+十一、句子正着说：写人做了什么、手里有什么、嘴上说了什么。要交代“没提”“没有”的地方，一句就够，接着写他实际做的事。
 """
 
 # (tên đoạn, câu đầu, câu cuối) — cắt nguyên văn từ bộ mẫu, tính cả hai câu này.
@@ -90,8 +96,11 @@ def main():
             assert l in mau, l
         khoi.append(f"{ten}\n" + "\n".join(doan))
         print(f"{ten}: {len(doan)} dòng, {han(''.join(doan))} 字")
-    si = LOI.format(nguyen_van="\n\n".join(khoi))
+    than = "\n\n".join(khoi)
+    si = LOI.format(nguyen_van=than, them="")
     RA.write_text(si, encoding="utf-8", newline="\n")
+    # bản b = bản gốc + hai thói quen Tác giả chỉ ra sau khi nghe C-001 (10/11): chữ "thật/thực" để nhấn, phủ định chồng
+    RA.with_name("si-claude-b.txt").write_text(LOI.format(nguyen_van=than, them=THEM), encoding="utf-8", newline="\n")
     anchor = sum(len(k) for k in khoi)
     print(f"{RA.relative_to(GOC).as_posix()} | {len(si)} ký tự | lời {len(si) - anchor} | anchor {anchor} ({100 * anchor // len(si)}%)")
 
