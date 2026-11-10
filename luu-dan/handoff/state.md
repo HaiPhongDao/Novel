@@ -1,19 +1,30 @@
-# STATE — Khởi tạo thế giới và nhân vật (Trước Đoạn 001)
+# STATE — Sổ cái dữ liệu sau Đoạn 001
 
 ## 1. Mạch nối (Scene Bridge)
-- **Thời gian:** Loạn thế, sáng sớm mùa thu đông gió lạnh buốt.
-- **Địa điểm:** Bìa doanh trại / bãi tập kết lưu dân ven con đường dịch trạm bỏ hoang. Xung quanh là những túp lều cỏ rách nát, người già yếu co ro vì đói và rét.
-- **Nhân vật:** MC là người hiện đại vừa mở mắt trong đống cỏ khô, thân thể gầy trơ xương, đói cồn cào.
-- **Tình trạng:** Trong ngực giấu mẩu bánh vụn cám đen đét cứng quắc (chỉ đủ nhét kẽ răng), tay nắm chặt một cọc gỗ vót nhọn thô sơ nhặt bên đường để phòng thân.
-- **Việc trước mắt:** Nhận diện hoàn cảnh, bảo vệ chút đồ ăn duy nhất, tìm cách kiếm nước/kiếm thức ăn sống sót qua ngày đầu tiên, động thủ kích hoạt bảng kỹ nghệ.
+- **Thời gian:** Sáng sớm mùa thu đông, giờ Thìn; trung doanh vừa đánh trống hiệu triệu điểm danh.
+- **Địa điểm:** Cửa lều cỏ rách nát khu tiền tam doanh, đang bước ra đường đất hướng về bãi tập kết "Nê Câu Tử" (泥沟子).
+- **Hiện diện:** Trần Hòa (陈禾, 16 tuổi, một tay xách ngọn giáo gỗ hòe ba cạnh vừa gọt nhọn, trong vạt áo giấu mẩu bánh cám), Trần Tam Trụ (陈三柱, tam thúc, 34 tuổi, cầm cành dương mục nát run rẩy đi sau).
+- **Câu kết đoạn 001:**
+  `“叔，别慌。”`
+  `陈禾迈步掀开草帘子，回头看了一眼陈三柱，嘴角微微勾起：`
+  `“走，咱们去领今天的照面糊糊。”`
+- **Việc kế:** Trong nửa khắc phải đến Nê Câu Tử điểm danh; đối phó với việc Vương Lại Tử (王癞子) mách lẻo với thập trưởng Mã Đao Kiểm (马刀脸); dùng ngọn giáo gỗ để được xếp vào hàng "Trường thương thủ" (长枪手), tránh bị đẩy vào "Điền hào đội" (填壕队) làm bia thịt; tranh suất cháo loãng buổi sáng.
 
-## 2. Sổ cái tài sản & Tình thế (Ledger)
-- **Tiền bạc:** 0 văn tiền (trắng tay).
-- **Lương thực:** Nửa mẩu bánh cám khô cứng giấu kín trong áo.
-- **Trang bị:** 1 cọc gỗ nhọn thô sơ, 1 mẩu dây gai đứt.
-- **Bảng kỹ nghệ:** Chưa kích hoạt (sẽ xuất hiện ngay khi MC thực hiện một hành động kỹ năng thực tế đầu tiên).
-- **Tình thế lớn:** Triều đình đại loạn, mất mùa triền miên, các cánh quân lưu dân nổi dậy (kiểu Khăn Vàng) cuốn theo hàng vạn nạn dân đói khát; quan quân thì coi lưu dân như cỏ rác, các đầu mục lưu dân trong trại cũng tranh đoạt lương thảo tàn khốc.
+## 2. Sổ cái tài sản & Nợ (Ledger)
+- **Tiền mặt:** 0 văn.
+- **Lương thực:** Còn khoảng 1/3 mẩu bánh cám đen khô cứng giấu sát da thịt trong ngực áo.
+- **Trang bị / Vũ khí:** 
+  - 1 ngọn giáo gỗ hòe (dài hơn 5 thước, dày cỡ quả trứng vịt, đầu vót nhọn ba cạnh 3 tấc) — có thể đâm xuyên da thịt.
+  - 1 mảnh đá xanh sắc nhọn dùng gọt đẽo.
+- **Bảng kỹ nghệ hiện tại:**
+  - `【技艺：削木（入门 15/100）】`
+  - `【技艺：扎枪（入门 1/100）】`
+- **Biên chế & Đầu mục:**
+  - Thuộc nghĩa quân "Bình Thiên Đại tướng quân" (平天大将军), khu tiền tam doanh.
+  - Thập trưởng trực tiếp: "Mã Đao Kiểm" (马刀脸).
+  - Tay sai đắc lực của thập trưởng: Vương Lại Tử (王癞子) — vừa bị Trần Hòa chĩa giáo vào cổ họng dọa sợ lùi bước, mang hận trong lòng.
 
-## 3. Quy ước
-- Không bible, nội dung do Writer tự do triển khai.
-- Sau khi Writer viết xong đoạn 001, Agent sẽ trích xuất tên nhân vật chính, các sự kiện, các chỉ số kỹ năng và cập nhật lại toàn bộ State này.
+## 3. Quy tắc quân doanh & Đã kể (Already Told)
+- Không có vũ khí -> bị xếp vào "Điền hào đội" (填壕队) làm bia thịt đi đầu lấp hào hứng tên.
+- Có giáo nhọn/vũ khí -> được xếp hàng 3 làm "Trường thương thủ" (长枪手), cơ hội sống sót cao hơn nhiều.
+- Quân lệnh điểm danh: quá nửa khắc đến muộn bị đánh 20 roi, trốn không ra bị chém ngay.
