@@ -1,13 +1,22 @@
 Viết tiếp đoạn tiếp theo, 2.000–2.500 字, bằng tiếng Trung.
 
-Chạng vạng ngày 0 đến rạng sáng ngày 1. Tần Dã ra khỏi nhà với cuộn dây gai và cái liềm; anh nghĩ đường sống duy nhất là lại vào núi, nhưng trước hết muốn xem sườn dốc nơi Lữ Lục đã đứng ngó xuống sáng nay. Ruộng đậu ba mẫu của nhà Tần ven mương Đông (东沟) nằm ngay trên lối đi: cả thung lũng khô nứt, đây là mảnh xanh duy nhất, luống đậu có lối thỏ đi, phân thỏ và cây đậu bị gặm cụt. Từ ký ức nguyên chủ, anh biết mốc đá đầu tiên của nhà họ Lữ nằm trên sườn dốc phía trên ruộng. Anh muốn có thịt trước khi ba cân rưỡi kê hết, và muốn việc săn nằm ngoài tầm mắt Lữ Tứ; anh sợ Lữ Lục nhìn thấy mình. Anh đo bước từ bờ ruộng lên tới mốc đá, đặt ba bẫy thòng lọng trên lối thỏ, rồi về ngủ. Rạng sáng anh ra xem: hai bẫy có thỏ rừng nặng chừng ba cân, bẫy thứ ba đứt dây, đầu dây dính lông vàng. Anh lột da hai con ngay bên mương, gói thịt bằng mảnh vải thô, và mang một con về cho bà nội nấu: bữa có thịt đầu tiên của hai bà cháu từ đầu năm. Bà nội hỏi anh học đặt bẫy ở đâu.
+Tiếp nối ngay câu cuối đoạn trước: Tần Dã cầm cuộn dây gai thô và cái liềm gỉ, rời khỏi nhà đất lúc trời chạng vạng ngày 0, đi ra ba mẫu ruộng đậu nhà họ Tần ven mương Đông (东沟).
 
-Từ bờ ruộng lên đến mốc đá là hai mươi ba bước; cả ba bẫy nằm trong ruộng nhà Tần, dưới mốc.
+=== DỮ LIỆU TỪ STATE (CẦN GIỮ ĐÚNG SỐ LIỆU) ===
+- Thời gian: Chạng vạng ngày 0 bước sang đêm và rạng sáng ngày 1.
+- Nợ phạt: Lữ Tứ (吕四) phạt 240 văn hạn 7 ngày (hôm nay là ngày 0, còn 7 ngày); quá hạn sẽ bị đoạt 3 mẫu ruộng đậu.
+- Sổ lương thực & tiền nhà: Nhà còn 11 văn tiền, 3.5 cân kê (sau khi cho Liễu thẩm mượn nửa cân).
+- Đồ nghề trên người: 1 cuộn dây gai thô (粗麻绳), 1 cái liềm gỉ (生锈镰刀). Không có dao củi, không có cung tên.
+- Ranh giới pháp lý: Khế ước bán núi của huyện chỉ tính từ mốc đá xanh (界石) trở lên là núi cấm của Lữ gia; phía dưới mốc đá là ruộng dân. Ruộng đậu nhà họ Tần nằm dưới mốc đá.
+- Bảng kỹ nghệ khởi điểm của đoạn này (chỉ mình Tần Dã thấy, tăng điểm khi làm việc thật):
+  【技艺：陷阱（入门 41/100）】
+  【技艺：剥皮（未入门 12/100）】
+  【技艺：种田（入门 30/100）】
 
-Bảng (in một lần, sau khi lột da xong, đúng nguyên dạng; số lấy từ State, dòng sẽ đổi trong đoạn thì để …):
-【技艺：陷阱（入门 …/100）】
-【技艺：剥皮（未入门 …/100）】
+=== TÌNH HUỐNG & MỤC TIÊU (NỘI DUNG DO WRITER TỰ QUYẾT) ===
+Tần Dã ra đồng xem xét dấu vết nơi sáng nay Lữ Lục (吕六) cầm dây thừng đi đo đạc trên sườn dốc phía trên ruộng đậu, đối chiếu vị trí mốc đá của nhà họ Lữ với ranh giới ruộng nhà mình. Giữa mùa đại hạn, ruộng đậu ven mương là nguồn thức ăn hiếm hoi thu hút thú rừng (thỏ rừng) xuống kiếm ăn. Tần Dã tìm dấu vết thỏ và tìm cách đặt bẫy thòng lọng bằng dây gai và cọc gỗ để vừa kiếm thịt giải quyết nạn đói trước mắt, vừa tìm cách kiếm tiền trả món nợ 240 văn cứu ruộng.
+Writer tự do quyết định: Tần Dã phát hiện dấu vết gì, quan sát địa hình và tính toán bước chân ra sao, chế tạo và bố trí bẫy thế nào, thu hoạch kết quả ra sao, bảng kỹ nghệ nhảy số tăng điểm thế nào, và cách xử lý chiến lợi phẩm / bữa ăn hay bước đi tiếp theo.
 
-Dừng ở lúc Tần Dã xách con thỏ còn lại ra khỏi cửa đi về phía nhà lý chính, bà nội đứng ở cửa nhìn theo.
+Dừng ở lúc một hành động cụ thể đang diễn ra dở dang.
 
-Tên cố định: lý chính họ La (罗里正); huyện là 县城 (không phải 镇); Khâu Lão Thuyên (邱老栓) còn sống; núi Hắc Thạch (黑石岭); Lữ Tứ (吕四), Lữ Lục (吕六).
+Tên cố định: Tần Dã (秦野) · bà nội (奶奶) · Liễu thẩm (柳婶) · Lữ Tứ (吕四) · Lữ Lục (吕六) · lý chính họ La (罗里正) · mương Đông (东沟) · núi Hắc Thạch (黑石岭) · mốc đá (界石) · ruộng đậu (豆地) · bẫy thòng lọng (套索) · dây gai (麻绳) · liềm (镰刀).
