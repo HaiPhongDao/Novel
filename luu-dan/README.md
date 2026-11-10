@@ -2,7 +2,7 @@
 
 > Thể loại: Lịch sử giá không · Quân lưu dân loạn thế (kiểu Khăn Vàng) · Bảng kỹ nghệ thuần thục. Quy trình: Writer-driven & State-kept.
 
-**Logline:** Thời loạn thế lịch sử giá không, triều đình mục nát, nghĩa quân "Bình Thiên Đại tướng quân" cuốn theo biển người đói khát. Trần Hòa (người hiện đại) xuyên không thành thiếu niên lưu dân mười sáu tuổi gầy trơ xương, dựa vào đầu óc sắc sảo và bảng kỹ nghệ chỉ mình nhìn thấy, từ một mẩu bánh cám, một ngọn giáo gỗ hòe tự gọt nhọn, từng bước thoát khỏi kiếp bia thịt, sinh tồn và quật khởi giữa thời loạn.
+**Logline:** Thời loạn thế lịch sử giá không, triều đình mục nát, nghĩa quân "Bình Thiên Đại tướng quân" cuốn theo biển người đói khát. Trần Hòa (người hiện đại) xuyên không thành thiếu niên lưu dân mười sáu tuổi gầy trơ xương, dựa vào đầu óc sắc sảo và bảng kỹ nghệ chỉ mình nhìn thấy, từ một mẩu bánh cám, một ngọn giáo gỗ hòe tự gọt nhọn, từng bước chém giết thoát hiểm, đoạt ngựa đoạt cung, gây dựng thế lực sinh tồn và quật khởi giữa thời loạn.
 
 ## Writer
 
@@ -16,5 +16,9 @@
 
 | Đoạn | Prompt | Bản thảo | Review | Trạng thái |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) (tối giản 3 dòng) | [`chapters/doan-001.md`](chapters/doan-001.md) (5.141 字, cổng XANH) | Đạt: MC Trần Hòa, kỹ nghệ 削木/扎枪, tam thúc Trần Tam Trụ, kẻ thù Vương Lại Tử | ✅ Đã chốt State sau 001 |
-| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) (State-brief) | ⏳ Chờ chạy Writer | — | ⏳ Sẵn sàng chạy |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) (5.141 字, XANH) | Thức tỉnh MC Trần Hòa, kỹ nghệ 削木/扎枪, tam thúc Trần Tam Trụ | ✅ Đã chốt State |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) (5.132 字, XANH) | Đâm thủng da trâu lập uy, nhận chức Trường thương thủ, quân lệnh trạng | ✅ Đã chốt State |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) (4.957 字, XANH) | Giúp quân nhu sửa xe, đổi gỗ du đẽo giáo thứ 2, 【削木 52/100】, cướp vây | ✅ Đã chốt State |
+| 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) (3.949 字, XANH) | Đâm chết 2 tên cướp, tống tiền Vương Lại Tử, cứu Tam thúc, nhổ trại Hắc Phong Khẩu | ✅ Đã chốt State |
+| 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) (5.199 字, XANH) | Hỗn chiến đêm phá lũy, 【扎枪】 đột phá Thuần thục, phục binh kỵ binh xuất hiện | ✅ Đã chốt State |
+| 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | [`chapters/doan-006.md`](chapters/doan-006.md) (5.360 字, XANH) | Phục kích giết 2 thiết kỵ, thu phục Mã Đao Kiểm, đoạt chiến mã/cung tên/bạc vụn | ✅ Đã chốt State |
