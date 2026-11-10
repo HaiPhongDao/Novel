@@ -1,0 +1,443 @@
+[
+ {
+  "ca": "ca-01",
+  "cap": "P01",
+  "dap_an": "A",
+  "chon": "origin/main:han-nien-san-dong/gemini/test-giong/claude/C-001.md",
+  "loai": "origin/main:han-nien-san-dong/gemini/test-giong/claude/AT-001.md",
+  "nen": {
+   "ca": "ca-01",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A có cảm xúc và chi tiết sống động hơn, đoạn bà nội đưa nửa cân gạo rất thấm: “奶奶脸上的皮肉抽动了一下。”; B gọn nhưng khô, ít nhịp điệu."
+  },
+  "skill": {
+   "ca": "ca-01",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "Mục B/C: A có tiếng lòng trần của MC và bày ra đủ (xuyên qua, nhà cửa, phép tính), như 「这开局，真是半点油水都不给留啊……」; B là giọng kể ngoài, phẳng, tóm tắt gạch đầu dòng."
+  }
+ },
+ {
+  "ca": "ca-02",
+  "cap": "P06",
+  "dap_an": "A",
+  "chon": "origin/main:sung-thu/gemini/test-giong/v6/X-a.md",
+  "loai": "origin/main:sung-thu/gemini/test-giong/v1-ch03-a.md",
+  "nen": {
+   "ca": "ca-02",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "A đọc tự nhiên, nhịp nhanh, giọng châm biếm đúng chất truyện mạng: “免费的果然才是最贵的”; B văn cổ cứng, nhiều từ như 鄙店, khó nghe trên điện thoại."
+  },
+  "skill": {
+   "ca": "ca-02",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "Mục B: A giữ giọng MC (「垃圾，略过」「免费的果然才是最贵的」) dù còn 实打实; B là văn nghệ, giọng người thứ ba, thoại cổ 「鄙店眼下有一项…优待章程」."
+  }
+ },
+ {
+  "ca": "ca-03",
+  "cap": "P06",
+  "dap_an": "B",
+  "chon": "origin/main:sung-thu/gemini/test-giong/v6/X-b.md",
+  "loai": "origin/main:sung-thu/gemini/test-giong/v2-ch03-a.md",
+  "nen": {
+   "ca": "ca-03",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B ngắt dòng ngắn, nhịp nhanh, dễ đọc trên điện thoại: “垃圾，过。”; A dồn thành khối đoạn dài, mệt mắt."
+  },
+  "skill": {
+   "ca": "ca-03",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "Mục B/C: B có tiếng lòng MC trần (「套路，全是他妈的套路」「垃圾，过」) và bày ra đủ; A trơn, kể ngoài, nhiều 死死/货真价实 nhưng ít giọng riêng."
+  }
+ },
+ {
+  "ca": "ca-04",
+  "cap": "P09",
+  "dap_an": "B",
+  "chon": "origin/de-quoc-1:khong-binh/archive/lan-1/gemini-test/doan-001-mau/Z2.md",
+  "loai": "origin/de-quoc-1:khong-binh/archive/lan-1/gemini-test/doan-001-mau/Z1.md",
+  "nen": {
+   "ca": "ca-04",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A gọn, mỗi dòng một ý, tiết tấu tốt và cú chốt dứt khoát: “回少爷，当然有。”; B dài dòng, đoạn nhiều câu, lặp “回大人”."
+  },
+  "skill": {
+   "ca": "ca-04",
+   "chon": "B",
+   "ngang": false,
+   "tin": 1,
+   "ly_do": "Mục C/B: B cho MC nghĩ và tính toán nhiều hơn (「按照一户五口计算…」), thoại trọn ý hơn; còn tật 浑浊/嘴唇哆嗦/死死 nhưng sửa tại chỗ được. A mỏng, kể ngoài."
+  }
+ },
+ {
+  "ca": "ca-05",
+  "cap": "P09",
+  "dap_an": "B",
+  "chon": "origin/de-quoc-1:khong-binh/archive/lan-1/gemini-test/doan-001-mau/Z2.md",
+  "loai": "origin/de-quoc-1:khong-binh/gemini/test/vong-si-3/Y2.md",
+  "nen": {
+   "ca": "ca-05",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B dựng cảnh đầy đủ, có hài hước và phản ứng nhân vật trước màn lửa: “看来真把您的脑髓给烧糊涂了”; A nhồi thông tin thành đoạn dài, kể nhiều hơn diễn."
+  },
+  "skill": {
+   "ca": "ca-05",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "Mục B/D: A để người kể giải nghĩa tâm lý hộ (「加尔文真正在意的，是…」) và MC gần như câm; B có cảnh sống, MC hỏi đáp trọn lượt thoại, có tiếng lòng (「这就是典型的豪门边缘子弟开局」)."
+  }
+ },
+ {
+  "ca": "ca-06",
+  "cap": "P12",
+  "dap_an": "A",
+  "chon": "origin/de-quoc-1:khong-binh/gemini/test/tro-tu/doan-005-b.md",
+  "loai": "origin/de-quoc-1:khong-binh/gemini/test/tro-tu/doan-005-a.md",
+  "nen": {
+   "ca": "ca-06",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A chặt chẽ, đối thoại sắc, cú đảo tình huống rõ: “一口气给足的定金算不得本钱”; B rườm, đuôi “呢” lặp lại gượng."
+  },
+  "skill": {
+   "ca": "ca-06",
+   "chon": "A",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "Mục A/E: B dán 呢 dày đặc ở cả thoại (「…瞧瞧产货的底细，心里才好算账嘛」「…的哦呢」) nên giả; A thoại gọn hơn, MC tính đầy đủ 「三年总额早已突破八千金币」. Hai bản gần ngang."
+  }
+ },
+ {
+  "ca": "ca-07",
+  "cap": "P12",
+  "dap_an": "A",
+  "chon": "origin/de-quoc-1:khong-binh/gemini/test/tro-tu/doan-005-b.md",
+  "loai": "origin/de-quoc-1:khong-binh/gemini/test/tro-tu/doan-005-c.md",
+  "nen": {
+   "ca": "ca-07",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A mạch lạc, logic tiền bạc nhất quán, đối đáp sắc: “把明天的口粮提前折价卖了”; B có số liệu lệch và giọng pha tạp như “俺们”."
+  },
+  "skill": {
+   "ca": "ca-07",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "Mục A/E: B dày 呢, thoại gượng, câu chuyện kể thương nhân sai logic (「运粮船根本装不下那么多棉布罢了」), nhiều 死死; A mạch rõ, MC tính toán trần 「按海港两枚金币的脱手底价算」."
+  }
+ },
+ {
+  "ca": "ca-08",
+  "cap": "P14",
+  "dap_an": "A",
+  "chon": "origin/main:lanh-chua-chip/archive/run-2/doan-001-v1.md",
+  "loai": "origin/main:lanh-chua-chip/archive/run-2/doan-001-v2.md",
+  "nen": {
+   "ca": "ca-08",
+   "chon": "A",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "A có nhịp ngắn, hình ảnh sắc hơn và đoạn đối thoại với Tiểu Thất sống động; B cũng tốt nhưng phẳng hơn. Ví dụ: \"这分明是一张盖着红蜡火漆的流放判决书\"."
+  },
+  "skill": {
+   "ca": "ca-08",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A để Gareth xả liền một tràng dữ kiện trong thoại (mục A/2.3: “山脚下的领地村落…勉强凑齐一百四十个人”), B chuyển thành lời kể sau khi MC hỏi và có tiếng lòng MC (“不,现在他是Leon了”); cả hai còn tật 硬生生/猛地."
+  }
+ },
+ {
+  "ca": "ca-09",
+  "cap": "P17",
+  "dap_an": "A",
+  "chon": "origin/ccr-d2085077-uo0a5j:lanh-chua-khoa-hoc/chapters/doan-001-b.md",
+  "loai": "origin/ccr-d2085077-uo0a5j:lanh-chua-khoa-hoc/chapters/doan-001-e.md",
+  "nen": {
+   "ca": "ca-09",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B mở bằng hành động, lời Osric rõ ràng, số liệu mạch lạc, giọng cô đọng hơn; A dài dòng và có câu thừa. Ví dụ: \"锤子砸在铁錾尾端，发出一声刺耳的脆响\"."
+  },
+  "skill": {
+   "ca": "ca-09",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A có giọng MC rõ (mục B/C: “买卖就是买卖”, tính nhẩm 四枚金币四十枚银币) và thoại MC đủ ý hơn; B để Osric giảng giải bối cảnh dài, MC chỉ hỏi cụt (“进屋。”“领地里还能卖什么?”)."
+  }
+ },
+ {
+  "ca": "ca-10",
+  "cap": "P17",
+  "dap_an": "A",
+  "chon": "origin/ccr-d2085077-uo0a5j:lanh-chua-khoa-hoc/chapters/doan-001-b.md",
+  "loai": "origin/ccr-d2085077-uo0a5j:lanh-chua-khoa-hoc/chapters/doan-001-o.md",
+  "nen": {
+   "ca": "ca-10",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A nhịp tốt, có hành động và xung đột; B lặp \"回大人\" rập khuôn, xen nhiều chi tiết vụn (mèo, mỡ lợn) làm loãng. Ví dụ: \"回大人，库房铁皮箱里统共存着九枚金币\"."
+  },
+  "skill": {
+   "ca": "ca-10",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "B là thoại hỏng: Osric lặp “回大人” và lan man chuyện mèo đẻ, MC chỉ hỏi cụt, không có tiếng lòng (mục A/B); A có nội tâm và bày ra đủ."
+  }
+ },
+ {
+  "ca": "ca-11",
+  "cap": "P23",
+  "dap_an": "B",
+  "chon": "origin/ccr-d2085077-uo0a5j:nong-trang-ma-phap/chapters/doan-001-j.md",
+  "loai": "origin/ccr-d2085077-uo0a5j:nong-trang-ma-phap/chapters/doan-001-k.md",
+  "nen": {
+   "ca": "ca-11",
+   "chon": "A",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "A đoạn mở gọn, cảnh linh mục ép buộc đắt giá, đoạn ngắn hợp đọc điện thoại; B có bước đổi nước thánh hay nhưng giảng giải dài. Ví dụ: \"要么两枚银币买一瓶圣水，要么今晚送去石柱\"."
+  },
+  "skill": {
+   "ca": "ca-11",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B có giọng MC trần, tự giễu, bày đủ lý do mua thánh thủy (mục B/C: “高低得给这个神父判个无期徒刑外加全网通报”); A để MC giảng đạo lý cho Marta nghe không hiểu (“要是让你们知道几碗煮透的柳树皮水…”)."
+  }
+ },
+ {
+  "ca": "ca-12",
+  "cap": "P25",
+  "dap_an": "B",
+  "chon": "origin/main:manga-osaka-1999/gemini/test-giong/lop/ch01-L-a.md",
+  "loai": "origin/main:manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-a.md",
+  "nen": {
+   "ca": "ca-12",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "B bị cắt cụt giữa câu, thiếu nửa cảnh sau; A trọn vẹn, có kết. Ví dụ B dừng ở \"每个月\"."
+  },
+  "skill": {
+   "ca": "ca-12",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A thoại trọn ý hơn (“那进不去。后门是内部通道和货运口…”) và có phép tính, tiếng lòng đầy đủ (mục A/B); B ngắn, cụt hơn và bị cắt giữa chừng."
+  }
+ },
+ {
+  "ca": "ca-13",
+  "cap": "P25",
+  "dap_an": "B",
+  "chon": "origin/main:manga-osaka-1999/gemini/test-giong/lop/ch01-L-b.md",
+  "loai": "origin/main:manga-osaka-1999/gemini/test-giong/lop/ch01-L-2-b.md",
+  "nen": {
+   "ca": "ca-13",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A nhất quán tên và tình tiết hơn, B lẫn lộn (上杉/Uesugi, 主编/总编, câu lạ như 海峡对岸). Ví dụ A: \"一颗硬得硌牙的生铁钉子\"."
+  },
+  "skill": {
+   "ca": "ca-13",
+   "chon": "A",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "Hai bản gần như cùng khung; A thoại dặn dò đủ ý hơn (“走正门吧…就说你是来给我补交材料的”) và ít chữ AI hơn B (B có 猛地/死死/死一般, lẫn tên Uesugi/上杉, “贵志”)."
+  }
+ },
+ {
+  "ca": "ca-14",
+  "cap": "P28",
+  "dap_an": "A",
+  "chon": "origin/manga:manga-tokyo-2000/gemini/test/tu-do-1/doan-001.md",
+  "loai": "origin/manga:manga-tokyo-2000/chapters/doan-001.md",
+  "nen": {
+   "ca": "ca-14",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B có xung đột trực diện và màn phô tài \"vả mặt\" khoái cảm, kết có móc; A chậm và kể nhiều. Ví dụ: \"给我六分钟，我把这两页废稿救活\"."
+  },
+  "skill": {
+   "ca": "ca-14",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "A có tiếng lòng MC (“去他妈的奖金”, tính tiền thuê nhà) và bày hoàn cảnh; B là cảnh MC thắng bằng độc thoại ngầu, Tanaka sụp đổ (mục A/B/2.2), kết bằng câu hạ màn điện ảnh “拉出了划破这个时代的第一道锋利墨线”."
+  }
+ },
+ {
+  "ca": "ca-15",
+  "cap": "P16",
+  "dap_an": "B",
+  "chon": "origin/ky-si:ky-si/archive/doan-001-test-v02-02.md",
+  "loai": "origin/ky-si:ky-si/archive/doan-001-test-v01-01.md",
+  "nen": {
+   "ca": "ca-15",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B để Dain dạy Toma bằng đối thoại có hành động và đưa Mira vào với vấn đề cụ thể; A dồn nhiều đoạn kể tiền bạc và có lỗi (\"三十两银子\" thay vì 银币). Câu tiêu biểu: \"你把矛尾当成自己的肋骨\"."
+  },
+  "skill": {
+   "ca": "ca-15",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A giữ được tiếng lòng MC (mục B) và thoại Mira trọn ý, ngắn hơn; B để Mira xả cả bài dữ kiện (mục A) kèm 狠狠/整整. Trích A: “收势”才十二点，难怪刚才后撤时矛尖飘得像喝醉了酒。"
+  }
+ },
+ {
+  "ca": "ca-16",
+  "cap": "P24",
+  "dap_an": "B",
+  "chon": "origin/ccr-d2085077-uo0a5j:nong-trang-ma-phap/chapters/doan-001-j.md",
+  "loai": "origin/ccr-d2085077-uo0a5j:nong-trang-ma-phap/chapters/doan-001-i.md",
+  "nen": {
+   "ca": "ca-16",
+   "chon": "B",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "B dựng cảnh trọn vẹn, có bước ngoặt hay là rót nước sắc vỏ liễu vào chai thánh thủy; A tóm tắt vội và nhảy cảnh. Câu tiêu biểu: \"现在的它，依旧是如假包换、价值两枚银币的教会圣水\"."
+  },
+  "skill": {
+   "ca": "ca-16",
+   "chon": "B",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "B có giọng MC đậm (mục B), bày đủ nỗi nghĩ vì sao phải mua thánh thuỷ rồi tráo (mục C); A mỏng hơn, lời kể đứng ngoài. Trích B: 这笔账要是让前世那些查账的人看见，高低得给这个神父判个无期徒刑。"
+  }
+ },
+ {
+  "ca": "ca-17",
+  "cap": "P15",
+  "dap_an": "B",
+  "chon": "origin/main:lanh-chua-chip/chapters/doan-001.md",
+  "loai": "origin/main:lanh-chua-chip/archive/run-2/doan-001-v3.md",
+  "nen": {
+   "ca": "ca-17",
+   "chon": "B",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "Hai bản gần như cùng cấu trúc; B có hạn chót cụ thể (tuyết phong núi sau ba tháng) và Leon cứng giọng hơn, dù có vài lỗi nhỏ (\"年轻的男爵\"). A gọn hơn nhưng thiếu áp lực thời gian. Câu: \"这是一张盖着伯爵印章的缓刑判决书\"."
+  },
+  "skill": {
+   "ca": "ca-17",
+   "chon": "B",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "Hai bản gần như cùng khung, cùng kết bằng hình ảnh cái bát; B nhỉnh hơn ở giọng MC (mục B) và thoại Leon dứt khoát. Trích B: 这根本不是封地，这是一张盖着伯爵印章的缓刑判决书。"
+  }
+ },
+ {
+  "ca": "ca-18",
+  "cap": "P20",
+  "dap_an": "A",
+  "chon": "origin/ccr-d2085077-uo0a5j:ky-kham-lanh-chua/chapters/archive/doan-001-h.md",
+  "loai": "origin/ccr-d2085077-uo0a5j:ky-kham-lanh-chua/chapters/archive/doan-001-l.md",
+  "nen": {
+   "ca": "ca-18",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B có giọng nhân vật (tư duy kế toán), mỉa mai \"清理坏账\" và giải thích rõ vì sao mua mười hai người; A chỉ nghe tạm, lời giải thích gượng. Câu: \"清理坏账四个字落在 Adrian 耳朵里，显得格外讽刺\"."
+  },
+  "skill": {
+   "ca": "ca-18",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B có giọng tính toán của MC xuyên suốt (mục B, C) còn A thoại dày nhãn 说道 và Karl giải thích quy đổi tiền hộ người kể (mục A). Trích B: 死一个都是严重的资本折旧。"
+  }
+ },
+ {
+  "ca": "ca-19",
+  "cap": "P11",
+  "dap_an": "B",
+  "chon": "origin/de-quoc-1:khong-binh/archive/lan-2-hong/doan-001-v2.md",
+  "loai": "origin/de-quoc-1:khong-binh/archive/lan-2-hong/doan-001-v1.md",
+  "nen": {
+   "ca": "ca-19",
+   "chon": "B",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "B mạch lạc, hài (quan tài đã đặt sẵn, \"诈尸啦\") và nhân vật nhất quán; A gọi lẫn \"莫兰卫队长\" với \"加尔文\" khiến người đọc rối. Câu: \"死人躺了三天还能自己坐起来\"."
+  },
+  "skill": {
+   "ca": "ca-19",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A không dính 呢 dày ở thoại (mục A) và giữ giọng MC; B thoại Garvin cuối câu 呢 liên tục, lại xả bối cảnh. A lẫn tên 莫兰/加尔文, sửa tại chỗ được. Trích B: 订好的柏木棺材都搬进前厅了呢。"
+  }
+ },
+ {
+  "ca": "ca-20",
+  "cap": "P07",
+  "dap_an": "A",
+  "chon": "origin/main:sung-thu/gemini/test-giong/v6/X-a.md",
+  "loai": "origin/main:sung-thu/gemini/test-giong/v3/A-a.md",
+  "nen": {
+   "ca": "ca-20",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "A dàn cảnh ba cửa hàng sống động, có đối thoại nhân viên và gag cuối chương; B nén cốt truyện thành đoạn thuyết minh dày đặc và vội. Câu: \"听这语气，分明是一点都不欢迎我再来啊\"."
+  },
+  "skill": {
+   "ca": "ca-20",
+   "chon": "A",
+   "ngang": false,
+   "tin": 3,
+   "ly_do": "A dựng cảnh đủ, giọng MC và tự giễu rõ (mục B, C); B nén thành đoạn tóm tắt dữ kiện ở đầu, mất khoảng trống (mục C). Trích A: 好家伙，这种哄小孩的把戏拿来糊弄谁呢。"
+  }
+ },
+ {
+  "ca": "ca-21",
+  "cap": "P02",
+  "dap_an": "A",
+  "chon": "origin/main:han-nien-san-dong/chapters/doan-003.md",
+  "loai": "origin/main:han-nien-san-dong/gemini/test-giong/giong-v1/R-003-a.md",
+  "nen": {
+   "ca": "ca-21",
+   "chon": "A",
+   "ngang": false,
+   "tin": 2,
+   "ly_do": "A có đủ cao trào: đọc khế ước, đo hai mươi ba bước, bằng chứng phân thỏ, rồi Lữ Lục chạy báo tin tạo móc câu. B ngắn hơn và dừng sớm hơn. Câu: \"界桩以下，原属各甲民田，两不相涉\"."
+  },
+  "skill": {
+   "ca": "ca-21",
+   "chon": "B",
+   "ngang": true,
+   "tin": 1,
+   "ly_do": "A đầy chữ nhấn/cận cảnh sáo (mục E) như 猛地, 死死, 结结实实; B sạch hơn, thoại Tần Dã trọn ý. A lại có giọng MC mạnh nên rất sát. Trích A: 三斤肉，换这一句原文，换得结结实实。"
+  }
+ }
+]
