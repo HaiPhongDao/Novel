@@ -12,6 +12,11 @@
 
 ## Từ 10/11 — làm theo [`QUY-TRINH.md`](../QUY-TRINH.md)
 
+**Đang chờ Tác giả (10/11): nghe hai bản 001 rồi chọn SI cho lô 001–003.** Cùng brief 001 trơn mới:
+[`gemini/test-giong/claude/C-001.md`](gemini/test-giong/claude/C-001.md) (SI Claude viết lại từ đầu — có giọng MC, còn chữ cường điệu, 3.729 字) ·
+[`gemini/test-giong/claude/AT-001.md`](gemini/test-giong/claude/AT-001.md) (SI-AT — sạch tật đã đếm, giọng phẳng, 2.627 字).
+Ghi chú và bảng số: [`gemini/si-claude.md`](gemini/si-claude.md). `chapters/doan-001.md` tạm là bản C-001; 002–003 trong `chapters/` còn là bản cũ 09/11, chưa chạy lại. `gemini/si-dan-gemini.txt` (SI v2) chưa đổi.
+
 Chạy đoạn: `python tools/lam.py viet han-nien-san-dong <N>` (dán nguyên văn 2 đoạn trước + thẻ + brief, không dán State JSON — đúng hướng sửa "giữ mạch" bên dưới, không phụ thuộc `--chat`). Chữ sai lặp lại: [`gemini/thay-chu.txt`](gemini/thay-chu.txt). Lời chê về giọng còn treo đã gom vào [`no-giong.md`](no-giong.md); các mục "Việc kế" bên dưới là ghi chép 09/11, chờ Tác giả quyết: chạy lại 001–003 thành lô đầu của quy trình mới, hay giữ và viết tiếp 004.
 
 ## Việc kế — thoại trước (09/11, Tác giả: "sửa này trước chốt đã")

@@ -10,4 +10,6 @@
 
 **Địa danh:** Lão Nha Ao (老鸦坳), Hắc Thạch (黑石岭), mương Đông (东沟), cổng núi (山门), huyện (县城, cách thôn 30 dặm).
 
-**Luật cứng:** khế bán núi tính núi từ mốc đá trở lên; dưới mốc đá là ruộng dân. Mốc đá của ruộng nhà Tần cách bờ ruộng hai mươi ba bước. Tần Dã chưa có cung, chưa có dao củi.
+**Luật cứng:** Tần Dã chưa có cung, chưa có dao củi.
+
+**Chữ cố định:** bẫy thòng lọng 套索 · đặt bẫy 设陷阱 / 下套索 · dây gai 麻绳 · cái liềm 镰刀 · dao củi 柴刀 · giường 床 · kê 粟米 · cháo 粟米粥 · thẻ núi 山牌 · thuế núi 山课 · cổng núi 山门 · tiền phạt 罚的钱 · ruộng đậu 豆地 · bờ ruộng 地头 · sườn dốc trên ruộng 山坡 · mốc đá 界石 · khế bán núi 卖山的文书 · sổ làng 册子 · người nhà họ Lữ 吕家的人 / 打手 · người gác núi 管事 · nhà chính 堂屋 · sân 院子.

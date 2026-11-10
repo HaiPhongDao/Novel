@@ -92,7 +92,10 @@ def cat_ban_cu(d, n, kieu="v"):
     shutil.move(str(src), str(dst))
     brief = d / "briefs" / f"doan-{n:03d}.md"
     if kieu == "v" and brief.exists():
-        shutil.copyfile(brief, d / "archive" / f"doan-{n:03d}-v{k}.brief.md")
+        # brief đã sinh ra bản cũ là bản đã commit; file trên đĩa thường vừa được sửa để chạy lại
+        r = subprocess.run(("git", "show", f"HEAD:{brief.relative_to(REPO).as_posix()}"), cwd=REPO, capture_output=True)
+        cu = r.stdout if r.returncode == 0 else brief.read_bytes()
+        (d / "archive" / f"doan-{n:03d}-v{k}.brief.md").write_bytes(cu)
     return dst
 
 
@@ -201,6 +204,8 @@ def cmd_viet(a):
 
     ban = out.read_text(encoding="utf-8")
     lap = cau_lap(van_truoc, ban) if van_truoc else []
+    si = Path(a.si) if a.si else d / "gemini" / "si-dan-gemini.txt"
+    chep_si = cau_lap(si.read_text(encoding="utf-8"), ban, 10) if si.exists() else []
     print("\n" + "─" * 60)
     print(f"{out.relative_to(REPO).as_posix()} | {han(ban)} 字 | prompt {len(prompt)} ký tự ({han(van_truoc)} 字 văn trước)")
     print(cong)
@@ -208,6 +213,8 @@ def cmd_viet(a):
         print("thay chữ: " + ", ".join(f"{s}→{g} ×{c}" for s, g, c in da_thay))
     if lap:
         print(f"⚠ kể lại: {len(lap)} câu của đoạn trước xuất hiện nguyên văn — " + " | ".join(s[:20] for s in lap[:3]))
+    if chep_si:
+        print(f"⚠ chép SI: {len(chep_si)} câu của SI/anchor xuất hiện nguyên văn — " + " | ".join(s[:20] for s in chep_si[:3]))
     print("Việc kế: đọc lướt (tên, số, ai biết gì, chỗ dừng) rồi viết brief đoạn sau. Xanh chưa phải đạt.")
     sys.exit(0 if xanh else 1)
 
