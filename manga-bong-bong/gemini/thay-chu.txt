@@ -1,0 +1,3 @@
+# Chữ Writer hay viết sai hoặc khẩu ngữ thừa => chữ đúng (vế phải để trống = xoá chữ đó). lam.py tự thay sau mỗi lần chạy.
+实打实地 =>
+实打实的 =>
