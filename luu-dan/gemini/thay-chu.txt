@@ -1,0 +1,5 @@
+# Chữ Writer hay viết sai hoặc khẩu ngữ thừa => chữ đúng/tự nhiên. Mỗi dòng một cặp; lam.py viet tự thay sau mỗi lần chạy.
+实打实地 => 清清楚楚地
+实打实的 => 扎扎实实的
+实打实 => 扎实
+硬碰硬 => 迎头硬顶
