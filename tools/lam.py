@@ -7,6 +7,11 @@
         --lai       đã có bản: cất bản cũ + brief của nó vào archive/ rồi chạy lại
         --truoc K   dán nguyên văn K đoạn liền trước vào prompt (mặc định 2; 0 = chỉ gửi brief)
         --gia-lap   không gọi Writer, lấy FILE làm bản Writer trả (Tác giả dán tay, hoặc để thử lệnh)
+    python tools/lam.py ban <truyen> <N> [--so 3]
+        Vòng "chỉ đưa bản tốt nhất": viết --so bản nháp của cùng một đoạn (mỗi bản một chat mới, các tài khoản chạy song
+        song) vào <truyen>/nhap/doan-NNN-a.md, -b, -c; thay chữ, cổng máy, đếm hai tật Tác giả nêu. Chấm theo skill novel-taste.
+    python tools/lam.py chon <truyen> <N> <a|b|c>
+        Đưa bản được chọn vào chapters/doan-NNN.md, các bản còn lại vào archive/.
     python tools/lam.py doc <truyen> <N1> [N2]
         Ghép các đoạn N1…N2 thành một file <truyen>/doc/lo-N1-N2.md để Tác giả nghe một lần.
     python tools/lam.py chot <truyen> <N1> [N2] -m "tóm tắt một câu" [--khong-push]
@@ -219,6 +224,102 @@ def cmd_viet(a):
     sys.exit(0 if xanh else 1)
 
 
+# ---------------------------------------------------------------- ban / chon
+
+# Hai tật Tác giả nêu đích danh (10/11). Chỉ để khoanh vùng; chọn bản là việc của skill novel-taste.
+NHAN = re.compile(r"实打实的?|实实在在|切切实实|货真价实|真真切切|结结实实|硬生生")
+SONG_SONG = re.compile(
+    r"没有?[^，。！？\n]{1,14}[，、]\s*(?:也|更)?没有?[^，。！？\n]{1,14}"
+    r"|不[^，。！？\n过]{1,12}[，、]\s*(?:也|更)?不[^，。！？\n]{1,12}[，、]\s*(?:也|更)?不"
+    r"|既没[^。\n]{1,20}也没|不是[^，。\n]{1,20}，而是")
+
+
+def dem_tat(t):
+    n = han(t) or 1
+    return 1000 * len(NHAN.findall(t)) / n, 1000 * len(SONG_SONG.findall(t)) / n
+
+
+def ban_nhap(d, n):
+    return sorted((d / "nhap").glob(f"doan-{n:03d}-?.md"))
+
+
+def cmd_ban(a):
+    d, n = thu_muc(a.truyen), int(a.doan)
+    brief = d / "briefs" / f"doan-{n:03d}.md"
+    if not co_chu(brief):
+        chet(f"Thiếu brief: {brief.relative_to(REPO).as_posix()}")
+    if n > 1 and a.truoc and not co_chu(doan(d, n - 1)):
+        chet(f"Chưa có đoạn {n - 1:03d} trong chapters/")
+    if ban_nhap(d, n):
+        chet(f"Đã có bản nháp của đoạn {n:03d} trong {d.name}/nhap/ — `lam.py chon` một bản, hoặc xoá chúng rồi chạy lại")
+    prompt, van_truoc = ghep_prompt(d, n, a.truoc)
+    (d / "handoff").mkdir(exist_ok=True)
+    prompt_file = d / "handoff" / "prompt-gui.md"
+    prompt_file.write_text(prompt, encoding="utf-8", newline="\n")
+    (d / "nhap").mkdir(exist_ok=True)
+    ra = [d / "nhap" / f"doan-{n:03d}-{k}.md" for k in "abcdef"[:a.so]]
+    si = Path(a.si) if a.si else d / "gemini" / "si-dan-gemini.txt"
+
+    if a.gia_lap:
+        for src, out in zip(a.gia_lap.split(","), ra):
+            shutil.copyfile(src, out)
+    else:
+        if not si.exists():
+            chet(f"Thiếu SI: {si}")
+        import json
+        jobs = d / "nhap" / ".jobs.json"
+        jobs.write_text(json.dumps([{"si": str(si), "prompt": str(prompt_file), "out": str(o)} for o in ra]), encoding="utf-8")
+        rc = subprocess.run([sys.executable, "-X", "utf8", str(REPO / "tools" / "aistudio_run.py"), "--batch", str(jobs),
+                             "--timeout", str(a.timeout), "--accounts", a.accounts], cwd=REPO).returncode
+        jobs.unlink(missing_ok=True)
+        if rc == 3:
+            print("HẾT QUOTA giữa chừng — chấm trên các bản đã có.", file=sys.stderr)
+
+    si_text = si.read_text(encoding="utf-8") if si.exists() else ""
+    truoc = str(doan(d, n - 1)) if co_chu(doan(d, n - 1)) else None
+    print("\n" + "─" * 60)
+    print(f"prompt {len(prompt)} ký tự ({han(van_truoc)} 字 văn trước)")
+    print("| Bản | 字 | Cổng máy | Chữ nhấn /1.000 | Phủ định song song /1.000 | Kể lại | Chép SI |")
+    print("|---|---|---|---|---|---|---|")
+    co = 0
+    for out in ra:
+        if not co_chu(out):
+            print(f"| {out.name} | — | không có bài | | | | |")
+            continue
+        co += 1
+        hau_ky(d, out)
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            xanh = cong_doan.gate(str(out), str(brief), truoc)
+        t = out.read_text(encoding="utf-8")
+        nhan, ss = dem_tat(t)
+        do = "; ".join(l.strip(" ✗") for l in buf.getvalue().splitlines() if "✗" in l).replace("|", "/")
+        print(f"| {out.relative_to(REPO).as_posix()} | {han(t)} | {'XANH' if xanh else 'ĐỎ: ' + do[:60]} | {nhan:.2f} | {ss:.2f} "
+              f"| {len(cau_lap(van_truoc, t)) if van_truoc else 0} | {len(cau_lap(si_text, t, 10)) if si_text else 0} |")
+    print("Việc kế: chấm mù theo skill novel-taste (bảng trên chỉ khoanh vùng), rồi "
+          f"`python tools/lam.py chon {d.name} {n} <a|b|c>`.")
+    sys.exit(0 if co else 2)
+
+
+def cmd_chon(a):
+    d, n = thu_muc(a.truyen), int(a.doan)
+    nhap = ban_nhap(d, n)
+    chon = d / "nhap" / f"doan-{n:03d}-{a.ban}.md"
+    if chon not in nhap:
+        chet(f"Không có {chon.relative_to(REPO).as_posix()}. Đang có: {', '.join(p.name for p in nhap) or 'không bản nào'}")
+    out = doan(d, n)
+    if co_chu(out):
+        print(f"cất bản cũ → {cat_ban_cu(d, n).relative_to(REPO).as_posix()}")
+    out.parent.mkdir(exist_ok=True)
+    (d / "archive").mkdir(exist_ok=True)
+    shutil.move(str(chon), str(out))
+    for p in nhap:
+        if p != chon:
+            dst, _ = ten_chua_dung(d, f"doan-{n:03d}-nhap-{p.stem[-1]}{{k}}.md")
+            shutil.move(str(p), str(dst))
+    print(f"{out.relative_to(REPO).as_posix()} ← bản {a.ban}; {len(nhap) - 1} bản còn lại vào archive/")
+
+
 # ---------------------------------------------------------------- doc
 
 def khoang(a):
@@ -356,6 +457,23 @@ def main():
         if ten == "chot":
             p.add_argument("-m", required=True, help="tóm tắt một câu")
             p.add_argument("--khong-push", action="store_true")
+
+    bn = sub.add_parser("ban")
+    bn.add_argument("truyen")
+    bn.add_argument("doan")
+    bn.add_argument("--so", type=int, default=3)
+    bn.add_argument("--truoc", type=int, default=2)
+    bn.add_argument("--gia-lap", help="các file cách nhau dấu phẩy, thay cho việc gọi Writer")
+    bn.add_argument("--si")
+    bn.add_argument("--accounts", default=os.environ.get("ACC", "0,1,2"))
+    bn.add_argument("--timeout", type=int, default=10)
+    bn.set_defaults(f=cmd_ban)
+
+    ch = sub.add_parser("chon")
+    ch.add_argument("truyen")
+    ch.add_argument("doan")
+    ch.add_argument("ban", help="chữ cái của bản nháp: a, b, c…")
+    ch.set_defaults(f=cmd_chon)
 
     b = sub.add_parser("bang")
     b.add_argument("--ghi", action="store_true")

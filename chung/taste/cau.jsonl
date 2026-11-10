@@ -1,0 +1,27 @@
+{"cau": "直往…里钻", "huong": "che", "loi": "thỉnh thoảng xuất hiện tiếng bản địa, chữ cổ… '直往…里钻' hầu như bản nào cũng có", "nguon": "[main] han-nien-san-dong/log.md:17", "loai": "giong-may"}
+{"cau": "有实打实的劲道", "huong": "che", "loi": "'thật sự' = 实打实 (qua ảnh DocTTS); giọng AI tồn tại cảm rất lớn", "nguon": "[main] han-nien-san-dong/log.md:18", "loai": "chu-nhan"}
+{"cau": "气血实打实充盈些", "huong": "che", "loi": "'thật sự' = 实打实 (qua ảnh DocTTS)", "nguon": "[main] han-nien-san-dong/log.md:18", "loai": "chu-nhan"}
+{"cau": "语气平稳得很", "huong": "che", "loi": "'đắc nhận' = 得很 (qua ảnh DocTTS); giọng AI", "nguon": "[main] han-nien-san-dong/log.md:18", "loai": "giong-may"}
+{"cau": "实打实", "huong": "che", "loi": "Writer vẫn thường xuyên dùng các từ như 'thật, chân, thực' để nhấn mạnh (实打实, 实实在在, 切切实实, 货真价实)", "nguon": "[main] han-nien-san-dong/gemini/si-claude.md:69", "loai": "chu-nhan"}
+{"cau": "实实在在", "huong": "che", "loi": "như trên", "nguon": "[main] han-nien-san-dong/gemini/si-claude.md:69", "loai": "chu-nhan"}
+{"cau": "切切实实", "huong": "che", "loi": "như trên", "nguon": "[main] han-nien-san-dong/gemini/si-claude.md:69", "loai": "chu-nhan"}
+{"cau": "货真价实", "huong": "che", "loi": "như trên", "nguon": "[main] han-nien-san-dong/gemini/si-claude.md:69", "loai": "chu-nhan"}
+{"cau": "不…，不…，不…（chuỗi phủ định lặp）", "huong": "che", "loi": "Vẫn dùng cấu trúc 'không…, không…, không', phủ định hơi nhiều", "nguon": "[main] han-nien-san-dong/gemini/si-claude.md:69", "loai": "phu-dinh"}
+{"cau": "猛地/死死/狠狠/硬生生/整整/结结实实/紧实", "huong": "che", "loi": "'thật sự' (nghi khuôn 实) — cường điệu dày hơn mẫu ~25 lần", "nguon": "[main] chung/loi/quan-sat.jsonl:288", "loai": "chu-nhan"}
+{"cau": "踩实", "huong": "che", "loi": "mỗi踩实一步 — khuôn động từ + 实 làm giả độ cụ thể", "nguon": "[ccr-d2085077-uo0a5j] lanh-chua-khoa-hoc/reviews/doan-001.md:79", "loai": "chu-nhan"}
+{"cau": "…rất thực", "huong": "che", "loi": "vẫn có câu kiểu '…rất thực' (chữ Hán gốc không nêu)", "nguon": "[main] lanh-chua-chip/reviews/doan-001.md:59", "loai": "chu-nhan"}
+{"cau": "“不买粮食，一枚麦钱都不买。”Adrian 摇头说道/lắc đầu nói rằng（dịch Việt trong log: “Không mua lương thực, một đồng tiền lúa mạch đều không mua.” Adrian lắc đầu nói rằng）", "huong": "che", "loi": "phủ định trần ném vào không khí + thẻ 'nói rằng' là người kể thuật lại; MC nói kiểu trống không", "nguon": "[ccr-d2085077-uo0a5j] ky-kham-lanh-chua/log.md:127", "loai": "phu-dinh"}
+{"cau": "起来", "huong": "che", "loi": "MC vẫn là 起来 thay vì 起来吧/站起来吧", "nguon": "[ccr-d2085077-uo0a5j] ky-kham-lanh-chua/log.md:50", "loai": "thoai-cut"}
+{"cau": "起来吧", "huong": "khen", "loi": "(ngầm) dạng đúng Tác giả đòi: 起来吧/站起来吧", "nguon": "[ccr-d2085077-uo0a5j] ky-kham-lanh-chua/log.md:50", "loai": "thoai-cut"}
+{"cau": "站起来吧", "huong": "khen", "loi": "(ngầm) dạng đúng Tác giả đòi", "nguon": "[ccr-d2085077-uo0a5j] ky-kham-lanh-chua/log.md:50", "loai": "thoai-cut"}
+{"cau": "“一斧断的气？” “行。”", "huong": "che", "loi": "cụt, trống không, không đầu không đuôi; truyện cần viết đầy đủ, không cần giống người thật nói", "nguon": "[main] .claude/skills/novel-craft/references/si-khung.md:64", "loai": "thoai-cut"}
+{"cau": "站久了有些发眩。", "huong": "che", "loi": "MC nói câu không chủ ngữ, không ai hỏi trước, mọc từ đâu không rõ", "nguon": "[ccr-d2085077-uo0a5j] lanh-chua-khoa-hoc/reviews/doan-001.md:286", "loai": "thoai-cut"}
+{"cau": "待会儿便送进书房", "huong": "che", "loi": "Osric nói mà không nói cho ai", "nguon": "[ccr-d2085077-uo0a5j] lanh-chua-khoa-hoc/reviews/doan-001.md:286", "loai": "thoai-cut"}
+{"cau": "脖颈后的冷汗还没干透…发凉。", "huong": "che", "loi": "câu cụt, mất nhịp", "nguon": "[ccr-d2085077-uo0a5j] lanh-chua-khoa-hoc/reviews/doan-001.md:191", "loai": "khac"}
+{"cau": "二十三岁，刚捡回一条命。", "huong": "che", "loi": "câu cụt, mất nhịp", "nguon": "[ccr-d2085077-uo0a5j] lanh-chua-khoa-hoc/reviews/doan-001.md:191", "loai": "khac"}
+{"cau": "石柱绑不得，绑上去天亮就收尸了。", "huong": "che", "loi": "Tác giả bắt câu này: lời phán/lệnh với người mẹ đang khóc, không đáp điều bà hỏi", "nguon": "[ccr-d2085077-uo0a5j] nong-trang-ma-phap/reviews/doan-001.md:206", "loai": "thoai-giai-thich"}
+{"cau": "取而代之的是资深编辑面对现实问题时的清醒与严苛", "huong": "che", "loi": "Tác giả bắt 03/11 (sổ Q-0165)", "nguon": "[main] chung/loi/quan-sat.jsonl:165", "loai": "khac"}
+{"cau": "X：“…”", "huong": "che", "loi": "X:\"...\" chỉ dùng ở đặc định tràng cảnh, bỏ đi cũng được", "nguon": "[soi-xam] soi-xam/log.md:13", "loai": "khac"}
+{"cau": "呢（trợ từ cuối câu dày）", "huong": "che", "loi": "呢 quá nhiều", "nguon": "[de-quoc-1] khong-binh/log.md:55", "loai": "khac"}
+{"cau": "二十三步（lặp 6-8 lần）", "huong": "che", "loi": "hai bản viết như viết lại truyện, thiếu liên kết (lặp chi tiết cũ)", "nguon": "[main] han-nien-san-dong/log.md:15", "loai": "khac"}
+{"cau": "蛀牙大王", "huong": "che", "loi": "nghe low quá", "nguon": "[soi-xam] soi-xam/archive/phuong-an-tien-de.md:7", "loai": "khac"}

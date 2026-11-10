@@ -41,6 +41,10 @@ Trước khi làm: `git pull --rebase` trên nhánh `main`. Lặp ba lần các 
    văn 2 đoạn liền trước + `handoff/canon-card.md` + brief; mở chat mới; thay chữ theo `gemini/thay-chu.txt`; qua
    cổng máy; bản cụt do mạng thì tự chạy lại một lần; cảnh báo nếu Writer chép lại câu của đoạn trước.
    Đoạn 001 chỉ gửi brief. Cần Edge đang mở với extension "Novel AI Studio bridge".
+   *Tuỳ chọn — vòng ba bản* (đoạn 001, đoạn bản lề, hoặc sau một lần chạy lại): `python tools/lam.py ban <truyen> <N>`
+   viết ba bản nháp vào `nhap/`; chấm mù theo skill `novel-taste`; `python tools/lam.py chon <truyen> <N> <a|b|c>`.
+   Tác giả vẫn chỉ nhận một bản. Giám khảo mới trùng Tác giả 11/13 trên các cặp chắc và chưa hơn được một biên tập viên
+   chung chung (`chung/taste/README.md`), nên đây là vòng thử, không phải mặc định.
 3. **Đọc lướt một lần** (Agent): tên, số, ai biết gì, có kể lại chuyện cũ không, dừng đúng chỗ không.
    - Sai tên / chữ lạ → sửa tại chỗ; chữ nào sai lần thứ hai → thêm một dòng `sai => đúng` vào `gemini/thay-chu.txt`.
    - Sai số, sai canon một câu → sửa đúng câu đó.
