@@ -63,3 +63,25 @@ Cùng brief 001 trơn, mỗi bản một lần chạy, chat mới. Số tật đ
 - Hai vòng chỉ dùng câu khẳng định đều không dứt được chữ cường điệu; SI-AT dứt được nhờ nêu đích danh trong BANS.
 - Dừng ở hai vòng theo trần của `QUY-TRINH.md` mục 4. Nếu Tác giả thích giọng của C-001 mà vẫn nghe ra tật: bước kế là
   một bản ghép — SI này + đúng một dòng nêu đích danh nhóm chữ cường điệu lấy từ SI-AT.
+
+## Thử brief trần (10/11, sau khi Tác giả nghe C-001)
+
+Tác giả: "SI claude tốt hơn, nhưng chưa đủ. Writer vẫn thường xuyên dùng các từ như 'thật, chân, thực' để nhấn mạnh
+(实打实, 实实在在, 切切实实, 货真价实). Vẫn dùng cấu trúc 'không…, không…, không', phủ định hơi nhiều. Vấn đề lớn nhất
+có thể vẫn là brief" — prompt trơn một hai câu cho văn "khá ổn".
+
+Brief trần ba câu: [`test-giong/claude/brief-tran-001.md`](test-giong/claude/brief-tran-001.md). Mỗi cấu hình một lần chạy.
+
+| Bản | Brief | SI | 字 | Tật /1.000 | Chữ nhấn nhóm 实 | Dòng ≥2 phủ định /1.000 | 炕 |
+|---|---|---|---|---|---|---|---|
+| C-001 | trơn | `si-claude.txt` | 3.729 | 5,63 | 2 | 1,6 | 1 |
+| T1-001 | trần | `si-claude.txt` | 4.094 | 5,37 | 0 | 2,0 | 7 |
+| T2-001 | trần | `si-claude-b.txt` (+ dòng 十, 十一) | 4.972 | 5,43 | 1 | 2,4 | 8 |
+| T0-001 | trần | `si-trong.txt` (một dòng) | 3.810 | 3,94 | 2 | 2,4 | 3 |
+| AT-001 | trơn | SI-AT | 2.627 | 0,00 | 0 | 1,9 | 0 |
+
+Đọc: brief trần không làm văn sạch hơn ở đề tài này — cả T1, T2 bi kịch hoá, thổ ngữ quay lại, dài gấp rưỡi tới gấp đôi.
+Không SI (T0) thì ra văn chương nặng: tả cảnh dài, so sánh, có cả tên chương. Hai dòng thêm (十, 十一) chưa thấy tác dụng
+(n=1). Phủ định chồng có cả khi brief không có chữ "không" nào → một phần là thói quen sẵn của Writer. Chỉ SI-AT (nêu
+đích danh trong BANS) đưa số tật về 0. Chờ Tác giả đọc năm bản.
+
