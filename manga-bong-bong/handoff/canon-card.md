@@ -1,13 +1,15 @@
-## Thẻ thiết lập — ghi theo điều Writer đã viết ở đoạn 001
+## Thẻ thiết lập — ghi theo điều Writer đã viết ở đoạn 001 (bản 11/11, lần 2)
 
-**MC:** Thần Cốc Du (神谷悠), 21 tuổi. Kiếp trước là chủ bút một xưởng manga ở Trung Quốc, làm kiệt sức ba ngày liền rồi ngừng tim trước bảng vẽ. Tỉnh dậy vào mùa thu 1993 ở Tokyo, trong thân xác một trợ thủ thực tập vừa ra trường chuyên môn.
+**Quy ước tên:** tên người viết Romaji; địa danh, nhà xuất bản, tạp chí, tên tác phẩm viết chữ Trung.
 
-**Chỗ làm:** trợ thủ thực tập của họa sĩ Bản Đa Vinh Nhất (本多荣一), 40 tuổi, đang vẽ 《铁拳浪子》 trên tăng san Jump, doanh số cuối bảng, sắp bị cắt.
+**MC:** Kuroki Ren, 20 tuổi, người Gunma, học trường chuyên manga một năm rồi vào xưởng làm trợ lý thực tập từ tuần trước. Kiếp trước là Lu Chen, tốt nghiệp mỹ viện, họa sĩ webtoon công nghiệp, đột tử bên bảng vẽ trong một đêm mưa năm 2024. Xuyên qua mới ba ngày.
 
-**Tiền:** lương 8 vạn円 một tháng; trừ tiền nhà 3,5 vạn và tạp phí 5 nghìn còn 4 vạn; mỗi tháng dư chưa tới 2 nghìn. Phòng trọ 4,5 chiếu, không buồng tắm. Phụ cấp bữa tối 500円, về sau 18:30 thì bị trừ. Làm bản thảo nộp tốn khoảng 1,5 vạn円 (nửa tháng tiền ăn).
+**Thời gian, nơi chốn:** mùa thu 1993, Tokyo. Xưởng của Numata Yoshio: căn hộ 12 chiếu ở Nerima, đang vẽ 《野犬之拳》 trên Magazine, hạng giữa trở xuống.
 
-**Bàn tay vàng:** ký ức kiếp trước về các tác phẩm đời sau. MC vẽ lại 《亚人》 (45 trang, nhân vật 永井圭) và mang nộp trực tiếp (持ち込み) ở 集英社.
+**Người khác:** Sasaki Kenji (28 tuổi, trợ lý trưởng) · Takahashi Shinichi (biên tập Magazine của 讲谈社) · Suzuki (bà chủ nhà trọ).
 
-**Người khác:** Cát Cương Hùng Giới (吉冈雄介), 26 tuổi, biên tập viên năm thứ ba, hôm đó trực tiếp nhận bản thảo; đang mệt và chán.
+**Tiền:** ví 3.200円 + công ba ngày 10.500円 (3.500円 một ngày) = 13.700円. Tiền nhà 26.000円 (phòng 4,5 chiếu ở Asagaya), còn thiếu 12.300円, hạn ba ngày nữa. Giải 佳作 10–30 vạn円.
 
-**Đoạn 001 dừng ở:** 18:05, sảnh tiếp khách của 集英社. 吉冈 đọc tới khoảng trang 6 và đã bị cuốn; MC nhấp trà, biết mình lỡ giờ về và sẽ bị trừ 500円.
+**Bàn tay vàng:** không hệ thống; ký ức về tác phẩm và cách phân cảnh đời sau. MC đã vẽ một truyện ngắn 45 trang, tiền truyện 《DEATH NOTE》 (Kagami Taro, 死神 Ryuk, "死神橡皮擦"); vật liệu tốn khoảng 3.000円.
+
+**Đoạn 001 dừng ở:** MC vác túi vải rời xưởng, đi về ga Asagaya để lên Ochanomizu, nơi gần 集英社 và 讲谈社. Chưa gặp biên tập nào.

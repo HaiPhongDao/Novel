@@ -1,7 +1,7 @@
 ---
 name: novel-taste
 description: "Chấm bản thảo tiếng Trung của Writer theo tai của Tác giả repo Novel: chọn bản tốt nhất trong vài bản nháp của cùng một đoạn, chỉ ra chỗ phải sửa tại chỗ, quyết có chạy lại không. Dùng sau `lam.py ban`, khi review một đoạn, hoặc khi phải chọn giữa hai SI/brief bằng bản văn."
-version: 1.1.0
+version: 1.2.0
 ---
 
 # Novel Taste — tai của Tác giả
@@ -32,6 +32,13 @@ nhân vật "gần như vô hồn" (không ai có ý muốn riêng), MC "lu mờ
 Hỏng: "mọi thứ xảy ra quá trôi", "tả và kể quá ít, bám vào dữ kiện để checklist, không có khoảng trống trong văn", "MC thức
 dậy lững thững một mạch đến đập búa, không có thoại nội tâm, giải thích, kể, làm nền". Cắt giải thích quá tay cũng bị chê:
 "cắt mất quá nhiều phần giải thích rồi, vẫn thích bản cũ hơn".
+Truyện xuyên qua / trùng sinh còn phải có hai thứ, thiếu là Tác giả chê ngay (01/11, 31/10, 11/11):
+- **Bối cảnh thế giới và thời đại được giới thiệu như bộ mẫu làm**: năm nào, thế đạo ra sao, nghề này đang thế nào — một khối
+  vài dòng ở đoạn mở, không phải một câu lướt qua. "Phần giới thiệu bối cảnh thế giới của mẫu, cả 8 đoạn Writer đều chưa xuất
+  hiện"; "thể loại trùng sinh này cần mấy thứ đó chứ".
+- **Điểm sảng của người đời sau**: "biết trước xu hướng, góc nhìn ưu việt của người tương lai, đánh giá châm chọc thời đại
+  cũ". MC phải nhìn người và việc của thời đó bằng con mắt đời sau, không chỉ lặng lẽ thắng.
+
 Nhưng đây **không** phải giảng giải: người kể đứng ngoài tóm tâm lý bằng danh từ trừu tượng thì hỏng
 (`取而代之的是资深编辑面对现实问题时的清醒与严苛`), so sánh trang trí (`X得像…`) cũng vậy. Phân biệt: MC *nghĩ* bằng giọng
 mình = bày ra; người kể *giải nghĩa* hộ độc giả = giảng.
