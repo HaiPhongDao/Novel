@@ -1,6 +1,6 @@
 # Anchor và nguyên tắc từ 《大乾顶流：逃婚驸马爷》
 
-Nguồn: 《大乾顶流：逃婚驸马爷》, 香果无语, bản TXT Tác giả cung cấp. Các cửa sổ lấy từ chương 1, 4, 5, 7, 11, 14, 18 và 108, giữ nguyên chữ và thứ tự đoạn, chuẩn hóa thụt đầu dòng. Đây là tư liệu soạn SI cho truyện lịch sử giá không có giọng xuyên việt nhẹ và thiên về làm ăn, chưa chạy thử với Writer.
+Nguồn: 《大乾顶流：逃婚驸马爷》, 香果无语, bản TXT Tác giả cung cấp. Các cửa sổ lấy từ chương 1, 4, 5, 7, 11, 14, 18 và 108, giữ nguyên chữ và thứ tự đoạn, chuẩn hóa thụt đầu dòng. Bộ này dùng cho truyện lịch sử giá không có giọng xuyên việt nhẹ và thiên về làm ăn. [SI đề xuất](si-de-xuat.txt) dùng tám đoạn bên dưới. [Brief hiệu chuẩn chương 10](ch10/brief.md) lấy một cảnh chuyển và đoạn chuẩn bị cho màn đánh mặt trong bếp. [Bản đọc đối chiếu](ch10/doc-cap.md) ghi kết quả hai lượt thử.
 
 ## 1. Chương 1 · Nhận ra mình đang ở đâu và có gì trong tay
 
