@@ -1,6 +1,6 @@
 # Anchor và nguyên tắc từ 《大乾顶流：逃婚驸马爷》
 
-Nguồn: 《大乾顶流：逃婚驸马爷》, 香果无语, bản TXT Tác giả cung cấp. Các cửa sổ lấy từ chương 1, 4, 5, 11 và 14, giữ nguyên chữ và thứ tự đoạn, chuẩn hóa thụt đầu dòng. Đây là tư liệu soạn SI cho truyện lịch sử giá không có giọng xuyên việt nhẹ và thiên về làm ăn, chưa chạy thử với Writer.
+Nguồn: 《大乾顶流：逃婚驸马爷》, 香果无语, bản TXT Tác giả cung cấp. Các cửa sổ lấy từ chương 1, 4, 5, 7, 11, 14, 18 và 108, giữ nguyên chữ và thứ tự đoạn, chuẩn hóa thụt đầu dòng. Đây là tư liệu soạn SI cho truyện lịch sử giá không có giọng xuyên việt nhẹ và thiên về làm ăn, chưa chạy thử với Writer.
 
 ## 1. Chương 1 · Nhận ra mình đang ở đâu và có gì trong tay
 
@@ -96,6 +96,66 @@ Nguồn: 《大乾顶流：逃婚驸马爷》, 香果无语, bản TXT Tác gi�
 “商铺对我来说，没有什么吸引力。”苏言心里动摇，表面还是面不改色，“你知道的，我现在不缺钱，新开铺面完全可以去租，我相信租金肯定比合作划算。”
 ```
 
+## 6. Chương 18 · Chuyển cảnh ở nhịp kể thường
+
+**Điểm đáng lấy.** Chiêu Ninh dặn mang quạt đi gặp mẹ. Cảnh cắt ngay sang điện Lập Chính, nơi cha mẹ đang nhắc tới cô. Ý định ở cảnh trước tạo đà cho cảnh sau. Tên điện, việc hai người vừa đi dạo về và câu hỏi của người cha đủ để người nghe bắt lại mạch.
+
+**Principle.** 换场前，让人物留下一个接下来要办的事。换过去先交代地点和在场的人，再从他们正在做的事或正在说的话接上。路上无事，留给省略号。
+
+```
+“公主要用晚膳吗？”春桃问道。
+“不了，你让人把手摇风扇带上，我要去见母后。”李昭宁打开抽屉，将里面的一根簪子戴在头上。
+回来之后她已经将常服换下，穿上了宫装。
+华丽的宫装让她多了一些雍容华贵，褪去了少女的青涩感。
+……
+立政殿。
+上官皇后与李玄刚从御花园遛弯回来。
+“也不知道最近昭昭怎么样了。”李玄扶着上官皇后，叹了口气。
+自己这个女儿，为了婚约的事情，和他闹脾气，已经很久没来给他请安了。
+“她最近可不好受。”上官皇后苦笑着摇了摇头。
+```
+
+## 7. Chương 108 · Để câu thơ đổi thế trong cảnh
+
+**Điểm đáng lấy.** Cửa sổ bắt từ câu thứ hai. Tô Ngôn đọc câu tả người ngồi dưới trăng, rồi chuyển sang chuyện biên ải ở hai câu cuối. Bước chân ngắt nhịp đọc. Cả điện im tiếng ngay khi câu chốt rơi xuống. Đây là cách đưa thơ vào một cuộc đối đầu đang diễn ra.
+
+**Principle.** 当众作诗时，先让读者知道这一首是为谁、为哪件事而作。吟到关键处，让诗句随着人物的动作落下来。末句落地，写在场的人接下来做了什么，让读者听出这一句为什么分量不同。
+
+```
+苏言嘿嘿一笑。
+又走了一步。
+这才开口道：“晓月当帘挂玉弓。”
+承接上一句的“老雕虫”，这一句更是加深了读书人挑灯夜读的景象。
+而随着景象描述越深，那“雕虫小计”的嘲讽也更加强烈。
+就在这时。
+苏言再次走了一步，却突然抬头挺胸，用一种高昂的语气道：“不见年年辽海上……”
+说完，他又摇了摇头，对吴修言露出一丝讥讽的笑意，“文章何处哭秋风？”
+一首诗念完。
+整个甘露殿内鸦雀无声！
+```
+
+## 8. Chương 7 · Đánh mặt bằng việc đối phương tự kiểm chứng
+
+**Điểm đáng lấy.** Tô Vệ Quốc chê cái khung gỗ. Thợ mộc quay quạt, mùn cưa bay lên, rồi ông bước lại tự hứng gió. Miệng ông vẫn chê nhưng đi được mấy bước đã dặn mang một cái về phòng. Câu dặn đủ để người nghe thấy ông đã đổi ý.
+
+**Principle.** 先写清对方看轻的是什么，再把能当场验明的东西摆出来。让他亲自看、亲手试，最后用他改口的一句话或改做的一件事收住这一回合。
+
+```
+“就这木头架子，有啥用？”苏卫国撇了撇嘴。
+“老爷请看好！”刘木匠来到一台手摇风扇旁，握住把手轻轻摇动。
+呼！
+扇叶旋转，带动四周木屑翻飞。
+苏卫国脸上的表情从无奈变成疑惑，然后满脸震惊之色。
+他快步来到手摇风扇前，感受着那均匀风吹过身体，凉爽的感觉让他畅快地长舒口气。
+“老爷，这手摇风扇不仅能扇出很大的风，而且很均匀的风，还非常省力。”老木匠讲解道。
+“哼，再厉害也只是个木架子。”苏卫国哼了一声，嘴角却抑制不住地上扬。
+他抚摸着那些手摇风扇，眼神中闪烁着泪花。
+见众人都看着他，苏卫国眨了眨眼，背着手转身缓步离开。
+走了几步，他又停了下来，“把这玩意儿送一个到老夫屋里。”
+```
+
 ## Khi đưa vào SI
 
 Ưu tiên chương 5 và 14 vì mỗi đoạn dạy được cả nhịp kể lẫn cách để tiền bạc, địa vị và ý riêng chen vào lời thoại. Dùng chương 1 cho cảnh mở, chương 4 khi cần gài bối cảnh vào thao tác và chương 11 cho cảnh người ngoài kiểm chứng năng lực. Giữ tiếng lòng có góc nhìn đời sau ở mức phục vụ lựa chọn trước mắt. Tiếng lóng mạng, câu cảm thán dồn dập và phản ứng tâng bốc kéo dài dễ lấn phần hành động nên các cửa sổ trên chỉ lấy vừa đủ cho chức năng của từng đoạn.
+
+Chương 18 làm mẫu cho nhịp kể thường giữa hai cảnh. Chương 108 dùng cho cảnh làm thơ trước người nghe. Chương 7 dùng khi cần một màn đánh mặt nhẹ, với kết quả thể hiện qua hành động của người vừa chê.
