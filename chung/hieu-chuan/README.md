@@ -3,6 +3,8 @@
 **Chốt SI trước, dựng truyện sau.** Thư mục này giữ bài kiểm tra dùng để chốt SI: lấy một chương
 của **bộ mẫu** (đã có đáp án), viết một brief chỉ có sự việc, cho Writer viết lại, rồi so với nguyên văn.
 
+Tư liệu giọng lịch sử giá không: [Anchor và nguyên tắc từ 《大乾顶流：逃婚驸马爷》](dai-can/anchor-principles.md).
+
 ## Vì sao phải làm trước khi dựng bible
 
 Dựng xong bible + dàn ý + SI rồi mới viết đoạn 001 là **đổi bốn biến cùng lúc**: nhân vật mới,
