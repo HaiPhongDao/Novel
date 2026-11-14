@@ -10,9 +10,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 003](doc/lo-003.md) (4.480 字).
-2. Lục Trạch (陆泽) mở cửa đối mặt với bà chủ nhà đập cửa đòi nợ 18.000 tệ, dùng số dư 125.832 tệ vừa kiếm được từ 《Tiểu Hề Bài》 để giải quyết khủng hoảng và tính bước đi kế tiếp.
-3. Soạn brief trần và chạy đoạn 004 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 004](doc/lo-004.md) (4.845 字).
+2. Lục Trạch (陆泽) mở khóa module thứ 3 "Số Trị Thiên Bình Dữ Cơ Chế Liệt Biến Lô", nắm trong tay 368.000 điểm tâm lưu và gần 780.000 tệ lợi nhuận, bắt đầu tìm kiếm dự án game độc lập tiếp theo.
+3. Soạn brief trần và chạy đoạn 005 theo quy trình.
 
 ## Trạng thái
 
@@ -21,3 +21,4 @@
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
+| 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |

@@ -1,0 +1,1 @@
+Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung.
