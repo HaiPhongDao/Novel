@@ -10,7 +10,8 @@ Tên tạm. Truyện cổ đại giá không, chính văn tiếng Trung.
 | Đoạn | Chính văn | Bản nghe | Chốt |
 | --- | --- | --- | --- |
 | 001 | [Bản đã soát](chapters/doan-001.md) | [DocTTS](doc/lo-001.md) | Chờ tác giả nghe |
+| 002 | [Bản đã soát](chapters/doan-002.md) | [DocTTS](doc/lo-002.md) | Chờ tác giả nghe |
 
 ## Việc kế
 
-Khi viết tiếp, lấy chính văn 001 và [thẻ thiết lập](handoff/canon-card.md) làm căn cứ. Bản thảo dừng ở lúc Lục Hoài An hỏi Trường Sinh giá tờ bảng đỗ mà hiệu sách Thẩm Ký bán.
+Khi viết tiếp, dùng chính văn 001–002 và [thẻ thiết lập](handoff/canon-card.md). Lục Hoài An chuẩn bị đến Lại bộ nhận giấy bổ nhiệm vào ngày 14 tháng 4.
