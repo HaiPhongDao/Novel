@@ -1,0 +1,1 @@
+Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung. Tiếp tục đào sâu vào sức lan tỏa trong cộng đồng, dư chấn đối với giới làm game và các cơ chế/bản cập nhật chuyên sâu của 《小丑牌》（Balatro）.

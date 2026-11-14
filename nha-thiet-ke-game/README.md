@@ -10,9 +10,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 004](doc/lo-004.md) (4.845 字).
-2. Lục Trạch (陆泽) mở khóa module thứ 3 "Số Trị Thiên Bình Dữ Cơ Chế Liệt Biến Lô", nắm trong tay 368.000 điểm tâm lưu và gần 780.000 tệ lợi nhuận, bắt đầu tìm kiếm dự án game độc lập tiếp theo.
-3. Soạn brief trần và chạy đoạn 005 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 005](doc/lo-005.md) (5.112 字).
+2. Lục Trạch (陆泽) có trong tay hơn 2 triệu tệ ròng và 684.000 điểm tâm lưu sau khi 《Tiểu Hề Bài》 bùng nổ 10 vạn bản trong 24h; chuẩn bị kích hoạt dự án game hành động hardcore "chịu khổ" tiếp theo.
+3. Soạn brief trần và chạy đoạn 006 theo quy trình.
 
 ## Trạng thái
 
@@ -22,3 +22,4 @@
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |
+| 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) | Chờ Tác giả nghe | — |
