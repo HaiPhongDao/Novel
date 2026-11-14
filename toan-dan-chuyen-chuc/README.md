@@ -9,8 +9,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) và [Bản đọc đoạn 002](doc/lo-002.md). Lâm Chu (林舟) chế tạo đoản kiếm gắn 3 từ điều khái niệm, một mình bước vào phó bản 【试炼荒原】 chọn độ khó 深渊 (Vực Sâu).
-2. Tiếp tục chạy sản xuất đoạn tiếp theo theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc lô 001–003](doc/lo-001-003.md) (14.751 字).
+2. Lâm Chu (林舟) đạt LV.5, quét sạch phó bản 【试炼荒原（深渊模式）】, diệt trùm 4.200 máu trong 4 giây, lập kỷ lục 3 phút 12 giây đánh giá SSS khiến toàn trường chết lặng. Thu được ma hạch Ám Kim và sách kỹ năng Hoàng Kim.
+3. Chờ Tác giả duyệt chốt lô đầu tiên hoặc cho lệnh chạy tiếp lô sau.
 
 ## Trạng thái
 
@@ -18,3 +19,4 @@
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
