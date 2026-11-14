@@ -10,3 +10,4 @@
   - Khởi đầu: 99.600 điểm tâm lưu (quy đổi từ 9.960 giờ làm thêm cày cuốc 996 kiếp trước, tỷ lệ 10:1).
   - 【核心玩法逆推库】 (Kho Nghịch Suy Gameplay Cốt Lõi): Trích xuất logic thiết kế tầng đáy (khung vòng lặp cốt lõi, công thức cân bằng số trị, bảng nhịp điệu tâm lưu, đường cong tham số cảm giác thao tác) của các game kinh điển Trái Đất.
   - 【虚拟玩家沙盒推演】 (Sa Bàn Thôi Diễn Người Chơi Ảo): Tiêu hao điểm tâm lưu (1.000 điểm / 100 người) mô phỏng người chơi ảo với các nhóm tính cách khác nhau; xuất báo cáo tỷ lệ lưu giữ D2/D7, biểu đồ cảm xúc tâm lưu, cảnh báo gãy số trị.
+  - **Cơ chế hồi điểm:** Hệ thống tự động thu hồi điểm tâm lưu từ cảm xúc người chơi thực tế khi họ chìm đắm trong game (càng nhiều người chơi nghiện và cảm xúc bùng nổ thì điểm thu về càng lớn).

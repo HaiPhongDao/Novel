@@ -1,29 +1,25 @@
-<!-- state-through: 002 -->
+<!-- state-through: 003 -->
 
 ## Nhân vật
-- **陆泽 (Lục Trạch):** 24 tuổi, chủ kiêm thành viên duy nhất của 萤火虫工作室 (Đom Đóm Studio). Đã thức trắng 3 ngày 2 đêm hoàn thành game, vừa nộp duyệt xong kiệt sức nằm ngủ trên giường sắt xếp ở văn phòng.
-- **老鬼 (Lão Quỷ):** Streamer hàng đầu mảng game console trên 鲨鱼直播 (hơn 3 triệu fans), vừa bị game 3A 298 tệ làm buồn ngủ phát cáu.
+- **陆泽 (Lục Trạch):** 24 tuổi, chủ kiêm thành viên duy nhất của 萤火虫工作室 (Đom Đóm Studio). Ngủ 13 tiếng vừa dậy lúc 9h15 sáng Chủ Nhật (ngày 21).
+- **老鬼 (Lão Quỷ):** Streamer 3 triệu fan trên 鲨鱼直播, bị 《小丑牌》 hút hồn chơi thâu đêm suốt sáng 13 tiếng 24 phút, nổ 1.480.000 điểm vượt ải 7, giúp game viral bùng nổ mạng xã hội.
+- **房东大妈 (Bà chủ nhà):** Dẫn thợ khóa đến đập cửa văn phòng đòi tiền nhà 18.000 tệ và dọa thay khóa siết nợ máy tính.
 
 ## Thời gian & Hạn chót
-- Đang là tối ngày thứ 3 (khoảng 20h30).
-- Còn chưa đầy 48 tiếng trước hạn chót bà chủ nhà đến thay khóa đòi văn phòng và siết nợ máy tính (hạn thứ Hai).
+- Sáng Chủ Nhật, 9h15 (ngày 21).
+- Còn chưa đầy 24 tiếng trước hạn chót thứ Hai (nhưng bà chủ nhà đã dẫn thợ khóa đến đập cửa ngay lúc này).
 
 ## Tài chính & Tồn kho
 - **Tiền mặt trong người:** 342.50 tệ.
-- **Nợ cần thanh toán gấp trong 48h:** ~30.000 tệ (tiền nhà 18.000 + điện nước 1.200 + nợ mạng 8.640 + engine 1.500).
+- **Doanh thu game 《小丑牌》 sau gần 12 tiếng phát hành trên 【游星平台】:**
+  - Bán được: 6.420 bản (đánh giá 99.2% đặc biệt khen ngợi).
+  - Doanh thu gộp: 179.760 tệ.
+  - Số dư có thể rút ngay (sau trừ 30% phí nền tảng): 125.832 tệ (đủ trả sạch nợ tiền nhà, điện nước, nợ mạng, engine và còn dư gần 9 vạn).
+- **Nợ cần thanh toán ngay:**
+  - Tiền thuê văn phòng 18.000 tệ + điện nước 1.200 tệ.
+  - Nợ mạng 8.640 tệ + ủy quyền engine 1.500 tệ.
 - **Hệ thống (心流解构与推演工坊):**
-  - Điểm ban đầu: 99.600 điểm.
-  - Đã tiêu: 10.000 điểm trích xuất logic 《小丑牌》 + 1.000 điểm chạy sa bàn ảo 100 người = 11.000 điểm.
-  - Điểm tâm lưu còn lại: 88.600 điểm.
+  - Điểm tâm lưu: Nhận lại từ cảm xúc người chơi thực tế tăng vọt từ 88.600 lên 132.400 điểm (dư 32.800 điểm so với mốc ban đầu).
 
-## Dự án & Sản phẩm
-- **Game đã hoàn thiện & phát hành:** 《小丑牌》（Balatro）.
-  - Dung lượng: 148MB.
-  - Thể loại: Roguelike bài bùng nổ số trị trên nền Poker (150 Joker, bài Tarot/Ảo Linh/Hành Tinh, 8 mức Ante, Boss Blinds).
-  - Đồ họa & Âm thanh: Filter CRT hoài cổ, pixel pop-art, âm thanh phản hồi xúc giác cực đã.
-  - Kết quả sa bàn ảo: 96.8% lưu giữ ở phút 30, tần suất "chơi ván nữa" đạt 182 lần/h.
-  - Nền tảng: Đã nộp lên 【游星平台】 qua kênh duyệt tự động AI (dự kiến duyệt xong trong 1h59m).
-  - Giá bán: 28 tệ/bản (lãi ròng 19.6 tệ/bản sau khi trừ 30% hoa hồng nền tảng). Cần bán 1.530 bản để đủ 3 vạn tệ trả nợ.
-
-## Điểm dừng đoạn 002
-- Streamer Lão Quỷ (老鬼) trên 鲨鱼直播 đang tìm game lạ để live bóc phốt làm trò cười cho hơn 3 triệu người xem; hắn bấm mua 《小丑牌》 giá 28 tệ, tải xong trong 2 giây và lập flag: "Nếu game này khiến tôi chơi quá 5 phút, tôi sẽ nuốt sống bàn phím cơ ngay tại chỗ!", rồi nhấn nút 【Khởi động game】.
+## Điểm dừng đoạn 003
+- Lục Trạch vừa mở máy tính thấy doanh thu 125.832 tệ và điểm tâm lưu tăng vọt lên 132.400 điểm thì ngoài cửa văn phòng vang lên tiếng đập cửa rầm rầm; bà chủ trọ lớn tiếng quát tháo đòi tiền nhà 18.000 tệ và dọa bảo thợ khóa phá khóa xông vào siết nợ.

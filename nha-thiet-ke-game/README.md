@@ -10,9 +10,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 002](doc/lo-002.md) (4.964 字).
-2. Lão Quỷ (老鬼) livestream trải nghiệm 《Tiểu Hề Bài》（Balatro）, đối mặt với ma lực nhân số trị bùng nổ và hiệu ứng "chơi ván nữa" trước 3 triệu khán giả.
-3. Soạn brief trần và chạy đoạn 003 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 003](doc/lo-003.md) (4.480 字).
+2. Lục Trạch (陆泽) mở cửa đối mặt với bà chủ nhà đập cửa đòi nợ 18.000 tệ, dùng số dư 125.832 tệ vừa kiếm được từ 《Tiểu Hề Bài》 để giải quyết khủng hoảng và tính bước đi kế tiếp.
+3. Soạn brief trần và chạy đoạn 004 theo quy trình.
 
 ## Trạng thái
 
@@ -20,3 +20,4 @@
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
