@@ -11,9 +11,14 @@ Tên tạm. Truyện cổ đại giá không, chính văn tiếng Trung.
 | --- | --- | --- | --- |
 | 001 | [Bản đã soát](chapters/doan-001.md) | [DocTTS](doc/lo-001.md) | Chờ tác giả nghe |
 | 002 | [Bản đã soát](chapters/doan-002.md) | [DocTTS](doc/lo-002.md) | Chờ tác giả nghe |
+| 003 | [Bản đã soát](chapters/doan-003.md) | [DocTTS](doc/lo-003-007.md) | Chờ tác giả nghe |
+| 004 | [Bản đã soát](chapters/doan-004.md) | [DocTTS](doc/lo-003-007.md) | Chờ tác giả nghe |
+| 005 | [Bản đã soát](chapters/doan-005.md) | [DocTTS](doc/lo-003-007.md) | Chờ tác giả nghe |
+| 006 | [Bản đã soát](chapters/doan-006.md) | [DocTTS](doc/lo-003-007.md) | Chờ tác giả nghe |
+| 007 | [Bản đã soát](chapters/doan-007.md) | [DocTTS](doc/lo-003-007.md) | Chờ tác giả nghe |
 
 ## Việc kế
 
-Lục Hoài An chuẩn bị đến Lại bộ nhận giấy bổ nhiệm vào ngày 14 tháng 4. Gemini viết tiếp từ hai đoạn gần nhất, [thẻ thiết lập](handoff/canon-card.md) và [state hiện hành](handoff/state.md).
+Tối 19 tháng 4, tiểu nhị Thẩm Ký vừa chuyển một chiếc chặn giấy bằng đồng cùng lời nhắn hẹn ở quán trà ngoài kho Thông Châu vào chiều hôm sau. Gemini viết tiếp từ hai đoạn gần nhất, [thẻ thiết lập](handoff/canon-card.md) và [state hiện hành](handoff/state.md).
 
 Sau mỗi đoạn đã biên tập, giao subagent giữ state đối chiếu chính văn và cập nhật mốc `state-through` ở đầu file. Ghi điểm nối, việc hoặc số liệu còn hiệu lực, ai biết gì và các tình tiết độc giả đã đọc mà Writer dễ kể lại. Ở lượt đọc soát, đối chiếu đoạn mới với nguyên văn đoạn trước. Giữ các nhắc lại có tác dụng trong cảnh mới và chỉ sửa chỗ kể lại.
