@@ -10,8 +10,8 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (4.730 字).
-2. Cố Phàm (顾凡) bắt tay vào dùng Sáng Thế Biên Tập Khí (创世游戏编辑器) làm tựa game độc dược số trị gặt cỏ đầu tay để giải quyết áp lực nợ 30.000 tệ trong 7 ngày tới cho Dã Hỏa Studio.
+1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (4.353 字).
+2. Lục Trạch (陆泽) bắt tay vào dùng Tâm Lưu Giải Cấu Dữ Thôi Diễn Công Phường làm tựa game ma tính độc lập đầu tay trong 72 giờ để kiếm tiền trả nợ 18.000 tệ tiền nhà trước hạn thứ Hai.
 3. Soạn brief trần và chạy đoạn 002 theo quy trình.
 
 ## Trạng thái

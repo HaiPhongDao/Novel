@@ -1,26 +1,26 @@
 <!-- state-through: 001 -->
 
 ## Nhân vật
-- **顾凡 (Cố Phàm):** 24 tuổi, chủ kiêm thành viên duy nhất còn lại của 野火工作室 (Dã Hỏa Studio). Kiếp trước là chủ số trị trắc hoa 8 năm kinh nghiệm, đột tử vì tăng ca.
+- **陆泽 (Lục Trạch):** 24 tuổi, chủ kiêm thành viên duy nhất còn lại của 萤火虫工作室 (Đom Đóm Studio). Kiếp trước là资深主策划 cày cuốc 996 (9.960 giờ làm thêm) đột tử.
 
 ## Nhân sự & Cơ sở
-- **Nhân sự cũ:** Đã giải tán sau thất bại dự án 《苍穹之下》 (lập trình Tiểu Lưu để lại giấy nhắn nợ lương không đòi; mỹ thuật Chu tỷ về quê lấy chồng; thực tập sinh đã dọn đồ đi).
-- **Địa điểm:** Phòng 402 tòa B, Khu khởi nghiệp công nghệ thanh niên (青年科技创业园区). Phòng gác lửng 60m2 bừa bộn, rác hộp mì, 4 bàn làm việc (chỉ còn 1 máy của Cố Phàm đang bật).
+- **Nhân sự cũ:** 2 đồng sáng lập/cộng sự (trong đó có Tiểu Lâm) đã để lại thư từ chức và thẻ từ sáng nay để đi phỏng vấn làm out-source cho đại xưởng vì bị nợ 2 tháng lương.
+- **Địa điểm:** Văn phòng 萤火虫工作室, 60m2, 4 bàn làm việc bừa bộn, 3 máy bị rút điện đóng bụi, chỉ còn máy của Lục Trạch.
 
 ## Tài chính & Nợ nần
-- **Tiền mặt khả dụng:**
-  - Cá nhân: 326.50 tệ.
-  - Công ty: 1.180.20 tệ.
-  - Tổng cộng: ~1.506,70 tệ.
-- **Nợ gấp phải trả trong 4-7 ngày (tổng gần 30.000 tệ):**
-  - Tiền vay khởi nghiệp Thiên Nguyên Kim Dung: đến hạn ngày 10, phải trả kỳ này 14.200 tệ (tổng nợ 80.000 tệ).
-  - Ban quản lý tòa nhà: nợ tiền thuê quý và điện nước 12.800 tệ (đã quá hạn 3 ngày, hạn chót 7 ngày nữa nếu không cắt điện đòi phòng).
-  - Máy chủ Tinh Vân Vân: nợ 1.600 tệ, còn 4 ngày thì tắt dịch vụ.
+- **Tiền mặt trong thẻ:** 342.50 tệ.
+- **Các khoản nợ gấp trong 2-5 ngày (tổng gần 30.000 tệ):**
+  - Tiền thuê văn phòng nợ bà chủ: 18.000 tệ + điện nước 1.200 tệ (đã trễ 1 tuần, hạn chót thứ Hai tới tức còn 5 ngày nữa sẽ bị thay khóa đuổi đi và tịch thu máy tính).
+  - Vay trực tuyến phân kỳ: 8.640 tệ (còn 2 ngày đến hạn).
+  - Phí ủy quyền engine thương mại cơ sở: 1.500 tệ (còn 2 ngày đến hạn khấu trừ).
+  - Tổng nợ phân kỳ ngoài xã hội: khoảng mười vạn tệ.
 
-## Bàn tay vàng & Hệ thống
-- **Hệ thống:** 【全能游戏设计师系统】 (Toàn Năng Du Hí Thiết Kế Sư Hệ Thống).
-- **Tích phân hiện có:** 426.800 điểm (quy đổi từ 42.680 tệ tiền nạp game kiếp trước chia 10). Chưa tiêu dùng điểm nào (từ chối quay xổ số 100k/lượt để dồn điểm mua bản vẽ chắc thắng).
-- **Cơ chế:** Thương thành bản vẽ kinh điển chia các bậc (Vi hình: 50k-100k, Cỡ nhỏ: 150k-300k, Cỡ trung: 500k-1,5m, Cỡ lớn: 3m+).
+## Bàn tay vàng (Hệ thống)
+- **Hệ thống:** 【心流解构与推演工坊】 (Tâm Lưu Giải Cấu Dữ Thôi Diễn Công Phường).
+- **Điểm tâm lưu hiện có:** 99.600 điểm (tương ứng 9.960 giờ OT kiếp trước, tỷ lệ 10:1). Chưa tiêu hao điểm nào.
+- **Tính năng khả dụng:**
+  - 【核心玩法逆推库】: Trích xuất logic khung vòng lặp, công thức số trị, nhịp điệu tâm lưu, đường cong thao tác của game kinh điển Trái Đất để nạp vào công cụ làm game.
+  - 【虚拟玩家沙盒推演】: 1.000 điểm/100 người chơi ảo, mô phỏng trải nghiệm người chơi, dự báo lưu giữ D2/D7, đo đường cong cảm xúc, cảnh báo gãy số trị.
 
 ## Điểm dừng đoạn 001
-- Cố Phàm lập ra 5 tiêu chí cứng cho dự án đầu tiên (làm $\le 5$ ngày, 1 người làm, dung lượng siêu nhỏ chạy nhẹ, phản hồi kích thích nghiện cực mạnh có độc tính lây lan, dạy bài học về gameplay thuần túy). Hắn quyết định chọn tựa game "độc dược số trị gặt cỏ" (pixel 4 phím hướng, cơ chế gây nghiện cực mạnh) từ kho ký ức và gõ tên tìm kiếm trong hệ thống để bắt tay khai công.
+- Lục Trạch xác lập mục tiêu 4 điều kiện nghiêm ngặt: làm 1 mình, hoàn thành trong 3 ngày (72 giờ), không tốn tiền quảng cáo, tuần đầu kiếm về $\ge 20.000$ tệ qua 【游星平台】 (chia sẻ tiền về trong 3 ngày) để trả tiền nhà và nợ nần. Hắn đã chọn xong tựa game kinh điển ma tính ("chơi thêm ván nữa") từ tiền kiếp, kéo rèm, bật máy tính bắt tay khai công.
