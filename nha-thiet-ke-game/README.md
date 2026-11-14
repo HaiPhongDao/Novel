@@ -10,9 +10,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 005](doc/lo-005.md) (5.112 字).
-2. Lục Trạch (陆泽) có trong tay hơn 2 triệu tệ ròng và 684.000 điểm tâm lưu sau khi 《Tiểu Hề Bài》 bùng nổ 10 vạn bản trong 24h; chuẩn bị kích hoạt dự án game hành động hardcore "chịu khổ" tiếp theo.
-3. Soạn brief trần và chạy đoạn 006 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 006](doc/lo-006.md) (4.379 字).
+2. Châu Dương (周扬) mở bản Demo 《Hắc Ám Chi Hồn: Tự Chương》 (12.4GB) để kiểm định, đối mặt với cơ chế "chịu khổ" và cú sốc triết lý làm game mới của Lục Trạch.
+3. Soạn brief trần và chạy đoạn 007 theo quy trình.
 
 ## Trạng thái
 
@@ -23,3 +23,4 @@
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) | Chờ Tác giả nghe | — |
+| 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | [`chapters/doan-006.md`](chapters/doan-006.md) | Chờ Tác giả nghe | — |

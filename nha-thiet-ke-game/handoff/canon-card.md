@@ -1,10 +1,11 @@
 ## Thẻ thiết lập — Nhà Thiết Kế Game
 
 - **Nhân vật chính:** 陆泽 (Lục Trạch), 24 tuổi, tốt nghiệp hệ Giải trí tương tác ĐH Hải Thành (海城大学互动娱乐系). Kiếp trước là资深主策划 (chủ hoạch định thâm niên) trung hình game company, tăng ca liên tục 996 đột tử.
-- **Studio:** 萤火虫工作室 (Đom Đóm Studio / Firefly Studio), văn phòng 60m2. Hai đồng nghiệp/cộng sự đã để lại thư từ chức bỏ sang làm out-source cho đại xưởng vì nợ 2 tháng lương.
+- **Studio:** 萤火虫工作室 (Đom Đóm Studio / Firefly Studio). Đã chuyển trụ sở sang tòa B, Khu công viên phần mềm cao tân Hải Thành (Loft 280m2 2 tầng, phòng server riêng, 4 trạm máy Bàn Cổ 4).
 - **Thế giới & Ngành game:** Thế giới song song, công nghệ đồ họa và engine mở phát triển vượt bậc (dễ dàng làm 3A đồ họa), nhưng ngành game sa đọa vào chạy đua đồ họa tả thực, game nặng nề thiếu cơ chế, lối chơi nông cạn, không hiểu thiết kế số trị và vòng lặp tâm lưu (flow).
 - **Nền tảng phát hành:** 【游星平台】 (Du Tinh Nền Tảng), khu indie duyệt AI cực nhanh trong 2 giờ, hỗ trợ rút tiền chia sẻ doanh thu trong 3 ngày (kênh chiết khấu 30%).
-- **Game đầu tay:** 《小丑牌》（Balatro） — Thể loại roguelike thẻ bài / xây dựng bài (deck-building) trên nền tảng Poker. Cơ chế: 底分×倍率 (chip $\times$ mult) bùng nổ số học, 150 lá bài Joker quy tắc, bài Tarot/Ảo Linh/Hành Tinh, 8 mức cược (Ante) và Boss Blind. Đồ họa filter CRT hoài cổ, pixel pop-art, âm thanh phản hồi xúc giác cực mạnh. Patch v1.02 bổ sung tính năng "Mã hạt giống" (种子码) biến thành đấu trường thi đấu toàn mạng. Doanh số 24h: 103.420 bản (doanh thu gần 2.9 triệu tệ, Lục Trạch thu ròng hơn 2 triệu tệ).
+- **Game thứ nhất:** 《小丑牌》（Balatro） — Thể loại roguelike thẻ bài bùng nổ số học Poker, sau 3 ngày bán vượt 25 vạn bản.
+- **Game thứ hai:** 《黑暗之魂：序章》（Dark Souls: Prologue） — 3D ARPG hardcore mở đầu với bản đồ Bắc Phương Bất Tử Viện (北方不死院). Cơ chế: thanh thể lực Stamina, bản đồ hộp lập thể kết nối đường tắt, tự sự phân mảnh, độ khó cực cao không QTE, dung lượng 12.4GB.
 - **Streamer & Nền tảng live:** Streamer 老鬼 (Lão Quỷ), hơn 8 triệu người xem trực tiếp trên 鲨鱼直播 (Sa Ngư Trực Bá / Shark Live), chơi liên tục 17 tiếng nổ số liệu khoa học 4.28e14 điểm (hơn 400 triệu triệu điểm).
 - **Nhân sự nền tảng:** 周扬 (Châu Dương), Tổ trưởng vận hành khu game độc lập của 【游星平台】, người trực tiếp chơi thử bị cuốn 45 phút và quyết định giật banner trang chủ cho 《小丑牌》.
 - **Bàn tay vàng:** 【心流解构与推演工坊】 (Tâm Lưu Giải Cấu Dữ Thôi Diễn Công Phường):
