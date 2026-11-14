@@ -9,8 +9,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) và [Bản đọc đoạn 002](doc/lo-002.md). Cố Tu (顾修) chi 210 kim tệ gom phôi rác hợp 2 từ điều bậc 3 lam khảm đầy 2 lỗ của đoản kiếm, đạt 90 sức mạnh, 160 công vật lý; một mình bước vào phó bản 【微风平原】 độ khó Ác Mộng (噩梦).
-2. Soạn brief trần và chạy đoạn 003 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc lô 001–003](doc/lo-001-003.md) (12.928 字).
+2. Cố Tu (顾修) đạt LV.5, càn quét phó bản 【微风平原（噩梦难度）】 trong 42 giây, đạt đánh giá SSS phá sâu kỷ lục thành phố, nhận 2 trang bị xanh lục LV.5 và Rương Tiên Phong Ác Mộng. Chuẩn bị nghiên cứu khảm từ điều bậc cao lên 2 món đồ mới.
+3. Chờ Tác giả duyệt chốt lô hoặc ra lệnh chạy tiếp lô sau.
 
 ## Trạng thái
 
@@ -18,3 +19,4 @@
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
