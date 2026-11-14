@@ -14,4 +14,6 @@ Tên tạm. Truyện cổ đại giá không, chính văn tiếng Trung.
 
 ## Việc kế
 
-Khi viết tiếp, dùng chính văn 001–002 và [thẻ thiết lập](handoff/canon-card.md). Lục Hoài An chuẩn bị đến Lại bộ nhận giấy bổ nhiệm vào ngày 14 tháng 4.
+Lục Hoài An chuẩn bị đến Lại bộ nhận giấy bổ nhiệm vào ngày 14 tháng 4. Gemini viết tiếp từ hai đoạn gần nhất, [thẻ thiết lập](handoff/canon-card.md) và [state hiện hành](handoff/state.md).
+
+Sau mỗi đoạn đã biên tập, giao subagent giữ state đối chiếu chính văn và cập nhật mốc `state-through` ở đầu file. Ghi điểm nối, việc hoặc số liệu còn hiệu lực, ai biết gì và các tình tiết độc giả đã đọc mà Writer dễ kể lại. Ở lượt đọc soát, đối chiếu đoạn mới với nguyên văn đoạn trước. Giữ các nhắc lại có tác dụng trong cảnh mới và chỉ sửa chỗ kể lại.

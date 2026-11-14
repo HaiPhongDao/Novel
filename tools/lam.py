@@ -2,7 +2,7 @@
 """Một lệnh cho mỗi bước của làn sản xuất (QUY-TRINH.md).
 
     python tools/lam.py viet <truyen> <N> [--lai] [--truoc 2] [--gia-lap FILE]
-        Ghép prompt (văn nguyên của các đoạn trước + thẻ thiết lập + brief), chạy Writer trên AI Studio,
+        Ghép prompt (văn nguyên các đoạn trước + thẻ thiết lập + state cùng mốc nếu có + brief), chạy Writer trên AI Studio,
         thay chữ theo <truyen>/gemini/thay-chu.txt, qua cổng máy, in một bảng tóm tắt.
         --lai       đã có bản: cất bản cũ + brief của nó vào archive/ rồi chạy lại
         --truoc K   dán nguyên văn K đoạn liền trước vào prompt (mặc định 2; 0 = chỉ gửi brief)
@@ -43,6 +43,7 @@ import gop_doan  # noqa: E402
 HAN = re.compile(r"[一-鿿]")
 CO_AUTHOR = "Co-Authored-By: Claude <noreply@anthropic.com>"
 BANG_DAU, BANG_CUOI = "<!-- bang:dau -->", "<!-- bang:cuoi -->"
+MOC_STATE = re.compile(r"<!-- state-through: (\d{3,}) -->")
 
 
 def han(s):
@@ -119,9 +120,18 @@ def ghep_prompt(d, n, truoc):
     if co_chu(the):
         parts.append("=== THẺ THIẾT LẬP (để giữ đúng tên và số; phần lớn người đọc đã biết) ===\n\n"
                      + the.read_text(encoding="utf-8").strip())
+    state = d / "handoff" / "state.md"
+    if state.exists():
+        moc, _, noi_dung = state.read_text(encoding="utf-8-sig").partition("\n")
+        match = MOC_STATE.fullmatch(moc.strip())
+        if match and int(match[1]) == cu[-1] == n - 1 and noi_dung.strip():
+            parts.append("=== TRẠNG THÁI Ở CÂU CUỐI (chỉ dùng để nối và soát) ===\n\n" + noi_dung.strip())
+        elif match:
+            print(f"⚠ Bỏ state.md: mốc {match[1]} hoặc nội dung không khớp đoạn {n - 1:03d}.", file=sys.stderr)
     parts.append("=== VIỆC CỦA ĐOẠN NÀY ===\n\n" + brief)
     parts.append("Viết tiếp ngay sau câu cuối của phần đã viết. Người đọc vừa đọc xong phần trên và còn nhớ hết; "
-                 "đoạn mới chỉ gồm việc mới. Trả về chính văn tiếng Trung của đoạn mới.")
+                 "đoạn mới chỉ gồm việc mới. Dùng dữ kiện đã kể khi chúng tác động trực tiếp đến lời nói hoặc việc đang xảy ra. "
+                 "Trả về chính văn tiếng Trung của đoạn mới.")
     return "\n\n".join(parts) + "\n", van
 
 
