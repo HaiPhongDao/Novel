@@ -10,12 +10,13 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (4.353 字).
-2. Lục Trạch (陆泽) bắt tay vào dùng Tâm Lưu Giải Cấu Dữ Thôi Diễn Công Phường làm tựa game ma tính độc lập đầu tay trong 72 giờ để kiếm tiền trả nợ 18.000 tệ tiền nhà trước hạn thứ Hai.
-3. Soạn brief trần và chạy đoạn 002 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 002](doc/lo-002.md) (4.379 字).
+2. Lão Quỷ (老鬼) livestream trải nghiệm 《Hấp Huyết Quỷ Hạnh Tồn Giả》, đối mặt với bão quái và cơ chế ma tính gây nghiện trước hàng ngàn người xem.
+3. Soạn brief trần và chạy đoạn 003 theo quy trình.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |

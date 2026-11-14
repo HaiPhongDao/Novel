@@ -1,26 +1,24 @@
-<!-- state-through: 001 -->
+<!-- state-through: 002 -->
 
 ## Nhân vật
-- **陆泽 (Lục Trạch):** 24 tuổi, chủ kiêm thành viên duy nhất còn lại của 萤火虫工作室 (Đom Đóm Studio). Kiếp trước là资深主策划 cày cuốc 996 (9.960 giờ làm thêm) đột tử.
+- **陆泽 (Lục Trạch):** 24 tuổi, chủ kiêm thành viên duy nhất của 萤火虫工作室 (Đom Đóm Studio).
+- **老鬼 (Lão Quỷ):** Streamer kỹ thuật bậc 2 mảng game console trên nền tảng 猫爪直播 (Mao Trảo Trực Bá), vài chục vạn fan.
 
-## Nhân sự & Cơ sở
-- **Nhân sự cũ:** 2 đồng sáng lập/cộng sự (trong đó có Tiểu Lâm) đã để lại thư từ chức và thẻ từ sáng nay để đi phỏng vấn làm out-source cho đại xưởng vì bị nợ 2 tháng lương.
-- **Địa điểm:** Văn phòng 萤火虫工作室, 60m2, 4 bàn làm việc bừa bộn, 3 máy bị rút điện đóng bụi, chỉ còn máy của Lục Trạch.
+## Thời gian & Hạn chót
+- Đang là sáng ngày thứ 3.
+- Còn chưa đầy 48 tiếng trước hạn chót bà chủ nhà đến thay khóa đòi văn phòng và siết nợ máy tính.
 
-## Tài chính & Nợ nần
-- **Tiền mặt trong thẻ:** 342.50 tệ.
-- **Các khoản nợ gấp trong 2-5 ngày (tổng gần 30.000 tệ):**
-  - Tiền thuê văn phòng nợ bà chủ: 18.000 tệ + điện nước 1.200 tệ (đã trễ 1 tuần, hạn chót thứ Hai tới tức còn 5 ngày nữa sẽ bị thay khóa đuổi đi và tịch thu máy tính).
-  - Vay trực tuyến phân kỳ: 8.640 tệ (còn 2 ngày đến hạn).
-  - Phí ủy quyền engine thương mại cơ sở: 1.500 tệ (còn 2 ngày đến hạn khấu trừ).
-  - Tổng nợ phân kỳ ngoài xã hội: khoảng mười vạn tệ.
+## Tài chính & Tồn kho
+- **Tiền mặt trong người:** 342.50 tệ (vừa xuống lầu mua 2 suất bánh cuốn rán lót dạ).
+- **Hệ thống (心流解构与推演工坊):**
+  - Điểm ban đầu: 99.600 điểm.
+  - Đã tiêu: 8.000 điểm trích xuất logic 《吸血鬼幸存者》 + 1.000 điểm chạy sa bàn ảo 100 người = 9.000 điểm.
+  - Điểm tâm lưu còn lại: 90.600 điểm.
 
-## Bàn tay vàng (Hệ thống)
-- **Hệ thống:** 【心流解构与推演工坊】 (Tâm Lưu Giải Cấu Dữ Thôi Diễn Công Phường).
-- **Điểm tâm lưu hiện có:** 99.600 điểm (tương ứng 9.960 giờ OT kiếp trước, tỷ lệ 10:1). Chưa tiêu hao điểm nào.
-- **Tính năng khả dụng:**
-  - 【核心玩法逆推库】: Trích xuất logic khung vòng lặp, công thức số trị, nhịp điệu tâm lưu, đường cong thao tác của game kinh điển Trái Đất để nạp vào công cụ làm game.
-  - 【虚拟玩家沙盒推演】: 1.000 điểm/100 người chơi ảo, mô phỏng trải nghiệm người chơi, dự báo lưu giữ D2/D7, đo đường cong cảm xúc, cảnh báo gãy số trị.
+## Dự án & Sản phẩm
+- **Game đã hoàn thiện & phát hành:** 《吸血鬼幸存者》 (Alpha 0.9 hoàn thiện, dung lượng ~800MB, phong cách Gothic 2.5D, cơ chế tự động đánh, nhặt ngọc tăng cấp 3 chọn 1, ghép siêu vũ khí, tối ưu nhịp quái và giảm 5% sát thương tỏi theo sa bàn ảo).
+- **Nền tảng:** Đã upload lên 【游星平台】 (kênh duyệt tự động AI 2 tiếng).
+- **Giá bán:** Giá gốc 18 tệ, giảm giá 10% còn 16.2 tệ. Slogan: "Chỉ cần thao tác một tay. Sống sót qua 30 phút, tính tôi thua."
 
-## Điểm dừng đoạn 001
-- Lục Trạch xác lập mục tiêu 4 điều kiện nghiêm ngặt: làm 1 mình, hoàn thành trong 3 ngày (72 giờ), không tốn tiền quảng cáo, tuần đầu kiếm về $\ge 20.000$ tệ qua 【游星平台】 (chia sẻ tiền về trong 3 ngày) để trả tiền nhà và nợ nần. Hắn đã chọn xong tựa game kinh điển ma tính ("chơi thêm ván nữa") từ tiền kiếp, kéo rèm, bật máy tính bắt tay khai công.
+## Điểm dừng đoạn 002
+- Streamer Lão Quỷ (老鬼) trên 猫爪直播 vừa bực bội vì game 3A rác 268 tệ, thấy 《吸血鬼幸存者》 giá 18 tệ với slogan thách thức nên mua và tải về trong 2 giây, lập flag nuốt bàn phím nếu không thông quan, rồi nhấn nút 【Khởi động game】 trước hàng ngàn khán giả xem trực tiếp.
