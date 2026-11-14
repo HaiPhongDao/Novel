@@ -10,8 +10,8 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (3.476 字).
-2. Tô Thần (苏晨) bắt tay vào dùng 官方通用编辑器 làm trò chơi đầu tiên dưới 30MB để nộp dự thi “新人扶持季·微型创意赛”, giải quyết bài toán nợ tiền nhà 1.500 tệ trong 4 ngày tới.
+1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (4.730 字).
+2. Cố Phàm (顾凡) bắt tay vào dùng Sáng Thế Biên Tập Khí (创世游戏编辑器) làm tựa game độc dược số trị gặt cỏ đầu tay để giải quyết áp lực nợ 30.000 tệ trong 7 ngày tới cho Dã Hỏa Studio.
 3. Soạn brief trần và chạy đoạn 002 theo quy trình.
 
 ## Trạng thái

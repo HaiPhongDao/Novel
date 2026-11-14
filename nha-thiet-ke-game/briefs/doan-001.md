@@ -1,4 +1,4 @@
 Viết đoạn mở đầu của truyện, khoảng 3.000 字, bằng tiếng Trung.
 Thể loại: đô thị, thế giới song song, làm game; MC xuyên việt mang theo bàn tay vàng.
-MC là một người làm game kiếp trước đột tử vì tăng ca, tỉnh dậy ở một thế giới mà ngành game đi lệch hướng, thân phận mới gần hết tiền và có đúng một cơ hội để được công nhận là nhà thiết kế game.
-Dừng ở lúc MC tìm hiểu xong hoàn cảnh hiện tại và bàn tay vàng, chuẩn bị bắt tay vào thiết kế trò chơi đầu tiên.
+MC là một người làm game kiếp trước đột tử vì tăng ca, tỉnh dậy ở thế giới song song ngành game đi lệch hướng, tiếp quản một studio game độc lập bên bờ vực phá sản với khoản nợ cận kề và nhân viên vừa bỏ đi.
+Dừng ở lúc MC nắm rõ tình cảnh của studio và bàn tay vàng, chuẩn bị bắt tay vào thiết kế trò chơi độc lập đầu tiên để cứu vãn tình thế.
