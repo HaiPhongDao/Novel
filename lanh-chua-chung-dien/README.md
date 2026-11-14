@@ -11,7 +11,7 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [008](doc/lo-008.md). Rian chốt hợp đồng 90 kim tệ với Corbin, quy hóa 34 dân mới (đạt 54 dân), sáng chế cày sắt trục mỏ kéo bằng lừa và đốt hoang hun đất để cày lật 50 mẫu đất đen.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [009](doc/lo-009.md). Rian hoàn tất gieo hạt 50 mẫu ruộng, mở khóa 【春耕之利】; đại đầu mục "Chó Điên" Garrick mang 15 kỵ mã tặc tới báo thù, bị Rian kích hoạt 【雷霆突袭】 xông trận chém giết tan tác trước cổng Coldrock.
 3. Tiếp tục sản xuất các đoạn tiếp theo trong lô.
 
 ## Trạng thái
@@ -26,3 +26,4 @@
 | 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | [`chapters/doan-006.md`](chapters/doan-006.md) | Chờ Tác giả nghe | — |
 | 007 | [`briefs/doan-007.md`](briefs/doan-007.md) | [`chapters/doan-007.md`](chapters/doan-007.md) | Chờ Tác giả nghe | — |
 | 008 | [`briefs/doan-008.md`](briefs/doan-008.md) | [`chapters/doan-008.md`](chapters/doan-008.md) | Chờ Tác giả nghe | — |
+| 009 | [`briefs/doan-009.md`](briefs/doan-009.md) | [`chapters/doan-009.md`](chapters/doan-009.md) | Chờ Tác giả nghe | — |

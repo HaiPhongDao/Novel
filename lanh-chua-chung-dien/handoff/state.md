@@ -1,13 +1,16 @@
-<!-- state-through: 008 -->
+<!-- state-through: 009 -->
 
-## Cuối đoạn 008 — nháp
+## Cuối đoạn 009 — nháp
 
-- Thời điểm & Địa điểm: Ngày thứ bảy tại dải đất hoang phía nam Coldrock.
-- Giao thương & Tài chính:
-  + Thanh toán da thú với Corbin: 20 da cáo lửa, 60 da sói, 30 da bò rừng, quặng đồng trị giá 90 kim tệ.
-  + Rian thu 60 kim tệ tiền mặt, để lại 30 kim tệ làm tiền cọc buộc Corbin tháng sau chở về 2.000 cân giống đại mạch, 500 cân muối tinh, 2.000 cân sắt thỏi, 20 rìu và 50 lưỡi xẻng bọc sắt.
-- Quy hóa dân số & Khai khẩn 50 mẫu (hướng tới 【春耕之利】):
-  + 34 phụ nữ và trẻ em nô lệ được phân nhà ở, cấp áo ấm, ăn chung nồi súp thịt, chính thức quy hóa thành lãnh dân Coldrock (tổng dân số đạt 54 người, đủ điều kiện >50 người).
-  + Kỹ thuật khai hoang đột phá: Đào hào cách ly đốt hoang hun đất để lấy tro bón ruộng và rã đông đất đen; chế tạo 2 bộ cày nặng phá đất bằng trục sắt xe mỏ + cuốc người lùn; dùng 4 con lừa kéo cày lật đất đóng băng, 30 phụ nữ đi sau nhặt đá, chặt rễ và đập vụn đất trộn tro.
-- Cảnh dừng: Đất đen màu mỡ được lật tung nhanh chóng, 50 mẫu đất đang được khai phá thần tốc trước mùa xuân.
-- Từ điều: Đang trang bị 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, 【雷霆突袭（绿色）】. Đang làm điều kiện mở 【春耕之利（绿色）】 (đã đủ 50 dân quy hóa, đang hoàn thành 50 mẫu đất cày).
+- Thời điểm & Địa điểm: Hoàng hôn ngày thứ sáu tại con dốc trước cổng thành Coldrock.
+- Canh tác mùa xuân & Mở khóa 【春耕之利】:
+  + Rian dùng thuật chọn giống bằng nước muối lọc sạch hạt lép, gieo trồng hoàn tất 50 mẫu (30 mẫu đại mạch, 15 mẫu hắc mạch, 5 mẫu củ cải).
+  + Đạt đủ 2 chỉ tiêu (54/50 dân quy hóa, 50/50 mẫu đất gieo hạt), mở khóa và nạp 【春耕之利（绿色）】 (tỷ lệ nảy mầm +30%, chống sương giá +40%, chu kỳ rút ngắn 15%, sản lượng +20%).
+  + Điều kiện tiếp theo: Tiêu diệt tàn quân Hắc Khuyển và trảm sát đại đầu mục "Chó Điên" Garrick -> mở khóa 【百战精锐（绿色）】.
+- Corbin Goldscale khởi hành: Bàn giao 60 kim tệ tiền mặt cho Vargas, mang da thú về pháo đài biên giới, hẹn tháng sau chở giống, muối, sắt thỏi và công cụ quay lại.
+- Trận quyết chiến trước cổng thành:
+  + Đại đầu mục Garrick mang 15 kỵ mã tặc điên cuồng báo thù xông tới Coldrock.
+  + Bane trên tháp tên bắn hạ tên đi đầu và bắn gãy chân ngựa làm loạn đội hình giặc ở cự ly 100m.
+  + Rian kích hoạt 【雷霆突袭（绿色）】, mở toang cổng thành dẫn Vargas, Kroll cưỡi chiến mã xông ra phản xung phong; kiếm 12 cân chém đôi 1 tên cướp và chém bay đầu tên thứ 2, đánh tan nát sĩ khí quân giặc.
+  + Cảnh dừng: Rian vung kiếm bổ thẳng xuống đầu đại đầu mục Garrick đang kinh hoàng tột độ.
+- Từ điều: Đã trang bị 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, 【雷霆突袭（绿色）】, 【春耕之利（绿色）】. Đang làm điều kiện mở 【百战精锐（绿色）】.
