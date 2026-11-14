@@ -11,8 +11,8 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [011](doc/lo-011.md). Rian chỉ đạo luyện kim và rèn 20 món quân giới, mở khóa 【百炼精钢】; trang bị giáo dài huấn luyện đội hình 20 người theo 【百战精锐】; dẫn toàn quân xuất kích cứu 50–60 nô lệ mỏ sắt đang bị bầy khủng lang 30 con truy đuổi.
-3. Tiếp tục sản xuất các đoạn tiếp theo trong lô.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [012](doc/lo-012.md). Rian tiêu diệt bầy khủng lang 28 con, giải cứu 58 nô lệ mỏ đưa dân số Coldrock vượt 112 người; thu thập tin tức mỏ sắt đỏ và đá vôi ở vách đá tây bắc, chuẩn bị xây dựng tiền đồn ngoại vi để hoàn tất mở khóa 【人丁初兴（绿色）】.
+3. Chờ Tác giả nghe và duyệt chốt các lô đã chạy.
 
 ## Trạng thái
 
@@ -29,3 +29,4 @@
 | 009 | [`briefs/doan-009.md`](briefs/doan-009.md) | [`chapters/doan-009.md`](chapters/doan-009.md) | Chờ Tác giả nghe | — |
 | 010 | [`briefs/doan-010.md`](briefs/doan-010.md) | [`chapters/doan-010.md`](chapters/doan-010.md) | Chờ Tác giả nghe | — |
 | 011 | [`briefs/doan-011.md`](briefs/doan-011.md) | [`chapters/doan-011.md`](chapters/doan-011.md) | Chờ Tác giả nghe | — |
+| 012 | [`briefs/doan-012.md`](briefs/doan-012.md) | [`chapters/doan-012.md`](chapters/doan-012.md) | Chờ Tác giả nghe | — |
