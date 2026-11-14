@@ -11,7 +11,7 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md), [003](doc/lo-003.md), [004](doc/lo-004.md). Rian tiếp đón Corbin Goldscale, thu thuế và dùng bẫy vôi sống nung nóng kết hợp hỏa tiễn thiêu rụi đội kỵ tặc Hắc Khuyển do Gorak dẫn đầu tại cổng Coldrock.
+2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md), [003](doc/lo-003.md), [004](doc/lo-004.md), [005](doc/lo-005.md). Rian thanh trừng kỵ tặc, thu 13 ngựa chiến và 2.500 cân thịt ngựa, tra khảo Gorak về sào huyệt Hắc Khuyển; hoàn thành tháp tên và tường đá vữa vôi, mở khóa từ điều xanh lục 【坚固壁垒】.
 3. Tiếp tục sản xuất các đoạn kế tiếp theo lô.
 
 ## Trạng thái
@@ -22,3 +22,4 @@
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |
+| 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) | Chờ Tác giả nghe | — |
