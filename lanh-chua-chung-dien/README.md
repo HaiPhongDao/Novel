@@ -11,8 +11,8 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md) (bản viết lại với brief trần). Rian trang bị 【领袖威严】, tổ chức phòng thủ đêm đầu và sáng hôm sau cùng Vargas, Kroll, Bane săn lợn rừng khổng lồ giải quyết nạn thịt, mở khóa 【荒野嗅觉】.
-3. Chờ Tác giả góp ý hoặc duyệt chốt để cập nhật State và viết tiếp đoạn 003.
+2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md) và [bản đọc đoạn 003](doc/lo-003.md). Rian chia thịt lợn rừng, cho nung vôi và đào móng tháp tên, đón đoàn thương buôn tị nạn cướp tới Coldrock.
+3. Tiếp tục sản xuất các đoạn kế tiếp theo lô.
 
 ## Trạng thái
 
@@ -20,3 +20,4 @@
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Đã nghe | ✅ Chốt 14/11 |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
+| 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |

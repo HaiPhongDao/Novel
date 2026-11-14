@@ -12,3 +12,4 @@
 2026-11-14 | doan-001 | Chốt bản có Rian, Coldrock và tên Latin. | Duyệt: Tác giả
 
 2026-11-14 | doan-002 | Viết lại bằng brief trần theo yêu cầu Tác giả (không áp đặt kịch bản), dùng state đoạn 001. Writer tự phát triển mạch: trang bị 【领袖威严】, phân công gác đêm, sáng sau đưa Vargas, Kroll, Bane đi săn lợn rừng khổng lồ ~400 cân bằng bẫy cự mã, mở khóa 【荒野嗅觉（白色）】. Bản 5.083 字 đạt XANH. | Chờ Tác giả nghe
+2026-11-14 | doan-003 | Brief trần + state mốc 002. Rian nạp 【荒野嗅觉】, khao thịt cả lãnh địa, xây lò vôi và đào móng dựng tháp tên / vá tường ngoài cho 【坚固壁垒（绿色）】; chiều muộn phát hiện đoàn buôn bị cướp đuổi chạy tới xin tị nạn. Bản 6.176 字 đạt XANH. | Chờ Tác giả nghe
