@@ -10,3 +10,5 @@
 2026-11-14 | 001 | Thêm điểm dừng lúc bắt đầu chuẩn bị bữa tối và yêu cầu tên Latin trong Brief. Gemini 3.8 Flash (High) viết bản mới 4.220 字. Hai sub-agent rà và sửa tại chỗ ở cả bản đã nghe và bản mới. Xem `reviews/doan-001-sua-cau.md` | Tác giả nhận ra Writer bám nhiều mô-típ của anchor và DocTTS đọc vấp 拢齐 | nháp chờ nghe
 
 2026-11-14 | doan-001 | Chốt bản có Rian, Coldrock và tên Latin. | Duyệt: Tác giả
+
+2026-11-14 | doan-002 | Sub-agent rút State từ 001, đặt hiệu ứng 【领袖威严】 vào brief, chạy Writer và rà bản thảo. Bản 002 dừng khi nước tuyết tràn vào qua khe dưới chân tường bắc. | Ghi hiệu ứng đã kiểm chứng cùng điều kiện mở từ khóa kế tiếp vào State | Chờ Tác giả nghe

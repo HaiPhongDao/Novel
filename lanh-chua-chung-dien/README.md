@@ -11,10 +11,12 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Viết đoạn 002 nối ngay lúc bắc nồi ở Coldrock. Rian mở bảng xem và thử hiệu ứng của 【领袖威严】.
+2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md). Rian mở bảng xem và thử hiệu ứng của 【领袖威严】.
+3. [State cuối 002](handoff/state.md) ghi hiệu ứng hệ thống, số lương và chỗ nối khi phát hiện nước tuyết lọt qua chân tường bắc.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Đã nghe | ✅ Chốt 14/11 |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
