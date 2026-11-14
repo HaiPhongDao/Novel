@@ -10,12 +10,12 @@
 
 ## Việc kế
 
-1. Tác giả duyệt (hoặc sửa) dòng 3 của brief 001: MC là ai, đang kẹt chuyện gì.
-2. Bài hiệu chuẩn (QUY-TRINH mục 5): `lam.py ban nha-thiet-ke-game 1` → hai bản, Tác giả nghe. Tối đa 2 vòng.
-3. Ghi canon theo bản được chọn vào `handoff/canon-card.md`, rồi vào làn sản xuất.
+1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (3.476 字).
+2. Tô Thần (苏晨) bắt tay vào dùng 官方通用编辑器 làm trò chơi đầu tiên dưới 30MB để nộp dự thi “新人扶持季·微型创意赛”, giải quyết bài toán nợ tiền nhà 1.500 tệ trong 4 ngày tới.
+3. Soạn brief trần và chạy đoạn 002 theo quy trình.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) (đề xuất) | — | — | — |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
