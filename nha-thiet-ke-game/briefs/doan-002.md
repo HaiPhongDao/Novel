@@ -1,1 +1,1 @@
-Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung.
+Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung. Lục Trạch chọn làm tựa game thẻ bài roguelike bùng nổ số trị 《小丑牌》（Balatro）.
