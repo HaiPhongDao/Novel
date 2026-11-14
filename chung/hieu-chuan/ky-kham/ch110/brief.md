@@ -1,0 +1,5 @@
+Viết cảnh sau bằng tiếng Trung giản thể, khoảng 2.100–2.500 chữ Hán.
+
+Tại chiến trường phía tây của Pháp Lan Khắc, tướng 罗伯森 đang nói chuyện với linh hồn pháp sư 弗兰 trú trong một mặt dây chuyền. Quân thú nhân xung quanh vừa tan vỡ. 弗兰 muốn nhờ anh dùng ma tinh giúp mình có lại cơ thể. Ông nhớ mình có một sứ mệnh liên quan đến nhân tộc nhưng đã quên nội dung. 罗伯森 thấy một đại pháp sư có thể giúp mình, nhưng ma tinh tốn tiền và anh chưa biết rõ lai lịch người này.
+
+Khi được hỏi lấy gì bảo đảm, 弗兰 thề với 维达希尔. 罗伯森 biết giáo hội coi vị thần này là tà thần. Pháp sư đề nghị lập khế ước hoặc dùng sức mạnh anh vừa cảm thấy để ràng buộc mình. 罗伯森 chọn cả hai. Anh có sẵn vật liệu và dùng mẫu khế ước thuê mướn thông thường, đề thời hạn năm mươi năm. Pháp sư phản đối vì còn sứ mệnh. 罗伯森 lấy việc mình đang giữ tuyến đầu cho nhân tộc để thuyết phục ông; đồng thời anh tin mười năm đã đủ học những gì cần từ ông. Anh hạ thời hạn xuống mười năm và hứa về sau sẽ ủng hộ việc ông muốn làm. Cảnh dừng khi 弗兰 đặt dấu ấn linh hồn lên khế ước.
