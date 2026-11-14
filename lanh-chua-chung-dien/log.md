@@ -6,3 +6,5 @@
 2026-11-14 | gemini/ | SI dựng bằng `gemini/dung_si.py`, cùng khung manga-bong-bong (lời tiếng Trung, không BANS, một dòng nhóm chữ nhấn; mục 二 có ý "MC nghĩ về việc xuyên qua và nhìn thời đại bằng mắt người 蓝星" theo yêu cầu cố định của Tác giả cho truyện xuyên việt). Bảy anchor nguyên văn ch1, ch2–3, ch5, ch6, không chứa chữ nhấn nào trong nhóm 实打实/整整/猛地…; 5.833 ký tự, 73% anchor. Chưa có bản nào Tác giả nghe | — | chờ Tác giả
 
 2026-11-14 | 001 | Writer Gemini 3.8 Flash (High) chạy hai lần với cùng SI và brief ba dòng. Bản đầu 5.434 字, lưu vào `archive/`. Dùng bản sau để nghe, 4.933 字 sau khi sửa nhất quán số người, địa điểm, diện tích khai hoang và cách gọi kinh đô | chọn bản gần mốc 3.000 字 hơn | chờ Tác giả
+
+2026-11-14 | 001 | Thêm điểm dừng lúc bắt đầu chuẩn bị bữa tối và yêu cầu tên Latin trong Brief. Gemini 3.8 Flash (High) viết bản mới 4.220 字. Hai sub-agent rà và sửa tại chỗ ở cả bản đã nghe và bản mới. Xem `reviews/doan-001-sua-cau.md` | Tác giả nhận ra Writer bám nhiều mô-típ của anchor và DocTTS đọc vấp 拢齐 | nháp chờ nghe
