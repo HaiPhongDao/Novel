@@ -9,11 +9,12 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) (4.068 字). Cố Tu (顾修) thức tỉnh 【至高词缀师】 với không gian thăng cấp rõ ràng: lỗ khảm theo phẩm phôi x2, 2 từ điều hợp 1 bậc cao hơn, cấp 1–10 giới hạn tối đa từ điều bậc 3 (Lam); cầm 320 kim tệ tới phố đồ cũ tìm kiếm và phôi rác.
-2. Soạn brief trần và chạy đoạn 002 theo quy trình.
+1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) và [Bản đọc đoạn 002](doc/lo-002.md). Cố Tu (顾修) chi 210 kim tệ gom phôi rác hợp 2 từ điều bậc 3 lam khảm đầy 2 lỗ của đoản kiếm, đạt 90 sức mạnh, 160 công vật lý; một mình bước vào phó bản 【微风平原】 độ khó Ác Mộng (噩梦).
+2. Soạn brief trần và chạy đoạn 003 theo quy trình.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
