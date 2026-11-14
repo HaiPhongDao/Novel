@@ -9,7 +9,7 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md). Lâm Chu (林舟) thức tỉnh 【概念附魔师】 (Thần thoại cấp duy nhất), 100% thành công, vô hạn chồng từ điều, vạn vật hoá từ điều; chuẩn bị ra chợ trời khu Tây gom đồ phế liệu chế tạo vũ khí trước khi mở phó bản 【试炼荒原】.
+1. Chờ Tác giả nghe [Bản đọc đoạn 001](doc/lo-001.md) và [Bản đọc đoạn 002](doc/lo-002.md). Lâm Chu (林舟) chế tạo đoản kiếm gắn 3 từ điều khái niệm, một mình bước vào phó bản 【试炼荒原】 chọn độ khó 深渊 (Vực Sâu).
 2. Tiếp tục chạy sản xuất đoạn tiếp theo theo quy trình.
 
 ## Trạng thái
@@ -17,3 +17,4 @@
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
+| 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |

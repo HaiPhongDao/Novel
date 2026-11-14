@@ -1,22 +1,20 @@
-<!-- state-through: 001 -->
+<!-- state-through: 002 -->
 
 ## Nhân vật
-- **林舟 (Lâm Chu):** 18 tuổi, học sinh trường Giang Thành Nhất Trung (江城一中). Điểm lý thuyết và chiến đấu mô phỏng hạng nhất toàn thành. Xuyên việt từ Địa Tinh (地星) được 18 năm, không gia thế.
-- **赵恺 (Triệu Khải):** Bạn học cùng trường, con nhà buôn quặng lớn nhất Giang Thành.
+- **林舟 (Lâm Chu):** 18 tuổi, LV.1, nghề công khai 【附魔师】 (thực chất 【概念附魔师】). Mang đoản kiếm sắt thô mẻ góc gắn 3 từ điều khái niệm giấu dưới áo.
+- **赵恺 (Triệu Khải):** Mặc giáp nhẹ tinh cương, kiếm tinh lương cấp 3 (trị giá hơn 10 vạn kim tệ), dẫn theo 2 đồng đội (khiên chiến, pháp sư nguyên tố), mục tiêu lập kỷ lục độ khó Khó (困难).
+- **Giáo đạo chủ nhiệm Nhất Trung:** Đứng tại cổng phó bản nhắc nhở quy định tổ đội nghề phụ trợ, bị Lâm Chu viện dẫn Điều 3 Luật Chuyển Chức liên bang để đi đơn nhân.
 
-## Nghề nghiệp & Trạng thái
-- **Nghề công khai:** 【附魔师】 (Phụ ma sư - nghề phụ trợ thông thường).
-- **Nghề thực tế:** 【概念附魔师】 (Khái Niệm Phụ Ma Sư - Thần thoại cấp · Duy nhất).
-- **Thuộc tính LV.1:** 力量 12, 敏捷 11, 体质 13, 精力 25/25.
-- **Thiên phú bị động:**
-  1. 【神律裁定】: Tỉ lệ phụ ma/dung hợp từ điều bắt buộc 100%, bỏ qua chênh lệch cấp độ và phẩm giai vật liệu, tuyệt đối miễn nhiễm phản phệ thất bại.
-  2. 【无限载体】: Xoá bỏ giới hạn số lượng từ điều trên mọi trang bị/khí vật, có thể vô hạn điệp gia từ điều.
-  3. 【概念编织】: Vạn sự vạn vật, khái niệm quái vật bị giết, hiện tượng, logic trừu tượng đều có thể chiết xuất thành từ điều.
-- **Kỹ năng khởi đầu:** 【超位赋灵】 (LV.1): Tiêu hao 10 tinh lực, gán 1 từ điều khái niệm chuyên thuộc (ngẫu nhiên/định hướng). Vật liệu phẩm chất thấp tự kích hoạt bảo để thăng cách lên cực hạn cùng giai. Mỗi ngày dùng miễn phí không tốn tinh lực 3 lần.
+## Trang bị & Năng lực
+- **Vũ khí:** 【缺口的粗铁短剑】 (đoản kiếm sắt thô mẻ góc, LV.1, công vật lý +5, độ bền 11/30).
+  - Từ điều 1: 【灭绝剧毒】 (Khái niệm cấp): Đòn đánh gây 250 điểm sát thương chuẩn/giây trong 10 giây (tổng 2.500 sát thương chuẩn), vô hạn cộng dồn, không thể thanh tẩy.
+  - Từ điều 2: 【湮灭冲击】 (Khái niệm cấp): Đòn đánh kích nổ xung kích bán kính 15m, gây 125 sát thương hỗn hợp đất/lửa, đánh bay và gây cứng đờ 0.5s.
+  - Từ điều 3: 【无形之刃】 (Khái niệm cấp): Kéo dài tầm đánh 30m, trảm phong nhận chân không vô hình thuấn phát, tuyệt đối trúng đích.
+- **Kỹ năng:** 【超位赋灵】 (LV.1): Lượt dùng miễn phí hôm nay đã hết (0/3). Muốn dùng tiếp phải tiêu hao 10 điểm tinh lực/lần (tinh lực hiện có 25/25).
 
-## Tài sản & Tồn kho
-- **Tiền mặt:** 1.240 kim tệ (金币) trong tài khoản ngân hàng liên bang.
-- **Túi đồ tân thủ:** 【新手研磨钵】x1, 【劣质白纸符卷】x5, 【基础白墨水】x1. Không có vũ khí, không có kỹ năng tấn công ban đầu.
+## Tài chính & Tồn kho
+- **Số dư:** 780 kim tệ (chi 460 kim tệ gồm 120 đoản kiếm, 80 răng nhện, 150 hạch chó lửa, 100 lông vũ, 10 tiền trọ).
+- **Vật phẩm còn:** Túi đồ tân thủ (cối nghiền, giấy bùa, mực trắng).
 
-## Điểm dừng đoạn 001
-- Lâm Chu từ tốn cảm ơn pháp sư thủ trận, bước xuống tế đàn trước ánh mắt coi thường của đám đông, dự định đến chợ trời khu Tây Giang Thành (江城西区自由跳蚤市场) gom phế liệu và vũ khí rẻ tiền để chuẩn bị trước khi phó bản tân thủ 【试炼荒原】 mở lúc 2 giờ chiều.
+## Điểm dừng đoạn 002
+- Tại bia đá truyền tống phó bản tân thủ 【试炼荒原】 (ngoại ô nam Giang Thành), Lâm Chu đi đơn nhân và chọn độ khó cao nhất: 【试炼荒原（深渊模式）】 (Vực Sâu / Thâm Uyên: quái +300% thuộc tính, 100% cuồng bạo, trùm có hào quang áp chế). Cổng truyền tống đang tải vào phó bản, toàn trường lặng ngắt như tờ.
