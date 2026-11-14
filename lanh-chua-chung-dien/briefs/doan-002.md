@@ -1,3 +1,2 @@
-Viết tiếp ngay lúc nồi sắt vừa nổi bọt ở Coldrock, khoảng 2.500 字, bằng tiếng Trung. Tên riêng viết bằng chữ Latin, giữ nguyên cách viết đã có.
-Rian mở bảng và trang bị 【领袖威严（白色）】. Hiện rõ hiệu ứng: hiệu lệnh trực tiếp nói bằng giọng thường được người Rian gọi đích danh nghe rõ trong phạm vi 20 bước, cùng khoảng trống; vách kín chặn tiếng và người nghe tự quyết làm theo. Cho Rian kiểm chứng ngay khi nhóm Vargas chèn lại chỗ gió lùa phía bắc. 【坚韧之躯（白色）】 vẫn tăng 20% thể chất cơ bản và tăng nhẹ sức chịu rét, chịu mệt của Rian.
-Dừng khi nhóm vừa chắn được gió nhưng nhấc miếng ván lên thì lộ ra nước tuyết đang chảy qua khe dưới chân tường bắc.
+Viết tiếp đoạn tiếp theo, khoảng 2.500 字, bằng tiếng Trung.
+Viết mọi tên riêng trong chính văn bằng chữ Latin, gồm tên người, địa danh, gia tộc và phe phái, giữ nguyên cách viết đã có.

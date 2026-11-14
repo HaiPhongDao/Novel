@@ -5,8 +5,3 @@
 - Lúc kiểm kê có 420 斤 hắc mạch, 180 斤 yến mạch, 25 斤 thịt muối, 15 斤 muối, 300 斤 hạt đại mạch xuân và 40 斤 hạt củ cải. Mỗi ngày ăn 30 斤 thì 600 斤 ngũ cốc đủ 20 ngày, còn khoảng 70 ngày tới lúc có củ cải. Rian dành riêng hạt giống để gieo.
 - 【坚韧之躯（白色）】 mở khi đặt chân vào đất phong và định ranh lần đầu. Rian đã trang bị, tăng 20% thể chất cơ bản, tăng nhẹ sức chịu lạnh và mệt. 【领袖威严（白色）】 mở khi đã chia khẩu phần lần đầu và bước đầu lập trật tự. Ở cuối 001, Rian mới thấy thông báo mở khóa.
 - Cuối đoạn 001, Rian đã định khẩu phần đêm đầu. Người của Coldrock vừa nhóm lửa và bắc nồi.
-
-## Bổ sung theo nháp 002 — chờ Tác giả nghe
-
-- 【领袖威严（白色）】 đã trang bị. Trong cùng khoảng trống, người được Rian gọi đích danh trong phạm vi 20 bước nghe rõ hiệu lệnh dù có tiếng ồn. Rian nói bằng giọng thường. Vách kín chặn tác dụng. Người nghe tự quyết làm theo. Rian đã thử thành công với Kroll ở cách 18 bước trong gió.
-- Điều kiện kế tiếp là xử lý dứt điểm nguy cơ chết người đầu tiên ở thành chính và qua đêm đầu, để mở 【洞察之眼（白色）】. Cuối 002 chưa mở và hiệu ứng chưa hiện.

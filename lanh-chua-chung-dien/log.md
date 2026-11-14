@@ -11,4 +11,4 @@
 
 2026-11-14 | doan-001 | Chốt bản có Rian, Coldrock và tên Latin. | Duyệt: Tác giả
 
-2026-11-14 | doan-002 | Sub-agent rút State từ 001, đặt hiệu ứng 【领袖威严】 vào brief, chạy Writer và rà bản thảo. Bản 002 dừng khi nước tuyết tràn vào qua khe dưới chân tường bắc. | Ghi hiệu ứng đã kiểm chứng cùng điều kiện mở từ khóa kế tiếp vào State | Chờ Tác giả nghe
+2026-11-14 | doan-002 | Viết lại bằng brief trần theo yêu cầu Tác giả (không áp đặt kịch bản), dùng state đoạn 001. Writer tự phát triển mạch: trang bị 【领袖威严】, phân công gác đêm, sáng sau đưa Vargas, Kroll, Bane đi săn lợn rừng khổng lồ ~400 cân bằng bẫy cự mã, mở khóa 【荒野嗅觉（白色）】. Bản 5.083 字 đạt XANH. | Chờ Tác giả nghe

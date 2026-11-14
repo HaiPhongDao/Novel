@@ -11,8 +11,8 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md). Rian mở bảng xem và thử hiệu ứng của 【领袖威严】.
-3. [State cuối 002](handoff/state.md) ghi hiệu ứng hệ thống, số lương và chỗ nối khi phát hiện nước tuyết lọt qua chân tường bắc.
+2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md) (bản viết lại với brief trần). Rian trang bị 【领袖威严】, tổ chức phòng thủ đêm đầu và sáng hôm sau cùng Vargas, Kroll, Bane săn lợn rừng khổng lồ giải quyết nạn thịt, mở khóa 【荒野嗅觉】.
+3. Chờ Tác giả góp ý hoặc duyệt chốt để cập nhật State và viết tiếp đoạn 003.
 
 ## Trạng thái
 
