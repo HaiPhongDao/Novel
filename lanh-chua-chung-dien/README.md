@@ -11,7 +11,7 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [010](doc/lo-010.md). Rian trảm sát "Chó Điên" Garrick, mở khóa 【百战精锐】; thu 13 chiến mã (tổng 30 ngựa) và >160 kim tệ ngân khố; xây lò cao luyện sắt với bễ thổi đôi và thu nhận thợ rèn Torin, bắt đầu rèn đúc 20 món quân giới cho 【百炼精钢】.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [011](doc/lo-011.md). Rian chỉ đạo luyện kim và rèn 20 món quân giới, mở khóa 【百炼精钢】; trang bị giáo dài huấn luyện đội hình 20 người theo 【百战精锐】; dẫn toàn quân xuất kích cứu 50–60 nô lệ mỏ sắt đang bị bầy khủng lang 30 con truy đuổi.
 3. Tiếp tục sản xuất các đoạn tiếp theo trong lô.
 
 ## Trạng thái
@@ -28,3 +28,4 @@
 | 008 | [`briefs/doan-008.md`](briefs/doan-008.md) | [`chapters/doan-008.md`](chapters/doan-008.md) | Chờ Tác giả nghe | — |
 | 009 | [`briefs/doan-009.md`](briefs/doan-009.md) | [`chapters/doan-009.md`](chapters/doan-009.md) | Chờ Tác giả nghe | — |
 | 010 | [`briefs/doan-010.md`](briefs/doan-010.md) | [`chapters/doan-010.md`](chapters/doan-010.md) | Chờ Tác giả nghe | — |
+| 011 | [`briefs/doan-011.md`](briefs/doan-011.md) | [`chapters/doan-011.md`](chapters/doan-011.md) | Chờ Tác giả nghe | — |
