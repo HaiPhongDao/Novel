@@ -1,22 +1,22 @@
-<!-- state-through: 003 -->
+<!-- state-through: 001 -->
 
 ## Nhân vật
-- **林舟 (Lâm Chu):** Đạt cấp LV.5 (800/1500 EXP). Điểm cộng tự do dồn vào 精力 (Tinh lực). Hoàn thành đơn sát phó bản Vực Sâu, phá vỡ kỷ lục lịch sử đạt đánh giá Thần thoại (SSS).
-- **赵恺 (Triệu Khải):** Chuẩn bị vào phó bản thì bia đá phát thông cáo, chân cứng đờ giữa không trung, mặt chết lặng.
-- **Giáo đạo chủ nhiệm Nhất Trung:** Làm rơi vỡ máy truyền tin khi đang gọi xe cứu thương cho Lâm Chu.
-- **Đám đông quảng trường:** Hơn 3.000 học sinh, giáo viên, quân thủ bị, thám tử công hội chấn động tột độ trước thông báo 3 phút 12 giây.
+- **顾修 (Cố Tu):** 18 tuổi, học sinh trường Lâm Giang Nhất Trung (临江一中). Thủ khoa toàn trường lý thuyết và kiểm tra mô phỏng. Xuyên việt từ Địa Tinh (地星) được 18 năm, là trẻ mồ côi.
 
-## Cấp độ & Trạng thái
-- **Cấp độ:** LV.5 (800/1500).
-- **Tinh lực:** Tối thiểu 40 điểm (ở LV.4 là 40 điểm; hiệu quả từ điều tại mốc 40 tinh lực: 【灭绝剧毒】 400 sát thương chuẩn/giây/tầng; 【湮灭冲击】 bán kính 15m nổ 200 sát thương hỗn hợp).
-- **Vũ khí:** 【缺口的粗铁短剑】 (độ bền giảm nhẹ sau khi chém quái).
+## Nghề nghiệp & Quy tắc thăng cấp
+- **Nghề công khai:** 【刻印使（学徒级）】 (Khắc Ấn Sứ - học đồ cấp, hệ phụ trợ sinh hoạt, phẩm cấp F).
+- **Nghề thực tế:** 【至高词缀师】 (Chí Cao Từ Chuế Sư - Thần cấp · Duy nhất).
+- **Thuộc tính LV.1:** 力量 10, 敏捷 10, 体质 10, 精神 25 (tinh thần vượt trội nhờ thần hồn giác tỉnh).
+- **Kỹ năng cơ bản:** Thần cấp giám định, Trích xuất từ tố, Bóc tách từ tố, Chí cao nóng chảy (神级鉴定、词缀提取、词缀剥离、至高熔炼).
+- **Quy tắc nghề nghiệp (có không gian thăng cấp rõ ràng):**
+  1. 【孔位重构】: Lỗ khảm từ điều trên trang bị được x2. Trang bị trắng bình thường có 1 lỗ -> Cố Tu cầm mở được 2 lỗ; trang bị xanh lục mở 4 lỗ; muốn nhiều lỗ hơn phải có phôi phẩm chất cao hơn.
+  2. 【概率抹除】: Thao tác phụ ma, khắc ấn, bóc tách, đúc lại đạt tỉ lệ thành công 100%, không làm hỏng phôi.
+  3. 【词条升阶】: Cứ 2 từ điều cùng giai cùng thuộc tính hợp thành 1 từ điều bậc kế tiếp (Nhất giai Trắng -> Nhị giai Xanh lá -> Tam giai Lam -> Tứ giai Tím -> Ngũ giai Vàng -> Lục giai Đỏ...).
+  4. 【掌控阶限】: Bị giới hạn theo cấp nghề. Cấp 1–10 chỉ được thao túng từ điều Nhất giai đến Tam giai (Trắng, Xanh lá, Lam). Lên cấp 10 hoàn thành Nhất chuyển mới mở khoá thao túng từ điều Tứ giai (Tím).
 
-## Tài chính & Vật phẩm
-- **Tiền mặt:** 4.420 kim tệ (780 ban đầu + quái rơi 640 + thưởng thủ sát boss 3.000).
-- **Chiến lợi phẩm mới:**
-  - Vật liệu cấp Ám Kim: 【深渊魔核】 x1.
-  - Sách kỹ năng cấp Hoàng Kim: 《精神风暴》 x1.
-  - Vật liệu quái thường: da sói, răng sói.
+## Tài chính & Tồn kho
+- **Số dư:** 320 kim tệ (tiền làm thêm tại lò mổ ma thú).
+- Chưa có vũ khí (kiếm chế thức giá 200 kim tệ, phôi rác có từ điều giá 50–80 kim tệ/cái).
 
-## Điểm dừng đoạn 003
-- Bia đá ghi danh nổ bùng cột sáng暗金 toàn thành thông cáo kỷ lục: "Hạng 1: Lâm Chu (Phụ ma sư), thông quan 3 phút 12 giây, đánh giá SSS". Quảng trường chết lặng trong kinh hãi tột cùng trước khi bùng nổ chấn động.
+## Điểm dừng đoạn 001
+- Cố Tu cảm ơn giáo viên chủ trì, bước xuống đài giác tỉnh giữa tiếng cười nhạo của mọi người, rời trường hướng thẳng tới phố giao dịch đồ cũ (旧货交易街) để dùng 320 kim tệ mua kiếm và tìm phôi rác mang từ điều.

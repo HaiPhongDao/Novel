@@ -1,9 +1,11 @@
-## Thẻ thiết lập — Cố định từ đoạn 001–003
+## Thẻ thiết lập — Cố định từ đoạn 001 (bản mới)
 
-- **Nhân vật chính:** 林舟 (Lâm Chu), 18 tuổi, Giang Thành Nhất Trung (江城一中). Cấp độ hiện tại: LV.5.
-- **Thế giới:** Lam Tinh (蓝星), quy tắc trò chơi dung hợp hiện thực. Tiền tệ: kim tệ (金币).
-- **Nghề nghiệp:** Công khai là 【附魔师】 (Phụ ma sư), thực chất là 【概念附魔师】 (Khái Niệm Phụ Ma Sư, Thần thoại cấp · Duy nhất).
-- **Quy tắc phụ ma:** 100% thành công (神律裁定), vô hạn số lượng từ điều (无限载体), vạn vật hoá từ điều (概念编织).
-- **Vũ khí:** 【缺口的粗铁短剑】 (LV.1, công +5) gắn 3 từ điều khái niệm: 【灭绝剧毒】 (sát thương chuẩn theo Tinh lực x 10/s, vô hạn cộng dồn), 【湮灭冲击】 (nổ 15m Tinh lực x 5), 【无形之刃】 (tầm 30m phong nhận vô hình).
-- **Kỷ lục:** Đơn sát 【试炼荒原（深渊模式）】 trong 3 phút 12 giây, đánh giá Thần Thoại (SSS), bia đá toàn thành thông cáo.
-- **Chiến lợi phẩm then chốt:** 【深渊魔核】 (Ám Kim), 《精神风暴》 (Hoàng Kim).
+- **Nhân vật chính:** 顾修 (Cố Tu), 18 tuổi, trường Lâm Giang Nhất Trung (临江一中).
+- **Thế giới:** Toàn dân chuyển chức, tiền tệ là kim tệ (金币).
+- **Nghề nghiệp:** Công khai là 【刻印使】 (Khắc Ấn Sứ, cấp F), thực chất là 【至高词缀师】 (Chí Cao Từ Chuế Sư, Thần cấp duy nhất).
+- **Quy tắc từ điều & Thăng cấp nghề:**
+  - Lỗ khảm trang bị x2 theo phẩm chất phôi (Trắng = 2 lỗ, Xanh lục = 4 lỗ).
+  - Tỉ lệ thành công thao tác 100%.
+  - 2 từ điều cùng bậc cùng loại hợp thành 1 từ điều bậc cao hơn (Trắng -> Xanh lá -> Lam -> Tím -> Vàng -> Đỏ...).
+  - Giới hạn thao túng: Cấp 1–10 chỉ dùng từ điều bậc 1–3 (Trắng, Xanh lá, Lam); Cấp 10 (Nhất chuyển) mới mở khoá bậc 4 (Tím).
+- **Phó bản sơ cấp ngoài thành:** 【微风平原】 (Vi Phong Bình Nguyên), 【腐毒沼泽】 (Hủ Độc Chiểu Trạch). Yêu cầu trang bị vũ khí chế thức để vào.
