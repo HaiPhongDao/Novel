@@ -11,7 +11,7 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [009](doc/lo-009.md). Rian hoàn tất gieo hạt 50 mẫu ruộng, mở khóa 【春耕之利】; đại đầu mục "Chó Điên" Garrick mang 15 kỵ mã tặc tới báo thù, bị Rian kích hoạt 【雷霆突袭】 xông trận chém giết tan tác trước cổng Coldrock.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [010](doc/lo-010.md). Rian trảm sát "Chó Điên" Garrick, mở khóa 【百战精锐】; thu 13 chiến mã (tổng 30 ngựa) và >160 kim tệ ngân khố; xây lò cao luyện sắt với bễ thổi đôi và thu nhận thợ rèn Torin, bắt đầu rèn đúc 20 món quân giới cho 【百炼精钢】.
 3. Tiếp tục sản xuất các đoạn tiếp theo trong lô.
 
 ## Trạng thái
@@ -27,3 +27,4 @@
 | 007 | [`briefs/doan-007.md`](briefs/doan-007.md) | [`chapters/doan-007.md`](chapters/doan-007.md) | Chờ Tác giả nghe | — |
 | 008 | [`briefs/doan-008.md`](briefs/doan-008.md) | [`chapters/doan-008.md`](chapters/doan-008.md) | Chờ Tác giả nghe | — |
 | 009 | [`briefs/doan-009.md`](briefs/doan-009.md) | [`chapters/doan-009.md`](chapters/doan-009.md) | Chờ Tác giả nghe | — |
+| 010 | [`briefs/doan-010.md`](briefs/doan-010.md) | [`chapters/doan-010.md`](chapters/doan-010.md) | Chờ Tác giả nghe | — |

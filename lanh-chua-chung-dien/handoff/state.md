@@ -1,16 +1,15 @@
-<!-- state-through: 009 -->
+<!-- state-through: 010 -->
 
-## Cuối đoạn 009 — nháp
+## Cuối đoạn 010 — nháp
 
-- Thời điểm & Địa điểm: Hoàng hôn ngày thứ sáu tại con dốc trước cổng thành Coldrock.
-- Canh tác mùa xuân & Mở khóa 【春耕之利】:
-  + Rian dùng thuật chọn giống bằng nước muối lọc sạch hạt lép, gieo trồng hoàn tất 50 mẫu (30 mẫu đại mạch, 15 mẫu hắc mạch, 5 mẫu củ cải).
-  + Đạt đủ 2 chỉ tiêu (54/50 dân quy hóa, 50/50 mẫu đất gieo hạt), mở khóa và nạp 【春耕之利（绿色）】 (tỷ lệ nảy mầm +30%, chống sương giá +40%, chu kỳ rút ngắn 15%, sản lượng +20%).
-  + Điều kiện tiếp theo: Tiêu diệt tàn quân Hắc Khuyển và trảm sát đại đầu mục "Chó Điên" Garrick -> mở khóa 【百战精锐（绿色）】.
-- Corbin Goldscale khởi hành: Bàn giao 60 kim tệ tiền mặt cho Vargas, mang da thú về pháo đài biên giới, hẹn tháng sau chở giống, muối, sắt thỏi và công cụ quay lại.
-- Trận quyết chiến trước cổng thành:
-  + Đại đầu mục Garrick mang 15 kỵ mã tặc điên cuồng báo thù xông tới Coldrock.
-  + Bane trên tháp tên bắn hạ tên đi đầu và bắn gãy chân ngựa làm loạn đội hình giặc ở cự ly 100m.
-  + Rian kích hoạt 【雷霆突袭（绿色）】, mở toang cổng thành dẫn Vargas, Kroll cưỡi chiến mã xông ra phản xung phong; kiếm 12 cân chém đôi 1 tên cướp và chém bay đầu tên thứ 2, đánh tan nát sĩ khí quân giặc.
-  + Cảnh dừng: Rian vung kiếm bổ thẳng xuống đầu đại đầu mục Garrick đang kinh hoàng tột độ.
-- Từ điều: Đã trang bị 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, 【雷霆突袭（绿色）】, 【春耕之利（绿色）】. Đang làm điều kiện mở 【百战精锐（绿色）】.
+- Thời điểm & Địa điểm: Tối ngày thứ bảy tại xưởng rèn mới dựng ở hậu viện Coldrock.
+- Chiến thắng toàn diện diệt tặc & Khóa 【百战精锐】:
+  + Rian chém chết đại đầu mục "Chó Điên" Garrick, tiêu diệt toàn bộ 16 kỵ mã tặc Hắc Khuyển trước cổng.
+  + Đạt điều kiện, mở khóa và nạp 【百战精锐（绿色）】 (hiệu suất huấn luyện quân sự +50%, sĩ khí tối thiểu +30%, sát thương hiệp đồng tiểu đội +20%, năng lực cận chiến cá nhân của Rian tăng vọt).
+  + Thu chiến lợi phẩm: 13 ngựa thảo nguyên khỏe (tổng đàn ngựa đạt 30 con), 1.200 cân thịt ngựa gió, 1 giáp xích, 12 giáp da trâu, 16 đao, 4 giáo, 6 cung, 140 tên; tiền mặt thu 38 kim tệ (ngân khố Coldrock vượt mốc 160 kim tệ). Thủ cấp Garrick ướp muối đóng hộp chuẩn bị nộp pháo đài biên giới báo công lãnh thưởng.
+- Xây dựng xưởng rèn độc lập (hướng tới 【百炼精钢（绿色）】):
+  + Xây lò cao luyện sắt và bễ thổi pít-tông đôi (song động hoạt tắc phong tương).
+  + Tìm được thợ rèn: Thiếu niên Torin (17-18 tuổi, con trai thợ rèn biên cương, từng phụ tá thợ rèn người lùn 3 năm) được giao quản lý lò cao cùng 3 phụ nữ kéo bễ.
+  + Nhiệm vụ: Đúc mẻ mũi giáo sắt tiêu chuẩn đầu tiên trước hoàng hôn ngày mai.
+- Cảnh dừng: Lò cao rực lửa đỏ trời, mẻ gang/sắt đầu tiên bắt đầu sôi sục tại Coldrock.
+- Từ điều: Đang trang bị 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, 【雷霆突袭（绿色）】, 【春耕之利（绿色）】, 【百战精锐（绿色）】. Đang làm điều kiện mở 【百炼精钢（绿色）】 (rèn 20 món quân giới tiêu chuẩn).
