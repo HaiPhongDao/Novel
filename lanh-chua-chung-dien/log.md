@@ -8,3 +8,5 @@
 2026-11-14 | 001 | Writer Gemini 3.8 Flash (High) chạy hai lần với cùng SI và brief ba dòng. Bản đầu 5.434 字, lưu vào `archive/`. Dùng bản sau để nghe, 4.933 字 sau khi sửa nhất quán số người, địa điểm, diện tích khai hoang và cách gọi kinh đô | chọn bản gần mốc 3.000 字 hơn | chờ Tác giả
 
 2026-11-14 | 001 | Thêm điểm dừng lúc bắt đầu chuẩn bị bữa tối và yêu cầu tên Latin trong Brief. Gemini 3.8 Flash (High) viết bản mới 4.220 字. Hai sub-agent rà và sửa tại chỗ ở cả bản đã nghe và bản mới. Xem `reviews/doan-001-sua-cau.md` | Tác giả nhận ra Writer bám nhiều mô-típ của anchor và DocTTS đọc vấp 拢齐 | nháp chờ nghe
+
+2026-11-14 | doan-001 | Chốt bản có Rian, Coldrock và tên Latin. | Duyệt: Tác giả

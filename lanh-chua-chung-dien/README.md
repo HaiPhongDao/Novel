@@ -10,12 +10,11 @@
 
 ## Việc kế
 
-1. Tác giả nghe [bản đọc đoạn 001](doc/lo-001.md). Writer đã chạy với brief có điểm dừng và tên Latin. Bản nghe đầu đã sửa câu nằm ở [`archive/doan-001-v2.md`](archive/doan-001-v2.md).
-2. Thẻ thiết lập tạm nằm ở [`handoff/canon-card.md`](handoff/canon-card.md).
-3. Viết đoạn 002 theo hướng Tác giả chốt sau khi nghe đoạn 001.
+1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
+2. Viết đoạn 002 nối ngay lúc bắc nồi ở Coldrock. Rian mở bảng xem và thử hiệu ứng của 【领袖威严】.
 
 ## Trạng thái
 
 | Đoạn | Prompt | Bản thảo | Review | Chốt |
 |---|---|---|---|---|
-| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
+| 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Đã nghe | ✅ Chốt 14/11 |
