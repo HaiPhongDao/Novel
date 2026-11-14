@@ -8,3 +8,4 @@
 2026-11-14 | 001 | Viết lại đoạn 001 (--lai, 4.068 字): Cố Tu thức tỉnh Chí Cao Từ Chuế Sư, thiết lập không gian thăng cấp chặt chẽ (lỗ khảm theo phẩm phôi x2, 2 từ điều hợp 1 bậc cao hơn, cấp 1-10 chỉ dùng tối đa bậc 3 lam) | Cổng máy XANH | Biên tập
 2026-11-14 | 002 | Viết đoạn 002 (5.022 字): Cố Tu ra phố đồ cũ gom 8 phôi rác hợp thành 2 từ điều bậc 3 lam, khảm kín 2 lỗ đoản kiếm, một mình vào phó bản Vi Phong Bình Nguyên chọn độ khó Ác Mộng | Cổng máy XANH | Biên tập
 2026-11-14 | 003 | Viết đoạn 003 (3.838 字): Cố Tu càn quét Vi Phong Bình Nguyên độ khó Ác Mộng, diệt Boss Bạo Phong Lang Vương trong 42 giây, phá kỷ lục thành phố đạt đánh giá SSS | Cổng máy XANH | Biên tập
+2026-11-14 | 004 | Viết đoạn 004 (3.832 字): Cố Tu mở rương kích hoạt Quy Tắc Huyền Thưởng · Cộng Chấn Đột Biến, nhận lệnh Tham Lam Bạo Thực, gom 16 phôi rác đúc 4 từ điều lam khảm vào Lang Vương Chi Nha kích hoạt cộng chấn | Cổng máy XANH | Biên tập

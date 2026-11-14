@@ -9,9 +9,9 @@
 
 ## Việc kế
 
-1. Chờ Tác giả nghe [Bản đọc lô 001–003](doc/lo-001-003.md) (12.928 字).
-2. Cố Tu (顾修) đạt LV.5, càn quét phó bản 【微风平原（噩梦难度）】 trong 42 giây, đạt đánh giá SSS phá sâu kỷ lục thành phố, nhận 2 trang bị xanh lục LV.5 và Rương Tiên Phong Ác Mộng. Chuẩn bị nghiên cứu khảm từ điều bậc cao lên 2 món đồ mới.
-3. Chờ Tác giả duyệt chốt lô hoặc ra lệnh chạy tiếp lô sau.
+1. Chờ Tác giả nghe [Bản đọc đoạn 004](doc/lo-004.md) (3.832 字).
+2. Cố Tu (顾修) mở rương kích hoạt cơ chế 【Quy Tắc Huyền Thưởng · Cộng Chấn Đột Biến】, nhận Lệnh Huyền Thưởng 【Tham Lam Bạo Thực】, gom 16 phôi rác chế tạo 4 từ điều Lam khảm đầy 4 lỗ của 【Lang Vương Chi Nha】 và bắt đầu quá trình cộng chấn đột biến.
+3. Soạn brief trần và chạy đoạn 005 theo quy trình.
 
 ## Trạng thái
 
@@ -20,3 +20,4 @@
 | 001 | [`briefs/doan-001.md`](briefs/doan-001.md) | [`chapters/doan-001.md`](chapters/doan-001.md) | Chờ Tác giả nghe | — |
 | 002 | [`briefs/doan-002.md`](briefs/doan-002.md) | [`chapters/doan-002.md`](chapters/doan-002.md) | Chờ Tác giả nghe | — |
 | 003 | [`briefs/doan-003.md`](briefs/doan-003.md) | [`chapters/doan-003.md`](chapters/doan-003.md) | Chờ Tác giả nghe | — |
+| 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |

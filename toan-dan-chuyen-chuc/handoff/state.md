@@ -1,24 +1,20 @@
-<!-- state-through: 003 -->
+<!-- state-through: 004 -->
 
 ## Nhân vật
-- **顾修 (Cố Tu):** Thăng liền từ LV.1 lên LV.5. Tăng 20 điểm thuộc tính tự do vào Nhanh nhẹn (敏捷), tốc độ chạy và thị lực động cực cao. Đạt thủ sát đơn nhân Vi Phong Bình Nguyên độ khó Ác Mộng, phá kỷ lục thành phố với 42 giây, đánh giá SSS.
-- **Triệu Thiên Thành (赵天成):** Đánh rơi rìu chiến xuống mu bàn chân vì quá kinh ngạc khi thấy thông báo kỷ lục.
-- **Vệ binh đội trưởng & đám đông Bắc thành môn:** Chuẩn bị sẵn cáng cứu thương thì chứng kiến bia đá nổ ánh sáng toàn thành; toàn trường kinh hãi chết lặng khi thấy Cố Tu áo quần nguyên vẹn bước ra.
+- **顾修 (Cố Tu):** LV.5, dùng khí trường 90 sức mạnh bức lui Triệu Thiên Thành tại cổng thành, thuê phòng tĩnh tu tại phân bộ Công hội chuyển chức giả để thao tác bóc tách và dung hợp từ điều.
+- **赵天成 (Triệu Thiên Thành):** Bị dập ngón chân, ghen tức chất vấn Cố Tu nhưng bị uy áp của Cố Tu dọa run sợ không dám động thủ.
 
-## Cấp độ & Thuộc tính
-- **Cấp độ:** LV.5.
-- **Thuộc tính:** 力量 90, 敏捷 30 (gốc 10 + 20 điểm cộng tự do), 体质 10, 精神 25.
-- **Vũ khí hiện tại:** 【残破的新手制式铁剑（至高重构）】 (Trắng, 2 lỗ khảm 2/2 đầy: Ma Hùng bậc 3 + Tuyệt Ảnh Phong Nhận bậc 3).
+## Cấp độ, Trang bị & Cơ chế mới
+- **Cấp độ:** LV.5 (xác nhận giới hạn: dưới cấp 10 chưa chuyển chức không thể trực tiếp dung luyện từ điều Tứ giai Tím; chỉ thao túng tối đa Tam giai Lam).
+- **Trang bị đang thao tác:** 【狼王之牙（短刃·绿）】 (LV.5, công vật lý +35, nhanh nhẹn +15, độ bền 100/100, 4/4 lỗ khảm).
+- **Cơ chế Thần cấp đã kích hoạt:** 【Quy Tắc Huyền Thưởng · Cộng Chấn Đột Biến (规则悬赏·共鸣突变)】 mở ra từ 【噩梦先驱者宝箱】.
+- **Lệnh Huyền Thưởng thứ nhất:** 【贪婪暴食 (Tham Lam Bạo Thực)】:
+  - Yêu cầu: Vũ khí lục $\ge 4$ lỗ, khảm đủ 4 từ điều Tam giai Lam: 【绝影锋刃】, 【狂暴魔熊】, 【噬血渴求】, 【灵魂汲取】.
+  - Hiệu quả thần tính: Giết quái tăng vĩnh viễn 1 công vật lý (trần 10.000 điểm); giết tinh anh/boss tăng 10/100 công và 1% toàn thuộc tính; đòn đánh thường kèm sát thương chuẩn khái niệm bỏ qua mọi hộ thuẫn/vô địch.
 
-## Tài chính & Chiến lợi phẩm mới
-- **Tiền mặt:** 1.410 kim tệ (110 còn lại + 800 rơi quái + 500 thưởng thành tựu thủ sát).
-- **Trang bị mới nhặt (chưa khảm):**
-  - 【狼王之牙】 (đoản nhận · lục, LV.5).
-  - 【暴风皮甲】 (khinh giáp · lục, LV.5).
-  - *(Trang bị xanh lục mở 2 lỗ x2 = 4 lỗ khảm trống sẵn sàng)*.
-- **Vật phẩm & Rương:**
-  - 【暴风魔核】 x2, 【风之结晶】 x5.
-  - Rương chuyên thuộc: 【噩梦先驱者宝箱】 x1.
+## Tài chính & Tồn kho
+- **Số dư:** 1.820 kim tệ (từ 1.410 + mở rương 1.000 = 2.410; trừ 50 tiền thuê phòng tĩnh tu; trừ 540 tiền mua 16 phôi rác qua ống dẫn = còn 1.820).
+- **Đã tiêu thụ:** 16 phôi rác bóc tách thành 16 từ điều bậc 1 -> hợp 8 từ điều bậc 2 -> hợp 4 từ điều bậc 3 Lam.
 
-## Điểm dừng đoạn 003
-- Cố Tu bước ra khỏi cổng truyền tống trong sự kinh hoàng chết lặng của toàn bộ học sinh, thám tử công hội và vệ binh tại Bắc thành môn; chuẩn bị mở rương và nghiên cứu khảm từ điều bậc cao lên 2 món đồ xanh lục vừa nhặt được.
+## Điểm dừng đoạn 004
+- Trong phòng tĩnh tu kín, Cố Tu ấn viên thủy tinh lam thứ 4 vào 【狼王之牙】, 4 từ điều tam giai bắt đầu kích phát cộng chấn đột biến theo lệnh huyền thưởng 【Tham Lam Bạo Thực】, đoản đao rung chuyển dữ dội chuẩn bị thức tỉnh thần tính từ điều.
