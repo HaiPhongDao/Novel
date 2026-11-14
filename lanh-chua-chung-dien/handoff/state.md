@@ -1,17 +1,13 @@
-<!-- state-through: 007 -->
+<!-- state-through: 008 -->
 
-## Cuối đoạn 007 — nháp
+## Cuối đoạn 008 — nháp
 
-- Thời điểm & Địa điểm: Hoàng hôn ngày thứ sáu tại sân chính Coldrock.
-- Thắng lợi tập kích Hắc Thạch Sơn Cốc:
-  + Rian cùng 4 lính đánh thuê tinh nhuệ phá tan sào huyệt, tiêu diệt toàn bộ 10 tên cướp giữ trại (kể cả phó đầu mục chột và tên cướp trẻ).
-  + Thu chiến lợi phẩm khổng lồ: 3.400 cân hắc mạch, 600 cân bột mì, 16 chảo sắt lớn, cuốc xẻng nông cụ, nhiều hòm da hồ ly đỏ và lông sói, rương vàng bạc, 4 lừa, 2 xe ngựa lớn.
-  + Giải cứu 34 phụ nữ và trẻ em nô lệ, cho ăn súp thịt ấm lòng và đưa về Coldrock an toàn.
-  + Thiêu rụi toàn bộ doanh trại cướp Hắc Khuyển thành tro bụi, cắm 10 đầu cướp ở cửa hẻm đá thị uy.
-- Hiện trạng Coldrock:
-  + Lãnh địa mở rộng quy mô dân số: 20 người cũ + 34 người mới = 54 người (chưa tính đoàn thương nhân Corbin).
-  + Lương thực dư thừa cực lớn: Hơn 4.000 cân ngũ cốc mới + hơn 2.500 cân thịt ngựa + lương cũ.
-  + Rian chuẩn bị thanh toán bán sỉ da lông thú cao cấp cho Corbin Goldscale lấy tiền vàng.
-- Từ điều:
-  + Đã trang bị: 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, và vừa nạp 【雷霆突袭（绿色）】 (tốc độ hành quân +20%, xung phong +30%, giảm 30% sĩ khí địch đợt đầu, tăng 25% phá giáp).
-  + Điều kiện từ điều tiếp theo: Dân số quy hóa đạt 50 người và khai khẩn 50 mẫu đất canh tác -> mở khóa 【春耕之利（绿色）】.
+- Thời điểm & Địa điểm: Ngày thứ bảy tại dải đất hoang phía nam Coldrock.
+- Giao thương & Tài chính:
+  + Thanh toán da thú với Corbin: 20 da cáo lửa, 60 da sói, 30 da bò rừng, quặng đồng trị giá 90 kim tệ.
+  + Rian thu 60 kim tệ tiền mặt, để lại 30 kim tệ làm tiền cọc buộc Corbin tháng sau chở về 2.000 cân giống đại mạch, 500 cân muối tinh, 2.000 cân sắt thỏi, 20 rìu và 50 lưỡi xẻng bọc sắt.
+- Quy hóa dân số & Khai khẩn 50 mẫu (hướng tới 【春耕之利】):
+  + 34 phụ nữ và trẻ em nô lệ được phân nhà ở, cấp áo ấm, ăn chung nồi súp thịt, chính thức quy hóa thành lãnh dân Coldrock (tổng dân số đạt 54 người, đủ điều kiện >50 người).
+  + Kỹ thuật khai hoang đột phá: Đào hào cách ly đốt hoang hun đất để lấy tro bón ruộng và rã đông đất đen; chế tạo 2 bộ cày nặng phá đất bằng trục sắt xe mỏ + cuốc người lùn; dùng 4 con lừa kéo cày lật đất đóng băng, 30 phụ nữ đi sau nhặt đá, chặt rễ và đập vụn đất trộn tro.
+- Cảnh dừng: Đất đen màu mỡ được lật tung nhanh chóng, 50 mẫu đất đang được khai phá thần tốc trước mùa xuân.
+- Từ điều: Đang trang bị 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, 【雷霆突袭（绿色）】. Đang làm điều kiện mở 【春耕之利（绿色）】 (đã đủ 50 dân quy hóa, đang hoàn thành 50 mẫu đất cày).

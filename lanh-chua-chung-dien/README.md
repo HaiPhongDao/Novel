@@ -11,8 +11,8 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [007](doc/lo-007.md). Rian hoàn thành tập kích sào huyệt Hắc Khuyển, giải cứu 34 dân nô lệ, thu vét 4.000 cân ngũ cốc, mở khóa 【雷霆突袭（绿色）】 và hướng tới mục tiêu mở 【春耕之利（绿色）】 qua canh tác 50 mẫu đất.
-3. Chờ Tác giả nghe lô 002–007 và cho ý kiến duyệt chốt hoặc điều chỉnh.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [008](doc/lo-008.md). Rian chốt hợp đồng 90 kim tệ với Corbin, quy hóa 34 dân mới (đạt 54 dân), sáng chế cày sắt trục mỏ kéo bằng lừa và đốt hoang hun đất để cày lật 50 mẫu đất đen.
+3. Tiếp tục sản xuất các đoạn tiếp theo trong lô.
 
 ## Trạng thái
 
@@ -25,3 +25,4 @@
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) | Chờ Tác giả nghe | — |
 | 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | [`chapters/doan-006.md`](chapters/doan-006.md) | Chờ Tác giả nghe | — |
 | 007 | [`briefs/doan-007.md`](briefs/doan-007.md) | [`chapters/doan-007.md`](chapters/doan-007.md) | Chờ Tác giả nghe | — |
+| 008 | [`briefs/doan-008.md`](briefs/doan-008.md) | [`chapters/doan-008.md`](chapters/doan-008.md) | Chờ Tác giả nghe | — |
