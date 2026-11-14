@@ -1,11 +1,9 @@
 # Ghi chú về giọng
 
-## 2026-11-14 · Thoại Lục Hoài An từ đoạn 003
+## 2026-11-14 · Thoại Lục Hoài An với Trường Sinh ở đầu đoạn 003
 
-Tác giả: “Đoạn 3 thoại của MC bị mắc vấn đề? Từ đó trở đi thoại MC không còn được tự nhiên như cũ?”
+Tác giả chỉ ra chỗ lệch là cuộc nói chuyện mua áo, mua thịt ở đầu 003. Giọng Hoài An trong cảnh quan trường phù hợp.
 
-Ở 003, ngoài cửa Lại bộ, “与陆某并无干系。朝廷有禁令，在籍官员不得经商谋利，诸位同僚慎言” dồn việc giải thích tiền sách, nhắc lệnh cấm và răn người nghe vào một lượt đáp. Trên công đường, ba lượt với Hàn Thành chuyển liên tục từ trích nguyên văn bài sách sang kể thẩm quyền các nha môn rồi phản vấn. Mạch câu nghe như biện hộ đã soạn sẵn. Câu “小声点，招贼呢” với Trường Sinh ngay sau đó vẫn có khẩu khí của đoạn 001–002. Đến 005, câu về tiền sách trước Ôn đại học sĩ lại chuyển thành lời giảng về bổn phận người đọc sách.
+Cuối 002, Trường Sinh hỏi mặc áo gì. Hoài An đáp “买身合身的蓝布襕衫，别挑贵的。” Hai người đang tính một việc cụ thể. Đầu 003, Trường Sinh đề nghị mua áo cũ để tiết kiệm. Hoài An giải thích phép ăn mặc khi vào Lại bộ, dặn giữ áo cũ để đi làm, rồi nhân câu hỏi mua thịt mà đùa sang chuyện lấy giọng tạ ơn trên công đường. Lời nói với người nhà vì thế mang cả áp lực của cảnh quan trường sắp đến. Các nhãn “听得一凛” và “自嘲地笑了一声” còn báo trước người nghe phải hiểu câu thoại theo giọng nào.
 
-Khi soát thoại, đọc liền câu hỏi và câu đáp. Giữ phép xưng hô theo quan hệ và nghi lễ, rồi xem Hoài An có đang đáp việc người kia vừa nói hay đang đọc lại hồ sơ, luật lệ, hoặc kết luận thay người kể. Lấy thoại với Phùng đại nương và cuộc mặc cả ở Thẩm Ký làm mốc đối chiếu cho những cảnh cần nói có chừng mực.
-
-SI giữ nguyên qua đoạn 003. State lần đầu đi vào prompt tại mốc này, cùng lúc truyện chuyển vào cảnh quan trường. Chưa có lượt viết đối chứng để quy sự đổi giọng cho state.
+Khi soát lời Hoài An với Trường Sinh, đọc nối từ câu hỏi ngay trước đó. Giữ lại chi tiết giúp hai người quyết việc đang làm, như số tiền chênh hoặc tối ăn món gì. Lấy những câu giữa hai người ở 001–002 làm mốc. Đã sửa tại chỗ cuộc trao đổi đầu 003. SI giữ nguyên và chưa có lượt đối chứng về ảnh hưởng của state.
