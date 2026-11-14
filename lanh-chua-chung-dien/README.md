@@ -11,8 +11,8 @@
 ## Việc kế
 
 1. Đoạn 001 đã được Tác giả duyệt. [Bản đọc đoạn 001](doc/lo-001.md).
-2. Tác giả nghe [bản đọc đoạn 002](doc/lo-002.md), [003](doc/lo-003.md), [004](doc/lo-004.md), [005](doc/lo-005.md), [006](doc/lo-006.md). Rian để Vargas thủ Coldrock, dẫn 4 lính đánh thuê tinh nhuệ và 10 ngựa tập kích sào huyệt Hắc Thạch Sơn Cốc của cướp Hắc Khuyển lúc hậu phương đang hoảng loạn.
-3. Tiếp tục sản xuất các đoạn kế tiếp theo lô.
+2. Tác giả nghe các bản đọc từ [002](doc/lo-002.md) đến [007](doc/lo-007.md). Rian hoàn thành tập kích sào huyệt Hắc Khuyển, giải cứu 34 dân nô lệ, thu vét 4.000 cân ngũ cốc, mở khóa 【雷霆突袭（绿色）】 và hướng tới mục tiêu mở 【春耕之利（绿色）】 qua canh tác 50 mẫu đất.
+3. Chờ Tác giả nghe lô 002–007 và cho ý kiến duyệt chốt hoặc điều chỉnh.
 
 ## Trạng thái
 
@@ -24,3 +24,4 @@
 | 004 | [`briefs/doan-004.md`](briefs/doan-004.md) | [`chapters/doan-004.md`](chapters/doan-004.md) | Chờ Tác giả nghe | — |
 | 005 | [`briefs/doan-005.md`](briefs/doan-005.md) | [`chapters/doan-005.md`](chapters/doan-005.md) | Chờ Tác giả nghe | — |
 | 006 | [`briefs/doan-006.md`](briefs/doan-006.md) | [`chapters/doan-006.md`](chapters/doan-006.md) | Chờ Tác giả nghe | — |
+| 007 | [`briefs/doan-007.md`](briefs/doan-007.md) | [`chapters/doan-007.md`](chapters/doan-007.md) | Chờ Tác giả nghe | — |

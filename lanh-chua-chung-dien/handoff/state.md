@@ -1,17 +1,17 @@
-<!-- state-through: 005 -->
+<!-- state-through: 007 -->
 
-## Cuối đoạn 005 — nháp
+## Cuối đoạn 007 — nháp
 
-- Thời điểm & Địa điểm: Chiều muộn ngày thứ năm, Rian đứng trên đỉnh tháp tên bát giác hai tầng mới xây xong ở phía đông cổng Coldrock.
-- Công sự Coldrock hoàn thành:
-  + Lỗ hổng tường ngoài 6m đã được xây kín bằng đá xanh và vữa vôi kiên cố cao 3.5m, dày 2m.
-  + Tháp tên đá - gỗ 2 tầng cao 6m nhìn bao quát toàn bộ con dốc trước cổng, mái bọc da ngựa chống cháy.
-  + Hai bên sườn dốc cắm 20 cọc gỗ bêu đầu kỵ tặc Hắc Khuyển.
-- Tài nguyên & Chiến lợi phẩm:
-  + Lương thực an toàn trên 3 tháng: >2.500 cân thịt ngựa, mỡ ngựa, mỡ lợn rừng, 1.000 cân bột hắc mạch và 200 cân bột mì trắng thu từ thương đội Corbin, cộng ngũ cốc cũ.
-  + Binh mã: Thêm 13 ngựa thảo nguyên khỏe mạnh (tổng 17 ngựa), 18 đao, 5 giáo, 6 cung, 80 tên, 2 giáp sắt, 20 áo da, 42 bạc, 210 đồng.
-  + Thương nhân Corbin Goldscale hoàn toàn thần phục, nộp thuế bảo hộ đầy đủ.
-  + Tình báo: Gorak bị giam dưới hầm khai sào huyệt Hắc Khuyển ở Hắc Thạch Sơn Cốc (cách 35 dặm tây nam, có 3.000 cân hắc mạch và kho binh khí sắt,主力 đang đi vắng). Tên cướp trẻ bị bẻ tay thả về báo tin.
+- Thời điểm & Địa điểm: Hoàng hôn ngày thứ sáu tại sân chính Coldrock.
+- Thắng lợi tập kích Hắc Thạch Sơn Cốc:
+  + Rian cùng 4 lính đánh thuê tinh nhuệ phá tan sào huyệt, tiêu diệt toàn bộ 10 tên cướp giữ trại (kể cả phó đầu mục chột và tên cướp trẻ).
+  + Thu chiến lợi phẩm khổng lồ: 3.400 cân hắc mạch, 600 cân bột mì, 16 chảo sắt lớn, cuốc xẻng nông cụ, nhiều hòm da hồ ly đỏ và lông sói, rương vàng bạc, 4 lừa, 2 xe ngựa lớn.
+  + Giải cứu 34 phụ nữ và trẻ em nô lệ, cho ăn súp thịt ấm lòng và đưa về Coldrock an toàn.
+  + Thiêu rụi toàn bộ doanh trại cướp Hắc Khuyển thành tro bụi, cắm 10 đầu cướp ở cửa hẻm đá thị uy.
+- Hiện trạng Coldrock:
+  + Lãnh địa mở rộng quy mô dân số: 20 người cũ + 34 người mới = 54 người (chưa tính đoàn thương nhân Corbin).
+  + Lương thực dư thừa cực lớn: Hơn 4.000 cân ngũ cốc mới + hơn 2.500 cân thịt ngựa + lương cũ.
+  + Rian chuẩn bị thanh toán bán sỉ da lông thú cao cấp cho Corbin Goldscale lấy tiền vàng.
 - Từ điều:
-  + Đã trang bị: 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, và 【坚固壁垒（绿色）】 (độ bền công sự +50%, kháng va chạm +100%, sĩ khí quân thủ khóa Cao ngất, giảm 15% sát thương vật lý, tăng 20% độ chính xác bắn xa).
-  + Điều kiện tiếp theo: Phá hủy hoặc thu phục một cứ điểm thế lực thù địch -> mở khóa 【雷霆突袭（绿色）】.
+  + Đã trang bị: 【坚韧之躯（白色）】, 【领袖威严（白色）】, 【荒野嗅觉（白色）】, 【坚固壁垒（绿色）】, và vừa nạp 【雷霆突袭（绿色）】 (tốc độ hành quân +20%, xung phong +30%, giảm 30% sĩ khí địch đợt đầu, tăng 25% phá giáp).
+  + Điều kiện từ điều tiếp theo: Dân số quy hóa đạt 50 người và khai khẩn 50 mẫu đất canh tác -> mở khóa 【春耕之利（绿色）】.
